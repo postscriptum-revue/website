@@ -1,3 +1,9 @@
-<?php snippet("head") ?>
+<?php snippet("base", slots: true) ?>
 
-<?php snippet("footer") ?>
+<?php slot("aside") ?>
+
+<?php endslot() ?>
+
+<?php slot("main") ?>
+
+<?php endslot() ?>

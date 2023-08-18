@@ -1,0 +1,15 @@
+/* Global styles */
+
+body {
+	font-family: "Mercure", "Times New Roman", Times, serif;
+	line-height: 1.4;
+	margin: 1rem 2rem;
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-template-rows: max-content auto;
+	gap: 2rem;
+}
+
+main {
+	grid-column: span 8;
+}

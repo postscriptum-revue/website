@@ -18,5 +18,15 @@
 </head>
 
 <body>
+	<aside class="site-aside">
+		<div class="site-aside__content-wrapper">
+			<?= $slots->aside() ?>
+		</div>
+	</aside>
 	<?php snippet("header") ?>
 	<main>
+		<?= $slots->main() ?>
+		<main>
+</body>
+
+</html>
