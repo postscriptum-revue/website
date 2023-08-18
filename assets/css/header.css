@@ -1,0 +1,30 @@
+.site-header {
+	grid-column: span 8;
+
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+	gap: 2rem;
+	align-items: start;
+
+	padding-bottom: 1rem;
+	border-bottom: 1px solid;
+}
+
+.site-header__logo {
+	grid-column: span 4;
+
+	text-align: center;
+	font-family: "Mercure Transcript";
+	font-size: 1.75rem;
+}
+
+.site-header__nav {
+	grid-column: span 4;
+	text-transform: lowercase;
+}
+
+.site-header__nav-list {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	column-gap: 2rem;
+}

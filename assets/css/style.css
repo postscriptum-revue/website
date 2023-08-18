@@ -2,4 +2,7 @@
 
 @import url("reset.css");
 @import url("variables.css");
-@import url("site.css");
+@import url("fonts.css");
+@import url("global.css");
+@import url("header.css");
+@import url("aside.css");
