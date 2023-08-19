@@ -1,5 +1,5 @@
 <header class="site-header">
-	<?php snippet("logo") ?>
+	<?php snippet("site/logo") ?>
 	<nav class="site-header__nav">
 		<!-- TODO: Generate w/ PHP -->
 		<ul class="site-header__nav-list">
