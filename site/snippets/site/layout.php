@@ -23,10 +23,10 @@
 			<?= $slots->aside() ?>
 		</div>
 	</aside>
-	<?php snippet("header") ?>
-	<main>
+	<?php snippet("site/header") ?>
+	<main class="<?= $page->template() ?>-main">
 		<?= $slots->main() ?>
-		<main>
+	</main>
 </body>
 
 </html>

@@ -10,6 +10,6 @@ $s_ss = random_int(0, 1) . random_int(0, 9);
 	<?php if ($page->template() == "home") : ?>
 		<span style="font-feature-settings: 'ss<?= $p_ss ?>';">P</span>OST<span style="font-feature-settings: 'ss<?= $s_ss ?>'">S</span>CRIPTUM
 	<?php else : ?>
-		PS
+		<span style="font-feature-settings: 'ss<?= $p_ss ?>';">P</span><span style="font-feature-settings: 'ss<?= $s_ss ?>'">S</span>
 	<?php endif ?>
 </a>
