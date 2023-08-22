@@ -24,3 +24,16 @@
 	overflow-y: scroll;
 	padding: 1rem 2rem 1rem 0;
 }
+
+.site-aside__title {
+	text-decoration: underline;
+	text-align: center;
+}
+
+.site-aside__title + * {
+	margin-top: 1rem;
+}
+
+.site-aside__section + .site-aside__section {
+	margin-top: 2rem;
+}

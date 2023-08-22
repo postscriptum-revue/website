@@ -1,23 +1,45 @@
-.issue-main {
-	display: grid;
-	grid-template-columns: repeat(8, 1fr);
-	gap: 2rem;
+.issue-credits {
+	grid-column: span 2;
+	font-size: var(--font-size-small);
+	position: sticky;
+	top: 2rem;
 }
 
-.issue-text {
-	grid-column: 1 / 7;
+.issue-credits__description + .issue-credits__term {
+	margin-top: 1rem;
+}
+
+.issue-toc {
+	text-align: center;
+}
+
+.issue-toc__item + .issue-toc__type-section-title {
+	margin-top: 2rem;
+}
+
+.issue-toc__item {
+	display: block;
+	margin-top: 1rem;
+}
+
+.issue-toc__item-authors {
+	font-size: 0.75rem;
 }
 
 .issue-header {
 	grid-column: 1 / -1;
 
 	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+	column-gap: 2rem;
 	grid-auto-rows: 1fr;
 	justify-items: center;
 	padding-top: 8rem;
 }
 
 .issue-header__cover {
+	grid-column: 1 / -1;
+
 	position: sticky;
 	top: 1rem;
 	z-index: -1;
@@ -41,17 +63,18 @@
 	z-index: -1;
 }
 
+.issue-header__card-wrapper {
+	grid-column: 2 / -2;
+
+	box-sizing: border-box;
+	margin-top: -8rem;
+}
+
 .issue-header__card {
 	text-align: center;
 	background-color: white;
 	padding: 2rem 4rem;
 	margin: 8rem 0;
-}
-
-.issue-header__card-wrapper {
-	max-width: 75%;
-	box-sizing: border-box;
-	margin-top: -8rem;
 }
 
 .issue-header__card-title {

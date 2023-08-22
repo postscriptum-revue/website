@@ -1,4 +1,4 @@
-<?php snippet("base", slots: true) ?>
+<?php snippet("site/layout", slots: true) ?>
 
 <?php slot("aside") ?>
 
