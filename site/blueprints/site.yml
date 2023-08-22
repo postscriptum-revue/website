@@ -1,5 +1,20 @@
 title: Site
 
-sections:
-  pages:
-    type: pages
+columns:
+    left:
+        width: 1/3
+        sections:
+            message:
+                type: info
+                label: Message
+                text: |
+                    Bienvenue dans le gestionnaire de contenu du site Web de la revue Post-Scriptum.
+
+                    Vous trouverez ci-contre les différentes sections du site Web. Veuillez SVP vous assurez d’ajouter les pages dans la section appropriée.
+    right:
+        width: 2/3
+        sections:
+            pages:
+                type: pages
+                label: Sections
+                status: listed

@@ -1,0 +1,35 @@
+.text-section {
+	grid-column: 1 / 7;
+}
+
+.text-section__hgroup {
+	text-align: center;
+	padding: 0 4rem;
+	margin-bottom: 4rem;
+}
+
+.text-section__hgroup-title {
+	font-size: 1.5rem;
+}
+
+.text-section__hgroup-subtitle {
+	margin-top: 1rem;
+	padding: 0 4rem;
+}
+
+.text-section p + p {
+	text-indent: 2rem;
+	/* margin-top: 1rem; */
+}
+
+.text-section__blockquote {
+	margin: 0 0 2rem 4rem;
+}
+
+.text-section__kblockquote-footer {
+	margin-top: 1rem;
+}
+
+.text-section blockquote footer::before {
+	content: "—";
+}

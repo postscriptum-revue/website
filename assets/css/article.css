@@ -1,0 +1,17 @@
+.article-hgroup__subtitle {
+	margin-top: 1rem;
+}
+
+.article-summary__title {
+	text-align: center;
+}
+
+.article-summary p {
+	font-size: var(--font-size-small);
+}
+
+.article-bibliography li {
+	font-size: var(--font-size-small);
+	text-indent: -2rem;
+	margin-left: 2rem;
+}

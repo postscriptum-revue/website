@@ -1,0 +1,37 @@
+title: Article
+
+columns:
+    left:
+        width: 2/3
+        fields:
+            subtitle:
+                type: text
+                label: Sous-titre
+            summary_fr:
+                type: writer
+                label: Résumé (fr)
+            summary_en:
+                type: writer
+                label: Résumé (en)
+            text:
+                type: blocks
+                label: Texte
+            bibliography:
+                type: list
+                label: Bibliographie
+    right:
+        width: 1/3
+        fields:
+            authors:
+                type: structure
+                label: Auteur·rice(s)
+                fields:
+                    name:
+                        type: text
+                        label: Nom
+                    affiliation:
+                        type: text
+                        label: Affiliation
+            keywords:
+                type: tags
+                label: Mots-clés

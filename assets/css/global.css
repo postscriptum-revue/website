@@ -1,8 +1,10 @@
-/* Global styles */
+:root {
+	font-size: 16px;
+}
 
 body {
 	font-family: "Mercure", "Times New Roman", Times, serif;
-	line-height: 1.3;
+	line-height: 1.4;
 	margin: 1rem 2rem;
 	display: grid;
 	grid-template-columns: repeat(12, 1fr);
@@ -12,4 +14,13 @@ body {
 
 main {
 	grid-column: span 8;
+
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+	align-items: start;
+	gap: 2rem;
+}
+
+img {
+	width: 100%;
 }

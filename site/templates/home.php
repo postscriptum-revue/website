@@ -1,4 +1,4 @@
-<?php snippet("base", slots: true) ?>
+<?php snippet("site/layout", slots: true) ?>
 
 <?php slot("aside") ?>
 
@@ -6,7 +6,7 @@
 
 <?php slot("main") ?>
 <section class="latest-section latest-issues">
-	<?php foreach (page("issues")->children() as $issue) : ?>
+	<?php foreach (page("parutions")->children() as $issue) : ?>
 		<a href="<?= $issue->url() ?>">
 			<article>
 				<div>

@@ -1,0 +1,19 @@
+title: Issues
+
+columns:
+    left:
+        width: 1/3
+        sections:
+            info:
+                type: info
+    right:
+        width: 2/3
+        sections:
+            issues:
+                type: pages
+                label: Parutions
+                layout: cards
+                template: issue
+                info: "Nº{{ page.num }} — {{ page.date.toDate('LLLL Y') }}"
+                image:
+                    cover: true
