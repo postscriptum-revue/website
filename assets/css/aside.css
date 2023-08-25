@@ -26,7 +26,7 @@
 }
 
 .site-aside__title {
-	text-decoration: underline;
+	text-transform: lowercase;
 	text-align: center;
 }
 

@@ -9,7 +9,7 @@
 }
 
 .text-section__hgroup-title {
-	font-size: 1.5rem;
+	font-size: var(--font-size-large);
 }
 
 .text-section__hgroup-subtitle {

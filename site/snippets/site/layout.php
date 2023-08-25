@@ -17,14 +17,14 @@
 	</title>
 </head>
 
-<body>
+<body <?php if ($page->template() == "issue") : ?> style="--issue-color: <?= $page->color() ?>" <?php endif ?>>
 	<aside class="site-aside">
 		<div class="site-aside__content-wrapper">
 			<?= $slots->aside() ?>
 		</div>
 	</aside>
 	<?php snippet("site/header") ?>
-	<main class="<?= $page->template() ?>-main">
+	<main>
 		<?= $slots->main() ?>
 	</main>
 </body>

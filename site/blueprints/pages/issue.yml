@@ -7,6 +7,12 @@ tabs:
             left:
                 width: 2/3
                 sections:
+                    subtitle:
+                        type: fields
+                        fields:
+                            subtitle:
+                                type: text
+                                label: Sous-titre
                     articles:
                         type: pages
                         info: "{{ page.authors.toStructure().first().name }}"
@@ -69,7 +75,7 @@ tabs:
                     intro_subtitle:
                         type: text
                         label: Sous-titre
-                    credit_intro:
+                    intro_authors:
                         type: list
                         label: Auteur·trice(s)
                         required: true
