@@ -24,6 +24,7 @@
 
 .issue-toc__item-authors {
 	font-size: 0.75rem;
+	color: var(--issue-color);
 }
 
 .issue-header {
@@ -75,15 +76,36 @@
 	background-color: white;
 	padding: 2rem 4rem;
 	margin: 8rem 0;
+	position: relative;
+}
+
+.issue-header__card::before {
+	content: "";
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+	bottom: 1rem;
+	left: 1rem;
+	border: 1px solid var(--issue-color);
+}
+
+.issue-header__card::after {
+	content: "";
+	position: absolute;
+	top: 0.75rem;
+	right: 0.75rem;
+	bottom: 0.75rem;
+	left: 0.75rem;
+	border: 2px solid var(--issue-color);
 }
 
 .issue-header__card-title {
 	margin-top: 1rem;
 	text-transform: uppercase;
-	letter-spacing: 0.1em;
-	font-size: 1.5rem;
+	letter-spacing: var(--letterspacing-uppercase);
+	font-size: var(--font-size-large);
 }
 
 .issue-header__card-subtitle {
-	margin-top: 1rem;
+	margin-top: 2rem;
 }
