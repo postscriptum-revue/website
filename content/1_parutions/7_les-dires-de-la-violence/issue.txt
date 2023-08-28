@@ -1,18 +1,16 @@
-Title: Les dires de la violence
+title: Les dires de la violence
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 7
+number: 7
 
 ----
 
-Intro-text:
-
-Quelle est la relation existant entre la violence et les symboles avec lesquels se construit la littérature en Amérique Latine ? La réponse à cette question peut nous permettre de décortiquer quelques enjeux qui sont à la base de la production sociale, culturelle et littéraire latino-américaines. Depuis l’avènement de la modernité en Occident, la violence a été considérée comme le principal ennemi de la civilisation, de l’humanisme, de la culture et de la société. Néanmoins, chaque acte fondateur – soit-il politique ou culturel, exécutif ou symbolique – implique des éléments violents, une rupture vis-à-vis l’ordre établi. Si l’on pense juste à quelques romans parmi les plus représentatifs de la littérature hispano-américaine, on peut s’apercevoir facilement comment la violence représentée fait face à l’ordre régnant. Soit-t-il social, religieux, économique, politique ou autre, la littérature est l’espace où se nouent les liens qui n’ont pas leur place dans le discours institutionnel. Malgré cette omniprésence et l’abondance de travaux sur la violence dans les études culturelles et les études littéraires, peu nombreux sont les travaux qui se sont penchés sur l’articulation de la violence comme force de transgression, de sédition et sur la façon dont la symbolisation de cette violence se construit et les conséquences qu’engendrent ces constructions narratives dans l’imaginaire social.
+intro_text: Quelle est la relation existant entre la violence et les symboles avec lesquels se construit la littérature en Amérique Latine ? La réponse à cette question peut nous permettre de décortiquer quelques enjeux qui sont à la base de la production sociale, culturelle et littéraire latino-américaines. Depuis l’avènement de la modernité en Occident, la violence a été considérée comme le principal ennemi de la civilisation, de l’humanisme, de la culture et de la société. Néanmoins, chaque acte fondateur – soit-il politique ou culturel, exécutif ou symbolique – implique des éléments violents, une rupture vis-à-vis l’ordre établi. Si l’on pense juste à quelques romans parmi les plus représentatifs de la littérature hispano-américaine, on peut s’apercevoir facilement comment la violence représentée fait face à l’ordre régnant. Soit-t-il social, religieux, économique, politique ou autre, la littérature est l’espace où se nouent les liens qui n’ont pas leur place dans le discours institutionnel. Malgré cette omniprésence et l’abondance de travaux sur la violence dans les études culturelles et les études littéraires, peu nombreux sont les travaux qui se sont penchés sur l’articulation de la violence comme force de transgression, de sédition et sur la façon dont la symbolisation de cette violence se construit et les conséquences qu’engendrent ces constructions narratives dans l’imaginaire social.
 
 Mais pourquoi la violence ? La violence est un instrument conceptuel très particulier ; d’abord elle n’est pas abstraite mais visible, représentable, quantifiable, personnalisable, subjectivable ; elle peut échapper à des conceptualisations binaires et elle a une grande historicité. Depuis le commencement de l’écriture, la violence constitue l’un des instruments les plus utilisés pour définir et fonder une culture et son environnement d’exclusion. De plus, la violence nous permet de mettre en relation la politique, l’État, la justice, la société, l’individu et la culture avec la littérature.
 
@@ -20,12 +18,15 @@ Les textes réunis dans ce numéro visent à examiner les enjeux qui tournent au
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2007-07-15 00:00:27
 
 ----
 
-Uuid: 2LXCuIFrvkTHwXC1
+references: 
+
+----
+

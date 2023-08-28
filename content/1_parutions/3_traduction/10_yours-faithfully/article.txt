@@ -1,4 +1,4 @@
-title: [03-10] Yours Faithfully
+title: Yours Faithfully
 
 ----
 
@@ -22,44 +22,44 @@ abstract_en: Although numerous different English translations of Goethe’s 1774
 
 ----
 
-text: <div class="crayon article-texte-86 texte surlignable clearfix">
+text: 
 
-<span class="spip_note_ref"> [1]</span>
-<h3 class="spip">Introduction</h3>
+ [1]
+<h3>Introduction</h3>
 <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers</i> (here-after referred to as <i>Werther)</i> is an epistolary novel published anonymously by the emerging writer Johann Wolfgang von Goethe in 1774. As one of the first psychological novels —dealing as it does with the protagonist’s innermost thoughts— it does not lend itself easily to representation on the stage. Briefly, young Werther is unable to see a solution to his unattainable love for Charlotte and, out of noble respect for their marriage, shoots himself with a pistol borrowed from her husband Albert. Notably, the novel caused a wave of suicides by its readers who were found with the opened book at hand, dressed in the yellow britches and blue frock-coat of Werther and a self-delivered bullet through their brains. As a result many European states banned it. The “cult of Werther” had been born. Stuart Atkins described how :
-<blockquote class="spip_poesie">
-<div>the cult of Werther was exploited by the trade : eau de Werther was sold, and Charlotte and Werther figures [were] as familiar and ubiquitous as Mickey Mouse or Donald Duck today-(1949 : 2).</div></blockquote>
+<blockquote>
+the cult of Werther was exploited by the trade : eau de Werther was sold, and Charlotte and Werther figures [were] as familiar and ubiquitous as Mickey Mouse or Donald Duck today-(1949 : 2).</blockquote>
 Michael Hulse, the 1989 translator of <i>Werther,</i> noted :
-<blockquote class="spip">At the Prater in Vienna there was a Werther fireworks display. In Fleet street in London, Mrs. Salmon’s Royal Historical Wax-Work showed “The much-admired Group of The Death of Werter, attended by Charlotte and her Family”. Werther songs were sung (13-14).</blockquote>
+<blockquote>At the Prater in Vienna there was a Werther fireworks display. In Fleet street in London, Mrs. Salmon’s Royal Historical Wax-Work showed “The much-admired Group of The Death of Werter, attended by Charlotte and her Family”. Werther songs were sung (13-14).</blockquote>
 Because it promoted the alleged sin of suicide as noble, <i>Werther</i> was prohibited on religious grounds throughout Europe. In England the Reverend Solomon Piggott decried :
-<blockquote class="spip_poesie">
-<div>the undeservedly admired <i>Sorrows</i> <i>of</i> <i>Werther,</i> a book which should be forbidden and proscribed, as having largely contributed to diffuse licentiousness, to encourage effeminacy, and to seduce the weak and the agitated to suicide. (1824 : 130-131).</div></blockquote>
-Sociologist David Phillips referred to this “fatal seduction” as “The Werther Effect” (1975:340). Despite the ongoing controversy about these so-called “copycat” or “imitation” suicides, numerous translations of the novel into English were published with the first being the Daniel Malthus 1779 version <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter ;</i> <i>a</i> <i>German</i> <i>Story</i> and the most recent being Hulse’s 1989 version <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werther.</i> As well as attempts at faithful translation of Goethe’s work there have been inventive —but unfaithful<span class="spip_note_ref"> [2]</span>— English-language stage adaptations. None portrayed the act of suicide in the very graphic manner in which Goethe wrote. Nor was the epistolary nature of the novel foregrounded in the adaptation. Thus, due to its proscribed theme of noble suicide, the epistolary form and psychological nature of <i>Werther,</i> it has never been faithfully translated/adapted for the stage. It is therefore within this framework that this paper endeavours to systematically address and overcome these obstacles.
-<h3 class="spip">The First Obstacle ; The Absence of a Definitive English Translation of <i>Werther</i></h3>
+<blockquote>
+the undeservedly admired <i>Sorrows</i> <i>of</i> <i>Werther,</i> a book which should be forbidden and proscribed, as having largely contributed to diffuse licentiousness, to encourage effeminacy, and to seduce the weak and the agitated to suicide. (1824 : 130-131).</blockquote>
+Sociologist David Phillips referred to this “fatal seduction” as “The Werther Effect” (1975:340). Despite the ongoing controversy about these so-called “copycat” or “imitation” suicides, numerous translations of the novel into English were published with the first being the Daniel Malthus 1779 version <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter ;</i> <i>a</i> <i>German</i> <i>Story</i> and the most recent being Hulse’s 1989 version <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werther.</i> As well as attempts at faithful translation of Goethe’s work there have been inventive —but unfaithful [2]— English-language stage adaptations. None portrayed the act of suicide in the very graphic manner in which Goethe wrote. Nor was the epistolary nature of the novel foregrounded in the adaptation. Thus, due to its proscribed theme of noble suicide, the epistolary form and psychological nature of <i>Werther,</i> it has never been faithfully translated/adapted for the stage. It is therefore within this framework that this paper endeavours to systematically address and overcome these obstacles.
+<h3>The First Obstacle ; The Absence of a Definitive English Translation of <i>Werther</i></h3>
 Arguing for the need for further translations of <i>Werther,</i> Harry Steinhauer noted :
-<blockquote class="spip">Homer or the authors of Genesis are relevant to us in the twentieth century in the interpretation of life which they present, even though their way of presenting truth is no longer our way. Nor is it Goethe’s. That is why it is necessary to retranslate Homer, the Bible and Goethe repeatedly. And the translator is faced with the task of providing a version for the reader of today in our idiom and yet remaining faithful to the spirit of the original (1970 : vii).</blockquote>
-Eighteenth century German presents considerable challenges to the English translator of literature aiming to be “faithful to the spirit of the original”. As a result, there have been at least thirteen translations of <i>Werther,</i> with considerable variations<span class="spip_note_ref"> [3]</span>. In the introduction to a reprint of the Malthus translation, Jonathan Wordsworth disagreed with Steinhauer’s argument :
-<blockquote class="spip">Malthus’s translation was praised by Goethe is 1783 [<i>sic</i>]. […][It] has a gravitas that is appropriate, and a sense of period that no modern version (however it might score in point of accuracy) can ever achieve (Wordsworth in Malthus 1991 : ii, vi).</blockquote>
+<blockquote>Homer or the authors of Genesis are relevant to us in the twentieth century in the interpretation of life which they present, even though their way of presenting truth is no longer our way. Nor is it Goethe’s. That is why it is necessary to retranslate Homer, the Bible and Goethe repeatedly. And the translator is faced with the task of providing a version for the reader of today in our idiom and yet remaining faithful to the spirit of the original (1970 : vii).</blockquote>
+Eighteenth century German presents considerable challenges to the English translator of literature aiming to be “faithful to the spirit of the original”. As a result, there have been at least thirteen translations of <i>Werther,</i> with considerable variations [3]. In the introduction to a reprint of the Malthus translation, Jonathan Wordsworth disagreed with Steinhauer’s argument :
+<blockquote>Malthus’s translation was praised by Goethe is 1783 [<i>sic</i>]. […][It] has a gravitas that is appropriate, and a sense of period that no modern version (however it might score in point of accuracy) can ever achieve (Wordsworth in Malthus 1991 : ii, vi).</blockquote>
 Indeed, Wordsworth’s argument is persuasive that the work of Malthus, reflecting as it does the heightened language of the day, is more faithful than the language of any modern translator. However, in assessing the faithfulness of any translation surely the first concern is the title. Without an epithet that indicates immediately the work of the original author the translator’s fidelity is likely to be instantly questioned by the reader. Malthus’s title <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter :</i> <i>a</i> <i>German</i> <i>Story,</i> therefore raises concerns. Apart from parochially implying that it is a uniquely German story, the protagonist’s name is changed. Although “Werther” is a common German name it would not be familiar to English-speaking audiences. Nor would the variants other translators have used such as “Verter” or “Werter”, which were probably chosen to impress upon the English reader the correct pronunciation (however, in my opinion, “Vairter” would have achieved this objective more effectively). The problem of this Teutonic moniker is further exacerbated by the lack of any contemporary English name that is phonetically similar. The name “Werther”, not co-incidentally, means “the worthy one” in German (coming from “Werte” meaning “worth” (Dahl 263)) but there exists no English Christian name with similar aetiology. Therefore, to deviate from the name “Werther” in translating the title of this novel as Malthus and others have done is unjustifiable if their aim was indeed a faithful translation. “Leiden” is also difficult to translate and has meant “sorrows” or “suffering” to various translators. Not all dictionaries include the word “sorrow” in their definition of “Leiden” and the <i>Random</i> <i>House</i> <i>German</i>–<i>English,</i> <i>English</i>–<i>German</i> <i>Dictionary</i> defines “Leiden” as “suffering, disease” (1989 : 142). I suspect the use of the word “sorrows” has not been interrogated since Malthus. Regardless of any polemic against the various palimpsests of Goethe’s novel, ultimately no authoritative translation of the title <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers</i> exists. Hence I decided to use the following sobriquet because it uses the correct spelling of the name “Werther” ; it combines the two most common translations of the word “Leiden” ; “sorrows” and “sufferings” (the alliteration is fortunate, being an appropriate “idiom’ for the reader of today) and because it indicates it is to be a stageplay and not a novel. Thus, the title of my work is <i>The</i> <i>Sorrows</i> <i>and</i> <i>Sufferings</i> <i>of</i> <i>Young</i> <i>Werther ;</i> <i>a</i> <i>Stageplay.</i>
 
-As indicated by the above discourse on the title alone, the challenge of translating perfectly and indisputably a foreign work such as <i>Werther</i> into English is insurmountable. A “word for word” translation will inevitably lose the subtle yet important literary devices of rhythm, metre, form, rhyme, alliteration, pun, onomatopoeia, colloquialism, etc. Hulse said in a Melbourne interview : “there’s nothing in the book that could point the way forward to a poet writing today” (Australian Broadcasting Commission). Thus, this author, perhaps like others before him, felt free to attempt another translation. To do so with confidence, however, was onerous, due to the distracting variety in translations by others<span class="spip_note_ref"> [4]</span>. As Sharon Sloan adduced :
-<blockquote class="spip">No word in one language is completely equivalent to a word in another, if one disregards those expressions that designate purely physical objects. It can even be argued that the more a translation strives toward fidelity, the more it ultimately deviates from the original, for in attempting to imitate refined nuances and avoid simple generalities it can, in fact, only provide new and different nuances (1992 : 55-56).</blockquote>
+As indicated by the above discourse on the title alone, the challenge of translating perfectly and indisputably a foreign work such as <i>Werther</i> into English is insurmountable. A “word for word” translation will inevitably lose the subtle yet important literary devices of rhythm, metre, form, rhyme, alliteration, pun, onomatopoeia, colloquialism, etc. Hulse said in a Melbourne interview : “there’s nothing in the book that could point the way forward to a poet writing today” (Australian Broadcasting Commission). Thus, this author, perhaps like others before him, felt free to attempt another translation. To do so with confidence, however, was onerous, due to the distracting variety in translations by others [4]. As Sharon Sloan adduced :
+<blockquote>No word in one language is completely equivalent to a word in another, if one disregards those expressions that designate purely physical objects. It can even be argued that the more a translation strives toward fidelity, the more it ultimately deviates from the original, for in attempting to imitate refined nuances and avoid simple generalities it can, in fact, only provide new and different nuances (1992 : 55-56).</blockquote>
 This author recognises the risk of creating “new nuances” in his attempt to write a faithful translation. Having said this, however, it must still be asked why some translators have chosen to excise parts of Goethe’s work, particularly the title considering this is the first example of the translator’s work the reader encounters. When Malthus called his translation <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter</i> he was apparently declaring the adjective “jungen” either irrelevant, unnecessary or inadvisable. Such an excision arguably takes the new work into a realm other than faithful translation as the new author has made a judgement on the original’s value, changed the meaning and therefore created augmented and unfaithful authorship. Perhaps recognising this was the editor of the Project Gutenberg E-text, Nathan H. Doyle, when in 2001 he changed the title of the 1917 translation by Thomas Carlyle and R. Dillon Boylan, <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werther,</i> by restoring the word “young”.
 
 Fortunately, the more versions of a translation there are, the more likely a diligent reader is to come to an accurate and thorough understanding of the original. Indeed, a prospective translator could be commended for studying other interpretations of a work before or concurrent to his/her own attempt. Goethe himself encouraged all translations. He described a three-tiered theory of translation where the first tier is desirable because :
-<blockquote class="spip_poesie">
-<div>prose totally cancels all peculiarities of any kind of poetic art, and since prose itself pulls poetic enthusiasm down to a common water-level, it does the greatest service in the beginning- (Goethe trans. by Lefevere 35).</div></blockquote>
+<blockquote>
+prose totally cancels all peculiarities of any kind of poetic art, and since prose itself pulls poetic enthusiasm down to a common water-level, it does the greatest service in the beginning- (Goethe trans. by Lefevere 35).</blockquote>
 This first level Goethe called “prosaic”. It acquaints the reader with the culture of the foreign country within the sensibilities of his or her own land. This approach to translation is best when the translator desires the reader to identify most easily with the world of the original author. Then, according to Goethe, comes the “parodisic” :
-<blockquote class="spip">In most cases men of wit feel called to this kind of trade […Just as the French adapt foreign words to their pronunciation, just so do they treat feelings, thoughts, even objects : for every foreign fruit they demand a counterfeit grown in their own soil (36).</blockquote>
+<blockquote>In most cases men of wit feel called to this kind of trade […Just as the French adapt foreign words to their pronunciation, just so do they treat feelings, thoughts, even objects : for every foreign fruit they demand a counterfeit grown in their own soil (36).</blockquote>
 The parodisic translation appropriates the foreign and forces it to fit with the familiar, frequently resulting in a humorous parody. The third kind Goethe called “interlineal” in which :
-<blockquote class="spip_poesie">
-<div>the aim is to make the original identical with the translation, so that one would not be valued instead of the other, but in the other’s stead […] the translator who attaches himself closely to his original more or less abandons the originality of his nation, and so a third comes into existence, and the taste of the multitude must first be shaped towards it (36).</div></blockquote>
+<blockquote>
+the aim is to make the original identical with the translation, so that one would not be valued instead of the other, but in the other’s stead […] the translator who attaches himself closely to his original more or less abandons the originality of his nation, and so a third comes into existence, and the taste of the multitude must first be shaped towards it (36).</blockquote>
 The uniqueness of his/her own tongue is abandoned in the translator’s interlineal attempt to completely identify with the original and considerable effort must be expended by the masses in comprehending the work. Goethe further suggested that a cycle be completed by the reader ; first the prosaic translation, then the parodisic, then the almost identical to the original interlineal, and then finally, if possible, back to the original. Of course, if the English reader’s language skills permit returning to the original one must question his/her need for a translation at all.
 
 With translation being such an inexact procedure one must also query the locus of the dividing line between translation and adaptation. Frequently, translation of a phrase, a sentence and even a single word is simply impossible and the newly created English version is at best an approximation of the original. The exact equal does not exist and instead an adaptation must be settled for. Michael Roloff admits that in his quest for aural authenticity —the sound of the German language— he had occasionally crossed what he considered to be the dividing line between translation and adaptation :
-<blockquote class="spip">In translating the invective at the end of <i>Offending</i> <i>the</i> <i>Audience,</i> I translated the principle according to which they are arranged —that is, I sought to create new acoustic patterns in English— rather than translate each epithet literally, which would only have resulted in completely discordant patterns. In nearly every other respect these are translations and not adaptations (1971 : 6).</blockquote>
+<blockquote>In translating the invective at the end of <i>Offending</i> <i>the</i> <i>Audience,</i> I translated the principle according to which they are arranged —that is, I sought to create new acoustic patterns in English— rather than translate each epithet literally, which would only have resulted in completely discordant patterns. In nearly every other respect these are translations and not adaptations (1971 : 6).</blockquote>
 After translation/adaptation the secondary work is only a representation of the first —it masquerades, sometimes convincingly sometimes decidedly unfaithfully. That there is no authoratitive translation of Goethe’s novel from German to English is the first obstacle to faithful translation/adaptation of <i>Werther</i> to the English language stage. As Goethe recommends, a prosaic translation should, in the first instance, be attempted.
-<h3 class="spip">The Second Obstacle ; Adapting the Epistolary, Psychological Novel to the Stage</h3>
+<h3>The Second Obstacle ; Adapting the Epistolary, Psychological Novel to the Stage</h3>
 Having translated the novel from German into prosaic English the next obstacle to be overcome was the question of depicting on stage Werther’s lengthy psychological, epistolary musings. It is useful at this point to refer to a model proposed by cinema academic Geoffrey Wagner called “The three modes of adaptation” (1975 : 223) ; a model for analysis and description of screen adaptations of novels to cinema which can also be extrapolated to stageplay adaptations of novels. Wagner described three modes of adaptation :
 
 i) Transposition. This type of adaptation is the most faithful rendition of the original in cinematic (or theatrical) form possible. The adapters simply view the end result as an illustration of the book. Such an approach is exemplified by films that have an opening shot of the original book being opened by a reader, lingering on the title-page, before the page is turned to reveal an illustration which ‘comes to life’ as the action of the movie commences.
@@ -67,83 +67,83 @@ i) Transposition. This type of adaptation is the most faithful rendition of the 
 ii) Commentary. “This is where an original is taken and either purposely or inadvertently altered in some respect. It could also be called a re-emphasis or re-structure.” (226). Locations, chronological periods and even endings may be changed and the adapter manages to create something quite different, yet nevertheless similar to the original.
 
 iii) Analogy. Wagner considers this type of adaptation to be almost unrecognisably based on the original :
-<blockquote class="spip">For our purposes here analogy must represent a fairly considerable departure for the sake of making another work of art […][it] cannot be indicted as a violation of a literary original since the director has not attempted (or has only minimally attempted) to reproduce the original. (227).</blockquote>
+<blockquote>For our purposes here analogy must represent a fairly considerable departure for the sake of making another work of art […][it] cannot be indicted as a violation of a literary original since the director has not attempted (or has only minimally attempted) to reproduce the original. (227).</blockquote>
 In the analogous adaptation the new work of art is substantially different and may not even be initially understood by an audience as having resulted from its source. An analogous adaptation should certainly not beggar confusion with more faithful adaptations by retaining the original work’s title.
 
 Thus, according to Wagner’s model, my version of <i>Werther</i> must endeavour to be a transpositional adaptation if it is to overcome this second obstacle to achieving faithfulness to the original.
-<h3 class="spip">The Third Obstacle ; Writing a Stageplay with the Principal Theme of Noble Suicide</h3>
+<h3>The Third Obstacle ; Writing a Stageplay with the Principal Theme of Noble Suicide</h3>
 It must be acknowledged that a certain reticence by many theatre producers to depict on stage the allegedly sinful act of suicide has prevented faithfulness in stage versions of <i>Werther.</i> The few attempts at stage adaptation of the novel in the late eighteenth century :
-<blockquote class="spip_poesie">
-<div>were melodramas in which the Werther elements are subordinated to theatrical devices guaranteed to maintain an audience’s attention. Failure to understand the full meaning of their inspiration, unwillingness to displease their audience, and their own mediocrity explain the failure of these writers. The untheatrical nature of the Werther theme only meant that they had failed before they started (Atkins 1949 : 202).</div></blockquote>
+<blockquote>
+were melodramas in which the Werther elements are subordinated to theatrical devices guaranteed to maintain an audience’s attention. Failure to understand the full meaning of their inspiration, unwillingness to displease their audience, and their own mediocrity explain the failure of these writers. The untheatrical nature of the Werther theme only meant that they had failed before they started (Atkins 1949 : 202).</blockquote>
 Those that have attempted to overcome the “untheatrical nature of the Werther theme” did not endeavour to produce transpositional works. In the late eighteenth century there were three attempts which could at best be categorised as commentary adaptations since they shied away from depicting the suicide on stage. By doing so they effectively negated any glorification of suicide Goethe’s novel was noted for. These plays included :
 
 i) A French version by either Johann Rudolf Sinner or Vinzenz Bernhard Tscharner in 1775 entitled <i>Les</i> <i>Malheurs</i> <i>de</i> <i>l</i>’<i>amour.</i> Unlike Goethe, the disputed author was : “sufficiently conservative not to introduce the suicide as a stage effect” (171). Little has been written about this work, but apparently, the disputed playwright consciously and cautiously avoided the charge of condoning suicide.
 
 ii) A Commedia dell’arte by the Italian playwright Simeone Sografi in 1794 entitled <i>Verter,</i> in which :
-<blockquote class="spip_poesie">
-<div>Verter’s servant Ambrogio accordingly has some of the best lines : he can grumble that is master’s moans keep him from enjoying a good night’s sleep, or make an observation such as, ‘He couldn’t have delivered that speech better if he had known it by heart !’ (173).</div></blockquote>
+<blockquote>
+Verter’s servant Ambrogio accordingly has some of the best lines : he can grumble that is master’s moans keep him from enjoying a good night’s sleep, or make an observation such as, ‘He couldn’t have delivered that speech better if he had known it by heart !’ (173).</blockquote>
 In the tradition of comedy, Verter’s attempts at suicide are frustrated, and the play ends without the revelation, let alone depiction, of his suicide.
 
 iii) An English tragedy in blank verse by Frederick Reynolds in 1796 entitled <i>Werter ;</i> <i>a</i> <i>tragedy</i> <i>in</i> <i>three</i> <i>acts.</i> While Werter does kill himself on stage, Reynolds has him do it with poison and not Albert’s pistol. In another deviation from Goethe’s most principal leitmotif Reynolds warned the audience, conventionally, of the sin of suicide :
-<blockquote class="spip_poesie">
-<div>For if one crime is blacker than the rest,</div>
-<div>Below more punished, more abhorr’d above ;</div>
-<div>‘Tis self destruction ; ‘tis by heaven decreed.</div>
-<div>So high an outrage ! That at mercy’s throne,</div>
-<div>The suicide alone is shut from Grace (189).</div></blockquote>
-Then in 1892 came another commentary work when Jules Massenet premiered his hugely popular opera <i>Werther</i> in Vienna<span class="spip_note_ref"> [5]</span>. Yet Massenet too changed the ending. Werther’s suicide occurs off stage between Acts III and IV and Charlotte, upon finding him dying, cradles him in her arms and declares her love for him. This is a satisfyingly happy but inventive denouement compared to that of Goethe’s novel.
+<blockquote>
+For if one crime is blacker than the rest,
+Below more punished, more abhorr’d above ;
+‘Tis self destruction ; ‘tis by heaven decreed.
+So high an outrage ! That at mercy’s throne,
+The suicide alone is shut from Grace (189).</blockquote>
+Then in 1892 came another commentary work when Jules Massenet premiered his hugely popular opera <i>Werther</i> in Vienna [5]. Yet Massenet too changed the ending. Werther’s suicide occurs off stage between Acts III and IV and Charlotte, upon finding him dying, cradles him in her arms and declares her love for him. This is a satisfyingly happy but inventive denouement compared to that of Goethe’s novel.
 
 Nowadays, this third obstacle to faithfulness is less imposing than in previous times as the Christian proscription against themes of nobility in suicide wanes. Our increasingly secular society is less inclined to view this topic as taboo and the suicide may be depicted on stage as graphically as Goethe described it.
-<h3 class="spip">Solutions to the Identified Obstacles as Suggested by Some Relevant Works</h3>
-In 1976 there was an attempt at a relatively faithful transpositional screen adaptation of the novel with Egon Gunther’s <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers.</i> Yet to be translated into English, or even published with sub-titles, it remains possibly the closest to a transpositional adaptation on either stage or screen due to its use of the original —albeit condensed— language of Goethe, the costumes and scenery of eighteenth century Germany and most importantly an unflinching depiction of Werther’s suicide. A solution to the epistolary form of the novel was the decision to frame the story with an introductory scene showing Wilhelm, Werther’s epistolary confidante, collecting his letters together and bemoaning “Warum haben wir Deutschen eigentlich keine Nationalliteratur ? Die Engländer haben eine, Franzosen, die Italieener… ?”<span class="spip_note_ref"> [6]</span>. From the start Wilhelm establishes the need to publish the letters as an epistolary novel and thus confirm what is now regarded as a classic of German literature. He continues : “Aber wehe, ihr lässt die Leute nicht auch weinen. Die haben Werther so schnell verscharrt nach seinem Tode… Warum hat er sich erschossen ?”<span class="spip_note_ref"> [7]</span>. Thus the audience is told from the very beginning that Werther’s story is epistolary, that Werther has killed himself, and that while regrettable it is not an act deserving of over hasty burial and forgetting, i.e. it was noble. Then the action of the film begins with the depiction of the events written about in the early letters of Werther. Of course, the theme of glorious suicide is only gradually developed in the novel —unless one interprets the opening line, “Wie froh bin ich, dass ich weg bin !”<span class="spip_note_ref"> [8]</span>, to be the voice of the already dead Werther. Then, at the end of the movie, like a bookend, there is a flash forward, after Werther’s suicide, to Wilhelm’s present and, inventively, the viewer is shown another overly emotional Werther-like figure —a “spinner”<span class="spip_note_ref"> [9]</span>— tending preciously to a pot-plant in his workplace, like Werther, unbending to the exigencies of the pedantic offices of the ruling classes. Again this is an example of augmented authorship by the screenwriters, but the film nevertheless remains faithful to the principal thematic ideology of <i>Werther.</i>
+<h3>Solutions to the Identified Obstacles as Suggested by Some Relevant Works</h3>
+In 1976 there was an attempt at a relatively faithful transpositional screen adaptation of the novel with Egon Gunther’s <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers.</i> Yet to be translated into English, or even published with sub-titles, it remains possibly the closest to a transpositional adaptation on either stage or screen due to its use of the original —albeit condensed— language of Goethe, the costumes and scenery of eighteenth century Germany and most importantly an unflinching depiction of Werther’s suicide. A solution to the epistolary form of the novel was the decision to frame the story with an introductory scene showing Wilhelm, Werther’s epistolary confidante, collecting his letters together and bemoaning “Warum haben wir Deutschen eigentlich keine Nationalliteratur ? Die Engländer haben eine, Franzosen, die Italieener… ?” [6]. From the start Wilhelm establishes the need to publish the letters as an epistolary novel and thus confirm what is now regarded as a classic of German literature. He continues : “Aber wehe, ihr lässt die Leute nicht auch weinen. Die haben Werther so schnell verscharrt nach seinem Tode… Warum hat er sich erschossen ?” [7]. Thus the audience is told from the very beginning that Werther’s story is epistolary, that Werther has killed himself, and that while regrettable it is not an act deserving of over hasty burial and forgetting, i.e. it was noble. Then the action of the film begins with the depiction of the events written about in the early letters of Werther. Of course, the theme of glorious suicide is only gradually developed in the novel —unless one interprets the opening line, “Wie froh bin ich, dass ich weg bin !” [8], to be the voice of the already dead Werther. Then, at the end of the movie, like a bookend, there is a flash forward, after Werther’s suicide, to Wilhelm’s present and, inventively, the viewer is shown another overly emotional Werther-like figure —a “spinner” [9]— tending preciously to a pot-plant in his workplace, like Werther, unbending to the exigencies of the pedantic offices of the ruling classes. Again this is an example of augmented authorship by the screenwriters, but the film nevertheless remains faithful to the principal thematic ideology of <i>Werther.</i>
 
-Examining case studies of other foreign language epistolary novels that have been successfully and faithfully translated/adapted into English stageplays or films is useful. One such comparable work is <i>The</i> <i>Diary</i> <i>of</i> <i>a</i> <i>Young</i> <i>Girl</i> by Anne Frank in 1947<span class="spip_note_ref"> [10]</span><i>.</i> The book is a collection of diary entries by a young Jewish girl during the Holocaust of WWII. It was later adapted into a Tony award winning stageplay in 1956 titled <i>The</i> <i>diary</i> <i>of</i> <i>Anne</i> <i>Frank</i><span class="spip_note_ref"> [11]</span>. Then in 1959 it was adapted into a screenplay and produced as a movie of the same name<span class="spip_note_ref"> [12]</span>. This case of adaptation from firstly, a foreign language novel to English novel ; secondly from epistolary form to stageplay and thirdly ; from stageplay to screenplay, represents an appropriate point of comparison for this exercise in <i>Werther</i>’<i>s</i> translation/adaptation. The productions show Anne actually writing at times but both the stageplay and the screenplay solve the quandary of converting the entries in a diary into a diapason of flowing narrative by, like Gunther’s film, depicting visually most of the events the diarist writes of. The creators of both the stageplay and the screenplay chose not to depict these events, however, from the diarist’s first point of view —through Anne Frank’s eyes, so to speak— but rather as if from the perspective of an omnipresent, invisible third party. Another very important theatrical and cinematic device used in both the stageplay and the screenplay is the “flashback” —a return to an earlier time. Anne’s father returns to the factory after the war and discovers the diary. He picks it up and starts reading. In the theatre the lights go down and a scene change to that of the wartime attic occurs. It is conventional in movies for a flashback to often be accompanied by an optical effect such as loss of focus, wave-like distortion or a swirling rotation of the picture. Audiences have been conditioned to understand that this cinematic device indicates the momentary psychology of the narrator. The third device used to overcome the challenges of adapting an epistolary document to a visual medium is the voice-over, which both this stageplay and screenplay employ. It has become a very popular device in cinema, and is often used to express the character’s unspoken thoughts whereas an onstage soliloquy would have been the only device fulfilling this purpose in older theatre productions. In the example of the movie of <i>The</i> <i>Diary</i> <i>of</i> <i>Anne</i> <i>Frank,</i> the voice-over is of the diarist reading aloud her written entries. In the stageplay, Anne’s father’s initial reading of the diary out loud is overlapped by the actress reading the same entry concurrent to the flashback/scene change. In the movie the voice-over of Anne also has a slight echo to it, further emphasising the flashback nature and also suggesting the ultimate fate of Anne. The final words of the movie are a repeat of an earlier voice-over ; “In spite of everything I still believe that people are good at heart”, sounding more than a little like a voice echoing from the grave.
+Examining case studies of other foreign language epistolary novels that have been successfully and faithfully translated/adapted into English stageplays or films is useful. One such comparable work is <i>The</i> <i>Diary</i> <i>of</i> <i>a</i> <i>Young</i> <i>Girl</i> by Anne Frank in 1947 [10]<i>.</i> The book is a collection of diary entries by a young Jewish girl during the Holocaust of WWII. It was later adapted into a Tony award winning stageplay in 1956 titled <i>The</i> <i>diary</i> <i>of</i> <i>Anne</i> <i>Frank</i> [11]. Then in 1959 it was adapted into a screenplay and produced as a movie of the same name [12]. This case of adaptation from firstly, a foreign language novel to English novel ; secondly from epistolary form to stageplay and thirdly ; from stageplay to screenplay, represents an appropriate point of comparison for this exercise in <i>Werther</i>’<i>s</i> translation/adaptation. The productions show Anne actually writing at times but both the stageplay and the screenplay solve the quandary of converting the entries in a diary into a diapason of flowing narrative by, like Gunther’s film, depicting visually most of the events the diarist writes of. The creators of both the stageplay and the screenplay chose not to depict these events, however, from the diarist’s first point of view —through Anne Frank’s eyes, so to speak— but rather as if from the perspective of an omnipresent, invisible third party. Another very important theatrical and cinematic device used in both the stageplay and the screenplay is the “flashback” —a return to an earlier time. Anne’s father returns to the factory after the war and discovers the diary. He picks it up and starts reading. In the theatre the lights go down and a scene change to that of the wartime attic occurs. It is conventional in movies for a flashback to often be accompanied by an optical effect such as loss of focus, wave-like distortion or a swirling rotation of the picture. Audiences have been conditioned to understand that this cinematic device indicates the momentary psychology of the narrator. The third device used to overcome the challenges of adapting an epistolary document to a visual medium is the voice-over, which both this stageplay and screenplay employ. It has become a very popular device in cinema, and is often used to express the character’s unspoken thoughts whereas an onstage soliloquy would have been the only device fulfilling this purpose in older theatre productions. In the example of the movie of <i>The</i> <i>Diary</i> <i>of</i> <i>Anne</i> <i>Frank,</i> the voice-over is of the diarist reading aloud her written entries. In the stageplay, Anne’s father’s initial reading of the diary out loud is overlapped by the actress reading the same entry concurrent to the flashback/scene change. In the movie the voice-over of Anne also has a slight echo to it, further emphasising the flashback nature and also suggesting the ultimate fate of Anne. The final words of the movie are a repeat of an earlier voice-over ; “In spite of everything I still believe that people are good at heart”, sounding more than a little like a voice echoing from the grave.
 
 Hence, solutions to the problem of the epistolary nature of <i>Werther,</i> as suggested by the Gunther film and the Anne Frank productions, include an opening scene showing a projection onto a rear cyclorama of video shot over the shoulder of Werther writing letters with a goosefeather quill. An amplified sound system reproducing the sound of the quill scratching words onto parchment can further emphasise the epistolary essence of Goethe’s novel as well as providing a voice-over of Werther reading his letters and their dates. This projected image can be made to flashback and merge into a montage of images of the subjects Werther talks of, such as the natural German countryside which he so loved. This video projection onto the rear cyclorama can be used to illustrate other scenes of the novel which would be difficult to reproduce on the stage, for example, the group of young children playing or the elegant couples dancing at the ball.
 
-The combination of these above devices can help the stage translation/adaptation achieve a more faithful transposition of the novel but before utilising the devices from the movie <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers</i> and the stageplay and movie <i>The</i> <i>Diary</i> <i>of</i> <i>Anne</i> <i>Frank,</i> I had to decide which parts of Goethe’s novel were to be represented on stage and which were to be excluded. Whereas a literary translation cannot make excisions of the original without allegations of augmented authorship, judicious edits must inevitably be made in stage adaptations of most novels for the sake of practicality ; some scenes are impossible, or at least prohibitively costly to reproduce in a theatre. Likewise efforts must be made to not burden the audience with boring long tracts of speech —a good stageplay is more than recitations, it must involve action<span class="spip_note_ref"> [13]</span>. Unfortunately, as has been deliberated apropos the title, when excising parts of the original the adapter automatically jeopardises his work with a possible betrayal of the author’s intent. A perfectly faithful translation/adaptation would spare nothing, but the pragmatics of stagecraft and audience taste must be deferred to if the new creation is to “work”.
+The combination of these above devices can help the stage translation/adaptation achieve a more faithful transposition of the novel but before utilising the devices from the movie <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers</i> and the stageplay and movie <i>The</i> <i>Diary</i> <i>of</i> <i>Anne</i> <i>Frank,</i> I had to decide which parts of Goethe’s novel were to be represented on stage and which were to be excluded. Whereas a literary translation cannot make excisions of the original without allegations of augmented authorship, judicious edits must inevitably be made in stage adaptations of most novels for the sake of practicality ; some scenes are impossible, or at least prohibitively costly to reproduce in a theatre. Likewise efforts must be made to not burden the audience with boring long tracts of speech —a good stageplay is more than recitations, it must involve action [13]. Unfortunately, as has been deliberated apropos the title, when excising parts of the original the adapter automatically jeopardises his work with a possible betrayal of the author’s intent. A perfectly faithful translation/adaptation would spare nothing, but the pragmatics of stagecraft and audience taste must be deferred to if the new creation is to “work”.
 
 Fortunately, Werther describes many significant events and actions apart from his psychological musings and his letters include quotes of his and other’s dialogue vital to the plot. A good starting point then was to make a compilation of all the actual dialogue in the novel. Thus the passage discussed in Note 3 can be converted to playscript as follows :
-<blockquote class="spip_poesie">
-<div>“WERTHER</div>
-<div>May I assist you, pure lady ?</div>
-<div>SERVANT GIRL</div>
-<div><i>(Blushing)</i></div>
-<div>Oh, no, Sir !</div>
-<div>WERTHER</div>
-<div>Come, come ! Let’s not make a ceremony of it !”</div></blockquote>
+<blockquote>
+“WERTHER
+May I assist you, pure lady ?
+SERVANT GIRL
+<i>(Blushing)</i>
+Oh, no, Sir !
+WERTHER
+Come, come ! Let’s not make a ceremony of it !”</blockquote>
 Some dialogue is not presented as actual quotes but rather referred to in the past tense<i>.</i> Such references were easily converted to present tense playscript, “Charlotte thanked me” simply became :
-<blockquote class="spip_poesie">
-<div>“CHARLOTTE</div>
-<div>Thank you, Werther.”</div></blockquote>
-Other decisions need to be made regarding certain German references with limited contemporary English familiarity. For example, at the ball after the storm has passed, Werther and Charlotte are watching the sky through the window and she exclaims “Klopstock !”<i>.</i> Werther kisses her hand and looks into her eyes with admiration. Klopstock was a pre-eminent poet of the “Sturm und Strang”<span class="spip_note_ref"> [14]</span> period but is little known to contemporary English-speaking audiences. The poignancy of this moment between Werther and Charlotte would surely be destroyed if the single word exchanged between them was followed by an explanation of Klopstock’s identity. That one word can summarise their shared appreciation for the poetry and beauty of nature indicates, to Werther at least, that they are similar souls. Fortunately for the proposed stageplay an opportunity was presented earlier when, on the way to the ball, Goethe omits the name of a book Charlotte had been reading but did not enjoy. Werther asks for its title and Goethe has her reply blanked out. Goethe’s footnote explains his desire to remove any cause for complaint from, presumably, the lawyers representing the publishers of the un-named book, as he also justifies his blanks used for certain character’s names. For my purposes these blanks provide a valuable chance to strengthen the narrative. Thus Charlotte replies to the question about the book’s title :
-<blockquote class="spip_poesie">
-<div>“CHARLOTTE</div>
-<div>Well, it was not the wonderfully epic poetry of Klopstock !”</div></blockquote>
+<blockquote>
+“CHARLOTTE
+Thank you, Werther.”</blockquote>
+Other decisions need to be made regarding certain German references with limited contemporary English familiarity. For example, at the ball after the storm has passed, Werther and Charlotte are watching the sky through the window and she exclaims “Klopstock !”<i>.</i> Werther kisses her hand and looks into her eyes with admiration. Klopstock was a pre-eminent poet of the “Sturm und Strang” [14] period but is little known to contemporary English-speaking audiences. The poignancy of this moment between Werther and Charlotte would surely be destroyed if the single word exchanged between them was followed by an explanation of Klopstock’s identity. That one word can summarise their shared appreciation for the poetry and beauty of nature indicates, to Werther at least, that they are similar souls. Fortunately for the proposed stageplay an opportunity was presented earlier when, on the way to the ball, Goethe omits the name of a book Charlotte had been reading but did not enjoy. Werther asks for its title and Goethe has her reply blanked out. Goethe’s footnote explains his desire to remove any cause for complaint from, presumably, the lawyers representing the publishers of the un-named book, as he also justifies his blanks used for certain character’s names. For my purposes these blanks provide a valuable chance to strengthen the narrative. Thus Charlotte replies to the question about the book’s title :
+<blockquote>
+“CHARLOTTE
+Well, it was not the wonderfully epic poetry of Klopstock !”</blockquote>
 Werther is suitably impressed at her affinity for Klopstock and at this, their first meeting, the seeds for his excessive love are sown. In my opinion, the addition of this explanatory dialogue does not constitute an augmentation of the original authorship as the meaning has not been changed, rather it has been clarified.
 
 Finally, after all the suitable quoted dialogue had been collected, those sections of the letters that lend themselves towards presentation as voice-overs monologues by Werther and which explain his situation and motivations can be included. The dates of the letters must be included thus further foregrounding the epistolary nature of the novel. Taking a cue from the <i>Diary</i> <i>of</i> <i>Anne</i> <i>Frank</i> film and stageplay, the opening line of my conception <i>The</i> <i>Sorrows</i> <i>and</i> <i>Suffering</i> <i>of</i> <i>Young</i> <i>Werther ;</i> <i>a</i> <i>Stageplay ;</i> “How happy I am to be gone”, can be delivered as an echoing spectre’s voice-over in the dark. A video projection can then appear on a rear cyclorama showing vision over the shoulder of Werther writing with a goose-quill as his voice-over narrates from the letters. A flash-back in time can be indicated by a swirling distortion of the vision which gradually takes the shape of a long montage of the German countryside that Werther is describing. The video can then fade to black as the characters on stage begin to speak the dialogue quoted in the novel. At the end of the play, to emphasise Werther’s suffering in suicide and to faithfully portray Goethe’s controversial depiction of Werther as a metaphorical Jesus Christ-like figure (Werther deliberately shoots himself at midnight and dies at noon on Christmas Day), the video can then show a clockface decked with mistletoe —reading twelve— prior to the moment Werther pulls the trigger. At this point in this author’s stageplay the lights can be extinguished as a blood-red explosion of light erupts onto the cyclorama. The video of the clockface can gradually return with the hands shown rotating through to twelve again before fading to black.
 
 By using such devices from other relevant adaptations I have attempted to overcome the third major obstacles to faithful adaptation : the novel’s psychological and epistolary nature in my work <i>The</i> <i>Sorrows</i> <i>and</i> <i>Sufferings</i> <i>of</i> <i>Young</i> <i>Werther ;</i> <i>a</i> <i>Stageplay.</i>
-<h3 class="spip">Conclusion</h3>
+<h3>Conclusion</h3>
 The obstacles to faithful translation/adaptation of <i>Werther</i> to the English language stage are the proscribed theme of noble suicide, the differences in the various English translations, and the epistolary, psychological nature of the novel. By systematically addressing these obstacles an arguably faithful translation/adaptation can be created. This new work must, according to Goethe’s model, be a prosaic translation, and, according to Wagner’s model it should also be a transpositional adaptation. The productions of <i>The</i> <i>Diary</i> <i>of</i> <i>Anne</i> <i>Frank</i> and the East German movie <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers</i> suggested solutions to the problem of the “untheatricality” of this type of epistolary work. However, the unpopularity of the leitmotif of glorious, noble suicide cannot be sidestepped as previous stage adapters have done. I believe to do so would be a serious augmentation of Goethe’s original intention. Indeed, care must be taken lest a production of <i>The</i> <i>Sorrows</i> <i>and</i> <i>Sufferings</i> <i>of</i> <i>Young</i> <i>Werther ;</i> <i>a</i> <i>Stageplay</i> be so faithful to the original Goethe novel that a wave of Werther Effect suicides by contemporary English-speaking audience members actually results ! Were that to happen, however, it may well be the ultimate proof of this prosaic, transpositional and unaugmented translation/adaptation’s faithfulness to the original novel.
 
-</div>
+
 
 ----
 
 references: 
-- <div class="crayon article-texte-86 texte surlignable clearfix">
+- 
 <ul>
  	<li> ATKINS, Staurt P., <i>The</i> <i>Testament</i> <i>of</i> <i>Werther</i> <i>in</i> <i>Poetry</i> <i>and</i> <i>Drama,</i> Cambridge, Harvard University Press, 1949.</li>
- 	<li>AUSTRALIAN BROADCASTING COMMISSION, <i>Transcript</i> <i>of</i> <i>interview</i> <i>with</i> <i>Michael</i> <i>Hulse.</i> 22 January 2000, Radio National, <span class="ressource spip_out">&lt;http://www.abc.net.au/rn/arts/ling/...&gt;</span> 10 September</li>
+ 	<li>AUSTRALIAN BROADCASTING COMMISSION, <i>Transcript</i> <i>of</i> <i>interview</i> <i>with</i> <i>Michael</i> <i>Hulse.</i> 22 January 2000, Radio National, &lt;http://www.abc.net.au/rn/arts/ling/...&gt; 10 September</li>
  	<li>2002.</li>
  	<li>BOGAN, I. L., trans. of Johann Wolfgang von GOETHE (1774), <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werther,</i> Washington, Washington University Press, 1971.</li>
  	<li>CARLYLE, Thomas, trans. of Johann Wolfgang von GOETHE (1774), <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werther,</i> London, circa 1850.</li>
  	<li>CARLYLE, Thomas and R. Dillon BOYLAN, trans. of Johann Wolfgang von GOETHE (1774), <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werther,</i> New York, P. F. Collier &amp; Son, Harvard Classics Shelf of Fiction, 1917.</li>
- 	<li>___, trans. of Johann Wolfgang von GOETHE (1774), <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werther,</i> Project Gutenberg, Feb. 2001, <span class="ressource spip_out">&lt;http://ibiblio.org/gutenberg/etext0...&gt;</span> 10 September 2002.</li>
+ 	<li>___, trans. of Johann Wolfgang von GOETHE (1774), <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werther,</i> Project Gutenberg, Feb. 2001, &lt;http://ibiblio.org/gutenberg/etext0...&gt; 10 September 2002.</li>
  	<li>DAHL, Anne (ed.), <i>The</i> <i>Random</i> <i>House</i> <i>German</i>-<i>English,</i> <i>English</i>-<i>German</i> <i>Dictionary,</i> New York, Random House Books, 1998.</li>
- 	<li>GOETHE, Johann Wolfgang von (1774), <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werther,</i> Project Gutenberg, Nov. 2000, <span class="ressource spip_out">&lt;http://ibiblio.org/pub/docs/books/g...&gt;</span> 10 September 2002.</li>
+ 	<li>GOETHE, Johann Wolfgang von (1774), <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werther,</i> Project Gutenberg, Nov. 2000, &lt;http://ibiblio.org/pub/docs/books/g...&gt; 10 September 2002.</li>
  	<li>GOODRICH, Frances and Albert HACKETT, <i>The</i> <i>Diary</i> <i>of</i> <i>Anne</i> <i>Frank,</i> Florida, Harcourt Brace and Co., 1956.</li>
  	<li>GROSSMAN, H. and W. LYMAN, trans. of Jules MASSENET (1892), <i>Werther :</i> <i>an</i> <i>opera</i> <i>in</i> <i>four</i> <i>acts,</i> New York, International Music, 1961.</li>
  	<li>GUNTHER, Egon (dir.), <i>Die</i> <i>Leiden</i> <i>des</i> <i>jungen</i> <i>Werthers,</i> East Germany, Icestorm Entertainment, 1976.</li>
@@ -167,31 +167,31 @@ references:
  	<li>UNKNOWN, trans of Johann Wolfgang von GOETHE (1774), <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter/from</i> <i>the</i> <i>German</i> <i>of</i> <i>Goethe.</i> London, Cassell, 1892.</li>
  	<li>WAGNER, Geoffrey, <i>The</i> <i>Novel</i> <i>and</i> <i>the</i> <i>Cinema,</i> New Jersey, Associated University Presses Inc., 1975.</li>
 </ul>
-</div>
-<div class="notes">
+
+
 
 <hr />
 
-<div id="nb1">
 
-<span class="spip_note_ref">[1] </span>The researcher/author’s resulting conception <i>The</i> <i>Sorrows</i> <i>and</i> <i>Sufferings</i> <i>of</i> <i>Young</i> <i>Werther ;</i> <i>a</i> <i>Stageplay</i> was submitted as the creative work component of the researcher/author’s thesis at the University of Melbourne in September 2003.
 
-</div>
-<div id="nb2">
+[1] The researcher/author’s resulting conception <i>The</i> <i>Sorrows</i> <i>and</i> <i>Sufferings</i> <i>of</i> <i>Young</i> <i>Werther ;</i> <i>a</i> <i>Stageplay</i> was submitted as the creative work component of the researcher/author’s thesis at the University of Melbourne in September 2003.
 
-<span class="spip_note_ref">[2] </span>Of course, the very definition of “faithfulness” is problematic, with academic Patrice Pavis calling the notion “a cliché of critical discourse-” (Pavis 26). I understand the term to mean that the main themes and ideas of the original are preserved in the translation/adaptation, or as Steinhauer said : “[It provides] a version for the reader of today in our idiom and yet remain[s] faithful to the spirit of the original” (1774 : vii).
 
-</div>
-<div id="nb3">
 
-<span class="spip_note_ref">[3] </span>Even the titles differ ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter :</i> <i>a</i> <i>German</i> <i>Story</i> (Malthus 1779) ; <i>Werter</i> <i>and</i> <i>Charlotte ;</i> <i>a</i> <i>German</i> <i>Story</i> (Parsons 1786) ; <i>Sorrows</i> <i>of</i> <i>Werther</i> (Carlyle circa 1850 ; Carlyle and Boylan 1917) ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter/from</i> <i>the</i> <i>German</i> <i>of</i> <i>Goethe</i> (Unknown 1892) ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werther</i> (Lange 1949 ; Hutter 1962 ; Bogan 1971 ; Hulse 1989 ; Carlyle and Boylan 2001) ; <i>The</i> <i>Sufferings</i> <i>of</i> <i>Young</i> <i>Werther</i> (Morgan 1957 ; Steinhauer 1970) ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werter</i> (Ticknor 1966) and the 1991 reprint of Malthus’s translation <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter/Johann</i> <i>Wolfgang</i> <i>von</i> <i>Goethe.</i>
 
-</div>
-<div id="nb4">
+[2] Of course, the very definition of “faithfulness” is problematic, with academic Patrice Pavis calling the notion “a cliché of critical discourse-” (Pavis 26). I understand the term to mean that the main themes and ideas of the original are preserved in the translation/adaptation, or as Steinhauer said : “[It provides] a version for the reader of today in our idiom and yet remain[s] faithful to the spirit of the original” (1774 : vii).
 
-<span class="spip_note_ref">[4] </span>For example, the very first colloquy in the novel is between Werther and a young servant girl fetching water at the fountain. The German is : “ ‘Soll ich Ihr helfen, Jungfer ?’ sagte ich. —sie ward rot ueber und ueber— ‘O nein, Herr !’ sagte sie —‘Ohne Umstaende’— ” (Goethe 8). This has been variously translated as :
 
-1) “ ‘Shall I help you, my dear ?’ I said. ‘Oh ! No ! Sir !’, she answered, colouring. ‘Make no ceremony,’ said I…” (Malthus 9).<br class="autobr" /> 2) “ ‘Shall I help you, pretty lass’ said I. She blushed deeply. ‘Oh, sir !’ she exclaimed. ‘No ceremony !’ I replied” (Carlyle and Boylan 2001, un-numbered web page).<br class="autobr" /> 3) “ ‘May I assist the young maid ?’ said I. —She blushed from top to toe.— ‘Oh no, sir !’ said she. —‘No standing on ceremony,’ said I” (Hulse 28-29).<br class="autobr" /> 4) “ ‘Shall I help you, Miss ?’ I said —Her face turned a deep red.— ‘Oh no, sir,’ she said. —‘It’s a trifle.’ ” (Steinhauer 4), and,<br class="autobr" /> 5) “ ‘Shall I help you ?’ I said. She blushed deeply. ‘Oh, no, sir.’ She exclaimed. ‘Come now ! No ceremony !’ I replied” (Lange 8).
+
+
+[3] Even the titles differ ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter :</i> <i>a</i> <i>German</i> <i>Story</i> (Malthus 1779) ; <i>Werter</i> <i>and</i> <i>Charlotte ;</i> <i>a</i> <i>German</i> <i>Story</i> (Parsons 1786) ; <i>Sorrows</i> <i>of</i> <i>Werther</i> (Carlyle circa 1850 ; Carlyle and Boylan 1917) ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter/from</i> <i>the</i> <i>German</i> <i>of</i> <i>Goethe</i> (Unknown 1892) ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werther</i> (Lange 1949 ; Hutter 1962 ; Bogan 1971 ; Hulse 1989 ; Carlyle and Boylan 2001) ; <i>The</i> <i>Sufferings</i> <i>of</i> <i>Young</i> <i>Werther</i> (Morgan 1957 ; Steinhauer 1970) ; <i>The</i> <i>Sorrows</i> <i>of</i> <i>Young</i> <i>Werter</i> (Ticknor 1966) and the 1991 reprint of Malthus’s translation <i>The</i> <i>Sorrows</i> <i>of</i> <i>Werter/Johann</i> <i>Wolfgang</i> <i>von</i> <i>Goethe.</i>
+
+
+
+
+[4] For example, the very first colloquy in the novel is between Werther and a young servant girl fetching water at the fountain. The German is : “ ‘Soll ich Ihr helfen, Jungfer ?’ sagte ich. —sie ward rot ueber und ueber— ‘O nein, Herr !’ sagte sie —‘Ohne Umstaende’— ” (Goethe 8). This has been variously translated as :
+
+1) “ ‘Shall I help you, my dear ?’ I said. ‘Oh ! No ! Sir !’, she answered, colouring. ‘Make no ceremony,’ said I…” (Malthus 9).<br /> 2) “ ‘Shall I help you, pretty lass’ said I. She blushed deeply. ‘Oh, sir !’ she exclaimed. ‘No ceremony !’ I replied” (Carlyle and Boylan 2001, un-numbered web page).<br /> 3) “ ‘May I assist the young maid ?’ said I. —She blushed from top to toe.— ‘Oh no, sir !’ said she. —‘No standing on ceremony,’ said I” (Hulse 28-29).<br /> 4) “ ‘Shall I help you, Miss ?’ I said —Her face turned a deep red.— ‘Oh no, sir,’ she said. —‘It’s a trifle.’ ” (Steinhauer 4), and,<br /> 5) “ ‘Shall I help you ?’ I said. She blushed deeply. ‘Oh, no, sir.’ She exclaimed. ‘Come now ! No ceremony !’ I replied” (Lange 8).
 
 Apparently, even the least poetic of Goethe’s words can be interpreted differently. Goethe’s word “Jungfer” has been translated as “my dear” by Malthus, “pretty lass” by Carlyle and Boylan, “young maid” by Hulse and “Miss” by Steinhauer, yet the term is avoided entirely by Lange ! Indeed, Lange’s caution is understandable when one reads the <i>Random</i> <i>House</i> definition of ‘jungfer’ ; “Maid, spinster, virgin.” (Dahl 121). Malthus interpreted the word “ Jungfer” as a greeting of affection, Carlyle and Boylan saw its meaning of “prettiness”, Hulse stressed his reading of “youth” and Steinhauser understood it to be “marital status” while neither of them, Lange not withstanding, share my reading of “sexual purity or virginity”, as influenced by the <i>Random</i> <i>House</i> elucidation. It is not unlikely that the Werther values chastity and in the idyllic, unspoiled surroundings of the fountain would recoil from a sight incongruous with that environment. Rather, he rushes to help this “Jungfer”, who blushes like a virgin at his efforts. However, it would also be unlikely that Werther would be so gauche as to cry “Shall I help you, virgin ?” Thus my translated reading of “pure lady” is arrived at by consideration of the previous attempts at translation, the <i>Random</i> <i>House</i> dictionary’s definition, and my own preference, and I translated the above passage as follows :
 
@@ -199,58 +199,58 @@ Apparently, even the least poetic of Goethe’s words can be interpreted differe
 
 Whilst there are many variations in translation of even this short passage, it must be readily conceded neither Malthus, Carlyle and Boylan, Hulse, Dahl, Lange, Steinhauer nor I have the definitive translation !
 
-</div>
-<div id="nb5">
 
-<span class="spip_note_ref">[5] </span>Translated by H. Grossman and W. Lyman in 1961.
 
-</div>
-<div id="nb6">
 
-<span class="spip_note_ref">[6] </span>I translated this as “Why have we Germans no national literature ? The English have one, the French, the Italian…”
+[5] Translated by H. Grossman and W. Lyman in 1961.
 
-</div>
-<div id="nb7">
 
-<span class="spip_note_ref">[7] </span>I translated this as “The people have to cry over his death but he was far too quickly buried… Why did he kill himself ?”
 
-</div>
-<div id="nb8">
 
-<span class="spip_note_ref">[8] </span>I translated this as “How happy I am, that I am gone !”
+[6] I translated this as “Why have we Germans no national literature ? The English have one, the French, the Italian…”
 
-</div>
-<div id="nb9">
 
-<span class="spip_note_ref">[9] </span>I translated this as “crack-pot”.
 
-</div>
-<div id="nb10">
 
-<span class="spip_note_ref">[10] </span>Translated into English by B. M. Mooyaart and reprinted in 1995. First published posthumously and edited by Anne Frank’s father, then translated from the Dutch in 1952.
+[7] I translated this as “The people have to cry over his death but he was far too quickly buried… Why did he kill himself ?”
 
-</div>
-<div id="nb11">
 
-<span class="spip_note_ref">[11] </span>Produced by Frances Goodrich and Albert Hackett.
 
-</div>
-<div id="nb12">
 
-<span class="spip_note_ref">[12] </span>Produced and directed by George Stevens.
+[8] I translated this as “How happy I am, that I am gone !”
 
-</div>
-<div id="nb13">
 
-<span class="spip_note_ref">[13] </span>For this reason the scene involving the lengthy discussion between Werther and Albert about the ethics of suicide had to be condensed as was the prolix declamation by Werther of his own extended translation of Ossian.
 
-</div>
-<div id="nb14">
 
-<span class="spip_note_ref">[14] </span>“Sturm and Strang” is generally translated as “Storm and stress” ; a period which was characterised by a violent emotional reaction against the intellectualism of the “Aufklärung” (“Enlightenment”) period. Cool reason, self-control and good taste were overthrown in favour of emotion, individuality and freedom. This was the beginning of the age of Romanticism in Germany.
+[9] I translated this as “crack-pot”.
 
-</div>
-</div>
+
+
+
+[10] Translated into English by B. M. Mooyaart and reprinted in 1995. First published posthumously and edited by Anne Frank’s father, then translated from the Dutch in 1952.
+
+
+
+
+[11] Produced by Frances Goodrich and Albert Hackett.
+
+
+
+
+[12] Produced and directed by George Stevens.
+
+
+
+
+[13] For this reason the scene involving the lengthy discussion between Werther and Albert about the ethics of suicide had to be condensed as was the prolix declamation by Werther of his own extended translation of Ossian.
+
+
+
+
+[14] “Sturm and Strang” is generally translated as “Storm and stress” ; a period which was characterised by a violent emotional reaction against the intellectualism of the “Aufklärung” (“Enlightenment”) period. Cool reason, self-control and good taste were overthrown in favour of emotion, individuality and freedom. This was the beginning of the age of Romanticism in Germany.
+
+
+
 
 ----
 

@@ -1,4 +1,4 @@
-title: [29-04] Beauté et Laideur des avant-gardes
+title: Beauté et Laideur des avant-gardes
 
 ----
 
@@ -24,7 +24,7 @@ abstract_en: In this article, I aim at analyzing the art of the <i>avant-garde</
 
 text: En 1855, Baudelaire ouvre la voie aux esthétiques modernes en déclarant : « <i>Le beau est toujours bizarre.</i> […] Je dis qu’il contient toujours un peu de bizarrerie, de bizarrerie naïve, non voulue, inconsciente, et que c’est cette bizarrerie qui le fait être particulièrement le Beau » (1998 : 77). Ces réflexions sur la nature du Beau admettent de la variabilité dans une catégorie esthétique auparavant plus ou moins stable et close. Ce genre de catégories est souvent analysé en dualité : à chaque contemplation d’un tableau, à chaque écoute d’une pièce musicale, à chaque lecture d’un poème ou d’un roman, nous sommes tentés de chercher un équilibre, un rapport qu’engagent le Beau et le Laid dans une œuvre d’art. La question que je voudrais soulever dans cet article concerne la présence de cette bizarrerie que décrit Baudelaire, et l’instinct qui nous fait considérer une œuvre comme belle ou laide; ou, plutôt, l’absence d’équilibre propre au Beau traditionnel qui perturbait les critiques et le public du début du XXème siècle. Si l’on considère la bizarrerie baudelairienne comme la présence d’un élément dérangeant la perception d’une œuvre, comme un composant troublant et ne laissant pas indifférent, il serait possible d’inscrire l’esthétique des premières avant-gardes dans la continuité de cet énoncé. Dans mon article, je voudrais soulever le rapport particulier qu’engagent les deux catégories esthétiques : pendant les années 1900-1910, nous observons leur croisement, écart, échange d’éléments. Parfois il est difficile de dire s’il s’agit d’une mutation du Beau ou de son passage, son effacement et sa transformation en Laid. Je tenterai de développer l’idée selon laquelle, au début des avant-gardes, l’artiste a entrepris une tâche gigantesque : celle de redéfinir le concept de beauté via les réalités de la modernité que l’entourait. En enfermant toute <i>bizarrerie </i>moderne dans son œuvre, il cherche à doter le Beau du caractère extrêmement subjectif afin d’affirmer sa volonté créatrice, de représenter ce qu’il trouve Beau lui-même. Par exemple, il cherche de l’inspiration dans la vie urbaine, la science contemporaine ou même la glorification de la guerre. Mais, face à la Première Guerre mondiale, cette modernité est devenue incontrôlable par une simple volonté artistique. Ainsi l’artiste se retrouve-t-il piégé dans l’incapacité d’affirmer son Beau face aux événements historiques et les réalités de sa modernité. La laideur commence à dominer dans l’œuvre artistique : il ne s’agit pas de sa revalorisation, mais de son invasion.
 
-&nbsp;
+
 <h3>Beau traditionnel contre volonté artistique</h3>
 Si l’on considère le Beau en diachronie, c’est-à-dire dans sa continuité, en prenant en compte la tradition qui précède l’art des avant-gardes, on ne pourra pas appliquer cette catégorie à leur création, puisque souvent cette dernière n’a aucun trait d’harmonie, de symétrie, de mesure. Dans leur modernité, les artistes cherchent consciemment ce qu’il y a de plus neuf, plus dérangeant, plus palpitant. Les avant-gardes abandonnent la nature et se tournent vers la vie urbaine. Par conséquent, on ne trouvera de paysages pastoraux ni dans la peinture, ni dans la poésie. Les futuristes italiens suppriment le nu comme genre pictural, en considérant que la femme, en tant que le seul sujet digne d’être glorifié, doit être méprisée. Le même sort subissent le <i>clair de lune</i> et l’amour. La conception du Beau comme représentation de l’idée absolue, proche de Dieu, est également abandonnée, les artistes ne tenant aucun discours théosophique et revendiquant souvent leur athéisme. Les avant-gardes cherchent d’autres sources d’inspiration, mais leurs trouvailles ne peuvent pas répondre aux demandes de l’esthétique traditionnelle. Par conséquent, leur Beau, tant recherché à l’aube de l’avant-garde, ne s’inscrit pas dans ces limites, puisqu’il est construit à partir d’éléments qui n’existaient pas auparavant. En janvier 1914, Duilio Remondino<a href="#_ftnref1" name="_ftn1">[1]</a> écrit son article « La futurisme ne peut pas être nationaliste » où il affirme :
 <blockquote>Notre tâche consiste à élargir les concepts du beau, à démystifier, insulter, vomir toute convention visant à tenir les cerveaux en esclavage : notre tâche consiste à couper les liens des coteries affairistes, qui cherchent à perpétuer le crétinisme au milieu des miasmes de l’enseignement didactique ; notre tâche consiste à démolir l’aujourd’hui, tout comme l’aujourd’hui a démoli hier, pour aller vers un demain toujours différent, car nous savons que seul le demain continu contient la source vierge de la vie autant que la seule, l’unique et toujours nouvelle réalité. (Lista, 2015 : 696)</blockquote>
@@ -34,7 +34,7 @@ Il faut appliquer un nouveau jugement esthétique non seulement en fonction de t
 
 Ce procédé ne s’est réalisé qu’à partir du moment où la volonté de l’artiste avait commencé à dominer celle du public. Désormais le peintre dicte ce qui doit être vu dans son tableau, le poète explique ce qu’il a voulu dire par son poème, le musicien attribue des significations à sa mélodie. L’affirmation de la volonté absolue de l’artiste lui a permis de quitter les limites de la tradition et de définir ce qui est beau dans son œuvre. Cela concerne non seulement la catégorie esthétique en question, mais aussi le rapport qu’établit l’art avec la vie en général : l’extension des sujets représentés provoque l’extension des genres. Par exemple, les avant-gardes ne veulent pas seulement se détourner de l’imitation de la nature, mais désirent même la surmonter : ce qui a donné le suprématisme de Malevitch comme résultat excluant le motif figuratif. L’art moderne réclame la possession de connaissances extra-artistiques, se trouvant en dehors d’une œuvre perçue : c’est la raison pour laquelle les artistes « manifestent », expliquent. Et cette particularité peut devenir à la fois une vertu et un défaut (de cet art).
 
-&nbsp;
+
 <h4><i>Types du Beau à l’aube du XXe siècle</i></h4>
 En 1907 Alexandre Blok affirme : « Le poète est absolument libre dans sa création et personne n’a le droit d’exiger qu’il aime les prairies vertes plus que les maisons publiques » (Guérasimov, Gontcharova, 2017 : 319). Leurs origines souvent provinciales et non nobles ont permis aux artistes d’apporter du désordre dans le monde raffiné de l’art du XIXème siècle. Ils optent pour deux « types » de beauté : la beauté intérieure (la position du <i>Der Blaue Reiter</i><a href="#_ftnref2" name="_ftn2">[2]</a>) ou la beauté « abaissée » (le cas des Russes et des Italiens). Le premier est difficile à analyser, puisque même dans le cas de l’expression-intuition ratée<a href="#_ftnref3" name="_ftn3">[3]</a>, il serait impossible de vérifier l’adéquation d’une œuvre à son idée originale : la confrontation du goût du public et celui de l’artiste serait inévitable. Le deuxième type est explicitement manifesté dans certains poèmes – c’est une revendication volontaire qui ne choisit pas de paroles soutenues :
 <blockquote>Eh bien, le destin est juste une moquerie amère
@@ -77,7 +77,7 @@ Le caractère de la poésie de Bourluk est peut-être le plus militant. Ce chef 
 
 L’importance de la volonté de l’auteur a déclenché l’explosion d’un autre futurisme : égofuturisme. Moins connu que ses confrères cubofuturistes, il reste néanmoins le premier à apparaître en Russie. Son « égo » est absolument démesuré : Igor Sévérianine, son premier chef, se proclame le monde, le tout, l’univers. Ce mouvement a offert à la modernité russe l’image du poète-prophète, du poète démiurge qui crée le monde en pratiquant son art. Ils divulguent que rien n’est beau dans la nature, puisqu’il n’y a rien de véritablement libre. Seules les choses libres et naturellement inadmissibles sont belles. Ignatiev, deuxième chef de ce mouvement, donne une image assez pittoresque de cette libération : « Seule l’épée de la maîtrise et la haine créatrice brisent les fers de la nature. L’artiste appelle cette épée la Beauté ; le scientifique appelle son épée la Vérité. En créant, l’esprit humain ôte pour un moment le joug des lois naturelles de la nécessité. Ayant créé, ayant donné son œuvre à la foule, l’esprit la contamine » (Guérasimov, Gontcharova, 2017 : 842; je traduis) Cette affirmation de la volonté arbitraire et irrévocable est une conséquence logique de la longue période où l’artiste a été au service de l’art, au service du public. Ainsi tente-il de surpasser le concept de <i>l’art pour l’art</i> et de dévoiler un problème profond existant depuis un moment : l’art, à son origine appelé à représenter l’homme, son monde, sa vision, a oublié son sujet principal, selon les égo-futuristes. Nous lisons des poètes qui n’ont plus peur de dire « je veux » ou « moi, je trouve cette chose belle ». Ils abandonnent les derniers éléments du Beau lyrique ou de l’approbation publique.
 
-&nbsp;
+
 <h3>De la volonté à la perception</h3>
 Au début du XXème siècle, l’artiste a repris l’unique autorité dans les limites de son œuvre, avec le critique à côté. Sa logique propose la dénégation de tout jugement esthétique préétabli. Il veut se débarrasser des étiquettes évaluatives, valables pour tous : « N’importe quel peintre de sensibilité saine et d’intelligence convenable peut nous donner des tableaux bien peints ; mais il éveillera la beauté, celui-là seul que désigne le goût. Nous appelons ainsi la faculté grâce à laquelle nous prenons conscience de la qualité, nous écartons les notions de bon goût et de mauvais goût qui ne répondent à rien de positif : une faculté n’est ni bonne ni mauvaise, elle est plus ou moins développée » (Gleizes, Metzinger, 1980 [1912] : 70). En quelque sorte, ces deux peintres cubistes font appel implicitement aux affirmations de Delacroix, faites en 1854 dans ses <i>Questions sur le Beau </i>:
 <blockquote>En présence d’un objet véritablement beau, un instinct secret nous avertit de sa valeur et nous force à l’admirer en dépit de nos préjugés ou de nos antipathies. Cet accord des personnes de bonne foi prouve que si tous les hommes sentent l’amour, la haine et toutes les passions de la même manière, s’ils sont enivrés des mêmes plaisirs ou déchirés par les mêmes douleurs, ils sont émus également en présence de la beauté, comme aussi ils se sentent blessés par la vue du laid, c’est-à-dire de l’imperfection. (Delacroix, 1923 : 23)</blockquote>
@@ -85,15 +85,15 @@ Peut-être inconsciemment, puisque l’on ne peut être certain que les cubistes
 <blockquote>La beauté ne se définit plus seulement par sa tension vers l’éternel ou vers l’immuable, elle surgit à tout instant de la réalité la plus prosaïque du monde présent. Si Charles Baudelaire est si souvent considéré comme le premier à avoir défini la modernité et à l’avoir expérimentée dans sa propre création poétique, cela tient précisément à son extrême sensibilité aux ruptures : rupture avec les conventions académiques, avec la grande bourgeoisie affairiste, avec le pouvoir économique et politique qui entent soumettre l’ordre esthétique à l’ordre établi. (Jimenez, 1997 : 304)</blockquote>
 Si Baudelaire a pressenti cette rupture, les premières avant-gardes tentent de la réaliser.
 
-&nbsp;
+
 <h3>Sujets méconnus et revisités</h3>
 Afin d’établir un autre type de dialogue avec leur public, les avant-gardes s’attaquent à des sujets de leur modernité : l’urbanisme, le dynamisme, la science et la guerre, bien évidemment. La vie urbaine occupe une place considérable dans leur poésie, leur littérature et même leur musique, mais elle est représentée sous des angles divers.
 
-&nbsp;
+
 <h4><i>La ville et le rythme moderne</i></h4>
 L’urbanisation a offert aux artistes un autre point de vue qui permet de regarder différemment les faits de la modernité. En 1913, Gino Severini écrit ces lignes : « La vitesse nous a donné une nouvelle notion de l’<i>espace </i>et du <i>temps</i> et par conséquent de la <i>vie</i> même. Il faut donc que l’art plastique de notre époque soit <i>caractérisé</i> par une stylisation de la vitesse, qui est la manifestation la plus immédiate et la plus expressive de la vie moderne » (Severini, 1987 : 43). Ainsi explique-t-il un des appels les plus importants du futurisme italien : ne pas représenter une automobile, mais représenter sa vitesse, par exemple. Il ne suffit pas seulement de mettre l’automobile, la ville, les trains, les paquebots, etc. au centre d’une œuvre, il faut montrer ce qu’apportent ces biens de la civilisation à un être humain. Une automobile est fascinante uniquement parce qu’elle permet de se déplacer d’un point A à un point B plus vite qu’un cheval. D’ailleurs, un cheval représenté en mouvement est doté d’une dizaine de pattes, tout comme un chien, juste pour transmettre la sensation de son mouvement. Une voiture n’est pas belle parce qu’elle représente le sommet d’une pensée ingénieuse, mais elle est magnifique par toutes ses qualités, par toutes les possibilités qu’elle offre à l’humanité – voici l’idée futuriste qui dépasse un simple changement de sujet. Si les peintres multiplient les jambes, mélangent les couleurs en un seul trait, les poètes et les musiciens trouvent leurs moyens dans le son. Depuis son premier manifeste, Marinetti n’arrête pas de répéter : « Nous déclarons que la splendeur du monde s’est enrichie d’une beauté nouvelle : la beauté de la vitesse. […] A quoi bon regarder derrière nous, du moment qu’il faut défoncer les vantaux mystérieux de l’impossible ? Le Temps et l’Espace sont morts hier. Nous vivons déjà dans l’absolu, puisque nous avons déjà créé l’éternelle vitesse omniprésente » (Lista, 2015 : 89). Le développement de l’esthétique de la vitesse a contribué à celui de théorie de la quatrième dimension, présente chez plusieurs mouvements qui envisagent une sorte de fusion du temps et de l’espace, leur dissolution dans la vitesse, qui permet de surmonter les deux sur leur terrain de jeu préféré – la ville. Pour parvenir à cet effet, les poètes et les musiciens entreprennent de nombreuses tentatives d’influencer la perception directe, sans passer par le déchiffrement de signes que sont les mots ou les notes. Par exemple, les poètes utilisent des onomatopées, suppriment la ponctuation. Les musiciens utilisent des klaxons, des sirènes et d’autres signaux sonores. Luigi Russolo en développe une théorie sur l’art d’utiliser des bruits et construit des machines spéciales dédiées à la reproduction de l’ambiance de la ville moderne.
 
-<img class="alignnone wp-image-3011" src="https://post-scriptum.org/wordpress/wp-content/uploads/2020/12/29-04_img01-1001x1024.jpg" alt="" width="610" height="624" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2020/12/29-04_img01-1001x1024.jpg" alt="" width="610" height="624" />
 <h6><em>La strada entra nella casa</em>, 1911
 Huile sur toile
 100 x 100, 6 cm
@@ -170,7 +170,7 @@ Située à Paris entre la rue Aumont-Thiéville et l’avenue des Ternes.
 (Apollinaire, 1965 [1913] : 39-40)</blockquote>
 Encore une fois une ville vivante se dessine devant nous : elle vit sa vie avec ses bruits, mais cela n’a pas l’air de trop perturber notre spectateur – bien au contraire, il y trouve une grâce.
 
-&nbsp;
+
 <h4><i>La guerre</i></h4>
 Si l’urbanisation trouve un reflet si diversifié chez des artistes différents, puisqu’elle dépend d’un grand nombre de facteurs en commençant par la position géographique et la religion, si elle est un fait nouveau, propre à une modernité dans laquelle les poètes cherchent leur place, ce n’est pas le cas de la guerre. La plupart des artistes de l’avant-garde se revendiquent belliqueux, prêts à batailler, à tout détruire et à construire un nouveau monde sur le tombeau de l’ancien – telle est leur position avant la Première Guerre mondiale. La bataille contre le passéisme fait partie de l’esthétique italienne. Tout comme les Russes, ils ne cherchent pas à embellir les acquisitions du passé : « Que peut-on trouver dans un vieux tableau si ce n’est la contorsion pénible de l’artiste s’efforçant de briser les barrières infranchissables à son désir d’exprimer entièrement son rêve ? » (Lista, 2015 : 103). Marinetti exige de briser les limites de la tradition par un acte de violence : elles empêchent à l’artiste de s’exprimer amplement, elles deviennent une sorte de chaîne. Ainsi, la glorification de la guerre et celle des actes militaires entrent dans la poétique non seulement comme un des sujets, mais également comme une façon d’agir. Le genre du manifeste présuppose déjà une lutte, un adversaire, une bataille dont le protagoniste est la volonté artistique :
 <blockquote>In fondo, è bello tirare a mitraglia sulle teste fitte
@@ -180,9 +180,9 @@ Noi siamo forti e vogliamo provare la forza.<a href="#_ftnref6" name="_ftn6">[6]
 Dans son <i>Manifeste du futurisme</i>, Marinetti déclare : « Il n’y a plus de beauté que dans la lutte. Pas de chef-d’œuvre sans un caractère agressif. La poésie doit être un assaut violent contre les forces inconnues, pour les sommer de se coucher devant l’homme » (Lista, 2015 : 102). D’ailleurs, la majorité de son œuvre est consacrée aux guerres, batailles, mitrailles, luttes avec des onomatopées appropriées :
 <blockquote>
 <p style="text-align: left;">[table id=24 /]
-forza che gioia vedere udire fiutare tutto tutto <b>taratatatata
-</b>delle mitragliatrici strillare a perdifiato sotto morsi schiafff-
-fi <b>traak-traak</b> frustate <b>pic-pac-pum-tumb</b> bizzzzarie salti al-
+forza che gioia vedere udire fiutare tutto tutto taratatatata
+delle mitragliatrici strillare a perdifiato sotto morsi schiafff-
+fi traak-traak frustate pic-pac-pum-tumb bizzzzarie salti al-
 tezza 200 m della fucileria.<a href="#_ftnref7" name="_ftn7">[7]</a></p>
 Grisi, 1994 : 326)</blockquote>
 Les artistes désirent la venue d’un événement qui libérera le monde de la « tyrannie de l’amour » qui obstrue toutes les forces créatrices, selon Marinetti. Et, comme avec l’automobile, le Beau de la guerre ne réside pas dans la guerre même, mais dans les aspects positifs qu’elle pourrait apporter. Par exemple, nettoyer le monde de tout l’ancien et libérer la place pour une nouvelle esthétique. Il faut dire que Marinetti n’a pratiquement jamais abandonné ce point de vue, même après avoir assisté à deux guerres, puisqu’il a transformé le futurisme en mouvement politiquement engagé. Pendant l’entre-deux-guerres, le futurisme italien dépasse les frontières de l’art et tente de devenir un phénomène mondial, présent dans tous les domaines de vie – tel était le projet de Marinetti. Pourtant, même avant la Première Guerre, certains artistes n’ont pas apprécié cette position et ont formé un autre groupe futuriste basé à Florence et artistiquement orienté. Gino Severini, le représentant du futurisme italien en France, ne partagera pas non plus les positions de Marinetti. Mais en 1908-1909, à l’aube du futurisme italien, les jeunes artistes militants ne voient pas d’autre solution que de déclarer la guerre au monde entier et à toutes les époques précédentes. Les attentes de la guerre des Italiens sont comparables à celle de la révolution en Russie : les deux événements auraient dû ouvrir les portes vers un futur meilleur, un monde meilleur. Bien que le sujet belliqueux n’occupe pas autant de place dans la création chez les Russes, on peut facilement le comparer à l’humeur révolutionnaire du jeune Maïakovski ou même de Blok, symboliste appartenant à une petite noblesse, mais très favorable à la révolution. D’ailleurs, c’était également le cas de Scriabine. Ce qui au début devait « arracher les mâles de vingt ans à la vaniteuse obsession de l’aventure galante et de l’adultère » (Lista, 2015 : 115), s’est métamorphosé en une catastrophe inouïe, et comme l’art de l’avant-garde est appelé à représenter le monde réel, tel qu’il est, ce sont la glorification et la présence même de la guerre à l’intérieur du concept du Beau qui, par la suite, le poussent au fur et à mesure à la limite du Laid. Déjà en 1914 Maïakovski s’exprime sur l’absurdité de la guerre et la disparition du Beau dans le monde. En s’indignant contre l’œuvre de Répine, Korovine et Vasnetsov<a href="#_ftnref8" name="_ftn8">[8]</a>, à son avis, complètement détournés de la vie réelle, il écrit :
@@ -243,38 +243,38 @@ SEVERINI, Gino. <i>Écrits sur l’art</i>, Paris, Éditions Cercle d’Art, 198
 <hr />
 
 <h3>Notes</h3>
-<div id="sdfootnote1">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Peintre et poète futuriste.</p>
 
-<div id="sdfootnote2">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Par exemple, Kandinsky et Marc dans <i>L’almanach du Blaue Reiter</i>, écrivent<i> </i>: « La correspondance des moyens d’expression avec la nécessité intérieure est l’essence de la beauté d’une œuvre » (1981 : 149).</p>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Peintre et poète futuriste.</p>
 
-<div id="sdfootnote3">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Terme de Benedetto Croce (Lories, 1988 : 226; je traduis)</p>
 
-<div id="sdfootnote4">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Le terme d’étrangéisation a été développé par un formaliste russe Victor Chklovski en 1917 dans son ouvrage <i>L’Art comme procédé. </i>Il s’agit de représenter un sujet connu et usé sous une nouvelle forme non-familière. L’étrangisation permet au public de se débarrasser d’images communes et transforme l’acte de perception en une forme de re-connaissance.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Par exemple, Kandinsky et Marc dans <i>L’almanach du Blaue Reiter</i>, écrivent<i> </i>: « La correspondance des moyens d’expression avec la nécessité intérieure est l’essence de la beauté d’une œuvre » (1981 : 149).</p>
 
-<div id="sdfootnote5">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> <i>La rue entre dans la maison.</i></p>
 
-<div id="sdfootnote6">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Poème <i>Dalle caserme </i>de Paolo Buzzi. « Au fond, il est beau de tirer à la mitraille sur les têtes denses / Nous sommes forts et voulons essayer cette force. » (je traduis).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Terme de Benedetto Croce (Lories, 1988 : 226; je traduis)</p>
 
-<div id="sdfootnote7">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> « oreilles yeux / narines ouverts attentifs / force qui joie voir entendre sentir tout tout <b>taratatatata </b>/ des mitraillettes crier à pleine vitesse plus bas morsures gifff- / fles <b>traak-traak </b>coups <b>pic-pac-pum-toumb </b>bizzzzarres sauts / altitude 200 m de la fusillade » (je traduis).</p>
 
-<div id="sdfootnote8">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> Ces peintres réalistes appartenant au groupe des Ambulants ont choisi comme source d’inspiration la vie campagnarde et folklore russe.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Le terme d’étrangéisation a été développé par un formaliste russe Victor Chklovski en 1917 dans son ouvrage <i>L’Art comme procédé. </i>Il s’agit de représenter un sujet connu et usé sous une nouvelle forme non-familière. L’étrangisation permet au public de se débarrasser d’images communes et transforme l’acte de perception en une forme de re-connaissance.</p>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> <i>La rue entre dans la maison.</i></p>
+
+
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Poème <i>Dalle caserme </i>de Paolo Buzzi. « Au fond, il est beau de tirer à la mitraille sur les têtes denses / Nous sommes forts et voulons essayer cette force. » (je traduis).</p>
+
+
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> « oreilles yeux / narines ouverts attentifs / force qui joie voir entendre sentir tout tout taratatatata / des mitraillettes crier à pleine vitesse plus bas morsures gifff- / fles traak-traak coups pic-pac-pum-toumb bizzzzarres sauts / altitude 200 m de la fusillade » (je traduis).</p>
+
+
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> Ces peintres réalistes appartenant au groupe des Ambulants ont choisi comme source d’inspiration la vie campagnarde et folklore russe.</p>
+
+
+
+
+
+
+
+
+
 
 ----
 

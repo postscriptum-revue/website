@@ -1,4 +1,4 @@
-title: [12-11]  Se figurer les signes de l’apocalypse, compte rendu de <i>L’imaginaire de la fin</i> de Bertrand Gervais
+title:  Se figurer les signes de l’apocalypse, compte rendu de L’imaginaire de la fin de Bertrand Gervais
 
 ----
 
@@ -22,13 +22,13 @@ abstract_en:
 
 ----
 
-text: <div class="texteItem">
-<div class="crayon article-texte-132 texte surlignable clearfix">
+text: 
 
-<strong>GERVAIS, Bertrand, <i>L</i>’<i>imaginaire</i> <i>de</i> <i>la</i> <i>fin,</i> <i>Logiques de l’imaginaire Tome III</i>, Montréal, Le Quartanier, 2009, 233 p.</strong>
 
-<span class="spip_document_50 spip_documents spip_documents_center"><img class="aligncenter size-full wp-image-1622" src="http://www.post-scriptum.org/wordpress/wp-content/uploads/2010/03/gervais-844a1.png" alt="" width="300" height="431" />
-</span>
+GERVAIS, Bertrand, <i>L</i>’<i>imaginaire</i> <i>de</i> <i>la</i> <i>fin,</i> <i>Logiques de l’imaginaire Tome III</i>, Montréal, Le Quartanier, 2009, 233 p.
+
+<img src="http://www.post-scriptum.org/wordpress/wp-content/uploads/2010/03/gervais-844a1.png" alt="" width="300" height="431" />
+
 
 Regarder l’abîme qui regarde en nous. Voilà la tâche de celui qui ose penser la fin. Cette fin aussi proche qu’on l’appréhende, aussi loin qu’on l’espère, confirme son évanescence dès que l’on tente de la figer en pensée. Avec <i>L</i>’<i>imaginaire</i> <i>de</i> <i>la</i> <i>fin,</i> Bertrand Gervais s’attaque à cette limite d’entre toutes les limites, concept fuyant par excellence. Lors d’une rencontre récente, il m’a avoué ne s’intéresser qu’aux figures qui échappent à l’entendement, qui persistent à résister. Il mettait alors les touches finales sur cet essai, paru depuis aux éditions Le Quartanier. L’épuisement, un des signes identifiés dans ce texte comme étant précurseurs de la fin, ne se fait pas sentir chez Gervais, qui persiste à sonder les recoins les moins accessibles de la pensée dans son œuvre variée, prenant une forme parfois fictive, parfois hypertextuelle, et parfois, comme dans ce cas, théorique.
 
@@ -40,8 +40,8 @@ Au-delà de l’écologie des figures, l’imaginaire associé à la fin est ég
 
 D’ailleurs, le chapitre III du livre, qui porte sur <i>Cité</i> <i>de</i> <i>verre,</i> est une petite merveille d’interprétation. Je me rappelle avoir lu le livre d’Auster avec le sentiment que quelque chose d’important se passait en arrière-plan et que les secrets contenus entre ces deux couvertures pourraient se dévoiler à un lecteur qui saurait creuser sa structure de palimpseste. Au-delà de la découverte d’un secret ou d’une vérité quelconque, l’analyse de Gervais puise source dans cette fascination du caché, mais clarifie le vaste réseau de sens au sein du livre. Étrangement, c’est grâce à cet éclaircissement que le lecteur est amené à voir que la langue du récit est graduellement remise en cause, désynchronisée, brouillée. Voilà un paradoxe propre au langage ; la prose précise de Gervais permet de décrire un imaginaire de la fin qui bouleverse le lien entre verbe et sens.
 
-</div>
-</div>
+
+
 
 ----
 

@@ -1,4 +1,4 @@
-title: [03-08] Quand la traduction devient mode d’écriture
+title: Quand la traduction devient mode d’écriture
 
 ----
 
@@ -22,7 +22,7 @@ abstract_en: In late 19th century Egypt, translation doubtless responded to the 
 
 ----
 
-text: <div class="crayon article-texte-84 texte surlignable clearfix">
+text: 
 
 Qu’il réponde à une initiative personnelle, qu’il soit le fruit d’une initiative externe, c’est-à-dire d’une décision émanant d’une organisation supérieure et rentrant généralement dans le cadre d’un projet collectif, le <i>transfert</i> d’un texte inscrit toujours une certaine dynamique au sein de la macrostructure qu’est le patrimoine culturel universel ; les parcours ainsi tracés par la migration des textes offrent des opportunités d’analyse pour le chercheur tant en littérature qu’en traduction.
 
@@ -31,51 +31,51 @@ Parallèlement, donc, aux traductions qui ne doivent d’exister qu’au labeur 
 Il faudrait toutefois rappeler que les deux grands mouvements de traduction menés au sein des contrées arabes —tant sous le califat Abbasside que sous le règne Khédival— répondent à une décision impérative. En effet, bâties dans deux villes différentes, Bagdad et Alexandrie, et à deux siècles d’intervalle, Dar El Hikmat et Madrassatu Al-Alsoun présentent bien des traits en commun : toutes deux sont des institutions gouvernementales conçues dans le but d’abriter une activité traduisante de grande envergure ; toutes deux ont servi de levier pour une littérature et une pensée arabo-musulmane alors encore en herbe. Ces similitudes, si elles n’impliquent point de constats, sont à tout le moins intrigantes.
 
 L’on peut ainsi se demander : jusqu’à quel point une activité traduisante de cette envergure souscrit-elle aux seuls et uniques enjeux culturels ? Et surtout, dans quelle mesure une activité intellectuelle promue par décret monarchique ou étatique peut-elle se maintenir en marge des manipulations du pouvoir ? En outre, comment se fait-il que des œuvres aussi différentes que <i>Cyrano</i> <i>de</i> <i>Bergerac,</i> <i>Paul</i> <i>et</i> <i>Virginie,</i> <i>Atala</i> et <i>Sous</i> <i>les</i> <i>tilleuls</i> acquièrent au terme de leur transfert dans la langue arabe les mêmes traits textuels, et par voie de conséquence, des normes génériques identiques ? Et enfin, dans quelle mesure une œuvre traduite peut-elle se satisfaire du seul <i>pacte</i> <i>traductionnel</i> pour s’inscrire dans la catégorie des traductions, et non dans celle des œuvres originales ?
-<h3 class="spip">L’œuvre et ses doubles</h3>
+<h3>L’œuvre et ses doubles</h3>
 La prédilection étant du temps de Dar El-Hikmat pour la philosophie et les sciences, notre choix s’est porté sur le mouvement de traduction mené en Égypte durant les 19e et 20e siècles et patronné, dans un premier temps, par Dar Al-Alsoun. L’analyse de l’activité traduisante menée lors de cette période vise d’une part à mettre en évidence les rapports qui se sont tissés entre l’Orient et l’Occident, notamment dans le domaine littéraire, et d’autre part à expliciter les rapports de force qui s’établissent entre les priorités du traducteur, les impératifs du « traduire » et les spécificités du texte à traduire.
 
 Entre 1857 et 1967, des noms illustres de la littérature arabe de l’époque consacrèrent leurs efforts à la transposition des classiques français, anglais, allemands et russes vers l’arabe. Des noms comme Rifâ’a Râfi’ AT-Tahtâwi, Ahmed Hassan Zayyat, Hafed Ibrahim, Mohamed ‘Othmâne Jalâl ou Mustapha Lotfi Al-Manfalouti firent donc des traductions qui constituent, aujourd’hui encore, un péage obligatoire pour tout lecteur arabophone. Il est à remarquer que certaines œuvres, notamment les grands classiques de la littérature européenne, furent traduits vers l’arabe à maintes reprises et que de la littérature européenne, furent traduites vers l’arabe à maintes reprises (<i>Les</i> <i>souffrances</i> <i>du</i> <i>jeune</i> <i>Werther</i> de Goethe, par exemple, compte 8 versions entre 1919 et 1989) et que certaines de ces versions eurent l’heur d’être rééditées plus de cinq fois de suite (par exemple, la traduction de Ahmed Hassan Ezzayât parue en 1920), tandis que d’autres ne dépassèrent pas la première.
 
-En outre, certaines de ces œuvres se sont révélées de vrais kaléidoscopes pouvant produire de nombreux doubles, si différents les uns des autres. Ainsi, entre la première version que fit M.O. Jalâl vers 1871 du <i>Paul</i> <i>et</i> <i>Virginie</i> de Bernardin de Saint-Pierre, par exemple, celle qu’en fit Farah Antûn quelques décennies plus tard, et celle faite par Al-Manfalouti en 1923, il y a un grand écart. Un écart perceptible dès le seuil : M.O. Jalâl titre <i>Al</i> <i>amâni</i> <i>wal</i> <i>menna</i> <i>fi</i> <i>hadithi</i> <i>koboulin</i> <i>wa</i> <i>wirdi</i> <i>janna</i> [<i>Espoirs</i> <i>et</i> <i>bonheur</i> <i>d</i>’<i>un</i> <i>consentement</i> <i>et</i> <i>d</i>’<i>un</i> <i>accès</i> <i>à</i> <i>l</i>’<i>Eden</i>], alors que Al Manfalouti titre <i>Al</i> <i>fadîla</i> <i>aw</i> <i>Paul</i> <i>wa</i> <i>Virginia</i> [<i>La</i> <i>vertu</i> <i>ou</i> <i>Paul</i> <i>et</i> <i>Virginie</i>]<span class="spip_note_ref"> [1]</span>. S’il sauvegarde le titre original, F. Antûn ne manque pas d’adhérer, lui aussi, à certains changements.
+En outre, certaines de ces œuvres se sont révélées de vrais kaléidoscopes pouvant produire de nombreux doubles, si différents les uns des autres. Ainsi, entre la première version que fit M.O. Jalâl vers 1871 du <i>Paul</i> <i>et</i> <i>Virginie</i> de Bernardin de Saint-Pierre, par exemple, celle qu’en fit Farah Antûn quelques décennies plus tard, et celle faite par Al-Manfalouti en 1923, il y a un grand écart. Un écart perceptible dès le seuil : M.O. Jalâl titre <i>Al</i> <i>amâni</i> <i>wal</i> <i>menna</i> <i>fi</i> <i>hadithi</i> <i>koboulin</i> <i>wa</i> <i>wirdi</i> <i>janna</i> [<i>Espoirs</i> <i>et</i> <i>bonheur</i> <i>d</i>’<i>un</i> <i>consentement</i> <i>et</i> <i>d</i>’<i>un</i> <i>accès</i> <i>à</i> <i>l</i>’<i>Eden</i>], alors que Al Manfalouti titre <i>Al</i> <i>fadîla</i> <i>aw</i> <i>Paul</i> <i>wa</i> <i>Virginia</i> [<i>La</i> <i>vertu</i> <i>ou</i> <i>Paul</i> <i>et</i> <i>Virginie</i>] [1]. S’il sauvegarde le titre original, F. Antûn ne manque pas d’adhérer, lui aussi, à certains changements.
 
 Dans le même sillage, en transposant <i>Tartuffe</i> et <i>L</i>’<i>étourdi</i> de Molière vers l’arabe, O. Jalâl et Marûn An-Naqqâsh procèdent à quelques changements dont celui des noms propres —de personnages ou de lieux— et celui du niveau de langue —l’arabe dialectal. Sous la plume de O. Jalâl, les deux pièces se muent respectivement en <i>Afghania</i> et <i>Cheikh</i> <i>Matlouf</i> [<i>Le</i> <i>vieillard</i> <i>étourdi</i>] et elles deviennent <i>Al</i>-<i>Hassûd</i> [<i>L</i>’<i>envieux</i>] et <i>Aboul</i>’<i>Hassan</i> <i>Al</i>-<i>Moughaffal</i> [<i>Aboul</i>’<i>Hassan</i> <i>l</i>’<i>étourdi</i>] de la main de Marûn an-Naqqâsh.
 
 En fait, ces changements, qui sont une tendance typique des traductions de l’époque, soulèvent la question de la nature et des limites de ces changements, ainsi que celle de l’identité générique de ces traductions.
-<h3 class="spip">Dérive générique ou métissage</h3>
+<h3>Dérive générique ou métissage</h3>
 L’éventail étant large et le choix décisif, le recours à des exemples sélectionnés dans différentes œuvres, avec leurs traductions respectives, paraissait une alternative peu pertinente pour les objectifs que s’assigne cette seconde partie ; la décision de limiter le corpus est apparue alors comme une nécessité impérative ; d’où la décision de restreindre le corpus de l’étude à une seule œuvre et à son « double » : <i>Cyrano</i> <i>de</i> <i>Bergerac</i> d’Edmond Rostand et <i>Ashâ</i>’<i>ir</i> [<i>Le</i> <i>poète</i>] de M.L. Al-Manfalouti, paru en 1921.
 
 À observer les deux textes, on se rend compte d’emblée que le texte d’Al-Manfalouti n’est pas la simple transposition de l’œuvre de Rostand d’une langue A vers une langue B. Tout en précisant dans la préface et dans la dédicace qu’il est resté fidèle à l’œuvre originale, Al-Manfalouti déclare qu’il s’agit d’un <i>roman</i> ; on est donc, en présence de deux entités génériques différentes, autrement dit, face à un changement générique et modal. Ce choix de la part du traducteur est à l’origine de divers autres changements.
 
-<i>a)</i> <i>Une</i> <i>nouvelle</i> <i>composition</i> <i> :</i><br class="autobr" /> Les cinq actes de la pièce théâtrale font place à cinq chapitres et les scènes sont regroupées dans des sous-chapitres (ex : au Ve acte intitulé « La gazette de Cyrano » et comptant 6 scènes correspondent, dans la version d’Al-Manfalouti, « Cinquième chapitre » et les deux sous-chapitres « Quinze ans après » et « L’intonation »). Remarquons que les sous-chapitres portent, contrairement aux chapitres, chacun un titre rédigé de manière à suggérer le contenu de la séquence narrative qu’il annonce.
+<i>a)</i> <i>Une</i> <i>nouvelle</i> <i>composition</i> <i> :</i><br /> Les cinq actes de la pièce théâtrale font place à cinq chapitres et les scènes sont regroupées dans des sous-chapitres (ex : au Ve acte intitulé « La gazette de Cyrano » et comptant 6 scènes correspondent, dans la version d’Al-Manfalouti, « Cinquième chapitre » et les deux sous-chapitres « Quinze ans après » et « L’intonation »). Remarquons que les sous-chapitres portent, contrairement aux chapitres, chacun un titre rédigé de manière à suggérer le contenu de la séquence narrative qu’il annonce.
 
-<i>b)</i> <i>Une</i> <i>nouvelle</i> <i>distribution</i> <i>des</i> <i>éléments</i> <i>narratifs</i> :<br class="autobr" /> Certains éléments, présents dans le texte original sous forme de didascalie ou de discours rapporté par les personnages, sont désormais disposés dans des séquences narratives dont la disposition constitue l’intérêt dramatique de l’œuvre. La séquence narrative devient, ainsi, une unité clef de <i>Ashâ</i>’<i>ir</i> (<i>Le</i> <i>poète).</i>
+<i>b)</i> <i>Une</i> <i>nouvelle</i> <i>distribution</i> <i>des</i> <i>éléments</i> <i>narratifs</i> :<br /> Certains éléments, présents dans le texte original sous forme de didascalie ou de discours rapporté par les personnages, sont désormais disposés dans des séquences narratives dont la disposition constitue l’intérêt dramatique de l’œuvre. La séquence narrative devient, ainsi, une unité clef de <i>Ashâ</i>’<i>ir</i> (<i>Le</i> <i>poète).</i>
 
 Ainsi, les éléments de la conversation qui a lieu entre Christian et Lignière, puis entre ces derniers et Ragueneau, sont distribués autrement dans <i>Ashâ</i>’<i>ir</i> ; l’ordre des sujets de la conversation est modifié de manière à ce qu’il ne contrecarre point l’insertion de deux portraits importants pour la trame événementielle, celui de Cyrano et celui de Ragueneau.
 
-<i>c)</i> <i>La</i> <i>suppression</i> <i>de</i> <i>certains</i> <i>dialogues</i> <i>ou</i> <i>leur</i> <i>narrativisation</i> <i> :</i><br class="autobr" /> De même que l’agencement des dialogues se fait dans <i>Ashâ</i>’<i>ir</i> au gré des nécessités de la séquence narrative, et non selon les priorités de l’action dramatique, les choix traductionnels relatifs au mode de leur transposition en arabe sont dictés par les impératifs de la narration. À titre d’exemple, les dialogues qui ont lieu dans la scène de présentation entre différents personnages, alors présents à l’Hôtel de Bourgogne (Acte I, scène 1 : 24-29), sont rendus dans <i>Ashâ</i>’<i>ir</i> (17-19) par un passage descriptif.
-<h3 class="spip"><i>Ashâ</i>’<i>ir,</i> entre le pacte traductionnel et les digressions de l’écrivain</h3>
+<i>c)</i> <i>La</i> <i>suppression</i> <i>de</i> <i>certains</i> <i>dialogues</i> <i>ou</i> <i>leur</i> <i>narrativisation</i> <i> :</i><br /> De même que l’agencement des dialogues se fait dans <i>Ashâ</i>’<i>ir</i> au gré des nécessités de la séquence narrative, et non selon les priorités de l’action dramatique, les choix traductionnels relatifs au mode de leur transposition en arabe sont dictés par les impératifs de la narration. À titre d’exemple, les dialogues qui ont lieu dans la scène de présentation entre différents personnages, alors présents à l’Hôtel de Bourgogne (Acte I, scène 1 : 24-29), sont rendus dans <i>Ashâ</i>’<i>ir</i> (17-19) par un passage descriptif.
+<h3><i>Ashâ</i>’<i>ir,</i> entre le pacte traductionnel et les digressions de l’écrivain</h3>
 Outre les modifications évoquées, on peut relever dans la version d’Al-Manfalouti deux types de manipulations qui ne sont pas directement reliées aux changements modaux et génériques :
 
 a) La suppression de certaines allusions historiques et culturelles pourtant si enrichissantes dans le texte original, telles celles figurant dans l’Acte I, scène 3 ; <i>Ashâ</i>’<i>ir</i> ne rapporte pas les répliques suivantes (Rostand : 41) :
-<blockquote class="spip_poesie">
-<div><i>DEUXIEME</i> <i>MARQUIS</i></div>
-<div>Les beaux rubans ! Quelle couleur, comte de Guiche ?</div>
-<div>Baise-moi-ma-mignone ou bien Ventre-de-biche ?</div>
-<div></div>
-<div><i>DE</i> <i>GUICHE</i></div>
-<div>C’est couleur Espagnol malade.</div>
-<div></div>
-<div><i>PREMIER</i> <i>MARQUIS</i></div>
-<div>La couleur ne ment pas, car bientôt, grâce à votre valeur,</div>
-<div>L’Espagnol ira mal, dans les Flandres !</div></blockquote>
+<blockquote>
+<i>DEUXIEME</i> <i>MARQUIS</i>
+Les beaux rubans ! Quelle couleur, comte de Guiche ?
+Baise-moi-ma-mignone ou bien Ventre-de-biche ?
+
+<i>DE</i> <i>GUICHE</i>
+C’est couleur Espagnol malade.
+
+<i>PREMIER</i> <i>MARQUIS</i>
+La couleur ne ment pas, car bientôt, grâce à votre valeur,
+L’Espagnol ira mal, dans les Flandres !</blockquote>
 Ces suppressions répondent en fait à un souci de clarté et de précision de la part d’Al-Manfalouti qui voit dans ces allusions des éléments encombrants et pour le traducteur et pour le lecteur-cible. S’ils demeurent intraduisibles pour le premier, ils perdent toute pertinence pour le second.
 
 b) Les rajouts, soit sous forme de note du traducteur, telle celle expliquant et commentant le rôle des « Salons » dans la vie socioculturelle de l’aristocratie française de l’époque (<i>Ashâ</i>’<i>ir</i> : 110-111) ; soit sous forme de commentaire inséré dans le corps même du texte. Par exemple, le terme « Précieuse » cité par Lignière (Rostand, Acte I, scène 2 : 39) se mue dans <i>Ashâ</i>’<i>ir</i> en un long commentaire sur la <i>préciosité</i> comme phénomène social et littéraire, avec exemples à l’appui. En fait, la même réplique (« Madeleine Robin, dite Roxane. Fine. Précieuse ») succincte et presque laconique dans la bouche de Lignière se transforme sous la plume prolixe d’Al-Manfalouti en un portrait exhaustif. Une page entière sur l’état civil de Roxane, sa beauté, ses habitudes, ses préférences et même son défaut, « la préciosité », car il ne faut pas l’oublier, la partie de ce portrait réservée à la préciosité (12 lignes) débute ainsi :
-<blockquote class="spip">Wa la a’ayba fiha siwa annaha min fariqi l’adibati l’motahadhliqati l’wati afsada l’odabaùo l’motahadhliqona adhwaqahonna l’adabiyya fala yanteqna bikalimatin sarihatin khaliyatin mina tachabihi wa l’majazati wa l’icharati wa l’kinayati… (<i>Ashâ</i>’<i>ir</i> : 25)
+<blockquote>Wa la a’ayba fiha siwa annaha min fariqi l’adibati l’motahadhliqati l’wati afsada l’odabaùo l’motahadhliqona adhwaqahonna l’adabiyya fala yanteqna bikalimatin sarihatin khaliyatin mina tachabihi wa l’majazati wa l’icharati wa l’kinayati… (<i>Ashâ</i>’<i>ir</i> : 25)
 
 [Son seul défaut est celui de faire partie des précieuses, ces femmes de lettres dont les goûts littéraires ont été si pervertis par les littérateurs pédants que leurs conversations sont pleines d’affectation et qu’elles ne peuvent tenir aucun propos qui ne fasse usage de la comparaison, de la métaphore, de la périphrase ou de la métonymie.]</blockquote>
 Cependant, quelque différentes et « violentes » que puissent être ces manipulations, elles ne sont problématiques et contestables que dans la mesure où on classe le travail d’Al-Manfalouti —ainsi qu’il l’affirme lui même dans la préface— dans la catégorie des traductions. Or, cette affirmation soulève la question de la fonction et de la crédibilité du pacte traductionnel.
-<h3 class="spip">La préface de <i>Ashâ</i>’<i>ir</i> : un pacte d’écriture ou de traduction ?</h3>
+<h3>La préface de <i>Ashâ</i>’<i>ir</i> : un pacte d’écriture ou de traduction ?</h3>
 Le compromis qui s’établit entre le traducteur et le lecteur, et selon lequel le premier inscrit d’emblée sa production dans la catégorie des traductions, a deux implications : le traducteur souscrit à l’éthique <i>de</i> <i>la</i> <i>traduction</i> (Berman 1984) et, en contrepartie, le lecteur se compromet à lire et à recevoir cette production comme une traduction et non comme une œuvre originale.
 
 Ce compromis que nous appellerons, pour des raisons de commodité et de rigueur, <i>un</i> <i>pacte</i> <i>traductionnel</i> adopte des formes multiples. Il peut être implicite, c’est-à-dire déduit de la simple mention du nom du traducteur ; le nom du traducteur figure généralement après celui de l’auteur et est parfois introduit par l’expression « <i>traduit</i> <i>de</i>… <i>par</i>… ». Il devient explicite lorsque le traducteur s’autorise à faire précéder sa traduction d’une préface dans laquelle il explique le choix de l’œuvre en question, la ligne de conduite suivie pendant la traduction ; il y commente également les difficultés et problèmes rencontrés lors de l’opération traduisante, ainsi que les solutions qu’il s’est ingénié à trouver.
@@ -85,21 +85,21 @@ Les enjeux du pacte traductionnel —notamment celui explicite— sont multiples
 En considérant le cas précis d’Ashâ’ir<i>,</i> les propos tenus par Al-Manfalouti dans la préface mettent en évidence deux tendances antagonistes caractéristiques des traductions de cet écrivain égyptien : son application à respecter scrupuleusement « l’esprit » de l’œuvre originale et le génie de la langue-source et son obstination à transformer l’œuvre traduite (dans ce cas, la pièce de Rostand) en <i>roman</i> <i>arabe.</i>
 
 En effet, cet antagonisme trouve sa forme la plus accrue dans le passage suivant :
-<blockquote class="spip">Wa qad haafadhtù ala rouhi l’asli bitamamihi wa kayyadtu nafsi bihi taqyidan chadidan, falam atajawaz illa fi hadhfi jumalin la ahammiyata laha wa ziyadati ba’dhi ‘ibaratin idhtarratni ilayha darouratù nnaqli wa’tahwili wa’tissaqù l’aghradhi wal’maqasidi, biduni ikhlalin bil’asli wal’khorouji ‘an dairatihi. Faman qaraa tta’riba qaraa l’asla l’farancia biaaynihi, illa ma kana mina l’farqi bayna balaghati l’qalamayni wa maqdrati l’katibayni (<i>Ashâ</i>’<i>ir</i> : 7).
+<blockquote>Wa qad haafadhtù ala rouhi l’asli bitamamihi wa kayyadtu nafsi bihi taqyidan chadidan, falam atajawaz illa fi hadhfi jumalin la ahammiyata laha wa ziyadati ba’dhi ‘ibaratin idhtarratni ilayha darouratù nnaqli wa’tahwili wa’tissaqù l’aghradhi wal’maqasidi, biduni ikhlalin bil’asli wal’khorouji ‘an dairatihi. Faman qaraa tta’riba qaraa l’asla l’farancia biaaynihi, illa ma kana mina l’farqi bayna balaghati l’qalamayni wa maqdrati l’katibayni (<i>Ashâ</i>’<i>ir</i> : 7).
 
 [J’ai été fidèle à l’esprit de l’œuvre originale et ai observé [en cela] une grande rigueur. Les seuls écarts que je me suis permis sont la suppression de certaines phrases sans importance et l’addition d’autres dictées par les impératifs du transfert et par les besoins de la cohérence et de la cohésion ; sans aller toutefois jusqu’au point de toucher à l’intégrité de l’original. Lire la version arabe, c’est donc lire le texte original sauf pour ce qui est des différences propres au génie de chacune des deux plumes et aux compétences des deux écrivains.]</blockquote>
 Il se déclare scrupuleusement fidèle et cependant il se rétracte en avouant la suppression de phrases jugées « inutiles ». Il affirme se limiter à traduire l’original et cependant il s’octroie le statut d’écrivain et ses libertés. Quelle crédibilité accorder donc à ce pacte ou du moins à certains passages de cette préface ?
 
 En conclusion, le malaise et la confusion qui s’installent dans l’esprit du lecteur d’Ashâ’ir sont le vif reflet du malaise dans lequel se trouvait la majorité des écrivains-traducteurs égyptiens de l’époque vis-à-vis de la littérature occidentale. Celle-ci est certes source d’inspiration et moyen de renouveler les genres, mais elle demeure la vive image de <i>l</i>’<i>autre,</i> <i>de</i> <i>l</i>’<i>étranger,</i> <i>du</i> <i>colonisateur.</i> Cette confusion et ce malaise reflètent également la conception et l’image qu’ils ont de leur statut littéraire (sont-ils des écrivains à part entière ou simples traducteurs ?). En outre, il faudrait reconnaître que certaines manipulations dénotent le peu de conscience qu’on avait à l’époque de l’éthique de la traduction (l’exemple le plus flagrant demeure l’omission du titre et du nom de l’auteur de l’œuvre originale ou encore le fait de consacrer la couverture de la traduction au nom du traducteur et au titre qu’il propose, tandis que les données relatives à l’original ne sont mentionnées qu’en petits caractères sur la première ou troisième page, c’est le cas notamment de <i>Ashâ</i>’<i>ir).</i>
-<h3 class="spip">Traduction ou métissage ?</h3>
+<h3>Traduction ou métissage ?</h3>
 La plupart des transformations cessent d’être problématiques et deviennent légitimes lorsqu’on envisage <i>Ashâ</i>’<i>ir</i> [<i>le</i> <i>poète</i>] comme une traduction-adaptation, nous fiant en cela à cette courte remarque d’Al-Manfalouti insérée dans la préface : « Fa ra’aytu an ùhawwilaha mina l’qalabi t’tamthiliyyi ila l’qalabi l’qassassiyyi » [J’ai alors envisagé de passer du genre dramatique au genre narratif].
 
 Seules posent alors problème ces manipulations qui, en plus de transgresser le pacte traductionnel (voir la préface d’Ashâ’ir : 7), n’arrivent pas à s’inscrire dans la tradition du genre romanesque, tant celle de la langue d’arrivée que celle de départ. Les indices génériques d’Ashâ’ir ne souscrivent à aucun genre en particulier, du moins intégralement ; en témoignent ces longues parenthèses qu’ouvre assez souvent Al-Manfalouti afin de conférer à son texte un aspect moralisant et, donc, une valeur éducative. Par exemple, ce commentaire qui clôt la traduction :
-<blockquote class="spip">Wa kadhalika n’qadhat hayatu hadha r’rajuli l’adhimi kama tanqadhi hayatu amthalihi mina l’udhamai, lam yatamatta’ yawman wahidan birù’yati majdihi wa ‘adhamatihi hatta idha qadha samaha lahu t’tarikho ba’da mamatihi bima lam dhanna bihi alayhi fi hayatihi. Amma Roxane falam ya’lam an’nasso min amriha ba’do chay’ane siwa anna maq’adaha l’ladhi kanat taq’udo alayhi amama minsajeha qad asbaha khaliyan moqfarran, falam ya’rifou : alazimat mihrabaha tad’ou Allaha ta’ala laylaha wa naharaha ane yùlhiqaha bisadiqiha, am raqadat bejanebihi fi maqbarati ad’diri ar’raqdata d’daimata.
+<blockquote>Wa kadhalika n’qadhat hayatu hadha r’rajuli l’adhimi kama tanqadhi hayatu amthalihi mina l’udhamai, lam yatamatta’ yawman wahidan birù’yati majdihi wa ‘adhamatihi hatta idha qadha samaha lahu t’tarikho ba’da mamatihi bima lam dhanna bihi alayhi fi hayatihi. Amma Roxane falam ya’lam an’nasso min amriha ba’do chay’ane siwa anna maq’adaha l’ladhi kanat taq’udo alayhi amama minsajeha qad asbaha khaliyan moqfarran, falam ya’rifou : alazimat mihrabaha tad’ou Allaha ta’ala laylaha wa naharaha ane yùlhiqaha bisadiqiha, am raqadat bejanebihi fi maqbarati ad’diri ar’raqdata d’daimata.
 
 [Ainsi périt ce grand homme, ne différant point en cela des grands hommes qui l’ont précédé. Privé du droit de savourer sa grandeur tant qu’il vécut, ce n’est que mort que l’histoire daigna lui céder ce qu’elle lui avait dénié de son vivant. Quant à Roxane, on ignorait ce qu’il advint d’elle. Les gens regardaient le siège, désormais vide et déserté, sur lequel elle avait l’habitude de s’asseoir quand elle voulait se mettre devant son métier à broder. Ils se demandaient si elle s’était réfugiée dans la pénombre de l’autel pour y prier, jour et nuit, Dieu le Tout Puissant de lui accorder le privilège de rejoindre son ami ou bien, l’accompagnait-elle déjà dans son repos définitif au cimetière du couvent.]</blockquote>
 En témoignent également ces incursions qu’il fait parfois, générant ainsi une interférence du métadiégétique dans le diégétique ; citons à titre d’exemple la transposition vers l’arabe de la tirade dans laquelle Cyrano (Acte II, scène 7) présente la troupe des cadets de Gascogne à De Guiche. Outre le fait que la tirade de 32 vers a été réduite à un passage narratif de deux lignes, le transfert se fait dans <i>Ashâ</i>’<i>ir</i> aux frais de la composante poétique, sacrifice auquel Al-Manfalouti tente de remédier par une incursion dans le corps même du texte :
-<blockquote class="spip">Famacha Cyrano nahwa l’conti khotwatayni wa akhadha yokadimo ilayhi l’ferqata bimowachahin badii irtajalaho fil’hale wa dammanaho thana’a alayhim wa’tanwiha bifadlehim wa l’ichadata bidhikrihim hatta atammaho (<i>Ashâ</i>’<i>ir</i> : 77).
+<blockquote>Famacha Cyrano nahwa l’conti khotwatayni wa akhadha yokadimo ilayhi l’ferqata bimowachahin badii irtajalaho fil’hale wa dammanaho thana’a alayhim wa’tanwiha bifadlehim wa l’ichadata bidhikrihim hatta atammaho (<i>Ashâ</i>’<i>ir</i> : 77).
 
 [Cyrano s’approcha du Comte et commença à présenter la troupe ; il recourut pour ce faire, à un joli poème qu’il composa à l’instant même et dans lequel il fit l’éloge du courage et de la bravoure des cadets.]</blockquote>
 D’ailleurs, l’ingérence d’Al-Manfalouti dans le texte traduit est telle qu’il n’hésite pas à clore d’autres traductions telles que <i>Al</i>-<i>Fadîla</i> <i>ou</i> <i>Paul</i> <i>et</i> <i>Virginie</i> par un poème qu’il compose pour déplorer la fin tragique des deux amants.
@@ -109,7 +109,7 @@ Autre digression qui fausse les frontières entre les genres, ce texte de prése
 Ces modulations, tant génériques que stylistiques, ont suscité des polémiques sur le statut à attribuer à cette traduction même parmi les contemporains d’Al-Manfalouti (Mansour Fahmi et Taha Hussein rédigèrent ainsi une série d’articles, dans lesquels ils développèrent leurs positions respectives, que publia <i>Al</i>-<i>Ahram,</i> grand quotidien de l’époque, dans les numéros du 19 juin, des 10 et 31 juillet puis du 19 août 1921).
 
 En réalité, introduire dans le texte traduit des déterminations génériques qui ne sont pas les siennes, le <i>manipuler</i> de manière à l’adapter aux normes littéraires et morales de l’époque, décliner dans la préface une identité générique que le texte ne valide pas par la suite, était monnaie courante à l’époque. En conséquence, appréhender ces manipulations, émettre une hypothèse concernant le statut de nombre des traductions de l’époque, ne peut s’envisager sans le pourquoi de ces manipulations ; autrement dit, quels critères et quels impératifs président à de telles <i>licences</i> ?
-<h3 class="spip">Les <i>licences</i> : impératifs du traduire ou priorités du traducteur ?</h3>
+<h3>Les <i>licences</i> : impératifs du traduire ou priorités du traducteur ?</h3>
 <i>Ashâ</i>’<i>ir,</i> comme nombre des traductions de l’époque, ne constitue pas une œuvre canonique, car il ne participe pas à la consécration du genre auquel il souscrit. Les changements (génériques, stylistiques, textuels) ont amené les critiques, non sans raison, à surnommer la période s’étendant de 1857 à 1920 l’époque <i>du</i> <i>tamsir</i> <i>(Égyptianisation).</i> Et quoique cette tendance à « égyptianiser » les œuvres étrangères ait commencé à s’atténuer avec le début du vingtième siècle et que le recours à la prose assonancée (sur le mode de la <i>Maqamat)</i> se fît de plus en plus rare, il faut rappeler que cette récession ne concerne pas les tentatives visant le métissage de genres occidentaux et orientaux, notamment le roman occidental avec les modes de narration des <i>Mille</i> <i>et</i> <i>une</i> <i>nuits</i> et des romans de chevalerie arabe, comme le <i>Sirat</i> <i>Sayf</i> <i>bnu</i> <i>Dhi</i> <i>Yazane.</i>
 
 En effet, si le mouvement de traduction massif que connut la dernière moitié du 19e siècle relevait avant tout de la volonté de s’ouvrir sur d’autres cultures et de dresser ainsi les ponts entre les différentes nations, il n’en demeurait pas moins un projet collectif mû par deux tendances antagonistes : le nationalisme et le désir de s’apparenter à l’autre<i>.</i> Né de l’immixtion d’une force externe, dans ce cas de la volonté de Muhammad Ali, ce projet qui se matérialisa d’abord au sein de <i>Dar</i> <i>AL</i>-<i>Alsoun</i> se perpétua de la main d’une élite qui se fit un devoir de promouvoir une renaissance (Nahda) culturelle, scientifique et technologique.
@@ -124,12 +124,12 @@ En conclusion, le travail qui a démarré sous forme d’initiatives de groupes 
 
 La traduction cesse d’être un mode d’écriture dès que les romanciers arabes ont mis en place leurs propres techniques narratives et leurs propres schèmes narratifs. La traduction et la traduction-adaptation en particulier ont ainsi constitué une étape incontournable dans l’itinéraire de la littérature arabe contemporaine ; elle a aidé à l’appropriation des genres littéraires occidentaux et au renouvellement des genres déjà existants, tels que la poésie.
 
-</div>
+
 
 ----
 
 references: 
-- <div class="crayon article-texte-84 texte surlignable clearfix">
+- 
 <ul>
  	<li>ABBOUD, Abduh, « Les versions arabes de l’œuvre de Goethe », <i>Al</i>-<i>Adab,</i> Beyrouth, vol. 47, 7-8 (1999), p. 70-77<i>.</i></li>
  	<li>AL-MANFALOUTI, Mustapha Lotfi, <i>Ashâ</i>’<i>ir,</i> Beyrouth, Al-maktabah Chaâbiya, sans date.</li>
@@ -138,17 +138,17 @@ references:
  	<li>PEREZ, Henri, <i>La</i> <i>littérature</i> <i>arabe</i> <i>et</i> <i>l</i>’<i>islam</i> <i>par</i> <i>les</i> <i>textes,</i> Paris, Maisonneuve, 1959.</li>
  	<li>STEINER, George, <i>Après</i> <i>Babel,</i> trad. Lotrimer, Paris, Éditions Albin Michel, 1978.</li>
 </ul>
-</div>
-<div class="notes">
+
+
 
 <hr />
 
-<div id="nb1">
 
-<span class="spip_note_ref">[1] </span>Toutes les traductions françaises (placées entre crochets) des passages en arabe translittéré sont de l’auteure.
 
-</div>
-</div>
+[1] Toutes les traductions françaises (placées entre crochets) des passages en arabe translittéré sont de l’auteure.
+
+
+
 
 ----
 

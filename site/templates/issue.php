@@ -23,7 +23,7 @@
 <dl class="issue-credits">
 	<!-- TODO: Normalize terms. -->
 	<dt class="issue-credits__term">Image de couverture</dt>
-	<dd class="issue-credits__description"><?= $page->cover()->toFile()->credit() ?></dd>
+	<dd class="issue-credits__description"><? if ($page->cover()) echo $page->cover()->toFile()->credit() ?></dd>
 	<dt class="issue-credits__term">Texte de présentation</dt>
 	<dd class="issue-credits__description"><?= $page->credit_intro() ?></dd>
 	<dt class="issue-credits__term">Éditeur·rice(s)</dt>

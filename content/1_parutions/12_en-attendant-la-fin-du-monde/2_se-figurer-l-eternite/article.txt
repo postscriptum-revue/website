@@ -1,4 +1,4 @@
-title: [12-02]  Se figurer l’éternité
+title:  Se figurer l’éternité
 
 ----
 
@@ -22,13 +22,13 @@ abstract_en:
 
 ----
 
-text: <div class="texteItem">
-<div class="crayon article-texte-144 texte surlignable clearfix">
-<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid392494" src="//www.youtube.com/embed/g5RqfePFnr4" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br class="autobr" /> <i>Discussion</i>
-<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid717643" src="//www.youtube.com/embed/vT5NRWJSJts" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-</div>
-</div>
+text: 
+
+<iframe id="fitvid392494" src="//www.youtube.com/embed/g5RqfePFnr4" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<br /> <i>Discussion</i>
+<iframe id="fitvid717643" src="//www.youtube.com/embed/vT5NRWJSJts" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
 
 ----
 

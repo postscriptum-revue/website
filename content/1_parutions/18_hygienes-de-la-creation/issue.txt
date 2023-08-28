@@ -1,18 +1,16 @@
-Title: Hygiènes de la création
+title: Hygiènes de la création
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 18
+number: 18
 
 ----
 
-Intro-text:
-
-Pour certains d’entre nous, penser à l’université relève d’une certaine pathologie. Sadisme, masochisme, schizophrénie, psychoses diverses qui vont parfois jusqu’à la narratologie ou, cela peut arriver aux meilleurs, d’inexplicables et pénibles épisodes de schématisme.
+intro_text: Pour certains d’entre nous, penser à l’université relève d’une certaine pathologie. Sadisme, masochisme, schizophrénie, psychoses diverses qui vont parfois jusqu’à la narratologie ou, cela peut arriver aux meilleurs, d’inexplicables et pénibles épisodes de schématisme.
 
 Les spécialistes de la question nous prescriront : Encore trop de corps. Il faut exercer l’esprit plus régulièrement, éviter les courants d’air, et surtout favoriser l’élimination des toxines, des miasmes.
 
@@ -24,20 +22,21 @@ Puis, quelques hommes inquiétés sont conviés. Car un mystère reste entier :
 
 Nous remercions la revue <i>Post-Scriptum.org</i> et sa vaillante équipe d’accueillir ces textes aux différents degrés d’hygiène. Car si nous sommes encore à l’Université, c’est que nous ne pouvons renoncer à une certaine hygiène de la pensée, à ses rituels de purification, à son refus de la décomposition, de la jouissance inféconde, de l’attente improductive et de l’intoxication fatale. Mais que leurs voix impures fassent entendre un murmure de corps, d’insoluble matière, et surtout de SALE PLAISIR !!!
 
-Merci spécialement aux auteurs pour leur don,<br class="autobr" />à Marie-Eve Bradette, pour son travail acharné et ses conseils, et à Mathieu Bédard pour la mise en ligne, à Adam Westra pour les traductions et révisions de l’anglais, et à Vincenzo Bruno pour la photographie inquiétante.
+Merci spécialement aux auteurs pour leur don,<br />à Marie-Eve Bradette, pour son travail acharné et ses conseils, et à Mathieu Bédard pour la mise en ligne, à Adam Westra pour les traductions et révisions de l’anglais, et à Vincenzo Bruno pour la photographie inquiétante.
 
 ----
 
-Credits:
-
-<ul>
+credits: <ul>
  	<li><small>Crédit photographique : <a href="https://www.vincenzobruno.com" target="_blank" rel="noopener">Vincenzo Bruno</a></small></li>
 </ul>
 
 ----
 
-References: 
+date: 2015-05-15 00:00:13
 
 ----
 
-Uuid: wi373w3DxqYi8c6x
+references: 
+
+----
+

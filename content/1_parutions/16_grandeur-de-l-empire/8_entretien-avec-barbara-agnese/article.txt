@@ -1,4 +1,4 @@
-title: [16-08] Entretien avec Barbara AGNESE
+title: Entretien avec Barbara AGNESE
 
 ----
 
@@ -22,135 +22,135 @@ abstract_en:
 
 ----
 
-text: <div class="">
-<div class="">
-<div class="texteItem">
-<div class="crayon article-texte-106 texte surlignable clearfix"><center><span class="spip_document_52 spip_documents spip_documents_center"> <img src="http://post-scriptum.org/local/cache-vignettes/L307xH410/copyright_b._agnese-dc114.jpg" alt="" width="307" height="410" /></span></center><br class="autobr" /> <strong>Catherine Lemieux : Vous êtes nouvelle professeure au département de Littérature comparée de l’UdeM. Lorsqu’on vous lit, on ne sent pas qu’il y a à choisir entre la littérature et la philosophie. Vous avez d’ailleurs écrit un livre sur l’héritage philosophique de l’écrivaine autrichienne Ingeborg Bachmann, c’est-à-dire en quoi certains philosophes l’ont influencée, mais aussi en quoi elle lègue dans son œuvre littéraire un bagage philosophique important. Est-ce que vous avez toujours pensé que ces deux ordres du discours étaient liés, sinon indissociables ?</strong>
+text: 
+
+
+<center> <img src="http://post-scriptum.org/local/cache-vignettes/L307xH410/copyright_b._agnese-dc114.jpg" alt="" width="307" height="410" /></center><br /> Catherine Lemieux : Vous êtes nouvelle professeure au département de Littérature comparée de l’UdeM. Lorsqu’on vous lit, on ne sent pas qu’il y a à choisir entre la littérature et la philosophie. Vous avez d’ailleurs écrit un livre sur l’héritage philosophique de l’écrivaine autrichienne Ingeborg Bachmann, c’est-à-dire en quoi certains philosophes l’ont influencée, mais aussi en quoi elle lègue dans son œuvre littéraire un bagage philosophique important. Est-ce que vous avez toujours pensé que ces deux ordres du discours étaient liés, sinon indissociables ?
 
 Barbara Agnese : C’est quelque chose qui remonte aux années de lycée. On avait commencé la philosophie à 16 ans. Jusque là, je n’avais lu presque que des romans et des poèmes. Alors s’est posée cette question : quel domaine m’intéresse le plus ? Je passais déjà de l’un à l’autre et de l’autre à l’un. Je trouvais que c’était deux façons différentes d’élaborer une pensée. Que donc la littérature avait sa façon à elle de présenter les choses, une vision du monde, et que la philosophie ne faisait rien d’autre que le faire mais d’une façon apparemment plus rationnelle. Et quand j’ai dû choisir à l’université, c’était comme jeune de 18 ans, j’ai pensé que je pouvais me former « à la pensée » en passant par la philosophie, pour avoir des outils pour lire des textes plus compliqués.
 
-<strong>C’était alors toujours dans le but dernier d’étudier la littérature ?</strong>
+C’était alors toujours dans le but dernier d’étudier la littérature ?
 
 J’ai fait d’abord une maîtrise en philosophie du langage. Mais le doctorat, je l’ai complété en philosophie et en littérature. La traduction, la philosophie du langage et les littératures m’intéressaient. Tous ces domaines étaient déjà intimement liés pour moi. Le fait de faire mes études de doctorat à Vienne m’attirait aussi parce que je pourrais y perfectionner mon allemand, l’écrire et le parler quotidiennement. Je prévoyais demeurer à Vienne 3 ans, j’y suis restée 15 !
 
-<strong>Vous vous intéressez à des auteurs qui, pour ainsi dire, en ont contre le langage, ou du moins qui le considèrent avec suspicion. Je pense à Ingeborg Bachmann, Thomas Bernhard, Ludwig Wittgenstein, Jean Améry, Rainer Maria Rilke. Vous citez d’ailleurs dans l’un de vos articles cette belle phrase de Hofmannsthal : « Wahre Sprachliebe ist nicht möglich ohne Sprachverleugnung. » [Un véritable amour du langage n’est pas possible sans renier le langage.] Partagez-vous ce sentiment paradoxal ? Si oui, pensez-vous qu’un tel amour-haine du langage puisse s’avérer paralysant dans la vie académique où la langue est notre principal outil ?</strong>
+Vous vous intéressez à des auteurs qui, pour ainsi dire, en ont contre le langage, ou du moins qui le considèrent avec suspicion. Je pense à Ingeborg Bachmann, Thomas Bernhard, Ludwig Wittgenstein, Jean Améry, Rainer Maria Rilke. Vous citez d’ailleurs dans l’un de vos articles cette belle phrase de Hofmannsthal : « Wahre Sprachliebe ist nicht möglich ohne Sprachverleugnung. » [Un véritable amour du langage n’est pas possible sans renier le langage.] Partagez-vous ce sentiment paradoxal ? Si oui, pensez-vous qu’un tel amour-haine du langage puisse s’avérer paralysant dans la vie académique où la langue est notre principal outil ?
 
 Ce que ces auteurs décrivent je l’appellerais un sentiment d’insuffisance face au langage, ce qui veut dire face à soi-même : Le sentiment d’insuffisance que nous ressentons parfois quand nous voulons nous exprimer dans une langue étrangère, mais qui est là aussi quand nous nous exprimons dans notre langue maternelle. Pour ces auteurs, la langue, le langage « ne va pas de soi ». Je dirais que je comprends ce sentiment et que je suis très mal à l’aise face à la langue de bois. On la trouve dans tous les domaines d’ailleurs.
 
-<strong>Wittgenstein conçoit la philosophie comme une thérapeutique. On se guérit des prétentions métaphysiques et de ses dérives langagières par la critique du langage. Autrement dit, on se guérit de la philosophie par la philosophie. Pensez-vous qu’on puisse aussi se guérir de la poésie par la poésie, c’est-à-dire envisager une poésie combattant une langue dite poétique : sirupeuse, dissimulatrice, ornementale, pompeuse ?</strong>
+Wittgenstein conçoit la philosophie comme une thérapeutique. On se guérit des prétentions métaphysiques et de ses dérives langagières par la critique du langage. Autrement dit, on se guérit de la philosophie par la philosophie. Pensez-vous qu’on puisse aussi se guérir de la poésie par la poésie, c’est-à-dire envisager une poésie combattant une langue dite poétique : sirupeuse, dissimulatrice, ornementale, pompeuse ?
 
 Cela me fait penser à un poème de Bachmann intitulé : « keine Delikatessen » [sans fioritures]. Elle visait vraiment à dépasser la rime ou les structures traditionnelles de la poésie, mais aussi toute complaisance dans l’idée d’un beau texte, des jolies phrases ornementales. Elle remettait aussi en question la métaphore. En fait, elle disait avoir tellement maîtrisé cette forme lyrique que celle-ci semblait tourner toute seule, comme une machine. Elle n’a donc pas abandonné la poésie, comme on dit parfois, elle l’a poussée plus loin.
 
-<strong>Il y a aussi une dimension éthique à ces questionnements sur l’esthétisation du langage. Très complexe. Je me demande s’il est grossier ou convenu d’en parler par rapport à Auschwitz. Je pense par exemple à un ami, juif autrichien, dont le grand-père a été déporté vers les camps de concentration. Il se sent très troublé, même pris d’un malaise, lorsqu’il lit les poèmes que son grand-père a écrits durant cette période. Et ce qui le trouble, c’est la rime.</strong>
+Il y a aussi une dimension éthique à ces questionnements sur l’esthétisation du langage. Très complexe. Je me demande s’il est grossier ou convenu d’en parler par rapport à Auschwitz. Je pense par exemple à un ami, juif autrichien, dont le grand-père a été déporté vers les camps de concentration. Il se sent très troublé, même pris d’un malaise, lorsqu’il lit les poèmes que son grand-père a écrits durant cette période. Et ce qui le trouble, c’est la rime.
 
 Oui. Ce malaise n’est d’ailleurs pas seulement vécu par les lecteurs mais aussi par les écrivains. Les « écritures de la Shoah », dont je m’occupe depuis longtemps, se trouvent toujours confrontées au problème de la représentation. Dire l’indicible ? Par quels moyens ? Dans les camps, écrire ou dire des vers a pourtant été important pour certains ; une façon de résister à l’atrocité, de rester humain pour ainsi dire.
 
 Pour revenir aux poètes : Nelly Sachs, qui a fuit Berlin en 1940, écrivait une poésie presque scolaire, rimée. Elle a ensuite habité Stockholm, traduit plusieurs textes du suédois. Cela a profondément affecté son rapport à la langue, tout comme la guerre et l’exil, évidemment. Sa façon d’écrire la poésie a changé radicalement. Après la guerre, elle a refusé de republier ses textes de jeunesse. Le malaise dont vous parlez, ce sont d’abord les poètes qui le portent, et ce jusqu’à maintenant. J’avais d’ailleurs organisé une rencontre autour de ces questions, dans le cadre de laquelle j’avais invité des poètes contemporains qui parlaient de leur rapport à la création.
 
-<strong>Ce qui m’apparaît intéressant chez Bachmann, entre autres, c’est comment pour elle la littérature participe d’un effort de démystification du langage, alors que souvent on réfère à la littérature comme quelque chose de flou, contradictoire, ambigu.</strong>
+Ce qui m’apparaît intéressant chez Bachmann, entre autres, c’est comment pour elle la littérature participe d’un effort de démystification du langage, alors que souvent on réfère à la littérature comme quelque chose de flou, contradictoire, ambigu.
 
 Plusieurs auteurs voient dans la littérature un emploi très précis, rigoureux et rationnel de la langue et de la pensée. Je pense à Musil par exemple dont je me suis beaucoup occupée, qui a écrit des essais autant que des textes fondamentaux de la littérature mondiale.
 
-<strong>Pensez-vous même que la littérature permet de penser plus loin que la philosophie ? Par exemple, lorsque Wittgenstein parle du Mystique qu’on ne peut dire, mais qui se montre, je me dis que c’est la littérature, ce lieu où « ça se montre ».</strong>
+Pensez-vous même que la littérature permet de penser plus loin que la philosophie ? Par exemple, lorsque Wittgenstein parle du Mystique qu’on ne peut dire, mais qui se montre, je me dis que c’est la littérature, ce lieu où « ça se montre ».
 
 Le poète Eugenio Montale parle d’une brèche qui soudain se produit, comme un trou dans les mailles d’un tissu, dans les mailles du monde et qui est la possibilité de percevoir plus loin, une occasion qui s’ouvre pour se dérober immédiatement. Une sorte d’épiphanie, qui permet de changer ses perspectives sur les choses, de passer pour un moment de l’autre côté.
 
-<strong>Ce qui me semble aussi intéressant, c’est que cette ouverture du texte n’est pas non plus l’extase mystique qui implique de basculer dans la foi, c’est vraiment un mouvement de pensée ou un ébranlement de la pensée.</strong>
+Ce qui me semble aussi intéressant, c’est que cette ouverture du texte n’est pas non plus l’extase mystique qui implique de basculer dans la foi, c’est vraiment un mouvement de pensée ou un ébranlement de la pensée.
 
 En fait c’est une expérience autre, une possibilité apparaît. C’est ici entre autre que je vois un rapport entre la peinture et la littérature. Un domaine qui me fascine et sur lequel j’aimerais travailler avec des étudiants.
 
-<strong>Je lisais hier un texte de Benjamin qui rapporte ces paroles de André Gide : « Dans l’apprentissage des langues, le plus important n’est pas quelle langue on apprend ; abandonner la sienne voilà ce qui est décisif. D’ailleurs, c’est seulement alors qu’on la comprend vraiment. » Est-ce que vous sentez que vous avez pareillement abandonné et compris l’italien, votre langue maternelle, puisque que vous parlez depuis plusieurs années quotidiennement l’allemand et le français ?</strong>
+Je lisais hier un texte de Benjamin qui rapporte ces paroles de André Gide : « Dans l’apprentissage des langues, le plus important n’est pas quelle langue on apprend ; abandonner la sienne voilà ce qui est décisif. D’ailleurs, c’est seulement alors qu’on la comprend vraiment. » Est-ce que vous sentez que vous avez pareillement abandonné et compris l’italien, votre langue maternelle, puisque que vous parlez depuis plusieurs années quotidiennement l’allemand et le français ?
 
 Oui. Certainement. Et, de plus, l’activité de traduction littéraire a été déterminante dans mon expérience : prendre un texte qui m’intéresse, y « rentrer » et le transporter dans ma langue. Je comprends mieux ma langue maternelle et ses possibilités, et j’ai une vision tout à fait différente du texte après l’avoir traduit, c’est-à-dire après l’avoir lu de cette façon, en le traduisant. Voici probablement une des raisons pour lesquelles on s’intéresse à la traduction. Il se passe quelque chose, là.
 
-<strong>Parfois éprouvez-vous une certaine confusion à vous retrouver ainsi entre les langues ?</strong>
+Parfois éprouvez-vous une certaine confusion à vous retrouver ainsi entre les langues ?
 
 Non, les langues, on peut s’en servir quotidiennement sans trop de problèmes. Passer d’une langue à l’autre peut provoquer dans la vie, certes, des moments de fatigue. Mais la traduction en soi ne m’a jamais mise dans un état de confusion, au contraire. C’est une passion. C’est quelque chose que j’aime faire. Quelque chose se déclenche en moi, dans ma pensée. J’arrive au-delà du texte à penser les choses de façon différente. Parfois j’éprouve une certaine frustration devant la difficulté qu’un texte pose à sa traduction. Mais jamais cela n’éclipse ce sentiment d’éclaircissement de la langue et de la pensée. Voilà une des raisons pourquoi je m’occupe aussi d’écrivains qui n’écrivent pas dans leur langue maternelle.
 
-<strong>Je pense tout de suite à Nabokov, qui avait un anglais si riche et un vocabulaire si pointu.</strong>
+Je pense tout de suite à Nabokov, qui avait un anglais si riche et un vocabulaire si pointu.
 
 Bien sûr, aussi Beckett, Romain Gary ou Conrad en sont des exemples classiques. Ce qui m’intéresse davantage, ce sont les auteurs contemporains qui sont de plus en plus nombreux à choisir leur langue d’écriture. Tous pour des raisons différentes. Je pense à Jorge Semprún qui a écrit en français et en espagnol, ou à Héctor Bianciotti, Argentin mais d’origine italienne et qui a écrit en français. Je trouve leurs raisons fascinantes. Qu’est-ce qui se passe là, pourquoi est-ce qu’ils le font ? Cela peut être justifié par la possibilité d’être publié, ou être un choix personnel, un choix politique, philosophique. Ce qui m’intéresse est aussi le fait qu’écrire dans une autre langue n’est pas simplement se « traduire » !
 
-<strong>Pensez-vous qu’il y a quelque chose d’un réflexe presque enfantin dans le fait de trouver plaisir à prononcer les mots les plus rares pour leur sonorité, presque comme des formules magiques, et que l’on peut jouer ce jeu plus facilement dans une langue qui n’est pas la nôtre, parce que nous sommes d’emblée dans l’étranger ?</strong>
+Pensez-vous qu’il y a quelque chose d’un réflexe presque enfantin dans le fait de trouver plaisir à prononcer les mots les plus rares pour leur sonorité, presque comme des formules magiques, et que l’on peut jouer ce jeu plus facilement dans une langue qui n’est pas la nôtre, parce que nous sommes d’emblée dans l’étranger ?
 
 Pour certains auteurs c’est sûrement comme ça. D’autres trouvent dans une autre langue la distance nécessaire par rapport aux événements rapportés ou aux choses qu’ils écrivent. Ils y trouvent une sorte de possibilité d’objectivation.
 
-<strong>Est-ce qu’il y a une autre langue que vous auriez aimé apprendre, mais que vous avez écartée faute de temps ?</strong>
+Est-ce qu’il y a une autre langue que vous auriez aimé apprendre, mais que vous avez écartée faute de temps ?
 
 L’hébreu, ancien et moderne, j’aurais beaucoup aimé apprendre l’hébreu. Entre autres pour lire Aharon Appelfeld !
 
-<strong>Le plus difficile, il me semble, dans la tâche qui nous incombe comme littéraires, c’est de résister à la tentation de plaquer diverses théories sur des textes qui toujours les excèdent. D’ainsi réduire le littéraire et d’amenuiser ses pouvoirs. Comment entendez-vous l’invitation de Bachmann à envisager la littérature au-delà du jugement objectif, selon « ein lebendiges Urteil » [un jugement vivant] ?</strong>
+Le plus difficile, il me semble, dans la tâche qui nous incombe comme littéraires, c’est de résister à la tentation de plaquer diverses théories sur des textes qui toujours les excèdent. D’ainsi réduire le littéraire et d’amenuiser ses pouvoirs. Comment entendez-vous l’invitation de Bachmann à envisager la littérature au-delà du jugement objectif, selon « ein lebendiges Urteil » [un jugement vivant] ?
 
 Je pense que c’est le but de la littérature comparée d’avoir ce jugement vivant. La vie, c’est toujours mettre en relation les choses, les faire bouger, ou les voir dans un contexte et non figées dans une seule tradition. Faire vivre un texte en le mettant en rapport avec d’autres textes et d’autres écrivains, avec d’autres traditions et d’autres médias. Il s’agit, je crois, de ne pas voir les œuvres comme des monuments, qui sont là et qui parlent pour soi. Ce qui m’intéresse c’est de commencer par les textes et passer après à la théorie. Parce que le texte parle. Il est différent selon le lecteur et a une vie à soi. Laisser la liberté au texte d’être un texte. Et ensuite se servir de la théorie. Le « lebendiges Urteil » dont parle Bachmann… on pourrait essayer de l’expliquer en parlant de la citation : pouvoir se servir du travail des autres, mais sans que ce soit un plagiat, en cueillant une fleur que l’on trouve, une occasion. Et on fait autre chose avec, en l’intégrant dans son propre travail. C’est un travail d’une grande finesse. Le texte d’un auteur qui contient un « renvoi » à un autre texte. Si on voit, si on reconnaît ces renvois, on y gagne l’occasion de voir une autre possibilité du texte. Il y a, là, une littérature qui vit devant nos yeux. Toutes ces relations entre les textes, aussi celles internes au texte même. Je pense que c’est dans l’esprit de la littérature comparée de retracer, de découvrir cela. Entre autres !
 
-<strong>Alors c’est penser le jugement vivant comme la participation à un échange entre les textes. Pensez-vous que cela aussi puisse être lié à une question d’humilité ; de se laisser aller à être habité par un texte, plutôt que de passer par les théories et de se retrouver comme blindé avant même d’avoir lu. Qu’un texte devient vivant lorsqu’on l’incarne ?</strong>
+Alors c’est penser le jugement vivant comme la participation à un échange entre les textes. Pensez-vous que cela aussi puisse être lié à une question d’humilité ; de se laisser aller à être habité par un texte, plutôt que de passer par les théories et de se retrouver comme blindé avant même d’avoir lu. Qu’un texte devient vivant lorsqu’on l’incarne ?
 
 Que voulez-vous dire par « incarner » ?
 
-<strong>C’est peut-être un terme un peu glissant. Lorsque je parle de se laisser habiter par un texte, je pense à une lecture qui prend en compte autant le temps de la lecture que le temps du texte, sans pour autant le trahir. Je pense par exemple à Benjamin qui parle de l’histoire qui apparaît lorsque ces deux temps sont mis en relation, presque télescopés.</strong>
+C’est peut-être un terme un peu glissant. Lorsque je parle de se laisser habiter par un texte, je pense à une lecture qui prend en compte autant le temps de la lecture que le temps du texte, sans pour autant le trahir. Je pense par exemple à Benjamin qui parle de l’histoire qui apparaît lorsque ces deux temps sont mis en relation, presque télescopés.
 
 On pourrait comprendre cela aussi comme une empathie. Ce n’est pas ce qu’il faut faire, je crois. Il faut toujours rester objectif face à un texte. Mais être habité par le texte, si je comprends comment vous le dites, c’est prendre en compte le contexte du texte et de chaque lecture individuelle et considérer qu’un texte, même vieux de cinq siècles, peut dire beaucoup de chose et être actuel. Il faut la connaissance pour établir le lien historique dont vous parlez, se renseigner sur le contexte de création et de réception du texte à l’époque. C’est très important, même si cela vient après avoir lu le texte.
 
-<strong>C’est un danger d’opposer lecture objectivante stérile et lecture subjective, complètement libre. À s’adonner à cette supposée liberté, on tombe dans le délire interprétatif, qui n’est intéressant à lire pour personne.</strong>
+C’est un danger d’opposer lecture objectivante stérile et lecture subjective, complètement libre. À s’adonner à cette supposée liberté, on tombe dans le délire interprétatif, qui n’est intéressant à lire pour personne.
 
 Oui l’opposition n’est pas très productive ! Il faut savoir ou apprendre à interpréter. L’interprétation d’un texte peut être très intéressante si c’est Derrida qui l’a faite, comme philosophe, et non dans le but de nous expliquer un texte. Son but est de développer ses idées à lui, qui sont provoquées par le texte. Lire est toujours interpréter, toujours « traduire » un texte.
 
-<strong>Comment considérez-vous alors l’idée d’une fidélité au texte, qui empêcherait d’en abuser ?</strong>
+Comment considérez-vous alors l’idée d’une fidélité au texte, qui empêcherait d’en abuser ?
 
 J’aime beaucoup les archives. J’aime beaucoup voir si le texte a été retravaillé par l’auteur, par exemple. Essayer de s’approcher du texte d’une perspective philologique. Dans un grand respect pour le texte. Ensuite rassembler les informations qui visent à compléter une vision d’ensemble, qui pourtant n’est jamais complète. La fidélité, il faut la définir. Avoir un rapport de respect au texte, ne pas lui faire dire ce qu’il ne dit pas. Essayer de le voir en rapport à d’autres textes…
 
-<strong>Pensez-vous que c’est là aussi, dans les rappels intertextuels, que l’on sent le mouvement des langues qu’évoque aussi Walter Benjamin ?</strong>
+Pensez-vous que c’est là aussi, dans les rappels intertextuels, que l’on sent le mouvement des langues qu’évoque aussi Walter Benjamin ?
 
 Possible. Ce texte auquel vous faite allusion [« La tâche du traducteur »] n’est pas un texte théorique sur la traduction. Il y a des moments dans ce texte qui sont très forts et importants et qui ne concernent pas simplement la traduction, mais l’auteur, le philosophe, la pensée. Quand est-ce qu’il y a pensée.
 
-<strong>Pensez-vous qu’en fait il y a quelque chose, j’allais dire d’absurde, mais ce n’est pas le bon terme… Mais quelque chose d’insolite à ce que, comme intellectuels qui passions notre vie à penser, nous finissions par nous demander, ultimement, ce que c’est que penser ?</strong>
+Pensez-vous qu’en fait il y a quelque chose, j’allais dire d’absurde, mais ce n’est pas le bon terme… Mais quelque chose d’insolite à ce que, comme intellectuels qui passions notre vie à penser, nous finissions par nous demander, ultimement, ce que c’est que penser ?
 
 Beh, Descartes et beaucoup de philosophes se sont posé cette question.
 
-<strong>Mais même nous, nous nous la posons.</strong>
+Mais même nous, nous nous la posons.
 
 Oui, je me rappelle avoir attendu que les professeurs m’apprennent à penser. C’était d’ailleurs l’une des raisons pour lesquelles j’avais choisi la philosophie. Ça va me donner une structure rationnelle pour savoir penser ! Puis j’ai compris, j’ai cru comprendre du moins, qu’on peut « bien » penser, « mal » penser, évidemment, mais qu’aussi existent des règles assez simples dans ce qu’on appelle la logique, qui s’appliquent aux textes et à la vie. Mais on apprend aussi à penser comme Kant ou comme Hegel ou comme Derrida. Wittgenstein essaye de penser au-delà de la théorie. Tout en pouvant supporter cet état, parce que la théorie nous rassure.
 
-<strong>Ce qui est intéressant avec Wittgenstein, c’est qu’il fait vraiment de la philosophie une pratique.</strong>
+Ce qui est intéressant avec Wittgenstein, c’est qu’il fait vraiment de la philosophie une pratique.
 
 Oui. Une thérapeutique. Voir où le langage « tourne à vide ».
 
-<strong>Est-ce que vous pensez que le philosophe serait mieux reçu en société s’il se présentait comme un thérapeute ? Qui soigne des abus de langage par le langage ?</strong>
+Est-ce que vous pensez que le philosophe serait mieux reçu en société s’il se présentait comme un thérapeute ? Qui soigne des abus de langage par le langage ?
 
 C’est une belle question… Mais je ne sais pas s’il serait vraiment mieux reçu ! L’intellectuel de nos jours n’est pas exactement vu comme une figure incontournable, si je peux m’exprimer de façon euphémistique. Un thérapeute peut-être… il ne faudrait pas dire en quoi !
 
-<strong>Le rôle de l’expert est remis en question puisque les contenus savants nous sont accessibles plus facilement. Du moins en apparence. Nous n’avons plus autant besoin de ces transmetteurs de la tradition, ces sortes de monuments d’érudition.</strong>
+Le rôle de l’expert est remis en question puisque les contenus savants nous sont accessibles plus facilement. Du moins en apparence. Nous n’avons plus autant besoin de ces transmetteurs de la tradition, ces sortes de monuments d’érudition.
 
 Le maître à penser était une figure très importante. Mais présenter l’intellectuel ainsi, je ne sais même pas si ce serait positif pour lui.
 
-<strong>Désolée de revenir toujours à Benjamin, mais je le lisais hier, alors je le cite : « Le décisif n’est pas la progression de connaissance en connaissance, mais la fêlure à l’intérieur de chacune d’elles. Imperceptible manque d’authenticité, qui la distingue de toute marchandise fabriquée en série, faite sur un modèle. » Est-ce que vous pensez que ce n’est pas si évident de faire coïncider cette conception de la connaissance et le milieu institutionnel universitaire ?</strong>
+Désolée de revenir toujours à Benjamin, mais je le lisais hier, alors je le cite : « Le décisif n’est pas la progression de connaissance en connaissance, mais la fêlure à l’intérieur de chacune d’elles. Imperceptible manque d’authenticité, qui la distingue de toute marchandise fabriquée en série, faite sur un modèle. » Est-ce que vous pensez que ce n’est pas si évident de faire coïncider cette conception de la connaissance et le milieu institutionnel universitaire ?
 
 Je pense que nous pouvons tout faire. Qu’étudiants nous avons besoin de lire tout ce qui est le monument de la tradition et aussi de voir différentes manières de faire de la critique. Après on choisit pour soi ce que l’on veut faire. La « fêlure » rappelle la « suspicion » que l’on peut avoir face au langage, la métaphore, l’image, les beaux mots qui sont là simplement pour être beaux. Tout cela, nous ne pouvons pas le critiquer si nous ne voyons pas ce qui est derrière. On ne peut pas parler seulement de la fêlure à l’intérieur d’une connaissance ou d’une œuvre sans… la connaissance. Voilà pourquoi il n’est pas toujours facile de faire coïncider l’idée de fêlure et l’institution. Mais il est enthousiasmant d’y essayer.
 
-<strong>Vous avez lu et relu l’œuvre de Bachmann. Comment voyez-vous ce rapport à l’auteur qui se développe sur plusieurs années ? Je me rappelle certains spécialistes d’auteurs, qui en parlent avec attachement et une grande familiarité, jusqu’à les appeler par leur prénom, ce qui à vrai dire m’a paru parfois troublant. Comment vous positionnez-vous par rapport à ce rapport d’intimité ?</strong>
+Vous avez lu et relu l’œuvre de Bachmann. Comment voyez-vous ce rapport à l’auteur qui se développe sur plusieurs années ? Je me rappelle certains spécialistes d’auteurs, qui en parlent avec attachement et une grande familiarité, jusqu’à les appeler par leur prénom, ce qui à vrai dire m’a paru parfois troublant. Comment vous positionnez-vous par rapport à ce rapport d’intimité ?
 
 Il y a un risque à avoir un rapport familier avec l’auteur, qui ne me plaît pas trop. Certainement il y a une proximité. Mais ce n’est pas de l’ordre du lien familial. C’est plutôt une grande admiration, pour certains côtés de certains auteurs.
 
-<strong>Est-ce que vous sentez le besoin de sortir de la littérature autrichienne ?</strong>
+Est-ce que vous sentez le besoin de sortir de la littérature autrichienne ?
 
 Oui, la quitter et pouvoir y revenir. Ne pas rester attachée à un auteur particulier. Autre chose m’intéresse. Comme ce projet commencé en séminaire sur la littérature de la Shoah qui a eu lieu en 2009-2010. Au sein de ce séminaire, tenu dans le département de littérature comparée sur la Berggasse à Vienne, la même rue où Freud avait son bureau et sa maison, nous avons essayé aussi, dans un exposé et dans une recherche d’archive, de déterminer qui avait habité le bâtiment où se tenait le département, au cœur du quartier juif, entre 1938 et 1945 pendant la domination nazi. On a trouvé un auteur et journaliste qui y avait vécu avec sa femme avant d’être déporté à Dachau. Un éditeur à Vienne est en train de republier un petit volume de nouvelles de cet auteur avec une postface des étudiants qui avaient fait la recherche et permis la « redécouverte » de ces textes. Ils y décrivent comment on est arrivé à cette redécouverte. Nous avons réussis à remettre quelque chose de vivant dans ce séminaire, avec l’aide d’une historienne et de documents d’archives comme des photos, des documents retraçant sa conversion au catholicisme, un autre papier sur lequel était statué : « Déménagé à : Dachau ». C’est un projet sur lequel j’ai été très heureuse de travailler avant de venir ici.
 
-<strong>Comment êtes-vous d’abord entrée en contact avec la littérature québécoise ? Est-ce que certains auteurs vous intéressent davantage ?</strong>
+Comment êtes-vous d’abord entrée en contact avec la littérature québécoise ? Est-ce que certains auteurs vous intéressent davantage ?
 
 Ça m’a beaucoup fascinée. Le Canada en général. Lorsque j’étais enfant j’avais lu sur la géographie et les Amérindiens. En 2007 j’ai eu la chance d’être invitée à l’UQAM pour un trimestre et donner un cours d’introduction à la philosophie du langage. C’est à ce moment que j’ai connu la littérature québécoise. En ce moment je lis Tremblay ! J’ai lu Mordecai Richler. Ensuite Réjean Ducharme et Gabrielle Roy (grâce aux conseils d’un doctorant), Jacques Ferron et aussi Nicole Brossard que je mettrai au programme dans mon séminaire ; et la littérature migrante… Je trouve fascinante la cohabitation de deux (et plus) langues à Montréal et trouve intéressant le travail de Ying Chen, auteure qui écrit en français au Canada. Et j’ai lu des textes de Catherine Mavrikakis. En arrivant ici j’étais heureuse de sortir d’Europe. J’ai aussi habité et enseigné à Paris. L’Europe est vaste et riche de traditions différentes, mais considérée depuis l’Amérique du Nord, on la voit comme une unité, ce qui permet une perspective très différente sur la culture et la littérature. Ici il y a des potentialités énormes plus une ouverture par rapport à l’Europe, et une culture d’accueil de plusieurs cultures.
 
-<strong>Sentez-vous qu’il y a plus d’espace ici pour penser les problèmes qui vous intéressent ?</strong>
+Sentez-vous qu’il y a plus d’espace ici pour penser les problèmes qui vous intéressent ?
 
 Je ne pense pas qu’il y a plus d’espace, mais un espace différent qui m’ouvre des possibilités de pensée différentes. C’est presque revitalisant. Je suis là avec grand enthousiasme.
 
-<strong>Vos prochains projets ?</strong>
+Vos prochains projets ?
 
 À part mon premier séminaire (sur la traduction littéraire), qui donnera quelques exemples pratiques et où j’aimerais discuter des personnages traducteurs dans les romans du XXe et XXIe siècle (C’est étonnant cette prépondérance de la figure du traducteur !), je travaille aussi à un livre sur la relation à la langue maternelle et l’hybridité chez plusieurs auteurs. Et je suis encore en train de terminer quelques projets en cours, un livre est présentement sous presse, en Allemagne, il s’agit d’un volume collectif que j’ai édité avec deux collègues et porte sur Yoko Tawada, auteure japonaise qui écrit en allemand. Est-ce que son geste est le même geste que celui d’un anglophone qui écrit en français ? Chez Tawada le geste est vu comme geste entre autre ethnologique. En ce moment je travaille à un numéro de la revue <i>Europe,</i> sur la poétesse Nelly Sachs. Pour le futur, j’aimerais travailler avec des doctorants et des étudiants de l’UdeM sur les fictions de la Shoah. Je m’intéresse aussi à tout ce qui est revue littéraire, un élément culturel important et souvent oublié, disons qu’il s’agit, là, du plaisir de l’archive et de la bibliothèque. Et vraiment stimulant serait un travail d’équipe sur le théâtre au féminin, contemporain et au XXe siècle.
 
-</div>
-</div>
-</div>
-</div>
+
+
+
+
 
 ----
 

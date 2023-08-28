@@ -1,18 +1,16 @@
-Title: Deuils sans fin dans la littérature contemporaine
+title: Deuils sans fin dans la littérature contemporaine
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 14
+number: 14
 
 ----
 
-Intro-text:
-
-Du deuil aujourd’hui, l’on dit qu’il est un travail, un deuil qui commence, et qui, à un moment donné, s’arrête. La littérature apporterait à ce travail du deuil un exutoire, elle poserait le lieu d’une possible réparation, elle permettrait la survivance ; l’être perdu obtiendrait par les lignes du texte une certaine consistance et le deuil, ainsi, pourrait atteindre sa fin. Pourtant, certaines œuvres exposent l’impossibilité de cette fin, qui n’est plus travail, mais état, état indéfini et infini dans lequel s’ancre le sujet littéraire.
+intro_text: Du deuil aujourd’hui, l’on dit qu’il est un travail, un deuil qui commence, et qui, à un moment donné, s’arrête. La littérature apporterait à ce travail du deuil un exutoire, elle poserait le lieu d’une possible réparation, elle permettrait la survivance ; l’être perdu obtiendrait par les lignes du texte une certaine consistance et le deuil, ainsi, pourrait atteindre sa fin. Pourtant, certaines œuvres exposent l’impossibilité de cette fin, qui n’est plus travail, mais état, état indéfini et infini dans lequel s’ancre le sujet littéraire.
 
 Philippe Forest, dans son dernier recueil d’essais, <i>Le roman infanticide : Dostoïevski, Faulkner, Camus</i>, pose « sept propositions pour une poétique du deuil ». Il souligne comment le deuil condamne à ne pas pouvoir dire, tout en trouvant un lieu dans l’écriture. Comment penser les espaces du deuil en littérature, sans pour autant en faire des espaces consolants ? L’écriture du deuil peut-elle ouvrir sur un savoir littéraire ? Les figures du deuil qui habitent la littérature contemporaine peuvent-elles témoigner d’un changement dans notre rapport au passé et à la mort, d’un bouleversement dans l’imaginaire de la mort ? Dans une société qui définit avec précision les lieux de la mort et les lieux du deuil, quelle place prend la littérature en écrivant la perte ?
 
@@ -24,12 +22,15 @@ Les articles du deuxième volet abordent la question du deuil en pensant la pré
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2011-07-30 00:00:12
 
 ----
 
-Uuid: K7OMFlB7j2i2Dbkz
+references: 
+
+----
+

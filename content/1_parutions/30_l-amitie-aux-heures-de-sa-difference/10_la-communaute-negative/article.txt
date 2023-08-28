@@ -1,4 +1,4 @@
-title: [30-10] La Communauté négative
+title: La Communauté négative
 
 ----
 
@@ -52,13 +52,13 @@ references:
 
 Blanchot, Maurice. <i>L’Amitié</i>. Paris : Gallimard, 1971.
 
-<span style="font-weight: 400;">———</span>. <i>Celui qui ne m’accompagnait pas</i>. Paris : Gallimard, 1993 [1953].
+———. <i>Celui qui ne m’accompagnait pas</i>. Paris : Gallimard, 1993 [1953].
 
 ———. <i>La Communauté inavouable</i>. Paris : Minuit, 1983.
 
 ———. <i>Le Pas au-delà.</i> Paris : Gallimard, 1973.
 
-<span style="font-weight: 400;">———</span>. <i>L’Instant de ma mort</i>, Montpellier : Fata Morgana, 1994.
+———. <i>L’Instant de ma mort</i>, Montpellier : Fata Morgana, 1994.
 
 Critchley, Simon. « Forgetfulness Must: Politics and Filiation in Blanchot and Derrida », <i>Parallax</i> 12, no. 2 (2006): 12-22. Https://doi.org/: 10.1080/13534640600624911
 
@@ -76,17 +76,17 @@ Leroux, Georges. « À l’ami inconnu : Derrida, lecteur politique de Blanchot
 
 Nancy, Jean-Luc. <i>La Communauté désavouée</i>. Paris : Galilée, 2014.
 
-<span style="font-weight: 400;">———</span>. <i>La Communauté désœuvrée</i>. Paris : Christian Bourgois, 1983.
+———. <i>La Communauté désœuvrée</i>. Paris : Christian Bourgois, 1983.
 
 Martínez Olguín, Juan José. « La Communauté déplacée. Écriture et Communauté dans le dialogue entre Maurice Blanchot et Jean-Luc Nancy », <i>Agora</i> 38, no. 2 (2019). 197-209. <a href="http://dx.doi.org/10.15304/ag.38.2.5610">http://dx.doi.org/10.15304/ag.38.2.5610</a>. Fonds Blanchot. Houghton Library, Cambridge (MA).
 
 <hr />
 
 <h3>Notes</h3>
-<div id="sdfootnote1">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Pour un exposé plus approfondi et détaillé du débat entre Blanchot et Nancy et de sa chronologie, voir Hill 2018. Cet ouvrage fait état de la question dans ses plus récents développements. Pour une critique de la méthodologie empruntée par Nancy, voir Majorel 2015. Pour une réception plus hâtive qui critique la tendance nostalgique de Nancy, voir Bernasconi 1993. Pour une réflexion qui souligne l’apport de la littérature dans la réflexion sur la communauté, voir Detue &amp; Servais 2010. Pour un exposé de la réponse spinoziste de Jacques Rancière à Nancy et Blanchot, voir Hui Bon Hoa 2018. Pour une reconstruction du dialogue entre Blanchot et Derrida à partir du champ nietzschéen du politique, voir Leroux 1995.</p>
 
-</div>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Pour un exposé plus approfondi et détaillé du débat entre Blanchot et Nancy et de sa chronologie, voir Hill 2018. Cet ouvrage fait état de la question dans ses plus récents développements. Pour une critique de la méthodologie empruntée par Nancy, voir Majorel 2015. Pour une réception plus hâtive qui critique la tendance nostalgique de Nancy, voir Bernasconi 1993. Pour une réflexion qui souligne l’apport de la littérature dans la réflexion sur la communauté, voir Detue &amp; Servais 2010. Pour un exposé de la réponse spinoziste de Jacques Rancière à Nancy et Blanchot, voir Hui Bon Hoa 2018. Pour une reconstruction du dialogue entre Blanchot et Derrida à partir du champ nietzschéen du politique, voir Leroux 1995.</p>
+
+
 
 ----
 

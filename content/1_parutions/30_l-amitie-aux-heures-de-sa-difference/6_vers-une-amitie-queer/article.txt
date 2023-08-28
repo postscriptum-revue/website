@@ -1,4 +1,4 @@
-title: [30-06] Vers une amitié  <i>queer</i>
+title: Vers une amitié  queer
 
 ----
 
@@ -63,9 +63,9 @@ Halberstam, Jack. « Unbuilding Gender. Trans* Anarchitectures In and Beyond the
 
 Hanhardt, Christina B. <i>Safe Space. Gay Neighborhood History and the Politics of Violence</i>. Durham : Duke University Press, 2013.
 
-Hartman, Saidiya. « Venus in Two Acts ». <i>Small Axe</i> 12, no. 2 (2008): 1-14.     [https://doi.org/10.1215/-12-2-1]
+Hartman, Saidiya. « Venus in Two Acts ». <i>Small Axe</i> 12, no. 2 (2008): 1-14. [https://doi.org/10.1215/-12-2-1]
 
-<span style="font-weight: 400;">———</span>. <i>Wayward Lives, Beautiful Experiments. Intimate Histories of Social Upheaval </i>New York : Norton, 2019.
+———. <i>Wayward Lives, Beautiful Experiments. Intimate Histories of Social Upheaval </i>New York : Norton, 2019.
 
 Hetterich, Josefine. « Lesbian Linkages: Agitating the Archive of AIDS Activist Video ». <i>HIV/AIDS in the 21st Century: Memorialisation, Representation and Temporality,</i> Manchester, 16 Janvier 2020.
 
@@ -82,10 +82,10 @@ Weinberg, Jonathan. <i>Pier Groups. Art and Sex Along the New York Waterfront</i
 <hr />
 
 <h3>Notes</h3>
-<div id="sdfootnote1">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Dans les discours queer, <i>cruising</i> désigne la recherche d’un partenaire sexuel dans un espace public.</p>
 
-</div>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Dans les discours queer, <i>cruising</i> désigne la recherche d’un partenaire sexuel dans un espace public.</p>
+
+
 
 ----
 

@@ -3,7 +3,7 @@
 	<?php foreach ($latest_issues as $issue) : ?>
 		<a href="<?= $issue->url() ?>">
 			<article class="latest-issues__issue" style="--issue-color: <?= $issue->color() ?>">
-				<div class="latest-issues__issue-cover" style="background-image: url('<?= $issue->cover()->toFile()->url() ?>')">
+				<div class="latest-issues__issue-cover" style="background-image: url('<? if ($issue->cover()) echo $issue->cover()->toFile()->url() ?>')">
 					<div class="latest-issues__issue-card">
 						<p class="latest-issues__issue-card-number">PS<?= $issue->num() ?></p>
 					</div>

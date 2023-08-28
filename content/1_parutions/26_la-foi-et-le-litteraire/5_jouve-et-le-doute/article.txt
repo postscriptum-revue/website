@@ -1,4 +1,4 @@
-title: [26-05] Jouve et le doute
+title: Jouve et le doute
 
 ----
 
@@ -48,7 +48,7 @@ Le doute, alimenté et attisé par l’incroyance des <em>autres</em>, est donc 
 
 Or Jouve ne se contente pas de prendre acte de cette difficulté majeure, puisqu’il propose plusieurs réponses à « la ténèbre des grands doutes » (Jouve, 1987a : 1106).
 <h3>II. La « foi du doute »</h3>
-&nbsp;
+
 
 Jouve nous invite ainsi, dans un poème composé au début des années 50, à court-circuiter les mécanismes de la foi :
 <blockquote>Que le feu veille, que le feu dorme
@@ -92,8 +92,8 @@ C’est finalement sur cette égalité entre le livre et la vie que Jouve — à
 
 references: 
 - <ul>
- 	<li>AMMOUR-MAYEUR, Olivier. « Poétique de la différence sexuelle chez Pierre Jean Jouve : enjeux de la symbolique taoïste », <em>in</em> BLOT-LABARRÈRE, Christiane (dir.). <em>Jouve et le symbole</em>, Paris-Caen, Lettres modernes Minard, coll. « La revue des lettres modernes », série « Pierre Jean Jouve », n<sup>o</sup> 7, 2003, p. 113-148.</li>
- 	<li>CONORT, Benoît. « Muse absente proie », <em>in</em> LEUWERS, Daniel (dir.). <em>Pierre Jean Jouve</em>, <em>Europe</em>, n<sup>o</sup> 907-908, novembre-décembre 2004, p. 34-42.</li>
+ 	<li>AMMOUR-MAYEUR, Olivier. « Poétique de la différence sexuelle chez Pierre Jean Jouve : enjeux de la symbolique taoïste », <em>in</em> BLOT-LABARRÈRE, Christiane (dir.). <em>Jouve et le symbole</em>, Paris-Caen, Lettres modernes Minard, coll. « La revue des lettres modernes », série « Pierre Jean Jouve », no 7, 2003, p. 113-148.</li>
+ 	<li>CONORT, Benoît. « Muse absente proie », <em>in</em> LEUWERS, Daniel (dir.). <em>Pierre Jean Jouve</em>, <em>Europe</em>, no 907-908, novembre-décembre 2004, p. 34-42.</li>
  	<li>CUES, Nicolas de. <em>Du non-autre. Le guide du penseur</em>, trad. Hervé Pasqua, Paris, Les Éditions du Cerf, coll. « Sagesses chrétiennes », 2002 [1462].</li>
  	<li>DELEUZE, Gilles. <em>Différence et répétition</em>, Paris, PUF, coll. « Épiméthée », 2015 [1968].</li>
  	<li>DESCARTES, René. <em>Discours de la méthode</em>, introduction et notes par Étienne Gilson, Paris, Vrin, coll. « Bibliothèque des textes philosophiques », 1992 [1637].</li>

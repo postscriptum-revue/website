@@ -1,18 +1,16 @@
-Title: Un lieu pour le secret
+title: Un lieu pour le secret
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 8
+number: 8
 
 ----
 
-Intro-text:
-
-Saisi dans l’intervalle, entre une pensée de l’occulte et une autre de la transparence, le secret semble assurer le passage de l’être au paraître, du monde du réel à celui des apparences. Cet art du secret, sommes-nous encore aptes à le pratiquer ? Sommes-nous encore en mesure de comprendre sa particularité comme concept qui ni ne dit ni ne cache, mais qui signifie ?
+intro_text: Saisi dans l’intervalle, entre une pensée de l’occulte et une autre de la transparence, le secret semble assurer le passage de l’être au paraître, du monde du réel à celui des apparences. Cet art du secret, sommes-nous encore aptes à le pratiquer ? Sommes-nous encore en mesure de comprendre sa particularité comme concept qui ni ne dit ni ne cache, mais qui signifie ?
 
 Dans le dossier thématique pluridisciplinaire que nous proposons comme réalisation du groupe interuniversitaire « Penser la théorie », nous problématisons la symbolique du savoir dans l’économie du littéraire en questionnant le secret comme objet désirable et transformable, selon celui qui l’inscrit dans le texte, ou celui qui l’interprète et le met à l’épreuve. C’est donc sous le signe de la double perspective, production et réception, que la thématique du secret est abordée par les auteurs. Les figures de séducteurs et de matadors de Kierkegaard et Almodóvar mènent Mathilde Branthomme à penser une séduction qui ouvre l’espace du secret. Isabelle Buatois se penche sur la femme comme énigme chez Moreau et Maeterlinck et pointe le surgissement de l’invisible que révèle le regard parcourant les œuvres d’art. À travers la lecture de mangas traduits en français, notamment <i>Fruits Baskets</i> de Takaya Natsuki, Valérie Cools scrute les secrets involontaires qui jaillissent des traductions françaises. En déambulant dans les jardins secrets que recèlent les œuvres de Fatimi Mernissi et Abla Farhoud, Christina Jürges s’intéresse au caché des vies de femmes. Véronique Labeille plonge dans les passages de théâtre de romans de Zola, Proust et Valéry, pour déployer le mystère qui naît par le théâtral. Mirella Vadean envisage le principe du secret comme mobile d’une pensée complexe et le pose comme figure signifiant le mythe dans <i>Le Seigneur des Anneaux</i>. Un entretien avec Ginette Michaud, autour de son livre <i>Tenir au secret (Derrida, Blanchot)</i>, accompagne ces articles en voyageant dans l’espace du secret.
 
@@ -22,12 +20,15 @@ Notre contribution ne sera pas une lecture de l’identification de cette transm
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2008-12-15 00:00:34
 
 ----
 
-Uuid: qKQ2W9287TRFuKB5
+references: 
+
+----
+

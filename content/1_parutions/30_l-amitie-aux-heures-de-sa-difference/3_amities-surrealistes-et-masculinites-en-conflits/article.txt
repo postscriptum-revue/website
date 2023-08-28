@@ -1,4 +1,4 @@
-title: [30-03] Amitiés surréalistes et masculinités en conflits
+title: Amitiés surréalistes et masculinités en conflits
 
 ----
 
@@ -96,30 +96,30 @@ Vrydaghs, David. « L’avant-garde surréaliste des années 1920 face à la bo
 <hr />
 
 <h3>Notes</h3>
-<div id="sdfootnote1">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Les surréalistes ont organisé douze séances de « Recherches sur la sexualité » entre 1928 et 1932. La transcription des deux premières séances (les 27 et 31 janvier 1928) a été publiée dans le numéro de mars 1928 de la revue La révolution surréaliste, sous le titre « Recherches sur la sexualité. Part d’objectivité, déterminations individuelles, degré de conscience ». L’ensemble des numéros de la revue a été réimprimé en 1975, en un seul volume (Collectif, La Révolution surréaliste. Collection complète, Paris, Jean-Michel Place, 1975). Par ailleurs, la transcription complète des douze séances a fait l’objet de la publication suivante : Collectif, Archives du surréalisme, vol. 4. Recherches sur la sexualité. Janvier 1928-août 1932, édité par José Pierre. Paris : Gallimard, 1990.</p>
 
-<div id="sdfootnote2">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Il y aurait beaucoup à dire, dans une perspective féministe et de genre, de cette allégorie de la création artistique et littéraire comme entreprise de séduction d’une femme par un groupe d’hommes à la fois rivaux et amis. De même, la tendance réductrice de la critique à envisager Mirabelle comme n’étant que l’incarnation d’un concept, alors même que le texte en fait un personnage mouvant et multiple (à la fois concept, femme réelle, déesse, apparition magique…), pose fortement question.</p>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Les surréalistes ont organisé douze séances de « Recherches sur la sexualité » entre 1928 et 1932. La transcription des deux premières séances (les 27 et 31 janvier 1928) a été publiée dans le numéro de mars 1928 de la revue La révolution surréaliste, sous le titre « Recherches sur la sexualité. Part d’objectivité, déterminations individuelles, degré de conscience ». L’ensemble des numéros de la revue a été réimprimé en 1975, en un seul volume (Collectif, La Révolution surréaliste. Collection complète, Paris, Jean-Michel Place, 1975). Par ailleurs, la transcription complète des douze séances a fait l’objet de la publication suivante : Collectif, Archives du surréalisme, vol. 4. Recherches sur la sexualité. Janvier 1928-août 1932, édité par José Pierre. Paris : Gallimard, 1990.</p>
 
-<div id="sdfootnote3">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> « Dans “Veillées I”, Rimbaud écrit : “C’est l’ami ni ardent ni faible. L’ami” (<i>Œuvres complètes</i>, p. 138). On a souvent lu sous ces mots le vœu d’une relation apaisée avec Verlaine » (Aragon 2011, 248, n. 1).</p>
 
-<div id="sdfootnote4">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Pas même Bougnoux, qui, s’il en répertorie presque toutes les occurrences dans sa courte recension de l’édition de Follet, se contente de décrire en des termes essentialisants le jeu d’Aragon sur le féminin, parlant d’« armes de la féminité » supposément employées par le poète dans un « combat roué » où il finit « chevauché, engrossé par Breton » (Bougnoux 2012). Le choix d’un lexique marqué par les stéréotypes assimilant <i>naturellement</i> le féminin à la sournoiserie et à la reproduction de l’espèce signifie assez que la perspective des études de genre est loin d’aller de soi chez les spécialistes reconnus de l’œuvre d’Aragon.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Il y aurait beaucoup à dire, dans une perspective féministe et de genre, de cette allégorie de la création artistique et littéraire comme entreprise de séduction d’une femme par un groupe d’hommes à la fois rivaux et amis. De même, la tendance réductrice de la critique à envisager Mirabelle comme n’étant que l’incarnation d’un concept, alors même que le texte en fait un personnage mouvant et multiple (à la fois concept, femme réelle, déesse, apparition magique…), pose fortement question.</p>
 
-<div id="sdfootnote5">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> La chronologie de l’écriture d’<i>Anicet</i> pose problème et fait l’objet d’hypothèses : à ce sujet, voir la notice du roman établie par Philippe Forest (Aragon, 1997 [1921] : 1005-1016).</p>
 
-<div id="sdfootnote6">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Je ne prétends d’ailleurs pas que les masculinités hégémonique et subordonnée soient <i>naturellement</i> complémentaires, comme une pensée essentialiste chercherait à rendre complémentaires le masculin et le féminin : je réfléchis sur une tendance que je pense déceler chez Aragon, qui consiste à <i>construire </i>discursivement une complémentarité entre son ami et lui, depuis une position non pas hégémonique (qui est la position à partir de laquelle a été construite l’idée d’une complémentarité naturelle entre les hommes et les femmes) mais (partiellement) subordonnée.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> « Dans “Veillées I”, Rimbaud écrit : “C’est l’ami ni ardent ni faible. L’ami” (<i>Œuvres complètes</i>, p. 138). On a souvent lu sous ces mots le vœu d’une relation apaisée avec Verlaine » (Aragon 2011, 248, n. 1).</p>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Pas même Bougnoux, qui, s’il en répertorie presque toutes les occurrences dans sa courte recension de l’édition de Follet, se contente de décrire en des termes essentialisants le jeu d’Aragon sur le féminin, parlant d’« armes de la féminité » supposément employées par le poète dans un « combat roué » où il finit « chevauché, engrossé par Breton » (Bougnoux 2012). Le choix d’un lexique marqué par les stéréotypes assimilant <i>naturellement</i> le féminin à la sournoiserie et à la reproduction de l’espèce signifie assez que la perspective des études de genre est loin d’aller de soi chez les spécialistes reconnus de l’œuvre d’Aragon.</p>
+
+
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> La chronologie de l’écriture d’<i>Anicet</i> pose problème et fait l’objet d’hypothèses : à ce sujet, voir la notice du roman établie par Philippe Forest (Aragon, 1997 [1921] : 1005-1016).</p>
+
+
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Je ne prétends d’ailleurs pas que les masculinités hégémonique et subordonnée soient <i>naturellement</i> complémentaires, comme une pensée essentialiste chercherait à rendre complémentaires le masculin et le féminin : je réfléchis sur une tendance que je pense déceler chez Aragon, qui consiste à <i>construire </i>discursivement une complémentarité entre son ami et lui, depuis une position non pas hégémonique (qui est la position à partir de laquelle a été construite l’idée d’une complémentarité naturelle entre les hommes et les femmes) mais (partiellement) subordonnée.</p>
+
+
+
+
+
+
+
 
 ----
 

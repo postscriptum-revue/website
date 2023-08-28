@@ -1,18 +1,16 @@
-Title: L’art de la séduction ?
+title: L’art de la séduction ?
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 11
+number: 11
 
 ----
 
-Intro-text:
-
-La séduction implique une reconnaissance partielle et un détournement, elle guide en dehors du chemin sans pour autant manifester clairement l’ailleurs qu’elle promet. Ce numéro bilingue propose de penser les gestes de la séduction, ses étapes et son art, l’au-delà et l’en-deçà qu’elle propose à travers les figures qui l’exposent. Il s’agit d’explorer diverses formes de séduction, non pas pour établir un paradigme permettant de comprendre les manifestations de ce phénomène mais pour esquisser quelques silhouettes à travers des personnages de séducteurs et de séductrices et penser ainsi la puissance de la séduction. Quel dialogue, quelle complicité, quels affrontements sont à l’œuvre entre les séduits, les séduites, les séducteurs et les séductrices qui foisonnent dans les œuvres littéraires et philosophiques ? La séduction est-elle un art ? Quel espace s’ouvre dans la séduction, quelle quête se dessine à travers elle ? En évoluant entre littérature, philosophie, et psychanalyse, les articles présentés ici s’intéressent aux enjeux de l’acte séducteur. Ce numéro découle du séminaire « The art of seduction : Global language and local figures » qui a eu lieu lors du congrès de l’ACLA, <i>Global Language, local cultures</i>, en 2009 à l’Université d’Harvard.
+intro_text: La séduction implique une reconnaissance partielle et un détournement, elle guide en dehors du chemin sans pour autant manifester clairement l’ailleurs qu’elle promet. Ce numéro bilingue propose de penser les gestes de la séduction, ses étapes et son art, l’au-delà et l’en-deçà qu’elle propose à travers les figures qui l’exposent. Il s’agit d’explorer diverses formes de séduction, non pas pour établir un paradigme permettant de comprendre les manifestations de ce phénomène mais pour esquisser quelques silhouettes à travers des personnages de séducteurs et de séductrices et penser ainsi la puissance de la séduction. Quel dialogue, quelle complicité, quels affrontements sont à l’œuvre entre les séduits, les séduites, les séducteurs et les séductrices qui foisonnent dans les œuvres littéraires et philosophiques ? La séduction est-elle un art ? Quel espace s’ouvre dans la séduction, quelle quête se dessine à travers elle ? En évoluant entre littérature, philosophie, et psychanalyse, les articles présentés ici s’intéressent aux enjeux de l’acte séducteur. Ce numéro découle du séminaire « The art of seduction : Global language and local figures » qui a eu lieu lors du congrès de l’ACLA, <i>Global Language, local cultures</i>, en 2009 à l’Université d’Harvard.
 
 Sara Danièle Bélanger M. se penche sur la figure du séducteur dans le <i>Journal du Séducteur</i> et <i>La Reprise</i> de Kierkegaard. Elle interroge le rapport entre les stades esthétique et religieux et pense la quête d’absolu qui se dessine dans les textes à l’étude.
 
@@ -30,12 +28,15 @@ Mirella Vadean adopte un regard mythologique et philosophique et interroge la s�
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2009-11-15 00:00:46
 
 ----
 
-Uuid: 5lWjZki34TmgGiKI
+references: 
+
+----
+

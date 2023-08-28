@@ -1,4 +1,4 @@
-title: [30-07] L’amitié au temps de la maladie
+title: L’amitié au temps de la maladie
 
 ----
 
@@ -47,7 +47,7 @@ L’ami·e en santé éprouve un décalage de réel par rapport à l’ami·e ma
 
 S. m’écrit, <i>On te perd un peu de vue…</i><a href="#_ftnref2" name="_ftn2">[2]</a>
 
-<img class="alignnone wp-image-3375" src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img01-268x300.png" alt="" width="515" height="576" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img01-268x300.png" alt="" width="515" height="576" />
 
 L’amitié était là et suffisante en elle-même, elle continuait d’apparaître n’ayant pour sujet et pour objet qu’elle-même, <em>hic et nunc</em>, mais, désormais, l’ami·e en santé et l’ami·e malade sont voué·es à se reconnaître, à réaliser leur différence; à faire de leur amitié quelque chose qui ne partage plus « le [même] fait d’exister, la vie même<a href="#_ftnref3" name="_ftn3">[3]</a> » (Agamben 2007, 40).
 <p style="text-align: center;">*</p>
@@ -107,7 +107,7 @@ D. me répond, <i>Juste te rappeler que même loin, les gens sont là, comme des
 
 Je manque de naïveté. Je ne sais pas comment vous croire. Je suis seule. <i>Seule avec mon désespoir</i>, entonne Dalida. De cette solitude qui enveloppe les sans-famille comme moi, les sans-rien-sauf-ça, cette envie de mourir dont on n’arrive pas à savoir d’où elle vient, si elle s’arrête, et ce que peut la vie à travers ça, et comment revenir.
 
-Une silhouette, c’est personne. C’est l’effet de l’ombre, la lumière qui quitte déjà le cadre. Comme Alejandra Pizarnik, « […] je ne vois plus rien, je ne peux plus lever les yeux, vertiges, nausées, je suis lucide pourtant, je sais qu’il n’y a rien, qu’il n’y a personne à qui s’accrocher » (Pizarnik 2010, 88).   <img class="alignnone wp-image-3376" src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img02-1024x895.png" alt="" width="641" height="560" /> Même si elles ne l’avouent pas, mes amies sont inconfortables. La crainte de la contamination est dans l’air du temps. Et si j’avais tort, et si on pouvait se heurter à ma noirceur, et si on pouvait être souillé·e de moi?
+Une silhouette, c’est personne. C’est l’effet de l’ombre, la lumière qui quitte déjà le cadre. Comme Alejandra Pizarnik, « […] je ne vois plus rien, je ne peux plus lever les yeux, vertiges, nausées, je suis lucide pourtant, je sais qu’il n’y a rien, qu’il n’y a personne à qui s’accrocher » (Pizarnik 2010, 88). <img src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img02-1024x895.png" alt="" width="641" height="560" /> Même si elles ne l’avouent pas, mes amies sont inconfortables. La crainte de la contamination est dans l’air du temps. Et si j’avais tort, et si on pouvait se heurter à ma noirceur, et si on pouvait être souillé·e de moi?
 
 C. me dit, <em>Je suis encore covid-free pour un autre mois. Je peux te prendre dans mes bras</em>.
 
@@ -117,7 +117,7 @@ Le destin est moqueur.
 
 Je crie, mais qui m’entend?
 
-<img class="wp-image-3377 alignnone" src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img03.jpg" alt="" width="641" height="973" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img03.jpg" alt="" width="641" height="973" />
 
 Est-ce que le cri n’a de place que pour le silence?
 
@@ -177,7 +177,7 @@ Je n’ai besoin de rien. De rien, sauf d’écriture et de danse. D’une chamb
 
 J’ai besoin de tourner le disque, de me donner une contenance, une forme. Il y a eu un avant, et il faudra croire à un après même si je ne vois rien d’où je suis, de mon lit où vous n’êtes pas et où je vous espère, couchées si près de ma sueur et de mes pleurs.
 
-<img class="alignnone wp-image-3378" src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img04.jpg" alt="" width="697" height="518" /> L. me dit, <i>Au fond, c’est que tu dois être en vie pour vouloir ne plus l’être, non? Pleurer, c’est le contraire de mourir, non? Tu aimes toujours, donc tu vis, non? Ça te rassure si je dis tout ça?</i>
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2021/05/30-06_img04.jpg" alt="" width="697" height="518" /> L. me dit, <i>Au fond, c’est que tu dois être en vie pour vouloir ne plus l’être, non? Pleurer, c’est le contraire de mourir, non? Tu aimes toujours, donc tu vis, non? Ça te rassure si je dis tout ça?</i>
 
 Oui, oui, oui et je ne sais pas.
 
@@ -224,7 +224,7 @@ Deleuze, Gilles, et Claire Parnet. <i>Dialogues</i> <i>I</i>. Paris : Flammarion
 
 Derrida, Jacques. <i>Points de suspension</i>. Paris : Galilée, 1992.
 
-<span style="font-weight: 400;">———</span>. <i>Parages</i>. Paris : Galilée, 1986.
+———. <i>Parages</i>. Paris : Galilée, 1986.
 
 Didi-Huberman, Georges. <i>Survivance des lucioles</i>. Paris : Minuit, « Paradoxe », 2009.
 
@@ -253,22 +253,22 @@ Tapiero, Olivia. <i>Rien du tout</i>. Montréal : Mémoire d’encrier, 2021.
 <hr />
 
 <h3>Notes</h3>
-<div id="sdfootnote1">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Certains fragments du texte qui suit sont tirés de mon mémoire de maîtrise, « Le corps féminin malade comme hétérotopie queer : analyse des récits autopathographiques féministes lesbiens de Verena Stefan (<i>D’ailleurs</i>) et d’Audre Lorde (<i>Journal du cancer </i>et <i>Un souffle de lumière</i>) », Montréal, Université du Québec à Montréal, 2019, archipel.uqam.ca/13821/1/M16467.pdf?fbclid=IwAR3H_EsQCXaUl7sqc6Eor_oE0PSiNZHzcLnxetvS7nmv47FrA 7JYWnju6bk</p>
 
-<div id="sdfootnote2">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Pour fuir les impératifs du dire qui retombent souvent sur les corps marginalisés, j’installerai, dans ce texte, des bribes d’amitié, des phrases reçues, attrapées et extirpées de leur contexte, gardées près de moi comme des aide-mémoires du temps d’avant la dépression, comme des phares qui illuminent mon présent engourdi, comme des maximes qui jaillissent de biscuits de fortune, dessinant le futur. Je me taille une place difficile à tenir tous les jours, entre mes silences, mes entêtements, ma fatigue, mes chancellements… Je me dégage du fardeau de la confession, de la responsabilité de moi-même. Je laisse mes amies venir à moi. Je ne rends plus de comptes. Lors de l’écriture de ce texte, je m’accompagne également de voix de chanteuses, de cinéastes et d’autrices qui remplissent mon désert d’existence. Des photographies prises cet automne lorsque les mots devenaient trop glissants sont également insérées entre les paragraphes, dans un rapport d’écho avec les mots.</p>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Certains fragments du texte qui suit sont tirés de mon mémoire de maîtrise, « Le corps féminin malade comme hétérotopie queer : analyse des récits autopathographiques féministes lesbiens de Verena Stefan (<i>D’ailleurs</i>) et d’Audre Lorde (<i>Journal du cancer </i>et <i>Un souffle de lumière</i>) », Montréal, Université du Québec à Montréal, 2019, archipel.uqam.ca/13821/1/M16467.pdf?fbclid=IwAR3H_EsQCXaUl7sqc6Eor_oE0PSiNZHzcLnxetvS7nmv47FrA 7JYWnju6bk</p>
 
-<div id="sdfootnote3">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Je déplace le mot « même », qui se retrouve après le mot « fait » dans la citation d’origine, pour faire entendre la perte de commun qui lie maintenant le corps malade et le corps en santé. Ce déplacement met aussi l’accent sur le <i>fait</i> <i>de</i> plutôt que sur <i>exister</i>; pour les malades, le vécu se matérialise, l’existence devient un aspect palpable, un fait.</p>
 
-<div id="sdfootnote4">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Titre d’une installation vidéo de Chantal Akerman (2004).</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Pour fuir les impératifs du dire qui retombent souvent sur les corps marginalisés, j’installerai, dans ce texte, des bribes d’amitié, des phrases reçues, attrapées et extirpées de leur contexte, gardées près de moi comme des aide-mémoires du temps d’avant la dépression, comme des phares qui illuminent mon présent engourdi, comme des maximes qui jaillissent de biscuits de fortune, dessinant le futur. Je me taille une place difficile à tenir tous les jours, entre mes silences, mes entêtements, ma fatigue, mes chancellements… Je me dégage du fardeau de la confession, de la responsabilité de moi-même. Je laisse mes amies venir à moi. Je ne rends plus de comptes. Lors de l’écriture de ce texte, je m’accompagne également de voix de chanteuses, de cinéastes et d’autrices qui remplissent mon désert d’existence. Des photographies prises cet automne lorsque les mots devenaient trop glissants sont également insérées entre les paragraphes, dans un rapport d’écho avec les mots.</p>
 
-</div>
-</div>
-</div>
-</div>
+
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Je déplace le mot « même », qui se retrouve après le mot « fait » dans la citation d’origine, pour faire entendre la perte de commun qui lie maintenant le corps malade et le corps en santé. Ce déplacement met aussi l’accent sur le <i>fait</i> <i>de</i> plutôt que sur <i>exister</i>; pour les malades, le vécu se matérialise, l’existence devient un aspect palpable, un fait.</p>
+
+
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Titre d’une installation vidéo de Chantal Akerman (2004).</p>
+
+
+
+
+
 
 ----
 

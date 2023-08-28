@@ -1,18 +1,16 @@
-Title: Grandeur de l’Empire
+title: Grandeur de l’Empire
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 16
+number: 16
 
 ----
 
-Intro-text:
-
-Pour marquer la reprise de la revue, après de longues années d’absence, la nouvelle équipe éditoriale a préparé un numéro éclaté, atypique, fonctionnant tantôt comme un catalogue d’exposition, tantôt comme une revue académique traditionnelle. On y trouve, entre autres, les notes de travail d’un musicien, le journal de bord d’un directeur de département, un billet du blog Trahir augmenté et annoté par l’auteur, un compte rendu critique d’un livre controversé ; mais plus encore, ou autrement : un article sur une fausse affirmation de la NASA, une étude s’intéressant à une série de livres pour enfants, ainsi qu’un entretien sur la littérature, les langues et la philosophie avec Barbara Agnese, nouvelle professeure au département. Marqué par des différences profondes, non seulement sur le plan du contenu, mais également sur celui de la forme et de la fonction du médium, ce numéro cherche ainsi à mettre en relief le caractère pluriel de la littérature comparée, en contraste justement avec la notion d’Empire formant son noyau thématique – se voulant, du même coup, une réflexion rétrospective sur l’exposition <i>Grandeur de l’Empire – essai de comparatisme visuel</i>, présentée par le département de littérature comparée à l’automne dernier.
+intro_text: Pour marquer la reprise de la revue, après de longues années d’absence, la nouvelle équipe éditoriale a préparé un numéro éclaté, atypique, fonctionnant tantôt comme un catalogue d’exposition, tantôt comme une revue académique traditionnelle. On y trouve, entre autres, les notes de travail d’un musicien, le journal de bord d’un directeur de département, un billet du blog Trahir augmenté et annoté par l’auteur, un compte rendu critique d’un livre controversé ; mais plus encore, ou autrement : un article sur une fausse affirmation de la NASA, une étude s’intéressant à une série de livres pour enfants, ainsi qu’un entretien sur la littérature, les langues et la philosophie avec Barbara Agnese, nouvelle professeure au département. Marqué par des différences profondes, non seulement sur le plan du contenu, mais également sur celui de la forme et de la fonction du médium, ce numéro cherche ainsi à mettre en relief le caractère pluriel de la littérature comparée, en contraste justement avec la notion d’Empire formant son noyau thématique – se voulant, du même coup, une réflexion rétrospective sur l’exposition <i>Grandeur de l’Empire – essai de comparatisme visuel</i>, présentée par le département de littérature comparée à l’automne dernier.
 
 À cet égard, l’idée d’Empire recoupe, au contraire, un désir d’uniformisation du savoir et des genres, de même que l’unilatéralité d’une langue sans faille et sans métaphore, comme une sorte d’hygiène historique dans le temps homogène du progrès. Point d’horizon d’un achèvement humain relevant de l’évidence dans ce discours, cet Empire projette, en apparence, une émancipation radicale des individus, qui se joue en fait aux dépens (ou en l’absence) de chacun, déléguant la conjugaison sociale à des principes de gestion institutionnels, tels d’ailleurs que l’université, qui se trouve au centre d’un conflit d’intérêts croissant de nos jours. Dans ce contexte, la littérature comparée voudrait se considérer comme point de résistance, ou, à tout le moins, désigner ce qui pourrait l’être.
 
@@ -38,12 +36,15 @@ Bonne lecture, donc, et longue vie au renouveau !
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2014-04-15 00:00:03
 
 ----
 
-Uuid: HZt6XIlezDK5QzBp
+references: 
+
+----
+

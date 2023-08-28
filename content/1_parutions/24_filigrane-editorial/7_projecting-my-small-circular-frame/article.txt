@@ -1,4 +1,4 @@
-title: [24-07] « Projecting my small circular frame »
+title: « Projecting my small circular frame »
 
 ----
 
@@ -84,23 +84,23 @@ Finalement, la part picturale de la pensée littéraire repose sur la notion de 
 
 Dans l’objectif de la pensée littéraire, l’image, qu’elle soit pensée à partir de l’abstraction ou la concrétude, qu’elle soit matérielle ou immatérielle, est un élément omniprésent. J’ai pris le parti de soutenir que, lorsque nous lisons un objet textuel, nous dirigeons le regard vers l’intérieur, via un tiers interne, et l’image qui se lève en nous, dans notre corps peut-être, au moment présent ou par la suite des choses, est une composition visuelle qui donne à la fois son impulsion à une pensée littéraire et qui en relève, dans une dynamique qui tend à dissoudre l’opposition sensible-imaginaire.
 <h3>Figure 1</h3>
-<img class="aligncenter size-full wp-image-2133" src="http://post-scriptum.org/wordpress/wp-content/uploads/2018/04/beyle.png" alt="beyle.png" width="681" height="294" />
+<img src="http://post-scriptum.org/wordpress/wp-content/uploads/2018/04/beyle.png" alt="beyle.png" width="681" height="294" />
 <h3>Figure 2</h3>
-<img class="aligncenter size-full wp-image-2136" src="http://post-scriptum.org/wordpress/wp-content/uploads/2018/04/napoleon.png" alt="napoleon.png" width="681" height="366" />
+<img src="http://post-scriptum.org/wordpress/wp-content/uploads/2018/04/napoleon.png" alt="napoleon.png" width="681" height="366" />
 
 ----
 
 references: 
 - <ul>
  	<li>BARTHES, Roland. « Écrire la lecture ». Dans <em>Le bruissement de la langue</em><em>, Essais critiques IV</em>, 33-36, Paris, Éditions du Seuil, 1984a.</li>
- 	<li><u>             </u>. « La mort de l’auteur ». Dans <em>Le bruissement de la langue</em><em>, Essais critiques IV</em>, 63-69, Paris, Éditions du Seuil, 1984b.</li>
- 	<li><u>             </u>. « Sur la lecture ». Dans <em>Le bruissement de la langue</em><em>, Essais critiques IV</em>, 37-48, Paris, Éditions du Seuil, 1984c.</li>
+ 	<li><u> </u>. « La mort de l’auteur ». Dans <em>Le bruissement de la langue</em><em>, Essais critiques IV</em>, 63-69, Paris, Éditions du Seuil, 1984b.</li>
+ 	<li><u> </u>. « Sur la lecture ». Dans <em>Le bruissement de la langue</em><em>, Essais critiques IV</em>, 37-48, Paris, Éditions du Seuil, 1984c.</li>
  	<li>COCHRAN, Terry. <em>Plaidoyer pour une littérature comparée</em>, Québec, Éditions Nota bene, 2008.</li>
  	<li>DURAS, Marguerite. <em>Écrire</em>, Paris, Gallimard, coll. « Folio », 1993.</li>
  	<li>FOUCAULT, Michel. <em>Les mots et les choses</em><em>, Une archéologie des sciences humaines</em>, Paris, Gallimard, 1966.</li>
  	<li>GENETTE, Gérard. <em>Palimpsestes</em><em>, La littérature au second degré</em>, Paris, Seuil, 1982.</li>
  	<li>JAMES, Henry. « La Bête dans la jungle ». Dans <em>Le Motif dans le tapis — The Figure in the Carpet ; La Bête dans la jungle —The Beast in the Jungle</em>, Sous la direction de Julie Wolkenstein, Traduit par Jean Pavans, Édition bilingue. Paris, Flammarion, 2015.</li>
- 	<li><u>            </u>. <em>Letters</em>, Sous la direction de Edel Leon, Vol. III 1883-1895, London, Macmillan London Limited, 1980.</li>
+ 	<li><u> </u>. <em>Letters</em>, Sous la direction de Edel Leon, Vol. III 1883-1895, London, Macmillan London Limited, 1980.</li>
 </ul>
 <ul>
  	<li style="list-style-type: none;"></li>
@@ -123,7 +123,7 @@ references:
 
 [5] <em>Faire voir</em>, entendu ici comme opération visuelle, non comme <em>faire image</em>, qui est lié à la façon de composer l’image, que ce soit dans l’opération strictement matérielle ou purement imaginaire.
 
-&nbsp;
+
 
 ----
 

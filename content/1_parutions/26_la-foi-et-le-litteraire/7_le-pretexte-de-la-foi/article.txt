@@ -1,4 +1,4 @@
-title: [26-07] Le prétexte de la foi
+title: Le prétexte de la foi
 
 ----
 
@@ -48,7 +48,7 @@ Or la suspension telle que je cherche à l’articuler, qui apparaît présuppos
 À cette suspension présente partout au sein même de la citation de Weil, s’ajoute la suspension de sa position même en tant qu’exergue. Tiré du texte de Weil, sorti de celui-ci tel un fragment en suspens au-dessus de cet article, l’exergue n’est-il pas, sur le papier, une autre forme de la suspension ? Autrement dit, ne rappelle-t-il pas précisément l’autre terme du titre de cet article, qu’il me semble faire résonner, soit le <em>prétexte,</em> voire le <em>pré</em>-texte ? Se tenant au-dessus de cet article comme ce qui le précède et le contient, le voilà déjà plus proche en ce sens du rôle de l’exergue tel que défini par Derrida dans <em>Mal d’archives</em>, à savoir très simplement ce qui tient en lui l’annonce du texte et sa conclusion – « capital » d’un savoir et de connaissances qui font écho aux connaissances acquises de Weil, en tant, justement, qu’elles ont été suspendues, ce qui ne signifie pas pour autant qu’elles aient disparu. Et le prétexte, c’est aussi se donner une raison, à tort ou à travers, chercher une justification là où peut-être il n’y a rien ou là où peut-être il y a tout. Cacher la vraie cause ou ne pas savoir quelle serait la cause, c’est-à-dire penser ce qui fera bouger la suite de manière logique en dissimulant la logique même du mouvement — qui peut-être n’a pas de logique.
 
 C’est qu’il ne s’agit donc pas seulement de penser la question de la foi et de l’écriture, mais plutôt ce que signifie, épistémologiquement et métaphoriquement, de penser la foi comme <em>pré-texte</em> et comme suspension ou, plutôt, comme ce qui est suspendu. Là où le prétexte se ferait attache du fil sur lequel l’écriture se tient en funambule, où elle est suspendue au-dessus, et où le fil <em>jouerait</em> le rôle de la foi, particulièrement lorsqu’il tangue. Accepter de mettre ensemble, épistémologiquement et métaphoriquement, c’est d’ailleurs déjà reconnaître la puissance métaphorique du langage à mettre en scène ce dont il est difficile de parler.
-<p style="text-align: center;"><strong>*</strong></p>
+<p style="text-align: center;">*</p>
 <p style="text-align: center;">[…]</p>
 <p style="text-align: center;"><em>(Il faut ici, dans les trois points de suspension, entendre une respiration…)</em></p>
 La suspension se tient aussi dans la suite des trois points mis à l’écrit pour signaler un arrêt momentané, une pause, la reprise d’un souffle à travers l’écriture — qui signale, peut-être plus que tout autre forme de ponctuation, le mouvement qui ne s’arrête jamais totalement. Si la virgule et le point-virgule, par exemple, forcent eux aussi une reprise du souffle, ils ne laissent pas, comme les points de suspension, dans l’attente… Attente mise en scène justement par la figure de style nommée suspension, qui cherche à impatienter le lecteur, si ce n’est à aviver son intérêt, à le saisir de l’envie de poursuivre la lecture pour arriver, <em>enfin !</em>, à ce vers quoi tend la suspension. Étrange équilibre, qui risque soit la chute d’une déception inattendue ou la montée d’une arrivée jubilatoire. Jeu sur la durée, entendue comme écoulement.
@@ -69,7 +69,7 @@ Ce premier roman de Klossowski, dans lequel le personnage de Jérôme se fait ma
 
 Ce qui tangue ici, qui bouge délicatement, c’est la possibilité même d’une interprétation qui correspondrait en tout point au <em>telos</em> de la foi, donc à son accomplissement par sa reconnaissance immédiate. Le croyant — à titre de figure — subit le texte « dont le pivot est la foi » comme la preuve de l’athéisme, comme gage encore d’une nécessité d’écrire sur les expériences de la foi pour projeter l’idée d’une conversion qui ne sera jamais achevée. Il n’est alors plus suspendu, mais ancré dans la dispersion où s’effrite le Même à partir duquel il se conçoit. Alors que l’auteur de ce livre sur la foi en tant que vocation suspendue — et il faut entendre auteur aussi de manière figurative — n’est pas purement dans la défaite, puisque ce qui est suspendu n’est pas dissolu. La suspension, jeu de l’écoulement de la durée, attente d’une chute ou d’une montée, tient ensemble, dans/par/avec l’écriture, le passage du particulier au général, sans jamais signaler lequel des deux est présenté. Prétexte caché de la raison qui aspire elle aussi à organiser le monde sous l’égide d’un mouvement du général au particulier. Utiliser la foi comme prétexte, c’est au moins admettre le déraisonnable de l’écriture.
 <blockquote>Mais il attendait la restitution de son corps dans le siècle à venir et il prolongeait sous ce prétexte son errance dans les couloirs de la commanderie du Temple […] et de la sorte il tentait une fallacieuse distinction de son propre souffle avec d’autres, et de reculer autant qu’il se pouvait la confusion dans le Souffle unique […] (Klossowski, 1965 : 88-89)<a href="#_ftnref1" name="_ftn1"></a></blockquote>
-&nbsp;
+
 
 ----
 
@@ -83,7 +83,7 @@ references:
  	<li>NIETZSCHE, Friedrich. <em>Par-delà bien et mal</em>, Paris, Gallimard, 1971.</li>
  	<li>KLOSSOWSKI, Pierre. <em>La vocation suspendue</em>, Paris, Gallimard, 1950.</li>
  	<li>――――. <em>Le Baphomet</em>, Paris, Gallimard, coll. « Mercure de France », 1965.</li>
- 	<li>W. SMITH, Daniel. “Klossowski’s reading of Nietzsche : Impulses, Phantasms, Simulacra, Stereotypes”, <em>Diacritics</em>, Vol. 35, n<sup>o</sup> 1, <em>Whispers of the Flesh, Essays in Memory of Pierre Klossowski</em>, pp. 8-21, 2005.</li>
+ 	<li>W. SMITH, Daniel. “Klossowski’s reading of Nietzsche : Impulses, Phantasms, Simulacra, Stereotypes”, <em>Diacritics</em>, Vol. 35, no 1, <em>Whispers of the Flesh, Essays in Memory of Pierre Klossowski</em>, pp. 8-21, 2005.</li>
 </ul>
 
 <hr />
@@ -91,7 +91,7 @@ references:
 <h3>Notes</h3>
 <a href="#_ftnref1" name="_ftn1">[1]</a> Il ne s’agit pas ici d’utiliser l’expression <em>comme si</em> de manière à supposer la représentation en tant que mimésis, d’où la précision quant à la mise en scène.
 
-<a href="#_ftnref2" name="_ftn2">[2]</a> Si en photographie on parle de mise au point, le terme « accommodation » réfère quant à lui, en ophtalmologie, à l’opération de la mise au point lorsque celle-ci est opérée directement par le corps, par l’œil : «  Ophtalmologie, opt. Mise au point de la vision (grâce aux modifications de courbure du cristallin selon la distance des objets et grâce à la dilatation de la pupille selon les variations d’intensité lumineuse) de façon à former une image claire et nette sur la rétine » (CNTRL, en ligne : Accommodation).
+<a href="#_ftnref2" name="_ftn2">[2]</a> Si en photographie on parle de mise au point, le terme « accommodation » réfère quant à lui, en ophtalmologie, à l’opération de la mise au point lorsque celle-ci est opérée directement par le corps, par l’œil : « Ophtalmologie, opt. Mise au point de la vision (grâce aux modifications de courbure du cristallin selon la distance des objets et grâce à la dilatation de la pupille selon les variations d’intensité lumineuse) de façon à former une image claire et nette sur la rétine » (CNTRL, en ligne : Accommodation).
 
 ----
 

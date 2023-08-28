@@ -1,4 +1,4 @@
-title: [29-06] Beckett ou l’impensable venue au monde
+title: Beckett ou l’impensable venue au monde
 
 ----
 
@@ -25,7 +25,7 @@ abstract_en: <p>From a romantic perspective, nothing that exists must be declare
 text: <h5></h5>
 <h5></h5>
 <h5 style="text-align: right;">Il nous faut mener à bien notre travail d’enfantement aporétique.<i> </i>Damascius (1987 : 215.)</h5>
-&nbsp;
+
 
 Notre sentiment de la difformité est indissociable d’un embarras où nous jette parfois l’ontologie nominale héritée des Grecs. En effet, selon une tradition platonicienne que Plotin reprend à son compte, c’est « en participant à une Forme que les êtres d’ici-bas sont beaux » (Plotin, 2002 : 69), où l’absence de participation à une forme signifie, non pas que <i>ceci</i> n’a physiquement aucun contour, mais que ce n’est pas une chose déterminée. On pourrait en faire un dessin, une photographie, un relevé, mais non pas dire ce que c’est. Quand <i>ceci</i> ne participe pas à une forme, ceci est inqualifiable, ou innommable. Aussi, ne pouvant recevoir de nom, ceci ne peut guère fournir le thème d’une phrase grammaticale. Sur de l’inqualifiable on ne saurait véritablement prédiquer (<i>legein</i>)<a href="#_ftnref1" name="_ftn1">[1]</a>. Or échapper ainsi au <i>logos</i> c’est ne pas avoir sa place dans le monde parlé par les hommes. L’absence de participation à une forme a d’emblée quelque chose d’abominable. Pourtant, on observe que la laideur a été plus qu’à son tour l’affaire de ceux qui se sont mêlés d’écrire. Être laid ne s’est pas toujours réduit à ce défaut essentiel qui affecte ce qui, n’ayant ni queue ni tête, oblige à se détourner. Rappelant tout d’abord que les artistes romantiques se sont passionnés pour la laideur, nous montrerons qu’ils l’ont fait dans un esprit encore platonicien. En effet, ils ont vu dans la laideur la promesse d’une beauté dicible – dans le futur. Mais le paysage a changé avec Samuel Beckett. Chez lui la misère verbale, la scatologie, les expressions convenues et le bavardage semblent cultivés en tant qu’ils n’annoncent rien. Ils témoignent de ce que le sujet de la parole ne sera jamais un fait accompli. L’accouchement est en cours; l’enfant ne vient pas; on pourrait croire à une fausse couche. Or tel fut justement la posture de Damascius : contrairement à Platon, l’ultime penseur néoplatonicien de l’Antiquité en vint à écrire parce qu’en fait de principe il n’avait en vue rien de dicible. L’écriture prédispose-t-elle à saisir la laideur en dehors de toute référence à une forme? En mettant l’infructueuse phénoménologie du sujet beckettien en résonnance avec l’ontologie aporétique de Damascius nous chercherons quel peut être le dynamisme propre de la laideur.
 <h3>La beauté cachée des laids</h3>
@@ -89,18 +89,18 @@ VLAD, Marilena. <i>Damascius et l’Ineffable, Récit de l’impossible discours
 <hr />
 
 <h3>Notes</h3>
-<div id="sdfootnote1">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> C’est dans <i>Le Sophiste</i>, 262d, que Platon décrit le <i>legein</i> comme travail de prédication (2011 : 281).</p>
 
-<div id="sdfootnote2">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Sur la question de savoir si un poil, de la boue, de la crasse et autres saletés correspondent à des formes intelligibles, voir Platon, <i>Parménide</i>, 130c-d.</p>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> C’est dans <i>Le Sophiste</i>, 262d, que Platon décrit le <i>legein</i> comme travail de prédication (2011 : 281).</p>
 
-<div id="sdfootnote3">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> <i>Pour en finir encore et autres foirades</i> est un recueil de textes de Beckett publié en 1976.</p>
 
-</div>
-</div>
-</div>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Sur la question de savoir si un poil, de la boue, de la crasse et autres saletés correspondent à des formes intelligibles, voir Platon, <i>Parménide</i>, 130c-d.</p>
+
+
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> <i>Pour en finir encore et autres foirades</i> est un recueil de textes de Beckett publié en 1976.</p>
+
+
+
+
 
 ----
 

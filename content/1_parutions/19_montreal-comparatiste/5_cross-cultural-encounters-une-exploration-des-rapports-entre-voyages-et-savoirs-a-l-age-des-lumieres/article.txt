@@ -1,4 +1,4 @@
-title: [19-05] <i>Cross-cultural Encounters</i>, une exploration des rapports entre voyages et savoirs à l’âge des Lumières
+title: Cross-cultural Encounters, une exploration des rapports entre voyages et savoirs à l’âge des Lumières
 
 ----
 
@@ -22,10 +22,10 @@ abstract_en:
 
 ----
 
-text: <div class="texteItem">
-<div class="crayon article-texte-232 texte surlignable clearfix">
+text: 
 
-<strong>DESPOIX Philippe et Fetscher, Justus. <i>Cross-cultural Encounters and Constructions of Knowledge in the 18th and 19th Century : Non-European and European Travel of Exploration in Comparative Perspective</i>. Kassel University Press, 2004.</strong>
+
+DESPOIX Philippe et Fetscher, Justus. <i>Cross-cultural Encounters and Constructions of Knowledge in the 18th and 19th Century : Non-European and European Travel of Exploration in Comparative Perspective</i>. Kassel University Press, 2004.
 
 Publié sous la direction de Philippe Despoix, professeur de littérature comparée à l’Université de Montréal, et de Justus Fetscher, chercheur à l’Université de Berlin, <i>Cross Cultural Encounters</i> est un ouvrage collectif réunissant plusieurs textes de spécialistes européens et américains du 18e et du 19e siècle. Le recueil s’intéresse à l’élaboration du savoir dans le cadre des grands voyages d’exploration de l’époque des Lumières. Employant une méthode interdisciplinaire et comparatiste, les auteurs étudient le rôle décisif joué par les expéditions européennes dans la conquête scientifique du monde, ainsi que les effets des discours et savoirs émergeant de ces voyages. Ils analysent en outre les relations entre les disciplines des sciences humaines et des sciences de la nature.
 
@@ -41,8 +41,8 @@ La dernière section du livre vient compléter le tableau des explorations europ
 
 Dans <i>Savage navigation : Melville’s Inversion of Cook</i>, Robert Stockhammer s’intéresse lui aussi aux tensions inhérentes au positivisme et à la volonté de maitriser la planète jusque dans ses moindres détails. Le roman <i>Moby Dick</i>, d’Herman Melville, offrirait une réintroduction de l’inconnu dans un monde dont les limites et les coordonnées géographiques sont contrôlées avec précision depuis les voyages scientifiques menés par des navigateurs tels que James Cook. L’emplacement toujours indéterminé de la baleine (qui ne se trouve sur aucune carte), ou encore la présence concrète de l’océan sont des éléments qui remettent en question la volonté d’une connaissance totalisante des explorateurs du siècle précédent. L’ouvrage se conclut sur cet exemple de déconstruction ou inversion du projet des Lumières, laissant entrevoir de riches voies de réflexion sur les liens entre les voyages scientifiques et l’élaboration de l’identité occidentale moderne, aussi bien en Europe qu’aux États-Unis.
 
-</div>
-</div>
+
+
 
 ----
 
