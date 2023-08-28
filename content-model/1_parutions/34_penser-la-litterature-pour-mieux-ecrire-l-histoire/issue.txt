@@ -1,0 +1,61 @@
+Title: Penser la littérature pour mieux écrire l’histoire
+
+----
+
+Subtitle: Voies communes, tensions et rencontres dans les écritures historiennes et littéraires
+
+----
+
+Cover: - file://NabzUPHtX64nQAhR
+
+----
+
+Color: #af0707
+
+----
+
+Date: 2023-07-01
+
+----
+
+Credit-editors: François-Xavier Garneau
+
+----
+
+Credit-revision: L’équipe de Post-Scriptum
+
+----
+
+Credit-webmaster: Raphael Nunez
+
+----
+
+Intro-text: [{"content":{"text":"<p>« Penser la littérature pour mieux écrire l’histoire : voies communes, tensions et rencontres dans les écritures historiennes et littéraires » : ce titre a pour but d’encapsuler la thématique de ce numéro, c’est-à-dire l’exploration des diverses relations qui lient la littérature et l’histoire. Deux questions en sous-tendent en ce sens l’angle d’approche, soit : comment des textes littéraires abordent et traitent d’événements historiques, et à l’inverse, de quelle(s) manière(s) des ouvrages issus de la discipline historienne empruntent-ils à la littérature des éléments formels ou narratifs?</p>\n<p>De ces grandes questions découlent d’autres enjeux qui sont abordés dans les textes rassemblés ici, notamment : les rapports entre fiction et réel ainsi que les relations liant le social et le littéraire; les usages possibles des archives en littérature et en histoire; la réécriture décoloniale et contrefactuelle de certaines formes hégémoniques de l’histoire.</p>\n<p>Que ces rencontres entre l’histoire et la littérature soient conflictuelles ou harmonieuses, elles nous amènent à reconsidérer les limites et les possibilités de chacun de ces domaines, à explorer à la fois leur complémentarité, leurs différences, voire leur incompatibilité; à interroger ce qu’ils peuvent faire – sur les plans formel, théorique, narratif, conceptuel – l’une pour l’autre, mais aussi à mieux cerner et comprendre les zones où les deux disciplines occupent des rôles bien distincts.</p>\n<p>L’article « La crise de la tonnellerie algéroise dans “Les Muets” d’Albert Camus : ce que la fiction et l’histoire peuvent recevoir l’une de l’autre » de Christian Phéline vise justement à réfléchir en commun le texte de Camus et le contexte sociohistorique et politique qui en constitue la trame de fond et le rapport de l’écrivain algérois à ce contexte historique.</p>\n<p>Cette dimension sociale, voire sociologique et son rapport au littéraire est également examinée dans l’article d’Amina Cheraiet, « Enquête romanesque : la figure du terroriste Moudjahid dans À quoi rêvent les loups de Yasmina Y. Khadra ». Cheraiet y analyse la représentation littéraire du personnage du terroriste dans le roman à la lumière d’une étude sociologique menée par Abderrahmane Moussaoui.</p>\n<p>Avec le troisième texte, « Counterfact and Truth: Re-imagining History in a Postcolonial Subgenre », Craig Smith réfléchit à la manière dont les écrits contrefactuels détournent l’épistémologie conventionnelle de l’historiographie, en se penchant sur deux ouvrages issus des littératures postcoloniales.</p>\n<p>Dans « De l’historiographie à l’affect : Anamorphose de l’histoire dans Les Onze de Pierre Michon », Étienne Lussier nous transporte dans l’histoire de la révolution française, plus précisément dans la période l’ayant suivie. Il y réfléchit à la manière dont Michon examine dans son roman la question de l’esthétique et de la conception du temps historique.</p>\n<p>Anna Bradshaw, dans « Using Multimodal Texts to Reconcile History in W.G. Sebald’s Austerlitz », revisite ce roman bien connu de l’écrivain allemand. Elle se questionne à savoir comment l’histoire de la Shoah peut être analysée en ayant recours à des photographies et à un texte littéraire.</p>\n<p>L’article « Récits historiques et discours romanesque dans Iḍ d Wass d’Amer Mezdad », de Salim Ayad, vise quant à lui à étudier comment la narration romanesque, dans l’ouvrage de cet écrivain d’expression kabyle, est partie prenante d’une relecture de l’histoire coloniale de la Kabylie.</p>\n<p>Finalement, dans « Une lecture morale de l’histoire : la crise de l’exemplarité et le problème des exempla chez les premiers moralistes (1580-1647) », c’est la question de la crise de l’exemplarité qu’examine son auteur, Kevin Berger Soucie. Il y réfléchit à l’apparition d’une nouvelle modélisation de l’histoire chez les premiers moralistes qui entretiennent un rapport herméneutique avec la matière historique.</p>"},"id":"0a614445-1552-436e-b11b-8dee6fca9713","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: 
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: <ul><li>François-Xavier Garneau</li></ul>
+
+----
+
+Credit-cover: Maxime Pigeon
+
+----
+
+Introduction: 
+
+----
+
+Uuid: ugM4KqwhaspRWhRX
+
+----
+
+Credit-intro: <ul><li>François-Xavier Garneau</li></ul>

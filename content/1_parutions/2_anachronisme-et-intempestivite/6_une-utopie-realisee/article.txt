@@ -1,0 +1,177 @@
+title: [02-06] Une Utopie réalisée
+
+----
+
+subtitle: le Cyber à portée de tous
+
+----
+
+author: Thierry BARDINI
+
+----
+
+affiliation: Université de Montréal
+
+----
+
+abstract_fr: Résumé *intempestif* c’est-à-dire dans ce cas-ci, trop tôt certainement. Au ton intempestif dudit texte, au sens de « déplacé » pour un article sérieux, j’ajoute en effet ici un prématuré préambule : je veux dire nettement, assez de discours délirant sur « l’utopie du cyberespace », sus aux démarcheurs en rêve en gros, global comme leur ego ; l’utopie du cyberespace, si elle est, est l’appel paradoxal et uchronique d’un objet éternel qui n’a pas besoin de nosu pour être, mais nous rêve en se matérialisant —cycliquement. Vous êtes bien avancés maintenant…
+
+----
+
+abstract_en: An *untimely* summary &lt;[hence] not of its time ; inopportune, displaced&gt; and in this case, certainly too soon. The tone of the text is untimely, to the extent that it is “out of place”‚ for a serious article. And so I add a premature preamble : I want to say clearly, enough with the crazy talk about the “utopia of cyberspace”, out with campaigners of wholesale dreams as universal as their egos, the utopia of cyberspace, if it exists at all, is the paradoxical and uchronic call from an eternal object which does not need us in order to be, but dreams us as it materializes —cyclically. And now you have come further ahead…
+
+----
+
+text: <div class="crayon article-texte-77 texte surlignable clearfix">
+<blockquote class="spip_poesie">
+<div><i>I</i> <i>like</i> <i>to</i> <i>think</i> <i>(it</i> <i>has</i> <i>to</i> <i>be)</i> <i>of</i> <i>a</i> <i>cybernetic</i> <i>ecology</i> <i>where</i> <i>we</i> <i>are</i> <i>free</i> <i>of</i> <i>our</i> <i>labors</i> <i>and</i> <i>joined</i> <i>back</i> <i>to</i> <i>nature,</i> <i>returned</i> <i>to</i> <i>our</i> <i>mammal</i> <i>brothers</i> <i>and</i> <i>sisters,</i> <i>and</i> <i>all</i> <i>watched</i> <i>over</i> <i>by</i> <i>machines</i> <i>of</i> <i>loving</i> <i>grace</i></div>
+<div>--Richard Brautigan</div></blockquote>
+Ici, ON lira peut-être que Koublaï Khan rêva de l’Internet, que l’ordinateur, comme son nom l’indique, commence avec Pierre (ou Jacques)… ou même Moïse ! Pourquoi pas l’anachronisme <i>radical,</i> en effet ? ON dit bien aussi, et de source autorisée, paraît-il, que l’Internet a été inventé par/pour les militaires américains pour se prémunir de la possibilité d’une attaque nucléaire sur leur territoire. Soit un anachronisme subtil, car la commutation par paquet, principe opératif de l’ARPANET —le précurseur d’Internet— a en effet été inventé en 1962 par Paul Baran à RAND, le <i>think</i> <i>tank</i> du Pentagone, et pour de telles raisons : un <i>sputnik</i> en orbite, un pylône ou deux explosent dans l’Utah, menace d’une guerre glaciale et premier attentat terroriste sur sol US. Mais l’Internet, lui, c’est dix ans plus tard, l’ARPANET, sept ans plus tard… Petit anachronisme devient Histoire, la subtilité fonde l’interprétation, un accommodement avec la chronologie, oh à peine, juste une extrapolation.
+
+Mais justement, et si cette extrapolation était fondatrice, si l’anachronisme était le ressort le plus fondamental du discours historique ? Michel de Certeau n’est pas aussi radical, mais il dit quand même que « le rapport du présent au passé est la spécialité de l’historiographie » (1975 : 353). Il le rappelle fort bien, on le sait depuis les thèses de Raymond Aron, quand « une première critique du “scientisme” a dévoilé dans l’histoire “objective” son rapport à une place, celle du sujet » (65). Je vais donc m’engouffrer dans cette première inversion, du temps à l’espace :
+<blockquote class="spip">Politique dans son essence, le discours historique suppose la <i>raison</i> <i>du</i> <i>lieu.</i> Il légitime une place, celle de sa production, en « comprenant » les autres dans un rapport de filiation ou d’extériorité. Il <i>s’autorise</i> <i>du</i> <i>lieu</i> qui permet d’expliquer comme « étranger » le différent ou comme unique l’intérieur (354).</blockquote>
+En suivant résolument la méthode de la structure absolue (Abéllio 1965), je propose même d’inverser cette inversion en l’intensifiant, en passant du lieu à l’utopie, et en localisant étrangement l’utopie du cyberespace, ce lieu de tous les lieux. Je vous propose donc ici une fiction, une petite promenade au pays de l’utopie de la communication. Pour parler d’une utopie actuelle, j’ai choisi l’utopie cybernétique sous sa forme du moment, le cyberespace. Pour cela, je me livre à un double voyage au pays de l’utopie. Car enfin pourquoi ne pas filer la métaphore, et réaliser tous ces non-lieux en un voyage ?
+
+Le cyberespace est (aussi) un projet politique et démiurgique, un espace de projection à <i>n</i> dimensions, ce qui se rapproche le plus à l’heure actuelle de cette évanescente sphère de rayon infini centrée sur chacun de ses points (Pascal, reprenant Alain de Lille). Chacun et chacune y plaquera ses angoisses et ses délires, au gré de ses ambitions et de ses cauchemars. Je ne veux pas parler ici de l’utopie avec un U capital (ou capital avec un K). Laissez-moi seulement vous parler de l’utopie réalisée et de son image inverse dans le miroir, la résistance du rêve.
+
+J’ai donc choisi deux lieux pour situer l’utopie, en suivant en cela deux guides certifiés. Pour l’utopie réalisée, qui d’autre que Jean Baudrillard, l’occidental extrême, le maître du simulacre, pour me pointer du doigt Salt Lake City ? Pour la résistance du rêve, qui d’autre que Jorge Luis Borges, l’aveugle bibliothécaire, un autre extrême occidental, pour m’enseigner le vide de la Patagonie ?
+<h3 class="spip">Erewhyna<span class="spip_note_ref"> [1]</span>, U.S.A.</h3>
+L’Amérique, nous disait Jean Baudrillard en 1986, est la patrie de l’utopie réalisée, et Salt Lake City en est le point de fuite (« vanishing point ») dans l’hyperespace : voilà, le concept de Salt Lake City, ce vortex dans le Désert de Sel. Erik Davis me l’a confirmé depuis, dans un article pour l’excellent <i>21C</i> (Davis 1997) : les voûtes mormones décrivent bien le point de fuite de la réalisation américaine du cyberespace. Ces voûtes concrètes et virtuelles à la fois, que les Mormons peuplent d’âmes mortes souvent fraîchement baptisées, et d’avatars aussi (comme Jeanne d’Arc, qui en aurait quatorze). Et tout cela dans la lumière intense du désert de sel qui fait dire à Baudrillard que « toute la ville d’ailleurs a la transparence et la propreté surhumaine, extraterrestre, d’un objet venu d’ailleurs » (Baudrillard 1986 : 8).
+
+L’espace à conquérir en ce début de fin de millénaire agité ne peut plus être que symbolique, ancré sur une économie politique du signe. De l’Alpha du Centaure à l’Oméga de la Noosphère, en passant par l’aleph Talmudique. Dans l’ombre de la course au premier pas sur les astres, achoppant pour un temps sur un pauvre satellite désolé et mesurant le possible au rythme des planètes, chaudes ou froides, dans un climat de guerre glaciale ne délivrant en fin de compte que des pluies atomiques stérilisantes, nous nous sommes pris à rêver d’un pur construit de nos consciences, vite transformé en machine de guerre commerciale, elle aussi. Soyons plus clairs. Tentons rapidement l’autopsie.
+
+Le cyberespace naît au début des années 1980. En 1984 qui ressemble à peine au 1984 orwellien, William Gibson invente le mot <i>Cyberspace,</i> « une hallucination consensuelle et collective ».
+
+<strong>1984.</strong> Le cyberespace naît donc à l’heure des guerres des étoiles (version Hollywood et donc déjà mondiale), dont il anticipe, dans une certaine mesure, les essoufflements. L’Amérique, la patrie de l’utopie réalisée, sa patrie natale, est alors (presque) triomphante. Elle sourit de toutes les dents de ses acteurs présidents (Reagan ou un clone de Walt Disney ?) et de ses réalisateurs visionnaires (Lucas et Spielberg). La néo/ex-Société des Nations n’a qu’à bien s’accrocher à son siège éjectable. Depuis plus de quinze ans alors, la résistance s’est bien installée en une constellation de complets trois pièces cravate tirant sur le noir. Les jolis idéaux de 1968 se sont teintés de réalisme vert mention InGodWeTrust, les pyramides New Age ornent toujours les devises unitaires, mais plus personne ne les lit, trop occupé à renégocier l’histoire de la frontière dans un délire de développement personnel. C’est la minute de l’ego, l’heure de l’inflation galopante. La contre-culture s’installe dans des ersatz prêts à consommer, et sur les miniatures de l’époque, où il côtoie harmonieusement Gandhi et Ronald Macdonald (le clown), Saint Kerouac a des faux airs de démarcheur. On commence à vendre des Apple comme si c’étaient des oranges. Il fait bon vivre de ses rentes virtuelles, dans l’espace du copyright <i>opera</i> <i>mundi.</i> ET téléphone maison.
+
+© Tous droits de reproduction interdits.
+
+Réaction : le cyber prend une attitude d’époque, PUNK. Oui, Punk. La résistance à la résistance se désorganise, c’est enfin le chaos. Le SIDA pointe son nez, le vomi sur « My Way » a séché malgré les courants d’air, nous avons tous entendu les appels de Londres, première City à sombrer dans les émeutes post second trauma pétrolier. Les pavés qui auraient dû cacher la plage gisent sans bruit au bout de leurs trajectoires paraboliques, c’est la crise, une bonne fois pour toutes, il n’y a plus personne pour leur retrouver une orbite qui ne serait pas un simulacre. Et toujours pas de plage. Le monde est banlieusard, les réfrigérateurs font toujours OOOOOOm, les magnétoscopes japonais sont arrêtés à Poitiers, le micro-ondes vient d’apparaître, tout comme le TGV, inauguré en grandes pompes médiatiques, et le Compact Disc qui se vend comme des petits pains. C’est l’ère du vide, on organise des concours à qui s’en bat l’œil.
+
+<strong>1989.</strong> Le cyberespace diffuse à l’heure de la chute d’un mur par trop encombrant pour les expansions globalisantes, à l’heure de la commémoration d’une révolution qui les a permises, sous les fards des défilés organisés par des publicitaires dont on chuchote qu’en fait ce sont des artistes experts dans l’art du déguisement. L’Homme Sans Qualités ressort de son trou historique, l’époque s’y prête. Il deviendra Internaute. La pompe à fric a compris l’coup, le punk™ commence à se vendre chez Jean Coutu. Ça pète bien un peu de temps en temps, mais ne vous inquiétez surtout pas, on commence à maîtriser les conflits intermédiaires. L’idéologie™ fleurit sur fond de « Mort de l’idéologie », un fonds de commerce comme un autre. Ça sent l’hyperbole démagogique : tiens, que diriez-vous d’un petit air de village global, hein, les touristes ? CNN s’en chargera, restez au chaud devant le tube. La panoplie s’est enrichie de lunettes virtuelles pour mieux voir dans les coins, c’est cool pour déguiser les gamins qui joueront à Doom, et c’est très efficace, ce sera bientôt une réussite commerciale. Mais surtout, le moment est à la connexion : branchez-vous, dit l’affiche, c’est en pixels. <i>Everybody</i> <i>is</i> <i>a</i> <i>user.</i>
+
+<strong>1997.</strong> Les prophètes prolifèrent, les gourous en goguette recrutent dans les rangs de l’université en voie de restructuration avec son annexe l’écomusée des pratiques en voie de disparition. L’expérimentation porte maintenant sur les aspects humains de la technologie : on incorpore à tour de bras, on communautarise à qui mieux mieux. De cercle en cercle, on se trouve des cousins, et quelques étrangers aussi. La matière envahit l’éther, l’utopie croule sous le merchandizing et l’internaute crampé sur sa console se prend à rêver qu’il est devenu partie de la machine : le cyborg™ est à la mode. Ou du moins son image...
+
+La machine spectaculaire a matérialisé le cyberespace avant même qu’il n’existe, l’a sursaturé d’images le déclinant sous toutes ses coutures, ne laissant à l’utopie fondatrice que les miettes des consciences qui l’ont créée. Il est question ici de ce matérialisme triomphant qui me pousse ironiquement à accoler des « ™ » à tout ce qui bouge, celui-là même qui traduit indifféremment sa fascination pour le <i>next</i> <i>level</i> dans le même catastrophisme béat des slogans publicitaires pour des jeux vidéos, des messages messianiques et suicidaires, ou des projets cyber-démocratiques : Sega™ et Heaven’s Gate, même combat !
+<h3 class="spip">« Car la matérialité des choses, bien sûr, c’est leur cinématographie » (Baudrillard 1986 : 83).</h3>
+Réalisations hollywoodiennes du cyberespace : <i>Total</i> <i>Recall</i> (1990), <i>Until</i> <i>the</i> <i>End</i> <i>of</i> <i>the</i> <i>World</i> (1991), <i>Lawnmower</i> <i>Man</i> (1992), <i>Wild</i> <i>Palms</i> (1993), <i>Disclosure</i> (1994), <i>Hackers</i> (1995), <i>Johnny</i> <i>Mnemonic</i> (1995), <i>Lawnmower</i> <i>Man</i> <i>II</i> (1995), <i>Strange</i> <i>Days</i> (1995) et <i>Virtuosity</i> (1995).
+
+L’utopie cybernétique serait-elle définitivement morte (sans espoir de résurrection) de cette matérialisation spectaculaire<span class="spip_note_ref"> [2]</span>. ?
+<h3 class="spip">EreNowH : Le premier interdit</h3>
+Dès 1948, dans sa première édition de <i>Cybernetics</i> <i>or</i> <i>Control</i> <i>and</i> <i>Communication</i> <i>in</i> <i>the</i> <i>Animal</i> <i>and</i> <i>the</i> <i>Machine,</i> Norbert Wiener s’insurgeait déjà contre les vains espoirs de certains de ses amis qui pensaient pouvoir dériver une quelconque efficacité sociale des thèses de son ouvrage. Selon Wiener, leur raisonnement était basé sur le constat d’un différentiel grandissant entre le contrôle humain des environnements matériel et social : là où la science naturelle permettait déjà le premier, la science sociale devrait permettre le second. « En cela, leur rétorquait Wiener, vous faites preuve d’un optimisme excessif, doublé d’une méconnaissance de la nature même de toute réussite scientifique » (1965 : 162). En bref, Wiener taxait d’utopisme ses amis sociologues, anthropologues et économistes.
+
+Car Wiener invoquait bien par ces quelques mots le ressort même de la pensée utopique, celui qui veut que la croyance en sa nécessité implique plutôt que ne légitime la croyance en sa possibilité : optimisme plus méconnaissance, pour résumer son équation. C’est de cette utopie cybernétique fondamentale, qui rajouterait « humain » à « l’animal et la machine » de Wiener que je voudrais vous entretenir aujourd’hui. Mais je voudrais aussitôt opposer cette utopie à l’idée maintenant fort diffusée d’une autre utopie cybernétique, d’un non-lieu où l’humanité en son soi-disant crépuscule aurait rangé les fantasmes de son évolution machinique à venir (le fameux cyborg™). Selon moi, cette utopie cyborg est bien seconde, dérivée historiquement<span class="spip_note_ref"> [3]</span>. Je voudrais reprendre ici, malgré la condamnation de Wiener, le pari originel de ses amis anthropologues, et réinstaurer le non-lieu cybernétique fondateur.
+
+Gregory Bateson, le plus éminent des « amis de Norbert Wiener », a peut-être bien été le dernier grand prêtre de cette hérésie a-moderne. Selon lui, l’idée même d’un <i>telos</i> évolutif, d’un « projet conscient » n’a pas de sens en dehors du royaume des idées : le seul salut du darwinisme, « ce climax de l’obsession moderne pour le design », est hors du matérialisme.
+
+À tous les vendeurs et démarcheurs du Cyberespace en kit, il est temps, je pense, de rappeler la seule utopie cybernétique fondatrice, celle que Norbert Wiener récusait comme telle dès sa fondation, celle que Gregory Bateson remettait à sa place : une idée qui ne serait pas pratique (et donc pas politique non plus), qui serait plutôt immatérielle et sans avenir, bref, une idée tout court, pas une idéologie. Que nous dit-elle, cette idée, sinon le rêve initial de fonder une synthèse, une <i>Unité</i> <i>Sacrée</i> reposant sur une science empirique de la connaissance, une épistémologie qui serait devenue une <i>Histoire</i> <i>Naturelle</i> <i>et</i> <i>Normative</i> ? L’utopie cybernétique, s’il en reste encore quelque chose, devrait nous rappeler que si nous sommes maintenant en mesure de devenir les ingénieurs de notre propre destinée évolutive, c’est avant tout en fonction du rapport que nous développons concrètement avec le monde auquel nous appartenons—qu’il soit éthéré ou non. À ce sujet, mon deuxième guide me réservait une surprise...
+<h3 class="spip">Erewhon, Patagonia : le lieu du songe</h3>
+La Patagonie me servira ici de non-lieu par excellence, le lieu du vide ou du rien : une autre surface de projection. Bruce Chatwin et Paul Theroux, deux de mes maîtres en voyage, lui ont consacré un superbe livre au titre prophétique, <i>Nowhere</i> <i>is</i> <i>a</i> <i>Place,</i> suite à la belle formule de Paul Theroux, qui justifiait ainsi son désir de Patagonie : « So Patagonia was the promise of an unknown landscape, the experience of freedom, the most Southerly part of my own country, the perfect destination... I thought : Nowhere is a place ». Dans le même livre, Bruce Chatwin reprend les paroles de mon deuxième guide, Jorge Luis Borges, à ce sujet : « You will find nothing there. There is nothing in Patagonia ». Ce qui pourrait (aussi) se traduire par « le rien est en Patagonie », dans le sens de « l’absence de chose [no-thing] existe en Patagonie ». Ou peut-être même « l’absence de chose se matérialise en Patagonie », au sens de la matérialité filmographique de Baudrillard. Car, voyez-vous, la Patagonie, cet autre désert, marque aussi ses visiteurs par la richesse des images qu’elle engramme en eux. En témoignent ces quelques mots de Charles Darwin, l’un de ses premiers visiteurs, et certainement l’un des plus illustres (dans le dernier chapitre du <i>Voyage</i> <i>of</i> <i>the</i> <i>Beagle)</i> :
+<blockquote class="spip">In calling up images of the past, I find that the plains of Patagonia frequently cross before my eyes ; yet these plains are pronounced by all wretched and useless. They can be described only by negative characters ; without habitations, without water, without trees, without mountains, they support only a few dwarf plants. Why then, and the case is not peculiar to myself, have these arid wastes taken so firm a hold of my memory ? [...] I can scarecely analyse these feelings ; but it must be partly owing to the free scope given to the imagination.</blockquote>
+Paul Theroux semble abonder dans le sens de mon essai de traduction lorsqu’il oppose à cette vision de Darwin celle de l’un de ses successeurs, William Hudson, dans <i>Idle</i> <i>Days</i> <i>in</i> <i>Patagonia</i> (1893). Selon Theroux, pour Hudson, « the experience of Patagonia is a journey to a higher plane of existence, to a kind of harmony with nature which is the absence of thought [...] Darwin’s mistake was that he was looking for something in Patagonia [...] it is better, Hudson says, to look for nothing at all. Feel it and let you moved by it ». Ce que je me propose de traduire de la manière suivante : « l’expérience de la Patagonie est un voyage vers un plan supérieur d’existence, vers un genre d’harmonie avec la nature qui est l’absence de pensée [...] L’erreur de Darwin était de chercher quelque chose en Patagonie [...] Il est mieux, dit Hudson, de ne rien chercher du tout. Ressentez-le, dit-il, et laissez-vous toucher par ce rien ».
+<h3 class="spip">« it = rien »</h3>
+Acceptons donc, si vous me le permettez, cette traduction (trahison ?) comme prémisse, et à partir de cette prémisse construisons un décor paradoxal, Erehwon revu et corrigé<span class="spip_note_ref"> [4]</span>. La Patagonie comme le site de la suspension de la pensée, comme une porte désolée vers l’unité sacrée, empiriquement ressentie plutôt que réfléchie, cette harmonie à laquelle Gregory Bateson faisait (peut-être) allusion. Et Hudson de confirmer : « mon esprit s’était soudainement transformé d’une machine à penser en une machine pour quelque but inconnu. Penser était comme démarrer un moteur bruyant dans mon cerveau ». C’est dans le silence de ce décor paradoxal que j’entends placer mon deuxième guide, confiant en sa cécité érudite pour élever cette évocation vers ce fameux plan supérieur d’existence.
+
+Bien dressé au cœur de ce silence évocateur, Jorge Luis Borges me donnera la clé, je pense, d’une résistance à la réalisation, cette mort lente de l’utopie cybernétique dans sa mise en espace —et, qui sait, de la mort lente de toute utopie dans sa réalisation ? Ce cyberespace filmographié, objet de toutes ces images que je me suis ingénié à critiquer. Car voyez-vous, j’ai en effet besoin du non-lieu de la Patagonie pour que ce que Borges nous dit nous apparaisse dans toute sa puissance, dans la puissance de l’éternité de la pensée suspendue...
+
+Mais la pensée suspendue, que nous reste-t-il à nous autres, pauvres animaux cartésiens, pauvres machines à penser ? Je pourrais certes référer, comme il est tant à la mode, à quelques pratiques plus ou moins ésotériques de quelques civilisations éloignées, Derviches tourneurs, moines bouddhistes, jardiniers japonais... C’est-à-dire de vous demander à vous, mes lecteurs cartésiens, de suspendre votre mode privilégié de rapport au monde pour imaginer la pratique d’un autre à vous étranger. Absurde, ne vous semble-t-il pas ? Plutôt que de demander l’aide de ces Orientaux plus ou moins extrêmes, je propose donc de faire de mon guide une figure de l’ermite en son désert : une image qui nous parlera plus, je crois. Voilà donc pour la mise en scène.
+
+Quant au texte maintenant, où il sera question de la résistance du rêve... Car si le cyberespace est la réalisation de l’utopie cybernétique, la spatialisation paradoxale de l’interdit original, il n’en reste pas moins que le rêve initial peut lui perdurer. Si j’ai joué jusqu’à maintenant avec la question de l’espace (allant jusqu’à localiser l’utopie réalisée), il me faut alors m’attaquer à sa temporalité : de l’u-topie à l’u-chronie. De l’archéologie de Salt Lake City, passons donc à la généalogie patagonienne. Pour cela, je propose de revenir sur les antécédents de la vision de William Gibson, cette « hallucination consensuelle et collective ». En bon romancier d’anticipation, Gibson ne travaille évidemment pas à partir de rien, mais bien sur des strates de pratiques et de représentations déjà plus ou moins fossilisées.
+
+À ce titre au moins, le cyberespace préexiste à sa dénomination. Lorsque Gibson publie <i>Neuromancer</i> en 1984, la communication informatisée en réseau existe depuis au moins quinze ans. Avant même l’Internet, avec l’ARPANET son ancêtre, les informaticiens communiquent en ligne depuis belle lurette... Mais, me rétorquerez-vous, le véritable cyberespace, c’est le World Wide Web, qui, lui, n’apparaît pas avant la fin des années 1980. Justement ! C’est bien de cela qu’il est question ici : si le WWW est cette hallucination consensuelle et collective dont parle Gibson, c’est surtout sur les qualificatifs qu’il faut insister, car l’hallucination, elle, ne date pas d’hier...
+
+Elle existe d’abord chez Théodore Holm Nelson, cet expert en « vaporware » (comme disent les Américains), qui, au milieu des années 1960, inventa un autre mot maintenant fort répandu : « hypertexte ». Le WWW est d’abord un hypermédium, un hypertexte agrémenté de graphiques, images, vidéos, etc. C’est bien ce rêve, cette hallucination qui agite Ted Nelson : le ®êve de l’encyclopédie, d’un système littéraire informatisé où les contributions de chacun pourraient être répertoriées, connectées et visitées à l’envi, une sorte de bibliothèque idéale, en somme... Non sans rapport avec la Bibliothèque de Babel de Borges ! Mais plus que de cette coïncidence conceptuelle, c’est au sujet des noms que je voudrais mettre mon deuxième guide à contribution. Car Ted Nelson a choisi un bien curieux nom pour appeler son système, un nom qui résonne aux oreilles des amants du verbe et évoque mille délices exotiques : Xanadu. Mieux encore, Xanadu qualifie plus le rêve lui-même que le système, puisque ce dernier n’a (encore) jamais vu le jour... Xanadu, c’est le nom de tous les projets de Ted Nelson :
+<blockquote class="spip">Je travaille depuis vingt-cinq ans sur différents projets, tous fondés sur le principe de l’hypertexte et tous appelés Xanadu. C’était le nom de l’un des palais de l’empereur mongol Ku Blai Khan, près de Pékin. Dans l’une de ses oeuvres, le poète anglais Samuel Coleridge se sert du nom Xanadu pour en faire le symbole de la créativité et de l’inspiration romantique. Mais Coleridge dit aussi qu’il a oublié une partie de l’histoire. Xanadu devient donc le symbole du conflit entre l’esprit de l’artiste et les problèmes apportés par le monde extérieur, qui lui font oublier son oeuvre. Pour moi, Xanadu est le lieu par excellence de la création artistique et le palais magique de la mémoire, où plus rien n’est jamais oublié<span class="spip_note_ref"> [5]</span>.</blockquote>
+Xanadu est donc bien un lieu pour Nelson, le lieu de la mémoire infaillible et donc nécessairement un palais, comme le veut la tradition du théâtre de la mémoire. Xanadu, c’est donc le nom du rêve de Nelson, du poème de Coleridge et du palais de Koublaï Khan. Et c’est à ce point que les éclaircissements de Borges rentrent en scène : pour filer en une seule tresse —un arc-en-ciel, selon Keats— ces coïncidences et concrétiser ainsi la résistance du rêve.
+
+Dans un court texte intitulé « Le rêve de Coleridge », publié dans son recueil <i>Autres</i> <i>inquisitions</i> (1952), Borges nous rappelle en effet que Coleridge a d’abord « rêvé » son poème, mais aussi, et c’est là sa contribution la plus remarquable, que Koublaï Khan avait lui aussi rêvé son palais... Selon Borges, on trouverait dans un ouvrage du XIIIe siècle intitulé <i>Histoire</i> <i>de</i> <i>la</i> <i>Perse</i> <i>et</i> <i>des</i> <i>Mongols</i> les quelques lignes suivantes, issues de la plume de Rashid-ed-Din, vizir de Ghazan Mahmoud et descendant de Koublaï Khan : « À l’est de Shang Tu, Koublaï Khan érigea un palais, d’après un plan qu’il avait vu en songe et qu’il gardait dans sa mémoire ». Et Borges de conclure :
+<blockquote class="spip">Si le schéma se vérifie au cours d’une nuit dont les siècles nous séparent, quelqu’un rêvera le même rêve, sans soupçonner que d’autres l’ont déjà rêvé, et il lui donnera la forme d’un marbre ou d’une musique. Peut-être la série de rêves n’aura-t-elle pas de fin, peut-être la clé est-elle dans le dernier.
+
+Après avoir écrit ce qui précède, j’entrevois ou je crois entrevoir une autre explication. Qui sait si un archétype non encore révélé aux hommes, un objet éternel (pour utiliser la nomenclature de Whitehead) ne pénètre pas lentement dans le monde ? Sa première manifestation fut le palais ; la seconde, le poème. Qui les aurait comparés aurait vu qu’ils étaient essentiellement identiques (1993 : 685).</blockquote>
+La troisième manifestation du rêve est le système de Nelson, et la dernière version (en date), le cyberespace de Gibson. Borges avait raison : Nelson ne se rappelle pas le rêve de Coleridge (il dit simplement que celui-ci aurait « oublié une partie de l’histoire ») et ignore celui de Koublaï Khan. Le rêve résiste donc dans les oublis et les omissions, et un objet éternel<span class="spip_note_ref"> [6]</span> prend de multiples formes dans le monde suite à ces rêves : palais, poème, proposition irréalisée mais influente, roman cyberpunk, espace de communication. Mais le point final n’est pas dit...
+<h3 class="spip">Coda : L’espace-temps de la pensée suspendue</h3>
+Il n’est qu’un détail que Borges omet et qui prend tout son sens pour moi. Dans son récit en effet, Coleridge, souffrant d’une « indisposition », dut prendre un « somnifère » qui lui accorda la trêve d’un sommeil où il rêva son poème. À son réveil, il se rappela celui-ci avec « une singulière clarté » qui lui permit de le retranscrire pour la prospérité « une page d’une splendeur indiscutée ». L’euphémisme de Borges nous est révélé dans cette « singulière clarté » dont nous savons maintenant qu’elle correspond au réveil d’un sommeil particulier, un « repos férié » où s’exprime « l’antagonisme majestueux de forces égales et puissantes ; activités infinies, infini repos ! » (Baudelaire, « traduisant » De Quincey). Un « sommeil », si tant est que l’on puisse encore utiliser ce mot, donc, où, dans sa « vitesse lente », le rêveur devient « le lieu des phénomènes que l’art nous envoie du dehors » (Cocteau). En clair, peut-être un rêve éveillé qui aurait suspendu la pensée...
+<blockquote class="spip_poesie">
+<div>In Xanadu did Kubla Khan</div>
+<div>A stately pleasure-dome decree :</div>
+<div>Where Alph, the sacred river, ran</div>
+<div>Through caverns measureless to man</div>
+<div>Down a sunless sea.</div>
+<div>So twice five miles of fertile ground</div>
+<div>With walls and towers were girdled round :</div>
+<div>And there were gardens bright with sinous rills,</div>
+<div>Where blossomed many an incense-bearing tree ;</div>
+<div>And where forests ancient as the hills,</div>
+<div>Enfolding sunny spots of greenery...</div></blockquote>
+Cessons de pleurer sur la perte de l’utopie dans sa réalisation et réjouissons-nous plutôt de son infinie mansuétude à accorder un toujours à nos vastes chimères... Et si parfois un objet éternel venait les féconder, contemplons-le et, sans faillir, hardis, continuons à être rêvés ! Car après tout, comme le disait Coleridge en un autre de « ses » rêves,
+<blockquote class="spip_poesie">
+<div>Si un homme traversait le paradis en songe,</div>
+<div>qu’il reçût une fleur comme preuve de son passage,</div>
+<div>et qu’à son réveil, il trouvât cette fleur dans ses mains...</div>
+<div>que dire alors ?</div></blockquote>
+</div>
+
+----
+
+references: 
+- <div class="crayon article-texte-77 texte surlignable clearfix">
+<ul>
+ 	<li>ABÉLLIO, R., <i>La</i> <i>structure</i> <i>absolue.</i> <i>Essai</i> <i>de</i> <i>phénoménologie</i> <i>génétique,</i> Paris, Gallimard (1965).</li>
+ 	<li>BATESON, G., <i>A</i> <i>Sacred</i> <i>Unity</i> <i> :</i> <i>Further</i> <i>Steps</i> <i>to</i> <i>an</i> <i>Ecology</i> <i>of</i> <i>Mind,</i> sous la direction de Rodney E. DONALDSON, New York Cornelia and Michael Bessie, 1991.</li>
+ 	<li>BAUDRILLARD, J., <i>Amérique,</i> Paris, Grasset et Fasquelle (Biblio « essais »), 1986.</li>
+ 	<li>BORGES, J. L., <i>Œuvres</i> <i>complètes,</i> Paris, Gallimard (Bibliothèque de la Pléiade), 1993.</li>
+ 	<li>BUTLER, S., <i>Erewhon,</i> Londres, Penguin Books (Penguin Classics), 1985 [1872].</li>
+ 	<li>CHATWIN, B. et P. THEROUX, <i>Nowhere</i> <i>is</i> <i>a</i> <i>Place</i> <i> :</i> <i>Travels</i> <i>in</i> <i>Patagonia,</i> San Francisco, Sierra Club Books, 1991.</li>
+ 	<li>DARWIN, C., <i>Journal</i> <i>of</i> <i>Researches</i> <i>into</i> <i>the</i> <i>Natural</i> <i>History</i> <i>and</i> <i>Geology</i> <i>of</i> <i>the</i> <i>Countries</i> <i>Visited</i> <i>during</i> <i>the</i> <i>Voyage</i> <i>round</i> <i>the</i> <i>World</i> <i>of</i> <i>H.</i> <i>M.</i> <i>S.</i> <i>Beagle,</i> Londres, 1902.</li>
+ 	<li>DAVIS, E., « Necromancer Database of the Dead », <i>21C,</i> n° 1 (1997), p. 44-49.</li>
+ 	<li>DEBORD, G., <i>La</i> <i>société</i> <i>du</i> <i>spectacle,</i> Paris, Gallimard (Folio), 1992.</li>
+ 	<li>DE CERTEAU, M., <i>L’écriture</i> <i>de</i> <i>l’histoire,</i> Paris, Gallimard, 1975.</li>
+ 	<li>GIBSON, W., <i>Neuromancer,</i> New York, Berkley, 1984.</li>
+ 	<li>LICKLIDER, J. C. R., « Man-Computer Symbiosis », <i>IRE</i> <i>Transactions</i> <i>on</i> <i>Human</i> <i>Factors</i> <i>in</i> <i>Electronics</i> (March 1960), p. 4-11.</li>
+ 	<li>WHITEHEAD, A. N., <i>Adventures</i> <i>of</i> <i>Ideas,</i> New York, Free Press, 1967 [1933].</li>
+ 	<li>WIENER, N., <i>God</i> &amp; <i>Golem,</i> <i>Inc.,</i> Cambridge (MA), MIT Press, 1964.</li>
+ 	<li>WIENER, N., <i>Cybernetics</i> <i>or</i> <i>Control</i> <i>and</i> <i>Communication</i> <i>in</i> <i>the</i> <i>Animal</i> <i>and</i> <i>the</i> <i>Machine,</i> 2nd edition, Cambridge (MA), MIT Press, 1965 [1948].</li>
+</ul>
+</div>
+<div class="notes">
+
+<hr />
+
+<div id="nb1">
+
+<span class="spip_note_ref">[1] </span>Je remercie Samuel Butler pour avoir inventé le verlan avant la lettre et pour m’avoir ainsi fourni mes titres.
+
+</div>
+<div id="nb2">
+
+<span class="spip_note_ref">[2] </span>Guy Debord disait « le spectacle est la reconstruction matérielle de l’illusion religieuse ».
+
+</div>
+<div id="nb3">
+
+<span class="spip_note_ref">[3] </span>Je peux même dater avec quelque précision cette utopie seconde avec l’apparition et le développement de la première génération de « computer scientists » dans les années 1960 aux États-Unis. Je considère le fameux article de JCR Licklider, le premier patron du Bureau des Techniques de l’Information de l’ARPA du Ministère de la défense américaine, comme le premier manifeste de cette seconde utopie ; cet article intitulé « Man-Computer Symbiosis » est publié en 1960 : ici le cyborg relaie le golem.
+
+</div>
+<div id="nb4">
+
+<span class="spip_note_ref">[4] </span>Mais peut-être à peine corrigé, après tout. Car les « wastelands » de Butler, cette fictionnalisation du Canterbury Settlement (Nouvelle-Zélande) où il séjourna entre 1860 et 1864, ressemblent à s’y méprendre, par leurs effets pour l’âme solitaire, à la Patagonie évoquée par Darwin.
+
+</div>
+<div id="nb5">
+
+<span class="spip_note_ref">[5] </span>Ted Nelson, propos recueillis par Yves Eudes (Cahier Multimedia du <i>Monde,</i> semaine du 1er avril 1996).
+
+</div>
+<div id="nb6">
+
+<span class="spip_note_ref">[6] </span>« The two conspicuous examples of the truth-relation in human experience are afforded by propositions and by sense-perception. A proposition is the abstract possibility of some specified nexus of actualities realizing some eternal object, which may either be simple, or may be a complex pattern of simpler objects » (Whitehead 1967 : 243).
+
+</div>
+</div>
+
+----
+
+number: 6
+
+----
+

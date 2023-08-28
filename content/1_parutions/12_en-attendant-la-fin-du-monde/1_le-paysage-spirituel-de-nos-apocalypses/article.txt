@@ -1,0 +1,47 @@
+title: [12-01] Le paysage spirituel de nos apocalypses
+
+----
+
+subtitle: 
+
+----
+
+author: Terry COCHRAN
+
+----
+
+affiliation: Université de Montréal
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: <div class="texteItem">
+<div class="crayon article-texte-63 texte surlignable clearfix">
+
+<i>Introduction à l’atelier « L’Apocalypse perpétuelle : l’effondrement du savoir et autres cataclysmes », Université de Montréal, 20 avril 2009</i>
+<div class="fluid-width-video-wrapper" style="padding-top: 0;"><iframe id="fitvid146102" src="//www.youtube.com/embed/J7BExtfmsHg" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br class="autobr" /><strong>Terry COCHRAN, « Le paysage spirituel de nos apocalypses »</strong>
+<div class="fluid-width-video-wrapper" style="padding-top: 0%;"><iframe id="fitvid505963" src="//www.youtube.com/embed/FV0m2D1E5zc" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br class="autobr" /><i>Discussion</i>
+<div class="fluid-width-video-wrapper" style="padding-top: 0;"><iframe id="fitvid923192" src="//www.youtube.com/embed/3Kh11Sa77IE" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</div>
+
+----
+
+references: 
+- 
+
+----
+
+number: 1
+
+----
+

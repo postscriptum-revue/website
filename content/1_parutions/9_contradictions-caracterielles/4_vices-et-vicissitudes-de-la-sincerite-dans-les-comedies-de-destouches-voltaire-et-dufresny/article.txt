@@ -1,0 +1,254 @@
+title: [09-04] Vices et vicissitudes de la sincérité dans les comédies de Destouches, Voltaire et Dufresny
+
+----
+
+subtitle: 
+
+----
+
+author: Beya DHRAIEF
+
+----
+
+affiliation: Université de la Sorbonne Nouvelle-Paris III
+
+----
+
+abstract_fr: Selon son étymologie, la sincérité serait le type même de la vertu pure et sans alliages. Les comédies françaises de 1715 à 1731 perturbent cependant la sérénité de cette idéalisation naïve. Sensibles à sa « valeur latente » (Dromard 1910 : IV), elles orchestrent la confrontation de deux conceptions antagonistes de la sincérité qui ne s’équivalent que par les vices déguisés qu’elles recèlent. Fleuron de la valorisation classique de l’honnêteté et de la délicatesse, la sincérité curiale induirait dissimulation et hypocrisie. Fruit d’une exigence de purisme moral, la sincérité absolue impliquerait la médisance, l’indiscrétion, voire l’éclatement social par exacerbation des misanthropies.
+
+Le Faux Sincère de Dufresny décuple la complexité du problème, déjà inextricable, des franchises concurrentes. L’adepte du purisme sincère s’y avère un praticien de la sincérité de cour. Hypocrite en franchise, son être se dissout dans ses apparences pour finir par lui conférer une sincérité paradoxale, celle d’un acteur de bonne foi.
+
+----
+
+abstract_en: According to etymological accounts, sincerity would be the very definition of pure, untarnished virtue. French comedies from 1715 to 1731, however, disturb the sincerity of this naïve idealization. Very self-conscious with regard to their "latent value" (Dromard 1910 : IV), they orchestrate the confrontation between two opposed conceptions of sincerity that nowhere achieve equal footing except at the level of the disguised vices they contain. Emanating from the classic valorization of honesty and delicacy, courtly sincerity leads to dissimulation and hypocrisy. Emerging as the ripe fruit of the requirements of moral purism, absolute sincerity would imply slander, indiscretion and even social breakdown through sharpening the many edges of misanthropy.
+
+Dufresny’s Le Faux Sincère multiplies the intricacies of the already complex problem of rivalling sincerities. The adept of sincere purism is revealed to be a practitioner of courtly sincerity. Hypocrite in frankness, his self dissolves through appearances, ultimately imbuing him with a paradoxical sincerity, that of acting in good faith.
+
+----
+
+text: <div class="crayon article-texte-21 texte surlignable clearfix">
+
+Si la sincérité ne se définissait que comme une transparence totale avec soi et avec les autres, garantie par l’adéquation des propos et des actes aux pensées et aux sentiments, l’inauthentique théâtre s’avérerait singulièrement inapte à la représenter. C’est en effet « le lieu où chacun se fait connaître dans l’espace ambigu d’une réplique, lieu du “paraître” et du “discours”, où l’intérieur est caché et où le seul qui soit en droit de le pénétrer jusqu’au fond – l’auteur – est structurellement absent » (Papasogli 2000 : 80).
+
+Dans les comédies françaises de 1715 à 1731, la sincérité a dû sa possible réflexion, tant au sens intellectuel qu’optique du terme, à sa « valeur latente » (Dromard 1910 : IV). N’étant pas une « entité mesurable à l’instar de la vérité et de l’erreur » (Dromard 1910 : IV), elle pose un problème essentiel d’évaluation qui motiva, pour Destouches, Voltaire et surtout Dufresny, le débat pour sa circonscription et le questionnement sur ses limites.
+<h3 class="spip">Vices déguisés de la sincérité</h3>
+<u>Vertus de la médisance</u>
+
+Dans leur traitement du motif de la sincérité, l’ensemble de nos dramaturges inscrivent leurs œuvres dans la continuité du <i>Misanthrope </i> moliéresque. Mais leur inféodation superficielle travestit en réalité la distance critique qu’ils adoptent par rapport à leur modèle.
+
+Dans le <i>Misanthrope</i>, Molière élabore un contraste authentique entre le franc Alceste et la médisante Célimène, contraste que fonde au moins la manière dont leurs pensées se reflètent dans leurs propos. En revanche, l’opposition entre la sincérité et les vices auxquels elle prétend s’opposer – médisance, hypocrisie, simulation – n’est affirmée que pour être partiellement invalidée dans les pièces de notre corpus. L’initiative de la remise en cause revient à cet égard au <i>Médisant </i> de Destouches. Dans cette comédie, Damon, le médisant, aspire à épouser Marianne qu’il aime, malgré la rivalité affichée du Marquis de Richesource et celle, insidieuse, de Léandre. Au début de la pièce, il a pour adjuvants son ami Valère, frère de la prétendue, la Baronne, sa mère et Marianne elle-même. Mais, à force de médisances, il perd progressivement l’ensemble de ses alliés. Marianne épouse Léandre et Damon est éconduit. À la scène VII de l’acte III, Destouches suspend son intrigue virevoltante pour représenter le débat de Damon et Valère sur le concept de « médisance » :
+<blockquote class="spip_poesie">
+<div>DAMON</div>
+<div>Parbleu ! tu le prens-là sur un fort joli ton.</div>
+<div>Qu’à ton âge il sied mal de faire le Caton !</div>
+<div>C’est ce que je disois ce matin à Julie.</div>
+<div>Valère a de l’esprit, mais son esprit ennuye.</div>
+<div></div>
+<div>VALÈRE</div>
+<div>Je te suis obligé de ta sincérité.</div>
+<div></div>
+<div>DAMON</div>
+<div>Tu devrois dès long-tems en avoir profité. /</div>
+<div>C’est pourtant ce qu’on ose appeler médisance.</div>
+<div>Dire sur un chacun librement ce qu’on pense ;</div>
+<div>Chercher le ridicule, &amp; lire au fond des cœurs ;</div>
+<div>Peindre ce qu’on y voit, des plus vives couleurs ;</div>
+<div>Discerner les motifs, &amp; peser le mérite ;</div>
+<div>Faire la guerre aux sots, demasquer l’hypocrite ;</div>
+<div>Voilà ce que je fais, je ne m’en défens point.</div>
+<div>Plût au Ciel que chacun m’imitât sur ce point.</div>
+<div>Oui, cette liberté, cette exacte Justice</div>
+<div>Corrigeroit les sots, &amp; détruiroit le vice.</div>
+<div></div>
+<div>VALÈRE</div>
+<div>Il est beau de vouloir corriger son prochain ;</div>
+<div>Mais pour y réüssir user d’un tour malin…</div>
+<div>(Destouches 1742 : 394-395)</div></blockquote>
+Dans sa tirade, Damon discrédite dédaigneusement la définition commune de la « médisance ». Par le biais de l’adversatif « pourtant », il oppose à la perception usuelle de ses actes par autrui une vision extatique de lui-même qu’il détaille avec force superlatifs. Damon présente sa médisance comme une forme de sincérité : « dire sur un chacun librement ce qu’on pense » serait son premier principe. Notons que cette sincérité n’impliquerait nullement un devoir de lucidité sur soi ; elle ne repose que sur l’obligation de communication transparente avec autrui. Elle a pour corollaire un fort esprit d’indépendance. Damon n’estime pas devoir complaire aux autres mais s’arroger le rôle de justicier. Les facultés dont il se targue avec emphase – « lire au fond des cœurs », « discerner les motifs &amp; peser le mérite » – le prédisposeraient à corriger son prochain. La sincérité que le personnage allègue masque son infatuation. Présupposant sa perfection, Damon prétend à une omniscience divine ou diabolique. Le commentaire métalinguistique du terme « médisance » remet ainsi en cause la catégorisation du réel par le langage qui le trahirait en le traduisant. Damon affirme l’équivalence de la médisance avec la sincérité, la justice, et même la charité.
+
+Faut-il cependant accorder une totale créance au plaidoyer <i>pro domo</i> élaboré par le personnage ? Avec sa finesse coutumière, Fontenelle incitait à se défier des confidences des scélérats au théâtre. Valère n’est pas uniquement l’ami de Damon, c’est aussi le frère de Marianne qu’il désire voler à Richesource et à Léandre. Damon a donc intérêt à ce que Valère croit à son intégrité morale pour conserver son soutien. Ses confidences deviennent d’autant plus suspectes d’inauthenticité que, dans le reste de la comédie, ni monologue, ni même aparté n’assurent le dévoilement de son intériorité.
+
+Il est toutefois révélateur que Valère reconnaisse une certaine pertinence à l’argumentation de son interlocuteur. En concédant qu’« il est beau de vouloir corriger son prochain », le personnage applaudit le dessein allégué par Damon et présuppose l’utilité sociale effective de la médisance. Il ne conteste pas la finalité poursuivie mais le moyen employé pour y parvenir : « le tour malin » de son interlocuteur, c’est-à-dire la perversion de son langage par la raillerie.
+
+L’opposition entre sincérité et médisance s’avère peu claire dans l’esprit de Valère. Fondant l’inculpation de Damon, la malignité renvoie à son comportement langagier dans son ensemble et à « la qualité de l’intention » (Jankélévitch 1986 : 266) qui anime ses propos. Or ce comportement a significativement été caractérisé dans la première réplique de Valère comme « sa sincérité ». L’adjectif possessif « ta » apparaît à la fois anaphorique de ce qui le précède – la critique de Damon – et cataphorique de ce qui suit : la justification de son entreprise. Sincérité et médisance se signalent ainsi par leur promiscuité équivoque.
+
+L’ambivalence de la posture de Valère me semble en fait métaphoriser celle de Destouches qui, à ce stade de son évolution, en 1715, recherchait encore sa voie/voix dramatique. L’autoportrait de Damon en ferait le symbole des dramaturges amoraux de la fin du règne de Louis XIV, en particulier Dancourt, Lesage et Regnard, qui préconisaient la correction du vice par sa dérision ; soit, en définitive, la médisance sur les travers et caractères du temps.
+
+<br class="autobr" /> <u>Sincérité absolue vs sincérité curiale</u>
+
+Pour tenter d’y voir plus clair et ne pas se laisser happer ou, au contraire, partager allègrement la confusion des personnages de Destouches, penchons-nous de concert sur Le Faux Sincère de Dufresny. La joute oratoire du Chevalier Valère avec Dorante y confronte, à coup de maximes et de contre maximes, deux conceptions inconciliables de la sincérité.
+
+À l’instar de l’Alceste moliéresque et des personnages principaux des <i>Sincères </i> de Marivaux, le Chevalier Valère s’affirme adepte d’une vision absolutiste de la franchise. Il préconise une transparence langagière totale qu’il étaye par l’exaltation des vertus de la parole et la dénonciation du silence comme « dangereux » car « équivoque » (Dufresny 1731 : 352). L’usage d’une parole libérée de tous freins lui apparaît fonder la concorde sociale : « Aveux francs et naïfs entre gens raisonnables/ De la société sont les liens durables » (Dufresny 1731 : 352). La conception de la sincérité que défend le Chevalier est idéaliste dans la mesure où elle présuppose la capacité de l’interlocuteur à tout entendre : « Quand même on se diroit de dures vérités, / L’abondance du cœur rendant tout supportable, / Tout jusques à l’injure enfin devient aimable » (Dufresny : 353). Son exigence intransigeante de purisme moral l’inscrit dans la filiation augustinienne et l’anticipation de la posture kantienne. La franchise, au sens que lui donne Valère, s’avère un parfait antonyme de la politesse.
+
+Dorante, en revanche, assimile politesse et sincérité. Préconisant l’usage d’un discours elliptique, il proscrit le mensonge mais valorise la nécessaire omission de certaines vérités : « Etre franc, ce n’est pas dire tout ce qu’on pense, / C’est ne dire jamais ce qu’on ne pense pas » (Dufresny : 353). Disciple du Philinte moliéresque, il défend l’idéal classique de l’honnêteté, issu de modèles italiens comme <i>Le Cortigiano </i> de Castiglione et imposé en France, notamment grâce à l’action conjuguée de Faret, Du Bosc et Grenaille. Mais Dorante reflète aussi la vision de la délicatesse véhiculée dans les manuels de savoir-vivre en son temps, comme <i>Les Eléments de politesse</i> de Contière ou les multiples traités de l’abbé Morvan de Bellegarde. Les recherches accomplies par Michel Lacroix sur ces ouvrages confortent cette interprétation : « le choix d’être poli se justifie par le désir de ne pas écraser l’autre sous le poids de notre propre individualité. La politesse dans un semblable contexte, apparaît comme la plus éclatante manifestation du respect de l’autre dans son altérité fondamentale. (….) Or, la littérature du savoir-vivre insiste beaucoup sur l’idée que cette politesse-là repose sur la sincérité. Il est impossible d’être vraiment poli si l’on n’est pas animé par un <i>sincère </i> désir de faire plaisir à ses semblables. C’est la fameuse politesse du cœur, c’est-à-dire la politesse qui s’enracine dans des sentiments vrais. » (Lacroix 1992 : 36)
+
+Par-delà leurs divergences, ces deux conceptions de la sincérité se révèlent pareillement fertiles en vices déguisés. Dans la polémique qui les oppose, Dorante et le Chevalier se dévoilent réciproquement les implications négatives de leur idéal de sincérité.
+
+Selon Dorante, la quête d’une franchise absolue conduirait notamment à l’indiscrétion. <i>L’Indiscret </i> de Voltaire en fournit un témoignage éclatant : l’inaptitude au silence de Damis le privera d’un bon parti et entraînera sa propre ruine. Toutefois, ce mal, qui ne nuit en définitive qu’au personnage éponyme, reste moindre par rapport à l’autre dérive possible de l’idéal de sincérité totale : la menace de la cohésion sociale impliquée par l’agression de l’autre avec la vérité. Le Chevalier le reconnaît lui-même indirectement en soulignant son possible recours à l’injure. Sa critique par Dorante radicalise à cet égard les reproches que Philinte adresse à Alceste. Proclamant le nécessaire respect des « bienséances » (Molière 2002 : 324), le personnage moliéresque se bornait à souligner l’incongruité et l’indélicatesse d’une franchise absolue. Le personnage de Dufresny va plus loin. La transparence totale lui semble un terreau de « haine », de « froideur », de « glace » ; il commence par la déclarer « dangereuse » avant d’en décréter le caractère « insupportable » (Dufresny 1731 : 355). Alors que Philinte critique le vertige de sincérité inconditionnelle au nom d’une exigence de sociabilité harmonieuse, Dorante la dénonce comme une origine d’éclatement social favorisé par l’exacerbation des misanthropies et le triomphe de la loi de la jungle.
+
+Soucieux d’éclairer réciproquement les vices de la sincérité curiale prônée par son allocutaire, le Chevalier lui reproche, en particulier, de conduire à la dissimulation et donc à des variantes obviées d’hypocrisie et de mensonge. La pertinence de sa critique se trouve notamment corroborée par la peinture de la vie de cour que brosse Euphémie pour l’édification de son fils, l’indiscret Damis :
+<blockquote class="spip_poesie">
+<div>Je connois cette Cour. On peut fort la blâmer ;</div>
+<div>Mais lorsqu’on y demeure il faut s’y conformer.</div>
+<div>Pour les Femmes sur tout, plein d’un égard extrême,</div>
+<div>Parlez-en rarement, encor moins de vous-même.</div>
+<div>Paroissez ignorer ce qu’on fait, ce qu’on dit,</div>
+<div>Cachez vos sentimens, &amp; même vôtre esprit.</div>
+<div>Sur tout de vos secrets soïez toûjours le maître ;</div>
+<div>Qui dit celui d’autrui, doit passer pour un traître,</div>
+<div>Qui dit le sien, mon Fils, passe ici pour un Sot.</div>
+<div>(Voltaire 1742 : 6)</div></blockquote>
+Malicieusement prénommée Euphémie, le personnage voltairien incite Damis à pratiquer l’euphémisme, voire à l’incarner. Par le biais d’une série d’impératifs, elle lui recommande successivement la discrétion langagière mais aussi et surtout la simulation de l’ignorance et le travestissement des pensées et des sentiments. La sincérité curiale apparaît dans cette perspective un masque travestissant une insincérité fondamentale.
+
+La polémique développée par les deux personnages de Dufresny paraît se conclure à l’avantage de Dorante. Manifestement à court d’arguments, le Chevalier prend le parti de rompre la discussion sans autres formes de procès. Cependant, que l’on fasse sienne la modération de Dorante ou que l’on rejoigne le Chevalier dans l’absolutisme effréné qu’il affiche, la sincérité s’avère une vertu viciée, pour ne pas dire vicieuse.
+
+Distinguer le vice de la vertu apparaît une simple affaire de perspective, de dosage, voire de dénomination. La valeur morale est aliénée au langage qui la formule.<br class="autobr" /> Le cas particulier du Chevalier Valère achève de compliquer le problème car ce personnage qui se targue d’une sincérité absolue constitue, en réalité, un exemple achevé des dérives de la sincérité curiale : c’est un hypocrite en franchise.
+<h3 class="spip">Le Faux sincère comme acteur de bonne foi :</h3>
+<u>Un avatar de Tartuffe ?</u>
+
+En signalant la duplicité fondamentale du personnage principal, le titre de la pièce de Dufresny incite à évaluer ses similitudes avec <i>Le Tartuffe</i> moliéresque. Mais sans doute serait-il utile de commencer par rappeler l’intrigue de cette comédie. Dans Le Faux Sincère, le Chevalier Valère apparaît comme un coureur de dots, poursuivant deux intrigues parallèles : la séduction d’Angélique, fille de Me. Argant, et celle de La Marquise. Trois personnages essentiels se liguent pour le démasquer : Mariane, sœur d’Angélique et fille de Me. Argant ; Dorante, son amant, et Laurette, suivante de la Marquise. Grâce à sa fausse sincérité, le Chevalier parvient longtemps à damer le pion à ses opposants. Mais sa cupidité manifeste finit par le dénoncer aux yeux de la Marquise. Au dernier acte, Valère parviendra encore à faire illusion grâce au secours imprévu de son cousin, le franc menteur Rapin. En bonne logique comique, il finira cependant par être démasqué.
+
+Tant Tartuffe que le Chevalier Valère n’apparaissent sur scène qu’après le dévoilement de leur nature véritable. Critiqué pour sa fausse dévotion durant les deux premiers actes de la pièce, le premier n’intervient dans l’action qu’à partir du troisième. Dévoilé par les portraits en action qu’en élaborent les personnages lucides, le second n’entre en scène qu’à la fin du premier acte. Sans doute ce soin de « préparer la venue (des) scélérats » (Molière 2002 : 256) est-il motivé par la volonté d’éviter aux spectateurs de se laisser happer par les maléfices de leur hypocrisie. Il se double du recours à une autre mesure préventive : elle consiste à adjoindre au personnage vicieux son parfait pendant de manière à faciliter la distinction de la simulation avec l’authenticité. À l’image de Tartuffe trouvant son double inverse en Cléante, M. Franchard éclaire la facticité fondamentale du Chevalier Valère grâce à sa sincérité authentique. Les deux dramaturges se rejoignent, enfin, dans la liaison qu’ils établissent entre hypocrisie et forfanterie. Tout excès dans la pratique d’une vertu est présenté dans les deux pièces comme l’indice incontournable de sa transformation en vice. Les répliques de Mariane à Me. Argant condensent admirablement la tirade où Cléante se gendarme contre les « fanfarons de vertu » (Molière 2002 : 263-264). Mariane répond à l’exaltation maternelle de la « sublime (….) franchise » du Chevalier par la nécessité de « se défier / Des vertus dont l’excès a trop de singulier » et l’insistance sur le fait que « le vrai (….) est suspect quand on va par-delà » (Dufresny 1731 : 310).
+
+Le dévoilement de l’hypocrisie des personnages par la communauté de leur hubris n’implique cependant pas leur parfaite identité. Dotant sciemment le théâtre d’un Tartuffe fondamentalement autre, Dufresny délègue Dorante pour expliciter, dès l’exposition, la spécificité de son personnage principal : « Hypocrite en franchise est à peu près le mot ;/ Pourquoi pas faux sincere ? on dit bien faux dévot » (Dufresny 1731 : 307). Le subversif sieur de la Rivière matérialise, par cette dernière précision, son souci de s’affranchir d’un héritage insidieusement ravalé au statut de lieu commun. Vantant implicitement sa verve créatrice, il distingue décisivement le Chevalier Valère de son modèle présumé et exalte sa pratique d’une hypocrisie d’autant plus originale que sa caractérisation semble affleurer le paradoxe.
+
+<u>L’« hypocrite en franchise » : un « caractère de cour »</u>
+
+Pour pallier la difficulté à comprendre le caractère du Chevalier, le dramaturge multiplie les tirades qui définissent sa nature. L’exemple en peut être fourni par ce portrait saisissant confié à la verve de Dorante :
+<blockquote class="spip_poesie">
+<div>(…) Hier il me surprit,</div>
+<div>Voulant lier, dit-il, avec moi connoissance,</div>
+<div>Il exige d’abord entiere confidence :</div>
+<div>Il me dit ses défauts, &amp; ceux qu’il trouve en moi ;</div>
+<div>Mais il les adoucit, &amp; dans l’instant je vois</div>
+<div>Que par le même tour il me blâme &amp; me loue ;</div>
+<div>Qu’en blâmant avec art, habilement il joue</div>
+<div>Sous le jeu d’un censeur celui d’un complaisant.</div>
+<div>Il n’est point flatteur, non, c’est un ton différent.</div>
+<div>Il paroît s’échapper par des traits véridiques,</div>
+<div>Mais chaque mot le mene à ses fins politiques :</div>
+<div>Quand il vous croit en garde, il se découvre un peu</div>
+<div>Pour vous faire avancer &amp; se donner beau jeu :</div>
+<div>Profitant de l’amour qu’on a pour la franchise,</div>
+<div>Fait parade du vrai qu’il farde &amp; qu’il déguise.</div>
+<div>(….)</div>
+<div>Caractere de Cour.</div>
+<div>(Dufresny 1731 : 306-307)</div></blockquote>
+Si je ne devais retenir qu’une expression de cette tirade, mon choix se porterait assurément sur la dernière : « Caractere de Cour ». Selon Gracian, l’hypocrisie en franchise constituerait en effet l’arme par excellence du courtisan parfait. Celui-ci se présente comme un « homme adroit (…) (qui) ne fait jamais ce qu’il montre avoir envie de faire (…). Et puis, quand son artifice est connu, il raffine sa dissimulation en se servant de la vérité même pour tromper. Il change de jeu et de batterie, pour changer de ruse » (Gracian 1993 : 13). Motivé par le souci de tromper efficacement, le courtisan condenserait diverses aptitudes : il se signale par la maîtrise de « l’art d’observer ses semblables » (Elias 1974 : 98), « l’art de manier les hommes » (Elias 1974 : 101) et « le contrôle des affects » (Elias 1974 : 107). « L’art d’observer ses semblables » se définit comme « la faculté, née des nécessités de la vie de cour, de se rendre compte avec précision du caractère, des motivations, des capacités et des limites des autres » (Elias 1974 : 98). Or, à en croire aussi bien les tirades qui le définissent que les propos qu’il tient à autrui et les actes qu’il accomplit dans la pièce, le Chevalier Valère est abondamment doté de cette qualité première du courtisan. Il accumule protestations et manifestations de sincérité dithyrambiques pour susciter la confiance des autres et les amener à se dévoiler (acte II, scène 10, p.348 ; acte III, scène 2, p.351). Il arrive de cette manière à les cerner à un point tel qu’il a pu procurer à M. Franchard l’illusion fallacieuse d’une parfaite identité. Grâce à ses dons de psychologue, le Chevalier Valère parvient à mesurer tant ce que les autres veulent que ce qu’ils peuvent entendre. Ainsi, sa perception du désintéressement d’Angélique et de son tuteur conditionne son sincère aveu de pauvreté. Le Chevalier adapte constamment son discours à l’univers mental de ses interlocuteurs. Personnage subtil, il affiche une sincérité factice en ne blâmant en l’autre que les défauts que lui-même se reconnait. Cela lui permet, par ricochet, d’attester sa complaisance à l’image que chacun des personnages se fait de lui-même. Cet Asmodée des consciences réussit de la sorte à faire de ses talents d’observateur le meilleur adjuvant de sa volonté de manipulation. Ces deux facultés entrent d’ailleurs en interaction constante.
+
+Si l’observation d’autrui fournit au Chevalier Valère les ingrédients de leur duperie, il ne manipule souvent les autres que pour se doter des enseignements nécessaires à la construction d’une apparence factice de sincérité. Ainsi, en blâmant fallacieusement Me. Argant de manquer à l’amitié en lui taisant ses défauts, il l’amène à son insu à l’instruire des critiques qu’il motive ; en l’occurrence, l’incrédulité suscitée par son amour pour Mariane qu’il n’a jamais vue. Il se procure, de la sorte, les moyens de prévenir les médisances dont il serait victime, avant qu’elles ne génèrent la méfiance de son interlocutrice. Il réussit à paraître d’autant plus sincère, pour ne pas craindre, mais rechercher la critique. Cette habileté du Chevalier révèle en lui l’envergure d’un fin tacticien que confirme l’art avec lequel il annule par anticipation la seule rivalité fâcheuse susceptible d’entraver le couronnement de ses desseins matrimoniaux : celle de M. Franchard. Le faux sincère adapte son choix au désir de son seul opposant potentiel : en apprenant la prédilection du tuteur opulent pour Mariane, il renonce immédiatement à elle pour lui préférer Angélique. Les actes stratégiques de Valère sont toujours motivés par la considération de ses intérêts, et jamais par d’hypothétiques affects. En ce sens encore s’accrédite son assimilation à un parfait courtisan.
+
+<u>Sophismes du Chevalier</u>
+
+L’hypocrisie en franchise du Chevalier ne le rend pas susceptible de contradictions. Comme le confie Dorante à Mariane, « cet homme est bien rusé : / Jamais sur ses discours il ne donne de prise » (Dufresny 1731 : 351). Son protéisme discursif le protège du risque de se laisser surprendre en flagrant délit de mensonge. Il discrédite, ainsi, aisément le reproche d’inconstance formulé par Angélique et la Marquise :
+<blockquote class="spip_poesie">
+<div>LE CHEVALIER</div>
+<div>Elle me justifie, en vous disant pour moi</div>
+<div>Qu’un instant m’a changé. Tantôt j’ai dit j’épouse ;</div>
+<div>A présent je dis j’aime. En fussiez-vous jalouse,</div>
+<div>Madame, vous prouvez, vous, de votre côté,</div>
+<div>Qu’un arrangement seul entre nous arrêté</div>
+<div>Ne peut ici me rendre coupable d’inconstance.</div>
+<div>Si cet amour subit, &amp; dont la violence</div>
+<div>Vient trouver en un jour tous nos arrangemens,</div>
+<div>Entre vous deux m’agite &amp; me tient en suspens,</div>
+<div>Sans que j’aie encore pu parler, me reconnoître,</div>
+<div>En quoi suis-je coupable ? où puis-je le paroître ?</div>
+<div>(Dufresny 1731 : 358)</div></blockquote>
+Le Chevalier ne saurait être convaincu de duplicité parce que son discours se conforme toujours aux masques qu’il appose pour agréer à ses destinataires nécessairement différents : ayant parlé le langage de l’estime à la raisonnable Marquise, il a pu sans risque feindre d’éprouver un amour ardent pour la jeune Angélique. Il peut donc, sans danger, pousser l’audace au point de confier à ses dupes le soin de se porter réciproquement garantes d’une sincérité qui les humilie. Il réussit d’autant mieux à les abuser par la construction factice d’une illusoire bonne foi qu’il se révèle un artiste de la polémique, comme le confirme l’extrait suivant :
+<blockquote class="spip_poesie">
+<div>ME. ARGANT</div>
+<div>Le point qui m’inquiéte,</div>
+<div>Sur quoi l’on glose un peu, c’est ma fille cadete.</div>
+<div>Sans l’avoir vue encore, dit-on, peut-il l’aimer ?</div>
+<div>Il feint donc ?</div>
+<div></div>
+<div>LE CHEVALIER</div>
+<div>Distinguons. On pourroit me blâmer,</div>
+<div>Si j’appellois amour l’ardeur impatiente</div>
+<div>De voir celle qu’ici chacun me peint charmante :</div>
+<div>Mais je dis seulement que je suis prévenu</div>
+<div>Par un objet, par vous, par vos récits connu ;</div>
+<div>Car vous m’avez dépeint ses traits, son caractere ;</div>
+<div>De plus j’ai deviné la fille par la mere. /</div>
+<div></div>
+<div>ME. ARGANT</div>
+<div>Elle a de mon air, oui beaucoup.</div>
+<div>(….)</div>
+<div></div>
+<div>LE CHEVALIER</div>
+<div>Vous vous imaginez être elle, &amp; c’est ainsi</div>
+<div>Que j’imagine moi la voir en vous aussi.</div>
+<div>Et je vous prouverai malgré la médisance ;</div>
+<div>Qu’aimer sur des récits est dans la vraisemblance.</div>
+<div>Qu’est-ce qui fait l’amour ? l’imagination.</div>
+<div>(Dufresny 1731 : 336-337)</div></blockquote>
+En recourant à un raisonnement concessif, le Chevalier disqualifie ses contempteurs par sa redéfinition de l’« amour ». Il persuade son interlocutrice de la véracité de ses propos par la postulation flatteuse de sa gémellité avec sa fille. Me. Argant est d’autant plus portée à le croire qu’il la conforte habilement dans sa représentation mentale avant de s’inscrire dans la continuité pascalienne et l’anticipation de Stendhal par la localisation de l’origine imaginaire de l’amour ! La crédibilité des allégations du Chevalier naît donc tant de leur vraisemblance intrinsèque que de la subtilité de l’argumentation qui en prépare l’introduction. Comme le soutient Dorante, le faux sincère n’est redoutable que parce que « Nul mensonge grossier, mais le vrai qu’il déguise / Sert à ses fins sans risque, &amp; mieux que s’il mentoit. » (Dufresny 1731 : 351)
+
+<u>Sincérité dans l’hypocrisie d’un Tartuffe héautontimorouménos</u>
+
+Quoique redoutable par ses talents d’acteur et d’orateur, l’hypocrite en franchise est finalement démasqué par son opportunisme caricatural à force de systématisme. Valère tombe aisément dans le piège de Laurette à l’acte IV, en se laissant appâter par l’héritage de la Marquise (acte IV, scène 5). Perdant toute prudence, il oublie l’offense publique qu’il a infligée à cette dernière (acte III, scène 3) et compromet son union projetée avec Angélique, en s’efforçant de récupérer sa rivale (acte IV, scène 6). Mais il a beau déployer toutes les ressources de sa verve, loin d’emporter la créance de la Marquise, il dissipe ses derniers doutes car, même si sa subtilité discursive compromet l’évaluation de sa sincérité réelle, son adaptation constante aux circonstances prouve son machiavélisme. Son recours permanent à une relativisation propre à lui permettre de soutenir l’insoutenable finit par compromettre sa crédibilité. Au terme de l’acte IV, le Chevalier aurait été éconduit sans la complicité du franc menteur Rapin. La franche hypocrisie sauve la mise à l’hypocrisie en franchise : en imputant les avances de Valère à la Marquise, Rapin permet à son cousin de rentrer en grâce auprès d’Angélique. Dorante et Mariane croient alors avoir tout perdu et ne doivent une issue favorable qu’au <i>deus ex machina</i> constitué par la reconnaissance de Rapin par Laurette comme son ancien voisin et ami. L’efficacité du mensonge avérée paraît en définitive plus grande que celle de la sincérité fardée.
+
+Le Chevalier Valère paraît moins dangereux pour autrui que pour lui-même. On ne saurait assumer le protéisme comme mode d’être et le relativisme comme manière de penser sans y perdre tous repères et toute identité. Aussi Laurette esquisse-t-elle, dès sa première apparition, le portrait d’un être qui n’existe plus que par les rôles qu’il joue :
+<blockquote class="spip_poesie">
+<div>Le Chevalier Valère avec lenteur s’avance.</div>
+<div>Observez-le un moment, car il ne vous voit pas ;</div>
+<div>Son air sombre, rêveur, marque quelqu’embarras !</div>
+<div>Je l’observois hier chez nous dans un passage,</div>
+<div>Une noirceur couvroit et fermoit son visage</div>
+<div>Je parus, tout-à-coup son visage s’ouvrit ;</div>
+<div>C’est comme un rideau noir qu’on tire…</div>
+<div>(Dufresny 1731 : 321)</div></blockquote>
+La suivante assimile implicitement le Chevalier à une scène de théâtre. Celle-ci ne s’anime qu’à partir du moment où la présence d’un spectateur enclenche le lever du rideau. Tout comme le public constitue la raison d’être de la représentation, la présence d’un interlocuteur génère l’entrée en représentation du Chevalier. Sans Laurette et la Marquise, le visage du faux sincère aurait persisté à rivaliser en néant avec le vide d’une scène privée de ses spectateurs. Ce phénomène pressenti finement par la suivante prouve l’asservissement du Chevalier non seulement au regard, mais aussi au rôle qu’autrui lui intime de jouer. En tant qu’acteur, Valère n’apparaît pas même créateur, il excelle en tant que mime de la projection mentale que se fait son spectateur de lui-même. Le Chevalier semble d’autant plus aliéné par l’autre qu’en épousant la divergence de ses interlocuteurs, il assume autant de rôles qu’il a de destinataires. Mime transmué en caméléon, la superposition des masques apposés sur son visage étouffe en lui toute possibilité d’être véritable et le voue au désarroi existentiel.
+
+Si le Chevalier est victime d’une déconstruction identitaire, c’est parce que son sophisme est sincère. Les multiples distinctions dont il se montre féru<span class="spip_note_ref"> [1]</span> manifestent sa prescience du pouvoir démiurgique du Verbe qui subordonne le réel à sa représentation et la vérité à la vraisemblance. Aussi le Tartuffe héautontimorouménos de Dufresny fut-il éloquemment défini comme un « explorateur hardi des “surprises” de la vie mentale (qui) connaît ce que les autres cachent : l’intime confusion du vrai et du faux, de l’apparence et de la réalité » (Moureau 1979 : 373).
+
+&nbsp;
+<h3 class="spip">*******</h3>
+Au terme de cette pérégrination dans la comédie française à l’aube des Lumières, les vices des sincérités concurrentes paraissent décidément receler de multiples vicissitudes. Plus qu’un état figé, la franchise serait une exigence, voire un idéal susceptible de générer le malheur de son adepte. Toujours menacée de dissolution sur le théâtre du monde, elle n’éclate jamais mieux que là où on ne l’attend guère : au cœur de l’inauthenticité fondamentale du personnage protéique, l’homme de cour, précurseur de nos politiques modernes.
+
+Résultant de « leur faculté d’apercevoir dans les objets de l’entendement ce que n’y aperçoit pas le commun des hommes » (Marmontel 2005 : 579), la finesse de Destouches et Dufresny ébranle ainsi nos certitudes sur nos valeurs. Subvertissant l’image lénifiante de l’univers véhiculée par le répertoire moliéresque, leurs comédies déroutantes dévoilent l’aliénation de la morale par le langage et la perspective, par la rhétorique et le système. Sans doute leur clairvoyance torturante n’est-elle d’ailleurs pas étrangère à leur refoulement dans l’oubli. Ce que révèle notre réception de ces prospecteurs hardis dans les méandres de la sincérité, c’est peut-être, en définitive, notre besoin vital de mauvaise foi.
+
+</div>
+
+----
+
+references: 
+- <div class="crayon article-texte-21 texte surlignable clearfix">
+<h4>Textes supports</h4>
+<ul>
+ 	<li>DESTOUCHES, Philippe Néricault, <i>Le Médisant, comédie en vers &amp; en cinq actes, représentée pour la première fois en 1715</i>, dans Œuvres de Néricault Destouches, tome premier, La Haye, Benjamin Gibert, 1742, p. 325-448.</li>
+ 	<li>DUFRESNY, Charles Rivière, <i>Le Faux Sincère, comédie représentée pour la première fois le 26 juin 1731</i>, dans Œuvres de Monsieur Rivière Dufresny, tome V, Paris, Briasson, 1731.</li>
+ 	<li>MOLIERE, <i>Le Misanthrope</i>, dans Œuvres complètes, Paris, Seuil, 2002, p. 323-345.</li>
+ 	<li>___, <i>Le Tartuffe ou l’Imposteur</i>, dans Œuvres Complètes, Paris, Seuil, 2002, p. 255-284.</li>
+ 	<li>VOLTAIRE, <i>L’Indiscret, comédie en un acte représentée pour la première fois en 1725</i>, Paris, Prault fils, 1742, 59 p.</li>
+</ul>
+<h4>Divers</h4>
+<ul>
+ 	<li>DROMARD, Gabriel, <i>Essai sur la sincérité</i>, Paris, Alcan, 1910, VIII-242 p.</li>
+ 	<li>ELIAS, Norbert, <i>La société de Cour</i>, Paris, Calmann-Lévy, 1974, 330 p.</li>
+ 	<li>GRACIAN, Baltasar, <i>L’Homme de Cour</i>, traduit de l’espagnol par Amelot de la Houssaie, Paris, Editions Ivréa, 1993, 192 p.</li>
+ 	<li>JANKELEVITCH, Vladimir, <i>Les Vertus et l’Amour</i>, second tome du <i>Traité des vertus</i>, Paris, Flammarion, Champs, 1986, 402 p.</li>
+ 	<li>LACROIX, Michel, « Civilités bourgeoises » dans WEINRICH, Harald (dir.), <i>Politesse et sincérité</i>, Paris, Esprit, 1992, p. 33-37 .</li>
+ 	<li>MARMONTEL, « Finesse » dans <i>Éléments de littérature</i>, édition présentée, établie et annotée par Sophie Le Ménahèze, Paris, Desjonquères, 2005, p. 579-583.</li>
+ 	<li>MOUREAU, François, <i>Un singulier moderne : Dufresny, auteur dramatique et essayiste (1657-1724)</i>, thèse présentée devant l’université de Paris IV, le 11 juin 1977, Paris, Champion, 1979, 452 p.</li>
+ 	<li>PAPASOGLI, Benedetta, <i>Le « fond du cœur » : Figures de l’espace intérieur au XVIIe siècle</i>, Paris, Honoré Champion, 2000, 310 p.</li>
+</ul>
+</div>
+<div class="notes">
+
+<hr />
+
+<div id="nb1">
+
+<span class="spip_note_ref">[1] </span>L’affirmation même de la nécessité de distinguer entre deux présentations possibles des faits constitue un leitmotiv du discours du Chevalier. Voir, notamment, acte II scène 4, p. 336 : « distinguons » ; acte IV, scène 2, p. 375 : « Car il faut distinguer ».
+
+</div>
+</div>
+
+----
+
+number: 4
+
+----
+

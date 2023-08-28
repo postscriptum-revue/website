@@ -1,0 +1,238 @@
+title: [22-04] Les variations orientales 
+
+----
+
+subtitle: le mythe de Shéhérazade chez Théophile Gautier
+
+----
+
+author: Narjess SAIDI D’OUTRELIGNE
+
+----
+
+affiliation: Université de Jendouba
+
+----
+
+abstract_fr: La péri, fée orientale, inspirée des contes des <em><strong>Mille et Une Nuits</strong>, </em>est l’incarnation du pouvoir magique qu’exerce la femme sur l’homme. Le merveilleux, tel que défini par Etiemble, « fait partie du monde réel », constitue un pouvoir gautériste basé sur l’illusion.
+
+Les enjeux esthétiques du conte de <strong><em>La Mille et Deuxième nuit</em> </strong>(1842) et du ballet de <strong><em>La Péri </em></strong>(1843) de Théophile Gautier, inspirés du conte "L'histoire du Prince Ahmed et de la fée Pari-Banou" traduit par Antoine Galland, montrent que la structuration de l’espace nous promet et permet la découverte de territoires exotiques (l’Égypte, l’Inde, la Turquie) dans lesquels le personnage merveilleux de la péri use de tout son pouvoir pour mettre à l’épreuve les sentiments amoureux du sultan. Loin d’être un simple ornement dans un monde oriental rêvé, la femme représentée par la péri, acquiert une dimension universelle, celle de Shéhérazade pour signifier à l’homme cette devise chère à Gautier « l’amour est plus fort que la mort ».
+
+L’étude de l’intertextualité interne et externe montre que la motivation de Gautier est celle de s’appuyer sur le vraisemblable, sur cette dimension esthétique qui définit le rapport entre l’Orient et l’Occident, qui abolit les frontières spatiales pour laisser place au métissage culturel et civilisationnel.
+
+----
+
+abstract_en: The peri, oriental fairy, inspired by the tales of the Thousand and One Nights, is the incarnation of the magical power that woman exercises over man. The marvelous, as defined by Etiemble, "is part of the real world", constitutes a gautheristic power based on illusion.
+
+The aesthetic stakes of the story of The Thousand and Second Night (1842) and Theophile Gautier's ballet La Péri (1843), inspired by the tale "The story of Prince Ahmed and the fairy Pari-Banou" translated by Antoine Galland Show that the structuring of space promises us and allows the discovery of exotic territories (Egypt, India, Turkey) in which the marvelous personage of the perished uses all its power to test the feelings In love with the Sultan. Far from being a mere ornament in a dreamed oriental world, the woman represented by the peri, acquires a universal dimension, that of Shéhérazade to signify to man the motto dear to Gautier "love is stronger than death".
+
+The study of internal and external intertextuality shows that Gautier's motivation is to rely on plausibility, on this aesthetic dimension which defines the relationship between East and West, which abolishes spatial boundaries to leave Cultural and civilizational mixing.
+
+----
+
+text: <h3><strong>Introduction</strong></h3>
+Oublié[1] de son vivant et mal connu après sa mort, Théophile Gautier est un écrivain de talent qui a su manier les différents genres narratifs : nouvelle, conte, roman, articles, poèmes, ballet, etc. Il est l’écrivain de la perfection par excellence. Sa devise « l’art pour l’art » résume la perfection esthétique que cherchait et défendait Gautier au détriment de l’acte de raconter.
+
+Les précisions réelles importent peu, le plus important pour Gautier est la beauté des mots et des êtres.
+
+<em>La Mille et Deuxième Nuit</em> est un conte fantastique publié en août 1842 dans <em>Le Musée des Familles. </em>C’est l’histoire de Shéhérazade, la conteuse des <em>Mille et Une Nuits</em>, venue demander secours à Gautier. Ce dernier lui raconte une histoire pour lui permettre de sauver sa tête de « sa brute de mari » (Poe, 1840 : 6) Shahrayar[2].
+
+<em>La Péri</em> est un ballet fantastique en deux actes, en collaboration avec M. Coralli mis en musique par M. Burgmuller[3]. Gautier s’est inspiré du conte de <em>La Mille et Deuxième Nuit</em> pour raconter, dans les deux œuvres, l’histoire du héros, las de la banalité des jouissances terrestres qui s’éprend d’une passion dévorante pour une péri.
+
+Nous verrons dans une première partie par quel moyen Gautier rend compte de sa fascination pour l’Orient en s’inspirant de l’œuvre originale pour créer tout un univers rêvé. Nous avons fait le choix de traiter le référent géographique dans cette partie pour faire ressortir la performativité de Gautier qui, à mon sens, relève de son esthétique. La deuxième partie sera consacrée au référent culturel pour montrer à quel point le choix des noms des personnages est important et aussi performatif dans la mesure où il confère un caractère symbolique, mais aussi universel. Gautier identifie le référent à travers la relation entre ce qu’il s’attend à voir et la réalité des choses dans les pays orientaux, il s’agit de ce que Philippe Hamon appelle « fonction référentielle ».
+
+Tous ces procédés mis à disposition du lecteur participent au jeu sur l’œuvre entre esthétisme et réalisme. Ces « petites histoires » montrent la liberté de création de l’auteur, dégagées de toutes contraintes littéraires.
+<h3><strong>I. Enjeux esthétiques et dimension orientale</strong></h3>
+Quelque chose d’indéfinissable, d’atemporel, d’(a)géographique se dessine à travers les deux œuvres. En effet, le personnage de la Péri[4] et celui de Aysha[5] n’appartiennent pas au monde des mortels et pourtant, elles s’y meuvent comme si elles y avaient vécu toute leur vie. La fiction lui dicte des accents précieux où se mêlent imaginaire et vraisemblable. En plus de la complicité sensuelle, Gautier cherche l’osmose des corps et des âmes. C’est à cette épreuve/devise qu’il confronte/invite son héros.
+
+En effet, la séparation avec la femme aimée n’est pas dramatique puisque l’image peut être appelée à suppléer son absence : (« Il eut beau s’agiter et se tourner sur son divan, il ne put s’endormir ; l’image de la princesse Ayesha, étincelante comme un oiseau de flamme sur un fond de soleil couchant, passait et repassait devant ses yeux ») <em>(La Mille et Deuxième Nuit</em> : 351<em>). </em>Dans <em>La Péri</em> la réalité n’est qu’une transposition du rêve de la femme aimée (« mais quand la reine des Péris vient s’incliner sur son front, il tressaille. Son cœur l’a reconnue : c’est elle qu’il rêvait »)
+
+Rêve et réalité s’entremêlent pour créer une atmosphère de plaisir. Le fantastique participe à créer une dimension interculturelle entre Orient et Occident. L’auteur est comme emporté/transporté par le temps et l’espace, on constate la disparition complète des objets de la vie quotidienne comme pour nous signifier la dimension universelle de l’esthétique gautériste. Seul subsiste un questionnement incessant des héros sur la beauté, la parole et le désir.
+<blockquote>Le thème de la danseuse, celui de Carlotta Grisi, la danseuse par excellence, qui est par nature aux limites du fantastique et du réel. La danseuse, c’est la femme, c’est la femme surnaturelle, à la fois vivante et idéale ; en elle se résument l’esthétique et le fantastique. Aussi, le fantastique songe d’amour, de désir, de beauté et de mort, illusion d’une beauté plus fondamentale que toute réalité, peut-il se réduire à la danse, à l’apparition de la danseuse : en 1837 La nouvelle de Nodier, <em>Inès de las Sierras</em>, semble la synthèse de cette rêverie sur la danseuse fantastique, que Giselle quelques années plus tard renouvelle[6]</blockquote>
+Dans les deux œuvres, danse et musique[7] semblent être un parfait élément du décor. Elles participent aux jouissances et aux réjouissances (« Que puis-je faire pour éloigner de votre esprit les sombres idées qui l’obsèdent ? un peu de musique dissiperait peut-être cette mélancolie. […] je puis improviser des vers et m’accompagner de la guzla. ») (<em>La Mille et Deuxième Nuit : </em>356). Dans <em>La Péri</em>, Léïla apprend au maître du sérail : (« Je sais les ghâzels des meilleurs poètes ; je joue de la guzla ; les almées les plus habiles du Caire m’ont appris à danser. — On apporte une guzla, on fait venir des musiciens […] le jeune maître, enchanté »). Il s’agit d’un tableau vivant qui se dessine sous les yeux du lecteur dans lequel l’auteur agit comme un artiste qui scrute la réalité, la transforme en lui donnant un éclat inhabituel pour la transfigurer dans un monde imaginaire.
+
+La poétique de Gautier ne s’intéresse qu’au <em>Beau</em> comme une forme d’expression. Le recours au merveilleux et au surnaturel (personnages, lieux et actions) ancre ses deux œuvres dans la devise qui lui est chère, celle de la liberté dans l’art, celle de se détacher de tout ce qui est conventionnel.  Les personnages de Shéhérazade, de sa sœur Dinarsade et de Shahriar ont un caractère universel libéré de toutes contraintes constitutionnelles et géographiques. La beauté des héroïnes renvoie à un idéal inspiré des <em>Mille et Une Nuits </em>de Galland. La description (« [d]es odalisques [qui] sont occupées à leur toilette, agenouillées ou assises sur des carreaux. Les unes entremêlent leurs longues nattes de sequins et de fils d’or, les autres teignent leurs sourcils et leurs paupières avec le henné[8] ; celles-ci s’attachent des colliers… » (<em>La Péri</em>) ou encore « Elle était richement habillée à la mode turque ; une veste de velours vert, surchargée d’ornements, serrait sa taille d’abeille ; sa chemisette de gaze rayée, retenue au col par deux boutons de diamant… ») (<em>La Mille et Deuxième Nuit </em>: 349) montre à quel point Gautier attache de l’importance à la beauté féminine comme une arme avec laquelle elles combattent les hommes pour les soumettre. En effet, la seule arme de la femme orientale pour échapper au joug de l’homme est cette beauté[9].
+
+Gautier se « place au carrefour » de la civilisation orientale et occidentale, il part à la recherche de ses rêves pour parodier Gérard de Nerval (« je voyage pour vérifier mes rêves »). La description de Constantinople est révélatrice de l’amour que réserve Gautier à l’Orient (« Les dômes bleuâtres des bazars, les minarets blancs des mosquées […] Tout cela argenté par une lumière blanche où flottait une gaze transparente la fumée des bateaux à vapeur ») (Guégan, 2008 : 64). Description somme toute reposant sur un imaginaire puisque Gautier n’a jamais visité l’Orient avant 1869.
+
+Son premier voyage dans un pays (« oriental[10]) » est celui qu’il fit en Algérie le 3 juillet 1945 ; Sainte-Beuve décrit le retour de l’auteur le 7 septembre de la même année (« Il revint à Paris, vêtu en Arabe, coiffé du fez, chargé de burnous et, sur l’impériale de la diligente depuis Châlons, tenant entre les jambes une lionne qu’on lui avait confiée. Il eut lui-même une rentrée de lion : hâlé, fauve, avec des yeux étincelants »[11]). Tel un Loti, quelques années plus tard, Gautier s’approprie la culture et les traditions orientales pour les transposer en Occident. Il ne cherche pas tant l’effet, même si effet il y a, sur le spectateur que la beauté restée à son état primitif.
+<h4><strong>1. Référent géographique</strong></h4>
+<blockquote>La société de référence constitue l'univers réel de l'écrivain auquel <em>(sic)</em> il s'inspire pour créer l'univers fictif de l'œuvre littéraire, et elle est interdépendante de l'expérience personnelle de l'écrivain. C'est pourquoi un auteur musulman décrira mieux les pratiques de sa religion et des aspects propres à sa communauté, ou un auteur africain décrit d‘une manière plus valable et authentique les paysages désertiques tandis qu'un écrivain européen parlera mieux de la froidure hivernale et tout ce qui est propre à son univers[12]</blockquote>
+Cette affirmation ne s’applique ni à Gautier ni à la plupart des auteurs (« orientalistes »[13]). La fiction de Gautier est capable de décrire des « paysages désertiques » comme dans <em>Emaux et Camées, Le pied de la momie</em>. Mieux encore, les deux œuvres que nous étudions regorgent d’indications précises d’espaces, de coutumes étrangères à l’auteur.
+
+Les évènements de <em>La Péri</em> et de <em>La Mille et Deuxième Nuit</em> se déroulent au Caire, alors que Gautier n’y a jamais mis les pieds avant octobre 1869[14]. L’acte premier de <em>La Péri</em> précise que « La scène est au Caire ». <em>La Mille et Deuxième Nuit</em> situe les évènements en Égypte : (« Il y avait une fois dans la ville du Caire un jeune homme nommé Mahmoud-Ben-Ahmed, qui demeurait sur la place de l’Esbekieh »).
+
+Gautier n’a jamais caché sa passion pour l’Orient et en particulier pour l’Égypte. Il écrit en décembre 1850[15] à Maxime Du Camp en voyage avec Flaubert en Égypte (« Que puis-je vous écrire, sinon que je suis bassement jaloux de votre bonheur et que j’envie le sort de votre domestique ? »).
+
+Le référent géographique renvoie indubitablement à un rêve exotique, le sentiment de jalousie exprimé montre à lui seul, le désir de se trouver sur cette terre. La représentation de l’Égypte est le fruit de nombreuses lectures, récits de voyage et surtout de la traduction de Galland[16]. C’est cette traduction qui a coloré d’une dimension exotique les productions artistiques des 18<sup>e</sup> et 19<sup>e</sup> siècles.  À travers l’intertextualité interne et externe, la motivation de Gautier est celle de s’appuyer sur le vraisemblable, sur cette dimension esthétique qui définit le rapport entre l’Orient et l’Occident, qui abolit les frontières spatiales pour laisser place au métissage culturel et civilisationnel.
+
+À travers cette dimension géographique, nous décelons une vocation représentationnelle dans la mesure où Gautier veut partager son Orient imaginaire avec le lecteur, veut faire découvrir ou re-découvrir cet espace aux Occidentaux. Immortaliser l’Orient, tel était le souhait de l’auteur. Les deux héroïnes, celle de <em>La Péri</em> et celle de <em>La Mille et Deuxième Nuit</em>, sont l’incarnation d’une beauté orientale. Elles sont l’incarnation du personnage de Shéhérazade, celle qui est venue chercher secours chez Gautier. Elle représente la magie orientale par excellence, elle est aussi un référent culturel. Ces personnages féminins, fictifs, imaginés certes, mais rendus véridiques tellement la description de l’auteur est convaincante. <em>La fonction testimoniale</em> du narrateur atteste de l’engouement que porte Gautier à l’Orient à tel point que le lecteur/spectateur croit tout ce que le narrateur raconte. Shéhérazade, ce personnage mythique, devient ainsi un personnage « réel ».
+
+Mais qu’en est-il de la connaissance ou de la méconnaissance de ce pays. L’Égypte a fait rêver tant d’auteurs, c’est un vrai « terroir » culturel pour Gautier. Il « puise ses sources dans un « terroir » étranger et c’est aussi une manière pour faire revivre cette civilisation orientale pour laquelle il voue un culte »[17], une passion et un engouement. Ce monde fictif re-présente l’espace dans lequel l’auteur construit son récit/ses histoires à travers une organisation textuelle propre.
+
+Gautier marche sur les traces de Chateaubriand qui a su rendre compte dans ses <em>Voyages</em> de la beauté, mais surtout du mystère qu’exerce l’Orient sur les auteurs et artistes occidentaux.
+<blockquote>Comprendre un texte, c’est aussi être capable d’identifier les références qui s’y trouvent. Un écrivain est porteur d’une culture et son œuvre en est souvent le reflet. Sa création s’appuie sur des références conscientes ou inconscientes, que le lecteur doit s’efforcer de partager. Lorsqu’un texte a pour cadre une période historique, proche ou lointaine, on doit chercher à élucider les événements auxquels il se réfère, afin de pouvoir se repérer dans le contexte évoqué.[18]</blockquote>
+<h4><strong>2. La toponymie :</strong></h4>
+La situation diatopique est souvent liée aux personnages et à leur localisation dans l’espace.
+
+Le choix des lieux est significatif dans les deux œuvres. Les précisions du cadre spatial renvoient encore une fois à la volonté de Gautier de livrer à son lecteur un tableau fidèle non pas à la réalité, mais à une image que l’auteur se faisait de l’Orient.
+<ul>
+ 	<li>La scène de <em>La Péri</em> se passe au Caire comme le précise la didascalie. Trois occurrences, toutes en termes mélioratifs.</li>
+ 	<li>Dans <em>La Mille et Deuxième Nuit</em>, le mot est répété cinq fois pour désigner le lieu où réside la bien-aimée, Ayesha. C’est l’histoire racontée par Gautier à Shéhérazade qui se déroule au Caire. L’intertextualité est un prétexte pour évoquer le faste oriental.</li>
+ 	<li>Dans<em> La Mille et Deuxième Nuit</em> trois occurrences renvoient à Constantinople[19], pour évoquer la richesse orientale. Gautier écrit à Ernesta Grisi en février 1852 (« Je prends toutes les mesures pour te rejoindre ; si tu restes à Constantinople, j’y passerai l’été avec toi […] et il me serait doux de voir un beau pays avec toi »).</li>
+ 	<li>La Turquie : c’est l’adjectif « turque » qui est employé pour décrire la beauté des femmes.</li>
+</ul>
+L’auteur fait appel à ces marqueurs géographiques pour offrir au lecteur le plaisir de ces lieux et découvrir des paysages qui évoquent un imaginaire oriental en vogue.
+
+Le référent géographique renvoie à un décor de convention, celui d’un Orient à la fois littéraire et rêvé non seulement par Gautier, mais aussi par toute une génération d’écrivains et d’artistes qui ont trouvé dans cet ailleurs une matière fertile à leur imagination. Comme le rappelle Etiemble (« le merveilleux fait partie du monde réel ») (Etiemble, 1961 : 103).
+<h3><strong>II. Références culturelles</strong></h3>
+<h4><strong>1. Anthroponymie</strong></h4>
+Les personnages jouent un rôle essentiel dans l’organisation des évènements, de l’histoire. Ils sont un élément essentiel dans la projection et l’identification du lecteur voire de l’auteur. Philippe Hamon propose cinq[20] fonctionnalités pour hiérarchiser les personnages.
+
+(« Fonctionnalité différentielle[21] ») des personnages :
+
+<strong><em>La Péri</em></strong>
+
+[table id=3 /]
+
+<strong><em>La Mille et Deuxième Nuit</em></strong>
+
+[table id=14 /]
+
+(« Le cas des personnages de fiction est évidemment particulier […] Ils font partie d’un univers entièrement construit par un démiurge qui ne laisse probablement rien au hasard<sup> </sup>»[24]) (Vaxelaire, 2005 : 67). Un rapport cratyléen existe donc entre les noms et leurs signifiances.
+<h4><strong>2. Prénoms masculins </strong></h4>
+<ul>
+ 	<li>Ahmet (graphie turque) et Mahmoud Ben Ahmed, prénoms masculins renvoient à la culture arabo-musulmane, il est très fréquent, dérivé de celui du prophète Mohamed. C’est celui porté par le héros du conte de « L'histoire du Prince Ahmed et de la fée Pari-Banou ».  Ce prénom est repris en 1845 dans le poème « Sultan Mahmoud », un personnage sans amour, non rassasié reprenant le refrain :</li>
+</ul>
+(« [Mais tous ces corps sans âmes
+
+Plaisent un jour...
+
+Hélas ! J’ai six cents femmes,
+
+Et pas d'amour !] »).
+<ul>
+ 	<li>Abdallah-Ben-Mohammed accolé à celui de Pergialla et un prénom composé, le premier est lui-même composé de « abd » qui signifie esclave et « allah » pour Dieu. Il porte bien son nom, car il est réellement traité comme un esclave par le narrateur.</li>
+ 	<li>Mesrour, prénom arabo-musulman qui est l’anagramme de Roucem, et signifie « le joyeux », il est le bras droit du sultan et il est en effet chargé d’égayer les journées du sultan « Le chef des eunuques, Roucem, va de l’une à l’autre, leur donnant des conseils, les engageant à redoubler de grâces et de coquetterie, et, joignant l’exemple au précepte, il minaude et prend des airs séducteurs » <em>(La Péri)</em>.</li>
+ 	<li>Bedredin, nom composé de « <em>badr</em>» et désignant la pleine lune et « <em>edin ou eddine</em> » qui veut dire la religion. C’est chez ce parfumeur que Mahmoud Ben Ahmed s’est épris de Ayesha, c’est aussi chez lui qu’a lieu la rencontre entre les deux protagonistes, « Le lendemain, plus heureux que la veille, il rencontra Ayesha dans la boutique de Bedredin » (<em>La Mille et Deuxième Nuit</em>), c’est donc le personnage qui a favorisé la rencontre amoureuse.</li>
+</ul>
+<h4><strong>3. Prénoms féminins</strong></h4>
+<ul>
+ 	<li>Nourmahal, prénom féminin composé de « <em>nour</em>» qui signifie lumière et « <em>mahal</em> » pour désigner la demeure, dans les deux œuvres, elle est la sultane favorite, celle qui est censée illuminer le palais et distraire le sultan de l’oisiveté. L’inspiration de ce prénom a été révélée par le poème de Victor Hugo dans <em>Les Orientales, </em>« Nourmahal la rousse » de novembre 1828, c’est aussi un éponyme de l’opéra de Gaspare Spontini, <em>Nurmahl</em>, représenté à l’Opéra de Berlin le 27 mai 1822.</li>
+ 	<li>Ayesha et Avesha (graphie turque), prénoms féminins très répandus dans la culture arabo-musulmane. C’est celui que portait la femme du prophète. Il signifie, celle qui vit, la vivante, dans <em>La Mille et Deuxième Nuit</em>, c’est la princesse pour laquelle s’éprend Mahmoud Ben Ahmed, celle qui le maintient en vie et donne sens à sa vie.</li>
+ 	<li>Léïla et Leila, prénoms féminins très répandus dans la culture arabo-musulmane. Il signifie la nuit, très sombre, mais aussi c’est une métaphore de l’ivresse. Dans <em>La Péri</em>, Léïla raconte (« qu’elle est une pauvre esclave et qu’elle s’est sauvée du harem du pacha, qui la poursuivait d’un amour auquel elle ne voulait pas répondre. ») Elle joue le même personnage dans <em>La Mille et Deuxième Nuit</em>:<em> (</em>«<em> </em>Abu-Beker, ayant surpris le sélam, est entré dans une fureur horrible, a fait enfermer sa sultane favorite dans un sac de cuir avec deux chats, l’a fait jeter à l’eau et m’a condamnée à avoir la tête tranchée »). Elle porte bien son nom. Elle a en effet, une vie sombre, une vie d’esclave pourchassée, mais elle est en fait la péri, celle qui va charmer le héros, celle qui va lui causer des tourments en le mettant à l’épreuve.</li>
+ 	<li>Boudroulboudour, un prénom composé « <em>boudr</em>, est en fait <em>badr</em>» pour signifier la pleine lune, et « <em>boudour </em>» est le pluriel du premier, est le vrai nom de la péri : (« Je suis péri du premier ordre, comme vous pouvez le voir par mon escarboucle et par mes ailes. Un soir, passant dans l’air à côté de votre terrasse, je vous entendis émettre le vœu d’être aimé d’une péri. ») (<em>La Mille et Deuxième Nuit</em>), c’est en fait l’incarnation de la princesse Ayesha.</li>
+ 	<li>Le personnage de la péri est emprunté au poème de Victor Hugo « la Fée et la Péri » (Hugo, 1912) éponyme repris par une aquarelle de Gustave Moreau en 1866. C’est un génie femelle de la mythologie arabe.</li>
+</ul>
+La traductibilité de ces noms n’est guère possible, d’où leur caractère unique et leur ancrage dans une civilisation qui a fasciné Gautier et tant d’autres orientalistes.
+
+La fonction référentielle de tous ces noms est une manière pour l’auteur soit de familiariser son lecteur avec des noms venant d’un ailleurs qui lui est cher, soit qu’ils sont déjà connus grâce à la vogue orientale des 18e et 19e siècles et surtout à la traduction de Galland. « La culture de l’époque valorise » donc cette référence culturelle sans laquelle le conte ou le ballet se liraient ou se comprendraient différemment.
+
+Les personnages sont en fait « un support essentiel de l’investissement » esthétique de l’auteur. Son investissement réside dans la création artistique propre à Gautier reposant sur un imaginaire/fiction fertile. Ces personnages rendent compte de sociétés réelles, mais mal connues puisque reposant sur une connaissance livresque ou le plus souvent sur un imaginaire oriental.
+
+L’espace, lui aussi joue sur « l’effet de réel », il renvoie à des lieux symboliques pour donner une dimension universelle à ses œuvres.  Et comme l’affirme Roland Barthes (<em>« </em>Il est vrai que j’ai avec les noms propres un rapport qui m’est énigmatique, qui est de l’ordre de la signifiance, du désir, peut-être même de la jouissance. La psychanalyse s’est beaucoup occupée de ces problèmes et l’on sait très bien que le nom propre est, si je puis dire, une avenue royale du sujet et du désir. ») (Barthes, 1975).
+
+Les prénoms et les lieux suscitent l’imaginaire et rappellent la grandeur orientale. L’auteur porte une affection particulière à l’onomastique et à la toponymie qui rappellent celles des <em>Mille et Une Nuits</em>. Des lieux relevant du réel, mais transposés dans un monde imaginaire. Le conte de Galland, source d’inspiration des deux œuvres, se passe quant à lui aux Indes. Ces noms des lieux que Gautier souhaitait ardemment fréquenter relèvent de la réalité, le référent géographique joue la fonction d’un rêve non exaucé. Shéhérazade s’adresse à Gautier avec la certitude : (« Monsieur, dit la belle Turque <em>(sic) </em>[…] vous devez avoir lu <em>les Mille et une Nuits</em>, contes arabes, traduits ou à peu près par ce bon M. Galland, et le nom de Scheherazade ne vous est pas inconnu ? »).
+
+La réponse ne laisse aucun doute (« Je la connais parfaitement » […] Enchanté de vous voir, quoique la visite soit un peu fantastique ; mais qui me procure cet insigne honneur de recevoir chez moi, pauvre poète, la sultane Scheherazade et sa sœur Dinarzarde »). La référence littéraire n’est ni fortuite ni arbitraire, elle a exercé une influence importante sur la conception même de ces deux œuvres.
+<h3><strong>Conclusion</strong></h3>
+<em>La Mille et Deuxième Nuit</em> n’est en fait qu’un prétexte pour Gautier pour dénoncer la condition de l’artiste : « Votre sultan Schahriar, ma pauvre Scheherazade, ressemble terriblement à notre public ; si nous cessons un jour de l’amuser, il ne nous coupe pas la tête, il nous oublie, ce qui n’est guère moins féroce. Votre sort me touche »
+
+La trame romanesque de <em>La Mille et Deuxième Nuit</em> est empruntée aux <em>Mille et Une Nuits</em>. L’histoire dans l’histoire est l’une des caractéristiques de l’œuvre originale, Gautier montre non seulement sa fascination, mais aussi l’habileté de cette œuvre à user de procédés littéraires ne relevant pas du conventionnel occidental, mais d’une recherche de la beauté et d’une quête des origines. La référence aux civilisations orientales dépasse une simple influence de mode pour refléter une vraie conception de l’art et de l’art d’écrire chez Gautier.
+
+<a href="#_ftnref1" name="_ftn1"></a>
+
+----
+
+references: 
+- <h4>Corpus</h4>
+<ul>
+ 	<li>ETIEMBLE René, <em>L'Orient philosophique au XVIII<sup>e</sup>siècle</em>, Paris, Centre de Documentation Universitaire, 1961.</li>
+ 	<li>GALLAND Antoine <em>Les</em> <em>Mille et Une Nuits</em>, Paris, Garnier Flammarion, 2000.</li>
+ 	<li>GAUTIER Théophile, <em>La Péri </em>in<em> Œuvres complètes</em>, section III, Paris, Honoré Champion, 2003.</li>
+ 	<li>GAUTIER Théophile,<em> La Mille et Deuxième Nuit</em> in <em>Romans, contes et nouvelles </em>I, Paris, Gallimard, 2002.</li>
+ 	<li>GAUTIER Théophile, <em>L'Œuvre fantastique. Tome I - Nouvelles</em>, Paris, Classiques Garnier, coll. "Bibliothèque du XIXe siècle", 2015.</li>
+ 	<li>GUEGAN Stéphane, <em>Théophile Gauthier</em>, <em>Constantinople</em>, éd. Bartillat, 2008.</li>
+ 	<li>HAMON Philippe, <em>Pour un statut sémiologique du personnage</em>, revue, Seuil, 1977.</li>
+ 	<li>HUGO Victor, <em>Odes et Ballades</em>, Ollendorf, 1912.</li>
+ 	<li>LACOSTE-VEYSSEYRE Claudine, <em>Théophile Gautier</em>, <em>Correspondance générale</em>, Tome IV, 1849-1851, Genève et Paris, Librairie Droz.</li>
+ 	<li>POE Edgar Allan, <em>La Mille et Deuxième Nuit</em>, 1840.</li>
+ 	<li><em>SAINTE-BEUVE, </em>Charles-Augustin<em>, Nouveaux lundis</em>, t.VI, M. Paris, Lévy, 1866.</li>
+ 	<li>VAXELAIRE Jean-Louis, <em>Les noms propres, une analyse lexicographique et historique</em>, Paris, Honoré Champion, 2005.</li>
+</ul>
+<h4>Articles de revues</h4>
+<ul>
+ 	<li><em>Magazine Littéraire</em>, février 1975.</li>
+ 	<li><em>Revue des Deux Mondes</em>, 1<sup>er</sup> avril, 1847.</li>
+ 	<li><em>Revue des Deux Mondes</em>, 1<sup>er</sup> juillet 1848.</li>
+</ul>
+<h4>Sitographie</h4>
+<ul>
+ 	<li><a href="http://journals.scu.ac.ir/article_11004_d8046a33ea7a61cb6a3ed04e33e65533.pdf">http://journals.scu.ac.ir/article_11004_d8046a33ea7a61cb6a3ed04e33e65533.pdf</a> (consulté le 10/10/16), Ebrahim Salimikouchi « De la société du texte à la société du référent Lecture duchetienne de Peur et Tremblement de Gholamhossein Sâédi».</li>
+ 	<li><a href="http://www.espacefrancais.com/texte-et-contexte/#Les-rfrences-culturelles">http://www.espacefrancais.com/texte-et-contexte/#Les-rfrences-culturelles</a> (consulté le 24/10/16).</li>
+</ul>
+
+<hr />
+
+[1] L’œuvre de Gautier n’a paru dans la collection de <em>La Pléiade</em> qu’en 2002.
+
+[2] Les graphies de Shahrayar et de Shéhérazade sont empruntées à la traduction de Jamel Eddine Bencheikh et André Miquel, car elles nous semblent plus proches de l’arabe que celles de Gautier.
+
+[3] Représenté pour la première fois au théâtre de l’Académie Royale de Musique, le lundi 17 juillet 1843.
+
+[4] Toutes les citations de <em>La Péri </em>renvoient à <em>Œuvres complètes</em>, section III, Honoré Champion, 2003, pp. 605 à 613.
+
+[5] Toutes les citations de <em>La Mille et Deuxième Nuit</em> renvoient à l’édition de la Pléiade, <em>Romans, contes et nouvelles </em>I, Gallimard, 2002, pp. 347-384.
+
+[6] Théophile Gautier, <em>L'Œuvre fantastique. Tome I - Nouvelles</em>, Classiques Garnier, collection "Bibliothèque du XIXe siècle", 2015, pp. 7-8.
+
+[7] « <em>La guzla</em> » est un instrument de musique oriental. Le peintre Marilhat a prêté à Gautier : « une petite guitare à trois cordes, au ventre en calebasse et au long manche d’ébène et d’ivoire, qui servit à la péri dans sa scène de séduction musicale », <em>Revue des Deux Mondes</em>, 1<sup>er</sup> juillet 1848.
+
+[8] Gauthier confond, dans les deux œuvres, le « hénné » c’est pour colorer les mains et les pieds et le « kohl » pour les paupières.
+
+[9] Gautier affirme que « L’art, c’est la beauté, l’invention perpétuelle du détail, le choix des mots, le soin exquis de l’exécution ; le mot poète veut dire littéralement <em>faiseur </em>; tout ce qui n’est pas bien <em>fait </em>n’existe pas », <em>Revue des Deux Mondes</em>, 1<sup>er</sup> avril, 1847, p. 121.
+
+[10] L’Orient littéraire est complètement différent de l’Orient géographique. Plusieurs écrivains et artistes considèrent le Maghreb comme une partie de l’Orient.
+
+[11] <em>Nouveaux lundis</em>, t.VI, M. Lévy, 1866, p. 311.
+
+[12] <a href="http://journals.scu.ac.ir/article_11004_d8046a33ea7a61cb6a3ed04e33e65533.pdf">http://journals.scu.ac.ir/article_11004_d8046a33ea7a61cb6a3ed04e33e65533.pdf</a> (consulté le 10/10/16), Ebrahim Salimikouchi « De la société du texte à la société du référent Lecture duchetienne de Peur et Tremblement de Gholamhossein Sâédi », p.6.
+
+[13] Fromentin, par exemple, a excellé dans la description du désert algérien.
+
+[14] « Gauthier s’embarque pour la 1<sup>ère</sup> fois pour l’Egypte avec la délégation française invitée à l’inauguration du canal de Suez. Dans le bateau, il se fracture le bras gauche, ce qui réduira de beaucoup l’étendue de sa visite : il ne peut pas remonter le Nil, et doit se contenter de connaître Alexandrie, Le Caire, Ismailia. », <em>Œuvres complètes</em>, section III, <em>op. cit</em>., pp. L, LI.
+
+[15] Théophile Gautier, <em>Correspondance générale</em>, Tome IV, 1849-1851, édité par Claudine Lacoste-Veysseyre, directeur éditorial Pierre Laubriet, avec Jean-Claude Fizaine, Andrew Gann, Marie-Hélène Girard.
+
+[16] Antoine Galland, traducteur de l’œuvre des <em>Mille et Une Nuits</em> entre 1704 et 1717 (12 volumes).
+
+[17] Théophile Gautier, <em>L'Œuvre fantastique. Tome I - Nouvelles</em>, Classiques Garnier, collection "Bibliothèque du XIXe siècle", 2015.
+
+[18] <a href="http://www.espacefrancais.com/texte-et-contexte/#Les-rfrences-culturelles">http://www.espacefrancais.com/texte-et-contexte/#Les-rfrences-culturelles</a> (consulté le 24/10/16).
+
+[19] Gauthier visite Constantinople et y séjourne du 9 juin au 28 août 1852 pour rejoindre Ernesta. Le 1<sup>er </sup>octobre, <em>La Presse</em> commence à publier les articles de voyage qui feront l’objet d’un volume éponyme, publié chez Michel Lévy en 1953.
+
+[20] Ces cinq catégories sont : « la qualification différentielle, la fonctionnalité différentielle, la distribution différentielle, l’autonomie différentielle, la prédésignation conventionnelle, <em>Pour un statut sémiologique du personnage</em>, revue « Poétique du récit », Seuil, 1977.
+
+[21] <em>Ibid</em>., « Le héros est ici, en quelque sorte, enregistré comme tel à partir d'un corpus déterminé, et a posteriori ; une référence à la globalité de la narration et à la somme ordonnancée des prédicats fonctionnels dont il a été le support, et que la culture de l'époque valorise, est nécessaire ».
+
+[22] Abréviation de <em>La Mille et Deuxième Nuit</em>. Il s’agit de trouver le personnage équivalent dans cette œuvre.
+
+[23] Dans <em>La Péri</em>.
+
+[24] Jean-Louis Vaxelaire, <em>Les noms propres, une analyse lexicographique et historique</em>, Honoré Champion, 2005.
+
+<hr />
+
+&nbsp;
+
+Narjess Saidi d’Outreligne, maître assistante en littératures française et comparée à l’Institut Supérieur des Sciences Humaines de Jendouba, Tunisie, directrice du Centre de Langues et de Certifications, chef de projets PAQ (Projet d’Appui à la Qualité dans l’enseignement supérieur) et de MOOC (Préparer et réussir le DELF B2 et le DALF C1).  Elle a publié de nombreux articles et deux critiques littéraires aux éditions de l’Harmattan, <em>De l’Orient des Mille et Une Nuits à la magie surréaliste</em>, et <em>Les techniques d’expression dans </em>Zayni Barakat <em>de Ghitany</em>.
+
+&nbsp;
+
+----
+
+number: 4
+
+----
+

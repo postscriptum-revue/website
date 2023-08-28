@@ -1,0 +1,35 @@
+Title: La traduction dans la littérature
+
+----
+
+Subtitle: Que peut le littéraire pour (re)penser la traduction ?
+
+----
+
+Number: 21
+
+----
+
+Intro-text:
+
+Dans l’acte de traduire, un mouvement se dessine, un mouvement qui, dans la littérature, m’interpelle constamment. De soi à l’autre, de l’autre à soi, d’un texte ou d’une langue à l’autre ; un déplacement est en jeu, une dynamique dans laquelle une pensée de la littérature se trace, s’écrit, se ré-écrit. Ce déplacement – ce que je me plais à nommer une <em>translation</em>, c’est-à-dire un mouvement qui implique le glissement d’une figure géométrique d’un espace à un autre de la page – est une production langagière. Par le mouvement advient une nouvelle forme, une figure seconde, une expression qui se situe entre la copie et la création. Ce travail de réécriture ou de copie altérée, Antonin Artaud le comparait à la peinture. Dans son « Avertissement » à sa réécriture du <em>Moine</em> de Matthew Lewis, il écrivait : « Comme d’un peintre qui copierait le chef-d’œuvre d’un maître ancien, avec toutes les conséquences d’harmonies, de couleurs, d’images surajoutées et personnelles que sa vue peut lui suggérer » (Artaud, 1966, p. 9). Le propos d’Artaud est d’une grande complexité. Il y est question à la fois de l’harmonie à laquelle doit s'adonner le traducteur et des conséquences qui sont liées à la subjectivité du peintre et on  peut transposer l’idée vers le poète. La traduction se donne ainsi à lire comme une dissonance. Artaud décrit la dissonance comme un “décalage” ou encore un “désenchaînement” (Artaud, 2004, p. 582). Dans cette perspective, la traduction serait une forme de subversion langagière produite par “images surajoutées”, comme si la traduction était toujours la création d’un surplus ou d’un débordement de langage, voire d’un trop-plein de langue(s). Chez Artaud, la traduction participe d’une économie de la re-présentation, de la re-mise en présence, dans un temps à venir, d’un texte. Dans le passage cité, il est d’autant plus intéressant que ce soit une pensée poétique et littéraire qui permette d’aborder la traduction.  Cette idée est à l’origine du désir de ce numéro de <em>Post-Scriptum</em> et du colloque qui l’a précédé.
+
+Lorsque l’on s’intéresse aux théories de la traduction, la traduction littéraire apparaît souvent au premier chef, on pensera aux travaux célèbres d’Antoine Berman, plus récemment à ceux d’Emily Apter, pour ne nommer que ces deux-là, mais, chez Artaud, c’est autre chose. Nous ne sommes pas dans le registre de la traduction littéraire, ni même dans celui d’un discours théorique (quoiqu'il puisse être considéré comme tel), mais bien dans celui d’une pensée de la traduction qui est avant tout littéraire.
+
+Les articles qui composent la première partie de ce numéro se situent dans cette articulation entre la littérature et la traduction. Il y est question d’une traduction interne au texte littéraire, à ce qui relève d’une poétique de la traduction. Dans la seconde partie, c’est un autre aspect qui se développe. Les auteurs abordent une pratique toute personnelle de la traduction, ses enjeux, ses défis, ses écueils également. Entre l’étude des diverses formes que peut prendre la traduction/translation dans des textes littéraires, les pratiques d’auto-traduction et un travail de traduction concret, le présent numéro ouvre de nombreux espaces de réflexion et peut-être même une manière de (re)penser la traduction par la littérature.
+
+----
+
+Credits:
+
+<ul>
+ 	<li>Texte de présentation par Marie-Eve Bradette (Université de Montréal)</li>
+</ul>
+
+----
+
+References: 
+
+----
+
+Uuid: cmwtZwMjgAD6VelX

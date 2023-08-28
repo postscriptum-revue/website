@@ -1,0 +1,186 @@
+Title: [34-05] Using Multimodal Texts to Reconcile History in W.G. Sebald’s <i>Austerlitz</i>
+
+----
+
+Subtitle: 
+
+----
+
+Author: Anna Bradshaw
+
+----
+
+Affiliation: 
+
+----
+
+Abstract-fr:
+
+Comment l’analyse de la littérature postmoderne, associée à la photographie, peut-elle contribuer à notre compréhension du lien entre la littérature, le traumatisme générationnel et la guerre? Pour mieux comprendre cette relation complexe et nuancée quant à la façon dont la littérature et l’image influencent la guerre et vice versa, nous devons redéfinir le « texte » comme multimodal. Les ouvrages de Philippe Artières et de Régine Robin, qui troublent notre idée de ce que peut être le texte, appellent à analyser les ouvrages postmodernes afin de discerner la réciprocité entre la guerre et la littérature. Les théoriciens littéraires ayant travaillé sur <em>Austerlitz</em> de W. G. Sebald, sensibles aux enjeux de la postmémoire, de l’histoire de l’Holocauste et du Kindertransport, incluent Naomi Stead, Amir Eshel et Marianne Hirsch avec, notamment, « The Generation of Postmemory ». Je propose d’analyser l’histoire en utilisant des photographies comme preuves esthétiques et textuelles des implications historiques dans les interprétations de la littérature. Pour illustrer cela, je reviendrai sur l’utilisation de Hirsch de « la vérité et de l’obscurité, de l’exactitude et du simulacre » (2013, 216). À partir de cette idée, et avec celle de Susan Sontag sur la photographie démontrant l’influence de l’histoire et de la guerre sur l’interprétation, je propose de revisiter <em>Austerlitz</em>. Ce faisant, je soulèverai plusieurs questions, notamment : comment Austerlitz trouve-t-il de la vérité dans l’obscurité? Qu’est-ce que l’esthétique fragmentée des photographies tente (ou non) de transmettre sur l’histoire de Sebald, celle du Kindertransport et celle de la génération 1.5? En utilisant cet angle pour analyser la relation multiforme de l’histoire et de la littérature, par le biais d’<em>Austerlitz </em>de W.G. Sebald, cet article aidera à révéler la véracité d’autres textes, enrichissant ainsi les tentatives de réconcilier notre histoire collective.
+
+&nbsp;
+
+<strong>Mot-clés : </strong>postmémoire, Kindertransport, photographie, esthétique, texte
+
+----
+
+Abstract-en:
+
+How can the analysis of postmodern literature, coupled with photography, contribute to our comprehension of the connection between literature, generational trauma, and war? To better understand this complex and nuanced relationship, regarding how literature and the image influence war and vice versa, we need to redefine “text” as multimodal. In the works of Philippe Artières and Régine Robin, which trouble our sense of what text can be, there is a call to analyze postmodern works in order to discern the reciprocity between war and literature. Scholarship on W. G. Sebald’s <em>Austerlitz, </em>dealing with postmemory, the history of the Holocaust, and the Kindertransport, includes the works of Naomi Stead, Amir Eshel, and notably, Marianne Hirsch’s “The Generation of Postmemory”. I propose that history <em>can</em> be analyzed using photographs as aesthetic and textual evidence of the historical implications in interpretations of literature. To illustrate this, I’ll return to Hirsch’s mention of “truth and obscurity, exactitude and simulacrum”(2013, 216). Using this idea, alongside Susan Sontag’s fragmented versions of photography to demonstrate history and war’s influence over interpretation, I argue that a revisiting of <em>Austerlitz</em> is needed. My argument will provoke questions: How does Austerlitz find truth <em>in</em> obscurity? What do (or don’t) the fragmented aesthetics of the photographs attempt to convey about Sebald’s history, the history of the Kindertransport, and the 1.5 Generation? Using these lenses to analyze history and literature’s multifarious relationship, by way of W.G. Sebald’s <em>Austerlitz,</em> this article will help reveal the veracity of other texts, thus enriching attempts to reconcile our collective history.
+
+&nbsp;
+
+<strong>Keywords:</strong> postmemory, Kindertransport, photography, aesthetics, text
+
+----
+
+Text:
+
+<blockquote>With photography, a new language has been created. Now for the first time, it is possible to express reality by reality. We can look at an impression as long as we wish, we can delve into it and renew past experiences at will. – Ernst Haas (2020, 57)</blockquote>
+&nbsp;
+
+When we think of reconciling our past, culture, and identity, what immediately comes to mind? For W.G. Sebald’s protagonist, Jacques Austerlitz, it is his family. <em>Austerlitz </em>is one of the most provocative 20<sup>th</sup>-century novels, not only because of the way it is written but for <em>whom</em> it is written. What makes <em>Austerlitz </em>so profound is that it <em>is </em>anybody’s story.<em> Austerlitz</em> is the fictional story of Jacques Austerlitz, a man who embarks on a journey to uncover his origins—where he came from and who he is. Jacques was one of the many children separated from their families in Prague via the Kindertransport, the British-organized rescue effort of children from Nazi-occupied territory (i.e. Germany, Austria, Czechoslovakia, and Poland) that took place between 1938 and 1940. The homes they were adopted into were caring and comforting for many of the children. But for Austerlitz, his foster family is comprised of righteous, religious zealots who abuse him mentally and physically. At the tender age of fourteen Austerlitz sets off on his own, never to return.
+
+&nbsp;
+
+Though he manages to create a life for himself, the sense of belonging is a luxury that is never afforded him; he carries on, working and existing, but is rarely satiated. Nearing middle age, Austerlitz meets the narrator of the novel, a journalist. Through the journalist’s interweaving of narration and Austerlitz’s dialogue, Jacques retraces the fatal ride he took as a little boy. We, the readers, are <em>told </em>this story not only through narrative but through photographs, which are as much a part of the story as the words on the page. I assert here that Sebald’s <em>Austerlitz </em>reconciles the past by uniquely utilizing multimodal texts—especially photography—to bridge the gap where truth and memory intersect. I further claim that one can close read photography, like text, going beyond the written word and demonstrating the ineffability of language, proving the essentiality of photography in resurrecting lost narratives. This is to say that within the novel the photographs serve as text where literature cannot elucidate, a connecting thread reconciling not only Austerlitz’s past but countless others. To resolve the past would be to find closure, a solution, and agreement, but that is not the aim of this novel; it is to coexist with a past that haunts, a past filled with trauma, to find <em>harmony</em> in dissonance.
+
+&nbsp;
+
+Sebald presents the reader with the word “Austerlitz”, which has no outside meaning other than its association with Napoleon’s battle (a point brought up in the novel), adding an ironic twist to the protagonist’s journey. When broken down, however, we can see how the word “Austerlitz” provides clues to a possible origin and connection to Austerlitz’s character. In German, the word “litz” is German for a wire of individual copper strands braided together. Through this etymological association, with the various images within the novel acting as puzzle pieces, we can see how Austerlitz and the themes of history and memory are intertwined.
+
+&nbsp;
+
+There has been much scholarship comparing <em>Austerlitz</em> with Marianne Hirsch and her theory on postmemory, and Roland Barthes’ notions of death and photography. However, although I will also be incorporating their scholarship into my thesis, I will be focusing on reconciling the past through means of memory rhetorically and holistically rather than in terms of death. To comment further on this, in his introduction to the novel, James Wood speaks of Sebald’s way of “saving the dead, by giving the unrecognizable individuals in the photographs a voice” (Sebald, Bell, and Wood 2013, xi). In this way, Wood focuses on the Gothic aspect of the dead: notions of overcoming an individual’s fear of mortality and transcending death. Thus, for this paper, I choose to view Sebald’s work as a saving of the faces. By focusing on moments in time, Sebald gives “them” a narrative that drags the departed out of obscurity <em>into </em>validity through inadvertent recognition and reflective acknowledgment. As Wood notes, the dead do call out to us. However, through mixing photographs of the identified vs. unidentified, we are connecting the “has-been-there” to reality, giving “them” a voice that transcends the book’s narrative. The histories of the dead are no longer lost but added to the collective memory of the Holocaust by intertwining them with our own. If you take away the written narrative, you are left with the text of the photographs. They are uniquely Jewish, but they are also uniquely not—they are you, me, your mother, your friend, your friend’s rugby team.
+
+&nbsp;
+
+<strong>Photography as Text</strong>
+
+The photographs in the novel create a multilayered effect, yet we don’t get the full sensation, the full essence of <em>Austerlitz</em> because it is still told through the narrator. But if we take the photographs themselves, we get a snippet of the truth “in its own words” when Austerlitz speaks to the reader; the photographs themselves take away the superfluous lens, laying themselves bare and open by <em>being </em>text. The pictures have no linear or chronological order, which is, in fact, the point. “To speak of photographs as thinking or thought, however, demands that we, in viewing them, will be swept up into a new, nonverbal temporality that is radically other” (Olsen 2013, 46). A picture has no chapters or sentences, it is a continuous thought within a snapshot of time. To reconcile our past, we must be able to recognize time as a human construct; photographs simply document that moment and it is up to us to place them in their proper time frame, which is equally befuddling, challenging, and rewarding. In my essay, I hope to add to the continuing conversation of using text in various forms to reconcile our history and add to the collective memory of the Holocaust.
+
+&nbsp;
+
+Katie Fry’s essay, “Lost in Time and the Heterotopic Image in W.G. Sebald’s Austerlitz”, focuses on the claim that <em>Austerlitz</em> fails as a mnemonic tool, stating that “Austerlitz’s contact with objects from his past more often fails to assist him in recalling, understanding, or coming to terms with forgotten experiences” (2018, 126). However, I argue against this due to the novel’s ability to go beyond being simply a mnemonic tool; photography <em>can</em> be seen <em>as</em> text and therefore can bridge the gap between memory and truth. To better elucidate my meaning, I will be looking at André Bazin’s “The Ontology of the Photograph” to elaborate on the power of aesthetics within photography and Barthes’ “Rhetoric of the Image” to expand on what is involved in reading an image.
+
+&nbsp;
+
+Fry further argues that a latent image can be delivered from its purgatory without intervention, using Marcel Proust’s theory of involuntary memory, where an object or action can contain or incite a long-forgotten memory. I assert that Sebald uses photography to do exactly that: to reawaken Austerlitz’s memory. Memory is indeed pocketed with images that are equally vivid and vague. Oftentimes, recalling memories can only be brought into clarity or to the forefront of our conscience through smell, touch, or image. In Sebald’s novel, photography is the medium<em> and </em>the mediator between Austerlitz’s buried past and his subconscious need to find the truth about who he is.
+
+&nbsp;
+
+As stated previously, like most scholarship on the work of<em> Austerlitz</em>, I return to Marianne Hirsch’s notions of postmemory and trauma. In one segment of her essay, Hirsch argues that using the two pictures of Austerlitz’s mother, Agata, makes us imagine and materialize our own history to coincide with these pictures of the past. Essentially, “images […] amount to no more than impersonal building blocks of affiliative postmemory” (Hirsch 2013, 220). At one point in the novel, Austerlitz quotes his history teacher: “Our concern with history is a concern with preformed images already imprinted in our brains, images at which we keep staring while the truth lies elsewhere, away from it all, somewhere as yet to be discovered” (Sebald, Bell, and Wood 2011, 72). It is with Hirsch’s idea of impersonal building blocks that I have a point of contention: photographs are more than just “our truth”, for the lens is objective—truth can be found in photographs—providing a way for the “our” and the “I” to intersect, to create a <em>personal </em>connection because they provide a way to make the intangible tangible, and the real more real, because of their “being there-ness”.
+
+&nbsp;
+
+Examples to support the interconnection of photography, memory, and truth lie in Richard Crownshaw’s “Reconsidering Postmemory: Photography, the Archive and Post-Holocaust Memory in W.G. Sebald’s <em>Austerlitz</em>” and Patricia Hill’s “Texts as Photographs, and Photography as Texts: Lalla Romano and the Photographic Image”, with the exception that concerning Hill we are specifically looking at photographs rather than both photographs and paintings. Much like Barthes’ arguments in <em>Camera Lucida</em>, Hill asserts that photographs emphasize the <em>existence</em> of their subject, thus making photographic rhetoric valid as literary rhetoric in its textual utility and meaning. Along the same vein, Barthes states, “photo-text challenges the reader to continue the creative work of ‘reading an image’, creating living stories from the papery remnants of the past” (Barthes and Howard 1981, 60). Photography is the through-line that connects memory and narrative, but whereas Hill sees photography as only a concept, I contend that in <em>Austerlitz</em> photography offers much more. It is the space where truth, memory, and narrative intersect, allowing us to see photographs <em>as </em>text. Hill’s essay also focuses on how a gendered gaze can dictate the text that surrounds the photograph. However, for the purposes of this paper, the gaze is regarded in terms of identification with one’s past. In his essay, Crownshaw argues that photography acts as a conduit to postmemory and traumatic experiences: “The photographs are haunted by the subjects they bring back to life—haunted and haunting for those who view them” (2004, 229). My argument seeks to add another layer to this by showing that it is also possible to reconcile our past through the conduit photography provides, by giving agency to the viewers to connect with their past.
+
+&nbsp;
+
+Since the advent of the photograph, photography has traversed many genres and connections—from the individual, to realism, to storytelling. What makes a photograph different from other images such as paintings and cinema is its ability to capture moments, which mitigates subjectivity because the hand of its creator is less apparent and holds less sway. “Photography liberates painting and sculpture from this contradiction by offering a reproduction of reality with which they cannot compete. The fact that no agency is involved in the fundamental photographic process marks photography as […] genuinely […] realis[tic]” (MacCabe 1997, 74). Therefore, photography is the most objective out of the three forms of image.
+
+&nbsp;
+
+<strong>Language and Photography </strong>
+
+The photograph has the ability to yield uncanny authenticity, yet it maintains a sense of mystery that the use of words often lacks. It is the photograph that exposes and emphasizes the inexpressibility of language; that is to say, it <em>transcends</em> language. The narrator and Austerlitz himself come to understand and explore how photography goes beyond the “worth a thousand words” trope, imbricating spoken and written language.
+<blockquote>Now and then a train of thought did succeed in emerging with wonderful clarity inside my head, but I knew even as it formed that I was in no position to record it, for as soon as I picked up my pencil the endless possibilities of language, to which I could once safely abandon myself, became a conglomeration of the most inane phrases. There was not an expression in the sentence but it proved to be a miserable crutch, not a word but it sounded false and hollow (Sebald, Bell, and Wood 2011, 122-123).</blockquote>
+Aside from admitting that words are out of his reach, the narrator comes to admire Austerlitz’s ability to use photography as a means to express himself beyond the scope of language.
+
+&nbsp;
+
+Austerlitz’s struggle to find a way to express himself is also a nod to the fading coal from Percy Shelley’s <em>Defense of Poetry</em>; of the idea losing its effectiveness in the moment between entering the mind and the action of writing it on paper (Adams, Hazard, and Searle 2005, 549). Indeed, the photograph—being a moment in time that is captured within that “transitory brightness”—accomplishes what the narrative or spoken word cannot. The ineffability of language is thus exposed, the photograph serving as a narration beyond the narrative. As Barthes explains, we can move past the symbolic message to an anthropological, literal one that offers both perceptual and cultural content (Trachtenberg and Meyers 1980, 272). This lexical message that the photograph provides transcends generations to maintain connection via realness – i.e. “being there”. Essentially, the photograph can enter the physical realm as another way for “text” to articulate meaning to the viewer. The language of the image is not merely the totality of utterances emitted, it is the totality of the utterances received (<em>Ibid.</em> 280-281). These utterances emitted and received exceed the synonymity of language to capture its ineffability, offering its viewers a more meaningful and impactful statement.
+
+&nbsp;
+
+When we look at the photos of Austerlitz as a young boy and of the dead bodies (Sebald, Bell and Wood 2011, 131, 183), we see a fresh-faced boy and the skeletons of those who have long since departed this world. Aside from the stark contrast, we can read the image, as Barthes suggests, through the being there-ness of these individuals. Sebald is trying to convey a story of time, death, innocence, and more. What truths can we discern in this glimpse of the boy, of the outfit he is wearing, the expression on his face, the color of his skin, his stance and posture? And for the photograph of the grave, what does it say about the individuals? Are they adults or a family? What is the ground like where they are buried? We can close read these photographs and allow them to reveal their utterances. Sebald demonstrates this himself in the novel through the narrator’s close reading of the young Austerlitz: “I examined every detail under a magnifying glass […] and in doing so I always felt the piercing, inquiring gaze of the page boy who had come to demand his dues, who was waiting in the gray light of dawn on the empty field for me to accept the challenge and avert the misfortune lying ahead of him” (<em>Ibid</em>. 2011, 184). Using the two photographs, Austerlitz can close read the delicate balance of his own life. This sentiment is echoed by American writer and philosopher Susan Sontag: “photographs state the innocence, the vulnerability of lives headed towards their destruction, and this link between photography and death haunts all photographs of people” (Sontag and Rieff 2013, 529). Reading the photographs as text enables the reader to discern elements of the novel that transcend the written word. Through Sebald’s analysis, we can see a linguistic message: an ability to ground in reality, as a function of elucidation, “a coded iconic message or symbolic message” (Trachtenberg and Meyers 1980, 272). In this instance, with the photographs of human remains, Austerlitz and the narrator give a voice to the faces who are unable to speak for themselves. They provide reconciliation and the ability to harmonize with the being there-ness of the individuals through the photograph. To understand further these utterances between memory and truth, we must also look to photography’s ability to serve as aesthetic evidence.
+
+<strong> </strong>
+
+<strong>Aesthetic Evidence</strong>
+
+Susan Sontag perfectly describes how photography changed our perspective, famously using Plato’s cave metaphor as an analogy, not only in a linguistic or lexical sense but in an aesthetic sense.
+<blockquote>This very insatiability of the photographic eye changes the terms of confinement in the cave, our world. In teaching us a new visual code, photographs alter and enlarge our notions of what is worth looking at […] They are a grammar and, even more importantly, an ethics of seeing […] the result of the photographic enterprise is to give us the sense that we can hold the whole world in our heads as an anthology of images. To collect photographs is to collect the world (Sontag and Rieff 2013, 529).</blockquote>
+To Austerlitz, the miscellaneous photographs he takes “allowed [him] to ignore the fact that [his] life has always, for as far back as [he] can remember, been clouded by unrelieved despair” (Sebald, Bell, and Wood 2011, 126). The act of taking photographs provides the subconscious realization that there is a journey he must embark on—to find out who he is and where he comes from—to reconcile his past. In his essay, Bazin notes that the power of the aesthetic qualities of the photograph lies in its ability to lay bare reality, like a fingerprint that is unique in its contribution to the natural order of creation (Trachtenberg and Meyers 1980, 242). Therefore, the image allows us a glimpse into the objective realities that may cloud our memory, bringing clarity to points in our life that have been overshadowed by the grayness of time and emotion.
+
+&nbsp;
+
+Some of Marianne Hirsch’s most notable work is concerned with the generational postmemory of the Holocaust and with photography. To explain the intersection of memory, truth, and narrative in <em>Austerlitz </em>I’d like to return to her use of French art historian Georges Didi-Huberman’s notion of “truth and obscurity, exactitude and simulacrum” (Hirsch 2013, 216). While all four of these ideas work alongside each other, I propose that with the miscellaneous photographs in <em>Austerlitz, </em>one can find truth <em>in </em>obscurity and exactitude <em>in </em>the simulacrum. In this sense, we are blending and bending time and the photograph to curate a moment which narrates a truth that is otherwise incapable of being. Austerlitz demonstrates photography’s aesthetic power in the intersection of time, memory, and narrative when he rearranges his photographs:
+<blockquote>Austerlitz told me that he sometimes sat here for hours, laying out these photographs or others from his collection […] arranging them in an order depending on their family resemblances, or withdrawing them from the game until either there was nothing left but the gray tabletop, or he felt exhausted by the constant effort of thinking and remembering […] I often lie here until late in the evening, feeling time roll back, said Austerlitz (Sebald, Bell, and Wood 2011, 119).</blockquote>
+Here we can see how Austerlitz is finding familiarity (truths) to his past by using the obscurity of photographs to associate place <em>and </em>person with memory. It is precisely this journey of finding familiarity that sends Austerlitz on a quest to uncover his past, ultimately leading to the discovery of his mother.
+
+&nbsp;
+
+When Austerlitz eventually makes his way to Prague he connects with Vera, a family friend and his former nanny. Through her stories and various photographs, Vera provides Austerlitz with the means of filling the gaps of his forgotten childhood. The photographs act as a consumable object, a shortcut to the past (Sontag and Rieff 2013, 235). As he is introduced to photographs of his mother, Agata, he is unsure of the person staring back at him, only knowing her to be his mother through Vera’s confirmation and his own vague memories. Wisps of his mother’s presence linger in his mind, these obscurities proving to be enough evidence of his mother’s existence and connection to him to satisfy him.
+
+&nbsp;
+
+This obscurity, difficulty, and the peculiar conditions in which Austerlitz encounters traces of his mother resonate with Barthes in his book <em>Camera Lucida</em>: “And here the essential question first appeared: did I <em>recognize</em> her? I never recognized her except in fragments, which is to say that I missed her <em>being </em>[…] Photography thereby compelled me to perform a painful labor; straining toward the essence of her identity” (Barthes and Howard 1981, 66). It is the viewing of photos and films of his mother that triggers Austerlitz’s memory, grasping at obscurities to formulate truths, finding exactitude in the simulacrum. “She looks, so I tell myself as I watch, just as I imagined the singer Agata, from my faint memories and the few other clues to her appearance that I now have, and I gaze and gaze again at that face, which seems to be both strange and familiar” (Sebald, Bell, and Wood 2011, 251). Though Agata continues to haunt Austerlitz, his rediscovery of her gives him the courage to seek out answers about his father and other family friends.
+
+&nbsp;
+
+<strong>The Intersection of Memory, Truth, and the Photographic Narrative</strong>
+
+Austerlitz is able to connect with his familial past and his historical past, resonating with the cultural (generational), communicative, and collective (group) notions of memory within Hirsch’s essay (2013, 209). Austerlitz’s journey echoes the sentiments of many of the Kindertransport children: searching for truth and connecting with one another through the aesthetic, becoming a cathartic and palpable experience of loss, absence, and reclamation. For the Jewish and Kindertransport children, the past is located in fragments and traces of objects, images, and documents. “Austerlitz uses the example of the familial anchor, which individualizes and reembodies the free-floating disconnected and disorganized feelings of loss and nostalgia to attach himself to more concrete and seemingly authentic images and objects” (Hirsch 2013, 220). Austerlitz uses photography to create authenticity out of an unreliable narrator, a character that represents many individuals who have lost their identities, giving those like him validation.
+
+&nbsp;
+
+Photographs provide a paradox of obscurity and truth, allowing us to find veracity in them. However, because photographs are human products, they are also bound to their laws: flawed and subjective. Even with these characteristics, one can still find reconciliation in the universal and particular through photography:
+<blockquote>Even if the universal and the particular are both always present in photography as a medium, the balance between the two is negotiated by the photographer. As Joel Eisinger asserted, photography, especially that which aims for objectivity, allows the photographer ‘to capture particular truths while simultaneously transcending them to reach a level of universal truth’ (Putnam 2015, 26).</blockquote>
+This task of balancing the universals and the particulars of objective truth is paradoxical in that it is through the flawed human creation of the photographic hand that the subjective is always present: “There can be seen to be a persistent tendency for photographers to upset this balance, leading to the universalization or particularization of the creating culture rather than the creation of an objective image (<em>Ibid</em>.). Since photography as a medium is a construct of the human perspective it is impossible for a subject within a photographic image to ever be purely objective. But being that objectivity is also a human construct, the notion itself is problematic, scientific proof being the closest form of objectivity.
+
+&nbsp;
+
+<strong>Authenticity in the Unreliable Narrator</strong>
+
+Scientific proof is arguably one of the only indications that support the notion that there is objective truth. So, can photographs be seen as scientific proof in the purest sense of objectivity? In regard to Putnam’s argument that the truth can be skewed by the photographer, I return to Sontag and her acute observations on photography, specifically the comparison of the scientific versus the moral. “Some photographers set up as scientists, others as moralists. The scientists make an inventory of the world; the moralists concentrate on hard cases […] each person photographed [is] a sign of a certain trade, class, or profession. All […] subjects are representative, equally representative, of a given social reality—their own” (Sontag and Rieff 2013, 235). What makes a photograph not just art but reality is its ability to capture the “has-been-there” in a medium that, as Sontag states, “confers importance, its irrefutable pathos acting as a message from time past, and the concreteness of its intimations about social class” (<em>Ibid</em>.). Within his novel, Sebald presents us with dynamic photographs that elevate his protagonist’s story using the reality of social class in a historical context. The photographs themselves are as fictional as the story Sebald weaves, yet they can deliver to us a form of <em>real</em> representation, Sebald’s blending of fact and fiction perhaps giving us more fact than fiction in the preservation of the faces and places.
+
+&nbsp;
+
+James Wood remarks on the verisimilitude within Austerlitz’s tale, where the photographs testify to the corporeality of generational trauma despite their obscurity within the novel: “On the one hand, these photographs sear us with the promise of their accuracy—as Barthes says, photographs are astonishing because they ‘attest that what I see has existed’: ‘In Photography, the presence of the thing (at a certain past moment) is never metaphoric’” (Sebald, Bell and Wood 2011, xi). We are left to wonder, then, if the pictures in <em>Austerlitz</em> are to be seen as scientific or moral truths. I would argue that this is what Sebald is leaving up to the reader to decide. I believe <em>Austerlitz</em>’s photographs can be viewed as both: a moral truth of reconciliation and a scientific truth of the depiction of lives added to the collective memory of the Holocaust. They serve as verifiable proof of a moment, a passage in time, that occurred beyond a reasonable doubt. Photographs can stand alone, and, in the case of this novel, serve to elucidate (or complicate, as others argue) the written truth.
+
+&nbsp;
+
+<strong>Conclusion</strong>
+
+Photography and the image give us more than just a glimpse at what <em>was</em>, they give us reality, the “is” that is encapsulated within the present moment. <em>Austerlitz</em> presents the “is” in a way that equally confounds and liberates both the reader and the images themselves, giving new meaning to how narrative and the image can communicate. “This failure of language to synchronize with images is something with which Austerlitz can acutely identify, and it inaugurates <em>through language </em>the beginning of his becoming-image” (Olsen 2013, 61). Sebald’s innovative work begs us to ask: how do we find ourselves in these images? Whether we know who or what they are, taking that moment to let the images seep into us, to let the identities of the other speak presents the opportunity to find solace in their reflection, building a more powerful collective memory and a stronger reconciliation of our histories, traumas, and stories.
+
+----
+
+References:
+
+- Adams, Hazard, and Leroy Searle, eds. <em>Critical Theory since Plato</em>. 3rd ed. United States: Thomson/Wadsworth, 2005.
+
+Barthes, Roland and Howard, Richard, <em>Camera Lucida. </em>1st ed. New York: Hill and Wang, 1981.
+
+Crownshaw, Richard, “Reconsidering Postmemory: Photography, the Archive, and Post-Holocaust Memory in W.G. Sebald’s ‘Austerlitz.’” <em>Mosaic: An Interdisciplinary Critical Journal</em>37, no. 4 (2004): 215–36. <a href="https://www.jstor.org/stable/">https://www.jstor.org/stable/</a>44030035.  (accessed: February 13, 2022).
+
+Fry, Katie, “Lost in Time and the Heterotopic Image in W.G. Sebald’s Austerlitz.” <em>Mosaic: An Interdisciplinary Critical Journal</em>51, no. 1 (2018): 125–41. https://<a href="http://www.jstor.org/stable/90021829">www.jstor.org/stable/90021829</a> (accessed: February 13, 2022).
+
+Haas, Ernst, Alex Haas, and Phillip Prodger. <em>Ernst Haas: New York in Color, 1952-1962</em>. Munich/New York: Prestel, 2020.
+
+Hill, Patricia, “Texts as Photographs, Photographs as Texts: Lalla Romano and the Photographic Image.” <em>Italian Culture </em>24, no. 1 (2007): 45–62. https://doi.org/10.1179/itc.2007.24.1.45.
+
+Hirsch, Marianne. “The Generation of Postmemory.” In <em>On Writing with Photography</em>: 209-220. University of Minnesota Press, 2013. https://www.jstor.org/stable/10.5749/j.ctt2jcd13. (accessed: January 25, 2022).
+
+MacCabe, Colin “Barthes and Bazin: The Ontology of the Image.” In <em>Writing the Image After Roland Barthes</em>: 74-76. University of Pennsylvania Press,1997. <a href="https://www.jstor.org/">https://www.jstor.org/</a>stable/j.ctt3fhsd6. (accessed: March 3, 2022).
+
+Olsen, David, <em>Sign and Design: The Visual Languages of Contemporary Fiction</em>: 74-75. Saint Louis University, 2013. <a href="http://ezproxy.lib.calpoly.edu/login">http://ezproxy.lib.calpoly.edu/login</a>? url=<a href="https://www.proquest.com/dissertations-thesis/sign-and-design-visual-languages-contemporary-fiction/docview/1501470605/se-2?accountid=10362">https://www.proquest.com/dissertations-thesis/sign-and-design-visual-languages-contemporary-fiction/docview/1501470605/se-2?accountid=10362</a> (accessed: February 23, 2022).
+
+Putnam, Jacki, “The Problem of an Inclusive Art History: Reconciling the Universal and Particular through Photography.”: 24-26. George Washington University. 2015. <a href="https://indigo.uic.edu/articles/thesis/The_Problem_of_an_Inclusive_Art_History_Reconciling_the_Universal_and_Particular_through_Photography/13475772">https://indigo.uic.edu/articles/thesis/The_Problem_of_an_Inclusive_Art_History_Reconciling_the_Universal_and_Particular_through_Photography/13475772</a> (accessed: February 23, 2022).
+
+Sebald, W.G., Bell Anthea, and Wood, James, <em>Austerlitz. </em>10th ed. New York: Modern Library, 2011.
+
+Sontag, Susan, and Reiff, D. <em>Essays of the 60s &amp; 70s. </em>New York: Library of America, 2013.
+
+Trachtenberg, Alan and Meyers, Amy, “Rhetoric of the image”. In <em>Classic Essays on Photography, </em>edited by Trachtenberg, A., 269–287. 2nd ed. New Haven: Leete’s Island Books, 1980.
+
+Trachtenberg, Alan and Meyers, Amy, “The Ontology of the Photographic Image”. In <em>Classic Essays on Photography, </em>edited by Trachtenberg, A., 237–245. 2nd ed. New Haven: Leete’s Island Books, 1980.
+
+----
+
+Number: 5
+
+----
+
+Uuid: BWFKxLSNNE3MZCKe
