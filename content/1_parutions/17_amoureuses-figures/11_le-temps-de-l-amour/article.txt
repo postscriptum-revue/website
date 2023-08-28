@@ -1,4 +1,4 @@
-title: [17-11] Le temps de l’amour
+title: Le temps de l’amour
 
 ----
 
@@ -22,373 +22,373 @@ abstract_en:
 
 ----
 
-text: <div class="">
-<div class="">
-<div class="texteItem">
-<div class="crayon article-texte-211 texte surlignable clearfix">
+text: 
+
+
+
 
 J’aimerais d’abord remercier Aurélie Freytag de son invitation, ainsi que le comité organisateur et le Département de littérature comparée de l’Université de Montréal, pour avoir rendu possible ma présence à ce colloque de <i>Post-Scriptum</i> sur les figures de l’amour. J’ai à cœur d’entendre et de discuter les recherches naissantes, car la recherche est à mon sens toujours naissante, c’est ce qui la caractérise comme recherche. Et tout ce que j’ai entendu aujourd’hui était très riche et plein d’avenues nouvelles.
 
-D’autre part, quel plus beau thème que celui de l’« en-amour » comme figure, dont l’actualité réelle dans nos vies fait toujours <i>problème</i>, au sens fort, heuristique, en tant que, nous dit le Larousse : « Point sur lequel on s’interroge, question qui prête à discussion, fait l’objet d’argumentations, de théories diverses, en particulier dans le domaine de la connaissance<span class="spip_note_ref"> [1]</span> » ? Roland Barthes, dans les <i>Fragments d’un discours amoureux</i>, saisit par son exergue toute la délicatesse de ce problème, en le situant justement dans le champ de la connaissance :
-<blockquote class="spip">La nécessité de ce livre, écrit Barthes, tient dans la considération suivante : que le discours amoureux est aujourd’hui <i>d’une extrême solitude</i>. Ce discours est peut-être parlé par des milliers de sujets (qui le sait ?), mais il n’est soutenu par personne ; il est complètement abandonné des langages environnants : ou ignoré, ou déprécié, ou moqué par eux, coupé non seulement du pouvoir, mais aussi de ses mécanismes (sciences, savoirs, arts). Lorsqu’un discours est de la sorte entraîné par sa propre force dans la dérive de l’inactuel, déporté hors de toute grégarité, il ne lui reste plus qu’à être le lieu, si exigu soit-il, d’une <i>affirmation</i><span class="spip_note_ref"> [2]</span>.</blockquote>
-Ce n’est pourtant pas tout à fait du discours amoureux que je souhaite m’entretenir ici. J’aimerais poser l’hypothèse que, tandis que l’adjectif « amoureux » qualifie, définit et ponctue, le bel anglicisme québécois d’« en-amour » – avec la liaison orale qui se passe de tout trait d’union – dit l’indéfini du sentiment, son caractère dilaté, sa diffusion en un temps continu qui fait perdre les repères temporels et crée le nouveau temps de l’amour, tel que le suggère le roman presque éponyme de Philippe Forest, <i>Le nouvel amour</i><span class="spip_note_ref"> [3]</span>. Je voudrais suggérer qu’une tension oppose, sur le spectre temporel de l’amour, le sentiment amoureux de l’expérience d’être <i>en-amour</i>. Tandis que le premier est vertical : émotion, découverte, trouvaille toujours un peu surprise d’elle-même, marquant l’excitation des débuts, le commencement, il n’est que la pointe la plus visible d’un autre temps qu’il inaugure, sa forme la plus dicible. <i>Je suis amoureux, je suis amoureuse</i>, ou plus souvent, <i>je crois bien que je suis (en train de tomber) amoureux ou amoureuse</i>, introduisent un temps à venir qui sera au contraire étale, diffus, à peu près insituable par des repères chronologiques : l’<i>être en-amour.</i>
+D’autre part, quel plus beau thème que celui de l’« en-amour » comme figure, dont l’actualité réelle dans nos vies fait toujours <i>problème</i>, au sens fort, heuristique, en tant que, nous dit le Larousse : « Point sur lequel on s’interroge, question qui prête à discussion, fait l’objet d’argumentations, de théories diverses, en particulier dans le domaine de la connaissance [1] » ? Roland Barthes, dans les <i>Fragments d’un discours amoureux</i>, saisit par son exergue toute la délicatesse de ce problème, en le situant justement dans le champ de la connaissance :
+<blockquote>La nécessité de ce livre, écrit Barthes, tient dans la considération suivante : que le discours amoureux est aujourd’hui <i>d’une extrême solitude</i>. Ce discours est peut-être parlé par des milliers de sujets (qui le sait ?), mais il n’est soutenu par personne ; il est complètement abandonné des langages environnants : ou ignoré, ou déprécié, ou moqué par eux, coupé non seulement du pouvoir, mais aussi de ses mécanismes (sciences, savoirs, arts). Lorsqu’un discours est de la sorte entraîné par sa propre force dans la dérive de l’inactuel, déporté hors de toute grégarité, il ne lui reste plus qu’à être le lieu, si exigu soit-il, d’une <i>affirmation</i> [2].</blockquote>
+Ce n’est pourtant pas tout à fait du discours amoureux que je souhaite m’entretenir ici. J’aimerais poser l’hypothèse que, tandis que l’adjectif « amoureux » qualifie, définit et ponctue, le bel anglicisme québécois d’« en-amour » – avec la liaison orale qui se passe de tout trait d’union – dit l’indéfini du sentiment, son caractère dilaté, sa diffusion en un temps continu qui fait perdre les repères temporels et crée le nouveau temps de l’amour, tel que le suggère le roman presque éponyme de Philippe Forest, <i>Le nouvel amour</i> [3]. Je voudrais suggérer qu’une tension oppose, sur le spectre temporel de l’amour, le sentiment amoureux de l’expérience d’être <i>en-amour</i>. Tandis que le premier est vertical : émotion, découverte, trouvaille toujours un peu surprise d’elle-même, marquant l’excitation des débuts, le commencement, il n’est que la pointe la plus visible d’un autre temps qu’il inaugure, sa forme la plus dicible. <i>Je suis amoureux, je suis amoureuse</i>, ou plus souvent, <i>je crois bien que je suis (en train de tomber) amoureux ou amoureuse</i>, introduisent un temps à venir qui sera au contraire étale, diffus, à peu près insituable par des repères chronologiques : l’<i>être en-amour.</i>
 
-Pour le dire autrement, le discours amoureux aurait sa sémiotique, ses lieux, ses signes ; l’<i>en-amour</i> serait une sémantique. Or cette sémantique, cette signification continue par laquelle la vie prend son sens et sa forme, elle n’est peut-être nulle part mieux exprimée que dans le deuil, lorsqu’il se mue en écriture. Car s’il est un discours qui dit l’amour, tout en étant frappé, comme le disait Barthes, de « la dérive de l’inactuel, déporté hors de toute grégarité », c’est bien celui du deuil. « Quiconque se consacre trop souvent au souci des morts et manifeste son affliction semble s’exclure du commerce social. Il doit donc s’attendre à être menacé d’ostracisme », écrit Dominique Carlat dans <i>Témoins de l’inactuel</i><span class="spip_note_ref"> [4]</span>, avant de signaler l’exception des arts, plus particulièrement de la littérature, qui continuent ce lien essentiel à la perte, à la disparition et à l’absence<span class="spip_note_ref"> [5]</span>.
+Pour le dire autrement, le discours amoureux aurait sa sémiotique, ses lieux, ses signes ; l’<i>en-amour</i> serait une sémantique. Or cette sémantique, cette signification continue par laquelle la vie prend son sens et sa forme, elle n’est peut-être nulle part mieux exprimée que dans le deuil, lorsqu’il se mue en écriture. Car s’il est un discours qui dit l’amour, tout en étant frappé, comme le disait Barthes, de « la dérive de l’inactuel, déporté hors de toute grégarité », c’est bien celui du deuil. « Quiconque se consacre trop souvent au souci des morts et manifeste son affliction semble s’exclure du commerce social. Il doit donc s’attendre à être menacé d’ostracisme », écrit Dominique Carlat dans <i>Témoins de l’inactuel</i> [4], avant de signaler l’exception des arts, plus particulièrement de la littérature, qui continuent ce lien essentiel à la perte, à la disparition et à l’absence [5].
 
-Le deuil de l’être aimé, qui n’est pas un deuil de l’amour, mais son contraire, devient, tel qu’il se continue par l’écriture, une forme polémique de l’amour, « <i>d’une extrême solitude</i> » pour reprendre Barthes. Or le deuil, lorsqu’il insiste, qu’il ne veut pas se taire, se calmer, <i>faire son temps</i>, est peut-être polémique à proportion de la dimension polémique de l’amour, qui défait les échelles, les mesures. Dans son ouvrage <i>Care et sentiments</i>, la sociologue Patricia Paperman note que le rejet des sentiments dans la sphère de l’irrationnel et le domaine privé crée une fracture – entre les règles sociales et la perception des individus – dans la considération morale de ce qui compte. Elle écrit : « L’inadéquation entre situation, cadre officiel et sentiments produit une rupture de la cohérence et de l’évidence des conventions, faisant peser sur l’acteur l’obligation de se mettre au travail pour ajuster ses sentiments à la situation.<span class="spip_note_ref"> [6]</span> » On reconnaît là les « travaux forcés » du deuil que dénonçait Philippe Forest dans l’un de ses essais<span class="spip_note_ref"> [7]</span>. C’est pourquoi ce qui apparaît comme l’une des revendications fortes du <i>Journal de deuil</i> de Roland Barthes est la notation « Je ne suis pas <i>en deuil</i>. J’ai du chagrin<span class="spip_note_ref"> [8]</span>. » À un état social reconnu, adoubé de l’extérieur, une « règle de sentiment » comme l’écrit Patricia Paperman, liée « à une définition conventionnelle de la situation<span class="spip_note_ref"> [9]</span> », Barthes oppose l’intériorité d’un sentiment singulier, possédé en propre par le sujet, spécifique de son expérience. Il écrit plus loin : « Comme l’amour, le deuil frappe le monde, le mondain, d’irréalité, d’importunité. Je résiste au monde, je souffre de ce qu’il me demande, de sa demande<span class="spip_note_ref"> [10]</span>. » Le deuil est solitaire, comme l’amour est exclusif. Si Paperman n’aborde pas le deuil, les notes de Barthes font bien écho à « l’attente sociale » qu’elle évoque, qui est impropre à répondre ou tout simplement à prendre en compte les sentiments du sujet.
+Le deuil de l’être aimé, qui n’est pas un deuil de l’amour, mais son contraire, devient, tel qu’il se continue par l’écriture, une forme polémique de l’amour, « <i>d’une extrême solitude</i> » pour reprendre Barthes. Or le deuil, lorsqu’il insiste, qu’il ne veut pas se taire, se calmer, <i>faire son temps</i>, est peut-être polémique à proportion de la dimension polémique de l’amour, qui défait les échelles, les mesures. Dans son ouvrage <i>Care et sentiments</i>, la sociologue Patricia Paperman note que le rejet des sentiments dans la sphère de l’irrationnel et le domaine privé crée une fracture – entre les règles sociales et la perception des individus – dans la considération morale de ce qui compte. Elle écrit : « L’inadéquation entre situation, cadre officiel et sentiments produit une rupture de la cohérence et de l’évidence des conventions, faisant peser sur l’acteur l’obligation de se mettre au travail pour ajuster ses sentiments à la situation. [6] » On reconnaît là les « travaux forcés » du deuil que dénonçait Philippe Forest dans l’un de ses essais [7]. C’est pourquoi ce qui apparaît comme l’une des revendications fortes du <i>Journal de deuil</i> de Roland Barthes est la notation « Je ne suis pas <i>en deuil</i>. J’ai du chagrin [8]. » À un état social reconnu, adoubé de l’extérieur, une « règle de sentiment » comme l’écrit Patricia Paperman, liée « à une définition conventionnelle de la situation [9] », Barthes oppose l’intériorité d’un sentiment singulier, possédé en propre par le sujet, spécifique de son expérience. Il écrit plus loin : « Comme l’amour, le deuil frappe le monde, le mondain, d’irréalité, d’importunité. Je résiste au monde, je souffre de ce qu’il me demande, de sa demande [10]. » Le deuil est solitaire, comme l’amour est exclusif. Si Paperman n’aborde pas le deuil, les notes de Barthes font bien écho à « l’attente sociale » qu’elle évoque, qui est impropre à répondre ou tout simplement à prendre en compte les sentiments du sujet.
 
 Critiquant lui aussi ce « travail du deuil », le psychanalyste Jean Allouch récuse par ce qu’il appelle « une remarque toute bête […] la doctrine de la substitution d’objet » :
-<blockquote class="spip">[L]es êtres dont la mort nous endeuille sont précisément ceux qui ont le statut d’êtres irremplaçables, un père, une mère, un frère, un ami, un enfant, un maître, etc. Le problème du deuil est entièrement à reconsidérer à partir de là, à partir de la perte considérée comme perte sèche, radicale, sans aucune récupération à venir. <i>Dead lost</i>.<span class="spip_note_ref"> [11]</span></blockquote>
-Dans la continuité des travaux de Philippe Ariès<span class="spip_note_ref"> [12]</span>, ce « problème » du « deuil, aujourd’hui », titre de la conférence d’Allouch, est lié selon lui à la diminution forte des rites funéraires dans les sociétés occidentales au cours des deux derniers siècles.
+<blockquote>[L]es êtres dont la mort nous endeuille sont précisément ceux qui ont le statut d’êtres irremplaçables, un père, une mère, un frère, un ami, un enfant, un maître, etc. Le problème du deuil est entièrement à reconsidérer à partir de là, à partir de la perte considérée comme perte sèche, radicale, sans aucune récupération à venir. <i>Dead lost</i>. [11]</blockquote>
+Dans la continuité des travaux de Philippe Ariès [12], ce « problème » du « deuil, aujourd’hui », titre de la conférence d’Allouch, est lié selon lui à la diminution forte des rites funéraires dans les sociétés occidentales au cours des deux derniers siècles.
 
-J’aimerais pourtant suggérer que la littérature contemporaine paraît vaincre peu à peu cette extrême solitude du deuil en Occident. En France, au Québec, en Angleterre et aux États-Unis, paraissent de façon intensifiée depuis vingt ans ce que j’appelle à la suite de Roland Barthes des « journaux de deuil<span class="spip_note_ref"> [13]</span> ». Ces textes relatent des situations réelles et intimes de pertes d’« irremplaçables », selon le mot d’Allouch : enfant en bas âge, adolescent ou adulte ; frère, parent, compagne ou compagnon d’une vie. Ce sont des odes aux disparus, des poèmes même s’ils n’en prennent pas la forme, des lamentations et des célébrations à la fois de ce que l’autre a été – et, c’est la force de ces journaux, <i>continue d’être</i>. Comme la philosophe américaine Martha Nussbaum en faisait l’hypothèse dans <i>Poetic Justice</i><span class="spip_note_ref"> [14]</span>, la littérature joue alors le rôle d’un supplément, voire d’un correctif aux sciences sociales ou ici aux attitudes sociales. Ce d’autant plus que ces textes, quoique ils puissent sembler de prime abord irréductiblement privés, se font en réalité les témoins des usages actuels du deuil dans les sociétés occidentales, et souvent leurs critiques.
+J’aimerais pourtant suggérer que la littérature contemporaine paraît vaincre peu à peu cette extrême solitude du deuil en Occident. En France, au Québec, en Angleterre et aux États-Unis, paraissent de façon intensifiée depuis vingt ans ce que j’appelle à la suite de Roland Barthes des « journaux de deuil [13] ». Ces textes relatent des situations réelles et intimes de pertes d’« irremplaçables », selon le mot d’Allouch : enfant en bas âge, adolescent ou adulte ; frère, parent, compagne ou compagnon d’une vie. Ce sont des odes aux disparus, des poèmes même s’ils n’en prennent pas la forme, des lamentations et des célébrations à la fois de ce que l’autre a été – et, c’est la force de ces journaux, <i>continue d’être</i>. Comme la philosophe américaine Martha Nussbaum en faisait l’hypothèse dans <i>Poetic Justice</i> [14], la littérature joue alors le rôle d’un supplément, voire d’un correctif aux sciences sociales ou ici aux attitudes sociales. Ce d’autant plus que ces textes, quoique ils puissent sembler de prime abord irréductiblement privés, se font en réalité les témoins des usages actuels du deuil dans les sociétés occidentales, et souvent leurs critiques.
 
-Je forme l’hypothèse que la forme-journal souvent empruntée par ces textes, même allusivement puisqu’ils tendent à frayer avec plusieurs genres, vient signaler cette irruption du temps neuf, mais mort, qui suit la disparition de l’être aimé ; elle recourt et retourne au temps ponctuel des événements, à la verticalité accidentée de la vie, chroniquant dans ce sillage le chaque-jour maintenant vidé de toute substance, que la pression sociale encourage pourtant à recoudre. Il est ainsi remarquable que, ponctuant le temps long du deuil qui est l’écho du temps sans mesure de l’amour, tous les textes ou presque font référence aux événements datés de la mort, opposant la douceur des derniers gestes accomplis avec l’autre à la factualité sèche, administrative, bornée des premiers moments qui suivent la mort. L’arrivée de la mort, sa survenue, est placée du côté du daté, du datable, du temps des horloges, de ce <i>temps assassin</i> des refrains populaires ; elle est inhumaine, non subjective, venue rompre le temps étale de l’être-ensemble, de l’en-commun de la vie. Ce, à plus forte raison en fin de vie, quand l’autre est devenu la seule référence d’un temps vécu de concert, comme dans le beau film de Michael Haneke, <i>Amour</i><span class="spip_note_ref"> [15]</span>, qui me servira de point d’orgue. Au début du film, lorsque nous regardons le couple, assis face à nous, assister au concert d’un ancien élève, c’est le temps que nous les voyons littéralement regarder – leur temps ensemble, accompli ; la mesure, à tous les sens de ce terme, que ce temps partagé a donnée à leur vie –, concrétisé ici plus sûrement dans la transmission de l’amour de la musique à l’élève, que dans leur véritable enfant.
-<h3 class="spip">La nuit <i>toute</i> de l’amour</h3>
-Devant ce sujet si vaste de l’« en-amour », et afin que, pour ne pas clore, cette conférence permette à chacune et chacun de glaner pour soi-même, je poserai à l’aide des journaux de deuil qui font l’objet de ma recherche quelques cartes du <i>Tendre</i>, à la façon dont Philippe Forest commençait <i>Toute la nuit</i><span class="spip_note_ref"> [16]</span>. Ce second roman de l’auteur était la continuation de <i>L’enfant éternel</i>, Prix Femina du premier roman 1997<span class="spip_note_ref"> [17]</span>, par lequel l’essayiste avait inauguré sa carrière de romancier. Si <i>Toute la nuit</i> est passé pour ainsi dire inaperçu, si l’auteur a eu, malgré le succès du premier, de la difficulté à le faire accepter par son éditeur, c’est qu’il y revenait à, y ressassait l’insomnie et le caractère irréel de la maladie de Pauline, la longue nuit de sa mort, et nous faisait découvrir la continuation de la peine, de la nuit dans laquelle la mort de leur fille unique avait plongé ses parents. Figure de l’infigurable, de l’immesurable, <i>Toute la nuit</i> faisait écho au <i>toute la vie</i> – au <i>pour toujours</i> et à <i>tout l’avenir</i> – que cette nuit était venue remplacer, couvrir d’un voile opaque. Plus dangereux que ce voile sombre, montrait le texte, est le voile noir de l’oubli, et le roman – à travers son écriture et sa lutte pour la publication – était un combat contre cette oblitération qui voudrait qu’après avoir « fait son deuil », selon l’accompli du passé composé, l’individu occidental retourne à ses occupations, le creux de l’absence refermé.
+Je forme l’hypothèse que la forme-journal souvent empruntée par ces textes, même allusivement puisqu’ils tendent à frayer avec plusieurs genres, vient signaler cette irruption du temps neuf, mais mort, qui suit la disparition de l’être aimé ; elle recourt et retourne au temps ponctuel des événements, à la verticalité accidentée de la vie, chroniquant dans ce sillage le chaque-jour maintenant vidé de toute substance, que la pression sociale encourage pourtant à recoudre. Il est ainsi remarquable que, ponctuant le temps long du deuil qui est l’écho du temps sans mesure de l’amour, tous les textes ou presque font référence aux événements datés de la mort, opposant la douceur des derniers gestes accomplis avec l’autre à la factualité sèche, administrative, bornée des premiers moments qui suivent la mort. L’arrivée de la mort, sa survenue, est placée du côté du daté, du datable, du temps des horloges, de ce <i>temps assassin</i> des refrains populaires ; elle est inhumaine, non subjective, venue rompre le temps étale de l’être-ensemble, de l’en-commun de la vie. Ce, à plus forte raison en fin de vie, quand l’autre est devenu la seule référence d’un temps vécu de concert, comme dans le beau film de Michael Haneke, <i>Amour</i> [15], qui me servira de point d’orgue. Au début du film, lorsque nous regardons le couple, assis face à nous, assister au concert d’un ancien élève, c’est le temps que nous les voyons littéralement regarder – leur temps ensemble, accompli ; la mesure, à tous les sens de ce terme, que ce temps partagé a donnée à leur vie –, concrétisé ici plus sûrement dans la transmission de l’amour de la musique à l’élève, que dans leur véritable enfant.
+<h3>La nuit <i>toute</i> de l’amour</h3>
+Devant ce sujet si vaste de l’« en-amour », et afin que, pour ne pas clore, cette conférence permette à chacune et chacun de glaner pour soi-même, je poserai à l’aide des journaux de deuil qui font l’objet de ma recherche quelques cartes du <i>Tendre</i>, à la façon dont Philippe Forest commençait <i>Toute la nuit</i> [16]. Ce second roman de l’auteur était la continuation de <i>L’enfant éternel</i>, Prix Femina du premier roman 1997 [17], par lequel l’essayiste avait inauguré sa carrière de romancier. Si <i>Toute la nuit</i> est passé pour ainsi dire inaperçu, si l’auteur a eu, malgré le succès du premier, de la difficulté à le faire accepter par son éditeur, c’est qu’il y revenait à, y ressassait l’insomnie et le caractère irréel de la maladie de Pauline, la longue nuit de sa mort, et nous faisait découvrir la continuation de la peine, de la nuit dans laquelle la mort de leur fille unique avait plongé ses parents. Figure de l’infigurable, de l’immesurable, <i>Toute la nuit</i> faisait écho au <i>toute la vie</i> – au <i>pour toujours</i> et à <i>tout l’avenir</i> – que cette nuit était venue remplacer, couvrir d’un voile opaque. Plus dangereux que ce voile sombre, montrait le texte, est le voile noir de l’oubli, et le roman – à travers son écriture et sa lutte pour la publication – était un combat contre cette oblitération qui voudrait qu’après avoir « fait son deuil », selon l’accompli du passé composé, l’individu occidental retourne à ses occupations, le creux de l’absence refermé.
 
-Mathilde Branthomme, dans l’introduction au dossier de <i>Post-Scriptum</i> « Deuils sans fin dans la littérature contemporaine », signale pourtant que « certaines œuvres exposent l’impossibilité de cette fin, qui n’est plus travail, mais état, état indéfini et infini dans lequel s’ancre le sujet littéraire<span class="spip_note_ref"> [18]</span> ». Dans le même dossier, Laetitia Reibaud, se référant notamment au thrène de Michel Deguy, <i>À ce qui n’en finit pas</i><span class="spip_note_ref"> [19]</span>, lie avec justesse le deuil à « une expérience de la perte de mesure<span class="spip_note_ref"> [20]</span> ». Retrouver la mesure du temps, dans la chronique de l’endeuillement, c’est précisément faire valoir la différence de nature irrémédiable qui sépare le temps d’avant de celui de l’après, c’est faire valoir le « ça a été » de Roland Barthes, qui trouve son écho dans le beau double sens du titre <i>Martin cet été</i> de Bernard Chambaz<span class="spip_note_ref"> [21]</span>, récit du deuil du fils.
+Mathilde Branthomme, dans l’introduction au dossier de <i>Post-Scriptum</i> « Deuils sans fin dans la littérature contemporaine », signale pourtant que « certaines œuvres exposent l’impossibilité de cette fin, qui n’est plus travail, mais état, état indéfini et infini dans lequel s’ancre le sujet littéraire [18] ». Dans le même dossier, Laetitia Reibaud, se référant notamment au thrène de Michel Deguy, <i>À ce qui n’en finit pas</i> [19], lie avec justesse le deuil à « une expérience de la perte de mesure [20] ». Retrouver la mesure du temps, dans la chronique de l’endeuillement, c’est précisément faire valoir la différence de nature irrémédiable qui sépare le temps d’avant de celui de l’après, c’est faire valoir le « ça a été » de Roland Barthes, qui trouve son écho dans le beau double sens du titre <i>Martin cet été</i> de Bernard Chambaz [21], récit du deuil du fils.
 
-<i>Toute la nuit</i> alors, c’est aussi la plage de temps indéfinie et vaste de l’amour, et c’est aussi, plus tendrement chez Forest, tout l’espace-temps à la fois invisible, invivable et inévitable par lequel la conversation entre le père et l’enfant se poursuit <i>dans la nuit</i>, dans l’inconnu de savoir où elle se trouve, mais aussi dans ce temps partagé du dialogue intime qui était celui des conversations et lectures privilégiées de la nuit, lorsque l’enfant était malade. La nuit n’est pas pour Philippe Forest le temps de l’oubli, de l’absence à soi-même ; elle est la temporalité d’une présence alerte, attentive, inquiète, cependant que le reste du monde dort à poings fermés. Sans fin, contours ou limites, elle est toute. Chacun de ses romans depuis donne forme concrète à cette vigilance inconsolable<span class="spip_note_ref"> [22]</span>.
+<i>Toute la nuit</i> alors, c’est aussi la plage de temps indéfinie et vaste de l’amour, et c’est aussi, plus tendrement chez Forest, tout l’espace-temps à la fois invisible, invivable et inévitable par lequel la conversation entre le père et l’enfant se poursuit <i>dans la nuit</i>, dans l’inconnu de savoir où elle se trouve, mais aussi dans ce temps partagé du dialogue intime qui était celui des conversations et lectures privilégiées de la nuit, lorsque l’enfant était malade. La nuit n’est pas pour Philippe Forest le temps de l’oubli, de l’absence à soi-même ; elle est la temporalité d’une présence alerte, attentive, inquiète, cependant que le reste du monde dort à poings fermés. Sans fin, contours ou limites, elle est toute. Chacun de ses romans depuis donne forme concrète à cette vigilance inconsolable [22].
 
-De façon similaire, <i>Nox</i> d’Anne Carson<span class="spip_note_ref"> [23]</span>, qui retrace la vie du frère prématurément décédé de l’auteure, s’offre lui-même comme un volume de temps, à travers un véritable livre d’artiste accumulé en accordéon au sein d’un remarquable coffret, une boîte rectangulaire et grise évoquant la pierre tombale ou peut-être le sarcophage qui préserverait intact l’ancien vivant. Consacrant un texte à sa fille décédée peu de temps après son mari, Joan Didion l’intitule <i>Blue Nights</i>, évoquant à la fois une certaine saison à New York qui est promesse de l’été en même temps qu’annonce insidieuse de sa fin, et le bercement des nuits de l’enfant, venu au monde pour un jour en disparaître<span class="spip_note_ref"> [24]</span>. <i>Nocturne</i>, d’Helen Humphreys, adressé à la seconde personne au disparu, joue de même de l’appellation musicale pour faire hommage à ce frère pianiste, tout en suggérant qu’avec lui, c’est toute lumière qui a disparu<span class="spip_note_ref"> [25]</span>.
-<h3 class="spip">Le temps, figure de l’amour ?</h3>
-Si cette image d’un temps étale qui dure et s’étend assez pour se confondre avec la vie est peut-être l’évocation par excellence de l’amour, elle est aussi insaisissable. Le sentiment amoureux, même et surtout lorsqu’il est instantané, pourrait se dater presque à la minute près : minute de la rencontre, du premier regard, de la parole signifiante qui a conclu son pacte. C’est pourquoi Roland Barthes l’aborde à travers des figures, en isole les composantes, à travers ces « phrase[s] mère[s] » ou « matrices » qui « disent l’affect, puis s’arrêtent, leur rôle est rempli<span class="spip_note_ref"> [26]</span> ». Ces phrases articulatoires qui sous-tendent les figures constituent, écrit Barthes, des « air[s] syntaxique[s] » « dans l’économie signifiante du sujet amoureux<span class="spip_note_ref"> [27]</span> ». À partir de ce code amoureux, de cette « Topique<span class="spip_note_ref"> [28]</span> », chacun est libre de disposer ces figures, d’en disposer au gré de son inspiration amoureuse. Mais « la place » en est en lui « réservée<span class="spip_note_ref"> [29]</span> », fabriquée à l’avance par un imaginaire social et culturel de l’amour.
+De façon similaire, <i>Nox</i> d’Anne Carson [23], qui retrace la vie du frère prématurément décédé de l’auteure, s’offre lui-même comme un volume de temps, à travers un véritable livre d’artiste accumulé en accordéon au sein d’un remarquable coffret, une boîte rectangulaire et grise évoquant la pierre tombale ou peut-être le sarcophage qui préserverait intact l’ancien vivant. Consacrant un texte à sa fille décédée peu de temps après son mari, Joan Didion l’intitule <i>Blue Nights</i>, évoquant à la fois une certaine saison à New York qui est promesse de l’été en même temps qu’annonce insidieuse de sa fin, et le bercement des nuits de l’enfant, venu au monde pour un jour en disparaître [24]. <i>Nocturne</i>, d’Helen Humphreys, adressé à la seconde personne au disparu, joue de même de l’appellation musicale pour faire hommage à ce frère pianiste, tout en suggérant qu’avec lui, c’est toute lumière qui a disparu [25].
+<h3>Le temps, figure de l’amour ?</h3>
+Si cette image d’un temps étale qui dure et s’étend assez pour se confondre avec la vie est peut-être l’évocation par excellence de l’amour, elle est aussi insaisissable. Le sentiment amoureux, même et surtout lorsqu’il est instantané, pourrait se dater presque à la minute près : minute de la rencontre, du premier regard, de la parole signifiante qui a conclu son pacte. C’est pourquoi Roland Barthes l’aborde à travers des figures, en isole les composantes, à travers ces « phrase[s] mère[s] » ou « matrices » qui « disent l’affect, puis s’arrêtent, leur rôle est rempli [26] ». Ces phrases articulatoires qui sous-tendent les figures constituent, écrit Barthes, des « air[s] syntaxique[s] » « dans l’économie signifiante du sujet amoureux [27] ». À partir de ce code amoureux, de cette « Topique [28] », chacun est libre de disposer ces figures, d’en disposer au gré de son inspiration amoureuse. Mais « la place » en est en lui « réservée [29] », fabriquée à l’avance par un imaginaire social et culturel de l’amour.
 
-À l’autre bout du spectre, l’<i>en-amour</i> dure, il est étale, il est l’amour devenu temps, fait <i>forme de temps</i> ; il échoue, précisément, à se figurer. Il dilate le sujet au-delà de lui-même, au point que, dans <i>L’amour</i> de Marguerite Duras, il devient tout l’espace alentour, le sable et l’air, « l’étendue » écrit Duras – la communauté, l’humanité même<span class="spip_note_ref"> [30]</span>. Le beau film de Terrence Malick, The Tree of Life, ou celui qui le suit, To the Wonder<span class="spip_note_ref"> [31]</span>, vont dans ce sens d’une conception de l’amour comme diffusion à toutes les dimensions de l’espace et du temps à partir de l’être aimé et aimant ; diffusion subjective qui irradie de ceux qui s’aiment, les prolonge, malgré les accidents de la vie, malgré l’accident même de la mort. À cet « en-amour » qui dilate les contours du temps, la chronologie ne peut rien.
+À l’autre bout du spectre, l’<i>en-amour</i> dure, il est étale, il est l’amour devenu temps, fait <i>forme de temps</i> ; il échoue, précisément, à se figurer. Il dilate le sujet au-delà de lui-même, au point que, dans <i>L’amour</i> de Marguerite Duras, il devient tout l’espace alentour, le sable et l’air, « l’étendue » écrit Duras – la communauté, l’humanité même [30]. Le beau film de Terrence Malick, The Tree of Life, ou celui qui le suit, To the Wonder [31], vont dans ce sens d’une conception de l’amour comme diffusion à toutes les dimensions de l’espace et du temps à partir de l’être aimé et aimant ; diffusion subjective qui irradie de ceux qui s’aiment, les prolonge, malgré les accidents de la vie, malgré l’accident même de la mort. À cet « en-amour » qui dilate les contours du temps, la chronologie ne peut rien.
 
-Sur ce spectre, le deuil apparaît comme une forme de l’amour envers et contre le temps, qui fabrique à sa façon son temps propre. Il continue, fait durer celui qui n’est plus dans le temps, et c’est pourquoi il est une entreprise de résistance, une lutte loin d’être aussi perdue d’avance qu’il y paraît. Car ce que la mort retire à l’individu, ce dont elle l’ampute, c’est précisément sa capacité à être encore dans le temps partagé de l’ensemble. « Le deuil révèle la limite de toute mémoire, de tout langage, de toute représentation et de toute armure », écrit Nicolas Lévesque dans <i>Ce que dit l’écorce</i><span class="spip_note_ref"> [32]</span>, qui évoque la mort du père. C’est donc en lui que l’amour est le plus à nu. Qui écrit le deuil de l’irremplaçable écrit non seulement son absence et son insubstituabilité, mais aussi sa présence continue, diffuse et diffusée dans et par le texte d’amour.
+Sur ce spectre, le deuil apparaît comme une forme de l’amour envers et contre le temps, qui fabrique à sa façon son temps propre. Il continue, fait durer celui qui n’est plus dans le temps, et c’est pourquoi il est une entreprise de résistance, une lutte loin d’être aussi perdue d’avance qu’il y paraît. Car ce que la mort retire à l’individu, ce dont elle l’ampute, c’est précisément sa capacité à être encore dans le temps partagé de l’ensemble. « Le deuil révèle la limite de toute mémoire, de tout langage, de toute représentation et de toute armure », écrit Nicolas Lévesque dans <i>Ce que dit l’écorce</i> [32], qui évoque la mort du père. C’est donc en lui que l’amour est le plus à nu. Qui écrit le deuil de l’irremplaçable écrit non seulement son absence et son insubstituabilité, mais aussi sa présence continue, diffuse et diffusée dans et par le texte d’amour.
 
 Dans les journaux de deuil contemporains, il est ainsi rarement question des débuts, de la rencontre, de l’origine de l’amour ou de son commencement. Plutôt, en particulier dans les lamentations sur la disparition de la compagne ou du compagnon d’une vie, c’est le temps déposé entre ceux qui ont fait de l’amour le temps de leur vie qui imprègne les textes. Ce caractère étale n’exclut pas totalement la chronologie, mais l’emphase mise sur les dates a toujours les accents du deuil immédiat, qui frappe comme la foudre ; du choc de l’annonce, à commencer par le moment de la mort – l’heure, le jour, la minute –, systématiquement évoqué : la datation est du côté de la brutalité de la fin du temps, de la fin de l’ensemble. Les autres dates signalent une périodicité, tranche de vie ou événement par définition révolus. De l’amour, le deuil semble ainsi rappeler tous les accidents – tout l’accidentel – à partir de ce qui est depuis longtemps devenu nécessité. Comme si à cause du deuil la vie était obligée de retrouver cours dans le temps, de retourner à la périodicité, la chronicité, le calendrier de l’état-civil, compréhensible par tous. Ces dates insignifiantes pour le lecteur parce qu’aléatoires, deviennent alors signifiantes pour l’auteur parce qu’aléatoires : ne disant rien d’emblée, n’ayant pas été prévues ni choisies, elles acquièrent pourtant une importance considérable dans le fil de la vie, son récit, sa mise en ordre, sa tentative même échouée de mise en sens. Elles sont indéniables en même temps qu’exorbitantes en ce qu’elles ne procèdent pas justement de la nécessité. Elles marquent dans le couple le dernier jour de la vie de l’un, le premier de la nouvelle vie de l’autre, qui se trouve radicalement dépossédé à présent, pour ainsi dire autant que le disparu, de l’en-commun du temps qui rendait celui-ci humain.
 
-Dans <i>Levels of Life</i>, Julian Barnes note la difficulté qu’ont ses amis même les plus chers, les plus proches du couple, à parler de son épouse disparue comme il continue de le faire le plus naturellement : “<i>Old frienships may deepen through shared sorrow ; or suddenly appear lightweight. The young do better than the middle-aged ; women better than men. This shouldn’t come as a surprise, but it does. After all, you might expect those closer to you in age and sex and marital status to understand best. What a naivety</i>.<span class="spip_note_ref"> [33]</span> ” Dans son quotidien, Barnes continue à lui parler, parce que même vivante, sa femme était déjà son interlocutrice intérieure : “<i>You constantly report things, so that the loved one ‘knows’. You may be aware that you are fooling yourself (though, if aware, are at the same time not fooling yourself), yet you continue</i><span class="spip_note_ref"> [34]</span>.” Car sans cet écho du témoin, de celui qui a été là dans le temps, les actions perdent leur consistance : “<i>And everything you do, and might achieve thereafter, is thinner, weaker, matters less. There is no echo coming back ; no texture, no resonance, no depth of field</i><span class="spip_note_ref"> [35]</span>.” Une fois disparue l’interlocutrice privilégiée de la vie intérieure, la plus précieuse, se perd la <i>profondeur de champ</i> sur laquelle s’enlevait la vie, cette “<i>depth of field</i>” dont la perte donne son titre à la dernière partie du recueil, “The Loss of Depth”.
+Dans <i>Levels of Life</i>, Julian Barnes note la difficulté qu’ont ses amis même les plus chers, les plus proches du couple, à parler de son épouse disparue comme il continue de le faire le plus naturellement : “<i>Old frienships may deepen through shared sorrow ; or suddenly appear lightweight. The young do better than the middle-aged ; women better than men. This shouldn’t come as a surprise, but it does. After all, you might expect those closer to you in age and sex and marital status to understand best. What a naivety</i>. [33] ” Dans son quotidien, Barnes continue à lui parler, parce que même vivante, sa femme était déjà son interlocutrice intérieure : “<i>You constantly report things, so that the loved one ‘knows’. You may be aware that you are fooling yourself (though, if aware, are at the same time not fooling yourself), yet you continue</i> [34].” Car sans cet écho du témoin, de celui qui a été là dans le temps, les actions perdent leur consistance : “<i>And everything you do, and might achieve thereafter, is thinner, weaker, matters less. There is no echo coming back ; no texture, no resonance, no depth of field</i> [35].” Une fois disparue l’interlocutrice privilégiée de la vie intérieure, la plus précieuse, se perd la <i>profondeur de champ</i> sur laquelle s’enlevait la vie, cette “<i>depth of field</i>” dont la perte donne son titre à la dernière partie du recueil, “The Loss of Depth”.
 
-Si commune et persistante est la texture de ces deux vies mises ensemble, en l’occurrence mari et femme, que l’instant même de la mort n’est pas cru. Joyce Carol Oates rapporte : “<i>I am tempted to shake Ray, to laugh at him – This is not possible ! Wake up ! Stop this ! For never in our lives has anything so extraordinary happened between us ; never has anything so divided us</i><span class="spip_note_ref"> [36]</span> ”. Et Joan Didion se souvient avoir dit : “Don’t do that<span class="spip_note_ref"> [37]</span> ” lorsque son époux, John Dunne, s’est arrêté subitement de parler à la table où ils venaient de s’asseoir ensemble pour dîner. Ce n’est que dans la texture du quotidien que la prise de conscience de la mort prend forme peu à peu. Oates écrit :
-<blockquote class="spip"><i>Waking this morning, or part-waking – a sense of yearning, anxiety – that there must be some mistake, or misunderstanding – I wasn’t married any longer. […] And then, waking more fully, I remembered – why I was not married to Ray any longer, and why I could not hope to remarry him. / I was stricken with loss, very depressed. As if this were all new to me – that I’d lost Ray. As if until now I hadn’t exactly known, how I lost Ray</i><span class="spip_note_ref"> [38]</span>.</blockquote>
+Si commune et persistante est la texture de ces deux vies mises ensemble, en l’occurrence mari et femme, que l’instant même de la mort n’est pas cru. Joyce Carol Oates rapporte : “<i>I am tempted to shake Ray, to laugh at him – This is not possible ! Wake up ! Stop this ! For never in our lives has anything so extraordinary happened between us ; never has anything so divided us</i> [36] ”. Et Joan Didion se souvient avoir dit : “Don’t do that [37] ” lorsque son époux, John Dunne, s’est arrêté subitement de parler à la table où ils venaient de s’asseoir ensemble pour dîner. Ce n’est que dans la texture du quotidien que la prise de conscience de la mort prend forme peu à peu. Oates écrit :
+<blockquote><i>Waking this morning, or part-waking – a sense of yearning, anxiety – that there must be some mistake, or misunderstanding – I wasn’t married any longer. […] And then, waking more fully, I remembered – why I was not married to Ray any longer, and why I could not hope to remarry him. / I was stricken with loss, very depressed. As if this were all new to me – that I’d lost Ray. As if until now I hadn’t exactly known, how I lost Ray</i> [38].</blockquote>
 Ce n’est pourtant pas ici le mythe intemporel de l’âme sœur qui est exposé, bien que ces confessions sur la vie maritale en aient les échos. L’accent porte sur la texture illimitée d’un temps qui n’était pas celui du calendrier, mais l’émanation de chaque jour passé ensemble – comme si <i>l’amour</i> créait le temps, plutôt qu’il ne s’inscrirait en lui, tacite, abstrait, insubjectif. Et comme Barnes, comme Didion, Oates continue de penser, à chaque nouvel obstacle sur sa route, chaque nouvelle tâche pénible comme le choix de la pierre tombale : “<i>I need to discuss this with Ray.</i>”
 
 De cette conversation silencieuse à l’écrit, <i>a fortiori</i> au journal, il n’y a qu’un pas : l’une et l’autre constituent un entretien quotidien et nécessaire avec soi-même, tel que l’autre nous a toujours <i>entendu</i>. Sans lui, sans elle, pas d’écho, pas de résonance, pas de retour. Le temps s’amaigrit, devient un sac vide, et révèle précisément ses coutures à travers le temps horaire qui surgit tout à coup de l’extérieur.
-<h3 class="spip">Les deux temps du deuil</h3>
+<h3>Les deux temps du deuil</h3>
 Le processus de datation et d’organisation du récit vient signifier la rupture de temps générée par la mort ; il en est la signalétique. Il s’oppose à l’expression de la durée, du <i>sentiment</i> du temps, correspond à leur rationalisation arbitraire, qui ne fait pas de sens pour l’endeuillé, comme elle ne faisait pas de sens dans l’<i>en-amour.</i> C’est pourquoi Joan Didion s’accroche aux dates et aux heures pour essayer de faire sens de ces événements, <i>d’y croire</i>, en les ramenant à une rationalité partagée. Le processus, dont la répétition au cours du texte montre l’échec, vise une sortie de sa propre incrédulité :
-<blockquote class="spip_poesie">
-<div><i>It is now, as I begin to write this, the afternoon of October 2004.</i></div>
-&nbsp;
-<div><i>Nine months and five days ago, at approximately nine o’clock on the evening of December 30, 2003, my husband, John Gregory Dunne, appeared to (or did) experience, at the table where he and I had just sat down to dinner in the living room of our apartment in New York, a sudden massive coronary event that caused his death</i><span class="spip_note_ref"> [39]</span>.</div></blockquote>
-La phrase ici, soigneusement linéarisée, fournit l’armature nécessaire à cette orthodoxie de l’événement, qui a bien dû se produire puisqu’il est dicible. Phrase matrice en quelque sorte, comme chez Barthes, qui traduit ici non l’économie signifiante du sujet amoureux, mais au contraire l’économie a-signifiante du temps des horloges et de la logique clinique – qui verse rapidement dans l’administrative. La date et la mesure de la durée écoulée sont nécessaires pour ériger dans toute sa verticalité l’événementiel venu déchirer en deux le temps connu. Les circonstances matérielles, géographiques sont de même chaque fois très détaillées, éléments de cet “increasingly impenetrable polish” dont Didion prétend recouvrir ses pensées et ses convictions dans ses textes : “<i>This is my attempt to make sense of the period that followed</i>”, écrit-elle à l’issue de ce résumé circonstancié<span class="spip_note_ref"> [40]</span>. Mais cette tentative de faire sens échoue. Didion revient avec une insistance qui est à la mesure de son incrédulité sur les dates, les heures, l’ordre des événements, dans ce qui devient non un récit chronologique, malgré sa rigueur apparente, mais un récit accidenté, incohérent, dont les fragments n’ont pas toujours exactement la même forme, n’arrivent pas à s’ajuster, tournent autour du réel sans pouvoir le saisir. Car comment croire l’incompréhensible ?
+<blockquote>
+<i>It is now, as I begin to write this, the afternoon of October 2004.</i>
+
+<i>Nine months and five days ago, at approximately nine o’clock on the evening of December 30, 2003, my husband, John Gregory Dunne, appeared to (or did) experience, at the table where he and I had just sat down to dinner in the living room of our apartment in New York, a sudden massive coronary event that caused his death</i> [39].</blockquote>
+La phrase ici, soigneusement linéarisée, fournit l’armature nécessaire à cette orthodoxie de l’événement, qui a bien dû se produire puisqu’il est dicible. Phrase matrice en quelque sorte, comme chez Barthes, qui traduit ici non l’économie signifiante du sujet amoureux, mais au contraire l’économie a-signifiante du temps des horloges et de la logique clinique – qui verse rapidement dans l’administrative. La date et la mesure de la durée écoulée sont nécessaires pour ériger dans toute sa verticalité l’événementiel venu déchirer en deux le temps connu. Les circonstances matérielles, géographiques sont de même chaque fois très détaillées, éléments de cet “increasingly impenetrable polish” dont Didion prétend recouvrir ses pensées et ses convictions dans ses textes : “<i>This is my attempt to make sense of the period that followed</i>”, écrit-elle à l’issue de ce résumé circonstancié [40]. Mais cette tentative de faire sens échoue. Didion revient avec une insistance qui est à la mesure de son incrédulité sur les dates, les heures, l’ordre des événements, dans ce qui devient non un récit chronologique, malgré sa rigueur apparente, mais un récit accidenté, incohérent, dont les fragments n’ont pas toujours exactement la même forme, n’arrivent pas à s’ajuster, tournent autour du réel sans pouvoir le saisir. Car comment croire l’incompréhensible ?
 
 Dans le préambule de <i>Nocturne</i>, la même tentative émerge de faire sens du décès du frère à partir du concret des agissements qui ont eu lieu ensuite :
-<blockquote class="spip_poesie">
-<div><i>This is what happened after you died. </i></div>
-<div>We took the plastic bag with your clothes, and the plastic bag with your pills. The bag with the pills weighed more.</div>
-<div><i>Outside, the sky was red over the mountains and the air was cold as we walked through the parking lot. It was 5:30 in the afternoon of December third. You had died at 4:20, in room 351 of the Burnaby General Hospital in Vancouver</i><span class="spip_note_ref"> [41]</span> .</div></blockquote>
-À ces informations précises, circonstancielles, qui ne disent rien du <i>chagrin</i>, s’oppose la lumière des après-midi d’enfance, de l’après-midi précédant la première séance de chimiothérapie, ou de la journée du dernier voyage accompli ensemble : “It was October, but it felt like Spring. The air held a vein of warmth, and we walked around with our coats undone, sat on the steps of the Met in the late afternoon sun.<span class="spip_note_ref"> [42]</span> ” Ce continu de soleil qui traverse les moments partagés trouve son écho dans le rituel d’observation du jour qui vient, également commun : “<i>We were both quiet sleepers, waking in the same position that we had fallen asleep in, at the same time, and opening our eyes long before we moved our bodies, watching morning seep through the gauzy curtained window.</i><span class="spip_note_ref"> [43]</span> ” Ces impressions sensorielles et météorologiques tiennent non du temps comptable mais du partage d’une qualité de l’air, de la lumière, qui rend le temps le même pour l’un et l’autre : <i>“I had forgotten so many of our childhood similarities. As my younger brother you had always felt so deeply familiar to me that I didn’t even register our sameness.</i><span class="spip_note_ref"> [44]</span> ” La force de l’évocation tient à la qualité de temps que l’être-deux a donnée à la vie, lui procurant ses courbes ou son ondulation, son air, sa musique, autrement dit son continuum de temps, comme lorsque Humphreys écrit au sujet du jeu de piano de son frère : “<i>Your playing is the most familiar sound of my life...</i><span class="spip_note_ref"> [45]</span> ”
+<blockquote>
+<i>This is what happened after you died. </i>
+We took the plastic bag with your clothes, and the plastic bag with your pills. The bag with the pills weighed more.
+<i>Outside, the sky was red over the mountains and the air was cold as we walked through the parking lot. It was 5:30 in the afternoon of December third. You had died at 4:20, in room 351 of the Burnaby General Hospital in Vancouver</i> [41] .</blockquote>
+À ces informations précises, circonstancielles, qui ne disent rien du <i>chagrin</i>, s’oppose la lumière des après-midi d’enfance, de l’après-midi précédant la première séance de chimiothérapie, ou de la journée du dernier voyage accompli ensemble : “It was October, but it felt like Spring. The air held a vein of warmth, and we walked around with our coats undone, sat on the steps of the Met in the late afternoon sun. [42] ” Ce continu de soleil qui traverse les moments partagés trouve son écho dans le rituel d’observation du jour qui vient, également commun : “<i>We were both quiet sleepers, waking in the same position that we had fallen asleep in, at the same time, and opening our eyes long before we moved our bodies, watching morning seep through the gauzy curtained window.</i> [43] ” Ces impressions sensorielles et météorologiques tiennent non du temps comptable mais du partage d’une qualité de l’air, de la lumière, qui rend le temps le même pour l’un et l’autre : <i>“I had forgotten so many of our childhood similarities. As my younger brother you had always felt so deeply familiar to me that I didn’t even register our sameness.</i> [44] ” La force de l’évocation tient à la qualité de temps que l’être-deux a donnée à la vie, lui procurant ses courbes ou son ondulation, son air, sa musique, autrement dit son continuum de temps, comme lorsque Humphreys écrit au sujet du jeu de piano de son frère : “<i>Your playing is the most familiar sound of my life...</i> [45] ”
 
-Dans le <i>Journal de deuil</i> de Barthes, pour qui la mère fut une telle compagne de vie, le quotidien matériel des gestes partagés, l’économie domestique du ménage et de la cuisine sont la forme même de l’amour ; la mère décédée, ils deviennent la forme de la fidélité à cet amour, continuée dans « l’appartement ». Par le format des notes, écrites sur des feuillets découpés à la mesure des besoins de ce diariste sceptique, Barthes fabrique ce que j’ai appelé ailleurs une « physique du deuil<span class="spip_note_ref"> [46]</span> », l’occupation corporelle et spatiale d’un amour qui nécessite de se continuer par des gestes. Du temps amorphe de la vie, l’amour a fait une <i>durée</i>, un temps vécu, expérimenté, signifiant ou en tout cas <i>valant</i> quelque chose. La forme-journal, adoptée par Barthes, reprise en partie par Didion ou Oates, est l’indice de cette figuration du temps de l’amour dans le deuil. Pleine d’indices temporels, de datations minutieuses qui n’ont pour le lecteur aucun intérêt, elle est là pour renvoyer à l’accident de la mort, à sa contingence radicale qui trouve à se nommer dans le langage horaire des hommes, aléatoire toujours vécu tel même lorsque la mort est programmée, annoncée par la maladie.
-<h3 class="spip">L’amour dans le temps</h3>
-<span class="spip_document_131 spip_documents spip_documents_center"> <img src="http://post-scriptum.org/local/cache-vignettes/L500xH378/haneke_2012_amour_official_poster-c7b52.jpg" alt="" width="500" height="378" /></span>
+Dans le <i>Journal de deuil</i> de Barthes, pour qui la mère fut une telle compagne de vie, le quotidien matériel des gestes partagés, l’économie domestique du ménage et de la cuisine sont la forme même de l’amour ; la mère décédée, ils deviennent la forme de la fidélité à cet amour, continuée dans « l’appartement ». Par le format des notes, écrites sur des feuillets découpés à la mesure des besoins de ce diariste sceptique, Barthes fabrique ce que j’ai appelé ailleurs une « physique du deuil [46] », l’occupation corporelle et spatiale d’un amour qui nécessite de se continuer par des gestes. Du temps amorphe de la vie, l’amour a fait une <i>durée</i>, un temps vécu, expérimenté, signifiant ou en tout cas <i>valant</i> quelque chose. La forme-journal, adoptée par Barthes, reprise en partie par Didion ou Oates, est l’indice de cette figuration du temps de l’amour dans le deuil. Pleine d’indices temporels, de datations minutieuses qui n’ont pour le lecteur aucun intérêt, elle est là pour renvoyer à l’accident de la mort, à sa contingence radicale qui trouve à se nommer dans le langage horaire des hommes, aléatoire toujours vécu tel même lorsque la mort est programmée, annoncée par la maladie.
+<h3>L’amour dans le temps</h3>
+ <img src="http://post-scriptum.org/local/cache-vignettes/L500xH378/haneke_2012_amour_official_poster-c7b52.jpg" alt="" width="500" height="378" />
 
 Le film <i>Amour</i> de Michael Haneke, Palme d’Or au Festival de Cannes 2012, offre un exemple poignant non seulement de l’amour dans le temps mais de l’amour <i>comme</i> temps, de l’amour <i>devenu temps passé ensemble</i>. Un temps commun partagé par les visages, leur réciprocité, leur aimantation devenu le seul repère à travers les années, l’unique source de lumière. Dans ce film, on le sait, le geste ultime d’amour est justement d’abréger le temps, de couper court au temps de l’autre qui, de toute façon, va mourir ; que la maladie, de toute façon, exclut, exile du temps commun. Lorsque dans la première scène qui annonce la fin de l’épouse, celle-ci a une absence, un blanc total de présence à la traditionnelle et partagée table du petit-déjeuner, le mari l’interroge, s’inquiète, puis lorsqu’elle est subitement revenue à elle, demande avec insistance, indignation presque : « Pourquoi tu n’as pas réagi ? / À quoi ? répond-elle. / Mais... à moi, à tout ! » L’amour ici est une physique du temps, comme pour le Barthes endeuillé de sa mère, qui rejoue dans le confin de « l’appartement » les gestes fantômes de celle qui n’est plus, faisant sa cuisine, arrangeant ses fleurs. La prégnance du lieu clos et unique – dont le décor bourgeois parisien marque aussi la fin d’un autre temps, chez Haneke – vient souligner cet en de l’en-amour, cette emprise d’une aimantation des corps l’un à l’autre dans le quotidien partagé. Mais la violence de vieillir ensemble, d’avoir à voir l’autre se réduire, est révélée dans la brutalité du geste final. Ce geste est fort pour deux raisons. Il peut être lu, assez classiquement, comme le geste ultime de compassion, l’euthanasie de celle qui décline et commence à ne plus se ressembler elle-même. Mais de façon plus originale, la mise en scène d’Haneke, le regard de fou de Jean-Louis Trintignant suggèrent aussi le geste passionnel : à la tendresse des vieux jours partagés, tout à coup, succède l’intensité de l’amour, sa rage, sa dé-mesure. Car l’épouse, dans la mesure où elle est en train de déserter l’en-commun du temps vécu ensemble, est infidèle au couple, elle se dérobe à ce rôle de lumière continuant d’éclairer la nuit qui vient. Or l’idée que, dans le grand âge, puisse encore exister la passion de réduire l’autre à néant, est de la part du cinéaste un commentaire à la fois ironique et peut-être plein d’espoir sur la notion même d’« amour » – dont la présence sans déterminant dans le titre évoque l’entrée de dictionnaire.
 
-Dans un cas comme dans l’autre, en faisant de nous les observateurs de ce huis-clos impénétrable – que l’enfant même du couple ne peut pénétrer –, à la façon dont il avait procédé dans <i>Caché</i><span class="spip_note_ref"> [47]</span>, Haneke nous met face à et nous oblige à regarder, dans les termes de l’éthique du care, une vie qui « n’est pas jugée intéressante du point de vue de la théorie morale dominante<span class="spip_note_ref"> [48]</span> ». Or cette vie du vieillir, des sentiments humains, du tissu relationnel de l’existence, dessine une orientation morale spécifique :
-<blockquote class="spip">[R]emis à leur place, c’est-à-dire dans les relations et les activités pratiques qui en composent l’arrière-plan, les sentiments redeviennent sensés et compréhensibles : comme expressions de points de vue moraux “ordinaires” au sens où ils émergent de et concernent “la vie de tous-les-jours-et-de-toutes-les-nuits”, pour reprendre la belle expression de Dorothy E. Smith. Et c’est alors une autre conception de la morale qui est activée<span class="spip_note_ref"> [49]</span>.</blockquote>
-C’est ce qui fait d’<i>Amour</i> de Haneke un film à la fois courageux et dur, inhabituel dans son audace à affronter un tel sujet, presque en temps réel. La sphère personnelle, bien que très située socialement et culturellement, s’y ouvre à une considération universelle. Son film aurait pu s’appeler « Futur », ou « Le sens de la vie », d’une façon tout aussi énigmatique et faussement évidente. Indépendamment de la qualité – certaine – de leur jeu, de leur interprétation émouvante, de leur mime, pourrait-on dire, d’un présent réaliste, les acteurs choisis incarnent une autre époque, et tout un cinéma. Dans l’ouverture mentionnée plus haut, nous regardons littéralement des acteurs devenus les spectateurs de leur propre vie ; des comédiens qui, pour toute une génération, ont incarné l’amour sur le grand écran : acteur d’<i>Un homme et une femme</i><span class="spip_note_ref"> [50]</span>, actrice d’<i>Hiroshima mon amour</i><span class="spip_note_ref"> [51]</span>. Ils sont à même de parler à, et de représenter, toute une génération, parce qu’ils lui ont donné, depuis sa jeunesse, leurs visages. Ainsi, dans le temps accumulé d’amour des deux rôles, d’autres amours, d’autres mémoires viennent habiter l’écran. Le temps s’est inscrit dans les corps, les mains, les visages, les traits, et ce temps qui fait l’amour, qui en est en somme le performatif, est celui du spectateur aussi bien.
-<h3 class="spip">L’amour, figure du temps</h3>
-Par le deuil vivant qui est refus du deuil, de l’oubli, de l’absence, l’autre décédé se continue à travers le temps, fabriqué de toutes pièces à présent par celle ou celui qui reste. Peut-être le deuil alors est-il une peau de temps, comme dans l’essai de Nicolas Lévesque et Catherine Mavrikakis, mise pour recouvrir le disparu, en lieu et place de ces linceuls impossibles qu’évoque Jane Sautière au sujet de la disparition de ses parents<span class="spip_note_ref"> [52]</span>.
+Dans un cas comme dans l’autre, en faisant de nous les observateurs de ce huis-clos impénétrable – que l’enfant même du couple ne peut pénétrer –, à la façon dont il avait procédé dans <i>Caché</i> [47], Haneke nous met face à et nous oblige à regarder, dans les termes de l’éthique du care, une vie qui « n’est pas jugée intéressante du point de vue de la théorie morale dominante [48] ». Or cette vie du vieillir, des sentiments humains, du tissu relationnel de l’existence, dessine une orientation morale spécifique :
+<blockquote>[R]emis à leur place, c’est-à-dire dans les relations et les activités pratiques qui en composent l’arrière-plan, les sentiments redeviennent sensés et compréhensibles : comme expressions de points de vue moraux “ordinaires” au sens où ils émergent de et concernent “la vie de tous-les-jours-et-de-toutes-les-nuits”, pour reprendre la belle expression de Dorothy E. Smith. Et c’est alors une autre conception de la morale qui est activée [49].</blockquote>
+C’est ce qui fait d’<i>Amour</i> de Haneke un film à la fois courageux et dur, inhabituel dans son audace à affronter un tel sujet, presque en temps réel. La sphère personnelle, bien que très située socialement et culturellement, s’y ouvre à une considération universelle. Son film aurait pu s’appeler « Futur », ou « Le sens de la vie », d’une façon tout aussi énigmatique et faussement évidente. Indépendamment de la qualité – certaine – de leur jeu, de leur interprétation émouvante, de leur mime, pourrait-on dire, d’un présent réaliste, les acteurs choisis incarnent une autre époque, et tout un cinéma. Dans l’ouverture mentionnée plus haut, nous regardons littéralement des acteurs devenus les spectateurs de leur propre vie ; des comédiens qui, pour toute une génération, ont incarné l’amour sur le grand écran : acteur d’<i>Un homme et une femme</i> [50], actrice d’<i>Hiroshima mon amour</i> [51]. Ils sont à même de parler à, et de représenter, toute une génération, parce qu’ils lui ont donné, depuis sa jeunesse, leurs visages. Ainsi, dans le temps accumulé d’amour des deux rôles, d’autres amours, d’autres mémoires viennent habiter l’écran. Le temps s’est inscrit dans les corps, les mains, les visages, les traits, et ce temps qui fait l’amour, qui en est en somme le performatif, est celui du spectateur aussi bien.
+<h3>L’amour, figure du temps</h3>
+Par le deuil vivant qui est refus du deuil, de l’oubli, de l’absence, l’autre décédé se continue à travers le temps, fabriqué de toutes pièces à présent par celle ou celui qui reste. Peut-être le deuil alors est-il une peau de temps, comme dans l’essai de Nicolas Lévesque et Catherine Mavrikakis, mise pour recouvrir le disparu, en lieu et place de ces linceuls impossibles qu’évoque Jane Sautière au sujet de la disparition de ses parents [52].
 
-Il est ainsi remarquable que, dans les journaux de deuil contemporains, de l’amour il n’est pas fait de deuil. Au contraire, l’amour y est une figure continuée de temps, déclinée en d’autres figures souvent « spatialisées » : les <i>Blue Nights</i> de New York dans le récit de Joan Didion sur sa fille ; la « première année » suivant la mort du mari dans <i>The Year of Magical Thinking</i> ou le « mémoire de veuve » de Joyce Carol Oates<span class="spip_note_ref"> [53]</span> ; l’élévation des premières montgolfières chez Julian Barnes ; l’été dans le livre de Bernard Chambaz, auquel a coupé court abruptement le décès accidentel du fils.
+Il est ainsi remarquable que, dans les journaux de deuil contemporains, de l’amour il n’est pas fait de deuil. Au contraire, l’amour y est une figure continuée de temps, déclinée en d’autres figures souvent « spatialisées » : les <i>Blue Nights</i> de New York dans le récit de Joan Didion sur sa fille ; la « première année » suivant la mort du mari dans <i>The Year of Magical Thinking</i> ou le « mémoire de veuve » de Joyce Carol Oates [53] ; l’élévation des premières montgolfières chez Julian Barnes ; l’été dans le livre de Bernard Chambaz, auquel a coupé court abruptement le décès accidentel du fils.
 
-C’est peut-être alors, à l’inverse de ma proposition initiale, <i>l’amour</i> qui est une figure du temps. Ce qui, comme chez Philippe Forest, lui donne seul sa forme vivable. <i>L’amour fou,</i> le très beau documentaire de Philippe Thorreton sur Pierre Bergé et Yves Saint-Laurent<span class="spip_note_ref"> [54]</span>, va dans ce sens : « Lorsqu’on a vécu cinquante ans avec quelqu’un […], qu’on lui a fermé les yeux », dit Pierre Bergé, ce n’est rien de voir partir la collection d’œuvres d’art accumulée au fil des ans, même si elle a formé le décor de cette vie. Elle n’en est au fond que l’écume ponctuelle, à la façon des dates du calendrier dans les journaux de deuil, par contraste avec toute cette mémoire commune emmagasinée dans les corps.
+C’est peut-être alors, à l’inverse de ma proposition initiale, <i>l’amour</i> qui est une figure du temps. Ce qui, comme chez Philippe Forest, lui donne seul sa forme vivable. <i>L’amour fou,</i> le très beau documentaire de Philippe Thorreton sur Pierre Bergé et Yves Saint-Laurent [54], va dans ce sens : « Lorsqu’on a vécu cinquante ans avec quelqu’un […], qu’on lui a fermé les yeux », dit Pierre Bergé, ce n’est rien de voir partir la collection d’œuvres d’art accumulée au fil des ans, même si elle a formé le décor de cette vie. Elle n’en est au fond que l’écume ponctuelle, à la façon des dates du calendrier dans les journaux de deuil, par contraste avec toute cette mémoire commune emmagasinée dans les corps.
 
-Le deuil serait peut-être en ce sens le dernier âge de l’amour, au sens où Barthes faisait de l’âge une donnée non mathématique de l’existence, mais sémantique<span class="spip_note_ref"> [55]</span>. Dans la continuité du dernier âge de la vie, de ce que Barthes appelait, en référence à <i>L’enfer</i> de Dante, le « milieu du chemin de la vie », on trouverait le dernier âge de l’amour, qui en embrasserait et en récapitulerait l’ensemble, et se trouverait de ce fait à récapituler la vie : moins <i>toute la vie</i> d’ailleurs, que la vie <i>toute</i>, sans bornes et sans datation. Incarnée dans et par la mesure de la vie partagée avec l’autre.
+Le deuil serait peut-être en ce sens le dernier âge de l’amour, au sens où Barthes faisait de l’âge une donnée non mathématique de l’existence, mais sémantique [55]. Dans la continuité du dernier âge de la vie, de ce que Barthes appelait, en référence à <i>L’enfer</i> de Dante, le « milieu du chemin de la vie », on trouverait le dernier âge de l’amour, qui en embrasserait et en récapitulerait l’ensemble, et se trouverait de ce fait à récapituler la vie : moins <i>toute la vie</i> d’ailleurs, que la vie <i>toute</i>, sans bornes et sans datation. Incarnée dans et par la mesure de la vie partagée avec l’autre.
 
-<hr class="spip" />
+<hr />
 
-<center><strong>Notice bibliographique</strong></center>Maïté Snauwaert est professeure adjointe au Campus Saint-Jean de l’Université de l’Alberta. Elle est l’auteure de <i>Philippe Forest, la littérature à contretemps</i>, première monographie consacrée au romancier et essayiste français (Nantes, Éditions Cécile Defaut, 2012). Elle a dirigé plusieurs dossiers pour des revues académiques canadiennes (<i>Études françaises, Dalhousie French Studies, Intermédialités</i>) et pour le magazine <i>Spirale</i>, dont « Barthes écrivain » (n° 232, mai-juin 2010). Sa recherche porte sur les représentations de la fin de vie dans la littérature contemporaine, et se concentre actuellement sur les « journaux de deuil ». Elle s’intéresse également à l’éthique du <i>care</i>, thème d’une journée d’étude organisée avec Dominique Hétu à l’Université de Montréal le 31 octobre 2014. Maïté Snauwaert a été présidente de la section francophone du Prix Gabrielle-Roy 2012 et 2013, et depuis 2013, elle rend compte des essais pour la revue <i>Lettres Québécoises</i>.
+<center>Notice bibliographique</center>Maïté Snauwaert est professeure adjointe au Campus Saint-Jean de l’Université de l’Alberta. Elle est l’auteure de <i>Philippe Forest, la littérature à contretemps</i>, première monographie consacrée au romancier et essayiste français (Nantes, Éditions Cécile Defaut, 2012). Elle a dirigé plusieurs dossiers pour des revues académiques canadiennes (<i>Études françaises, Dalhousie French Studies, Intermédialités</i>) et pour le magazine <i>Spirale</i>, dont « Barthes écrivain » (n° 232, mai-juin 2010). Sa recherche porte sur les représentations de la fin de vie dans la littérature contemporaine, et se concentre actuellement sur les « journaux de deuil ». Elle s’intéresse également à l’éthique du <i>care</i>, thème d’une journée d’étude organisée avec Dominique Hétu à l’Université de Montréal le 31 octobre 2014. Maïté Snauwaert a été présidente de la section francophone du Prix Gabrielle-Roy 2012 et 2013, et depuis 2013, elle rend compte des essais pour la revue <i>Lettres Québécoises</i>.
 
-&nbsp;
 
-</div>
-</div>
-</div>
-</div>
+
+
+
+
+
 
 ----
 
 references: 
-- <div></div>
-<div class="crayon article-texte-211 texte surlignable clearfix">[1] Définition du terme « problème », Dictionnaire de français Larousse, en ligne : <a class="spip_out" href="http://www.larousse.fr/dictionnaires/francais/probl%C3%A8me/64046?q=probl%C3%A8me#63329" rel="external">http://www.larousse.fr/dictionnaires/francais/problème/64046?q=problème#63329</a>.</div>
-<div class="notes">
-<div id="nb2">
+- 
+[1] Définition du terme « problème », Dictionnaire de français Larousse, en ligne : <a href="http://www.larousse.fr/dictionnaires/francais/probl%C3%A8me/64046?q=probl%C3%A8me#63329" rel="external">http://www.larousse.fr/dictionnaires/francais/problème/64046?q=problème#63329</a>.
 
-<span class="spip_note_ref">[2] </span>Roland Barthes, <i>Fragments d’un discours amoureux, Œuvres complètes</i>, tome V, 1977-1980, nouvelle édition revue, corrigée et présentée par Éric Marty, Paris, Éditions du Seuil, [1977] 2002, n. p. Barthes souligne.
 
-</div>
-<div id="nb3">
 
-<span class="spip_note_ref">[3] </span>Philippe Forest, <i>Le nouvel amour</i>, Paris, Gallimard, 2007.
+[2] Roland Barthes, <i>Fragments d’un discours amoureux, Œuvres complètes</i>, tome V, 1977-1980, nouvelle édition revue, corrigée et présentée par Éric Marty, Paris, Éditions du Seuil, [1977] 2002, n. p. Barthes souligne.
 
-</div>
-<div id="nb4">
 
-<span class="spip_note_ref">[4] </span>Dominique Carlat, <i>Témoins de l’inactuel</i>. Quatre écrivains contemporains face au deuil, Paris, José Corti, coll. « Les Essais », 2007, p. 16.
 
-</div>
-<div id="nb5">
 
-<span class="spip_note_ref">[5] </span><i>Ibid</i>., p. 17.
+[3] Philippe Forest, <i>Le nouvel amour</i>, Paris, Gallimard, 2007.
 
-</div>
-<div id="nb6">
 
-<span class="spip_note_ref">[6] </span>Patricia Paperman, <i>Care et sentiments</i>, Paris, Presses Universitaires de France, coll. « Care Studies », 2013, p. 29.
 
-</div>
-<div id="nb7">
 
-<span class="spip_note_ref">[7] </span>Philippe Forest, « Reprendre et revenir », <i>Le roman, le réel et autres essais, Allaphbed 3</i>, Nantes, Éditions Cécile Defaut, 2007, p. 97.
+[4] Dominique Carlat, <i>Témoins de l’inactuel</i>. Quatre écrivains contemporains face au deuil, Paris, José Corti, coll. « Les Essais », 2007, p. 16.
 
-</div>
-<div id="nb8">
 
-<span class="spip_note_ref">[8] </span>Roland Barthes, <i>Journal de deuil</i>, Paris, Éditions du Seuil/Imec, 2002, p. 83. Barthes souligne.
 
-</div>
-<div id="nb9">
 
-<span class="spip_note_ref">[9] </span>Patricia Paperman, <i>Care et sentiments</i>, p. 28.
+[5] <i>Ibid</i>., p. 17.
 
-</div>
-<div id="nb10">
 
-<span class="spip_note_ref">[10] </span>Roland Barthes, <i>Journal de deuil</i>, p. 137.
 
-</div>
-<div id="nb11">
 
-<span class="spip_note_ref">[11] </span>Jean Allouch, « Le deuil, aujourd’hui », Centre Pompidou, 23 février 2006, p. 2.
+[6] Patricia Paperman, <i>Care et sentiments</i>, Paris, Presses Universitaires de France, coll. « Care Studies », 2013, p. 29.
 
-</div>
-<div id="nb12">
 
-<span class="spip_note_ref">[12] </span>Notamment les<i> Essais sur l’histoire de la mort en Occident du Moyen Âge à nos jours</i> et <i>L’homme devant la mort</i>, Paris, Seuil, coll. « Points/Histoire », 1975 et 1977.
 
-</div>
-<div id="nb13">
 
-<span class="spip_note_ref">[13] </span>Voir mon compte rendu « Un genre de chagrin » dans <i>Spirale</i> n° 240, 2012, p. 78-79.
+[7] Philippe Forest, « Reprendre et revenir », <i>Le roman, le réel et autres essais, Allaphbed 3</i>, Nantes, Éditions Cécile Defaut, 2007, p. 97.
 
-</div>
-<div id="nb14">
 
-<span class="spip_note_ref">[14] </span>Martha Nussbaum, <i>Poetic Justice</i>. The Literary Imagination and Public Life, Boston, Beacon Press, 1995.
 
-</div>
-<div id="nb15">
 
-<span class="spip_note_ref">[15] </span>Michael Haneke, <i>Amour</i>, Allemagne, 2012.
+[8] Roland Barthes, <i>Journal de deuil</i>, Paris, Éditions du Seuil/Imec, 2002, p. 83. Barthes souligne.
 
-</div>
-<div id="nb16">
 
-<span class="spip_note_ref">[16] </span>Philippe Forest, <i>Toute la nuit</i>, Paris, Gallimard, 1999.
 
-</div>
-<div id="nb17">
 
-<span class="spip_note_ref">[17] </span>Philippe Forest, <i>L’enfant éternel</i>, Paris, Gallimard, 1997.
+[9] Patricia Paperman, <i>Care et sentiments</i>, p. 28.
 
-</div>
-<div id="nb18">
 
-<span class="spip_note_ref">[18] </span>Mathilde Branthomme, Présentation du dossier « Deuils sans fin dans la littérature contemporaine », <i>Post-Scriptum. Revue de recherche interdisciplinaire en texte et médias</i>, n° 14, en ligne.
 
-</div>
-<div id="nb19">
 
-<span class="spip_note_ref">[19] </span>Michel Deguy, <i>À ce qui n’en finit pas, thrène</i>, Paris, Éditions du Seuil, coll. « La Librairie du XXe siècle », 1995.
+[10] Roland Barthes, <i>Journal de deuil</i>, p. 137.
 
-</div>
-<div id="nb20">
 
-<span class="spip_note_ref">[20] </span>Laetitia Reibaud, « “Là où l’espace est sans limites / un cœur s’étouffe” ». L’expérience de la Disproportion dans la poésie de deuil contemporaine », <i>Post-Scriptum</i> n° 14, en ligne. URL : <a class="spip_out" href="http://www.post-scriptum.org/la-ou-l-espace-est-sans-limites-un" rel="external">http://www.post-scriptum.org/la-ou-l-espace-est-sans-limites-un</a>
 
-</div>
-<div id="nb21">
 
-<span class="spip_note_ref">[21] </span>Bernard Chambaz, <i>Martin cet été</i>, Paris, Julliard, [1994] 2002.
+[11] Jean Allouch, « Le deuil, aujourd’hui », Centre Pompidou, 23 février 2006, p. 2.
 
-</div>
-<div id="nb22">
 
-<span class="spip_note_ref">[22] </span>L’étude de cette fidélité en quelque sorte <i>performée</i> par l’écriture et le recours à la littérature est l’enjeu de mon essai <i>Philippe Forest, la littérature à contretemps </i> (Nantes, Éditions Cécile Defaut, 2012).
 
-</div>
-<div id="nb23">
 
-<span class="spip_note_ref">[23] </span>Anne Carson, <i>Nox</i>, New York, New Directions Publishing, 2010.
+[12] Notamment les<i> Essais sur l’histoire de la mort en Occident du Moyen Âge à nos jours</i> et <i>L’homme devant la mort</i>, Paris, Seuil, coll. « Points/Histoire », 1975 et 1977.
 
-</div>
-<div id="nb24">
 
-<span class="spip_note_ref">[24] </span>Joan Didion, <i>Blue Nights</i>, New York, Alfred A. Knopf, 2011.
 
-</div>
-<div id="nb25">
 
-<span class="spip_note_ref">[25] </span>Helen Humphreys, <i>Nocturne</i>. On the Life and Death of My Brother, New York, HarperCollins Publishers, 2013.
+[13] Voir mon compte rendu « Un genre de chagrin » dans <i>Spirale</i> n° 240, 2012, p. 78-79.
 
-</div>
-<div id="nb26">
 
-<span class="spip_note_ref">[26] </span>Roland Barthes, <i>Fragments d’un discours amoureux</i>, p. 31.
 
-</div>
-<div id="nb27">
 
-<span class="spip_note_ref">[27] </span><i>Ibid.</i>
+[14] Martha Nussbaum, <i>Poetic Justice</i>. The Literary Imagination and Public Life, Boston, Beacon Press, 1995.
 
-</div>
-<div id="nb28">
 
-<span class="spip_note_ref">[28] </span><i>Ibid.</i>, p. 30
 
-</div>
-<div id="nb29">
 
-<span class="spip_note_ref">[29] </span><i>Ibid.</i>
+[15] Michael Haneke, <i>Amour</i>, Allemagne, 2012.
 
-</div>
-<div id="nb30">
 
-<span class="spip_note_ref">[30] </span>Marguerite Duras, <i>L’amour</i>, Paris, Gallimard, 1971.
 
-</div>
-<div id="nb31">
 
-<span class="spip_note_ref">[31] </span>Terrence Malick, <i>The Tree of Life</i>, France, 2011 ; <i>To the Wonder</i>, Irlande, 2012.
+[16] Philippe Forest, <i>Toute la nuit</i>, Paris, Gallimard, 1999.
 
-</div>
-<div id="nb32">
 
-<span class="spip_note_ref">[32] </span>Nicolas Lévesque et Catherine Mavrikakis, <i>Ce que dit l’écorce</i>, Montréal, Éditions Nota Bene, coll. « Nouveaux Essais Spirale », 2014, p. 72.
 
-</div>
-<div id="nb33">
 
-<span class="spip_note_ref">[33] </span>Julian Barnes, <i>Levels of Life</i>, London, Jonathan Cape, 2013, p. 73.
+[17] Philippe Forest, <i>L’enfant éternel</i>, Paris, Gallimard, 1997.
 
-</div>
-<div id="nb34">
 
-<span class="spip_note_ref">[34] </span><i>Ibid.</i>, p. 100.
 
-</div>
-<div id="nb35">
 
-<span class="spip_note_ref">[35] </span><i>lbid.</i>
+[18] Mathilde Branthomme, Présentation du dossier « Deuils sans fin dans la littérature contemporaine », <i>Post-Scriptum. Revue de recherche interdisciplinaire en texte et médias</i>, n° 14, en ligne.
 
-</div>
-<div id="nb36">
 
-<span class="spip_note_ref">[36] </span>Joyce Carol Oates,<i> “A Widow’s Story”, The New Yorker</i>, 13 décembre 2010, p. 77.
 
-</div>
-<div id="nb37">
 
-<span class="spip_note_ref">[37] </span>Joan Didion, <i>The Year of Magical Thinking</i>, New York, Alfred A. Knopf, 2005, p. 10.
+[19] Michel Deguy, <i>À ce qui n’en finit pas, thrène</i>, Paris, Éditions du Seuil, coll. « La Librairie du XXe siècle », 1995.
 
-</div>
-<div id="nb38">
 
-<span class="spip_note_ref">[38] </span>Joyce Carol Oates,<i> A Widow’s Story : A Memoir</i>, New York, HarperCollins Publishers, 2011, p. 414.
 
-</div>
-<div id="nb39">
 
-<span class="spip_note_ref">[39] </span>Joan Didion, <i>The Year of Magical Thinking</i>, p. 6-7.
+[20] Laetitia Reibaud, « “Là où l’espace est sans limites / un cœur s’étouffe” ». L’expérience de la Disproportion dans la poésie de deuil contemporaine », <i>Post-Scriptum</i> n° 14, en ligne. URL : <a href="http://www.post-scriptum.org/la-ou-l-espace-est-sans-limites-un" rel="external">http://www.post-scriptum.org/la-ou-l-espace-est-sans-limites-un</a>
 
-</div>
-<div id="nb40">
 
-<span class="spip_note_ref">[40] </span><i>Ibid., p. 7.</i>
 
-</div>
-<div id="nb41">
 
-<span class="spip_note_ref">[41] </span>Helen Humphreys, <i>Nocturne</i>, p. 1.
+[21] Bernard Chambaz, <i>Martin cet été</i>, Paris, Julliard, [1994] 2002.
 
-</div>
-<div id="nb42">
 
-<span class="spip_note_ref">[42] </span><i>Ibid.</i>, p. 11.
 
-</div>
-<div id="nb43">
 
-<span class="spip_note_ref">[43] </span><i>Ibid.</i>, p. 12.
+[22] L’étude de cette fidélité en quelque sorte <i>performée</i> par l’écriture et le recours à la littérature est l’enjeu de mon essai <i>Philippe Forest, la littérature à contretemps </i> (Nantes, Éditions Cécile Defaut, 2012).
 
-</div>
-<div id="nb44">
 
-<span class="spip_note_ref">[44] </span><i>Ibid.</i>
 
-</div>
-<div id="nb45">
 
-<span class="spip_note_ref">[45] </span><i>Ibid.</i>, p. 194.
+[23] Anne Carson, <i>Nox</i>, New York, New Directions Publishing, 2010.
 
-</div>
-<div id="nb46">
 
-<span class="spip_note_ref">[46] </span>Maïté Snauwaert, « Physique du deuil. Note sur la dernière vie de Roland Barthes. » <i>Temps zéro. Écritures contemporaines. Poétiques, esthétiques, imaginaires</i>, rubrique « Incursions », mars 2013. En ligne. URL : <a class="spip_out" href="http://tempszero.contemporain.info/document865" rel="external">http://tempszero.contemporain.info/document865</a>
 
-</div>
-<div id="nb47">
 
-<span class="spip_note_ref">[47] </span>Michael Haneke, <i>Caché</i>, France, 2005.
+[24] Joan Didion, <i>Blue Nights</i>, New York, Alfred A. Knopf, 2011.
 
-</div>
-<div id="nb48">
 
-<span class="spip_note_ref">[48] </span>Patricia Paperman, <i>Care et sentiments</i>, p. 37.
 
-</div>
-<div id="nb49">
 
-<span class="spip_note_ref">[49] </span><i>Ibid.</i>, p. 36.
+[25] Helen Humphreys, <i>Nocturne</i>. On the Life and Death of My Brother, New York, HarperCollins Publishers, 2013.
 
-</div>
-<div id="nb50">
 
-<span class="spip_note_ref">[50] </span>Claude Lelouch, <i>Un homme et une femme</i>, France, 1966.
 
-</div>
-<div id="nb51">
 
-<span class="spip_note_ref">[51] </span>Alain Resnais, <i>Hiroshima mon amour</i>, France, 1959.
+[26] Roland Barthes, <i>Fragments d’un discours amoureux</i>, p. 31.
 
-</div>
-<div id="nb52">
 
-<span class="spip_note_ref">[52] </span>Jane Sautière, <i>Dressing</i>, Paris, Verticales, 2013.
 
-</div>
-<div id="nb53">
 
-<span class="spip_note_ref">[53] </span>Joyce Carol Oates, <i>A Widow’s Story : A Memoir</i>, op. cit.
+[27] <i>Ibid.</i>
 
-</div>
-<div id="nb54">
 
-<span class="spip_note_ref">[54] </span>Philippe Thorreton, <i>L’amour fou</i>, France, 2010. Voir aussi les Lettres à Yves de Pierre Bergé, Paris, Gallimard, « Folio », 2010.
 
-</div>
-<div id="nb55">
 
-<span class="spip_note_ref">[55] </span>Roland Barthes, « “Longtemps je me suis couché de bonne heure” », <i>Œuvres complètes</i>, V, op. cit., p. 465.
+[28] <i>Ibid.</i>, p. 30
 
-</div>
-</div>
+
+
+
+[29] <i>Ibid.</i>
+
+
+
+
+[30] Marguerite Duras, <i>L’amour</i>, Paris, Gallimard, 1971.
+
+
+
+
+[31] Terrence Malick, <i>The Tree of Life</i>, France, 2011 ; <i>To the Wonder</i>, Irlande, 2012.
+
+
+
+
+[32] Nicolas Lévesque et Catherine Mavrikakis, <i>Ce que dit l’écorce</i>, Montréal, Éditions Nota Bene, coll. « Nouveaux Essais Spirale », 2014, p. 72.
+
+
+
+
+[33] Julian Barnes, <i>Levels of Life</i>, London, Jonathan Cape, 2013, p. 73.
+
+
+
+
+[34] <i>Ibid.</i>, p. 100.
+
+
+
+
+[35] <i>lbid.</i>
+
+
+
+
+[36] Joyce Carol Oates,<i> “A Widow’s Story”, The New Yorker</i>, 13 décembre 2010, p. 77.
+
+
+
+
+[37] Joan Didion, <i>The Year of Magical Thinking</i>, New York, Alfred A. Knopf, 2005, p. 10.
+
+
+
+
+[38] Joyce Carol Oates,<i> A Widow’s Story : A Memoir</i>, New York, HarperCollins Publishers, 2011, p. 414.
+
+
+
+
+[39] Joan Didion, <i>The Year of Magical Thinking</i>, p. 6-7.
+
+
+
+
+[40] <i>Ibid., p. 7.</i>
+
+
+
+
+[41] Helen Humphreys, <i>Nocturne</i>, p. 1.
+
+
+
+
+[42] <i>Ibid.</i>, p. 11.
+
+
+
+
+[43] <i>Ibid.</i>, p. 12.
+
+
+
+
+[44] <i>Ibid.</i>
+
+
+
+
+[45] <i>Ibid.</i>, p. 194.
+
+
+
+
+[46] Maïté Snauwaert, « Physique du deuil. Note sur la dernière vie de Roland Barthes. » <i>Temps zéro. Écritures contemporaines. Poétiques, esthétiques, imaginaires</i>, rubrique « Incursions », mars 2013. En ligne. URL : <a href="http://tempszero.contemporain.info/document865" rel="external">http://tempszero.contemporain.info/document865</a>
+
+
+
+
+[47] Michael Haneke, <i>Caché</i>, France, 2005.
+
+
+
+
+[48] Patricia Paperman, <i>Care et sentiments</i>, p. 37.
+
+
+
+
+[49] <i>Ibid.</i>, p. 36.
+
+
+
+
+[50] Claude Lelouch, <i>Un homme et une femme</i>, France, 1966.
+
+
+
+
+[51] Alain Resnais, <i>Hiroshima mon amour</i>, France, 1959.
+
+
+
+
+[52] Jane Sautière, <i>Dressing</i>, Paris, Verticales, 2013.
+
+
+
+
+[53] Joyce Carol Oates, <i>A Widow’s Story : A Memoir</i>, op. cit.
+
+
+
+
+[54] Philippe Thorreton, <i>L’amour fou</i>, France, 2010. Voir aussi les Lettres à Yves de Pierre Bergé, Paris, Gallimard, « Folio », 2010.
+
+
+
+
+[55] Roland Barthes, « “Longtemps je me suis couché de bonne heure” », <i>Œuvres complètes</i>, V, op. cit., p. 465.
+
+
+
 
 ----
 

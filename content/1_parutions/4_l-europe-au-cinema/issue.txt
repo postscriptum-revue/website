@@ -1,18 +1,16 @@
-Title: L’Europe au cinéma
+title: L’Europe au cinéma
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 4
+number: 4
 
 ----
 
-Intro-text:
-
-Pour souligner à nouveau l’interdisciplinarité de la revue, Vincent Bouchard et moi-même avions à cœur de solliciter pour ce quatrième numéro un ensemble de contributions qui interrogeraient spécifiquement le médium cinématographique. À mesure que nous discutions du projet et bien que nos recherches en matière de cinéma se recoupent assez peu, il apparut que plusieurs questions communes nous taraudaient. Nous avons donc décidé d’en faire le point de départ de ce numéro intitulé « L’Europe au cinéma ». Questions de production et de réception du cinéma européen.
+intro_text: Pour souligner à nouveau l’interdisciplinarité de la revue, Vincent Bouchard et moi-même avions à cœur de solliciter pour ce quatrième numéro un ensemble de contributions qui interrogeraient spécifiquement le médium cinématographique. À mesure que nous discutions du projet et bien que nos recherches en matière de cinéma se recoupent assez peu, il apparut que plusieurs questions communes nous taraudaient. Nous avons donc décidé d’en faire le point de départ de ce numéro intitulé « L’Europe au cinéma ». Questions de production et de réception du cinéma européen.
 
 Au moment où la notion même de cinéma national a été largement discutée par des théoriciens, à l’exemple de Benedict Anderson ou de Michèle Lagny, peut-on encore envisager chaque cinéma national de manière indépendante, ou alors existe-t-il une unité dans la production européenne ? Dans quelle mesure peut-on définir des dénominateurs communs à cette cinématographie ? Peut-on, par exemple, constituer un pôle esthétique homogène, en opposition avec le cinéma nord-américain ou d’autres formes de cinéma dans le monde ? D’un autre côté, vu le rayonnement du cinéma européen, il nous semblait important de se questionner sur les hybridations issues de métissages culturels ainsi que sur les facteurs économiques et culturels et les évolutions techniques qui façonnent et transforment le cinéma d’aujourd’hui.
 
@@ -34,12 +32,15 @@ Merci encore à tous ceux qui se sont investis dans la préparation de ce numér
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2004-04-15 00:00:51
 
 ----
 
-Uuid: YuBFL5B9YzoMebtf
+references: 
+
+----
+

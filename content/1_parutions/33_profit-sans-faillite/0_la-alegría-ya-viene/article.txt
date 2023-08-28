@@ -1,4 +1,4 @@
-title: [33-7] La alegría ya viene
+title: La alegría ya viene
 
 ----
 
@@ -41,27 +41,27 @@ En cualquier hemisferio
 </em>
 -Stella Díaz Varín
 
-&nbsp;
 
-<img class="alignleft size-large wp-image-4006" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--1024x738.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-large wp-image-4007" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/2-melodiaexilio-chilean-electric-706x1024.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--1024x738.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-large wp-image-4008" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/3-en-familia-1024x619.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/2-melodiaexilio-chilean-electric-706x1024.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-large wp-image-4009" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4-muerte-y-mentira-892x1024.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/3-en-familia-1024x619.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-large wp-image-4010" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/5-imbunche-1024x819.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4-muerte-y-mentira-892x1024.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-large wp-image-4011" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/6-nada-1024x583.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/5-imbunche-1024x819.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-full wp-image-4012" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/7-creatures-.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/6-nada-1024x583.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-large wp-image-4002" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/8-duerme-tranquila-1024x571.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/7-creatures-.jpg" alt="" width="100%" height="auto" />
 
-<img class="alignleft size-large wp-image-4003" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/9-les-morts-847x1024.jpg" alt="" width="100%" height="auto" />
-<img class="alignleft size-large wp-image-4004" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/10-ruines-anticipees-1024x1019.jpg" alt="" width="100%" height="auto" />
-<img class="alignleft size-full wp-image-4005" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/11-basura-y-mugre.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/8-duerme-tranquila-1024x571.jpg" alt="" width="100%" height="auto" />
+
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/9-les-morts-847x1024.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/10-ruines-anticipees-1024x1019.jpg" alt="" width="100%" height="auto" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/11-basura-y-mugre.jpg" alt="" width="100%" height="auto" />
 
 ----
 

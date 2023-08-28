@@ -1,4 +1,4 @@
-title: [33-06] Nue dans les noeuds
+title: Nue dans les noeuds
 
 ----
 
@@ -24,7 +24,7 @@ abstract_en:
 
 text: I
 
-&nbsp;
+
 
 la journée est suppliante
 
@@ -62,7 +62,7 @@ de toutes les villes
 
 l’obscurité avance
 
-&nbsp;
+
 
 bête cernée
 
@@ -72,15 +72,15 @@ ourse
 
 somatique
 
-&nbsp;
+
 
 ***
 
-&nbsp;
+
 
 II
 
-&nbsp;
+
 
 ô comme
 
@@ -98,7 +98,7 @@ de la lumière dégagée
 
 par le côté sombre du lilas
 
-&nbsp;
+
 
 ô mais quel délice
 
@@ -122,15 +122,15 @@ sur les tuiles
 
 de sa maison
 
-&nbsp;
+
 
 ***
 
-&nbsp;
+
 
 III
 
-&nbsp;
+
 
 peur
 
@@ -200,13 +200,13 @@ de l’eau claire
 
 et de l’ordre
 
-&nbsp;
+
 <p style="text-align: left;">***</p>
-&nbsp;
+
 
 IV
 
-&nbsp;
+
 
 et je veux dire que
 
@@ -230,7 +230,7 @@ par pensée et ne rien comprendre
 
 aux bruits des papillons au bout du lit
 
-&nbsp;
+
 
 et j’ai une peau un sexe un sens à démêler
 
@@ -268,19 +268,19 @@ l’amour
 
 dans son habit trop tight
 
-&nbsp;
+
 
 et quelque chose et quelqu’un pleure
 
 dans la chambre fermée
 
-&nbsp;
+
 <p style="text-align: left;">***</p>
-&nbsp;
+
 
 V
 
-&nbsp;
+
 
 j’ai tenu
 
@@ -308,7 +308,7 @@ les couleurs l’ont laissé passer
 
 il dit merci et l’histoire reprend son deuil
 
-&nbsp;
+
 
 les corps vont trop vite dans les chars
 
@@ -322,7 +322,7 @@ il me faut regarder
 
 dans la douleur
 
-&nbsp;
+
 
 c’est un jeu du monde
 
@@ -338,7 +338,7 @@ il faut peser le long des veines
 
 au bord des canaux troubles
 
-&nbsp;
+
 
 ma bête cernée
 
@@ -349,7 +349,7 @@ nue dans mes nœuds
 ----
 
 references: 
-- &nbsp;
+- 
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> Nelly Sachs
 

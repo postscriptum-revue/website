@@ -1,18 +1,16 @@
-Title: Montréal comparatiste
+title: Montréal comparatiste
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 19
+number: 19
 
 ----
 
-Intro-text:
-
-Alors qu’il y a déjà un peu plus de deux ans l’équipe de <i>Post-Scriptum</i> se (re)formait, avec le désir ferme de relancer cette revue étudiante, la tâche semblait énorme… Pourtant nous voici aujourd’hui, suite à l’ouverture de la première journée du second colloque annuel de <i>Post-Scriptum</i>, à présenter les actes de ce colloque. Les journées de communications comme la mise par écrit de ces dernières se constituent comme des espaces que nous voulions avant tout être lieu de dialogue entre les étudiants et étudiantes, mais aussi entre les étudiants et les professeurs. Ancrer un tel projet dans la vie départementale nous semblait extrêmement important, dès lors que se manifeste la difficulté de lire activement nos collègues et même, d’entrer en contact avec eux dans un cadre autre que celui des cours et séminaires. Offrir donc la possibilité pour les étudiants et étudiantes de se lire mutuellement, ouvrir un espace où le dialogue s’élargit et participer, activement, à la vie intellectuelle universitaire autrement que comme simples auditeurs. Certes, la tâche demeure grande, mais nous avons l’espoir que le colloque Montréal Comparatiste : Tradition vivante fut un <i>signe </i> que le projet que nous nous sommes lancés, pour utiliser une expression ordinaire, <i>porte ses fruits</i>, que le rythme a été lancé.
+intro_text: Alors qu’il y a déjà un peu plus de deux ans l’équipe de <i>Post-Scriptum</i> se (re)formait, avec le désir ferme de relancer cette revue étudiante, la tâche semblait énorme… Pourtant nous voici aujourd’hui, suite à l’ouverture de la première journée du second colloque annuel de <i>Post-Scriptum</i>, à présenter les actes de ce colloque. Les journées de communications comme la mise par écrit de ces dernières se constituent comme des espaces que nous voulions avant tout être lieu de dialogue entre les étudiants et étudiantes, mais aussi entre les étudiants et les professeurs. Ancrer un tel projet dans la vie départementale nous semblait extrêmement important, dès lors que se manifeste la difficulté de lire activement nos collègues et même, d’entrer en contact avec eux dans un cadre autre que celui des cours et séminaires. Offrir donc la possibilité pour les étudiants et étudiantes de se lire mutuellement, ouvrir un espace où le dialogue s’élargit et participer, activement, à la vie intellectuelle universitaire autrement que comme simples auditeurs. Certes, la tâche demeure grande, mais nous avons l’espoir que le colloque Montréal Comparatiste : Tradition vivante fut un <i>signe </i> que le projet que nous nous sommes lancés, pour utiliser une expression ordinaire, <i>porte ses fruits</i>, que le rythme a été lancé.
 
 Ce numéro que nous vous présentons contient les articles d’étudiants et étudiantes, mais aussi de professeurs de l’Université de Montréal comme d’ailleurs, autre signe, croyons-nous, que le dialogue s’enclenche bel et bien.
 
@@ -22,16 +20,17 @@ Tel que l’annonçait l’appel à propositions du colloque, il ne s’agit pas
 
 ----
 
-Credits:
-
-<ul>
+credits: <ul>
  	<li>Laurence Sylvain (Université de Montréal) et Marie-Eve Bradette (Université de Montréal)</li>
 </ul>
 
 ----
 
-References: 
+date: 2015-11-27 00:00:17
 
 ----
 
-Uuid: 9XsOuEQeRB2lHZBl
+references: 
+
+----
+

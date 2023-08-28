@@ -1,4 +1,4 @@
-title: [12-04]  Littérature et politique au XXe siècle
+title:  Littérature et politique au XXe siècle
 
 ----
 
@@ -22,13 +22,13 @@ abstract_en:
 
 ----
 
-text: <div class="texteItem">
-<div class="crayon article-texte-146 texte surlignable clearfix">
-<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid323119" src="//www.youtube.com/embed/Jul5BPuBHQA" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br class="autobr" /> <i>Discussion</i>
-<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid32924" src="//www.youtube.com/embed/C6rOlltFAus" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-</div>
-</div>
+text: 
+
+<iframe id="fitvid323119" src="//www.youtube.com/embed/Jul5BPuBHQA" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<br /> <i>Discussion</i>
+<iframe id="fitvid32924" src="//www.youtube.com/embed/C6rOlltFAus" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
 
 ----
 

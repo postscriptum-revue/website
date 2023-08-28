@@ -1,4 +1,4 @@
-title: [11-07]  I am the Lord of the Rings, I shall also be your lord
+title:  I am the Lord of the Rings, I shall also be your lord
 
 ----
 
@@ -22,60 +22,60 @@ abstract_en: Because of its destiny, seduction is associated with evil. It contr
 
 ----
 
-text: <blockquote class="spip_poesie">
-<div>« Il n’y a pas de phénomènes moraux, il n’y a que des interprétations morales des phénomènes. »</div>
-<div></div>
-<div>- Nietzsche, <i>Par</i>-<i>delà</i> <i>le</i> <i>bien</i> <i>et</i> <i>le</i> <i>mal.</i></div></blockquote>
+text: <blockquote>
+« Il n’y a pas de phénomènes moraux, il n’y a que des interprétations morales des phénomènes. »
+
+- Nietzsche, <i>Par</i>-<i>delà</i> <i>le</i> <i>bien</i> <i>et</i> <i>le</i> <i>mal.</i></blockquote>
 La séduction, concept de très grande complexité, dépasse la simple association avec l’amour. Au-delà du jeu préliminaire amoureux (destructif ou non), la séduction est le jeu du maître et de l’esclave conçu à partir d’une autre perspective. Je me propose d’explorer la séduction selon un schéma où la place du maître revient à un dieu, à une divinité maléfique, en l’occurrence. Bien que l’on soit loin de la théologie, un premier aspect qui problématise ma démarche se situe au niveau de la terminologie. Séduction ou tentation ?
 
 En dépit d’une distinction immédiate entre ces deux termes (la séduction repose sur les impulsions sexuelles), les impulsions sexuelles ne se verront pas explorés dans cette étude. J’utiliserai ainsi indifféremment le terme de séduction bien que nous reconnaissons plutôt une <i>tentation</i> <i>séductrice</i> dans le récit mythique du <i>Seigneur</i> <i>des</i> <i>Anneaux</i> de Tolkien. Je me propose d’évaluer les propriétés de la séduction partant de la séduction comme jeu de capture. J’analyserai ainsi, dans un premier temps, l’espace de la séduction, les forces du séducteur et du séduit ainsi que leurs itinéraires dans cet espace. Dans un deuxième et dernier temps, j’examinerai la façon dont ce récit donne à penser la séduction.
-<h3 class="spip">1. Séduction – jeu de la capture</h3>
+<h3>1. Séduction – jeu de la capture</h3>
 Le premier principe sur lequel on peut asseoir la séduction serait celui du jeu. Celui qui entre dans le jeu est toujours joué, dit Gadamer (Gadamer 1996). D’un côté, la séduction <i>n</i>’<i>est</i> <i>pas</i> <i>un</i> <i>jeu</i> <i>dans</i> <i>lequel</i> <i>on</i> <i>entre</i> <i>pour</i> <i>mesurer</i> <i>ses</i> <i>forces.</i> La séduction (ou tentation) ne représente pas une mise à l’épreuve des forces, mais la perte de toute force devant le maître. « Ne nous induis pas en tentation » fut probablement l’une des phrases bibliques les plus prononcées depuis que l’homme s’est rendu compte de l’existence du Bien et du Mal. D’un autre côté, la séduction <i>est</i> <i>un</i> <i>jeu</i> <i>dans</i> <i>lequel</i> <i>on</i> <i>entre</i> <i>pour</i> <i>mesurer</i> <i>ses</i> <i>forces.</i>
 
 S’il fallait trouver le principe physique de la séduction, je dirais que celui-ci serait le magnétisme. Car il s’y exerce une attirance où le séduit est forcé par le séducteur d’entrer dans la séduction, comme le montre si bien Mathilde Branthomme (Branthomme 2007). Mais quelle est cette force du côté du séduit ?
 
-<strong>1.1. L’espace de la séduction</strong>
+1.1. L’espace de la séduction
 
 La séduction est un espace qui a son propre territoire, sa propre géographie. On y pénètre car on est « capturé ». Je comprends ici la capture au premier degré dans le sens donné par Deleuze, comme « mode par lequel les individus entrent dans des rapports variables qui les transforment », qui les fait « devenirs » (Sasso et Villani 2003 : 48-51). Une fois capturé, le séduit se meurt petit à petit et se transforme. Mais n’oppose-t-il aucune force ? Mathilde Branthomme montre que tandis que le séducteur se nourrit de la mort symbolique de « sa proie », cette dernière - le séduit - a étrangement le choix de poursuivre son propre itinéraire. Or, cet itinéraire mérite d’être exploré dans un territoire où agissent des forces magnétiques qui permettent très peu d’écart par rapport au tracé.
 
 Je ne saurais continuer sans restituer le sens de la force avant qu’elle ne devienne figure. La force incarne avant tout le mouvement. Transposée à la morale, elle fait fortune comme courage (<i>animi</i> <i>fortitudo),</i> ou comme finesse d’esprit (<i>ingenii</i> <i>vis).</i> Sous l’angle philosophique, toute matière serait caractérisée par une force active ou d’autre type (Dictionnaire philosophique). Évaluons donc la force du côté du séducteur et de ses séduits dans le <i>Seigneur</i> <i>des</i> <i>Anneaux</i> de Tolkien.
 
-<strong>1.2. L’espace de la séduction dans le <i>Seigneur</i> <i>des</i> <i>Anneaux</i> de Tolkien</strong>
+1.2. L’espace de la séduction dans le <i>Seigneur</i> <i>des</i> <i>Anneaux</i> de Tolkien
 
-Dans le récit du <i>Seigneur</i> <i>des</i> <i>Anneaux,</i> la Terre du Milieu se trouve au passage du Troisième au Quatrième Âge, dans une sorte de <i>illo</i> <i>tempore</i> transposé dans la fiction où les dieux coexistent avec les humains et d’autres races (elfes, nains, trolls, orques…). Sauron, divinité première et incarnation du Mal suprême, se voit vaincu après plusieurs tentatives d’étaler son pouvoir sur la terre. Dans le combat, il perd son objet du pouvoir, l’Anneau unique (un anneau qui gouvernait tous les autres anneaux de pouvoirs des autres races). Après cette défaite, Sauron trouve le moyen de ressusciter sous la forme d’un Œil Unique assis en haut d’une Tour Noire dans le pays de Mordor, d’où il scrute les endroits les plus inhabituels pour retrouver son anneau<span class="spip_note_ref"> [1]</span>. Quant à ce dernier, c’est un objet épaissi par un substantiel fond mythique, il offre l’invisibilité à celui qui le met au doigt, lui conférant ainsi un pouvoir. Mais, en même temps, cet anneau qui est l’incarnation de la volonté de Sauron asservit son porteur. L’anneau unique n’est pas un anneau de pouvoir pour le porteur. <i>L</i>’<i>Anneau</i> <i>unique</i> <i>est</i> <i>un</i> <i>anneau</i> <i>de</i> <i>séduction.</i> En tant qu’objet, il reproduit le monde même dans un « modèle réduit »<span class="spip_note_ref"> [2]</span>. Le concept de modèle réduit développé par Lévi-Strauss montre que l’anneau n’est pas une projection de l’objet mais une expérience sur l’objet. <i>Cette</i> <i>expérience</i> <i>est</i> <i>celle</i> <i>de</i> <i>la</i> <i>séduction.</i> Frodo Baggins, le personnage principal de ce récit, porteur de l’anneau maudit entre dans l’espace de la séduction où ne se trouve aucun repère, si ce n’est une terrible force magnétique qui l’entraîne dans un tourbillon pour l’absorber vers le centre. La tentation de faire l’expérience de l’anneau se paye<span class="spip_note_ref"> [3]</span>. L’œil de Sauron (une autre forme circulaire) est le centre de cet espace, le Principe, le Mal. L’anneau opère comme attracteur étrange. « On le connaît trop bien, il se connaît trop bien lui-même. C’est l’objet qui est passionnant, car il est l’horizon de [la disparition des êtres séduits] » (Baudrillard 1990b : 179). L’anneau opère comme attracteur étrange et renvoie <i>sine</i> <i>qua</i> <i>non</i> à une « esthétique de la disparition » (Virilio 1989). Disparition d’horizon, disparition de l’être.
+Dans le récit du <i>Seigneur</i> <i>des</i> <i>Anneaux,</i> la Terre du Milieu se trouve au passage du Troisième au Quatrième Âge, dans une sorte de <i>illo</i> <i>tempore</i> transposé dans la fiction où les dieux coexistent avec les humains et d’autres races (elfes, nains, trolls, orques…). Sauron, divinité première et incarnation du Mal suprême, se voit vaincu après plusieurs tentatives d’étaler son pouvoir sur la terre. Dans le combat, il perd son objet du pouvoir, l’Anneau unique (un anneau qui gouvernait tous les autres anneaux de pouvoirs des autres races). Après cette défaite, Sauron trouve le moyen de ressusciter sous la forme d’un Œil Unique assis en haut d’une Tour Noire dans le pays de Mordor, d’où il scrute les endroits les plus inhabituels pour retrouver son anneau [1]. Quant à ce dernier, c’est un objet épaissi par un substantiel fond mythique, il offre l’invisibilité à celui qui le met au doigt, lui conférant ainsi un pouvoir. Mais, en même temps, cet anneau qui est l’incarnation de la volonté de Sauron asservit son porteur. L’anneau unique n’est pas un anneau de pouvoir pour le porteur. <i>L</i>’<i>Anneau</i> <i>unique</i> <i>est</i> <i>un</i> <i>anneau</i> <i>de</i> <i>séduction.</i> En tant qu’objet, il reproduit le monde même dans un « modèle réduit » [2]. Le concept de modèle réduit développé par Lévi-Strauss montre que l’anneau n’est pas une projection de l’objet mais une expérience sur l’objet. <i>Cette</i> <i>expérience</i> <i>est</i> <i>celle</i> <i>de</i> <i>la</i> <i>séduction.</i> Frodo Baggins, le personnage principal de ce récit, porteur de l’anneau maudit entre dans l’espace de la séduction où ne se trouve aucun repère, si ce n’est une terrible force magnétique qui l’entraîne dans un tourbillon pour l’absorber vers le centre. La tentation de faire l’expérience de l’anneau se paye [3]. L’œil de Sauron (une autre forme circulaire) est le centre de cet espace, le Principe, le Mal. L’anneau opère comme attracteur étrange. « On le connaît trop bien, il se connaît trop bien lui-même. C’est l’objet qui est passionnant, car il est l’horizon de [la disparition des êtres séduits] » (Baudrillard 1990b : 179). L’anneau opère comme attracteur étrange et renvoie <i>sine</i> <i>qua</i> <i>non</i> à une « esthétique de la disparition » (Virilio 1989). Disparition d’horizon, disparition de l’être.
 
 Entrons dans cet espace pour explorer la manière dont agissent la force du séducteur/séduit ainsi que l’itinéraire suivi par les séduits : Sméagol/Gollum, Boromir et Frodo.
 
-<strong>1. 3. Du <i>symbole</i> au <i>diabole,</i> itinéraires dans l’espace de la séduction</strong>
+1. 3. Du <i>symbole</i> au <i>diabole,</i> itinéraires dans l’espace de la séduction
 
 Le symbole de la séduction réunit donc un œil (L’œil unique) et un anneau (L’Anneau unique) et trace un territoire circulaire où l’être de celui qui entre, du séduit, éclate. Ce passage du <i>symbole</i> (qui est une mise ensemble) au <i>diabole</i> (qui est éclatement) représente le <i>rituel</i> de la séduction dans ce récit, rituel auquel participent les trois personnages évoqués. La variable dans ce rituel se situe du côté de la force opposée par chaque séduit.
 
 Sauron, le Mal « tient les rênes », pour dire comme Mathilde Branthomme, lorsqu’il dévie du droit chemin chacune de ses proies (<i>se</i>-<i>ducere).</i> Il est connu et je l’ai déjà rappelé plus haut, que la séduction repose sur les impulsions sexuelles du séducteur. Dans notre cas, les impulsions sexuelles sont remplacées par la volonté du pouvoir. Sauron séduit (ou tente) <i>par</i> et <i>pour</i> le pouvoir. Au nom du pouvoir, Sauron séduit. Mais il n’offre qu’un simulacre de pouvoir au porteur. Ainsi, ce dernier devient esclave et voit son Moi éclater. <i>L</i>’<i>Anneau</i> <i>unique</i> <i>est</i> <i>anneau</i> <i>de</i> <i>séduction,</i> <i>car</i> <i>il</i> <i>« </i> <i>trompe</i> <i>l</i>’<i>œil</i> <i>»</i> <i>du</i> <i>séduit.</i> Il ne fait pas voir la réalité à son porteur ou à celui qui aspire à le posséder, il ne laisse pas entrevoir l’absence de l’horizon. Il agit à la manière d’une « sphère de l’apparence – rien à voir, ce sont les choses qui vous voient » (Baudrillard 1990a : 91). Chaque fois que le possesseur de l’anneau le glisse au doigt, il devient invisible pour ses pairs, mais visible pour le séducteur. « Inquiétante étrangeté du trompe-œil », inquiétante étrangeté de l’œil dans ce récit qui se légitime ici comme « prototype d’un usage maléfique des apparences » ((Baudrillard 1990a : 92). <i>Le</i> <i>Séducteur</i> <i>est</i> <i>Œil.</i> L’œil trompe l’œil en réduisant la perspective dans l’espace de la séduction et attirant vers lui les séduits par une force magnétique. <i>I</i> <i>am</i> <i>the</i> <i>Lord</i> <i>of</i> <i>the</i> <i>Rings,</i> <i>I</i> <i>shall</i> <i>also</i> <i>be</i> <i>your</i> <i>Lord.</i>
 
-&nbsp;
-<h3 class="spip">***</h3>
+
+<h3>***</h3>
 Sméagol/Gollum, être animalisé entre dans l’espace de la séduction sans opposer de force. Il est entièrement éclaté, transformé, asservi, <i>diabolisé.</i> L’esprit de Sauron le domine. Sméagol est à l’origine un Hobbit. Il tue son cousin qui trouve l’Anneau unique au fond d’une rivière lors d’une partie de pêche, s’empare de cet objet et devient sur le champ la proie de celui-ci, du pouvoir d’attraction qu’il exerce sur lui. À travers l’anneau, Sauron séduit Sméagol et le fait entrer dans l’espace de l’anneau. Sméagol est un être faible, il n’hésite pas à faire le plus souvent possible l’expérience de la disparition de son monde et l’apparition dans le monde du séducteur en glissant l’anneau au doigt. Il est alors entraîné dans le tourbillon des forces qui l’attirent vers le séducteur, vers le Mal. Qu’est-ce que le séducteur offre en échange à sa proie ? L’anneau allonge son existence (en le faisant vivre cinq siècles) mais uniquement pour mieux le faire mourir, plus longtemps, à petit feu. Il est déformé, animalisé, altéré, comme il émet des sons animalesques, on l’appelle Gollum. Il fuit la lumière et se nourrit, comme les bêtes, de viande crue, de plus sa tête est décharnée et ses dents allongées comme celles des orques (Day 2002 : 252).
 
 Éclatement et irréversibilité. <i>Gollum</i> <i>est</i> <i>le</i> <i>devenir</i> <i>animal</i> <i>de</i> <i>Sméagol</i> <i>qui</i> <i>a</i> <i>été</i> <i>séduit.</i> Mais que reçoit-il en échange ?
-<blockquote class="spip">His Eye watches that way all the time. <i>It</i> caught Sméagol there long ago. Gollum shuddered. But Sméagol has used his eyes since then, yes, yes : I’ve used eyes and feet and nose since then. I know other ways (Tolkien 1991 : 611).</blockquote>
+<blockquote>His Eye watches that way all the time. <i>It</i> caught Sméagol there long ago. Gollum shuddered. But Sméagol has used his eyes since then, yes, yes : I’ve used eyes and feet and nose since then. I know other ways (Tolkien 1991 : 611).</blockquote>
 Ce que Sméagol reçoit en échange n’est pas du vrai pouvoir, mais un leurre duquel il devient dépendant. Dans tout ce processus, les forces que Sméagol opposent au séducteur sont minimes, voire inexistantes. S’il y avait un choix d’itinéraire du séduit dans le territoire de la séduction, dans ce cas, ce choix serait quasiment inexistant. Sméagol/Gollum s’abandonne entièrement à Sauron à tel point qu’il désire fusionner avec ce dernier à travers son geste ultime, celui par lequel il arrache bestialement à Frodo l’objet de la séduction, l’anneau, (en réalité, Gollum mord le doigt de Frodo où l’anneau se trouvait) :
-<blockquote class="spip">Precious, precious, precious ! Gollum cried. My Precious ! O my Precious ! And with that, even as his eyes were lifted up to gloat on his prize, he stepped to far, toppled, wavered for a moment on the brink, and then with a shriek he fell. Out of the depths came his last wail <i>Precious,</i> and he was gone (Tolkien 1991 : 925).</blockquote>
-&nbsp;
-<h3 class="spip">***</h3>
+<blockquote>Precious, precious, precious ! Gollum cried. My Precious ! O my Precious ! And with that, even as his eyes were lifted up to gloat on his prize, he stepped to far, toppled, wavered for a moment on the brink, and then with a shriek he fell. Out of the depths came his last wail <i>Precious,</i> and he was gone (Tolkien 1991 : 925).</blockquote>
+
+<h3>***</h3>
 Boromir, le deuxième personnage séduit est un noble seigneur qui rejoint la Communauté de l’Anneau pour protéger le porteur Frodo dans le voyage vers la Montagne du Destin où l’anneau devait être détruit. Lors de ce voyage, il tombe sous l’emprise de la séduction. Une force d’attraction étrange l’entraîne d’abord dans un combat avec Frodo. Boromir entre dans l’espace du séducteur, mais d’une manière différente. Une gradation échelonne l’effet que le séducteur a sur lui et fait passer Boromir de l’imploration :
-<blockquote class="spip">Ah ! The Ring ! said Boromir, his eyes lighting. The Ring ! Is it not a strange fate that we should suffer so much fear and doubt for so small a thing ? So small a thing ! And I have seen it only for an instant in the House of Elrond. Could I not have a sight of it again ?
+<blockquote>Ah ! The Ring ! said Boromir, his eyes lighting. The Ring ! Is it not a strange fate that we should suffer so much fear and doubt for so small a thing ? So small a thing ! And I have seen it only for an instant in the House of Elrond. Could I not have a sight of it again ?
 
 Frodo looked up. His heart went suddenly cold. He caught the strange gleam in Boromir’s eyes, yet his face was still kind and friendly (Tolkien 1991 : 388-389).</blockquote>
 …. à la ruse :
-<blockquote class="spip">Why not get rid of it ? Why not be free of your doubt and fear ? You can lay the blame on me, if you will. You can say that I was too strong for you and took it by force (Tolkien 1991 : 390).</blockquote>
+<blockquote>Why not get rid of it ? Why not be free of your doubt and fear ? You can lay the blame on me, if you will. You can say that I was too strong for you and took it by force (Tolkien 1991 : 390).</blockquote>
 …. et à la violence :
-<blockquote class="spip">For I am too strong for you, halfling, he cried ; and suddenly he sprang over the stone and leaped at Frodo. His fear and pleasant face was hideously changed ; a raging fire was in his eyes (Tolkien 1991 : 390).</blockquote>
+<blockquote>For I am too strong for you, halfling, he cried ; and suddenly he sprang over the stone and leaped at Frodo. His fear and pleasant face was hideously changed ; a raging fire was in his eyes (Tolkien 1991 : 390).</blockquote>
 Boromir sent le regard posé par L’Œil de Sauron sur son esprit. Il désire entrer dans son monde, dans son cercle, mais les circonstances l’arrêtent, n’ayant pas accès à l’anneau. Pourquoi Boromir se laisse-t-il entraîner dans le chemin de la séduction ? Car, à son tour, il est séduit et croit dans un pouvoir qu’il présuppose et qu’il associe à l’anneau, lorsqu’il se dit intérieurement « […] why not Boromir ? The Ring would give me the power of Command » (Tolkien 1991 : 389).
 
-Néanmoins, son itinéraire dans l’espace de la séduction demeure périphérique. Il ne connaîtra pas le tourbillon qui contrôle le cercle de l’anneau. Cela non pas en raison d’une force quelconque qu’il opposerait lui-même au séducteur, mais grâce à Frodo qui le soustrait à toute tentation<span class="spip_note_ref"> [4]</span>. Boromir, ressent la séduction comme un moment de folie : “What have I done ? Frodo, Frodo ! he called. Come back ! A madeness took me, but it passed.” (Tolkien 1991 : 390). Après cette expérience, Boromir périt en défendant d’autres membres de la Communauté de l’Anneau. La mort physique met fin à la séduction (à la tentation).
+Néanmoins, son itinéraire dans l’espace de la séduction demeure périphérique. Il ne connaîtra pas le tourbillon qui contrôle le cercle de l’anneau. Cela non pas en raison d’une force quelconque qu’il opposerait lui-même au séducteur, mais grâce à Frodo qui le soustrait à toute tentation [4]. Boromir, ressent la séduction comme un moment de folie : “What have I done ? Frodo, Frodo ! he called. Come back ! A madeness took me, but it passed.” (Tolkien 1991 : 390). Après cette expérience, Boromir périt en défendant d’autres membres de la Communauté de l’Anneau. La mort physique met fin à la séduction (à la tentation).
 
-&nbsp;
-<h3 class="spip">***</h3>
+
+<h3>***</h3>
 L’exemple le plus notable qui permet d’examiner plus au détail les forces opposées au séducteur et l’itinéraire suivi par le séduit dans l’espace de la séduction est incarné par Frodo, le porteur de l’anneau. Comme tous les autres personnages, il est en possession de cet anneau par hasard. <i>Le</i> <i>hasard</i> <i>est</i> <i>intervenant</i> <i>clé,</i> <i>participant</i> <i>de</i> <i>la</i> <i>séduction.</i>
 
 Frodo fait pleinement l’expérience de l’objet de la séduction. En le glissant au doigt, il se laisse certes entraîner par les forces magnétiques qui l’attirent vers le Centre, mais, à la différence des deux exemples évoqués, il comprend aussi ce qui lui arrive :
@@ -85,9 +85,9 @@ Frodo fait pleinement l’expérience de l’objet de la séduction. En le gliss
 <center>He heard himself crying out : <i>Never,</i> <i>never !</i> Or was it : <i>Verily</i> <i>I</i> <i>come,</i> <i>I</i> <i>come</i> <i>to</i> <i>you ?</i> He could not tell. Then as a flash from some other point of power there come to his mind another thought : <i>Take</i> <i>it</i> <i>off !</i> <i>Take</i> <i>it</i> <i>off !</i> <i>Fool,</i> <i>take</i> <i>it</i> <i>off !</i> <i>Take</i> <i>off</i> <i>the</i> <i>Ring !</i> (Tolkien 1991 : 392).</center>Frodo est « joué » dans le jeu de la séduction. Le choix de son itinéraire dans l’espace de la séduction est faible. S’il a peut-être un choix à faire dans le trajet extérieur, matériel de son voyage de la Comté au Mordor, il n’a pas grand choix à faire dans l’itinéraire intérieur de la séduction, dont il est objet. La géographie agit différemment, mais elle confirme dans tous les cas que … <i>tous</i> <i>les</i> <i>chemins</i> <i>mènent</i> <i>à</i> <i>Sauron.</i> Le défi du séducteur est relevé.
 
 En dépit de l’effort de Frodo de se libérer de l’œil qui le regarde et le séduit, il se meurt petit à petit lors de ce voyage et cède à la volonté du maître séducteur (Frodo devient à son tour un devenir). Arrivé à la fin de son voyage, il ne jette plus l’anneau dans le volcan où il a été forgé pour le détruire. <i>Frodo</i> <i>refuse</i> <i>de</i> <i>fermer</i> <i>à</i> <i>jamais</i> <i>l</i>’<i>œil</i> <i>de</i> <i>Sauron.</i>
-<blockquote class="spip">I have come, he said. But I do not choose now to do what I come to do. I will not do this deed. The Ring is mine ! And suddenly, as he set it on his finger, he vanished from Sam’s sight (Tolkien 1991 : 924).</blockquote>
+<blockquote>I have come, he said. But I do not choose now to do what I come to do. I will not do this deed. The Ring is mine ! And suddenly, as he set it on his finger, he vanished from Sam’s sight (Tolkien 1991 : 924).</blockquote>
 Les trois figures de séduits analysées confirment que la séduction tient de l’implicite, comme le montre Mathilde Branthomme, elle se fait dans le secret de chaque conscience, <i>de</i> <i>chaque</i> <i>Voix</i> <i>qui</i> <i>se</i> <i>voit</i> <i>donc</i> <i>infléchie</i> <i>par</i> <i>le</i> <i>Regard.</i> Pour Boromir, la séduction demeure à ses débuts, alors que pour Sméagol/Gollum et pour Frodo, elle fonctionne pleinement. La fin de ce récit est entièrement livrée à ces êtres séduits qui se trouvent seuls en scène. Heureusement, il y a le Hasard qui tranche et fait intervenir Gollum.
-<h3 class="spip">2. Séduction – au-delà de la littérature</h3>
+<h3>2. Séduction – au-delà de la littérature</h3>
 Le récit du <i>Seigneur</i> <i>des</i> <i>Anneaux</i> fictionnalise la séduction pour mieux la donner à penser. En tant que récit mythique, il met à son avantage des propriétés spécifiques au mythe et fait en sorte que le <i>muthos</i> et le <i>logos</i> se rencontrent aussi sur le terrain de la séduction. Le récit mythique est un terrain particulièrement fertile pour l’analyse de la séduction, en tant que « chantier d’expérimentation, voire de jeu, avec les hypothèses les plus variées et fantastiques » (Ricœur 1994 : 215). Par son côté sacré, il assume aussi bien le côté sombre du séducteur, tout comme il assume le côté lumineux de la fin de la séduction dans ce récit, dans le but de révéler l’expérience du Mal.
 
 La séduction faite par et dans le <i>Seigneur</i> <i>des</i> <i>Anneaux</i> problématise la pensée de la séduction comme figure globale. Le récit mythique en tant qu’espace qui permet « l’intimité de l’originel et de l’avenir » (Deleuze 2008 :18) montre que la séduction n’est jamais projetée en dehors du monde des humains et appelle à la penser hors fiction. Une fois l’espace mythique du récit quitté, on entre donc dans celui de la pensée, tout en important les éléments décelés dans le premier.
@@ -98,27 +98,27 @@ Posons la même question « Pourquoi moi » depuis une toute autre perspective
 
 Séduits par un récit qui donne à penser l’Anneau unique comme anneau de séduction. On fait son expérience à travers un rituel, où le symbole devient diabole. Le séducteur dans ce récit est l’œil (unique, du séducteur) qui trompe l’œil (du séduit) et infléchit la Voix de la conscience intérieure. Un Œil qui fait entrer les séduits dans une <i>esthétique</i> <i>de</i> <i>la</i> <i>disparition,</i> dont le mouvement est arrêté uniquement par le Hasard.
 
-&nbsp;
-<h3 class="spip">***</h3>
-Pour Mathilde Branthomme, la séduction est communication, au séducteur ne s’oppose pas le séduit, mais l’ermite (Branthomme 2007). Pour moi, (sous un autre angle), la séduction est une sorte de « <i>spatium</i> intensif » (Deleuze 1967b)<span class="spip_note_ref"> [5]</span>, une profondeur qui préexiste à toute qualité, comme à toute extension. Ce que nous saisissons, c’est sa force (du côté du séducteur ou du séduit) comme vecteur qui va de la mise ensemble, de l’unité et du symbole vers l’éclatement, le fragment et le diabole. Ce que nous ignorons, c’est son étendue (Deleuze 1956c : 296)<span class="spip_note_ref"> [6]</span>. Ce que nous ressentons, c’est le fait que la séduction va « au-delà du bien et du mal » pour se ranger du côté du nécessaire (Cuvillier 1956 : 156)<span class="spip_note_ref"> [7]</span>. Frodo Baggins, porteur d’un anneau qui n’est pas anneau de pouvoir mais anneau de séduction, manque à son devoir de le détruire, de le jeter dans le volcan de la Montagne du Destin. Peut-être, mais jeter l’Anneau unique dans ce volcan aurait signifié de renoncer à la séduction !
+
+<h3>***</h3>
+Pour Mathilde Branthomme, la séduction est communication, au séducteur ne s’oppose pas le séduit, mais l’ermite (Branthomme 2007). Pour moi, (sous un autre angle), la séduction est une sorte de « <i>spatium</i> intensif » (Deleuze 1967b) [5], une profondeur qui préexiste à toute qualité, comme à toute extension. Ce que nous saisissons, c’est sa force (du côté du séducteur ou du séduit) comme vecteur qui va de la mise ensemble, de l’unité et du symbole vers l’éclatement, le fragment et le diabole. Ce que nous ignorons, c’est son étendue (Deleuze 1956c : 296) [6]. Ce que nous ressentons, c’est le fait que la séduction va « au-delà du bien et du mal » pour se ranger du côté du nécessaire (Cuvillier 1956 : 156) [7]. Frodo Baggins, porteur d’un anneau qui n’est pas anneau de pouvoir mais anneau de séduction, manque à son devoir de le détruire, de le jeter dans le volcan de la Montagne du Destin. Peut-être, mais jeter l’Anneau unique dans ce volcan aurait signifié de renoncer à la séduction !
 
 ----
 
 references: 
-- <div class="">
-<div class="">
-<div class="texteItem">
-<div class="crayon article-texte-123 texte surlignable clearfix">
+- 
+
+
+
 <ul>
  	<li>BAUDRILLARD, Jean, « L’Objet comme attracteur étrange », dans <i>La</i> <i>transparence</i> <i>du</i> <i>mal.</i> <i>Essai</i> <i>sur</i> <i>les</i> <i>phénomènes</i> <i>extrêmes,</i> Paris, Galilée, 1990.</li>
  	<li>___, <i>De</i> <i>la</i> <i>séduction,</i> Paris, Denoël, 1990.</li>
- 	<li>BRANTHOMME, Mathilde, « Jouir et mettre à mort : la séduction sacrificielle », dans Loxias, Loxias 18, mis en ligne le 17 juin 2007, [En ligne], <a class="spip_url spip_out auto" href="http://revel.unice.fr/loxias/document.html?id=1770" rel="nofollow external">http://revel.unice.fr/loxias/document.html?id=1770</a>,</li>
+ 	<li>BRANTHOMME, Mathilde, « Jouir et mettre à mort : la séduction sacrificielle », dans Loxias, Loxias 18, mis en ligne le 17 juin 2007, [En ligne], <a href="http://revel.unice.fr/loxias/document.html?id=1770" rel="nofollow external">http://revel.unice.fr/loxias/document.html?id=1770</a>,</li>
  	<li>CUVILLIER, Armand, <i>Vocabulaire</i> <i>philosophique,</i> Paris, Armand Colin, (Livre de poche), 1956.</li>
  	<li>DAY, David, <i>Tolkien.</i> <i>L</i>’<i>encyclopédie</i> <i>illustrée.</i> Paris, (Octopus Hachette pour l’édition française), traduit de l’anglais par Pascal Aubin, 2002.</li>
  	<li>DELEUZE, Gilles, <i>Nietzsche,</i> Paris, P.U.F. (Philosophies), 2008 [1965].</li>
  	<li>___, <i>Le</i> <i>Bulletin</i> <i>de</i> <i>la</i> <i>Société</i> <i>française</i> <i>de</i> <i>philosophie,</i> 61e année, no 3, 1967.</li>
  	<li>___, <i>Différence</i> <i>et</i> <i>répétition.</i> Paris, P.U.F. (Épiméthée), 1968.</li>
- 	<li><i>Dictionnaire</i> <i>philosophique,</i> [En ligne] <a class="spip_url spip_out auto" href="http://www.voltaire-integral.com/Html/19/force.htmOIR" rel="nofollow external">http://www.voltaire-integral.com/Html/19/force.htmOIR</a></li>
+ 	<li><i>Dictionnaire</i> <i>philosophique,</i> [En ligne] <a href="http://www.voltaire-integral.com/Html/19/force.htmOIR" rel="nofollow external">http://www.voltaire-integral.com/Html/19/force.htmOIR</a></li>
  	<li>GADAMER, Hans-Georg, <i>Vérité</i> <i>et</i> <i>méthode,</i> <i>les</i> <i>grandes</i> <i>lignes</i> <i>d’une</i> <i>herméneutique</i> <i>philosophique,</i> Paris (Seuil) 1996.</li>
  	<li>NIETZSCHE, Friedrich, <i>Par</i>-<i>delà</i> <i>le</i> <i>bien</i> <i>et</i> <i>le</i> <i>mal.</i> <i>Prélude</i> <i>à</i> <i>une</i> <i>philosophie</i> <i>de</i> <i>l</i>’<i>avenir,</i> Paris, Livre de poche (Classiques de la philosophie), 2000, p. 160.</li>
  	<li>RICOEUR, Paul, <i>Lectures</i> <i>3.</i> <i>Aux</i> <i>frontières</i> <i>de</i> <i>la</i> <i>philosophie,</i> Paris, Seuil, 1994.</li>
@@ -127,50 +127,50 @@ references:
  	<li>___, <i>Lettres,</i> Paris (Christian Bourgois Éditeur), 2005, traduit de l’anglais par Delphine Martin et Vincent Ferré.</li>
  	<li>VIRILIO, Paul, <i>Esthétique</i> <i>de</i> <i>la</i> <i>disparition,</i> Paris Galilée (Espace critique), 1989.</li>
 </ul>
-</div>
-<div class="notes">
+
+
 
 <hr />
 
-<div id="nb1">
 
-<span class="spip_note_ref">[1] </span>Bien que ma démarche ne s’inscrive pas dans une perspective qui valorise l’intentionnalité de l’auteur, je trouve important de mentionner le fait que, dans une des lettres adressées par Tolkien à l’éditeur Milton Waldman des éditions Collins, il explique que Sauron est un séducteur. Voir « Lettre à Milton Waldman » (Tolkien 2005 : 224).
 
-</div>
-<div id="nb2">
+[1] Bien que ma démarche ne s’inscrive pas dans une perspective qui valorise l’intentionnalité de l’auteur, je trouve important de mentionner le fait que, dans une des lettres adressées par Tolkien à l’éditeur Milton Waldman des éditions Collins, il explique que Sauron est un séducteur. Voir « Lettre à Milton Waldman » (Tolkien 2005 : 224).
 
-<span class="spip_note_ref">[2] </span>Avant le temps du <i>Seigneur</i> <i>des</i> <i>Anneaux,</i> dans la mythologie tolkienienne, Arda, la Terre, devient sphérique. C’est dans cet espace défini pas la circularité que l’on crée l’anneau (circulaire lui aussi).
 
-</div>
-<div id="nb3">
 
-<span class="spip_note_ref">[3] </span>S’y trouvent aussi d’autres victimes, les Cavaliers Noirs (autrefois des rois humains qui aspirèrent tous à l’Anneau du pouvoir et qui payèrent pour leur cupidité, car destinés à errer dans cet espace sans limites et repères pour servir le Seigneur des Anneaux, leur âme ne se reposa jamais).
 
-</div>
-<div id="nb4">
+[2] Avant le temps du <i>Seigneur</i> <i>des</i> <i>Anneaux,</i> dans la mythologie tolkienienne, Arda, la Terre, devient sphérique. C’est dans cet espace défini pas la circularité que l’on crée l’anneau (circulaire lui aussi).
 
-<span class="spip_note_ref">[4] </span>Pour échapper à la colère de Boromir, à ses attaques physiques, Frodo glisse l’anneau au doigt et disparaît.
 
-</div>
-<div id="nb5">
 
-<span class="spip_note_ref">[5] </span>Comme tout <i>spatium,</i> il se définit par une étendue et une profondeur.
 
-</div>
-<div id="nb6">
+[3] S’y trouvent aussi d’autres victimes, les Cavaliers Noirs (autrefois des rois humains qui aspirèrent tous à l’Anneau du pouvoir et qui payèrent pour leur cupidité, car destinés à errer dans cet espace sans limites et repères pour servir le Seigneur des Anneaux, leur âme ne se reposa jamais).
 
-<span class="spip_note_ref">[6] </span>« Que l’étendue sorte des profondeurs, cela n’est pas possible que si la profondeur est définissable indépendamment de l’étendue », ce qui n’est pas notre cas tant que nous identifions les forces de la séduction. Voir Deleuze, Gilles. <i>Différence</i> <i>et</i> <i>répétition.</i> Paris, P.U.F. (Épiméthée), 1968, p. 296.
 
-</div>
-<div id="nb7">
 
-<span class="spip_note_ref">[7] </span>Or, le nécessaire ne précède-t-il pas la qualité ?
 
-</div>
-</div>
-</div>
-</div>
-</div>
+[4] Pour échapper à la colère de Boromir, à ses attaques physiques, Frodo glisse l’anneau au doigt et disparaît.
+
+
+
+
+[5] Comme tout <i>spatium,</i> il se définit par une étendue et une profondeur.
+
+
+
+
+[6] « Que l’étendue sorte des profondeurs, cela n’est pas possible que si la profondeur est définissable indépendamment de l’étendue », ce qui n’est pas notre cas tant que nous identifions les forces de la séduction. Voir Deleuze, Gilles. <i>Différence</i> <i>et</i> <i>répétition.</i> Paris, P.U.F. (Épiméthée), 1968, p. 296.
+
+
+
+
+[7] Or, le nécessaire ne précède-t-il pas la qualité ?
+
+
+
+
+
+
 
 ----
 

@@ -1,18 +1,16 @@
-Title: Anachronisme et intempestivité
+title: Anachronisme et intempestivité
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 2
+number: 2
 
 ----
 
-Intro-text:
-
-Après plusieurs mois de travail soutenu, voici enfin le deuxième numéro de Post-Scriptum.ORG, « Anachronisme et intempestivité : face au temps ».
+intro_text: Après plusieurs mois de travail soutenu, voici enfin le deuxième numéro de Post-Scriptum.ORG, « Anachronisme et intempestivité : face au temps ».
 
 Lorsque ce thème aux échos philosophiques fut proposé au comité de rédaction par André Habib en septembre 2002, son ambition nous a immédiatement séduits, car il correspondait parfaitement au projet qui sous-tend la revue depuis sa fondation. D’abord par sa grande ouverture propice aux réflexions critiques (sur le médium électronique, la lecture et même l’écriture –cf. articles de réflexion rhizomatiques), ensuite par le potentiel qu’il avait de générer un dialogue fructueux entre les disciplines.
 
@@ -26,12 +24,15 @@ Nous devons également saluer le travail admirable accompli par notre increvable
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2003-02-15 00:00:44
 
 ----
 
-Uuid: kt4FgXs4oY4YbWoW
+references: 
+
+----
+

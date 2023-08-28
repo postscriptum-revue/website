@@ -1,18 +1,16 @@
-Title: Entre clichés et préjugés
+title: Entre clichés et préjugés
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 1
+number: 1
 
 ----
 
-Intro-text:
-
-Chacun de nous s’est trouvé confronté aux préjugés. Dans un contexte de tension entre plusieurs cultures, les malentendus s’installent facilement : certaines photos peuvent flatter, d’autres peuvent avoir l’effet inverse ; une image déplaisante, un documentaire peuvent provoquer l’indignation de toute une nation. Préjugés favorables et défavorables sont considérés par les philosophes comme une subjectivité, un conflit entre vérité et non-vérité. Selon Nietzsche, personne ne peut y échapper : « Danger du langage pour la liberté de l’esprit. Chaque mot est préjugé » (<i>Humain, trop humain</i>, dans <i>Œuvres I</i>, Paris, Robert Laffont, 1990 [1878-1879], p. 856). De même, selon Hans Georg Gadamer, toute la tradition est soumise aux préjugés, si bien que « le dépassement de tous les préjugés, cette exigence globale de l’Aufklärung, s’avérera être lui-même un préjugé » (<i>Vérité et méthode</i>, Paris, Éditions du Seuil, 1996 [1960], p. 297). Notre société fonctionne grâce à la fabrication et au recyclage des images à un rythme industriel : la première conséquence est la production d’un monde qui se veut fidèle à la réalité. Le monde médiatique nous entraîne ainsi dans sa production de clichés qui dépasse les sphères de l’actualité.
+intro_text: Chacun de nous s’est trouvé confronté aux préjugés. Dans un contexte de tension entre plusieurs cultures, les malentendus s’installent facilement : certaines photos peuvent flatter, d’autres peuvent avoir l’effet inverse ; une image déplaisante, un documentaire peuvent provoquer l’indignation de toute une nation. Préjugés favorables et défavorables sont considérés par les philosophes comme une subjectivité, un conflit entre vérité et non-vérité. Selon Nietzsche, personne ne peut y échapper : « Danger du langage pour la liberté de l’esprit. Chaque mot est préjugé » (<i>Humain, trop humain</i>, dans <i>Œuvres I</i>, Paris, Robert Laffont, 1990 [1878-1879], p. 856). De même, selon Hans Georg Gadamer, toute la tradition est soumise aux préjugés, si bien que « le dépassement de tous les préjugés, cette exigence globale de l’Aufklärung, s’avérera être lui-même un préjugé » (<i>Vérité et méthode</i>, Paris, Éditions du Seuil, 1996 [1960], p. 297). Notre société fonctionne grâce à la fabrication et au recyclage des images à un rythme industriel : la première conséquence est la production d’un monde qui se veut fidèle à la réalité. Le monde médiatique nous entraîne ainsi dans sa production de clichés qui dépasse les sphères de l’actualité.
 
 « Entre clichés et préjugés », numéro inaugural de <i>Post-Scriptum.ORG</i>, propose une collection de cinq articles issus d’horizons divers, mais tous les auteurs s’interrogent sur la prégnance de ces deux concepts tant au cinéma que dans la littérature et la presse.
 
@@ -28,12 +26,15 @@ Enfin, Sébastien Côté propose une lecture d’<i>Aurora</i>, de Michel Leiris
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2002-12-15 00:00:54
 
 ----
 
-Uuid: jZvMTnoSXA8lE6w0
+references: 
+
+----
+

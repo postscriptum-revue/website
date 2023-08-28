@@ -1,4 +1,4 @@
-title: [14-01] Ratio.
+title: Ratio.
 
 ----
 
@@ -22,10 +22,10 @@ abstract_en:
 
 ----
 
-text: <div class="">
-<div class="">
-<div class="texteItem">
-<div class="crayon article-texte-44 texte surlignable clearfix">
+text: 
+
+
+
 
 En novembre, les gens attrapent souvent froid pendant la pluie. C’est aussi le cas de D., qui attend déjà que les heures d’ensoleillement augmentent, même si elles viennent tout juste de diminuer.
 
@@ -73,10 +73,10 @@ La Vieille avait réussi à achever tous les mourants.
 
 Elle avait dit : Corps ! Parle-nous de notre chagrin.
 
-</div>
-</div>
-</div>
-</div>
+
+
+
+
 
 ----
 

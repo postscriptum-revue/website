@@ -1,18 +1,16 @@
-Title: Mary Wollstonecraft
+title: Mary Wollstonecraft
 
 ----
 
-Subtitle: Dans l’antichambre du discours contemporain
+subtitle: Dans l’antichambre du discours contemporain
 
 ----
 
-Number: 5
+number: 5
 
 ----
 
-Intro-text:
-
-<i>*English version follows</i>
+intro_text: <i>*English version follows</i>
 
 On peut se demander pourquoi Mary Wollstonecraft fait l’objet d’un numéro thématique dans une revue interdisciplinaire. L’envergure de ses connaissances et sa polyvalence méritent assurément qu’on ravive l’intérêt tant à l’égard de son œuvre que de sa personne. En effet, Mary Wollstonecraft est sans aucun doute une figure d’exception du XVIIIe siècle. Fille de révérend, elle a été gouvernante, a fondé sa propre école en plus de travailler dans le domaine de l’édition. Bien qu’elle ne fût pas instruite dans un cadre formel, cette autodidacte et libre penseur a occupé le poste d’assistante pour l’<i>Analytical Review</i>, revue pour laquelle elle était responsable des critiques et des traductions. Parmi ses réalisations, notons <i>The Importance of Religious Opinions</i>, <i>Morality, for the Use of Children</i> et <i>Young Grandison</i>, respectivement traduits du français, de l’allemand et du néerlandais. Elle fut mère avant le mariage à une époque où cette situation était inhabituelle, mais plus important encore, ses réflexions ont mis à l’avant-plan des propositions idéologiques. Malgré la nouveauté du concept des droits de l’homme, elle a réclamé avec véhémence que les femmes y fussent incluses. Lorsqu’on réfléchit un moment pour considérer l’actuelle sous-représentation des femmes en politique, on constate que ses réflexions étaient révolutionnaires. Cette dissidente rationnelle pensait toujours les choses en vue de leurs conclusions logiques.
 
@@ -20,7 +18,7 @@ Comme le démontrent Gough et Gibbels, Wollstonecraft est une excellente et subt
 
 Malgré les différents éclairages sur son œuvre contenus dans ce numéro, aucun article ne s’attarde à ses récits de voyages ni à sa biographie. Au même titre que Bartlett, qui apporte une perspective poststructuraliste sur Wollstonecraft, on se demande encore si des approches postcoloniales auraient pu stimuler ou enrichir la réflexion sur son œuvre. Dans le cadre de son étude sur la rhétorique, Gibbels traite de la traduction de Wollstonecraft en l’allemand, alors que les traductions effectuées par Wollstonecraft elle-même n’ont pas fait l’objet de propositions pour ce numéro. On peut donc considérer que de nouvelles perspectives théoriques constituent une des avenues possibles des futures études wollstonecraftiennes. Ainsi, de tels apports théoriques nous permettraient d’apprécier davantage son caractère novateur, et c’est en cela que le titre de ce numéro, « Mary Wollstonecraft : dans l’antichambre du discours contemporain », prend tout son sens.
 
-&nbsp;
+
 
 <i>Mary Wollstonecraft : Ushering in Contemporary Discourse</i>
 
@@ -32,12 +30,15 @@ Yet with all these perspectives on her work, there were no articles discussing h
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2005-08-15 00:00:39
 
 ----
 
-Uuid: V0GxdzHK75VTkOuT
+references: 
+
+----
+

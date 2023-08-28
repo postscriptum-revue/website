@@ -1,4 +1,4 @@
-title: [03-05] La présence de Huck Finn dans Beloved
+title: La présence de Huck Finn dans Beloved
 
 ----
 
@@ -22,15 +22,15 @@ abstract_en: Toni Morrison’s novel, Beloved (1987), is the story of a runaway 
 
 ----
 
-text: <div class="crayon article-texte-81 texte surlignable clearfix">
+text: 
 
-<span class="spip_note_ref"> [1]</span>
-<h3 class="spip">Introduction</h3>
+ [1]
+<h3>Introduction</h3>
 Paru en 1987 aux États-Unis, c’est-à-dire un peu plus de cent ans après la première édition de <i>Huckleberry</i> <i>Finn,</i> le roman <i>Beloved</i> de Toni Morrison fait écho, tant de manière implicite qu’explicite, au célèbre roman de Mark Twain. En effet, une scène entière apparaît comme le double d’un passage du roman de Twain, ce qui établit entre les deux œuvres originales un lien qui crée un réseau de cohérence intertextuelle. Comment ce lien est-il maintenu lorsque <i>Beloved</i> traverse les frontières de la traduction ? Quelles résonances les allusions au premier roman trouvent-elles dans le texte traduit ? À partir d’une analyse sémiotique des trois œuvres à l’étude (les romans originaux et la traduction française de <i>Beloved),</i> le présent article vise à montrer l’importance de l’intertextualité comme outil d’interprétation traductologique. À travers la symbolique des réseaux de termes, la réplication des dialogues, l’utilisation des sociolectes (en particulier le <i>Black</i> <i>English),</i> et les liens narratifs, <i>Beloved,</i> dans sa version originale, évoque <i>Adventures</i> <i>of</i> <i>Huckleberry</i> <i>Finn.</i> Ces multiples lieux où se manifeste le roman de Twain créent une véritable unité organique entre les deux œuvres, cohérence intertextuelle qui, de la même façon que les autres composantes d’un roman, comporte son lot de résistances à la traduction. Or l’intertextualité, en tant que partie intrinsèque de l’œuvre originale, devrait, au même titre que l’humour ou les variétés dialectales, être réactualisée dans le texte traduit. Il s’agira, dans un premier temps, de voir comment cette cohérence intertextuelle se crée entre les deux romans et, dans un deuxième temps, de considérer les avenues possibles de sa réalisation en traduction.
-<h3 class="spip"><i>Huckleberry</i> <i>Finn</i> et <i>Beloved</i> : des liens intertextuels</h3>
-Publié en 1885 aux États-Unis, <i>Adventures</i> <i>of</i> <i>Huckleberry</i> <i>Finn</i> de Mark Twain met en scène deux protagonistes principaux, Huck et Jim. Après avoir entendu sa maîtresse raconter qu’elle voulait se débarrasser de lui et le vendre à un marchand d’esclaves, le personnage de Jim, un esclave noir, décide de s’enfuir et, sur son chemin, il fait la rencontre de Huckleberry Finn, un jeune garçon blanc de 12, 13 ou 14 ans (son âge véritable n’est pas connu de la critique). Il s’enfuit également, mais, pour sa part, il fuit la violence de son père, ce dernier représentant par excellence le Blanc raciste au sein du roman. Huck fuit donc non seulement ce père dangereux, mais également une <i>sivilization</i> —orthographe déviante lourde d’ironie et de mépris—, essentiellement esclavagiste (Barksdale 1992 : 49)<span class="spip_note_ref"> [2]</span>.
+<h3><i>Huckleberry</i> <i>Finn</i> et <i>Beloved</i> : des liens intertextuels</h3>
+Publié en 1885 aux États-Unis, <i>Adventures</i> <i>of</i> <i>Huckleberry</i> <i>Finn</i> de Mark Twain met en scène deux protagonistes principaux, Huck et Jim. Après avoir entendu sa maîtresse raconter qu’elle voulait se débarrasser de lui et le vendre à un marchand d’esclaves, le personnage de Jim, un esclave noir, décide de s’enfuir et, sur son chemin, il fait la rencontre de Huckleberry Finn, un jeune garçon blanc de 12, 13 ou 14 ans (son âge véritable n’est pas connu de la critique). Il s’enfuit également, mais, pour sa part, il fuit la violence de son père, ce dernier représentant par excellence le Blanc raciste au sein du roman. Huck fuit donc non seulement ce père dangereux, mais également une <i>sivilization</i> —orthographe déviante lourde d’ironie et de mépris—, essentiellement esclavagiste (Barksdale 1992 : 49) [2].
 
-Outre les nombreuses aventures que partageront les deux protagonistes, une thématique principale traverse toute l’œuvre : la dénonciation des préjugés racistes de l’époque (Lavoie 2002). Cette dénonciation prend diverses formes : caractérisation négative de la plupart des personnages blancs (dont le père de Huck, Miss Watson, le duc et le roi), recours aux sociolectes à des fins non conventionnelles et subversion des codes littéraires. En effet, <i>Adventures</i> <i>of</i> <i>Huckleberry</i> <i>Finn</i> est un roman qui déstabilise une tradition littéraire bien connue au XIXe siècle, celle du <i>plantation</i> <i>novel,</i> un courant pro-esclavagiste. Les romans de cette tradition représentaient les Noirs comme étant inférieurs, en les mettant côte à côte avec un narrateur extrêmement instruit, qui s’exprimait dans un anglais châtié<span class="spip_note_ref"> [3]</span>. Twain subvertit cette pratique en se servant de Huck Finn comme narrateur du livre.
+Outre les nombreuses aventures que partageront les deux protagonistes, une thématique principale traverse toute l’œuvre : la dénonciation des préjugés racistes de l’époque (Lavoie 2002). Cette dénonciation prend diverses formes : caractérisation négative de la plupart des personnages blancs (dont le père de Huck, Miss Watson, le duc et le roi), recours aux sociolectes à des fins non conventionnelles et subversion des codes littéraires. En effet, <i>Adventures</i> <i>of</i> <i>Huckleberry</i> <i>Finn</i> est un roman qui déstabilise une tradition littéraire bien connue au XIXe siècle, celle du <i>plantation</i> <i>novel,</i> un courant pro-esclavagiste. Les romans de cette tradition représentaient les Noirs comme étant inférieurs, en les mettant côte à côte avec un narrateur extrêmement instruit, qui s’exprimait dans un anglais châtié [3]. Twain subvertit cette pratique en se servant de Huck Finn comme narrateur du livre.
 
 L’histoire est donc racontée à travers la voix de ce jeune garçon qui, étant donné qu’il est issu d’un milieu où l’instruction est condamnée et mal vue, s’exprime dans un anglais non standard. Le fait d’avoir placé le sociolecte de Jim vis-à-vis d’une narration également vernacularisée a pour conséquence de déstabiliser les conventions littéraires de l’époque. Jim n’est donc pas ridiculisé par la voix du narrateur, au contraire, les deux instances peuvent presque être placées sur un pied d’égalité.
 
@@ -38,10 +38,10 @@ Un peu plus de cent ans plus tard, Toni Morrison publie <i>Beloved</i> (prix Pul
 
 Comme on le sait, Huck est presque un orphelin : sa mère est décédée et Huck souhaiterait ne pas avoir de père, vu le danger qu’il représente. On apprendra dans <i>Beloved</i> qu’Amy, la jeune fille blanche, a aussi perdu sa mère, et il ne sera pas question de son père ; elle est donc presque orpheline elle aussi. Une certaine parenté peut donc être établie entre la caractérisation des deux personnages. Comme on le verra plus loin, les rapprochements ne s’arrêtent pas là.
 
-D’autre part, on retrouve dans <i>Huckleberry</i> <i>Finn</i> un réseau de termes assumant une fonction symbolique particulière. C’est le cas des mots <i>snake</i> et <i>catfish.</i> Le premier fait référence, dans le roman de Twain, à l’esclavage, à ce mal qui ronge les États-Unis. Or, le passage de la fuite chez Morrison fait état de trois occurrences du mot <i>snake</i> (p. 31-32, 34), les deux premières font référence à Sethe elle-même, qui se compare à un serpent prêt à attaquer, et la dernière représente un danger : Amy prévient Sethe que si elle reste allongée dans l’herbe, un serpent pourrait la mordre. Dans <i>Huckleberry</i> <i>Finn,</i> Jim se fait réellement mordre par un serpent et le père de Huck, dans son délire, croit que des serpents grimpent sur lui. Quant au <i>catfish,</i> il représente une sorte de bien-être, qui passe par la nourriture. Pendant leur voyage sur le Mississippi, Huck raconte qu’il a pêché un gros poisson-chat ; quant à Amy, elle affirme également avoir attrapé un <i>catfish</i><span class="spip_note_ref"> [4]</span>.
+D’autre part, on retrouve dans <i>Huckleberry</i> <i>Finn</i> un réseau de termes assumant une fonction symbolique particulière. C’est le cas des mots <i>snake</i> et <i>catfish.</i> Le premier fait référence, dans le roman de Twain, à l’esclavage, à ce mal qui ronge les États-Unis. Or, le passage de la fuite chez Morrison fait état de trois occurrences du mot <i>snake</i> (p. 31-32, 34), les deux premières font référence à Sethe elle-même, qui se compare à un serpent prêt à attaquer, et la dernière représente un danger : Amy prévient Sethe que si elle reste allongée dans l’herbe, un serpent pourrait la mordre. Dans <i>Huckleberry</i> <i>Finn,</i> Jim se fait réellement mordre par un serpent et le père de Huck, dans son délire, croit que des serpents grimpent sur lui. Quant au <i>catfish,</i> il représente une sorte de bien-être, qui passe par la nourriture. Pendant leur voyage sur le Mississippi, Huck raconte qu’il a pêché un gros poisson-chat ; quant à Amy, elle affirme également avoir attrapé un <i>catfish</i> [4].
 
 Autre parallèle entre les deux romans, Sethe croit au départ que la voix qu’elle entend dans les bois est celle d’un garçon blanc :
-<blockquote class="spip">Sethe had not heard the walking, but suddenly she heard the standing still and then she smelled the hair. The voice, saying, “Who’s in there ?” was all she needed to know that she was about to be discovered by a white boy. […]
+<blockquote>Sethe had not heard the walking, but suddenly she heard the standing still and then she smelled the hair. The voice, saying, “Who’s in there ?” was all she needed to know that she was about to be discovered by a white boy. […]
 
 So she raised up on her elbow and dragged herself, one pull, two, three, four, toward the young white voice talking about “Who that back in there ?”
 
@@ -53,7 +53,7 @@ Her name was Amy and she needed beef and pot liquor like nobody in this world. A
 Non seulement l’allusion à la voix d’un garçon blanc est-elle saisissante, mais la description du personnage d’Amy (<i>raggediest</i>-<i>looking</i> <i>trash)</i> ainsi que sa voix (recours au terme de <i>nigger,</i> double négation dans : <i>If</i> <i>that</i> <i>don</i>’<i>t</i> <i>beat</i> <i>all)</i> rappellent sans contredit le personnage de Huck, ce jeune vagabond aux vêtements débraillés et sales qui s’exprime de manière directe et parfois crue. De plus, il est intéressant de noter que, même après avoir bavardé avec Amy, Sethe continuera de dire que sa voix est masculine : « The sound of that voice, like a sixteen-year-old boy’s, going on and on and on [...] » (<i>Beloved</i> : 34). En définitine, il serait possible d’affirmer que le personnage d’Amy correspond à Huck Finn déguisé en fille, puisque tous deux ont une attitude et une voix similaires, et qu’ils sont vêtus de la même façon.
 
 En plus des rapprochements s’établissant sur le plan diégétique (composantes narrative et descriptive), des liens se manifestent également au sein des dialogues. Il convient donc de s’arrêter sur les scènes d’évasion des deux romans, d’abord celle tirée de <i>Huckleberry</i> <i>Finn</i> (la première réplique est de Huck) :
-<blockquote class="spip">“<i>How do you come to be here, Jim, and how’d you get here</i> ?”
+<blockquote>“<i>How do you come to be here, Jim, and how’d you get here</i> ?”
 
 He looked pretty uneasy, and didn’t say nothing for a minute. Then he says :
 
@@ -67,7 +67,7 @@ He looked pretty uneasy, and didn’t say nothing for a minute. Then he says :
 
 “Well, I b’lieve you, Huck. I — <i>I</i> <i>run</i> <i>off.</i>” (<i>HF,</i> chap. VIII : 38-39 ; nous soulignons.)</blockquote>
 Voici maintenant le passage de la fuite apparaissant dans <i>Beloved</i> (la première réplique est d’Amy) :
-<blockquote class="spip">“<i>What you doing back up in here</i> ?”
+<blockquote>“<i>What you doing back up in here</i> ?”
 
 Down in the grass, like the snake she believed she was, Sethe opened her mouth, and instead of fangs and a split tongue, out shot the truth.
 
@@ -86,14 +86,14 @@ Lorsque les deux personnages blancs demandent aux personnages noirs la raison de
 
 L’élément intertextuel le plus percutant réside bien sûr dans l’occurrence du terme de <i>huckleberries.</i> Cette recherche de nourriture était par ailleurs présente dans le roman de Twain (ce passage n’apparaît pas dans l’extrait cité), où Jim disait à Huck Finn qu’il s’était nourri de <i>strawberries</i> durant son séjour sur l’île Jackson. Ainsi, le référent intertextuel peut à la fois être relié à une thématique abordée chez Twain et à l’ensemble de l’œuvre elle-même, ce qui est corroboré par toute une série de liens narratifs et dialogaux comme ceux démontrés plus haut.
 
-Enfin, le dernier parallèle pouvant être établi entre les deux romans repose sur la présence du <i>Black</i> <i>English.</i> L’utilisation que fait Morrison de cette langue est nettement réduite en comparaison à Twain ; une véritable évolution semble s’être opérée. Cependant, il est intéressant de noter que Morrison admet être retournée à l’œuvre de Twain avant de se mettre à sa propre écriture<span class="spip_note_ref"> [5]</span>. On peut donc dire de Morrison qu’elle saupoudre son roman de marqueurs généralement associables au <i>Black</i> <i>English,</i> et que, à la lecture, ce saupoudrage produit un effet de réel suffisant pour que le lecteur sache qu’il est en présence de ce sociolecte.
+Enfin, le dernier parallèle pouvant être établi entre les deux romans repose sur la présence du <i>Black</i> <i>English.</i> L’utilisation que fait Morrison de cette langue est nettement réduite en comparaison à Twain ; une véritable évolution semble s’être opérée. Cependant, il est intéressant de noter que Morrison admet être retournée à l’œuvre de Twain avant de se mettre à sa propre écriture [5]. On peut donc dire de Morrison qu’elle saupoudre son roman de marqueurs généralement associables au <i>Black</i> <i>English,</i> et que, à la lecture, ce saupoudrage produit un effet de réel suffisant pour que le lecteur sache qu’il est en présence de ce sociolecte.
 
 Le lien sociolectal entre les deux œuvres se manifeste surtout sur le plan morphologique : absence de marque à la troisième personne du singulier (<i>she</i> <i>don</i>’<i>t,</i> plutôt que <i>she</i> <i>doesn</i>’<i>t,</i> par exemple dans <i>Beloved,</i> et <i>it</i> <i>doan</i>’ [<i>don</i>’<i>t</i>], plutôt que <i>it</i> <i>doesn</i>’<i>t</i> dans <i>Huckleberry</i> <i>Finn)</i> ; élision sporadique de la marque du passé (<i>the</i> <i>one</i> <i>I</i> <i>was</i> <i>carrying</i> <i>when</i> <i>I</i> <i>run</i> <i>away,</i> plutôt que <i>when</i> <i>I</i> <i>ran</i> <i>away,</i> dans <i>Beloved,</i> et <i>the</i> <i>widder</i> <i>she</i> <i>try</i> plutôt que <i>she</i> <i>tried,</i> dans le roman de Twain) ; et élision du verbe auxiliaire (<i>what</i> <i>you</i> <i>think,</i> plutôt que <i>what</i> <i>do</i> <i>you</i> <i>think ?,</i> ou encore <i>why</i> <i>you</i> <i>say</i> <i>that,</i> plutôt que <i>why</i> <i>do</i> <i>you</i> <i>say</i> <i>that</i> chez Morrison ; et <i>bank</i> <i>too</i> <i>bluff</i> plutôt que <i>bank</i> <i>was</i> <i>too</i> <i>bluff</i> chez Twain). Mis à part les deux premiers types de variations, qui sont présents chez les deux auteurs (mais de façon réduite chez Morrison), l’élision de la copule apparaît beaucoup plus fréquemment dans <i>Beloved.</i> Enfin, sur le plan phonétique, les différences entre les deux œuvres sont assez considérables, Morrison n’ayant presque pas recours à des marqueurs de ce type, alors que Twain les utilise abondamment (pensons par exemple aux nombreuses élisions des lettres finales, <i>door</i> devient <i>do</i>’, <i>child</i> est transformé en <i>chile,</i> <i>around</i> est orthographié <i>aroun</i>’, mais surtout au remplacement du <i>th</i> par le son <i>d,</i> principale transformation permettant d’identifier la parole de Jim). Toutefois, malgré ces différences, il reste que la présence du <i>Black</i> <i>English</i> dans <i>Beloved</i> fait écho au roman de Twain, son utilisation est seulement plus restreinte, fort probablement pour assurer une plus grande lisibilité et peut-être aussi pour répondre à de nouvelles conventions romanesques.
 
-Quelles étaient les intentions de Morrison lorsqu’elle a inscrit cette allusion au célèbre roman de Twain dans son œuvre ? L’a-t-elle fait délibérément ou inconsciemment ? Une chose semble certaine : l’inscription de cette intertextualité a pour conséquence de réhabiliter un roman qui est l’objet de critiques répétées depuis sa parution aux États-Unis il y a plus d’un siècle<span class="spip_note_ref"> [6]</span>. Aucun procédé ironique qui aurait pour résultat de discréditer l’œuvre de Twain n’est utilisé par Morrison. D’ailleurs, sa position sur ce roman est plutôt positive. Dans un essai consacré à la présence noire au sein de la littérature américaine, Morrison écrit : « On this young but streetsmart innocent, Huck, [...] Mark Twain inscribes a critique of slavery and the pretensions of the would-be middle class, a resistance to the loss of Eden and the difficulty of becoming a social individual » (1992 : 55)<span class="spip_note_ref"> [7]</span>. Les nombreuses évocations du roman de Twain dans celui de Morrison s’imbriquent les unes dans les autres et se répondent mutuellement de manière à créer une forte cohésion entre les deux œuvres. Cette cohérence intertextuelle, compte tenu de ses manifestations à la fois explicites et implicites, pose donc des défis de taille à la traduction.
-<h3 class="spip">Traduire l’intertextualité : un projet impossible ?</h3>
+Quelles étaient les intentions de Morrison lorsqu’elle a inscrit cette allusion au célèbre roman de Twain dans son œuvre ? L’a-t-elle fait délibérément ou inconsciemment ? Une chose semble certaine : l’inscription de cette intertextualité a pour conséquence de réhabiliter un roman qui est l’objet de critiques répétées depuis sa parution aux États-Unis il y a plus d’un siècle [6]. Aucun procédé ironique qui aurait pour résultat de discréditer l’œuvre de Twain n’est utilisé par Morrison. D’ailleurs, sa position sur ce roman est plutôt positive. Dans un essai consacré à la présence noire au sein de la littérature américaine, Morrison écrit : « On this young but streetsmart innocent, Huck, [...] Mark Twain inscribes a critique of slavery and the pretensions of the would-be middle class, a resistance to the loss of Eden and the difficulty of becoming a social individual » (1992 : 55) [7]. Les nombreuses évocations du roman de Twain dans celui de Morrison s’imbriquent les unes dans les autres et se répondent mutuellement de manière à créer une forte cohésion entre les deux œuvres. Cette cohérence intertextuelle, compte tenu de ses manifestations à la fois explicites et implicites, pose donc des défis de taille à la traduction.
+<h3>Traduire l’intertextualité : un projet impossible ?</h3>
 En 1989, les Éditions 10/18 publient une traduction française du roman de Morrison. Intitulé <i>Beloved,</i> le texte traduit est signé par Hortense Chabrier et Sylviane Rué. Voici leur version de l’extrait cité précédemment :
-<blockquote class="spip">— Qu’est-ce que tu fais ici là-haut ?
+<blockquote>— Qu’est-ce que tu fais ici là-haut ?
 
 Aplatie dans l’herbe, comme le serpent qu’elle croyait être, Sethe ouvrit la bouche, et au lieu de crocs et de langue fourchue, ce fut la vérité qui jaillit.
 
@@ -110,22 +110,22 @@ Sethe tenta de se mettre en position assise, mais n’y parvint pas.
 — J’voudrais mourir tellement que j’ai faim. (La fille déplaça les yeux lentement, examinant la verdure alentour.) J’pensais qu’il y aurait des myrtilles. On aurait pu le croire. C’est pour ça que je suis montée par ici. J’m’attendais pas à trouver une négresse. S’il y en a eu, les oiseaux les ont mangées. Tu aimes les myrtilles ?
 
 — Je suis en train d’accoucher, mademoiselle. (<i>Beloved,</i> 1989 : 52 ; nous soulignons)</blockquote>
-Premier constat : le terme de <i>huckleberries</i> a été rendu par celui de <i>myrtille.</i> Ainsi, sur le plan strictement explicite, l’allusion à <i>Huckleberry</i> <i>Finn</i> est complètement escamotée. Deuxième constat : la façon dont le <i>Black</i> <i>English</i> a été traduit. Ce lien sociolectal entre les deux romans de départ présente une véritable résistance à la traduction. En effet, si on veut établir le même parallèle entre les deux œuvres traduites, on se trouve devant une sorte de <i>vide</i> <i>de</i> <i>forme,</i> car il n’existe pas une traduction du roman où le parler du personnage de Jim soit associable à une parole noire en français<span class="spip_note_ref"> [8]</span>. Cependant, si tel avait été le cas, les traductrices de <i>Beloved</i> auraient pu s’inspirer de cette parole noire en français et lui emprunter divers traits de surface (phonétiques, syntaxiques, lexicaux, etc.). Malheureusement, il n’existe pas de version française du roman de Twain où cette parole noire soit représentée, Chabrier et Rué ont donc opté pour un français standard, la solution retenue par la plupart des traducteurs lorsqu’ils font face au <i>Black</i> <i>English.</i>
+Premier constat : le terme de <i>huckleberries</i> a été rendu par celui de <i>myrtille.</i> Ainsi, sur le plan strictement explicite, l’allusion à <i>Huckleberry</i> <i>Finn</i> est complètement escamotée. Deuxième constat : la façon dont le <i>Black</i> <i>English</i> a été traduit. Ce lien sociolectal entre les deux romans de départ présente une véritable résistance à la traduction. En effet, si on veut établir le même parallèle entre les deux œuvres traduites, on se trouve devant une sorte de <i>vide</i> <i>de</i> <i>forme,</i> car il n’existe pas une traduction du roman où le parler du personnage de Jim soit associable à une parole noire en français [8]. Cependant, si tel avait été le cas, les traductrices de <i>Beloved</i> auraient pu s’inspirer de cette parole noire en français et lui emprunter divers traits de surface (phonétiques, syntaxiques, lexicaux, etc.). Malheureusement, il n’existe pas de version française du roman de Twain où cette parole noire soit représentée, Chabrier et Rué ont donc opté pour un français standard, la solution retenue par la plupart des traducteurs lorsqu’ils font face au <i>Black</i> <i>English.</i>
 
 Le passage de l’intertextualité en traduction n’est toutefois pas voué à l’échec, et ce, pour deux raisons. La première est la suivante : l’intertexte peut passer surtout lorsqu’il se manifeste sur le plan implicite. De la même manière que les présupposés linguistiques sont davantage susceptibles d’être transmis de l’oral à l’écrit —par opposition aux accents, à l’intonation ou au rythme, qui ne peuvent être recréés fidèlement à l’intérieur d’une œuvre romanesque (Lane-Mercier 1989)—, l’intertexte dont les manifestations sont implicites a de fortes chances de passer d’un roman traduit à un autre. Ainsi, un lecteur lisant la version française de <i>Beloved</i> peut se rappeler que Twain abordait une thématique similaire —l’évasion, la fuite de l’esclave et l’aide d’un Blanc— et l’intertextualité peut opérer.
 
 Par ailleurs, sur le plan matériel, ou encore formel, c’est-à-dire pour tout ce qui touche les référents explicites au premier roman, l’intertextualité reste lettre morte : d’une part, parce que les <i>huckleberries</i> deviennent des <i>myrtilles</i> (le mieux aurait été de recourir à l’emprunt pur et simple) et, d’autre part, parce que la parole noire n’est pas reconnaissable en français. Il faudrait peut-être (et c’est la deuxième raison pour laquelle on peut affirmer que le passage de l’intertextualité est possible) retraduire aussi bien le roman de Twain que celui de Morrison en ayant recours à une variété de français créolisé (Lavoie 1997). La parole noire représentée dans les œuvres d’auteurs antillais comme Patrick Chamoiseau ou Gisèle Pineau est tout à fait accessible et compréhensible pour un lecteur francophone non créolophone. Dès lors, en établissant un lien entre ces deux variétés de langue —le <i>Black</i> <i>English</i> et le français créolisé— l’intertextualité pourrait passer aux deux niveaux, tant explicite qu’implicite. La cohérence qui s’était organisée entre les textes de départ pourrait donc, plutôt qu’être effacée par la traduction, opérer de nouveau.
-<h3 class="spip">Conclusion</h3>
+<h3>Conclusion</h3>
 L’intertextualité en traduction permet de toucher du doigt ce que Barbara Folkart appelle la <i>marge</i> <i>traductionnelle.</i> En effet, là où le texte source de Morrison rappelait une œuvre forte à l’aide de procédés à la fois évidents (référence aux <i>huckleberries)</i> et subtils (inversion des rôles masculins-féminins, symbolique des termes, saupoudrage sociolectal), le texte cible ne parvient pas à faire mouche. Toute l’ampleur de l’écart traductionnel se trouve matérialisée dans ce non-transfert intertextuel. Le dialogue et la cohérence qui se tissaient entre les textes de Twain et de Morrison ne passent pas complètement l’épreuve de la traduction. Or, la réussite, sorte de passage parfait de cette intertextualité, est à l’avance impossible. Entreprise parsemée d’embûches, la traduction ouvre plutôt des possibles littéraires (liens entre le français créolisé et le <i>Black</i> <i>English,</i> allusions à des romans franco-antillais), permettant dès lors de créer des dialogues intertextuels imprévus.
 
 En définitive, cette brève analyse illustre bien le défi que pose la traduction de l’intertextualité, ainsi que les limites d’une telle entreprise. D’autres études seraient à entreprendre qui viseraient notamment à identifier l’intertextualité entre deux ou plusieurs œuvres, le passage de cette intertextualité une fois effectuée l’opération de traduction, et les stratégies déployées par les traducteurs pour réactiver les réseaux récurrents d’un roman à l’autre. Peut-être serions-nous surpris de constater que non seulement les textes originaux, mais aussi les traductions se parlent entre elles, qu’elles sont reliées les unes aux autres, qu’elles créent, à leur tour (et peut-être à leur façon), des renvois et des références de toutes sortes, permettant au lecteur de prendre plaisir autant à lire l’un que l’autre.
 
-</div>
+
 
 ----
 
 references: 
-- <div class="crayon article-texte-81 texte surlignable clearfix">
+- 
 <ul>
  	<li>BARKSDALE, Richard K., « History, Slavery, and Thematic Irony in <i>Huckleberry</i> <i>Finn</i> », dans James S. LEONARD, Thomas A. TENNEY et Thadious M. DAVIS (eds.), <i>Satire</i> <i>or</i> <i>Evasion</i> <i> ?</i> <i>Black</i> <i>Perspectives</i> <i>on</i> Huckleberry Finn, Durham et Londres, Duke University Press, 1992, p. 49-55.</li>
  	<li>FISHKIN, Shelley Fisher, <i>Was</i> <i>Huck</i> <i>Black</i> <i> ?</i> <i>Mark</i> <i>Twain</i> <i>and</i> <i>African</i>-<i>American</i> <i>Voices,</i> New York et Oxford, Oxford University Press, 1993.</li>
@@ -139,52 +139,52 @@ references:
  	<li>___, <i>Playing</i> <i>in</i> <i>the</i> <i>Dark</i> <i> :</i> <i>Whiteness</i> <i>and</i> <i>the</i> <i>Literay</i> <i>Imagination,</i> Cambridge (MA) et Londres, Harvard University Press, 1992.</li>
  	<li>TWAIN, Mark, <i>Adventures</i> <i>of</i> <i>Huckleberry</i> <i>Finn,</i> dans Sculley BRADLEY <i>et</i> <i>al.,</i> <i>A</i> <i>Norton</i> <i>Critical</i> <i>Edition.</i> <i>Samuel</i> <i>Langhorne</i> <i>Clemens,</i> <i>Adventures</i> <i>of</i> <i>Huckleberry</i> <i>Finn.</i> <i>An</i> <i>Authoritative</i> <i>Text</i> <i>Backgrounds</i> <i>and</i> <i>Sources</i> <i>Criticism,</i> second edition, New York et Londres, W. W. Norton &amp; Company, 1977 [1885], p. 1-229.</li>
 </ul>
-</div>
-<div class="notes">
+
+
 
 <hr />
 
-<div id="nb1">
 
-<span class="spip_note_ref">[1] </span>L’auteure tient à remercier Jeanne Dancette, professeure au Département de linguistique et de traduction de l’Université de Montréal, d’avoir relu et commenté une version préliminaire de cet article.
 
-</div>
-<div id="nb2">
+[1] L’auteure tient à remercier Jeanne Dancette, professeure au Département de linguistique et de traduction de l’Université de Montréal, d’avoir relu et commenté une version préliminaire de cet article.
 
-<span class="spip_note_ref">[2] </span>En fait, Huck répète à trois reprises qu’il ne veut pas être <i>sivilized.</i>
 
-</div>
-<div id="nb3">
 
-<span class="spip_note_ref">[3] </span>James Fenimore Cooper, <i>The</i> <i>Spy</i> (1821) ; John Pendleton Kennedy, <i>Swallow</i> <i>Barn</i> (1832) ; William Gilmore Simms, <i>The</i> <i>Yemassee</i> (1835) ; Edgar Allan Poe, « The Gold Bug » (1843) ; Thomas Nelson Page, « Marse Chan », dans <i>In</i> <i>Ole</i> <i>Virginia</i> (1887).
 
-</div>
-<div id="nb4">
+[2] En fait, Huck répète à trois reprises qu’il ne veut pas être <i>sivilized.</i>
 
-<span class="spip_note_ref">[4] </span>Voici respectivement les deux extraits en question : « Well, the days went along [...] ; and about the first thing we done was to bait one of the big hooks with a skinned rabbit and set it and catch a cat-fish that was as big as a man [...], his meat’s as white as snow and makes a good fry » (<i>HF,</i> chap. X : 47) ; « I was fishing off the Beaver once. Catfish in Beaver River sweet as chicken » (<i>Beloved</i> : 34).
 
-</div>
-<div id="nb5">
 
-<span class="spip_note_ref">[5] </span>C’est ce qu’elle affirmait dans une entrevue personnelle accordée à Shelley Fisher Fishkin, une critique littéraire américaine (1993 : 139).
 
-</div>
-<div id="nb6">
+[3] James Fenimore Cooper, <i>The</i> <i>Spy</i> (1821) ; John Pendleton Kennedy, <i>Swallow</i> <i>Barn</i> (1832) ; William Gilmore Simms, <i>The</i> <i>Yemassee</i> (1835) ; Edgar Allan Poe, « The Gold Bug » (1843) ; Thomas Nelson Page, « Marse Chan », dans <i>In</i> <i>Ole</i> <i>Virginia</i> (1887).
 
-<span class="spip_note_ref">[6] </span>Qu’on pense à sa mise à l’index par certaines bibliothèques municipales ou scolaires américaines, par exemple. L’objet de cette censure s’est d’ailleurs déplacé au fil des ans, passant de la critique de la langue de Huck Finn, considérée comme un mauvais exemple pour la jeunesse de l’époque (fin XIXe siècle), à celle de l’occurrence du mot <i>nigger,</i> préjudiciable aux lecteurs noirs.
 
-</div>
-<div id="nb7">
 
-<span class="spip_note_ref">[7] </span>Et, quelques années plus tôt, Morrison affirmait que Huck grandit moralement grâce à son contact avec Jim : « [...] Huck grows up and becomes a moral person because of his association with Jim, a black slave who is called a boy, never a man. To Mark Twain’s credit, he provides the extraordinary scene where you realize that Jim has a wife and a child. He’s trying to get home to them. Huck’s trying to get out to the wild territory, while Jim is trying to get home. Jim tells Huck a terrible story about a time when he told his daughter to shut the door, and she didn’t do it. He told her again, and she didn’t do it. And he got annoyed and he hit her, and then later realized that while she had been sick recently, she had lost her hearing. And suddenly there’s this man who has a context » (entrevue accordée à Bill Moyers, 1989, publiée dans Taylor-Guthrie 1994 : 263).
 
-</div>
-<div id="nb8">
+[4] Voici respectivement les deux extraits en question : « Well, the days went along [...] ; and about the first thing we done was to bait one of the big hooks with a skinned rabbit and set it and catch a cat-fish that was as big as a man [...], his meat’s as white as snow and makes a good fry » (<i>HF,</i> chap. X : 47) ; « I was fishing off the Beaver once. Catfish in Beaver River sweet as chicken » (<i>Beloved</i> : 34).
 
-<span class="spip_note_ref">[8] </span>Excepté la traduction de Suzanne Nétillard (1948), dont les trouvailles sont somme toute assez réduites, aucune version française du roman de Twain ne fait état d’un parler noir.
 
-</div>
-</div>
+
+
+[5] C’est ce qu’elle affirmait dans une entrevue personnelle accordée à Shelley Fisher Fishkin, une critique littéraire américaine (1993 : 139).
+
+
+
+
+[6] Qu’on pense à sa mise à l’index par certaines bibliothèques municipales ou scolaires américaines, par exemple. L’objet de cette censure s’est d’ailleurs déplacé au fil des ans, passant de la critique de la langue de Huck Finn, considérée comme un mauvais exemple pour la jeunesse de l’époque (fin XIXe siècle), à celle de l’occurrence du mot <i>nigger,</i> préjudiciable aux lecteurs noirs.
+
+
+
+
+[7] Et, quelques années plus tôt, Morrison affirmait que Huck grandit moralement grâce à son contact avec Jim : « [...] Huck grows up and becomes a moral person because of his association with Jim, a black slave who is called a boy, never a man. To Mark Twain’s credit, he provides the extraordinary scene where you realize that Jim has a wife and a child. He’s trying to get home to them. Huck’s trying to get out to the wild territory, while Jim is trying to get home. Jim tells Huck a terrible story about a time when he told his daughter to shut the door, and she didn’t do it. He told her again, and she didn’t do it. And he got annoyed and he hit her, and then later realized that while she had been sick recently, she had lost her hearing. And suddenly there’s this man who has a context » (entrevue accordée à Bill Moyers, 1989, publiée dans Taylor-Guthrie 1994 : 263).
+
+
+
+
+[8] Excepté la traduction de Suzanne Nétillard (1948), dont les trouvailles sont somme toute assez réduites, aucune version française du roman de Twain ne fait état d’un parler noir.
+
+
+
 
 ----
 

@@ -1,4 +1,4 @@
-title: [28-07] Les lettres queer
+title: Les lettres queer
 
 ----
 
@@ -22,13 +22,13 @@ abstract_en: This article is a creative research about masculinities and BDSM pr
 
 ----
 
-text: <span style="font-size: 130%;">Fragment I</span>
-« Je suis au cinéma et je pleure. La vie de Colette défile. Je n’ai d’yeux que pour son amant, Missy, Monsieur Belboeuf<a class="sdfootnoteanc" href="#sdfootnote1sym" name="sdfootnote1anc">[1]</a>. C’est la première fois. C’est une expérience troublante, extatique, qui affecte tout mon corps et émeut ma matière imaginaire. Il y a une femme masculine à l’écran qui met en mots son expérience, qui est aimée pour ce qu’elle choisit d’incarner. La perspective de la caméra s’abstient de toute violation de son corps. On ne la rend pas monstrueuse, manquante ou ratée. C’est la première fois. J’apparais dans le réel. C’est trop. Si désiré et pourtant si violent. Je ne serai plus jamais la même. Je ne serai plus jamais le même. »
+text: Fragment I
+« Je suis au cinéma et je pleure. La vie de Colette défile. Je n’ai d’yeux que pour son amant, Missy, Monsieur Belboeuf<a href="#sdfootnote1sym" name="sdfootnote1anc">[1]</a>. C’est la première fois. C’est une expérience troublante, extatique, qui affecte tout mon corps et émeut ma matière imaginaire. Il y a une femme masculine à l’écran qui met en mots son expérience, qui est aimée pour ce qu’elle choisit d’incarner. La perspective de la caméra s’abstient de toute violation de son corps. On ne la rend pas monstrueuse, manquante ou ratée. C’est la première fois. J’apparais dans le réel. C’est trop. Si désiré et pourtant si violent. Je ne serai plus jamais la même. Je ne serai plus jamais le même. »
 
-<span style="font-size: 130%;">Fragment II</span>
+Fragment II
 « B c’est pour brave. Becoming. Bien être. Bien sûr. Bouche. Bercer. Boire. Bâtir. Beat. Bousculer. »
 
-<span style="font-size: 130%;">Lettre : Le plaisir</span>
+Lettre : Le plaisir
 Chère Mariève,
 
 J’étais ravie de recevoir ta lettre. Tu as de ces manières d’entrer en contact avec les gens! Ça me charme beaucoup. Écrire une lettre, aujourd’hui, c’est faire acte de lenteur, un rythme en voie de disparition dans notre société d’aujourd’hui, même dans notre milieu chéri. D’ailleurs, on s’ennuie de toi. Quand reviendras-tu? Est-ce la mauvaise santé qui te tient loin de nous? De moi? As-tu besoin de nourriture ou d’argent? D’une sage ou vilaine compagnie? N’hésite pas à faire appel à moi, au besoin. Je suis là.
@@ -39,10 +39,10 @@ N’oublie pas le plaisir, Mariève. C’est pour ça que j’existe, non? Pour 
 
 Nina
 
-<span style="font-size: 130%;">Fragment III</span>
+Fragment III
 « Dans ma lettre, j’ai évité les noms et adjectifs inclusifs que je m’appose d’ordinaire. J’ai parlé de pronoms inclusifs comme technique d’écriture créative queer… Ça fait bien rangé, bien sage, non menaçant. Ça range l’identité de genre et l’expression de genre du côté de l’art, du côté de l’imagination et de la fiction. Ce qui est subversif à l’ordre dominant, ce n’est pas tant l’écriture fictionnelle, mais l’écriture du réel. J’ai fait ce choix. Je m’y tiens. Il ne me plaît pas, mais je veux mettre toutes les chances de mon côté. Je veux vivre. Je veux une bourse. Je veux écrire et développer ma carrière en tant qu’écrivain·e. Et pour cela, je dois être seulement l’une. Je dois être sage. Je dois éviter les égos des intolérants. Je dois être maligne, ingénieuxe, intelligent·e. »
 
-<span style="font-size: 130%;">Lettre : Différentes masculinités</span>
+Lettre : Différentes masculinités
 Chère Nina,
 
 Ratée. C’est ce qu’elle se dit en se mirant dans les vitrines des magasins, dans les miroirs, dans les étendues d’eau très calme et cristalline. Elle n’est pas assez. Elle est ridicule. Cette chemise. Ce nœud papillon. Cette coupe de cheveux. Ridicule. Elle fait encore manquée. C’est pitoyable. Elle ne réussira jamais à incarner cette image glorieuse de femme masculine qui passe pour un homme. L’image dans sa tête se moque d’elle. Elle la froisse et la jette violemment aux poubelles. Elle sera toujours un garçon manqué. Elle sera toujours aussi une fille manquée. Où peut-elle habiter dans ce monde? Cet entre-deux la détruit. Elle ne sait plus distinguer ses repères, de ses fantasmes et de ses désirs d’incarnation. Elle devient folle. Dépressive.
@@ -55,7 +55,7 @@ Je te ferai bientôt parvenir mes autres réflexions sur les masculinités, apr�
 
 Mariève
 
-<span style="font-size: 130%;">Lettre : Différentes masculinités, 2</span>
+Lettre : Différentes masculinités, 2
 Chère Nina
 
 Il m’est difficile encore de casser les habitudes entretenues au cours des années. Je regarde toujours la masculinité des hommes comme un standard. Mais de la distance commence à s’insinuer dans ces regards; ils se teintent de réflexions, ils articulent mes prises de conscience, ils cassent une vieille histoire. J’y parviendrai, Nina, j’y parviendrai. Regarderais-je autant les hommes comme modèle de masculinité si je croisais quotidiennement, dans la rue, dans le métro, dans les bibliothèques, autant de butchs? Si seulement je ne me sentais pas si isolé·e, Nina. J’ai cette peur au creux de moi, tu sais, ou ce terreau de peur bien épais, bien irrigué, bien riche. Je crains mon identité politique. Parce que cela me rendrait plus réel·le encore. Et j’ai tant appris à ne pas faire confiance à ma propre réalité. J’ai tant appris que ma réalité était menaçante, individuelle, exceptionnelle.
@@ -78,10 +78,10 @@ Merci d’être là. Merci d’exister.
 
 Mariève
 
-<span style="font-size: 130%;">Fragment IV</span>
+Fragment IV
 « Butch est un acronyme pour Beautiful Urge to Change Humanity. »
 
-<span style="font-size: 130%;">Lettre : De l’hétérosexualité partout et de la justice nulle part</span>
+Lettre : De l’hétérosexualité partout et de la justice nulle part
 Chère Mariève
 
 Je me rappelle… au début… au tout début. Genre et orientation se mélangeaient… une des premières fois que je suis sortie dans un bar lesbien, avec des lesbiennes, j’ai adopté un comportement macho. Mon seul contact avec le réel, ma seule façon de percevoir les relations entre gens, était celle des hommes envers des femmes, des hétéros. Je voyais mes rencontres à travers une perspective sexiste, de domination et de misogynie. J’étais l’homme. Je devais agir en conséquence. En conséquence. Répéter les gestes et les paroles et la supériorité de mon père, de mon grand-père, des oncles, du cousin, des collègues de travail, des garçons de classe. Une généalogie de domination. Une perpétuité de violence.
@@ -96,15 +96,15 @@ Aujourd’hui, je comprends. Cette homophobie intériorisée provient d’une co
 
 Nina
 
-<span style="font-size: 130%;">Fragment V</span>
+Fragment V
 « U c’est pour utile. Urge. Up. Urgence. Utterly. »
 
-<span style="font-size: 130%;">Fragment VI</span>
+Fragment VI
 <blockquote>I know what butch is. Butches are a brotherhood, or possibly a sisterhood, which would be a marvelous way to reclaim butch’s roots in the lesbian community except some butches were never part of the lesbian community and some were but aren’t anymore, but placing masculine identities on butches is disrespectful, except when it’s desirable, but anyway, butches are a tribe, a tribe of people who have been maligned endlessly for, and in fact, forged an identity in part out of, not fitting the gendered expectations of the culture in which they exist (until or unless they work to pass as men, which always or never or sometimes happens and is absolutely a great or problematic thing), so butches are very open to gendered variations in others and would never, ever try to make another butch feel like shit for having displayed a behavior which does not fit the microculture’s standard of what it means to be a butch, which is useful or idealized or ridiculous or just plain complicated standard, so it should be adhered to, or critiqued, or aspired to, or not. Butches would also certainly never try to school younger butches in ways that are angry and dangerous because they feel like the process of toughening has disappeared from modern culture and butches need to be tough, dammit. Butches who do those sorts of things either are Real Butches or are Not Real Butches, depending on who you ask.</blockquote>
 <blockquote>There, that should be perfectly clear. (Bergman, 2010 [2006] : 19)
 
-&nbsp;</blockquote>
-<span style="font-size: 130%;">Lettre : Coming out butch et idée de saleté</span>
+</blockquote>
+Lettre : Coming out butch et idée de saleté
 Chère Nina,
 
 Depuis quand me demandes-tu… et tu veux savoir comment j’ai pris conscience de ma butchitude comme j’aime la nommer. C’est complexe. Je m’identifie comme butch depuis peu, trois ans peut-être. L’idée d’une nouvelle différence, en plus de celle de mon lesbianisme, m’obsédait depuis un bon moment avant ce nouveau coming out sans que je le sache vraiment. Elle était diffuse, emportée, illisible. La nouvelle différence s’est affinée peu de temps après une séparation. Elle a obtenu des contours, une matière, un poids. Un nom. Mais il était difficile de l’assumer à cause de sa part d’ombre.
@@ -125,13 +125,13 @@ Je voulais tellement passer. Ces commentaires me tourmentaient. J’en recevais 
 
 Mariève
 
-<span style="font-size: 130%;">Fragment VII</span>
+Fragment VII
 « Avez-vous entendu parler de la vie des Butchs lorsque vous étiez jeune? Avez-vous entendu leurs histoires, leur combat, leur réussite? Avez-vous vu des Butchs à la télévision, sur des affiches, au cinéma, à l’école? Et <i>quid</i> des MOC, des camionneuses, des <i>female husband</i>, des <i>tommys</i>, des <i>old school butches</i>, des <i>new school butches</i>, des <i>stonebutches</i>, des <i>studs</i>, des <i>bulldaggers</i>, des <i>transgender butches</i> ? En parlez-vous à vos enfants, à vos parents? À vos grands-parents? Les désirez-vous? Qui sont vos héros ou héroïnes butch? Ce sont toutes de véritables questions. Répondez-moi. »
 
-<span style="font-size: 130%;">Fragment VIII</span>
+Fragment VIII
 « T c’est pour transformer. Trans. Te dire. Troubler. Trembler. They. »
 
-<span style="font-size: 130%;">Lettre : Butch, sexe et intimité</span>
+Lettre : Butch, sexe et intimité
 Chère Mariève,
 
 L’identité butch vient parfois avec un rôle attendu. Entre autres au lit, surtout avec une butch dominatrix. On s’attend à ce que je mène l’action. Que j’aime l’action. Que je sois même agressive. Que je saute sur les femmes, que j’injure les hommes. On s’attend aussi à ce que je ne désire pas trop être touchée. Apparemment, on ne veut pas de son plaisir, à la butch. Est-il obscène? On ne le conçoit pas, ou très peu. Les butchs, elles donnent sans rien prendre. Ça arrive, oui, elles ont même un nom, les <i>Stone butches</i>, mais elles ne représentent qu’un type d’existence parmi tant d’autres. Au début, Mariève, j’ai appris à refuser mon corps et ses élans. J’ai appris à avoir honte de mon plaisir. Mais aujourd’hui, ce n’est plus le début.
@@ -144,7 +144,7 @@ Hâte à toi,
 
 Nina
 
-<span style="font-size: 130%;">Lettre : Butch, santé et maladie</span>
+Lettre : Butch, santé et maladie
 Chère Nina,
 
 Oui, j’éprouve toujours des problèmes de santé depuis l’an dernier. C’est difficile à gérer avec mon genre. Être malade me force à confronter des impensés qui pourrissent ma vie. Je suis migraineuxe. J’ai fait un surmenage et une dépression. Je fais encore de l’anxiété.
@@ -157,13 +157,13 @@ Pourquoi Nina n’ai-je pu avoir accès à ces voix, à ces représentations, pl
 
 Mariève
 
-<span style="font-size: 130%;">Fragment IX</span>
+Fragment IX
 « En l’an 2055, on a trouvé dans la terre d’une cour de Montréal un paquet bien ficelé rassemblant des lettres, des textes, des réflexions écrites à la main et des portraits, des fragments de poèmes, des écritures inclassables, des extraits de revue. On a décidé de traiter le tout comme un ensemble cohérent, même s’il manque des lettres, une situation d’écriture, un contexte. Avons-nous bien fait? <i>Quid</i> de nos méthodes scientifiques? Mais je, mais nous, enfin il ne semblait pas y avoir d’ordre à proprement parler dans ces écrits. Une étrange mention : je vengerai Gloria, la Gloria de Réjean Ducharme et les femmes masculines d’Élula Perrin, ces “femmes-hommes en costume trois-pièces, laides-hargneuses, caricatures de l’homme dont il leur manquerait toujours quelque chose, ce qui expliquait sans doute leur agressivité” (Perrin, 2003 [1985] : 127). Je vengerai, oui, toutes les masculines de l’histoire littéraire. »
 
-<span style="font-size: 130%;">Fragment X</span>
+Fragment X
 « C c’est pour criminalisée. <i>Change</i>. Chic. Charmante. <i>Caress</i>. Charnel. <i>Buffalo, since 1940.</i> »
 
-<span style="font-size: 130%;">Lettre : Butch et bonheur</span>
+Lettre : Butch et bonheur
 Chère Mariève,
 
 Tu écriras ça dans ton postdoctorat. Être butch, c’est entre autres être heureuse, joyeuse. Personne ne montre ça aux jeunes et aux moins jeunes et aux aîné-e-s en questionnement. Personne ne m’a dit ça. Alors je le dis : voilà, la butchitude peut aussi être définie par le bonheur. On sourit, on s’éclate, on s’amuse, on pleure de joie, on se rétablit d’une santé précaire, on remporte des prix, des bourses, on fête, on accomplit des projets, on réalise des rêves, on écrit des livres, on chante, on bâtit une maison, on lustre les ustensiles, on cuisine des tartes aux pommes, des croustades aux pêches, on coud des culottes, on allume le bbq pour un repas entre ami-e-s, on se fait des ami-e-s. Butch, c’est beau. C’est magnifique. C’est très queer, être butch, Mariève, dans sa simple créativité. Ça déplace des perspectives, des fondations, des racines, des mondes. C’est à la fois confortable et inconfortable. Tant pour soi que pour les autres.
@@ -176,10 +176,10 @@ Je t’attends,
 
 Nina
 
-<span style="font-size: 130%;">Fragment XI</span>
+Fragment XI
 « Il est clair mon privilège de butch cisgenre : j’ai droit à la masculinité parce qu’on m’a identifié·e comme femme à la naissance et que cela correspond socialement, historiquement et stupidement à une sorte d’aspiration sociale vers le haut, à une émulation flatteuse, et non menaçante, de la masculinité des hommes. How violent and fucked up is that? »
 
-<span style="font-size: 130%;">Lettre : Butch, travail et culture</span>
+Lettre : Butch, travail et culture
 Chère Nina,
 
 À ce que je comprends et lis, une identité et une culture butch émerge des classes populaires des années d’après-guerre, vers 1940, aux États-Unis. Les femmes avaient été appelées à travailler en usine, à sortir sur la place publique, pendant que les hommes étaient sur le front. Les femmes portaient des pantalons et des chemises, pour occuper leur nouvelle fonction. Elles ont aimé ça, ces femmes. Elles se sont regardées autrement dans le miroir. Elles se sont coupé les cheveux. Elles se sont regardées autrement les unes les autres. Elles avaient envie de sortir prendre un verre, se promener dans les parcs, à la nuit tombante, le long des ports.
@@ -190,12 +190,12 @@ Voilà, je poursuis mes recherches. Je continue de vivre.
 
 Mariève
 
-<span style="font-size: 130%;">Fragment XII</span>
+Fragment XII
 « Penses-tu que ma lettre est trop réelle? Trop près de la réalité? Trop honnête? Si jamais une personne sur le comité d’évaluation est le moindrement fermé d’esprit par rapport aux personnes marginalisées, homophobe ou je ne sais quoi encore, je suis fait·e. À bien y penser, je suis fait·e aussi si je fais face à des personnes qui se pensent bien ouvertes d’esprit mais qui tracerait une ligne à ne pas dépasser à la liberté d’expression de genre. J’ai peur des vieux bonhommes sexistes et misogynes itou. Ceux qui sont du genre à rire en lisant mes mots, ceux qui me définissent, ceux qui sont du genre à se montrer condescendant. Qui pensent que ça ne fait pas professionnel ou qui sont eux-mêmes des femmes lesbiennes apparemment… Suis-je trop honnête dans cette lettre, Nina? Combien de gens se posent cette question en rédigeant une lettre de demande de poste? Combien de gens doivent nuancer leur honnêteté, leurs identités, de peur qu’elles ne déclenchent des personnes? Combien de gens doivent s’effacer? Combien de gens doivent se présenter impeccable? Hétéro? Beau garçon ou jolie fille? Ici, j’ai fait ce choix de m’afficher comme je suis. Car j’ai vu directement les bienfaits de cette honnêteté auprès des étudiant·es. Et de moi aussi. Apparaître, c’est bon aussi pour les autres. Ça les fait souffler. Ça les fait vivre. J’ai un devoir envers ma communauté et envers moi-même. Je me sens prêt à l’assumer, mais je dois t’avouer que mon courage et ma fierté ne vont pas sans peur.
 
 La peur d’être utilisée itou, comme un symbole de subvention, comme un signe de piastres. Va-t-on sélectionner mon dossier pour bien faire? Pour se montrer ouvert? Civilisé? Va-t-on considérer mon dossier pour au moins avoir une butch dans le département? Se vanter d’avoir un·e membre de la communauté LGBTIQ2A+? »
 
-<span style="font-size: 130%;">Lettre : Butch, aînées, enfants et famille</span>
+Lettre : Butch, aînées, enfants et famille
 Chère Nina,
 
 Elle était habitué·e de percevoir les butchs comme des individus étiolé·es, comme des astres errants hors de toute communauté stellaire. C’était une manière inédite de faire face à l’errance, à la perte, à la solitude et au deuil. Elle était conditionné·e à voir les butchs comme des singularités qui naissaient et mourraient d’elles-mêmes dans des mondes pas faits pour elles. Comme des êtres hors du temps condamné·es à ne pas ressentir une autre appartenance que celle à leur propre corps, à leur propre cœur. Un destin en forme de trou noir.
@@ -216,15 +216,15 @@ Elle ne savait pas qu’elle avait une famille, Nina. Elle ne le savait pas. Ell
 
 Mariève
 
-<span style="font-size: 130%;">Fragment XIII</span>
+Fragment XIII
 Voici comment je décrirais une perspective butch à la suite de lectures et d’inspirations variées :
 <blockquote>-une perspective qui problématise la masculinité, plus particulièrement son unique association aux hommes, et la minorisation qui l’affecte lorsqu’elle est associée aux femmes, ainsi que son homogénéité (il existe plusieurs masculinités);</blockquote>
 <blockquote>-une perspective qui propose des réflexions sur les éléments, tels que les lieux, les pratiques et les corps, qui fabriquent ou consolident les masculinités;</blockquote>
 <blockquote>-une perspective qui politise les masculinités féminines;</blockquote>
 <blockquote>-une perspective incarnée, vécue (elle origine d’une personne identifiée comme butch), de chair, d’os, de sang, mais aussi de rêves, d’ambitions, de pleurs, de désirs.
 
-&nbsp;</blockquote>
-<span style="font-size: 130%;">Lettre : Sur la visibilité butch</span>
+</blockquote>
+Lettre : Sur la visibilité butch
 Chère Nina,
 
 Voici mes trouvailles préliminaires à partir de mes lectures des 5 numéros publiés de la revue <i>Butch is Not a Dirty Word</i>. Ça donne tant à penser et à faire et à rêver!
@@ -251,13 +251,13 @@ Je me sens comme revivre moi-là. On se voit lundi.
 
 Mariève
 
-<span style="font-size: 130%;">Fragment XIV</span>
+Fragment XIV
 « Je suis une citoyenne canadienne blanche et je m’identifie comme femme, <i>butch</i>, lesbienne et bigenre. Je suis aussi une personne transclasse, c’est-à-dire que j’ai pu bénéficier d’une mobilité sociale par la réussite d’études supérieures. Cela affecte mon rapport aux littératures et à la création par une vision hybride et inédite à laquelle je puise mon inspiration tant pour créer, qu’enseigner et faire de la recherche. Ce côté identitaire multidimensionnel est véritablement à la base de ma création. La multiplicité de mes identités, question que je développe plus en détail dans le fichier “Philosophie d’enseignement”, me procure une perspective inédite et enrichissante sur le monde et les littératures qu’il me ferait plaisir de partager avec le département et sa population étudiante. »
 
-<span style="font-size: 130%;">Fragment XV</span>
+Fragment XV
 « H c’est pour humanité. Hors-série. Hémoglobine. <i>Him. Her</i>. »
 
-<span style="font-size: 130%;">Lettre : interlocutrice</span>
+Lettre : interlocutrice
 Chère Nina,
 
 Voilà longtemps que je ne t’ai pas écrit. Pardonne ce laisser-aller, même s’il est franchement impardonnable. Comment vas-tu? Les affaires sont-elles bonnes? Je ne t’ai pas oubliée, tu sais. J’ai encore ce fouet, celui que tu m’as offert à ma fête. Il est possible que j’en ai fait bon usage.
@@ -275,33 +275,33 @@ Je chéris tant notre complicité, chère. Tu étais personnage. Te voilà inter
 Je t’embrasse et t’étreins,
 
 Mariève
-<div id="sdfootnote1">
-<p class="sdfootnote"><a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym"></a></p>
 
-</div>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym"></a></p>
+
+
 
 ----
 
 references: 
 - <ul>
  	<li><i>Butch is Not a Dirty Word</i></li>
- 	<li>ADAMS, Phoebe. « Creases », <i>Butch is not a dirty word</i>, « The Intergenerationnal Issue », n<sup>o</sup>3, 2018, p. 6-7.</li>
- 	<li>AKUA, Naa. « Forging through my Version of Masculinity », <i>Butch is not a Dirty Word</i>, « The Intergenerationnal Issue », n<sup>o</sup>3, 2018, p. 26-27.</li>
- 	<li>BROWN, Jax Jackie. « Troubling Normal », <i>Butch is not a Dirty Word,</i> « The Family Issue », n<sup>o</sup>2, 2017, p. 16-17.</li>
- 	<li>DAROCHA, Lilly. « Hair as no gender », <i>Butch is not a Dirty Word</i>, « The Work Issue », n<sup>o</sup>5, 2019, p. 44-47.</li>
- 	<li>DERIU, Laura Dettori. « Scenes from a butch life», <i>Butch is not a Dirty Word</i>, « The Intergenerational Issue », n<sup>o</sup>3, 2018, p. 28-29.</li>
- 	<li>EVERHART, Avery. « A Trans Woman on butch identity, Self-Love, and Love Between Trans People », <i>Butch is not a Dirty Word</i>, « The Love &amp; Sex Issue », n<sup>o</sup>4, 2018, p. 16-17.</li>
- 	<li>GODOY, Esther. « Editor’s Note », <i>Butch is not a Dirty Word,</i> « The Family Issue », n<sup>o</sup>2, 2017, p. 2-3.</li>
- 	<li>____. « Editor’s note », <i>Butch is not a Dirty Word</i>, « The Intergenerationnal Issue », n<sup>o</sup>3, 2018, p. 2-3.</li>
- 	<li>HUGUES, Jami Rose. « Masculine presenting Mothers », <i>Butch is not a Dirty Word</i>, « The Family Issue », n<sup>o</sup>2, 2017, p.26-27.</li>
- 	<li>JOHNSTON, Liu. « A Dyke to Watch Out for », <i>Butch is not a Dirty Word</i>, « The Work Issue », n<sup>o</sup>5, 2019, p. 16-17.</li>
- 	<li>LAURSEN, Tara. « A Roundabout Way to Butch », <i>Butch is not a dirty word</i> , « The family Issue », n<sup>o</sup>2, 2017, p. 23.</li>
- 	<li>MAGEE, Ciara Stein. « Not Something a Woman Should want to be », <i>Butch is not a Dirty Word</i>, « The Love &amp; Sex Issue », n<sup>o</sup>4, 2018, p. 20-23.</li>
- 	<li>RAY, Angana Sinha. « The Only Way Out of Pain is Through », <i>Butch is not a Dirty Word</i>, « The Work Issue », n<sup>o</sup>5, 2019, p. 28-29.</li>
- 	<li>ROBINSON, Jewel. « Big Scary Butch », <i>Butch is not a Dirty Word</i>, « The Intergenerationnal Issue », n<sup>o</sup>3, 2018, p. 32-33.</li>
- 	<li>ROYALLE, Candy. « Mom and the butch », « The Family Issue », n<sup>o</sup>2, 2017, p. 8-9.</li>
- 	<li>TANDIWE, « But who’s The Birth Mother », <i>Butch is not a Dirty Word</i>, « The Family Issue », n<sup>o</sup>2, 2017, p.10-11.</li>
- 	<li>TUFRAGETTES, Frankie. « Revolution Dyke Style Now », <i>Butch is not a Dirty Word</i>, « The Work Issue », n<sup>o</sup>5, 2019, p. 20-23.</li>
+ 	<li>ADAMS, Phoebe. « Creases », <i>Butch is not a dirty word</i>, « The Intergenerationnal Issue », no3, 2018, p. 6-7.</li>
+ 	<li>AKUA, Naa. « Forging through my Version of Masculinity », <i>Butch is not a Dirty Word</i>, « The Intergenerationnal Issue », no3, 2018, p. 26-27.</li>
+ 	<li>BROWN, Jax Jackie. « Troubling Normal », <i>Butch is not a Dirty Word,</i> « The Family Issue », no2, 2017, p. 16-17.</li>
+ 	<li>DAROCHA, Lilly. « Hair as no gender », <i>Butch is not a Dirty Word</i>, « The Work Issue », no5, 2019, p. 44-47.</li>
+ 	<li>DERIU, Laura Dettori. « Scenes from a butch life», <i>Butch is not a Dirty Word</i>, « The Intergenerational Issue », no3, 2018, p. 28-29.</li>
+ 	<li>EVERHART, Avery. « A Trans Woman on butch identity, Self-Love, and Love Between Trans People », <i>Butch is not a Dirty Word</i>, « The Love &amp; Sex Issue », no4, 2018, p. 16-17.</li>
+ 	<li>GODOY, Esther. « Editor’s Note », <i>Butch is not a Dirty Word,</i> « The Family Issue », no2, 2017, p. 2-3.</li>
+ 	<li>____. « Editor’s note », <i>Butch is not a Dirty Word</i>, « The Intergenerationnal Issue », no3, 2018, p. 2-3.</li>
+ 	<li>HUGUES, Jami Rose. « Masculine presenting Mothers », <i>Butch is not a Dirty Word</i>, « The Family Issue », no2, 2017, p.26-27.</li>
+ 	<li>JOHNSTON, Liu. « A Dyke to Watch Out for », <i>Butch is not a Dirty Word</i>, « The Work Issue », no5, 2019, p. 16-17.</li>
+ 	<li>LAURSEN, Tara. « A Roundabout Way to Butch », <i>Butch is not a dirty word</i> , « The family Issue », no2, 2017, p. 23.</li>
+ 	<li>MAGEE, Ciara Stein. « Not Something a Woman Should want to be », <i>Butch is not a Dirty Word</i>, « The Love &amp; Sex Issue », no4, 2018, p. 20-23.</li>
+ 	<li>RAY, Angana Sinha. « The Only Way Out of Pain is Through », <i>Butch is not a Dirty Word</i>, « The Work Issue », no5, 2019, p. 28-29.</li>
+ 	<li>ROBINSON, Jewel. « Big Scary Butch », <i>Butch is not a Dirty Word</i>, « The Intergenerationnal Issue », no3, 2018, p. 32-33.</li>
+ 	<li>ROYALLE, Candy. « Mom and the butch », « The Family Issue », no2, 2017, p. 8-9.</li>
+ 	<li>TANDIWE, « But who’s The Birth Mother », <i>Butch is not a Dirty Word</i>, « The Family Issue », no2, 2017, p.10-11.</li>
+ 	<li>TUFRAGETTES, Frankie. « Revolution Dyke Style Now », <i>Butch is not a Dirty Word</i>, « The Work Issue », no5, 2019, p. 20-23.</li>
  	<li>Autres références</li>
  	<li>BERGMAN, S. Bear. <i>Butch is a Noun</i>, Arsenal Pulp Press, Vancouver, 2010 [Suspect Thoughts Press, 2006].</li>
  	<li>HALBERSTAM, Judith. <i>Female Masculinity</i>, Durham et Londres, Duke University Press, 1998.</li>
@@ -311,7 +311,7 @@ references:
 <hr />
 
 <h3>Notes</h3>
-<a class="sdfootnotesym" href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Monsieur Belboeuf prend des pronoms masculins, tout comme certaine personnes <i>butch</i> dans la réalité, et d’autres, tel·le l’auteur·trice, prend les deux. C’est pour toutes ces raisons qu’à plusieurs reprises, dans les phrases de ce texte, le masculin et le féminin sont utilisées pour renvoyer à une même personne et ainsi respecter une multitude de façons de se « pronominaliser ».
+<a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Monsieur Belboeuf prend des pronoms masculins, tout comme certaine personnes <i>butch</i> dans la réalité, et d’autres, tel·le l’auteur·trice, prend les deux. C’est pour toutes ces raisons qu’à plusieurs reprises, dans les phrases de ce texte, le masculin et le féminin sont utilisées pour renvoyer à une même personne et ainsi respecter une multitude de façons de se « pronominaliser ».
 
 ----
 

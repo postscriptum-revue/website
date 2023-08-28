@@ -1,4 +1,4 @@
-title: [03-04] La traduction comme (re)création
+title: La traduction comme (re)création
 
 ----
 
@@ -22,15 +22,15 @@ abstract_en: Translation tries to reveal pure language, an impossible task, but 
 
 ----
 
-text: <div class="crayon article-texte-80 texte surlignable clearfix">
-<blockquote class="spip_poesie">
-<div>In what language am <i>I,</i> suis-<i>je,</i> bin <i>ich,</i> when I am inmost ? What is the tone of the self ?</div>
-<div>--G. Steiner, <i>After</i> <i>Babel</i></div></blockquote>
+text: 
+<blockquote>
+In what language am <i>I,</i> suis-<i>je,</i> bin <i>ich,</i> when I am inmost ? What is the tone of the self ?
+--G. Steiner, <i>After</i> <i>Babel</i></blockquote>
 On parle aujourd’hui de la langue et du langage plus que jamais. Mais les manières de parler diffèrent tellement les unes des autres, elle se font à partir de prémisses si différentes, suivant que celles-ci appartiennent à des linguistes ou à des philosophes ou à des poètes, qu’on pourrait à peine dire qu’on parle de la même chose.
 
 Les linguistes —et généralement ceux qui écrivent des « théories de la traduction », qui ont le plus souvent une formation linguistique et qui construisent leur discours à partir des mêmes concepts— affirment que ce qu’on traduit représente des « unités de sens ». Ils corrigent en cela l’opinion des siècles précédents, où l’on pensait qu’on traduisait des « mots », soit « librement », soit, si on les prenait pour le signe d’un langage sacré, plus ou moins littéralement. Cependant, cette correction n’est que de surface, car elle reste essentiellement le reflet de l’idée selon laquelle ce qu’on traduit, c’est de <i>la</i> <i>langue.</i>
 
-Si les linguistes pensent que le matériau du traducteur consiste dans les unités de sens, qu’en pensent ceux que j’ai appelé « philosophes » et « poètes » ? Il faut remarquer d’abord que les philosophes les plus remarquables qui se sont intéressés à la traduction l’ont toujours fait au nom des poètes et contre les linguistes. Les poètes, eux, ne font pas de « théorie », ils font de la poésie (en langue maternelle ou en traduction)<span class="spip_note_ref"> [1]</span>. On remarque ensuite que tous les philosophes qui s’interrogent sur l’acte de traduire s’interrogent, du coup, à l’intérieur du même discours, sur <i>l</i>’<i>essence</i> <i>de</i> <i>la</i> <i>langue.</i>
+Si les linguistes pensent que le matériau du traducteur consiste dans les unités de sens, qu’en pensent ceux que j’ai appelé « philosophes » et « poètes » ? Il faut remarquer d’abord que les philosophes les plus remarquables qui se sont intéressés à la traduction l’ont toujours fait au nom des poètes et contre les linguistes. Les poètes, eux, ne font pas de « théorie », ils font de la poésie (en langue maternelle ou en traduction) [1]. On remarque ensuite que tous les philosophes qui s’interrogent sur l’acte de traduire s’interrogent, du coup, à l’intérieur du même discours, sur <i>l</i>’<i>essence</i> <i>de</i> <i>la</i> <i>langue.</i>
 
 Dans les pages qui suivent, je m’arrêterai à quelques représentants exemplaires du discours philosophique sur la traduction : Henri Meschonnic, Walter Benjamin, Paul de Man et George Steiner. Je commence par Henri Meschonnic, dont le livre <i>Poétique</i> <i>du</i> <i>traduire</i> pourrait servir d’<i>ars</i> <i>poetica</i> à tous ceux qui refusent de séparer la praxis de la traduction de la réflexion sur la langue et sur la <i>po(i)étique</i> du texte.
 
@@ -44,7 +44,7 @@ Historiquement, Meschonnic se situe dans la lignée ouverte par Humboldt, qui a 
 
 La traduction est donc <i>écriture,</i> elle est <i>création</i> et <i>littérature</i> au même titre que le texte qu’elle traduit. Ce n’est pas ce que le célèbre texte de Benjamin sur la tâche du traducteur semble dire, du moins à la première lecture.
 
-« La Tâche du traducteur »<span class="spip_note_ref"> [2]</span>, texte publié initialement en 1923 en tant qu’introduction la traduction faite par Benjamin des <i>Tableaux</i> <i>Parisiens</i> de Baudelaire, est, à côté de <i>L</i>’<i>Origine</i> <i>de</i> <i>l</i>’<i>œuvre</i> <i>d</i>’<i>art</i> de Heidegger, l’un des premiers textes de la culture occidentale à s’attaquer à la dichotomie sens/forme qui gouverne aujourd’hui même son esthétique. À la question « Que dit une œuvre littéraire ? », Benjamin répond : « Rien ». Une œuvre littéraire ne <i>transmet</i> rien, car elle n’est pas un acte de <i>communication</i> (comme continuent à s’imaginer ceux qui écrivent des comptes rendus de livres pour la plupart des magazines et des journaux, où parler du livre veut nécessairement dire en faire le « résumé »). Or, si une œuvre littéraire ne transmet aucun contenu, alors il doit en aller de même avec sa traduction. Cette idée est cependant en contradiction avec le but pratique de toute traduction, celui de transmettre quelque chose à quelqu’un. Une traduction transmet donc quelque chose, mais cette chose est la chose la moins essentielle. Les pires traductions ne font que transmettre un message.
+« La Tâche du traducteur » [2], texte publié initialement en 1923 en tant qu’introduction la traduction faite par Benjamin des <i>Tableaux</i> <i>Parisiens</i> de Baudelaire, est, à côté de <i>L</i>’<i>Origine</i> <i>de</i> <i>l</i>’<i>œuvre</i> <i>d</i>’<i>art</i> de Heidegger, l’un des premiers textes de la culture occidentale à s’attaquer à la dichotomie sens/forme qui gouverne aujourd’hui même son esthétique. À la question « Que dit une œuvre littéraire ? », Benjamin répond : « Rien ». Une œuvre littéraire ne <i>transmet</i> rien, car elle n’est pas un acte de <i>communication</i> (comme continuent à s’imaginer ceux qui écrivent des comptes rendus de livres pour la plupart des magazines et des journaux, où parler du livre veut nécessairement dire en faire le « résumé »). Or, si une œuvre littéraire ne transmet aucun contenu, alors il doit en aller de même avec sa traduction. Cette idée est cependant en contradiction avec le but pratique de toute traduction, celui de transmettre quelque chose à quelqu’un. Une traduction transmet donc quelque chose, mais cette chose est la chose la moins essentielle. Les pires traductions ne font que transmettre un message.
 
 Benjamin ne se contente pas de dire que le message est ce qui compte le moins —pour une œuvre et pour sa traduction. Aux esprits sensibles qui savent que ce n’est pas « l’information » qui compte, mais ce qui s’y surajoute, il répondra que ce n’est pas cette chose « en plus » qui est la caractéristique essentielle d’une œuvre ou de sa traduction. Toute œuvre a, dit Benjamin, la propriété d’être <i>traductible.</i> Sa traductibilité est inscrite en elle-même, car elle est une caractéristique essentielle de l’œuvre littéraire.
 
@@ -52,13 +52,13 @@ Après avoir établi que la traductibilité est une caractéristique de l’orig
 
 La question suivante posée pas Benjamin est peut-être la question essentielle de ce texte, car elle déplace la problématique vers l’essence du langage lui-même. En quoi donc réside la parenté entre langues —exception faite de circonstances historiques ?
 
-La réponse à cette question est l’une des affirmations les plus difficiles à comprendre de l’histoire de la pensée : cette parenté entre langues « repose sur le fait qu’en chacune d’elles, prise comme un tout, une seule et même chose est visée » (250)<span class="spip_note_ref"> [3]</span>. Ce qu’on comprend tout d’abord de cette phrase, c’est que Benjamin fait une distinction entre la langue en tant que tout et la langue en tant que somme d’éléments divers. Les éléments particuliers d’une langue sont, évidemment, différents de ceux d’une autre langue, mais les langues s’apparentent en ce que leurs intentions respectives sont « complémentaires », et la totalité de ces intentions appartient au <i>langage</i> <i>pur</i> [<i>die</i> <i>reine</i> <i>Sprache</i>].
+La réponse à cette question est l’une des affirmations les plus difficiles à comprendre de l’histoire de la pensée : cette parenté entre langues « repose sur le fait qu’en chacune d’elles, prise comme un tout, une seule et même chose est visée » (250) [3]. Ce qu’on comprend tout d’abord de cette phrase, c’est que Benjamin fait une distinction entre la langue en tant que tout et la langue en tant que somme d’éléments divers. Les éléments particuliers d’une langue sont, évidemment, différents de ceux d’une autre langue, mais les langues s’apparentent en ce que leurs intentions respectives sont « complémentaires », et la totalité de ces intentions appartient au <i>langage</i> <i>pur</i> [<i>die</i> <i>reine</i> <i>Sprache</i>].
 
-Nous arrivons ici à l’aspect mystique de la vision benjaminienne du langage, qui en est sans doute l’aspect le plus intéressant. La traduction essaie de révéler le langage pur, tâche impossible, mais qui reste, en dépit de son impossibilité, l’essence même de l’acte de traduire. Benjamin répète ici ce que tant d’autres ont dit avant et après lui non pas de la traduction, mais de la littérature. Et ce qui le rend unique aujourd’hui encore, c’est que, dans la distinction qu’il fait entre littérature et traduction, non seulement met-il la traduction au-dessus de la littérature, mais il voit dans l’union de la forme et du contenu une caractéristique de la littérature, alors que dans la traduction le langage « enveloppe sa teneur comme un manteau royal aux larges plis » (252). Benjamin le répète encore et encore : la tâche du traducteur est différente de celle du poète, car alors que le premier doit trouver l’intention ou l’effet que l’auteur de l’original a voulu imprimer à l’œuvre, la tâche du second ne porte jamais sur « le langage tel quel, ni sur sa totalité » (76). La tâche du traducteur est finalement dirigée vers le langage dans sa globalité, alors que celle du poète est spontanée et primaire<span class="spip_note_ref"> [4]</span>.
+Nous arrivons ici à l’aspect mystique de la vision benjaminienne du langage, qui en est sans doute l’aspect le plus intéressant. La traduction essaie de révéler le langage pur, tâche impossible, mais qui reste, en dépit de son impossibilité, l’essence même de l’acte de traduire. Benjamin répète ici ce que tant d’autres ont dit avant et après lui non pas de la traduction, mais de la littérature. Et ce qui le rend unique aujourd’hui encore, c’est que, dans la distinction qu’il fait entre littérature et traduction, non seulement met-il la traduction au-dessus de la littérature, mais il voit dans l’union de la forme et du contenu une caractéristique de la littérature, alors que dans la traduction le langage « enveloppe sa teneur comme un manteau royal aux larges plis » (252). Benjamin le répète encore et encore : la tâche du traducteur est différente de celle du poète, car alors que le premier doit trouver l’intention ou l’effet que l’auteur de l’original a voulu imprimer à l’œuvre, la tâche du second ne porte jamais sur « le langage tel quel, ni sur sa totalité » (76). La tâche du traducteur est finalement dirigée vers le langage dans sa globalité, alors que celle du poète est spontanée et primaire [4].
 
 Qu’en est-il du mythe juif des vases cassés, mythe qui est au centre de la vision du langage de Benjamin ? Benjamin introduit très discrètement ce mythe juif de l’origine du monde dans le corps de son argumentation, il en fait une métaphore pour décrire l’acte de traduire, mais sans en mentionner l’origine mythique et juive. Selon ce mythe kabbalistique, dix vases ou Séphiroths furent formés au début du monde à partir de l’informe, mais seul le vase le plus pur put contenir la lumière originelle qui avait donné naissance aux vases en pénétrant l’informe ; les autres se cassèrent sous le poids de la lumière. La lumière ou l’essence spirituelle des vases revint à la masse informe de l’origine, pendant que les vases cassés tombèrent dans le monde ainsi créé. Mais les fragments des vases gardèrent des traces de la lumière originelle, des étincelles qui adhéraient à leur surface. En tombant dans le monde, les fragments devinrent les quatre éléments —la terre, l’air, le feu, l’eau et les étincelles y restèrent cachés. Il revient à chacun de trouver et d’élever les étincelles à la vérité de la lumière originelle.
 
-L’analogie de Benjamin est la suivante : de même que ces fragments sont des parties du vase originel, le langage de l’original, aussi bien que celui de la traduction, n’est qu’un langage fragmentaire d’un langage plus grand et plus pur. L’original et sa traduction n’entretiennent donc plus une relation de dichotomie, mais plutôt, en tant que parties d’un même tout, de complémentarité. Benjamin pousse l’analogie jusqu’à ses dernières limites : « de même que les débris d’un vase, pour qu’on puisse reconstituer le tout, doivent s’accorder dans les plus petits détails »<span class="spip_note_ref"> [5]</span> sans cependant se ressembler, la traduction ne doit pas imiter ni reproduire l’original (256-257).
+L’analogie de Benjamin est la suivante : de même que ces fragments sont des parties du vase originel, le langage de l’original, aussi bien que celui de la traduction, n’est qu’un langage fragmentaire d’un langage plus grand et plus pur. L’original et sa traduction n’entretiennent donc plus une relation de dichotomie, mais plutôt, en tant que parties d’un même tout, de complémentarité. Benjamin pousse l’analogie jusqu’à ses dernières limites : « de même que les débris d’un vase, pour qu’on puisse reconstituer le tout, doivent s’accorder dans les plus petits détails » [5] sans cependant se ressembler, la traduction ne doit pas imiter ni reproduire l’original (256-257).
 
 La tâche du traducteur sera donc de faire advenir dans le langage de la traduction le langage pur que l’œuvre recèle. Ce qui est dans l’original caché, emprisonné, devra être libéré dans la traduction, qui ne sera qu’ainsi une re-création de cette œuvre. Pour ce faire, le traducteur doit aller aux sources du langage même, à ses éléments primordiaux, et laisser son langage à lui s’imprégner de la langue étrangère, au lieu de la domestiquer. Dans ce geste d’alter-ation, la traduction cesse d’être « littérale » ou « libre », car ces deux tendances cessent d’être opposées.
 
@@ -83,7 +83,7 @@ Et puisque les fragments sont en cause, je voudrais mentionner un écrivain que 
 La première phrase annonce la fin de la fable, mais d’une manière oblique. Car, alors que le début est clair et précis (« Je commence, enfin, à avoir des moments où quelque chose m’annonce le miracle »), la fin est ambiguë et <i>met</i> <i>en</i> <i>scène</i> le miracle, le narre sur le mode mythique et laisse le lecteur tirer « la morale » de la fable. Comme souvent chez Merwin, l’agencement du texte passe par une énumération très logique et rigoureuse de plusieurs éléments, qui contraste avec le caractère irrationnel des éléments énumérés. Le narrateur entre dans une pièce et voit sur une table une main détachée du reste du corps. Il décrit la main avec la même attention détaillée et la même minutie soucieuse qu’on emploierait pour faire le portrait d’un personnage. Plus tard, il trouve une oreille, au même endroit. Toujours détachée du corps, celui-ci absent. Ensuite, une cheville, des cheveux, une langue.
 
 On a jusque-là les éléments épars —les <i>fragments</i>— d’un corps absent et d’un texte (« Les fragments ») qui est certes, poétique, mais dont le liant nécessaire à la coagulation d’un récit ou d’une fable manque. Et, tout d’un coup, le narrateur se met, sans aucun lien apparent avec ce qu’il vient d’énumérer, à raconter une histoire que nous connaissons tous. Il s’agit du miracle accompli par Jésus-Christ lorsqu’il transforme cinq pains en un repas suffisant pour rassasier cinq mille hommes : « Et après que tous eurent mangé à leur faim, les fragments furent ramassés et douze paniers en furent remplis » (233). On s’aperçoit lentement qu’une vague relation commence à s’établir entre les parties du corps et les fragments des pains. On hésite à trop rapprocher les deux pour ne pas appauvrir l’ambiguïté du texte. Et puis, on lit la fin :
-<blockquote class="spip">I mention this because when I found the tongue it came to me for the first time that the miracle was not the matter of quantity but the fact that the event had never left the present. Parts of it keep appearing. I have begun to have glimpses of what I am doing, crossing the place where they have all been satisfied, and still finding fragment after fragment. (Merwin 233)
+<blockquote>I mention this because when I found the tongue it came to me for the first time that the miracle was not the matter of quantity but the fact that the event had never left the present. Parts of it keep appearing. I have begun to have glimpses of what I am doing, crossing the place where they have all been satisfied, and still finding fragment after fragment. (Merwin 233)
 
 [Je le mentionne parce que, lorsque j’eus trouvé la langue, il m’apparut pour la première fois que le miracle n’était pas une affaire de quantité, mais le fait que l’événement n’avait jamais quitté le présent. Il y en a des parties qui ne cessent d’apparaître. J’ai commencé à entrevoir par moments ce que je fais, pendant que je franchis le croisement où ils ont tous été rassasiés, et que je trouve encore fragment après fragment.]</blockquote>
 D’abord, on se pose une question : pourquoi « la langue » et non pas la main ou l’oreille ? Est-ce parce que la langue est le dernier élément mentionné ? Est-ce parce qu’elle est celle qui donne une voix ? Ou est-ce sans aucune raison du tout ? On remarque ensuite que le mot « miracle » apparaît pour la première fois depuis la première ligne. Le miracle ne réside donc pas dans la multiplication des pains, mais dans le fait qu’il se répète toujours : « il y en a des parties qui ne cessent d’apparaître ». Comme les parties du corps, déjà mentionnées.
@@ -98,14 +98,14 @@ Cette fable est donc, en fin de compte, une fable sur l’écriture ou sur « l
 
 Le langage est révélation, dit Benjamin à la fin de « La Tâche du traducteur », et je ne connais pas de récit qui illustre mieux cette idée que la fable de Merwin. Chaque fois que le langage inaugure un commencement, surgissant comme pour la première fois dans une création poétique, il y a contact avec les sources du langage et ébranlement devant l’impossibilité de saisir ces sources. Ce contact ou cet ébranlement peut avoir lieu aussi bien dans le cas du créateur de l’original que dans celui du traducteur. Si celui qui entre en contact avec le langage accepte non pas de s’en emparer comme d’un instrument factice, mais, comme dans la fable de Merwin, de franchir un espace où le miracle est « par moments » possible, il peut y avoir révélation du langage.
 
-</div>
+
 
 ----
 
 references: 
-- <div class="crayon article-texte-80 texte surlignable clearfix">
+- 
 <ul>
- 	<li class="spip">BENJAMIN, Walter, « La tâche du traducteur », dans <i>œuvres</i> <i>I,</i> traduit par Maurice de Gandillac, Rainer Rochlitz et Pierre Rusch, Paris, Gallimard, Folio, 2000.</li>
+ 	<li>BENJAMIN, Walter, « La tâche du traducteur », dans <i>œuvres</i> <i>I,</i> traduit par Maurice de Gandillac, Rainer Rochlitz et Pierre Rusch, Paris, Gallimard, Folio, 2000.</li>
  	<li>___, « The Task of the Translator », dans <i>Illuminations,</i> édité par Hannah Arendt, traduit par Harry Zohn, New York, Schocken Books, 1988 [1968].</li>
  	<li>___, « Die Aufgabe des Übersetzers », dans <i>Schriften</i> IV.I, édité par Tillman Rexroth, Francfort, Suhrkamp Verlag, 1972.</li>
  	<li>MAN, Paul de, « “Conclusions” on Walter Benjamin’s “The Task of the Translator”. Messenger Lecture, Cornell University, March 4, 1983 », <i>Yale</i> <i>French</i> <i>Studies</i> <i>97,</i> <i>50</i> <i>Years</i> <i>of</i> <i>Yale</i> <i>French</i> <i>Studies,</i> <i>Part</i> <i>2,</i> Yale, Yale University, 2000, p. 10-35.</li>
@@ -114,37 +114,37 @@ references:
  	<li>STEINER, George, <i>After</i> <i>Babel,</i> Londres, Oxford et New York, Oxford University Press, 1975.</li>
  	<li>___, <i>Real</i> <i>Presences,</i> Londres et Boston, Faber and Faber, 1991 [1989].</li>
 </ul>
-</div>
-<div class="notes">
+
+
 
 <hr />
 
-<div id="nb1">
 
-<span class="spip_note_ref">[1] </span>Il y a sans doute des poètes qui ont écrit des essais <i>sur</i> l’acte d’écrire, mais ce sont des essais essentiellement <i>poétiques,</i> et non pas « théoriques ». Autrement dit : le poète n’emploie pas deux types de langage, l’un pour écrire une œuvre « poétique » et un autre, « théorique », pour expliquer cette œuvre. De plus, le discours autoréférentiel est plus commun à la tradition littéraire française et beaucoup moins courant dans d’autres traditions littéraires, la tradition anglo-saxonne par exemple.
 
-</div>
-<div id="nb2">
+[1] Il y a sans doute des poètes qui ont écrit des essais <i>sur</i> l’acte d’écrire, mais ce sont des essais essentiellement <i>poétiques,</i> et non pas « théoriques ». Autrement dit : le poète n’emploie pas deux types de langage, l’un pour écrire une œuvre « poétique » et un autre, « théorique », pour expliquer cette œuvre. De plus, le discours autoréférentiel est plus commun à la tradition littéraire française et beaucoup moins courant dans d’autres traditions littéraires, la tradition anglo-saxonne par exemple.
 
-<span class="spip_note_ref">[2] </span>Les citations de ce texte sont tirées de la traduction faite par Maurice de Gandillac dans Benjamin 2000.
 
-</div>
-<div id="nb3">
 
-<span class="spip_note_ref">[3] </span>La manière dont on a traduit cette phrase peut, à elle seule, faire l’objet d’une étude (Paul de Man en parle, d’ailleurs). Là où l’original dit <i>Intentio,</i> M. de Gandillac traduit « chose […] visée » ou « manière de viser » ou « mode de visée ». La traduction anglaise dit « <i>intention</i> » et, dans d’autres contextes, « <i>mode</i> <i>of</i> <i>intention</i> ».
 
-</div>
-<div id="nb4">
+[2] Les citations de ce texte sont tirées de la traduction faite par Maurice de Gandillac dans Benjamin 2000.
 
-<span class="spip_note_ref">[4] </span>La tâche du poète ou de <i>l</i>’<i>écrivain</i> <i>par</i> <i>excellence</i> est définie par Maurice Blanchot d’une manière presque identique à celle assignée par Benjamin au traducteur.
 
-</div>
-<div id="nb5">
 
-<span class="spip_note_ref">[5] </span>Il est intéressant, de nouveau, de comparer les traductions. La traduction anglaise dit « <i>glued</i> <i>together</i> » et « <i>match</i> <i>one</i> <i>another</i> ». Cependant, de Man attire notre attention sur ce que l’original dit littéralement : [fragments] « articulés ensemble » et « se suivre l’un l’autre » (de Man : 32).
 
-</div>
-</div>
+[3] La manière dont on a traduit cette phrase peut, à elle seule, faire l’objet d’une étude (Paul de Man en parle, d’ailleurs). Là où l’original dit <i>Intentio,</i> M. de Gandillac traduit « chose […] visée » ou « manière de viser » ou « mode de visée ». La traduction anglaise dit « <i>intention</i> » et, dans d’autres contextes, « <i>mode</i> <i>of</i> <i>intention</i> ».
+
+
+
+
+[4] La tâche du poète ou de <i>l</i>’<i>écrivain</i> <i>par</i> <i>excellence</i> est définie par Maurice Blanchot d’une manière presque identique à celle assignée par Benjamin au traducteur.
+
+
+
+
+[5] Il est intéressant, de nouveau, de comparer les traductions. La traduction anglaise dit « <i>glued</i> <i>together</i> » et « <i>match</i> <i>one</i> <i>another</i> ». Cependant, de Man attire notre attention sur ce que l’original dit littéralement : [fragments] « articulés ensemble » et « se suivre l’un l’autre » (de Man : 32).
+
+
+
 
 ----
 

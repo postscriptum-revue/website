@@ -1,4 +1,4 @@
-title: [32-08] Errances exophoniques
+title: Errances exophoniques
 
 ----
 
@@ -22,7 +22,7 @@ abstract_en:
 
 ----
 
-text: &nbsp;
+text: 
 
 [audio m4a="https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a"][/audio]
 

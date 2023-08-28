@@ -1,18 +1,16 @@
-Title: Le Piédestal et ses médiations
+title: Le Piédestal et ses médiations
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 15
+number: 15
 
 ----
 
-Intro-text:
-
-Le piédestal est d’abord à comprendre dans son acception technique comme le socle d’une statue, donc un support qui participe de l’œuvre tout en se situant à sa limite. Il est également, au sens où Jacques Derrida l’entend, un <i>parergon</i> (Derrida, <i>La vérité en peinture</i>, 1978), c’est-à-dire un dispositif qui, se greffant à l’œuvre d’art, en détermine aussi son unité, son intégrité, voire sa légitimité. C’est une marge de l’œuvre qui non seulement permet le commentaire exégétique mais l’appelle.
+intro_text: Le piédestal est d’abord à comprendre dans son acception technique comme le socle d’une statue, donc un support qui participe de l’œuvre tout en se situant à sa limite. Il est également, au sens où Jacques Derrida l’entend, un <i>parergon</i> (Derrida, <i>La vérité en peinture</i>, 1978), c’est-à-dire un dispositif qui, se greffant à l’œuvre d’art, en détermine aussi son unité, son intégrité, voire sa légitimité. C’est une marge de l’œuvre qui non seulement permet le commentaire exégétique mais l’appelle.
 
 Opérant entre ostentation et dissimulation, nous considérerons le piédestal comme point limite de la représentation ; ce qui délimite, circonscrit, borde et déborde l’œuvre d’art, la fonde et la fixe. Si le piédestal exhibe ce qui est porté aux nues, il est aussi une parure supposant aussi une certaine distanciation. Autrement dit, le piédestal est à la fois ce qui rend disponible et ce qui met hors d’atteinte. Il est une scène qui invite au déguisement et à la feinte, finalement à une certaine mascarade. En ce sens, la figure du piédestal permet de penser les modalités et stratégies de mise en scène du créateur et de son œuvre.
 
@@ -20,12 +18,15 @@ En regard du mouvement de sécularisation de l’œuvre d’art, du croisement d
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2013-09-01 00:00:40
 
 ----
 
-Uuid: PtglZi02OSF7hbtw
+references: 
+
+----
+

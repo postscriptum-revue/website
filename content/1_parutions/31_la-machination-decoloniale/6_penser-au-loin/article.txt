@@ -1,4 +1,4 @@
-title: [31-06] Penser au loin
+title: Penser au loin
 
 ----
 
@@ -14,13 +14,13 @@ affiliation: Université Paris 8
 
 ----
 
-abstract_fr: Depuis plusieurs années, le collectif d’art et recherche NOMASMETAFORAS, composé d’artistes et de chercheur.es, est en conversation avec les communautés indigènes Misak, Yanakuna, Nasa, Kokonuko dans le département du Cauca en Colombie à travers l’organisation de l’Université Autonome Indigène Interculturelle du conseil régional indigène du Cauca (UAIIN-CRIC.) Le collectif a réalisé plusieurs projets en collaboration avec l’Université Autonome Interculturelle indigène dans l’intention de tisser une pratique « créolisante » entre philosophie décoloniale, art contemporain, pensée et médecine traditionnelle autochtone. Dans le cadre de ces dialogues et rencontres avec les chamans du département du Cauca, le collectif s’interroge sur la place de la pensée autochtone d’<em>Abya Yala<a href="#_ftn1" name="_ftnref1"><strong>[1]</strong></a></em> dans les débats actuels sur la décolonisation, la relation à l’altérité et au vivant.
+abstract_fr: Depuis plusieurs années, le collectif d’art et recherche NOMASMETAFORAS, composé d’artistes et de chercheur.es, est en conversation avec les communautés indigènes Misak, Yanakuna, Nasa, Kokonuko dans le département du Cauca en Colombie à travers l’organisation de l’Université Autonome Indigène Interculturelle du conseil régional indigène du Cauca (UAIIN-CRIC.) Le collectif a réalisé plusieurs projets en collaboration avec l’Université Autonome Interculturelle indigène dans l’intention de tisser une pratique « créolisante » entre philosophie décoloniale, art contemporain, pensée et médecine traditionnelle autochtone. Dans le cadre de ces dialogues et rencontres avec les chamans du département du Cauca, le collectif s’interroge sur la place de la pensée autochtone d’<em>Abya Yala<a href="#_ftn1" name="_ftnref1">[1]</a></em> dans les débats actuels sur la décolonisation, la relation à l’altérité et au vivant.
 
-<strong><u>Mots-clés : </u></strong>Chamanisme/Décolonisation/Plurivers/Performance
+<u>Mots-clés : </u>Chamanisme/Décolonisation/Plurivers/Performance
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> <em>Abya Yala</em> veut dire « Terre de vie », « terre de pleine maturité », « terre de sang ».Les organisations indigènes latino-américaines ont ainsi renommé le continent « Amérique », lors du cinquième anniversaire de la « Découverte », par un terme Kuna.
 
-&nbsp;
+
 
 ----
 
@@ -32,9 +32,9 @@ text: <u>Introduction</u>
 
 Luis Aureliano Yunda est un médecin traditionnel de la communauté Nasa, un chaman comme nous les appelons maladroitement en Occident. Il soigne régulièrement des malades qui viennent à lui pour toutes sortes d’affections d’ordre physique, mentale et spirituelle. Pour ce faire, Luis pratique des rituels de guérison qu’il appelle des harmonisations à travers l’usage de la <em>hoja sagrada</em> (la feuille sacrée de coca). Au cours des mois passés à vivre à proximité de la communauté Nasa, il est arrivé que le chaman invite le collectif NOMASMETAFORAS à l’accompagner dans un processus d’harmonisation. Le rituel se déroule en silence dans une nuit noire, loin de toutes perturbations lumineuses. La nuit évolue comme un voyage nocturne et contemplatif, et, après plusieurs heures à mastiquer la feuille de coca, certaines douleurs physiques se font sentir chez les participants, telles que des nausées et des sueurs. Le chaman ne s’en inquiète pas, au contraire il explique que c’est la maladie qui cherche à sortir; c’est bon signe. Au cours de la nuit, Luis se lève régulièrement pour faire reculer les nuages et chasser les lucioles ainsi que d’autres signes des déséquilibres des personnes présentes au rituel. Il fume un gros cigare, car il travaille avec la feuille de coca (la plante reine) et le tabac en même temps afin de préserver l’équilibre féminin-masculin. Pour se donner une idée de l’évolution du rituel, Luis regarde la forme que prend l’embout de son cigare après plusieurs bouffées. Après six heures à mastiquer la feuille de la coca sans interruption, vers trois heures du matin, Luis fait signe que l’harmonisation est terminée, il ne dit presque rien et part se coucher.
 
-&nbsp;
 
-<img class="alignnone size-medium wp-image-3703" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/chamannasa-300x283.png" alt="" width="300" height="283" />
+
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/chamannasa-300x283.png" alt="" width="300" height="283" />
 
 <em>Chaman Nasa Luis Aureliano Yunda allumant le cigare lors du rituel d’harmonisation, 2020</em>
 
@@ -48,9 +48,9 @@ Le chaman dans ce sens réalise le voyage inverse du connaitre Occidental où la
 
 <em> </em>
 
-<img class="alignnone size-medium wp-image-3702" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/chamankono-300x200.png" alt="" width="300" height="200" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/chamankono-300x200.png" alt="" width="300" height="200" />
 
-<img class="alignnone size-medium wp-image-3701" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/chaman3-300x203.png" alt="" width="300" height="203" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/chaman3-300x203.png" alt="" width="300" height="203" />
 
 <em>Chaman Kokonuko Julio Caldón réalisant un rituel avec l’Echeveria. </em>
 
@@ -58,13 +58,13 @@ Image extraite-Vidéo.
 
 © « Avec la permission de NOMASMETAFORAS»
 
-Lorsqu’on aborde la question de la décolonisation des imaginaires en relation avec les rituels chamaniques autochtones <em>d’Abya Yala</em>, il convient d’insister sur la vision radicalement dé-anthropocentrique que suggère une approche chamanique de l’altérité, car lorsque le chaman Luis Aureliano Yunda explique qu’il faut considérer la montagne comme une personne, c’est-à-dire un « soi » à part entière, cela n’équivaut pas à une projection romantique du soi dans une nature chosifiée, mais ce qui se profile là est une toute autre conception de l’humanité, où tous les sois sont engagés dans un sorte de <em>tejido</em><a href="#_ftn1" name="_ftnref1"><strong>[1]</strong></a>- un tissu relationnel du vivant. Pour les communautés du Cauca notre relation au monde doit découler d’une réalisation profonde et spirituelle de l’existence de ce <em>tejido.</em> Dans son travail artistique et théorique avec l’Université Autonome Interculturelle Indigène, le collectif NOMASMETAFORAS cherche à ouvrir des brèches dans les pensées systémiques à travers sa relation aux communautés indigènes du Cauca en Colombie. Comment imaginer en alliance avec la pensée chamanique et selon le dicton zapatiste : « un monde où il y ait place pour de nombreux mondes » (Baschet 2005, 111)?
+Lorsqu’on aborde la question de la décolonisation des imaginaires en relation avec les rituels chamaniques autochtones <em>d’Abya Yala</em>, il convient d’insister sur la vision radicalement dé-anthropocentrique que suggère une approche chamanique de l’altérité, car lorsque le chaman Luis Aureliano Yunda explique qu’il faut considérer la montagne comme une personne, c’est-à-dire un « soi » à part entière, cela n’équivaut pas à une projection romantique du soi dans une nature chosifiée, mais ce qui se profile là est une toute autre conception de l’humanité, où tous les sois sont engagés dans un sorte de <em>tejido</em><a href="#_ftn1" name="_ftnref1">[1]</a>- un tissu relationnel du vivant. Pour les communautés du Cauca notre relation au monde doit découler d’une réalisation profonde et spirituelle de l’existence de ce <em>tejido.</em> Dans son travail artistique et théorique avec l’Université Autonome Interculturelle Indigène, le collectif NOMASMETAFORAS cherche à ouvrir des brèches dans les pensées systémiques à travers sa relation aux communautés indigènes du Cauca en Colombie. Comment imaginer en alliance avec la pensée chamanique et selon le dicton zapatiste : « un monde où il y ait place pour de nombreux mondes » (Baschet 2005, 111)?
 
 <em><u>Devenir-autre</u></em>
 
 Dans le livre <em>La Chute Du Ciel</em>, coécrit avec l’anthropologue Bruce Albert, le chaman Davi Kopenawa détaille les pratiques de son apprentissage chamanique dans la communauté Yanomami au Brésil. Il y parle notamment de l’inhalation de la poudre Yakoana<a href="#_ftn2" name="_ftnref2">[2]</a> et de « l’état de revenant » (Kopenawa/Albert 2014, 474) que celle-ci induit durant de longues heures. Le chaman fait souvent le parallèle entre l’état de transe chamanique et la mort, c’est-à-dire, le processus d’une perte complète de l’égo. Il explique à ce propos qu’une des raisons pour lesquelles « la pensée du blanc ne parvient pas à s’élever au-delà d’elle-même » (Ibid.) est qu’elle ignore encore trop la présence de la mort dans la vie. Kopenawa fait souvent allusion à l’expérience de la porosité de la frontière mort/vie dans l’apprentissage chamanique. Dans de nombreuses communautés autochtones <em>d’Abya Yala</em> il existe un champ « d’indistinction » (Kohn 2017, 277) où des éléments semblants disparates peuvent se rejoindre et entrer en relation. Dans la communauté indigène Nasa du chaman Luis Aureliano Yunda par exemple, l’idée de la mort se pense plutôt comme un passage à un autre devenir, un autre domaine d’existence. Après la mort du corps physique, il arrive souvent que l’âme d’un chaman ou d’un ancêtre se déplace d’un « soi » à un autre « soi », comme par relais. C’est pour cela qu’il existe des animaux dans les communautés que les habitants considèrent comme des personnes. Dans certains cas, le pelage d‘un animal n’est qu’un habit qui pourrait dissimuler un ancêtre ou un membre d’une certaine famille. Puisqu’il existe de nombreuses frontières de glissements entre les « sois », les communautés autochtones sont particulièrement attentives à la venue d’un animal, aux ululements de la chouette, à l’apparition du colibri.
 
-Au cours d’un voyage dans la région du Putumayo en Colombie, un membre du collectif a rencontré un chaman qui faisait le long apprentissage du <em>volverse-tigre</em><a href="#_ftn3" name="_ftnref3"><strong>[3]</strong></a>. Cet apprentissage impliquait la consommation quotidienne de <em>yagé</em><a href="#_ftn4" name="_ftnref4"><strong>[4]</strong></a>à travers laquelle opère la dé-subjectivisation de la transe chamanique. Les <em>tomas</em><a href="#_ftn5" name="_ftnref5"><strong>[5]</strong></a> sont des moments parfois difficiles, car le processus d’apprentissage chamanique n’est pas sans risque; il implique toujours un abandon du connu. Avant une <em>toma, </em>un des membres de la communauté indigène Yanakuna a exprimé au collectif son appréhension quant à ce que la plante allait « lui montrer » lors de la transe. Comme le souligne Davi Kopenawa, connaitre pour un chaman c’est avant tout « voir » (Kopenawa/Albert 2014, 620), c’est voyager par la pensée jusqu’à ce qui doit être connu et en faire l’expérience. Dans la pensée autochtone, celui qui voyage d’un soi à l’autre avec habilité, et, ce faisant, saisit la nature fluctuante de la réalité, se dote de pouvoirs de guérison et de clairvoyance. Comme le souligne le chaman Kopenawa : « sans ces multiples déplacements et errances, la pensée se fait trop “courte” » (Kopenawa/Albert 2014, 648) incapable de s’ouvrir sur d’autres imaginaires. Les rituels chamaniques consistent donc à renforcer cette capacité à se déployer le plus loin possible de soi-même- à <em>penser au loin</em>.
+Au cours d’un voyage dans la région du Putumayo en Colombie, un membre du collectif a rencontré un chaman qui faisait le long apprentissage du <em>volverse-tigre</em><a href="#_ftn3" name="_ftnref3">[3]</a>. Cet apprentissage impliquait la consommation quotidienne de <em>yagé</em><a href="#_ftn4" name="_ftnref4">[4]</a>à travers laquelle opère la dé-subjectivisation de la transe chamanique. Les <em>tomas</em><a href="#_ftn5" name="_ftnref5">[5]</a> sont des moments parfois difficiles, car le processus d’apprentissage chamanique n’est pas sans risque; il implique toujours un abandon du connu. Avant une <em>toma, </em>un des membres de la communauté indigène Yanakuna a exprimé au collectif son appréhension quant à ce que la plante allait « lui montrer » lors de la transe. Comme le souligne Davi Kopenawa, connaitre pour un chaman c’est avant tout « voir » (Kopenawa/Albert 2014, 620), c’est voyager par la pensée jusqu’à ce qui doit être connu et en faire l’expérience. Dans la pensée autochtone, celui qui voyage d’un soi à l’autre avec habilité, et, ce faisant, saisit la nature fluctuante de la réalité, se dote de pouvoirs de guérison et de clairvoyance. Comme le souligne le chaman Kopenawa : « sans ces multiples déplacements et errances, la pensée se fait trop “courte” » (Kopenawa/Albert 2014, 648) incapable de s’ouvrir sur d’autres imaginaires. Les rituels chamaniques consistent donc à renforcer cette capacité à se déployer le plus loin possible de soi-même- à <em>penser au loin</em>.
 
 Le connaitre chamanique ne s’exerce donc pas dans le sens de « comprendre », du latin <em>comprehendere</em>, c’est-à-dire « saisir », qui impliquerait un mouvement d’extension–absorption caractéristique des forces réactives de la conscience. En Occident, c’est le philosophe allemand F. Nietzsche qui a analysé la conscience comme étant une force réactive. Dans son ouvrage <em>Le Gai Savoir</em>, Nietzsche souligne que la conscience serait en fait la partie la plus superficielle, la plus mauvaise de la pensée, car elle est avant tout une force neutralisante. Elle pioche dans un champ de multiplicité afin d’immobiliser une partie des flux toujours en mouvement. La conscience a la nécessité de revenir sur l’en-soi, elle ne s’abandonne pas à l’autre, car son extension se traduit toujours par un geste de retour. C’est ce mouvement simultané d’élan-retour que nous entendons comme caractéristique de l’imaginaire colonial, car la pensée occidentale a toujours eu la nécessité <em>d’autrériser </em>la figure de l’autre dans la construction du soi. En effet, la frontière identité/altérité forme l’arc de voute de notre façon de nous lier à d’autres modes de pensées. Seulement, cette frontière implique un nombrilisme tacite, car l’autre est toujours entendu comme lacune, comme réserve à carburant dans la construction du soi. Dans son livre, <em>Le principe de la chimère</em>, l’anthropologue Italien Carlo Severi rappelle que la posture ethnocentrique conduit à enfermer le monde dans une division binaire, Eux/Nous et à définir l’Autre seulement à travers une définition négative, c’est-à-dire ce que « Nous » ne sommes pas. Ce type de posture, caractéristique d’une logique occidentale est une « pensée de système » (Glissant 1996, 20), car son mouvement est déterminé par la conquête et la neutralisation de l’autre dans une structure qui lui est propre. Le philosophe et poète Martiniquais Édouard Glissant expliquera que ce type de pensée ne peut déboucher sur l’imaginaire de la Relation, car incapable de concevoir l’altérité autrement que comme absence de soi.
 
@@ -86,7 +86,7 @@ C’est pourquoi bien souvent, les communautés expriment au collectif qu’il f
 
 De nombreuses recherches récentes en Occident s’intéressent aux frontières du vivant, du végétal, de l’animal et, ce faisant, permettent une remise en question de la prétendue supériorité de l’être humain. Néanmoins, questionner les dualismes de notre ontologie moderne Nature/Culture, Vivant/Non-Vivant, sans y voir l’absolue nécessité d’amplifier le tissu du « plurivers » (Escobar 2018, 17) serait répéter le nombrilisme de l’imaginaire colonial. En effet, la décolonisation des imaginaires se doit d’être un renoncement à penser seulement dans l’en-soi, car c’est « faire du monde le fruit d’un agir ensemble. » (Ferdinand 2019, 382). La politologue Françoise Vergès met en garde à ce sujet contre l’habilité de l’imaginaire colonial à territorialiser, à absorber et faire-soi des pensées de la relation (UDLA 8 octobre 2018, en ligne). C’est pourquoi un devenir-archipélique du monde ne pourra avoir lieu sans rendre compte de la violence coloniale épistémique et millénaire faite envers d’autres ontologies. On ne peut prétendre s’archipéliser sans cette profonde remise en question, qui impliquerait ce qu’Aimé Césaire a appelé un « choc en retour » épistémique : la réabsorption de la part opaque que l’Occident a si longtemps projeté sur la figure de l’Autre. Sans cette réabsorption le risque serait de répéter la boulimie de l’imaginaire colonial : de contenir dans l’en-soi la diversité des mondes. La sociologue bolivienne Silvia Rivera Cusicanqui critique à ce sujet nombreux chercheur.es du courant académique décolonial qui selon elle font de la décolonisation une mode intellectuelle apolitique, détaché des ontologies avec lesquelles elles prétendent être en relation. Cusisanqui souligne que la décolonisation doit se vivre comme un processus quotidien : « il ne peut exister de discours de la décolonisation, de théories de la décolonisation sans une pratique de la décolonisation » (Cusicanqui 2020, 56; je traduis). Une pratique décolonisante suggère une façon de <em>faire-corps</em> avec la défamiliarisation de sa propre pensée, un sortir des sentiers battus de son imaginaire et l’invention de nouveaux langages, de nouveaux outils de pensée.
 
-C’est pourquoi le collectif NOMASMETAFORAS cherche à s’installer dans la brèche d’un travail de recherche académique et artistique. À travers un processus archipélique, il s’agit bien d’entreprendre une démarche expérimentale proche du <em>Caminar Preguntado</em><a href="#_ftn6" name="_ftnref6"><strong>[6]</strong></a>de la pensée zapatiste.
+C’est pourquoi le collectif NOMASMETAFORAS cherche à s’installer dans la brèche d’un travail de recherche académique et artistique. À travers un processus archipélique, il s’agit bien d’entreprendre une démarche expérimentale proche du <em>Caminar Preguntado</em><a href="#_ftn6" name="_ftnref6">[6]</a>de la pensée zapatiste.
 
 <em><u>NOMASMETAFORAS : Inventer les langages du plurivers</u></em>
 
@@ -96,9 +96,9 @@ Le travail de performance du collectif NOMASMETAFORAS cherche à ouvrir des espa
 
 Dans la performance DREAMING TECHNOLOGIES, c’est la relation entre le rêve et l’usage de la plante sacrée de la coca qui est évoquée de manière poétique et rituelle. Cette performance est une réflexion à propos de la colonisation de l’inconscient ainsi qu’une comparaison entre les nouvelles formes technologiques et les technologies ancestrales autochtones. Ce que le chaman Luis Aureliano Yunda explique, c’est que tous ces systèmes contemporains cherchent à renouer avec une connexion qui s’étend au-delà du symbolique. Une connexion que les communautés autochtones <em>d’Abya Yala</em> n’ont jamais perdue grâce à l’usage de la plante sacrée de la coca. Tous les exercices de performativité décoloniale du collectif émergent des rencontres avec les communautés du Cauca en Colombie et sont des tentatives d’imaginer les voix du plurivers où la création se fait en présence de « toutes les langues du monde » (Glissant 1992, 13).
 
-&nbsp;
 
-<img class="alignnone size-medium wp-image-3700" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/terraform-300x167.png" alt="" width="300" height="167" />
+
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/terraform-300x167.png" alt="" width="300" height="167" />
 
 <em>TERRAFORM,2020</em>
 
@@ -106,7 +106,7 @@ Performance artistique.
 
 © « Avec la permission de NOMASMETAFORAS»
 
-<img class="alignnone size-medium wp-image-3699" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/dreamingtech-300x155.png" alt="" width="300" height="155" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/dreamingtech-300x155.png" alt="" width="300" height="155" />
 
 <em> </em><em>DREAMING TECHNOLOGIES,2020</em>
 
@@ -116,13 +116,13 @@ Performance artistique.
 
 Une alliance avec les errances chamaniques nous invite donc à faire l’expérimentation d’autres modalités de pensées tout en impliquant un questionnement structurel de la nôtre. La pratique décoloniale implique une certaine « désorientation » de sa propre pensée, car elle consent à vivre une hésitation, un moment de suspens entre sa pensée et celle de l’autre. La philosophe Seloua Luste Boulbina parle de la nécessité « d’apprendre à se désorienter » (UDLA 12 novembre 2018, en ligne), ne plus percevoir l’incertitude comme quelque chose de négatif et se donner la liberté « d’aller voir ailleurs ». Pour les chamans des communautés du Cauca en Colombie, l’incertitude est la condition même de la connaissance, car elle permet l’errance et le déplacement des imaginaires. Davi Kopenawa parle de l’errance chamanique comme d’une pensée en étendue, où la sagesse permet de « se multiplier au loin, dans toutes les directions » (Kopenawa/Albert 2014, 692). L’errance chamanique est un imaginaire qui ne cherche pas à solutionner sa part d’opacité à travers l’autre, et, ce faisant, libère la possibilité de la relation. <em>Penser au loin</em> c’est une main tendue en un geste « glissantien » de <em>donner-avec</em> de sa propre pensée.
 
-<strong>Remerciements</strong>
+Remerciements
 
-<strong>Remerciements aux médecins traditionnels/chamans des communautés du département</strong> <strong>du Cauca en Colombie : Luis Aureliano Yunda de la communauté Nasa, Manuel Cisco de la communauté Nasa, Edwar Gil Jimenez de la communauté Yanakuna, Julio Caldón de la communauté Kokonuco et au coordinateur de l’Université Autonome Indigène Interculturelle, Jonathan Palacio pour la richesse de leurs enseignements et de leur</strong> <strong>générosité. Remerciements à L’École Universitaire de Recherche Eur</strong> <strong>ArTeC pour le soutien au projet « La Minga Espiral » du collectif NOMASMETAFORAS</strong> <strong>dans le cadre de la collaboration avec l’Université Autonome Interculturelle Indigène UAIIN-CRIC.</strong>
+Remerciements aux médecins traditionnels/chamans des communautés du département du Cauca en Colombie : Luis Aureliano Yunda de la communauté Nasa, Manuel Cisco de la communauté Nasa, Edwar Gil Jimenez de la communauté Yanakuna, Julio Caldón de la communauté Kokonuco et au coordinateur de l’Université Autonome Indigène Interculturelle, Jonathan Palacio pour la richesse de leurs enseignements et de leur générosité. Remerciements à L’École Universitaire de Recherche Eur ArTeC pour le soutien au projet « La Minga Espiral » du collectif NOMASMETAFORAS dans le cadre de la collaboration avec l’Université Autonome Interculturelle Indigène UAIIN-CRIC.
 
-<img class="alignnone size-medium wp-image-3698" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/cérémonie6-300x200.png" alt="" width="300" height="200" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/cérémonie6-300x200.png" alt="" width="300" height="200" />
 
-<img class="alignnone size-medium wp-image-3697" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/ceremonie7-300x164.png" alt="" width="300" height="164" />
+<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/ceremonie7-300x164.png" alt="" width="300" height="164" />
 
 Cérémonie de clôture du module 2020-2021 avec l’Université Autonome Interculturelle indigène UAIIN-CRIC.
 
@@ -167,13 +167,13 @@ Gauvin, Lise. <em>L’imaginaire des langues : entretien avec Édouard Glissant<
 
 Severi, Carlo. <em>Le Principe de la chimère : une anthropologie de la mémoire</em>. Paris : éditions Rue d’Ulm-musée du quai Branly, coll. « Aesthetica », 2007.
 
-Session 2: Conférence et débat de Seloua Luste Boulina et Françoise Vergès pour le programme : Université Décolonisons les arts et pour l’antenne : Décoloniser les arts. Enregistré à <a href="http://www.lacolonie.paris">La Colonie</a> le 12 novembre 2018 par <strong>Victor Donati</strong><strong> et Simon Marini. Mixage: Victor Donati. URL : </strong><a href="https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n2-seloua-luste-boulbina-les-miroirs-vagabonds-ou-la-decolonisation-des-savoirs">https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n2-seloua-luste-boulbina-les-miroirs-vagabonds-ou-la-decolonisation-des-savoirs</a>
+Session 2: Conférence et débat de Seloua Luste Boulina et Françoise Vergès pour le programme : Université Décolonisons les arts et pour l’antenne : Décoloniser les arts. Enregistré à <a href="http://www.lacolonie.paris">La Colonie</a> le 12 novembre 2018 par Victor Donati et Simon Marini. Mixage: Victor Donati. URL : <a href="https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n2-seloua-luste-boulbina-les-miroirs-vagabonds-ou-la-decolonisation-des-savoirs">https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n2-seloua-luste-boulbina-les-miroirs-vagabonds-ou-la-decolonisation-des-savoirs</a>
 
-Session 1 : <a href="https://www.r22.fr/recherche?c=Conf%8Erence">Conférence</a> &amp; <a href="https://www.r22.fr/recherche?c=D%8Ebat">Débat</a> de <a href="https://www.r22.fr/auteurices/V/francoise-verges">Françoise Vergès</a> pour le programme : <a href="https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts">Université Décolonisons les arts</a> et pour l'antenne : <a href="https://www.r22.fr/antennes/decoloniser-les-arts">Décoloniser les arts</a>. Enregistré à <a href="http://www.lacolonie.paris">La Colonie</a> le 8 octobre 2018 par <strong>Victor Donati</strong> et <strong>Simon Marini. </strong>Mixage : <strong>Victor Donati. URL : </strong>https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n1-francoise-verges-pourquoi-une-universite-notions-concepts-histoire-memoires
+Session 1 : <a href="https://www.r22.fr/recherche?c=Conf%8Erence">Conférence</a> &amp; <a href="https://www.r22.fr/recherche?c=D%8Ebat">Débat</a> de <a href="https://www.r22.fr/auteurices/V/francoise-verges">Françoise Vergès</a> pour le programme : <a href="https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts">Université Décolonisons les arts</a> et pour l'antenne : <a href="https://www.r22.fr/antennes/decoloniser-les-arts">Décoloniser les arts</a>. Enregistré à <a href="http://www.lacolonie.paris">La Colonie</a> le 8 octobre 2018 par Victor Donati et Simon Marini. Mixage : Victor Donati. URL : https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n1-francoise-verges-pourquoi-une-universite-notions-concepts-histoire-memoires
 
-&nbsp;
 
-<strong>Lien des sites internets/ travaux performatifs :</strong>
+
+Lien des sites internets/ travaux performatifs :
 
 <a href="https://nomasmetaforas.com/PERFORMA">https://nomasmetaforas.com/PERFORMA</a>
 
@@ -185,7 +185,7 @@ Lien du site Eur ArTeC :
 
 <a href="https://eur-artec.fr/">https://eur-artec.fr/</a>
 
-<strong>Notes</strong>
+Notes
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> Traduction : Tissu. Terme servant à décrire les arts textiles et bénéficiant d’une portée symbolique et conceptuelle dans les communautés du Cauca en Colombie.
 

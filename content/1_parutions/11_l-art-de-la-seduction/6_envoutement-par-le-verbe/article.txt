@@ -1,4 +1,4 @@
-title: [11-06]  Envoûtement par le verbe
+title:  Envoûtement par le verbe
 
 ----
 
@@ -22,61 +22,61 @@ abstract_en: The poem Esquisse d’un hymne à Marthe Beauvoisin is a key-piece 
 
 ----
 
-text: <blockquote class="spip_poesie">
-<div>Au commencement était le <i>désir.</i></div>
-<div></div>
-<div>Paul Nougé</div></blockquote>
+text: <blockquote>
+Au commencement était le <i>désir.</i>
+
+Paul Nougé</blockquote>
 Dans son « Fragment » [107], le chef-de-file du surréalisme de Bruxelles, Paul Nougé, écrit :
-<blockquote class="spip_poesie">
-<div>Points de départ.</div>
-<div>Descartes : Je pense, donc je suis.</div>
-<div>Moi : Je désire, donc je suis.</div>
-<div>Tout est à refaire à partir de cette seconde formule. (Nougé 1998 : 107)</div></blockquote>
+<blockquote>
+Points de départ.
+Descartes : Je pense, donc je suis.
+Moi : Je désire, donc je suis.
+Tout est à refaire à partir de cette seconde formule. (Nougé 1998 : 107)</blockquote>
 Derrière l’être, le désir. Voilà notre point de départ, d’après le conseil de ce grand penseur. Désir qui n’est pas pris ici dans son sens purement érotique, sensuel ou sexuel, mais dans un sens plus large où il représente une force qui mène à l’action (mot-clé dans l’univers de Paul Nougé). L’homme peut ainsi être considéré dans une certaine mesure comme une « machine désirante » (Deleuze et Guattari 1972 : 38-39), dont la mécanique est intrinsèquement réglée par cette force souvent obscure.
 
-Si le désir mène à l’action et s’il constitue la clé de l’affirmation de l’individu, il n’en reste pas moins que ce désir peut assumer différentes facettes. Dans cette étude, l’œuvre de Paul Nougé (Bruxelles, 1895-1967) sera analysée afin d’y repérer les contours de ce désir manifesté sous le voile de la séduction.<span class="spip_note_ref"> [1]</span> Le domaine de la séduction dans les écrits du surréaliste belge se révèle un véritable terrain de jeu, dont les rapports sont complexes et nourris de fécondes ambiguïtés.
+Si le désir mène à l’action et s’il constitue la clé de l’affirmation de l’individu, il n’en reste pas moins que ce désir peut assumer différentes facettes. Dans cette étude, l’œuvre de Paul Nougé (Bruxelles, 1895-1967) sera analysée afin d’y repérer les contours de ce désir manifesté sous le voile de la séduction. [1] Le domaine de la séduction dans les écrits du surréaliste belge se révèle un véritable terrain de jeu, dont les rapports sont complexes et nourris de fécondes ambiguïtés.
 
 Pour tenter de mieux comprendre les enjeux de la séduction dans cette œuvre, je propose une lecture de celui qui est souvent considéré comme un des plus beaux poèmes de Nougé, <i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin.</i> Cette lecture bénéficiera d’un dialogue avec d’autres textes de l’auteur. Le poème, demeuré inachevé, jouit d’une certaine célébrité, même si une analyse plus profonde reste toujours à faire.
 
 Paul Nougé, séducteur et objet de séduction, laissera dans l’<i>Esquisse</i> un vaste et riche chantier pour regarder de plus près la séduction, surtout celle du langage. Ainsi faut-il chercher à comprendre d’une part, quelles sont les différentes stratégies mises en œuvre pour configurer la séduction <i>dans</i> le verbe et, d’autre part, celles pour aboutir à la séduction <i>par</i> le verbe.
-<h3 class="spip">Deux volets d’une même histoire : séduire et être séduit</h3>
+<h3>Deux volets d’une même histoire : séduire et être séduit</h3>
 La séduction peut assumer diverses formes : physique, intellectuelle, linguistique ou visuelle. Souvent elle est le résultat de différentes formules qui mélangent une partie ou tous ces ingrédients. Une des caractéristiques de la séduction et de son analyse tient en effet à la difficulté que l’on ressent à la saisir, définir et comprendre dans toutes ses ambiguïtés et enjeux. En se situant aux frontières du désir, du jeu, de l’érotisme, de la sexualité et du langage, la séduction ne semble réunir autour de soi aucune définition consensuelle.
 
-Ainsi, séduire est l’acte d’attirer, mais aussi de détourner du droit chemin ou d’induire en erreur.<span class="spip_note_ref"> [2]</span> Le sens du mot a une charge plutôt négative que Paul Nougé semble partager. En effet, dans un des cahiers manuscrits laissés par Paul Nougé sur le sujet de la sexualité, cahiers toujours inédits, il écrit : « C’est là le grand danger qu’offre pour les deux sexes, mais surtout pour la femme, l’érotisme habilement dissimulé sous des formes hypocrites, destinées à idéaliser des intentions malhonnêtes. (séductions). » (Nougé AML : FS47 00173).
+Ainsi, séduire est l’acte d’attirer, mais aussi de détourner du droit chemin ou d’induire en erreur. [2] Le sens du mot a une charge plutôt négative que Paul Nougé semble partager. En effet, dans un des cahiers manuscrits laissés par Paul Nougé sur le sujet de la sexualité, cahiers toujours inédits, il écrit : « C’est là le grand danger qu’offre pour les deux sexes, mais surtout pour la femme, l’érotisme habilement dissimulé sous des formes hypocrites, destinées à idéaliser des intentions malhonnêtes. (séductions). » (Nougé AML : FS47 00173).
 
-Or, le mot « séduction » est pris dans cette étude dans le sens plus large et plus neutre d’« attirer ». C’est à partir de ce sens que nous essayerons de comprendre sa complexité dans l’œuvre de Paul Nougé.<span class="spip_note_ref"> [3]</span> Ainsi le flirt est-il pris, pour nous servir d’un exemple, comme une partie du même jeu de séduction. Dans ses cahiers, Nougé a longuement écrit sur le flirt, et en a analysé différentes manifestations. Selon lui, « [l]e flirt peut revêtir des formes très diverses selon l’éducation et le tempérament » (Nougé AML : FS47 00173). Dans cet acte, les sens les plus présents sont la vue et le toucher. Le langage y apparaît comme un traître : « et le jeu continue sans qu’un seul mot trahisse les sensations réciproques » (Nougé AML : FS47 00173). Mais le langage assume une position différente lorsque les hommes et les femmes font preuve d’autres caractéristiques :
-<blockquote class="spip">Le flirt prend un caractère bien plus délicat, plus nuancé, plus compliqué, caractère qui le rend gracieux et plein de charme, chez les personnes qui ont reçu une éducation fine et choisie, surtout quand elles possèdent en outre de hautes facultés intellectuelles ou artistiques. Mentionnons aussi la variété intellectuelle du flirt, variété qui ne s’exprime ni par le toucher, ni par les yeux, mais par le langage. (Nougé AML : FS47 00173)</blockquote>
+Or, le mot « séduction » est pris dans cette étude dans le sens plus large et plus neutre d’« attirer ». C’est à partir de ce sens que nous essayerons de comprendre sa complexité dans l’œuvre de Paul Nougé. [3] Ainsi le flirt est-il pris, pour nous servir d’un exemple, comme une partie du même jeu de séduction. Dans ses cahiers, Nougé a longuement écrit sur le flirt, et en a analysé différentes manifestations. Selon lui, « [l]e flirt peut revêtir des formes très diverses selon l’éducation et le tempérament » (Nougé AML : FS47 00173). Dans cet acte, les sens les plus présents sont la vue et le toucher. Le langage y apparaît comme un traître : « et le jeu continue sans qu’un seul mot trahisse les sensations réciproques » (Nougé AML : FS47 00173). Mais le langage assume une position différente lorsque les hommes et les femmes font preuve d’autres caractéristiques :
+<blockquote>Le flirt prend un caractère bien plus délicat, plus nuancé, plus compliqué, caractère qui le rend gracieux et plein de charme, chez les personnes qui ont reçu une éducation fine et choisie, surtout quand elles possèdent en outre de hautes facultés intellectuelles ou artistiques. Mentionnons aussi la variété intellectuelle du flirt, variété qui ne s’exprime ni par le toucher, ni par les yeux, mais par le langage. (Nougé AML : FS47 00173)</blockquote>
 Dans ce cas, le langage assume donc un rôle primordial et décisif dans le jeu de la séduction. Maîtrise de celui qui séduit, véhicule de séduction pour celui qui est séduit. Tout le jeu (et le langage l’élève à un niveau de complexité supérieur) est souvent posé en termes de victimisation, comme dans un tableau de chasse où sont dépeints chasseur et proie. Or, nous l’avons dit, l’acte de séduction est plus complexe qu’il ne pourrait paraître à première vue. En effet, « la vraie question ne se situe pas tant au niveau de l’ethos<i>,</i> de la volonté ou non de séduire et de manipuler, que du <i>pathos,</i> c’est-à-dire de l’acceptation plus ou moins consciente de cette manipulation » (Meyer 1993 : 45).
 
 Pour que la séduction existe, il faut toujours ce double jeu qui fait que l’être séduit accepte aussi de jouer son rôle. Séduire constitue l’actualisation d’un geste qui va de l’un à l’autre dans le but d’attirer l’attention et de faire accepter un lien, si éphémère soit-il, basé sur une sorte de complicité et connivence qui s’établit entre le séducteur et l’objet de sa séduction, que ce soit de façon consciente ou inconsciente.
-<h3 class="spip">La femme et le geste</h3>
-Or, chez Nougé, ce geste s’exprime aussi dans les textes.<span class="spip_note_ref"> [4]</span> Comme dans de nombreuses œuvres d’autres surréalistes, en commençant par <i>Nadja</i> d’André Breton jusqu’à la figure fragmentée de Georgette dans les toiles de René Magritte, la femme occupe dans l’œuvre du penseur surréaliste bruxellois un rôle essentiel. Elle y joue souvent un double rôle : celui de séductrice et, en même temps, celui d’objet de séduction. D’autre part, il est intéressant de noter que l’auteur présente deux visions de la créature féminine : la louange – sorte d’élévation de la femme en tant qu’être distant, énigmatique et important – ; et la critique – le portrait hyperbolique et ironique de la femme, ou « la diatribe misogyne » (Gonzalez Salvador 1997 : 276), dans <i>Procès</i> <i>de</i> <i>la</i> <i>femme,</i><span class="spip_note_ref"> [5]</span> en témoigne.
+<h3>La femme et le geste</h3>
+Or, chez Nougé, ce geste s’exprime aussi dans les textes. [4] Comme dans de nombreuses œuvres d’autres surréalistes, en commençant par <i>Nadja</i> d’André Breton jusqu’à la figure fragmentée de Georgette dans les toiles de René Magritte, la femme occupe dans l’œuvre du penseur surréaliste bruxellois un rôle essentiel. Elle y joue souvent un double rôle : celui de séductrice et, en même temps, celui d’objet de séduction. D’autre part, il est intéressant de noter que l’auteur présente deux visions de la créature féminine : la louange – sorte d’élévation de la femme en tant qu’être distant, énigmatique et important – ; et la critique – le portrait hyperbolique et ironique de la femme, ou « la diatribe misogyne » (Gonzalez Salvador 1997 : 276), dans <i>Procès</i> <i>de</i> <i>la</i> <i>femme,</i> [5] en témoigne.
 
 La femme, son corps et sa pensée ; un univers érotique, sensuel et sexuel – voilà des aspects qui pourraient être amplement étudiés dans l’œuvre de Nougé. Des textes poétiques de l’<i>Expérience</i> <i>continue</i> aux <i>Commentaires</i> publiés posthumément dans <i>Érotiques,</i> l’univers lié à la séduction est vaste. Mais, contrairement à ce que l’on pourrait penser, en s’opposant au rôle accordé à l’inconscient par le groupe d’André Breton, Nougé hisse comme drapeau de guerre la conscience et l’action consciente, contrôlée – même dans l’amour : « (Ma caractéristique intellectuelle peut-être essentielle : ne jamais perdre le contrôle, jamais de laisser-aller, de spontanéité, même dans la colère, ni en faisant l’amour. […]) » (Nougé 1995 : 26).
 
 Cette conscience se fait donc sentir encore plus dans le jeu de la séduction. Simultanément, c’est la même conscience, à l’intérieur et en dehors du jeu de séduction, qui lui impose des limites au niveau de l’expression, comme on le verra un peu plus loin dans le poème <i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin.</i>
-<h3 class="spip">Le réseau de textes érotiques</h3>
+<h3>Le réseau de textes érotiques</h3>
 Si l’on revient encore un moment à cette idée de la séduction comme un geste, il en est un qui se révèle, ou plutôt, qui s’actualise dans ce qui est raconté, mais également dans l’acte de langage. Chez Paul Nougé, la séduction est racontée, fictionnalisée (comme dans <i>Le</i> <i>Carnet</i> <i>secret</i> <i>de</i> <i>Feldheim),</i> mais elle est souvent, de façon plus ou moins voilée, une séduction par le langage. La proie ici n’est que le lecteur – pas victime, mais complice de l’acte de séduction.
 
-Si l’œuvre du surréaliste belge n’est pas très vaste, le réseau des textes érotiques, liés à la femme, au flirt, à la séduction ou à l’acte sexuel en est d’autant plus significatif. Sans prétendre établir une liste ni concevoir une taxonomie de ce type de textes écrits par Nougé, on peut cependant en trouver une grande diversité. Dans <i>Histoire</i> <i>ne</i> <i>pas</i> <i>rire,</i> notamment dans <i>De</i> <i>la</i> <i>chair</i> <i>au</i> <i>verbe,</i> Nougé tisse des considérations sur le langage érotique (Nougé 1980 : 131-135). Un large éventail de textes de l’<i>Expérience</i> <i>continue</i> offre différentes perspectives de la femme, de l’amour, de la séduction par le langage (<i>La</i> <i>Messagère,</i> poème d’ouverture de l’ouvrage, en dit longuement).<span class="spip_note_ref"> [6]</span> On peut en outre trouver des textes inédits qui semblent être de véritables essais de psychologie sexuelle.<span class="spip_note_ref"> [7]</span> Finalement, un grand nombre de textes de fiction et d’analyse ont été réunis dans le volume <i>Érotiques</i> (Nougé 1994). Ces textes sont bel et bien « un véritable laboratoire de recherche sur l’efficacité poétique » (Paque 1997 : 267). Parallèlement, ces écrits, dont les inédits, sont caractérisés par un « ton analytique », une « espèce d’objectivité froide », de « subjectivité contenue » (Halen 2001 : 446). Pierre Halen va jusqu’à voir, surtout dans les <i>Commentaires,</i> un « rapport entre excitation sexuelle et excitation à la création poétique » (Halen 2001 : 446). Outre les <i>Commentaires,</i> l’ouvrage <i>Érotiques</i> contient des textes en prose et un seul poème : <i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin.</i><span class="spip_note_ref"> [8]</span>
-<h3 class="spip">L’<i>Esquisse</i></h3>
+Si l’œuvre du surréaliste belge n’est pas très vaste, le réseau des textes érotiques, liés à la femme, au flirt, à la séduction ou à l’acte sexuel en est d’autant plus significatif. Sans prétendre établir une liste ni concevoir une taxonomie de ce type de textes écrits par Nougé, on peut cependant en trouver une grande diversité. Dans <i>Histoire</i> <i>ne</i> <i>pas</i> <i>rire,</i> notamment dans <i>De</i> <i>la</i> <i>chair</i> <i>au</i> <i>verbe,</i> Nougé tisse des considérations sur le langage érotique (Nougé 1980 : 131-135). Un large éventail de textes de l’<i>Expérience</i> <i>continue</i> offre différentes perspectives de la femme, de l’amour, de la séduction par le langage (<i>La</i> <i>Messagère,</i> poème d’ouverture de l’ouvrage, en dit longuement). [6] On peut en outre trouver des textes inédits qui semblent être de véritables essais de psychologie sexuelle. [7] Finalement, un grand nombre de textes de fiction et d’analyse ont été réunis dans le volume <i>Érotiques</i> (Nougé 1994). Ces textes sont bel et bien « un véritable laboratoire de recherche sur l’efficacité poétique » (Paque 1997 : 267). Parallèlement, ces écrits, dont les inédits, sont caractérisés par un « ton analytique », une « espèce d’objectivité froide », de « subjectivité contenue » (Halen 2001 : 446). Pierre Halen va jusqu’à voir, surtout dans les <i>Commentaires,</i> un « rapport entre excitation sexuelle et excitation à la création poétique » (Halen 2001 : 446). Outre les <i>Commentaires,</i> l’ouvrage <i>Érotiques</i> contient des textes en prose et un seul poème : <i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin.</i> [8]
+<h3>L’<i>Esquisse</i></h3>
 D’aucuns se demandent toujours : « Est-ce un poème ? » (Halen 2001 : 443). La réponse serait oui, il s’agit en effet d’un poème, mais sous sa forme inachevée. Deux manuscrits avec des notes ont été trouvés. Même inachevé, ce poème est parmi les plus beaux de Nougé, mélange de vie et de mort, de bonheur et de tristesse, d’amour et de douleur, de tendresse et de sauvagerie sexuelle. C’est une analyse et un adieu.
 
-Du poème à la vie, le lecteur peut reconnaître des données exactes, comme des lieux, des rues, des gens, en commençant par Marthe Beauvoisin. Elle était la seconde épouse de Nougé et ils ont partagé plus de vingt ans de vie commune.<span class="spip_note_ref"> [9]</span> Marthe, « une jeune femme hystérique et suicidaire mais aussi foncièrement rebelle, subversive, bouleversante » (Smolders 1995 : 70), ne pouvait que séduire Nougé. Toutefois, leur vie n’était en rien pacifique. Nougé parlait de leur relation comme d’un « combat d’archanges » (Mariën 1988 : 158). L’inévitable séparation a eu lieu en 1953, suite à de nombreux épisodes tragiques. L’<i>Esquisse</i> a très probablement été écrite pendant ces moments difficiles de la vie du surréaliste.
+Du poème à la vie, le lecteur peut reconnaître des données exactes, comme des lieux, des rues, des gens, en commençant par Marthe Beauvoisin. Elle était la seconde épouse de Nougé et ils ont partagé plus de vingt ans de vie commune. [9] Marthe, « une jeune femme hystérique et suicidaire mais aussi foncièrement rebelle, subversive, bouleversante » (Smolders 1995 : 70), ne pouvait que séduire Nougé. Toutefois, leur vie n’était en rien pacifique. Nougé parlait de leur relation comme d’un « combat d’archanges » (Mariën 1988 : 158). L’inévitable séparation a eu lieu en 1953, suite à de nombreux épisodes tragiques. L’<i>Esquisse</i> a très probablement été écrite pendant ces moments difficiles de la vie du surréaliste.
 
-Dans l’ensemble des écrits de Nougé, « [l]’étonnante <i>Esquisse</i> <i>d</i>’<i>un</i> <i>Hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin</i> fait […] figure d’exception, qui mêle étroitement les démons de la chair et une passion amoureuse presque pathétique » (Smolders 1995 : 67). C’est un texte qui frôle la confession, qui plonge dans un ton intimiste, « <i>presque</i> pathétique ».<span class="spip_note_ref"> [10]</span> Il semble qu’à tout moment le texte puisse prendre la voie d’un laisser-aller dans le monde de la sentimentalité, pourtant Nougé ne franchit pas le pas. Il continue de se contrôler dans la douleur profonde et le déchirement complet. Il se peut que ce contrôle soit un vrai obstacle à l’expression de son deuil (de la relation amoureuse), raison pour laquelle le poème ne voit jamais son aboutissement. Après quoi, l’acte d’écriture deviendra de plus en plus difficile, conduisant au silence graduel du mot poétique sous la plume de Nougé.
+Dans l’ensemble des écrits de Nougé, « [l]’étonnante <i>Esquisse</i> <i>d</i>’<i>un</i> <i>Hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin</i> fait […] figure d’exception, qui mêle étroitement les démons de la chair et une passion amoureuse presque pathétique » (Smolders 1995 : 67). C’est un texte qui frôle la confession, qui plonge dans un ton intimiste, « <i>presque</i> pathétique ». [10] Il semble qu’à tout moment le texte puisse prendre la voie d’un laisser-aller dans le monde de la sentimentalité, pourtant Nougé ne franchit pas le pas. Il continue de se contrôler dans la douleur profonde et le déchirement complet. Il se peut que ce contrôle soit un vrai obstacle à l’expression de son deuil (de la relation amoureuse), raison pour laquelle le poème ne voit jamais son aboutissement. Après quoi, l’acte d’écriture deviendra de plus en plus difficile, conduisant au silence graduel du mot poétique sous la plume de Nougé.
 
-Ainsi ce poème présente-t-il, toujours avec un pied dans le temps présent, un regard en arrière, qui déploie les différentes étapes du processus de séduction. Mais il ne faut pas penser qu’une chronologie règne sur ces phases ou que les épisodes s’expliquent successivement : « C’est drôle je respecte mal la chronologie / tant les images se pressent » (185).<span class="spip_note_ref"> [11]</span> C’est un ensemble d’instantanés qui cristallisent des moments où la séduction se constitue en tant que geste(s).
+Ainsi ce poème présente-t-il, toujours avec un pied dans le temps présent, un regard en arrière, qui déploie les différentes étapes du processus de séduction. Mais il ne faut pas penser qu’une chronologie règne sur ces phases ou que les épisodes s’expliquent successivement : « C’est drôle je respecte mal la chronologie / tant les images se pressent » (185). [11] C’est un ensemble d’instantanés qui cristallisent des moments où la séduction se constitue en tant que geste(s).
 
 Ce poème est l’histoire d’un jeu et il constitue lui-même un autre jeu. Si sur un premier plan, il s’agit d’un hymne à l’amour et à la sexualité, il faut regarder deux arrière-plans qui se conjuguent : la mémoire et le pouvoir du langage.
-<h3 class="spip">Entre le souvenir et l’oubli</h3>
+<h3>Entre le souvenir et l’oubli</h3>
 Dans l’<i>Esquisse</i><i>,</i> l’on peut repérer deux niveaux de séduction, ou mieux, deux objets visés par le séducteur Nougé : Marthe et le lecteur. Le premier s’avère être dès lors un échec, Marthe n’étant plus présente ; le deuxième, en tant qu’actualisation du texte et de ses effets, se situe dans un espace et temps lointains. Cet acte, surtout en ce qui concerne la figure de Marthe, est opéré par les images évoquées, par les souvenirs véhiculés par la parole écrite. Parole sur laquelle le poème s’entame :
-<blockquote class="spip_poesie">
-<div>La page blanche m’effraie</div>
-<div>car je dois la couvrir de tant de signes</div>
-<div>car je n’ai pas perdu une goutte de ta vie</div>
-<div>de cette part de vie</div>
-<div>que j’ai connue (181)</div></blockquote>
+<blockquote>
+La page blanche m’effraie
+car je dois la couvrir de tant de signes
+car je n’ai pas perdu une goutte de ta vie
+de cette part de vie
+que j’ai connue (181)</blockquote>
 L’angoisse de la page blanche est ainsi un cliché auquel Nougé s’attaque dès le premier abord, non pas pour construire un poème « parfait », mais plutôt par un zèle excessif et presqu’obsessif de ne rien oublier de la vie de Marthe (comme on le voit au fur et à mesure que les strophes défilent devant nos yeux) : « Déchiré par la séparation, il s’accroche comme un fou aux moments vécus en commun » (Torre Giménez 1995 : 93).
 
 L’<i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin</i> raconte une histoire de séduction, surtout d’amours charnels. En même temps, c’est une histoire d’un passé raconté au présent. Un jeu entre le passé évoqué et le présent évocateur prend forme. Toutefois, il faut bien le souligner, ce présent évocateur ne fait que réinventer un passé qui n’appartient qu’au domaine de la mémoire. Le sujet poétique et le lecteur sont tous deux enveloppés dans les fils qui se tissent petit à petit par un jeu entre le passé et le présent et qui s’actualise effectivement dans l’acte linguistique. Un jeu qui s’établit également, tel un autre volet du même tableau, entre le « je » (sujet poétique) et le « tu » (objet de mémoire et d’évocation aussi bien qu’interlocuteur absent). En effet, si ce jeu est présent depuis la première strophe, Marthe n’est effectivement nommée qu’à la neuvième.
@@ -86,109 +86,109 @@ Après une entrée en matière de trois strophes, Nougé commence son exercice d
 Dans les notes laissées par Nougé en marge du poème, vraisemblablement des notes encore à travailler pour les intégrer dans le corps de son texte, « ne pas oublier » est le mot d’ordre. Ces notes présentent une suite de menus épisodes que, à l’image de certains dans le poème, le lecteur ne connaîtra jamais tout à fait. À titre d’exemple, lisons la strophe suivante : « Ne pas oublier / Marthe, Éluard et / l’étoile filante » (191).
 
 Épisodes qui évoquent directement et de façon objective des amours charnels, mais qui montrent aussi le processus de séduction (ou de flirt, si l’on s’attache aux termes utilisés par Nougé dans ses cahiers) précédant l’acte physique :
-<blockquote class="spip_poesie">
-<div>Tu apportais une bouteille de champagne</div>
-<div>Nous avons loué une chambre d’hôtel</div>
-<div>Je me suis bien lavé pour te faire plaisir</div>
-<div>Tu fumais une cigarette</div>
-<div>Tu te rougissais les lèvres</div>
-<div>Je t’ai traitée doucement de petite putain</div>
-<div>Tu m’as dit que tu n’avais jamais bien</div>
-<div>regardé un sexe d’homme</div>
-<div>Je t’ai crue</div>
-<div>Je t’ai embrassé partout</div>
-<div>Nous avons fait l’amour jusqu’à l’aube</div>
-<div>Puis il a fallu se quitter (198)</div></blockquote>
+<blockquote>
+Tu apportais une bouteille de champagne
+Nous avons loué une chambre d’hôtel
+Je me suis bien lavé pour te faire plaisir
+Tu fumais une cigarette
+Tu te rougissais les lèvres
+Je t’ai traitée doucement de petite putain
+Tu m’as dit que tu n’avais jamais bien
+regardé un sexe d’homme
+Je t’ai crue
+Je t’ai embrassé partout
+Nous avons fait l’amour jusqu’à l’aube
+Puis il a fallu se quitter (198)</blockquote>
 Le long exercice de mémoire, la pure évocation ou la reconstitution du passé par la parole écrite ne sont pas les remèdes miraculeux pour expulser la douleur trop profonde et neutraliser un lien trop saisissant, que Nougé a d’ailleurs du mal à exprimer :
-<blockquote class="spip_poesie">
-<div>Dis-moi, dis-moi, dis-moi</div>
-<div>dis-moi enfin</div>
-<div>ce que je ne saurais dire</div>
-<div>et qui me déchire (197)</div></blockquote>
-Sur un ton presque désespéré, Nougé fait foi de sa douleur en même temps que de son incapacité à l’aveu, à la confidence. Il ressent le besoin d’en dire plus, mais des limites existent qu’il semble ne pas pouvoir franchir. En effet, sa conscience profonde et son esprit critique aigu ne lui permettent pas de transposer en mots des sentiments et des angoisses trop intimes.<span class="spip_note_ref"> [12]</span> Il lance un cri de désespoir qui n’obtiendra aucune réponse. Marthe ne vient pas. Marthe ne vient plus. Il doit donc continuer de faire son exercice comme il peut. C’est donc à lui-même qu’il s’adresse dans la dernière strophe qui apparaît en marge, dans laquelle le nom de Marthe apparaît à trois reprises :
-<blockquote class="spip_poesie">
-<div>Et pour moi, ne</div>
-<div>pas oublier, à Longue-</div>
-<div>ville, Marthe à</div>
-<div>la crête de la colline</div>
-<div>en plein soleil, sur</div>
-<div>bleu pur sans nuages,</div>
-<div>la tête serrée dans</div>
-<div>un foulard, Marthe</div>
-<div>en pauvre cotonnade brune</div>
-<div>à pois [sic] blancs, Marthe</div>
-<div>bien vivante, venant</div>
-<div>à ma rencontre, et</div>
-<div>levant pour moi</div>
-<div>les bras que</div>
-<div>j’attendais</div>
-<div>………………….. (192)</div></blockquote>
+<blockquote>
+Dis-moi, dis-moi, dis-moi
+dis-moi enfin
+ce que je ne saurais dire
+et qui me déchire (197)</blockquote>
+Sur un ton presque désespéré, Nougé fait foi de sa douleur en même temps que de son incapacité à l’aveu, à la confidence. Il ressent le besoin d’en dire plus, mais des limites existent qu’il semble ne pas pouvoir franchir. En effet, sa conscience profonde et son esprit critique aigu ne lui permettent pas de transposer en mots des sentiments et des angoisses trop intimes. [12] Il lance un cri de désespoir qui n’obtiendra aucune réponse. Marthe ne vient pas. Marthe ne vient plus. Il doit donc continuer de faire son exercice comme il peut. C’est donc à lui-même qu’il s’adresse dans la dernière strophe qui apparaît en marge, dans laquelle le nom de Marthe apparaît à trois reprises :
+<blockquote>
+Et pour moi, ne
+pas oublier, à Longue-
+ville, Marthe à
+la crête de la colline
+en plein soleil, sur
+bleu pur sans nuages,
+la tête serrée dans
+un foulard, Marthe
+en pauvre cotonnade brune
+à pois [sic] blancs, Marthe
+bien vivante, venant
+à ma rencontre, et
+levant pour moi
+les bras que
+j’attendais
+………………….. (192)</blockquote>
 Si Nougé n’a pas gagné un peu de tranquillité en écrivant le poème, il aura du moins fait ses adieux. En même temps qu’il immortalise l’image de Marthe et leur amour vécu ensemble, il clôture un long chapitre de sa vie. C’est le début de son deuil : « Puis la nuit est tombée pour toujours » (196).
-<h3 class="spip">Envoûter par le verbe</h3>
+<h3>Envoûter par le verbe</h3>
 Nous avons vu la façon dont la séduction se profile dans l’œuvre de Nougé, en particulier son actualisation dans l’<i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin.</i> De nouveau, la séduction est un geste qui est décrit, mais elle est aussi le geste qui se constitue dans le processus d’écriture, par le langage. Ce qui est en jeu est toujours la séduction de l’autre, que cet autre soit Marthe Beauvoisin ou tout lecteur.
 
 Outre certains procédés linguistiques et rhétoriques que Nougé met en œuvre dans son texte, la séduction du lecteur se fait aussi par la curiosité éveillée. De fait, l’<i>Esquisse</i> rassemble un ensemble d’épisodes fragmentés qui ne donnent pas au lecteur le cadre complet. Il pose des questions et continue la lecture en espérant y trouver des réponses (vaine attente !). Il est poussé par la volonté de savoir la suite et la fin l’histoire, d’en connaître les méandres, en même temps qu’il est pris dans le flux de l’« objectivité froide » (Halen 2001 : 446) des états d’excitation sexuelle et des rencontres charnelles. Voilà ouverte la grande porte pour une entrée dans l’acte de séduction verbale, <i>i.e.</i> par le langage.
 
 L’auteur utilise diverses stratégies d’écriture tout au long de ce processus. Cette étude se limitera à aborder les plus importantes pour le maillage de la séduction. Ces stratégies d’écriture sont souvent intimement liées à des procédés subversifs, caractéristiques de l’écriture nougéenne. Dans ce poème en particulier, et depuis le début, comme nous avons déjà eu l’occasion de le noter, la composition des différents temps verbaux invite le lecteur à suivre le sujet poétique dans sa reconstruction de la mémoire, réinventant lui aussi une mémoire qui n’est pas la sienne et qui lui parvient en fragments. Le jeu entre le passé (passé simple, passé composé et imparfait), le présent et l’impératif (souvent associé au vocatif) constitue le triangle temporel que le lecteur tente de suivre :
-<blockquote class="spip_poesie">
-<div>J’ai peine à retrouver les sentiers de notre vie</div>
-<div>tant ils sont nombreux</div>
-<div>mais il faut à tout prix que je reconnaisse</div>
-<div>cette rue qui donne à la place de Brouckère</div>
-<div>à gauche si l’on regarde le cinéma</div>
-<div>car c’est là que nous fîmes vraiment l’amour</div>
-<div>pour la première fois</div>
-<div></div>
-<div>c’était l’après-midi</div>
-<div>j’avais de toi une envie irrésistible</div>
-<div>[…]</div>
-<div>Marthe n’oublie pas la rue de la Tulipe</div>
-<div>et la petite rue qui donne dans les Galeries Saint-Hubert</div>
-<div>où nous avons tant joui. (183)</div></blockquote>
+<blockquote>
+J’ai peine à retrouver les sentiers de notre vie
+tant ils sont nombreux
+mais il faut à tout prix que je reconnaisse
+cette rue qui donne à la place de Brouckère
+à gauche si l’on regarde le cinéma
+car c’est là que nous fîmes vraiment l’amour
+pour la première fois
+
+c’était l’après-midi
+j’avais de toi une envie irrésistible
+[…]
+Marthe n’oublie pas la rue de la Tulipe
+et la petite rue qui donne dans les Galeries Saint-Hubert
+où nous avons tant joui. (183)</blockquote>
 Nougé invite le lecteur à le suivre dans ces moments intimes, entre passé et présent, en lui faisant partager certaines sensations. À cet égard, les synesthésies se trouvent parmi les procédés rhétoriques les plus puissants :
-<blockquote class="spip_poesie">
-<div>je te léchai je te baisai</div>
-<div>tu avais un peu froid</div>
-<div>la lumière était faible</div>
-<div>j’écoutais le bruit délicieux de cet air</div>
-<div>que ton sexe exhalait</div>
-<div>comme un témoignage, j’imaginais,</div>
-<div>de ton plaisir. (183)</div></blockquote>
+<blockquote>
+je te léchai je te baisai
+tu avais un peu froid
+la lumière était faible
+j’écoutais le bruit délicieux de cet air
+que ton sexe exhalait
+comme un témoignage, j’imaginais,
+de ton plaisir. (183)</blockquote>
 La séduction fait ainsi appel à tous les sens et l’acte est épicé par l’imagination. La métaphore contribue elle aussi au processus : « pense au ballet dansé du bout des doigts / sur la table de bois nue » (186). Finalement, parmi les divers procédés rhétoriques, l’énumération assume un rôle primordial dans tout le poème, reflet de la nécessité de ne rien oublier, de faire une sorte de liste, avec tous les détails, sans les expliquer ni les structurer :
-<blockquote class="spip_poesie">
-<div>Marthe souviens-toi mon petit Bouddha</div>
-<div>abreuvé de scotch</div>
-<div>de ton ventre voilé d’une culotte de dentelle</div>
-<div>de ton corsage libre</div>
-<div>de tes seins tendus</div>
-<div>de ta bouche folle</div>
-<div>et de l’avenue Georges Henri (182-183)</div></blockquote>
+<blockquote>
+Marthe souviens-toi mon petit Bouddha
+abreuvé de scotch
+de ton ventre voilé d’une culotte de dentelle
+de ton corsage libre
+de tes seins tendus
+de ta bouche folle
+et de l’avenue Georges Henri (182-183)</blockquote>
 Le décor, les vêtements, l’ambiance – tout semble être mis en scène pour la séduction. Le lecteur n’a qu’à accompagner l’énumération, parfois vertigineusement, tout en comblant les espaces blancs par son imagination, par son pouvoir de recréation des scènes qui lui sont données à lire.
 
 On peut aussi penser à une mise en scène du monologue d’une figure masculine (et souvenons-nous de la <i>Messagère</i> comme d’une sorte de contrepoint), où les parenthèses fonctionnent comme des apartés adressés à Marthe, au sujet poétique ou au lecteur - un souvenir parfois, souvent des remarques sur le texte :
-<blockquote class="spip_poesie">
-<div>(Et pourquoi craindre encore</div>
-<div>l’allusion intime</div>
-<div>l’abîme personnel</div>
-<div>le clin d’œil par-dessus les têtes</div>
-<div>tant pis pour ceux</div>
-<div>qui ne comprendront pas) (186)</div></blockquote>
+<blockquote>
+(Et pourquoi craindre encore
+l’allusion intime
+l’abîme personnel
+le clin d’œil par-dessus les têtes
+tant pis pour ceux
+qui ne comprendront pas) (186)</blockquote>
 Nougé va encore plus loin et attribue à la parenthèse toute sa valeur de distanciation, non seulement par rapport au texte qui s’écrit, mais par rapport à celui qui lit, tout en projetant la lecture dans une figure particulière, l’exégète :
-<blockquote class="spip_poesie">
-<div>(L’exégète qui plongera plus tard</div>
-<div>dans ce poème</div>
-<div>ne nagera pas facilement) (187)<span class="spip_note_ref"> [13]</span></div></blockquote>
+<blockquote>
+(L’exégète qui plongera plus tard
+dans ce poème
+ne nagera pas facilement) (187) [13]</blockquote>
 Nous voilà aujourd’hui autour de cet « extraordinaire texte » (Quaghebeur 1997 : 148), en cherchant à questionner la façon dont le jeu complexe de la séduction s’y configure. À la fin, c’est dans les mots de Nougé que l’on peut encore chercher quelques réponses. C’est en effet dans une de ces parenthèses que tout est condensé :
-<blockquote class="spip_poesie">
-<div>(Il ne faut plus craindre la répétition</div>
-<div>on ne dira jamais assez ce</div>
-<div>“faire l’amour”</div>
-<div>qui roule sans fin dans les têtes humaines</div>
-<div>comme le tam-tam magique des forêts</div>
-<div>que nous ne pénétrerons jamais</div>
-<div>et comme le Boléro de Maurice Ravel) (186)</div></blockquote>
+<blockquote>
+(Il ne faut plus craindre la répétition
+on ne dira jamais assez ce
+“faire l’amour”
+qui roule sans fin dans les têtes humaines
+comme le tam-tam magique des forêts
+que nous ne pénétrerons jamais
+et comme le Boléro de Maurice Ravel) (186)</blockquote>
 L’on en revient dans cette strophe au désir, à la magie ; à la danse des corps, à l’érotisme et à la musique qui contribuent à créer une sorte d’ambiance mystérieuse. Tout est là, mais tout est aussi dissimulation. La séduction se fait entre le mystère que « nous ne pénétrerons jamais », le « tam-tam magique » que personne ne sait expliquer et son aboutissement dans l’acte de « faire l’amour », partagé, selon Nougé, par tout être humain.
-<h3 class="spip">Manipulation et pouvoir</h3>
+<h3>Manipulation et pouvoir</h3>
 La séduction enferme pourtant des relations qui vont au-delà de la relation amoureuse. Avec son lecteur, Nougé établit clairement et de façon provocante une relation – une séduction – de pouvoir. Si l’<i>Esquisse</i> s’avère être un poème simultanément touchant et distant, cela tient aussi à la tension et à l’ironie qui font violence. Dans ce sens, la poésie de Nougé affirme « [c]ette combinaison incontournable de la violence et de la séduction, du vaincre et du convaincre, tisse les grandes fictions rhétoriques de l’humanité depuis toujours » (Meyer 1993 : 126).
 
 La séduction est ainsi un jeu de pouvoir et de manipulation, de dissimulations et de connivences. L’affirmation identitaire (ne fût-ce qu’intérieure et inavouée / inavouable) a lieu dans ce rapport de forces, dans cette lutte de pouvoir. Tout le jeu de la séduction vise à la soumission d’autrui, ne fût-ce qu’apparente. Il s’établit donc un rapport ambivalent et basé sur la dissimulation, comme en témoigne le poème de Nougé soit en ce qui concerne Marthe, soit en ce qui concerne le lecteur.
@@ -196,25 +196,25 @@ La séduction est ainsi un jeu de pouvoir et de manipulation, de dissimulations 
 Entre la dissimulation et l’illusion, les questions de l’identité sont un peu plus complexes parce que « ll]a séduction a pour objet une différence pour atteindre indirectement l’identité, elle cristallise l’apparence dans laquelle le sujet peut se réfugier » (Meyer 1993 : 132). Cette identité dans le processus de séduction est ainsi une identité illusoire, créée à cet effet. Finalement, n’est-ce pas là « la réponse sans question à la question qui n’a pas de réponse : “Dites-moi qui je suis, pour que je sois ce que vous dites” » (Meyer 1993 : 132-133) ?
 
 De fait, et comme nous l’avons vu tout au long de l’<i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin,</i> Nougé reconstruit ces épisodes pour le lecteur, mais aussi pour lui-même. Le surréaliste bruxellois met en place non seulement une séduction basée sur la dissimulation et l’illusion de la réalité, mais, par des procédés divers dont le jeu des temps et l’ironie, il obtient finement une séduction qui bouleverse la réalité et les illusions de cette même réalité. Ce poème est ainsi une reconstruction symbolique, par des signes, qui cherche à reconstituer une réalité inexistante, le séducteur se laissant entraîner dans le leurre qu’il a, lui-même, mis consciemment sur pied.
-<h3 class="spip">Notes pour une conclusion</h3>
+<h3>Notes pour une conclusion</h3>
 Dans l’<i>Esquisse</i><i>,</i> séduire est ainsi séduire Marthe, séduire le lecteur et se séduire soi-même. Tout le processus de séduction peut être compris comme une quête d’affirmation de soi, de pouvoir, mais toujours dans le cadre de la complicité. En effet, on trouve énoncés certains principes de la philosophie des surréalistes bruxellois : bouleverser, chercher des complices, changer la société. C’est ainsi que dans l’univers de la séduction et même dans un poème comme l’<i>Esquisse</i><i>,</i> où un certain ton confessionnel et intimiste n’est pas absent, Nougé n’abandonne jamais son attitude critique et met en place des procédés qui visent la séduction du lecteur. Séduire le lecteur est aussi, avec Nougé, le <i>détourner</i> <i>du</i> <i>droit</i> <i>chemin</i> et le bouleverser à chaque pas. En même temps, le lecteur se voit acteur dans tout le processus dont il devient une partie intégrante.
 
-Dans les pièces de « littérature mineure » (Deleuze et Guattari : 1975) que sont les textes de Nougé, l’<i>Esquisse</i> devient ainsi un objet bouleversant<span class="spip_note_ref"> [14]</span> privilégié. Bouleversant non seulement par la froide beauté de cette histoire inachevée, mais surtout par le jeu entre séduction, érotisme, sensualité, sexe et amour ; jeu vécu dans une relation de l’un à l’autre, marquée par le désir, la douleur et la complicité.
+Dans les pièces de « littérature mineure » (Deleuze et Guattari : 1975) que sont les textes de Nougé, l’<i>Esquisse</i> devient ainsi un objet bouleversant [14] privilégié. Bouleversant non seulement par la froide beauté de cette histoire inachevée, mais surtout par le jeu entre séduction, érotisme, sensualité, sexe et amour ; jeu vécu dans une relation de l’un à l’autre, marquée par le désir, la douleur et la complicité.
 
 Il reste à savoir si le lecteur de ces pages est séduit. Nous arrivons à la fin et avec Nougé nous pouvons dire :
-<blockquote class="spip_poesie">
-<div>C’était le crépuscule</div>
-<div>le déclin peut-être</div>
-<div></div>
-<div>Tu n’as rien à me dire ?</div>
-<div>me disais-tu</div>
-<div>C’était trop long</div>
-<div>Maintenant, c’est fait (192)</div></blockquote>
+<blockquote>
+C’était le crépuscule
+le déclin peut-être
+
+Tu n’as rien à me dire ?
+me disais-tu
+C’était trop long
+Maintenant, c’est fait (192)</blockquote>
 
 ----
 
 references: 
-- <div class="crayon article-texte-122 texte surlignable clearfix">
+- 
 <ul>
  	<li>BAUDRILLARD, Jean, <i>De</i> <i>la</i> <i>séduction,</i> Paris, Denoël, 1979.</li>
  	<li>DELEUZE, Gilles et Félix Guattari, <i>Kafka,</i> <i>pour</i> <i>une</i> <i>littérature</i> <i>mineure,</i> Paris, Éditions de Minuit, 1975.</li>
@@ -241,82 +241,82 @@ references:
  	<li>SMOLDERS, Olivier, <i>Paul</i> <i>Nougé.</i> <i>Écriture</i> <i>et</i> <i>caractère.</i> <i>À</i> <i>l’école</i> <i>de</i> <i>la</i> <i>ruse,</i> Bruxelles, Éditions Labor, 1995.</li>
  	<li>TORRE GIMÉNEZ, Estrella de la, « Paul Nougé et l’amour », dans Linkhorn, Renée (études rassemblées par), <i>Perspectives</i> <i>sur</i> <i>les</i> <i>lettres</i> <i>belges</i> <i>de</i> <i>langue</i> <i>française,</i> New York, Peter Lang, 1995, p. 89-97.</li>
 </ul>
-</div>
-<div class="notes">
+
+
 
 <hr />
 
-<div id="nb1">
 
-<span class="spip_note_ref">[1] </span>Jean Baudrillard fait, au contraire, une différence entre désir et séduction (cf. Baudrillard 1979 : 9-11).
 
-</div>
-<div id="nb2">
+[1] Jean Baudrillard fait, au contraire, une différence entre désir et séduction (cf. Baudrillard 1979 : 9-11).
 
-<span class="spip_note_ref">[2] </span>Selon le Trésor de la Langue Française, édition en ligne, « Séduire », http://www.cnrtl.fr/ , page consultée le 18/03/2009.
 
-</div>
-<div id="nb3">
 
-<span class="spip_note_ref">[3] </span>L’<i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin</i> sera donc analysée dans le cadre d’une œuvre qui met en place des thèmes proches de la séduction (flirt, érotisme et sexualité). Espérons qu’une étude plus approfondie de ce vaste champ d’analyse chez le surréaliste belge puisse bientôt voir le jour.
 
-</div>
-<div id="nb4">
+[2] Selon le Trésor de la Langue Française, édition en ligne, « Séduire », http://www.cnrtl.fr/ , page consultée le 18/03/2009.
 
-<span class="spip_note_ref">[4] </span>Je dis « aussi » parce que plusieurs témoignages et documents corroborent l’idée d’un Nougé séducteur, dans ses textes – dont nous nous occupons aujourd’hui –, mais aussi dans sa vie. Smolders raconte que dans son quotidien, Nougé est un homme qui sait « l’art de conquérir les femmes et de les prendre dès qu’elles s’offrent » (Smolders 1995 : 63).
 
-</div>
-<div id="nb5">
 
-<span class="spip_note_ref">[5] </span>Inspiré des paroles de Baudelaire, <i>Procès</i> <i>de</i> <i>la</i> <i>femme</i> interpelle le lecteur (et la lectrice, surtout de nos jours) avec des commentaires tels que : « Notre dangereux, notre ignoble abaissement devant la femme. Les poètes… / Il s’agit maintenant, en conséquence, d’en dire tout le mal possible, de l’abaisser à tout prix » (Nougé 1969). Sur Paul Nougé et l’amour, <i>cf.</i> Torre Giménez 1995 : 89-97.
 
-</div>
-<div id="nb6">
+[3] L’<i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin</i> sera donc analysée dans le cadre d’une œuvre qui met en place des thèmes proches de la séduction (flirt, érotisme et sexualité). Espérons qu’une étude plus approfondie de ce vaste champ d’analyse chez le surréaliste belge puisse bientôt voir le jour.
 
-<span class="spip_note_ref">[6] </span>Marc Quaghebeur a proposé une fine lecture de ces « paroles de femme sur petit fond d’orchestre » (Quaghebeur 1997 : 125-152).
 
-</div>
-<div id="nb7">
 
-<span class="spip_note_ref">[7] </span>Dans le Fonds Marcel Mariën, aux Archives et Musée de la Littérature, on peut consulter les six cahiers de l’écolier numérotés déjà cités. Ces cahiers contiennent un long texte manuscrit laissé par Nougé qui approche divers aspects de la sexualité, dont le premier est « L’Appétit sexuel de la femme » (cote : AML FS47 00173). D’autres inédits abordent différents aspects : « En pensant aux cloches des Dominicaines… » (cote provisoire : AML ML07 00108 ; « La nature et les points d’excitation… » (cote : AML FS47 00181/0002-0003) ; « Différences sexuelles corrélatives de la Psychologie humaine » et « L’Appétit sexuel » (cote provisoire : AML ML07 00106).
 
-</div>
-<div id="nb8">
+[4] Je dis « aussi » parce que plusieurs témoignages et documents corroborent l’idée d’un Nougé séducteur, dans ses textes – dont nous nous occupons aujourd’hui –, mais aussi dans sa vie. Smolders raconte que dans son quotidien, Nougé est un homme qui sait « l’art de conquérir les femmes et de les prendre dès qu’elles s’offrent » (Smolders 1995 : 63).
 
-<span class="spip_note_ref">[8] </span>L’<i>Esquisse</i> a vu le jour par les soins de Marcel Mariën, qui en a fait la première édition en 1970 (<i>cf.</i> Nougé 1970).
 
-</div>
-<div id="nb9">
 
-<span class="spip_note_ref">[9] </span>Pour connaître d’autres détails, je renvoie à l’ouvrage d’Olivier Smolders (1995 : 73-80).
 
-</div>
-<div id="nb10">
+[5] Inspiré des paroles de Baudelaire, <i>Procès</i> <i>de</i> <i>la</i> <i>femme</i> interpelle le lecteur (et la lectrice, surtout de nos jours) avec des commentaires tels que : « Notre dangereux, notre ignoble abaissement devant la femme. Les poètes… / Il s’agit maintenant, en conséquence, d’en dire tout le mal possible, de l’abaisser à tout prix » (Nougé 1969). Sur Paul Nougé et l’amour, <i>cf.</i> Torre Giménez 1995 : 89-97.
 
-<span class="spip_note_ref">[10] </span>C’est moi qui souligne.
 
-</div>
-<div id="nb11">
 
-<span class="spip_note_ref">[11] </span>Pour alléger le texte, toutes les citations extraites de l’<i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin</i> seront uniquement suivies du numéro de page de la version publiée dans <i>Érotiques</i> (Nougé 1995).
 
-</div>
-<div id="nb12">
+[6] Marc Quaghebeur a proposé une fine lecture de ces « paroles de femme sur petit fond d’orchestre » (Quaghebeur 1997 : 125-152).
 
-<span class="spip_note_ref">[12] </span>Par ailleurs, le fait de demander de l’aide et d’affirmer l’impossibilité de dire ce qui le « déchire » est une manière d’exprimer, ne fût-ce qu’en partie, le tourbillon de sentiments, de douleurs et d’angoisses qui hantent le poète.
 
-</div>
-<div id="nb13">
 
-<span class="spip_note_ref">[13] </span>Dans le premier manuscrit, l’ironie continue avec ce commentaire : « Mais quelle belle thèse universitaire en vue » (187).
 
-</div>
-<div id="nb14">
+[7] Dans le Fonds Marcel Mariën, aux Archives et Musée de la Littérature, on peut consulter les six cahiers de l’écolier numérotés déjà cités. Ces cahiers contiennent un long texte manuscrit laissé par Nougé qui approche divers aspects de la sexualité, dont le premier est « L’Appétit sexuel de la femme » (cote : AML FS47 00173). D’autres inédits abordent différents aspects : « En pensant aux cloches des Dominicaines… » (cote provisoire : AML ML07 00108 ; « La nature et les points d’excitation… » (cote : AML FS47 00181/0002-0003) ; « Différences sexuelles corrélatives de la Psychologie humaine » et « L’Appétit sexuel » (cote provisoire : AML ML07 00106).
 
-<span class="spip_note_ref">[14] </span>À propos de la théorie des objets bouleversants, <i>cf.</i> Quaghebeur (1990 : 77-94) et Marques (2007 : 242-243).
 
-</div>
-</div>
+
+
+[8] L’<i>Esquisse</i> a vu le jour par les soins de Marcel Mariën, qui en a fait la première édition en 1970 (<i>cf.</i> Nougé 1970).
+
+
+
+
+[9] Pour connaître d’autres détails, je renvoie à l’ouvrage d’Olivier Smolders (1995 : 73-80).
+
+
+
+
+[10] C’est moi qui souligne.
+
+
+
+
+[11] Pour alléger le texte, toutes les citations extraites de l’<i>Esquisse</i> <i>d</i>’<i>un</i> <i>hymne</i> <i>à</i> <i>Marthe</i> <i>Beauvoisin</i> seront uniquement suivies du numéro de page de la version publiée dans <i>Érotiques</i> (Nougé 1995).
+
+
+
+
+[12] Par ailleurs, le fait de demander de l’aide et d’affirmer l’impossibilité de dire ce qui le « déchire » est une manière d’exprimer, ne fût-ce qu’en partie, le tourbillon de sentiments, de douleurs et d’angoisses qui hantent le poète.
+
+
+
+
+[13] Dans le premier manuscrit, l’ironie continue avec ce commentaire : « Mais quelle belle thèse universitaire en vue » (187).
+
+
+
+
+[14] À propos de la théorie des objets bouleversants, <i>cf.</i> Quaghebeur (1990 : 77-94) et Marques (2007 : 242-243).
+
+
+
 
 ----
 

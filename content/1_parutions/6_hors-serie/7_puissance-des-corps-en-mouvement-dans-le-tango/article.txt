@@ -1,4 +1,4 @@
-title: [06-07] Puissance des corps en mouvement dans le tango
+title: Puissance des corps en mouvement dans le tango
 
 ----
 
@@ -75,12 +75,12 @@ Cette performance des limites et du mouvement allant au-delà de celles-ci est t
 Le mouvement a besoin d’un espace, le vide. Le couple ne peut bouger, se déplacer, s’il n’y a pas un espace vide par où il puisse passer, où il puisse se rendre. Puis, il y a le vide entre les deux corps du couple, la marge des deux corps, qui n’est ni l’un ni l’autre, mais un espace vide qui permet le contact, et qui permet au mouvement de traverser les deux corps. Je fais appel ici à une image qu’utilise Turner – que lui utilise pour illustrer l’idée qu’il ne peut y avoir de « structure » sans « communitas » –, celle de la roue du carrosse de Lao-Tseu : « les rayons de la roue et le moyeu [...] seraient inutiles sans le trou, l’interstice, le vide qui est au centre » (125). Ici, la roue sert d’exemple concret pour comprendre que le mouvement nécessite un espace vide pour se produire, tout comme la roue a besoin du trou pour tourner et pour que le carrosse se déplace. Le vide est cette marge, entre le « <i>Je</i> et <i>Tu</i> » du couple, qui permet le mouvement et la transformation, qui permet de faire l’expérience du corps de l’autre – de son partenaire –, qui permet que le « je » devienne « tu », que l’un danse à travers le corps de l’autre. La dynamique du couple dans le tango a donc besoin de ce vide, de ce que chacun des partenaires se défasse de ses limites individuelles, pour que les corps du couple deviennent une marge qui appelle le mouvement. Ce vide, cet anéantissement des limites individuelles, est ce que Léo Bersani a appelé la « perte de vue de soi » dans la revalorisation de l’acte sexuel qu’il fait dans <i>Le</i> <i>rectum</i> <i>est</i>-<i>il</i> <i>une</i> <i>tombe ?</i> (78). Perdre de vue le soi dans la marge des corps traversés par le mouvement, ou le « dépouillement de soi », le risque de détruire la « valeur de soi », c’est l’espace vide des marges continues des deux corps, c’est la puissance du mouvement qui dépasse, détruit, les limites individuelles.
 
 Dans ces pages j’ai essayé de rendre compte de la puissance des corps en mouvement dans le tango en développant certains indices et en en oubliant beaucoup d’autres, comme le caractère éphémère du mouvement. La puissance a été essentiellement mouvement qui dépasse, voire détruit des limites, et transformation, à travers l’espace « marginal » du corps. En effet, j’ai été amenée à considérer le corps comme une marge qui appelle le mouvement et comme une limite entre individus dessinée par le pouvoir. Je me suis intéressée au film de Solanas <i>Tangos,</i> <i>el</i> <i>exilio</i> <i>de</i> <i>Gardel</i> où les corps en mouvement dans le tango transforment douleur en beauté et absence en présence. J’ai montré que cette représentation lutte d’une certaine façon contre le pouvoir militaire en rendant au corps sa puissance. La limite a été essentielle tout au long de cette réflexion sur la puissance des corps en mouvement, comme si pour que la puissance – le mouvement et la transformation –, soit, il devait y avoir une limite à traverser. J’ai tenté de montrer que ceci est « matérialisé » dans le tango dansé en ce qu’il performe des limites, notamment avec les rôles homme/femme et la résistance entre les partenaires, et en même temps, le dépassement des limites individuelles, jusqu’à la « perte de vue de soi », pour que le mouvement ait lieu à travers l’espace, à travers les corps.
-<h3 class="spip"></h3>
+<h3></h3>
 
 ----
 
 references: 
-- <h4 class="spip">Ouvrages cités</h4>
+- <h4>Ouvrages cités</h4>
 <ul>
  	<li>BERSANI, Leo. <i>Le</i> <i>rectum</i> <i>est</i>-<i>il</i> <i>une</i> <i>tombe ?</i> Traduit de l’américain par Guy Le Gaufey. Paris : Éditions Pocket, 2002.</li>
  	<li>CANETTI, Elias. <i>Masse</i> <i>et</i> <i>Puissance.</i> Traduit de l’allemeand par Robert Rovini. Paris : Éditions Gallimard, 1986.</li>
@@ -93,8 +93,8 @@ references:
  	<li>VERBITSKY, Horacio. <i>El</i> <i>Vuelo.</i> Madrid : Editorial Seix Barral, 1995.</li>
  	<li>VIRNO, Paolo. <i>Gramática</i> <i>de</i> <i>la</i> <i>multitud.</i> Traduit de l’italien par Adriana Gómez. Buenos Aires : Ediciones Colihue, 2003.</li>
 </ul>
-<h4 class="spip">Filmographie</h4>
-<ul class="spip">
+<h4>Filmographie</h4>
+<ul>
  	<li><i>Tangos,</i> <i>el</i> <i>exilio</i> <i>de</i> <i>Gardel.</i> Réal. Fernando E. SOLANAS. 119 mins., 1985.</li>
 </ul>
 

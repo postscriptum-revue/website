@@ -1,4 +1,4 @@
-title: [09-06] Au-delà des ennemis publics, compte rendu de <i>Ennemis publics</i> de Michel Houellebecq et Bernard-Henri Lévy
+title: Au-delà des ennemis publics, compte rendu de Ennemis publics de Michel Houellebecq et Bernard-Henri Lévy
 
 ----
 
@@ -22,12 +22,12 @@ abstract_en:
 
 ----
 
-text: <div class="">
-<div class="">
-<div class="texteItem">
-<div class="crayon article-texte-24 texte surlignable clearfix">
+text: 
 
-<strong>HOUELLEBECQ, Michel et Bernard-Henri LÉVY. <i>Ennemis publics</i>, Paris, Flammarion/Grasset, 2008, 332 p.</strong>
+
+
+
+HOUELLEBECQ, Michel et Bernard-Henri LÉVY. <i>Ennemis publics</i>, Paris, Flammarion/Grasset, 2008, 332 p.
 
 Le livre s’ouvre sur un constat assez peu flatteur : « Tout, comme on dit, nous sépare – à l’exception d’un point fondamental : nous sommes l’un comme l’autre des individus assez méprisables » (Houellebecq 2008 : 7). S’ensuivent des centaines de pages visant à défaire cette affirmation et qui réussissent à rapprocher les deux hommes qui en sont l’origine. <i>Ennemis publics</i> est un livre qui suit une rencontre entre deux écrivains. Une rencontre principalement virtuelle, malgré quelques présences fortuites aux mêmes endroits. Les descriptions du livre disent qu’il s’agit de emails, bien que les auteurs parlent davantage de lettres ; mais d’une façon ou d’une autre, il y a eu un échange de propos. Michel Houellebecq et Bernard-Henri Lévy sont des hommes communément détestés ou méprisés, comme Houellebecq le souligne. Le projet était de les faire s’écrire l’un à l’autre et de publier après coup cette correspondance s’étendant de janvier à juillet 2008.
 
@@ -45,10 +45,10 @@ Ce livre laisse transparaître le fait qu’ils semblent tous les deux animés d
 
 Au-delà de ce qui les différencie, Lévy en arrive à la conclusion positive et pleine d’espoir que ce qui les rapproche est, entre autres, « l’animosité que nous inspirons, c’est vrai, le flair qui nous fait sentir, tout de suite, le mauvais parfum de la chasse à l’homme, de la battue. Mais aussi […] : la certitude que c’est nous qui, à la fin, l’emporterons » (Lévy 2008 : 307). Cela reste à voir.
 
-</div>
-</div>
-</div>
-</div>
+
+
+
+
 
 ----
 

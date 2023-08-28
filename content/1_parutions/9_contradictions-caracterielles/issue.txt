@@ -1,18 +1,16 @@
-Title: Contradictions caractérielles
+title: Contradictions caractérielles
 
 ----
 
-Subtitle: 
+subtitle: 
 
 ----
 
-Number: 9
+number: 9
 
 ----
 
-Intro-text:
-
-Je me souviens avoir emprunté un livre de Thomas Bernhard parce que j’étais en colère et que personne ne pouvait le traduire aussi bien que lui. Ça n’a pas été un succès… Alors que je glissais rapidement sur le fil d’une page, mon élan a été arrêté par un débordement de tendresse dont je ne comprenais pas l’origine. Là où j’avais voulu de la haine et de la dureté il y avait de la gentillesse et de l’amour. Thomas Bernhard me racontait son affection pour son grand-père et les injustices que sa mère avait subies, alternant tout de même parfois avec ce mépris de l’humanité que j’avais espéré. Je sais bien que personne n’est entièrement mauvais, mais cette explication ne me paraissait pas satisfaisante… Que fallait-il penser de ce changement de ton ? Était-il volontaire ou avait-il percé insidieusement la carapace du personnage que Monsieur Bernhard s’était forgé ? Pourquoi montrer cette fragilité ? Était-ce un choix ? Et comment penser cette tendresse chez un homme que j’avais naïvement cru méchant ?…
+intro_text: Je me souviens avoir emprunté un livre de Thomas Bernhard parce que j’étais en colère et que personne ne pouvait le traduire aussi bien que lui. Ça n’a pas été un succès… Alors que je glissais rapidement sur le fil d’une page, mon élan a été arrêté par un débordement de tendresse dont je ne comprenais pas l’origine. Là où j’avais voulu de la haine et de la dureté il y avait de la gentillesse et de l’amour. Thomas Bernhard me racontait son affection pour son grand-père et les injustices que sa mère avait subies, alternant tout de même parfois avec ce mépris de l’humanité que j’avais espéré. Je sais bien que personne n’est entièrement mauvais, mais cette explication ne me paraissait pas satisfaisante… Que fallait-il penser de ce changement de ton ? Était-il volontaire ou avait-il percé insidieusement la carapace du personnage que Monsieur Bernhard s’était forgé ? Pourquoi montrer cette fragilité ? Était-ce un choix ? Et comment penser cette tendresse chez un homme que j’avais naïvement cru méchant ?…
 
 Ce questionnement – qui aurait tout aussi bien pu être suscité par les délicatesses imprévues du narrateur célinien, les engagements contradictoires de Gilles de Rais, ou encore les opinions politiques d’Heidegger – remet en question une partie de notre rapport à la littérature : pourquoi n’y étudie-t-on que rarement les « bons » sentiments ? Il peut aussi nous en apprendre sur le rapport à l’identité, la psychanalyse, le récit de soi, etc. C’est finalement la base d’une interrogation universelle et transcendant les genres littéraires établis, comme nous l’ont brillamment montré les auteures qui ont bien voulu poursuivre cette réflexion avec nous. Les articles réunis dans ce numéro de <i>Post-Scriptum.ORG</i> couvrent des sphères culturelles allant de la Chine ancienne à l’Amérique moderne, et explorent des thèmes aussi divers que la maladie, le territoire et les vices et vertus.
 
@@ -30,12 +28,15 @@ Finalement, une analyse de la contradiction caractérielle ne saurait faire abst
 
 ----
 
-Credits: 
+credits: 
 
 ----
 
-References: 
+date: 2009-04-15 00:00:23
 
 ----
 
-Uuid: ngRboVLy8etfsoQw
+references: 
+
+----
+

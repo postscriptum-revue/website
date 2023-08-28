@@ -1,4 +1,4 @@
-title: [03-07] Quand la traduction libère
+title: Quand la traduction libère
 
 ----
 
@@ -22,14 +22,14 @@ abstract_en: Mohamed Choukri’s autobiographical work Al-Khubz al-Hafi is an in
 
 ----
 
-text: <div class="crayon article-texte-83 texte surlignable clearfix">
+text: 
 
-<span class="spip_note_ref"> [1]</span>
-<h3 class="spip">Introduction</h3>
+ [1]
+<h3>Introduction</h3>
 Dans le cas d’<i>al</i>-<i>Khubz</i> <i>al</i>-<i>hâfî</i> de Mohamed Choukri, il est intéressant de considérer le rôle joué par la traduction dans la libération de la voix de l’auteur. En fait, avant même sa publication en langue arabe, le récit, sous forme manuscrite, a été traduit et publié en trois langues occidentales dominantes, à savoir l’anglais, le français et l’espagnol (Choukri 1982 : 4). Pour ce qui est des deux premières traductions, la version anglaise intitulée <i>For</i> <i>Bread</i> <i>Alone</i> a été réalisée en 1973 par l’écrivain américain Paul Bowles (qui a écrit sur le Maroc et y a vécu), auteur, entre autres, de <i>The</i> <i>Sheltering</i> <i>Sky.</i> La traduction française, <i>Le</i> <i>Pain</i> <i>nu,</i> a été faite en 1980 par l’écrivain marocain d’expression française Tahar Ben Jelloun, lauréat du Prix Goncourt pour son roman <i>la</i> <i>Nuit</i> <i>sacrée.</i> D’où la particularité des sujets traduisants et l’intérêt que suscitent leurs initiatives.
 
 Alors que les traductions anglaise et française ont été publiées respectivement aux éditions Peter Owen (Angleterre) et Maspero (France), le texte original n’a pas pu intéresser immédiatement les maisons d’édition marocaines et arabes. Dans sa préface à la traduction française, Tahar Ben Jelloun estime que l’« édition dans le monde arabe est avant tout conformiste et commerciale » (Choukri 1980 : 9). Le texte arabe ne fut publié qu’en 1982 aux frais de l’écrivain (Barrada et Choukri 2000 : 56-57), donc neuf ans après la publication de la version anglaise et deux ans après celle de la traduction française. Mohamed Barrada, écrivain marocain et ami de Choukri, avait essayé, en vain, de le faire publier au Liban par la maison d’édition Dar al-Adab, puis à Londres par al-Sâqi (<i>Ibid.</i> : 4). En outre, ce texte fut interdit au Maroc juste après sa publication, soit en 1983. Cette interdiction ne sera levée qu’en 2000. Donc durant cette période (1983-2000), cette œuvre autobiographique de Choukri est lue et reçue essentiellement en anglais et en français, parmi d’autres langues étrangères (comme l’espagnol, le grec, l’allemand, l’italien et le russe). D’où l’importance d’étudier la traduction de ce récit et d’explorer le caractère libérateur de ces opérations traduisantes.
-<h3 class="spip">I-Auteur et texte autobiographique</h3>
+<h3>I-Auteur et texte autobiographique</h3>
 Mohamed Choukri est né à Beni Chiker, près de la ville de Nador (au nord du Maroc), en 1935. Il est membre d’une famille pauvre qui a quitté le Rif ravagé par la famine et s’est installée successivement dans deux villes marocaines : Tanger, ville internationale durant la période coloniale (1912-1956), et Tétouan. Ce n’est qu’à l’âge de vingt ans qu’il entra à l’école pour apprendre à lire et à écrire. Quelques années plus tard, il débuta une carrière d’instituteur et d’écrivain. Outre <i>al</i>-<i>Khubz</i> <i>al</i>-<i>hâfî,</i> Choukri a écrit la deuxième partie de son autobiographie <i>al</i>-<i>Shuttâr</i> (les Picaros), une pièce de théâtre <i>al</i>-<i>Zilzâl</i> (le tremblement de terre), deux recueils de nouvelles <i>Majnûn</i> <i>al</i>-<i>ward</i> (le Fou des roses) et <i>al</i>-<i>Khayma</i> (la Tente), deux mémoires sur les séjours respectifs de Jean Genet et Tennessee Williams à Tanger, ainsi que d’autres nouvelles publiées dans des revues spécialisées comme <i>al</i>-<i>Âdâb.</i> Il a reçu le Prix de l’amitié franco-arabe en 1995.
 
 Écrivain à la fois acclamé et critiqué, Choukri est partisan de la libération par l’écriture et de la littérature libre. Dans une entrevue accordée à la revue <i>Alif</i> et intitulée « al-Kyânu wa al-makân » [l’être et le lieu], il déclare : « Pour vous dire la vérité, je ne suis pas un bon lecteur de la littérature arabe car seulement quelques anciens textes me libèrent » (Choukri 1986 : 71, ma traduction). D’après lui, la vraie littérature n’a pas encore été « émancipée » dans le monde arabe. Il n’hésite pas à le confirmer dans sa préface à l’édition arabe d’<i>al</i>-<i>Khubz</i> <i>al</i>-<i>hâfî</i> : « J’attends qu’on libère la littérature qui n’est ni répétitive ni évasive » (<i>Ibid.</i> : 4, ma traduction).
@@ -37,35 +37,35 @@ Mohamed Choukri est né à Beni Chiker, près de la ville de Nador (au nord du M
 En fait, dans son roman autobiographique, Choukri tient à présenter aux lecteurs et lectrices une image réelle, avec des détails crus et parfois scabreux de la vie dure qu’il a menée dans son jeune âge. Il décrit la pauvreté et la famine au Rif (région montagneuse au nord du Maroc) pendant la période coloniale, la migration de sa famille et la lutte pour la survie dans le monde des plus démunis. Adoptant, en partie, la voix narrative d’un enfant innocent aux prises avec le destin, un père dur, un entourage hostile, des désirs corporels accablants et des conditions de vie pénibles, Choukri dépeint la vie du monde subalterne et étale ses problèmes familiaux et sociaux : la situation de la femme et des enfants, la misère, la délinquance, la superstition, la prostitution, la drogue, l’injustice, le colonialisme et bien d’autres maux. Il a écrit ce qu’il a appelé un « document social », mêlant jugement (<i>muhâkama)</i> et confession (<i>bawh)</i> (Choukri 1986 : 72).
 
 Pourtant, en représentant le vécu quotidien de son enfance et de son adolescence, l’écrivain aborde plusieurs sujets tabous. D’abord, le texte contient plusieurs scènes sexuelles explicitement décrites et susceptibles d’être qualifiées dans la culture locale d’« immorales ». Ce choix, fait par l’auteur, ne serait pas une fin en soi. Dans son récit, estime Choukri, il « présente des scènes immorales pour chercher ce qui est moral et idéal » (Choukri 1986 : 73, ma traduction). En outre, il critique l’autorité indiscutable du père. Il déteste son père à tel point qu’il souhaite sa mort. Et en s’adonnant à la drogue, la débauche et la boisson, le héros (ou anti-héros) présente un modèle indésirable et une image loin d’être positive de la société musulmane marocaine à cette époque-là. D’où la controverse soulevée quant au contenu du roman et la censure imposée à son égard. L’étude de sa traduction est intéressante parce qu’elle permet de voir quelques aspects du rôle joué par les traducteurs dans l’émergence de cette œuvre.
-<h3 class="spip">2-Traduction, écriture et culture marocaine</h3>
+<h3>2-Traduction, écriture et culture marocaine</h3>
 Les traductions <i>For</i> <i>Bread</i> <i>Alone</i> et <i>le</i> <i>Pain</i> <i>nu</i> n’ont pas été faites de la même manière, ni dans les mêmes conditions. La version anglaise, même si l’éditeur anglais Peter Owen met « [t]ranslated from the Arabic », n’aurait pas été faite directement de l’arabe. Selon Paul Bowles, elle a été réalisée avec la collaboration effective de l’auteur lui-même : « It was Choukri himself who was obliged to do the translating, sometimes working through the medium of the colloquial <i>darija,</i> but generally through Spanish, and occasionally even French, if the sought-for word did not come » (Choukri 1973 : 8). Pourtant, Choukri affirme que la traduction n’était pas faite directement de la <i>dârija,</i> l’arabe dialectal marocain parlé (Choukri 1986 : 72). Mais il admet que la traduction est l’une des raisons principales pour lesquelles le récit a été écrit :
-<blockquote class="spip">I wanted to publish my first book at any price to prove to myself that I was a writer. When Paul Bowles asked me to write my autobiography, I immediately replied, but it is already written […] Needles to say, I had not put down a word on paper, but it was all there in my mind (Ghazoul et Harlow 1994 : 222).</blockquote>
+<blockquote>I wanted to publish my first book at any price to prove to myself that I was a writer. When Paul Bowles asked me to write my autobiography, I immediately replied, but it is already written […] Needles to say, I had not put down a word on paper, but it was all there in my mind (Ghazoul et Harlow 1994 : 222).</blockquote>
 Donc, il est presque évident que Paul Bowles est l’initiateur de l’écriture de ce récit. Aussi peut-on dire que cette œuvre, qui compte parmi les 25 ou 30 premiers romans marocains (Daghmoumi 1991), est le premier <i>roman</i> marocain (écrit en arabe) traduit en anglais.
 
 Quant à la traduction française, elle a été faite directement de l’arabe et sans le concours de l’écrivain. Elle a été publiée aux éditions François Maspero dans la collection « Actes et mémoires des peuples » sous la direction de Louis Constant. Il est utile de prendre en considération le fait que Tahar Ben Jelloun savait que Bowles avait déjà traduit le récit en anglais. Il en fait mention dans sa préface, mais il voit, pour une raison inexpliquée, que Bowles a « adapté » le texte (Choukri 1980 : 9).
 
 Certainement, en tant qu’écrivains, Paul Bowles et Ben Jelloun jouissent plus ou moins d’un certain renom international, mais demeurent vivement critiqués dans les milieux littéraire et critique marocains. On leur reproche d’avoir donné des images exotisantes, sensualistes, folkloriques et, en général, négatives de la société marocaine. Bowles ne peut nier ce fait :
-<blockquote class="spip"><i>What</i> <i>do</i> <i>you</i> <i>say</i> <i>to</i> <i>Moroccan</i> <i>critics</i> <i>who</i> <i>claim</i> <i>that</i> <i>you</i> <i>have</i> <i>portrayed</i> <i>Morocco</i> <i>in</i> <i>the</i> <i>most</i> <i>negative</i> <i>of</i> <i>terms,</i> <i>and</i> <i>that</i> <i>you</i> <i>haven</i>’<i>t</i> <i>been</i> <i>sympathetic</i> <i>or</i> <i>sensitive</i> <i>or</i> <i>understanding</i> <i>of</i> <i>their</i> <i>culture,</i> <i>their</i> <i>social,</i> <i>political,</i> <i>or</i> <i>economic</i> <i>plights</i> <i>and</i> <i>their</i> <i>struggle</i> <i> ?</i> <i>What</i> <i>do</i> <i>you</i> <i>say</i> <i>to</i> <i>them</i> <i> ?</i>
+<blockquote><i>What</i> <i>do</i> <i>you</i> <i>say</i> <i>to</i> <i>Moroccan</i> <i>critics</i> <i>who</i> <i>claim</i> <i>that</i> <i>you</i> <i>have</i> <i>portrayed</i> <i>Morocco</i> <i>in</i> <i>the</i> <i>most</i> <i>negative</i> <i>of</i> <i>terms,</i> <i>and</i> <i>that</i> <i>you</i> <i>haven</i>’<i>t</i> <i>been</i> <i>sympathetic</i> <i>or</i> <i>sensitive</i> <i>or</i> <i>understanding</i> <i>of</i> <i>their</i> <i>culture,</i> <i>their</i> <i>social,</i> <i>political,</i> <i>or</i> <i>economic</i> <i>plights</i> <i>and</i> <i>their</i> <i>struggle</i> <i> ?</i> <i>What</i> <i>do</i> <i>you</i> <i>say</i> <i>to</i> <i>them</i> <i> ?</i>
 
 I don’t answer them. I have nothing to do with their economic plight or their society or their religion. I’m a tourist here. I’m outside all that. I don’t want to be in it. How could I be even if I wanted ? No, no. So, I don’t answer if they say unpleasant things, like Tahar Ben Jelloun, I keep quiet. What can I say ? (Elghandor 1994 : 27)</blockquote>
 Il est un peu étrange d’entendre Bowles dire qu’il est un « touriste » alors qu’il a passé plusieurs années de sa vie (surtout de 1947 à 1999) au Maroc. Mais sa vie intellectuelle, d’après ses propos et ses écrits, était toujours celle d’un touriste en quête de l’exotisme et du romantisme dans ce pays qu’il a presque substitué aux États-Unis. Denys Johnson-Davies, le grand traducteur de la littérature arabe, qui maintenait des relations d’amitié avec lui, écrit :
-<blockquote class="spip">Bowles, too, is sometimes guilty of using the “mystery” of Morocco to his artistic ends, and some at least of his writings would cause the likes of Edward Said to place Bowles among those orientalists who have been castigated for creating or perpetuating the mystique that surrounds the Arab world in the Western mind and thus prevent it from being truly perceived (Johnson-Davies 1999 : 3).</blockquote>
+<blockquote>Bowles, too, is sometimes guilty of using the “mystery” of Morocco to his artistic ends, and some at least of his writings would cause the likes of Edward Said to place Bowles among those orientalists who have been castigated for creating or perpetuating the mystique that surrounds the Arab world in the Western mind and thus prevent it from being truly perceived (Johnson-Davies 1999 : 3).</blockquote>
 Ben Jelloun, lui aussi, est conscient des réactions négatives des lecteurs marocains à ses écritures. On lui reproche, entre autres, de toucher à l’image de l’Islam : « I’m not well liked at all. There are sermons against me in the mosques. I’m occasionally the bête noire of integrationists. Whether they are political or religious fundamentalists » (Spear 1993 : 42).
-<h3 class="spip">3-Traduction et libération</h3>
+<h3>3-Traduction et libération</h3>
 Dans sa préface à la traduction française, Tahar Ben Jelloun donne à sa traduction et à celle de Bowles un caractère libérateur. D’abord, il donne un petit résumé des thèmes abordés par Choukri, parmi lesquels on trouve la pauvreté, la sexualité et la domination et l’oppression patriarcales. Il note, avec amertume, que l’auteur « ne s’est pas trouvé un seul éditeur qui ait le courage et l’audace de publier ce livre où la vérité d’un vécu est subversive et révolutionnaire » (Choukri 1980 : 9). Ce traducteur semble se donner comme tâche la libération de la voix de cet écrivain et le dévoilement d’une « vérité » longtemps cachée dans la culture-source. Ben Jelloun parle même de « censure » déjà installée dans les mentalités (<i>Ibid.).</i>
 
 La seule exception jusqu’alors à cette « censure » de l’œuvre de Choukri, comme le note pertinemment Ben Jelloun, est la traduction anglaise parue sept ans auparavant. Dans sa préface, le traducteur américain donne une idée de la dure vie que l’auteur a dû mener et évoque également quelques thèmes du roman, à savoir la pauvreté et l’analphabétisme. Ce qui semble être plus intéressant pour lui est la notion de l’inattendu et de l’inhabituel dans la vie de l’écrivain marocain à l’image de son accès tardif à l’école : « To have taken and implemented such a decision at the age of twenty is unusual. To have passed in the space of five years from learning the letters of the alphabets to writing is even more unexpected » (Choukri 1973 : 6). Il est donc nécessaire d’étudier les manières dont ces deux traducteurs interprètent et rendent les principaux thèmes. L’analyse suivante portera sur la critique sociale faite par l’auteur et plus précisément sur la domination patriarcale, la situation de la femme, la pauvreté, la sexualité et, de manière indirecte, la religion. Le but sera de voir si les traducteurs n’ont pas modifié, voire manipulé le sens du texte arabe de Choukri pour exprimer des points de vue personnels.
-<h3 class="spip">4-La libération de la voix à travers la traduction de la critique sociale</h3>
+<h3>4-La libération de la voix à travers la traduction de la critique sociale</h3>
 La critique de l’autorité abusive du père, un thème central dans l’œuvre de Choukri, est rendue de manières différentes dans les traductions anglaise et française. Dès le premier chapitre, le père est critiqué pour sa violence et sa brutalité. Au lieu d’être une source de tendresse et d’amour pour ses enfants, ce père est plutôt violent, haineux et exploiteur. Il lui arrive même de tuer l’un de ses fils, Abdelkader. Le fils-narrateur décrit la présence de son père au sein de la famille :
-<blockquote class="spip">Not a movement, not a word, save at his command, just as nothing can happen unless it is<br class="autobr" /> decreed by Allah (p. 9).
+<blockquote>Not a movement, not a word, save at his command, just as nothing can happen unless it is<br /> decreed by Allah (p. 9).
 
-Pas un geste, pas une parole. Tout à son ordre et à son image, un peu comme Dieu, ou du moins<br class="autobr" /> c’est ce que j’entendais… (p. 13)
+Pas un geste, pas une parole. Tout à son ordre et à son image, un peu comme Dieu, ou du moins<br /> c’est ce que j’entendais… (p. 13)
 
 [Lâ harakata, lâ kalimata ilâ bi-idhnihi kamâ hua kullu shay.in lâ yahduthu ilâ bi-idhni al-lâhi kamâ sami’tu al-nâsa yaqûlûna] (p. 8).</blockquote>
 Le narrateur critique l’autorité totale du père dont la légitimité émane essentiellement de la religion islamique, plus précisément du Coran. D’après le texte sacré, les enfants doivent respecter leurs parents et leur obéir. Le narrateur, par contre, met en question cette règle morale. En plus, la comparaison entre le père et Dieu/Allah est un blasphème dans la culture-source. Cependant, le degré de transgression de cette règle est plus poussé dans les deux traductions. Ben Jelloun rend la critique plus directe et, donc, plus transgressive en mettant « un peu comme Dieu » et « à son image ». L’auteur et Bowles comparent plutôt les <i>actes</i> du père à ceux de son Créateur, mais la version arabe laisse entendre le doute (c’est ce que disaient les gens), tandis que la version anglaise exprime la certitude. Donc, la version française explicite et consacre la remarque blasphématoire de Choukri. Cette critique est renforcée par l’inclusion d’un aspect du discours religieux à savoir l’expression <i>lâ</i> <i>yahdutu</i> <i>ilâ</i> <i>bi</i>-<i>idhni</i> <i>al</i>-<i>lâhi.</i> Cette allusion ironique au texte sacré (Coran) est plus ou moins perdue dans les deux traductions (« decreed by Allah » et « à son [Dieu] ordre »).
 
 Ben Jelloun tend à radicaliser la critique du père dans le texte et à la rendre plus transgressive et blasphématoire. Dans le septième chapitre, l’auteur exprime le plus grand degré de haine envers son père et met en question sa suprématie :
-<blockquote class="spip">My father is closer to Allah than we are, and nearer to the prophets and saints. (p. 56)
+<blockquote>My father is closer to Allah than we are, and nearer to the prophets and saints. (p. 56)
 
 Mon père c’était Dieu, ses prophètes et ses saints réunis. (p. 71)
 
@@ -73,13 +73,13 @@ Mon père c’était Dieu, ses prophètes et ses saints réunis. (p. 71)
 Hisser le père du narrateur au rang de Dieu/Allah, ses prophètes, ses « saints » et même au-delà (<i>réunis)</i> est une sur-traduction (voire une réécriture) du texte par Ben Jelloun. Outre le blasphème, ce choix engendre la suppression d’une notion culturellement spécifique, à savoir le degré de croyance : ceux qui sont plus croyants, fidèles, sont plus proches spirituellement (une sorte d’amour spirituel, une valeur en soi) de Dieu/Allah, ses prophètes et ses « saints ». Ben Jelloun est conscient de l’ampleur de ses propos ; il estime que Choukri « poursuivait […] une autorité divine à annuler : rarement la haine du père aura été si forte » (Choukri 1980 : 8). Bowles, par contre, insiste sur l’aspect spatial en utilisant « closer », mais il perd la notion de parenté inhérente à l’adjectif (et nom) arabe <i>qarîb</i> (proche) d’où vient la forme comparative <i>aqrabu</i> (plus proche). Du point de vue discursif, Ben Jelloun, à la différence de Choukri et Bowles, semble donner un aspect oral au récit avec l’inclusion du pronom démonstratif « ce » dans la phrase « Mon père c’était […] ».
 
 De même, la situation de la femme dans la société marocaine, un autre thème du récit, est reproduite de manières différentes dans les traductions. Les enfants ne sont pas les seuls à souffrir de l’abus d’autorité patriarcale en famille et dans la société ; la femme n’est pas épargnée. La violence est aussi bien morale que physique et elle est décrite par le fils-narrateur :
-<blockquote class="spip">Why is she so weak ? Why isn’t she strong enough to hit him as hard as he hits her ? Men hit – Women scream and weep. (p. 29)
+<blockquote>Why is she so weak ? Why isn’t she strong enough to hit him as hard as he hits her ? Men hit – Women scream and weep. (p. 29)
 
 Pourquoi n’est-elle pas assez robuste et plus forte que le monstre ? Les hommes battent les femmes. Les femmes pleurent et crient. (p. 14)
 
 [limâdhâ laysat qawiyyatan mitlahu ? Al-rijâlu yadrabûna al-nisâ.a wa hunna yabkîna wa yasrukhna.] (p. 9)</blockquote>
 Paul Bowles tend à diminuer la force de la femme (« so weak » et « not strong enough »), tandis que Ben Jelloun semble l’améliorer relativement (pas assez robuste et plus forte) et aggrave la critique de l’époux, le « monstre ». Le texte arabe dit plutôt « pourquoi n’est-elle pas forte comme lui ? ». Il paraît que les deux traducteurs ne s’accordent pas sur l’image à donner de la femme. Bowles est favorable à ce que celle-ci se fasse justice elle-même. Il est probable que « to hit him as hard as he hits her » est un ajout dans la version anglaise qui radicalise la haine du père. Pourtant, dans l’exemple suivant, leurs versions se rejoignent relativement :
-<blockquote class="spip">Bitch. Rotten whore. He abuses everyone with his words, sometimes even Allah. (p. 9)
+<blockquote>Bitch. Rotten whore. He abuses everyone with his words, sometimes even Allah. (p. 9)
 
 – Tu es une putain et une fille de putain. Il injuriait le monde entier, maudissant Dieu et en suite se repentait. (p. 13)
 
@@ -87,7 +87,7 @@ Paul Bowles tend à diminuer la force de la femme (« so weak » et « not st
 Bowles emploie l’argot américain (slang), un registre plus bas de cette langue, pour traduire ces insultes adressées à la mère du narrateur par son père. Par l’usage des termes « bitch », « whore » et « rotten », il intensifie la haine et l’humiliation de la femme et donne une couleur locale au texte. Toutefois, il perd la spécificité culturelle de l’expression puisque le narrateur parle de sa mère et de sa grand-mère comme étant des « prostituées », doublant, par ce choix, la misogynie du père dans le texte arabe. Ben Jelloun rend l’insulte de manière plus précise y compris l’aspect péjoratif et familier de l’expression, mais il accentue l’immoralité du mari (maudissait Dieu) par l’omission de l’adverbe « parfois ». Ce changement radicalise l’un des paradoxes du récit : le père/époux se réfère implicitement à la religion pour consolider sa suprématie, mais (parfois) injurie la source de cette autorité. Bowles, par contre, n’aggrave pas le degré du blasphème et garde le mode présent du verbe qui rend le fait presque réel au moment de la lecture. Bref, Ben Jelloun a plus tendance à radicaliser la critique de la figure du père dans le récit de Choukri et, avec elle, les fondements religieux qui soutiennent la suprématie patriarcale dans la situation décrite. Quant à Bowles, il semble aggraver la soumission de la femme et tend à la victimiser
 
 Comme le montre le titre du texte original, la pauvreté est un thème principal et un facteur décisif dans le développement des événements de l’œuvre de Choukri. Le narrateur ne se demande jamais quels sont les motifs du comportement de son père (surtout sa misère) et n’essaie pas de les comprendre. À ce sujet, Tetz Rooke note que l’auteur « shows images from his ragged past but does not supply an explicative analysis or moral judgement » (Rooke 1997 : 206). Les cas où le narrateur cesse de raconter pour réagir ou réfléchir sont très rares. Par exemple, il pose la question suivante :
-<blockquote class="spip">Why doesn’t Allah give us our good luck the way he gives it to other people ?
+<blockquote>Why doesn’t Allah give us our good luck the way he gives it to other people ?
 
 I passed the question to my mother. That’s something we can’t ask, she said. He knows much better than we do. (p. 11)
 
@@ -100,7 +100,7 @@ Alors je demandais à ma mère :
 La critique implicite de la justice divine est généralement rendue par les deux traducteurs. La différence, sans doute, est la référence à « Dieu » et « Allah ». Pourtant, Ben Jelloun amplifie la remarque du narrateur par la répétition de « Dieu seul sait »/« Lui sait » et « Nous, nous ne savons rien »/« Nous, nous ne savons rien ». En plus, il utilise le verbe « interroger » au lieu de « demander », rendant les propos de la mère plus transgressive (n’interroge-t-on pas un accusé ?).
 
 Dans un contexte plus ou moins analogue à celui qui précède, Ben Jelloun consacre cette tendance à mettre en question les valeurs religieuses. Le narrateur se pose des questions philosophiques que Ben Jelloun reformule :
-<blockquote class="spip">Why did we come all the way from the Rif when others stayed behind in their own country ? Why does my father go to prison, and my mother go to sell vegetables leaving me alone and with nothing to eat, when this man stays at home with his wife ? Why can’t we have what other people have ? (p. 15)
+<blockquote>Why did we come all the way from the Rif when others stayed behind in their own country ? Why does my father go to prison, and my mother go to sell vegetables leaving me alone and with nothing to eat, when this man stays at home with his wife ? Why can’t we have what other people have ? (p. 15)
 
 Pourquoi mon Dieu avions-nous quitté notre pays, notre terre ? Pourquoi d’autres ignorent-ils ce qu’est l’exode ?
 
@@ -110,7 +110,7 @@ Pourquoi mon Dieu avions-nous quitté notre pays, notre terre ? Pourquoi d’au
 Le traducteur marocain transforme ces questions existentialistes du narrateur en reproches indirects adressés à Dieu. En plus, il diminue le degré de précision de la description des faits en mettant « notre pays, notre terre » (donc apparemment une autre répétition) au lieu du Rif. Il semble améliorer l’image de la femme une autre fois en mettant « se débrouiller au marché » au lieu de « vendre des légumes ». Par contre, il dramatise la situation de l’enfant par l’usage de l’expression métaphorique « entre les mains de la faim » au lieu de « sans nourriture ». Il a tendance à rendre la réflexion du narrateur plus émotive par l’ajout de l’interjection « étrange ! », affectant, par ce fait, la nature « documentaire » (donc objective) du récit. Il réécrit la phrase antérieure à cette expression (« les autres ignorent l’exhode » au lieu de « les autres restent dans leur terre »), explicitant la souffrance du narrateur. L’autre ajout « une grande maison » ne sert qu’à élargir l’écart entre les classes sociales, ici la famille de Choukri et les voisins (et non pas « étranger »), appelant ainsi à une plus grande sympathie de la part des lecteurs et des lectrices.
 
 Bowles, lui aussi, a tendance à amplifier la pauvreté et la misère du narrateur. Dans l’exemple suivant, la mise en italique et la répétition aussi bien implicite (« repeating » et « over ») qu’explicite du mot « bread » accentuent la souffrance de l’enfant :
-<blockquote class="spip">When my father came in I was sobbing and repeating the word <i>bread</i> over and over. Bread. Bread. Bread. Then he began to slap me and kick me […] (p. 7)
+<blockquote>When my father came in I was sobbing and repeating the word <i>bread</i> over and over. Bread. Bread. Bread. Then he began to slap me and kick me […] (p. 7)
 
 Mon père, furieux, me donne des coups de pied […] (p. 11)
 
@@ -120,19 +120,19 @@ Ben Jelloun, par contre, la diminue en omettant l’allusion au pain, aux larmes
 Le sujet de la sexualité est exploré en profondeur par l’auteur et les scènes sexuelles, souvent détaillées, abondent dans son texte. Ces relations, soient-elles hétérosexuelles ou homosexuelles, prennent souvent une forme illégale : la prostitution. Celle-ci, un corollaire de la pauvreté, signifie automatiquement dans le contexte du texte arabe l’immoralité et la mise en question des valeurs religieuses. D’après l’anlayse du texte par Tetz Rooke : « Religion is an implicit topic in Muhammad Shukri’s autobiography and not a primary target of its critique. Yet, its many and detailed descriptions of sexual intercourse and liberal use of obscene language represent an implicit attack on religious values » (Rooke 1997 : 207). Il brise le tabou de la prostitution comme le note Ben Jelloun dans sa préface : « La prostitution existe. Tout le monde le reconnaît. Mais en parler, le dire, reste intolérable » (Choukri 1980 : 9).
 
 Bowles et Ben Jelloun ont tendance à utiliser le texte de Choukri pour exprimer des idées plutôt personnelles sur la sexualité. Dans l’exemple suivant, ils aggravent l’incompréhensibilité du comportement de la femme aux yeux de l’enfant-narrateur :
-<blockquote class="spip">Women are difficult to understand. (p. 45)
+<blockquote>Women are difficult to understand. (p. 45)
 
 Les femmes ! Quel univers compliqué ! Je n’arriverai jamais à les comprendre. (p. 54)
 
 [Mizâju al-mar.ati sa’bu al-fahmi ;] (p. 67)</blockquote>
 Il s’agit ici de la réaction de l’enfant-narrateur au comportement de sa maîtresse française Monique qui a jugé bon de le garder même s’il a commis quelques bêtises (entre autres, fouiller dans ses effets personnels). Bowles généralise le jugement de l’enfant par l’usage du pluriel « women » et l’omission du mot « tempérament » qui, dans le texte arabe, est difficile à comprendre et non pas les femmes en général. Ben Jelloun explicite la réaction de l’enfant-narrateur (les femmes !) et exagère la difficulté de les comprendre (Quel univers compliqué !), donnant ainsi une oralité et une émotivité plus subjectives au texte. En fait, l’ajout et l’amplification des sens « intéressants » sont des stratégies typiques de la traduction de ce dernier. Ce fait est très visible dans l’exemple suivant :
-<blockquote class="spip">That night I dreamed I was sucking a woman’s breast. The stream of milk that shot out of it struck me violently in the face. (p. 34)
+<blockquote>That night I dreamed I was sucking a woman’s breast. The stream of milk that shot out of it struck me violently in the face. (p. 34)
 
 Dans mon rêve, cette nuit même, ma bouche sur le sein d’une femme. Je tétais. Un lait abondant jaillissait m’emplissant le visage. Du lait. Beaucoup de lait. (p. 45)
 
 [Fî al-layli halamtunî ardha’u nahda imra.atin. Halîbuhâ yafûru fî wajhî (…)] (p. 50)</blockquote>
 La répétition abusive du mot « lait » et l’amplification des nuances du texte original (ma bouche sur le sein d’une femme. Je tétais) ne servent ici qu’à rendre le rêve de Choukri plus sensuel et même érotique. En introduisant le mot « stream » et « struck […] violently », Bowles rend le texte plus étrange et fantasmagorique, donc disant trop sur l’inconscient du narrateur. Ce choix découle apparemment de la traduction d’un passage précédent où le jeune narrateur inexpérimenté décrit une visite à un bordel espagnol :
-<blockquote class="spip">She did not grip me with her scissors, but merely lay there like a great tuna fish. I had heard how the Prophet Jonah had been swallowed by a whale. (p. 34)
+<blockquote>She did not grip me with her scissors, but merely lay there like a great tuna fish. I had heard how the Prophet Jonah had been swallowed by a whale. (p. 34)
 
 Elle ne me tint pas prisonnier entre ses jambes comme avait fait l’autre. Elle était là, étendue comme une sirène. On m’avait dit que le Prophète Jonas avait été avalé par un poisson. (p. 44)
 
@@ -140,22 +140,22 @@ Elle ne me tint pas prisonnier entre ses jambes comme avait fait l’autre. Elle
 Bowles garde l’étrangeté de la métaphore (la comparaison des jambes de la femme aux ciseaux), tandis que Ben Jelloun naturalise l’image. En plus, ce dernier embellit l’autre image en traduisant <i>tûnatin</i> <i>kabîrah</i> (grand thon) par « une sirène » (!), tandis que Bowles met « great tuna fish », qui donne une image plutôt étrange (et exotique) de cette femme. De la même manière, Bowles rend une allusion à l’organe génital masculin (<i>qultu</i> <i>lahu</i> [p. 144]) par « dragon » (89) alors que Ben Jelloun utilise le terme neutre « sexe » (99).
 
 En outre, Paul Bowles a tendance à réduire les femmes à des objets sexuels. L’usage des mots « use » et « something » dans l’exemple suivant reflète le point de vue du traducteur :
-<blockquote class="spip">She’s a little fat, I said.<br class="autobr" /> It doesn’t matter. We can use her. Afterward, we’ll look for something better. (p. 33)
+<blockquote>She’s a little fat, I said.<br /> It doesn’t matter. We can use her. Afterward, we’ll look for something better. (p. 33)
 
 — Tu ne trouves pas qu’elle est un peu grosse ?
 — Qu’importe ? On va essayer et ensuite on verra une autre. (p. 43)
 
-[—Badînatun qalîlan ?<br class="autobr" /> Lâ yahummu. Sanujarribu ma’ahâ. Ba’da dhâlika sanabhatu ’an ukhrayâtin ajmali minhâ.] (p. 48)</blockquote>
+[—Badînatun qalîlan ?<br /> Lâ yahummu. Sanujarribu ma’ahâ. Ba’da dhâlika sanabhatu ’an ukhrayâtin ajmali minhâ.] (p. 48)</blockquote>
 Selon Tetz Rooke, les prostituées dans le texte de Choukri « figure as individuals, as living persons with rounded and human dignity, sometimes with dignities comparable to those of the male character » (1997 : 209). À la différence de Ben Jelloun, Bowles réduit la femme à un simple objet à utiliser, donnant ainsi une idée fausse de ce que l’auteur-narrateur dit et pense.
-<h3 class="spip">Conclusion</h3>
+<h3>Conclusion</h3>
 Paul Bowles et Tahar Ben Jelloun rendent la critique sociale de l’œuvre de Choukri de manières à la fois similaires et différentes. Ils radicalisent davantage la critique de l’autorité parentale et patriarcale dans la société marocaine et aggravent la misère de la famille de Choukri. Par contre, ils ont tendance à représenter la situation de la femme marocaine de façons relativement opposées : Bowles victimise la femme et la réduit à un objet, tandis que Ben Jelloun embellit parfois son image. S’agissant de la sexualité, les deux traducteurs amplifient les aspects intéressants : pour Bowles, l’étrange et l’exotique et pour Ben Jelloun, le sensuel, donc le jouissable. Quant à la religion, ils ont tendance à aggraver et, parfois, expliciter la critique des valeurs islamiques. Donc, on peut dire que leurs traductions à la fois libèrent la voix de Choukri qui critique plusieurs valeurs de la culture marocaine, mais ils s’en servent aussi pour exprimer des idées et des attitudes plutôt personnelles. Les passages discutés ici ne représentent qu’une partie de l’intervention de ces deux traducteurs dans le texte et leur manipulation du sens et de la forme du récit de Choukri.
 
-</div>
+
 
 ----
 
 references: 
-- <div class="crayon article-texte-83 texte surlignable clearfix">
+- 
 <ul>
  	<li>ABOU EL-MAGD, Nadia « Censorship board on a banning spree », <i>Al</i>-<i>Ahram</i> <i>Weekly</i> <i>Online,</i> consulté dans Internet le 10/02/2003 (http://weekly.ahram.org.eg/1999/421/eg3.htm).</li>
  	<li><i>(Alif)</i> « <i>Al</i>-<i>Kiyânu</i> <i>wa</i> <i>al</i>-<i>makân</i> <i> :</i> <i>mukâbala</i> <i>ma</i>_a <i>Muhamed</i> <i>Chukri</i> », <i>Alif,</i> 6 : printemps 1986, p. 67-78.</li>
@@ -170,17 +170,17 @@ references:
  	<li>ROOKE, Tetz, <i>In</i> <i>My</i> <i>Childhood</i> <i> :</i> <i>A</i> <i>Study</i> <i>of</i> <i>Arabic</i> <i>Autobiography,</i> [Stockholm], Stockholm University, 1997.</li>
  	<li>SPEAR, Thomas « Politics and Literature : An Interview with Tahar Ben Jelloun », trad. Caren Litherland, <i>Yale</i> <i>French</i> <i>Studies,</i> vol. 2, n° 83 (1993), p. 30-43.</li>
 </ul>
-</div>
-<div class="notes">
+
+
 
 <hr />
 
-<div id="nb1">
 
-<span class="spip_note_ref">[1] </span>Cet article est la version remaniée d’une communication présentée au colloque <i>Odyssée</i> <i>de</i> <i>la</i> <i>traductologie,</i> tenu le 21 mars 2003 à la Bibliothèque nationale du Québec, à Montréal.
 
-</div>
-</div>
+[1] Cet article est la version remaniée d’une communication présentée au colloque <i>Odyssée</i> <i>de</i> <i>la</i> <i>traductologie,</i> tenu le 21 mars 2003 à la Bibliothèque nationale du Québec, à Montréal.
+
+
+
 
 ----
 
