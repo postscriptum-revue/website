@@ -1,0 +1,137 @@
+title: [21-08] Les enjeux de la traduction du français vers l’arabe 
+
+----
+
+subtitle: le cas du pronom personnel « vous » dans <i>La Modification</i>  de Michel Butor
+
+----
+
+author: Hana SUBHI AL TAMEEMI
+
+----
+
+affiliation: Université Paris Sorbonne - Abu Dhabi
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: <strong>Je vais commencer par poser deux questions :</strong>
+
+-Un ouvrage littéraire peut-il changer la vie des lecteurs ?
+
+-Le pourquoi d’une traduction.
+
+Pour répondre à ces questions, je dirai, certainement, oui. Car, en tant que lectrice, <em>La Modification</em> de Michel Butor a <em>modifié </em>ma vie à un moment où je devais choisir entre rester dans un pays d’exil ou rentrer dans mon pays d’origine. J’avais trente-deux ans à l’époque, et avais pris le livre de Butor avec moi pour continuer sa lecture que j’avais entamée avant de partir. Arrivant dans cette nouvelle terre d’exil, je ne me sentais pas bien et j’ai commencé à me poser des questions sur ce choix de quitter ma terre natale. Tout en progressant dans la lecture du roman, je constatais, en même temps que le personnage égaré de Butor, que notre vision sur la vie, les relations, l’amour et sur bien d’autres questions, est relative et peut changer selon l’espace et le temps. Ainsi, les réflexions et le questionnement du personnage de Butor, tout au long du roman, me parlaient profondément, et quand il est parvenu à prendre la décision de retrouver sa femme et regagner son milieu familial à Paris, seul, sans sa maîtresse Cécile, j’avais, moi aussi, pris la décision de rentrer dans mon pays natal, après m’être convaincue de ses arguments. Une décision que je n’ai jamais regrettée par la suite.
+
+C’est ainsi qu’est née l’idée de la traduction de <em>La Modification</em> vers l’arabe. Je tenais à ce que d’autres lecteurs arabophones, qui ne connaissaient pas le français, puissent profiter de ce texte profond et monumental, en tant qu’expérience de vie et qu’approche romanesque. Et c’est tout-à-fait par hasard que j’ai découvert, des années plus tard, la première traduction erronée de ce roman dont je vais parler ici.
+
+Nous commençons notre article sur les enjeux de la traduction par une citation du livre de Michel Butor <em>L’écriture en transformation</em> qui dit : « Presque tous les termes de nos langues sont ambigus (…) c'est pourquoi la traduction littéraire est si difficile ». (Butor, 1993 : 20). C’est pourquoi le rôle du traducteur des œuvres littéraires d’une langue source à une langue cible est crucial. D’abord, nous aborderons les conditions qui doivent exister chez un traducteur littéraire et ensuite nous prendrons comme application une ancienne traduction de <em>La Modification</em>  de Butor du français vers l’arabe, parue il y une trentaine d’années et que nous avons jugée erronée et laissant à désirer et une autre plus récente, que nous avons effectuée, parue en 2010 – pardonnez-moi ici d’invoquer mon expérience personnelle. Le but de cette étude est d’expliquer le pourquoi de ces erreurs de compréhension et d’interprétation commises dans l’ancienne version et de les corriger.
+<h3><strong>Particularité du texte littéraire et critères du traducteur littéraire</strong></h3>
+Du fait de la particularité du texte littéraire, renfermant d’une part l’aspect informatif et d’une autre part l’aspect esthétique, un traducteur littéraire doit avant tout posséder cette sensibilité littéraire qui le rendrait capable de rendre (<em>translate)</em> toutes les nuances, la musique, le rythme et les métaphores du texte littéraire source de façon à ce que le lecteur de la langue cible ressente tous les plaisirs du texte dans sa langue originale. Il doit également connaître la culture des deux sociétés concernées par cette traduction, celle de la langue source et celle de la langue cible. Et enfin, il doit surtout savoir pourquoi il traduit une telle œuvre et pas une autre. Les conditions que nous allons évoquer ci-dessous doivent donc être à l’origine de toute traduction littéraire :
+
+<u>Passion pour le livre original </u>: le traducteur est avant tout un lecteur, c’est pourquoi, avant de traduire une œuvre littéraire, il doit ressentir une passion pour le livre dans sa langue originale, partager le point de vue de l’auteur, apprécier la forme, le contenu et la musique du récit, car sans cet amour passionné, la traduction serait une corvée intenable vouée à l’échec et le lecteur du livre traduit, qui jugera de la qualité de l’écrit, sentira sûrement le factice de la besogne du traducteur. Il est donc impossible et surtout déconseillé de traduire un auteur que nous ne respectons pas ou avec qui nous n’aurions pas de valeurs communes ou dont l’univers intellectuel, moral, artistique et psychologique nous seraient indifférent ou hostile. Il y a ici une évidence que répètent tous les maîtres traducteurs et théoriciens de la traduction.
+
+<u>Compréhension et déchiffrement de l’original</u><span style="text-decoration: underline;"> : </span>afin de comprendre le sens du livre original, le traducteur doit faire des recherches sur l’écrivain qu’il voudrait traduire, découvrir son époque, son champ lexical, son monde, lire des interviews qu’il a données, des critiques qui ont été écrites sur lui et sur son œuvre, saisir le sens de l’original et découvrir et interpréter les sens cachés.
+
+<u>Analyse et interprétation :</u> le traducteur a pour tâche, après les démarches précédentes, d’effectuer des analyses afin de préciser les significations possibles du texte littéraire dans ses différentes couches pour  pouvoir choisir la signification la plus adéquate dans le contexte du texte avant de commencer sa traduction. De surcroît, il est obligé d’étudier des liens éventuels de l’œuvre avec le contexte, la situation et l’époque : une œuvre littéraire étant toujours liée à son époque. Et étant donné que le caractère d’un texte littéraire est unique, il est impossible d’établir un seul modèle d’analyse :
+
+Il faut donc effectuer une analyse individuelle approfondie qui permette une meilleure compréhension du texte comme l’a souligné Antoine Berman dans son livre posthume <em>Pour une critique des traductions</em>, (Berman, 1995 : 70)
+
+<u>Créativité du traducteur</u><span style="text-decoration: underline;"> :</span> après toutes les informations rassemblées et les analyses effectuées, le traducteur doit commencer son travail et là, il doit faire preuve de compétence dans sa langue maternelle et maîtriser les éléments culturels de son travail afin que la traduction ne soit pas désuète.
+
+<u>Son impact dans la culture d’arrivée :</u> nous soulignons ici le rôle important du traducteur dans la culture d’arrivée. Grâce à sa production, la culture d’arrivée s’enrichit : les traductions entrent dans le patrimoine littéraire d’une nation concrète et sont souvent utilisées par les auteurs de cette culture-là (les liens intertextuels). Ainsi, un traducteur littéraire compétent est également un créateur à part entière, car tout en étant obligé de suivre la lettre de l’écrivain, il apporte des éléments étrangers dans sa culture et les apprivoise.
+
+Mais il convient d’ajouter ici qu’un livre traduit n’est jamais accueilli avec la même bienveillance dans toutes les cultures d’arrivée. Cela dépend des besoins, de la sensibilité et du contexte socio-culturel de chaque nation.
+<h3><strong>Étude d’application : comparaison entre deux traductions de<em> </em>La Modification<em> </em>de Michel Butor</strong></h3>
+Après avoir jeté la lumière sur les critères qui doivent exister chez un traducteur littéraire, nous allons nous pencher sur la traduction de <em>La Modification</em> de Butor dans ses deux versions, l’ancienne et la plus récente. Avant d’examiner les deux versions, nous allons présenter un résumé de ce roman de Butor. Cet ouvrage emblématique du Nouveau Roman[1], qui bouleverse les techniques romanesques dans la seconde moitié du XXe siècle.
+
+Dans <em>La Modification</em>, il y a certes une histoire, celle d’un homme, Léon Blum, vieillissant, qui prend le train à Paris pour rejoindre sa maîtresse Cécile à Rome, a décidé de quitter sa famille et à vivre enfin un bonheur parfait ; mais, il n’y a pas de narrateur, ni, à proprement parler, de personnage, puisque le roman est écrit à la deuxième personne au pluriel « Vous ». « Vous » est donc le narrateur-personnage du roman, et c’est ce « vous » qui, ayant réfléchi et s’étant interrogé pendant son long voyage de 286 pages, entre Paris et Rome, changera finalement d’avis et rentrera à Paris, seul, sans rien changer à son existence, après avoir décidé d’écrire un livre racontant sa propre histoire en chantant la Rome qu’il chérit. Au fur et à mesure que nous avançons dans l’histoire, nous voyons apparaître le pronom personnel « Il » quand il entre dans ses rêves et le pronom « Je » quand il change d’avis et décide d’écrire son livre. Il y a donc une évolution du personnage qui ne doit pas être négligé par le traducteur-lecteur.
+
+L’introduction du pronom personnel « vous » institue donc dès le début, un dédoublement de la perspective narrative qui, comme nous le verrons, n’est pas sans conséquence :
+<blockquote>Vous avez mis le pied gauche sur la rainure de cuivre, et de votre épaule droite vous essayez en vain de pousser un peu plus le panneau coulissant. Vous vous introduisez par l’étroite ouverture en vous frottant contre ses bords, puis, votre valise […] assez petite d’homme habitué aux longs voyages, vous l’arrachez par sa poignée collante, avec vos doigts qui sont échauffés […] de l’avoir portée jusqu’ici. (Butor, 1957 : PP.9-10)</blockquote>
+Cette voix indéfinie qui se livre, dès la première page, à toutes sortes d’interrogations et de constatation offre toutes les caractéristiques du monologue intérieur indirect « Il y a quelqu’un à qui l’on raconte sa propre histoire, quelque chose de lui qu’il ne connait pas, ou du moins pas encore au niveau du langage […] et ce récit sera par conséquent toujours un  récit didactique » (Humphry, 1954, 28)[2].  Comme la deuxième personne désigne l’être à qui l’on parle, le lecteur, destinataire obligé du message, est donc explicitement désigné.
+
+Dans l’ancienne version de la traduction arabe, il s’avère que le traducteur n’a pas saisi tout le processus de l’évolution du personnage. Il a tout faussé dès la traduction de la première phrase du livre : « Vous avez mis le pied gauche sur la rainure de cuivre, et de votre épaule droite vous essayez en vain de pousser un peu plus le panneau coulissant », en traduisant le pronom personnel « vous » par « antum » أنتم  au pluriel.
+<blockquote><strong>"</strong><strong>لقد</strong><strong> وَضَعتُ</strong><strong>م</strong><strong>القدم</strong><strong> اليسرى على</strong><strong> الحد</strong><strong> النحاسي، وبكتف</strong><strong>كم</strong><strong> الأيمن تحاول</strong><strong>ون</strong><strong> دون جدوى أن تدفع</strong><strong>وا</strong><strong> باب القاطرة المنزلق: تدخل</strong><strong>ون</strong><strong> من الفتحة الصغيرة، وأنتم تحتكّ</strong><strong>ون</strong><strong> بجانبها، ثم حقيبت</strong><strong>كم</strong><strong> المغطاة بجلد حبيبي قاتم ذي لون قنينة سميكة، حقيبتك</strong><strong>م</strong><strong> الصغيرة كرجل معتاد على الأسفار الطويلة، تنتزعونها بمقبضها اللزج بأصابعك</strong><strong>م</strong><strong> التي سخنت"  </strong><strong> ( Zaki Arouq, Abdul Baki Youssef, site électronique « Al Bahithoun » )</strong>[3]</blockquote>
+Ainsi, il a commencé la traduction de la première phrase « Vous avez mis le pied gauche…» par le mot « lakad » « لقد » qui est utilisé en arabe en début de phrase, pour confirmer que le fait est accompli dans le passé et donne le sentiment qu’on ne va pas y revenir, or, notre personnage n’est sûr de rien, il bascule, a du mal à se concentrer et va entrer dans un cycle infernal de questionnement, tout au long du livre, qui ne s’arrêtera que vers la fin, quand il décide d’écrire un livre pour raconter son histoire et son amour pour Rome, utilisant, après s’être réconcilié avec lui-même, le pronom personnel « je ».
+
+Néanmoins, si nous jetons un coup d’œil sur tous les manuels de traductions du français vers l’arabe, nous constatons que les règles de la traduction du passé composé est de mettre la particule « lakad » « لقد » avant le verbe pour affirmer l’accompli de l’action dans le passé et procurer une certaine conviction et force à l’acte accompli. Le traducteur a donc suivi la règle grammaticale théorique de la traduction du temps du passé composé du français vers l’arabe sauf qu’il n’a pas pensé à s’interroger sur la trame du récit et n’a pas analysé le personnage du roman, c’est pourquoi il n’a pas senti sa fragilité ; chose qu’il aurait dû faire avant d’opter pour le choix de cette particule précédant le verbe au passé composé ; ce qui constitue une erreur capitale car il n’y a pas de modèle unique pour les traductions :
+<blockquote>Traduire en inventant la poétique du traduire n’est pas le calque, le littéralisme, comme disent les bons apôtres du signe, qui tranchent tout texte en deux, le sens, et son résidu, la forme (…) la concordance est rythmique et prosodique. Elle est la cohérence même du texte. Là où elle disparaît, la poétique du texte disparaît . Quelques rencontres heureuses, mais ponctuelles, au milieu d’un désastre ne suffisent pas à la retrouver. (Meschonic, 1999 pp. 202-203).</blockquote>
+Les manuels de traduction fournissent, certes, des règles de traduction mais ne peuvent pas remplacer la sensibilité d’un traducteur vis-à-vis d’un texte littéraire. Le traducteur de l’ancienne traduction de <em>La Modification</em> a donc suivi à la lettre les manuels de traduction mais n’a pas senti que c’était un personnage qui commençait fragilement son voyage, qui n’avait pas confiance en lui-même, perdu à un tel point qu’il fixait les plus petits détails des objets et des personnes qui l’entouraient et imaginait des histoires à leur compte afin d’échapper à ses propres problèmes auxquels il ne parvenait pas encore à faire face.
+
+La deuxième erreur capitale, qui a perturbé le récit, est la traduction du pronom personnel « vous » en arabe : ce pronom, peut être utilisé, en français comme en arabe, pour désigner une personne avec qui nous avons une relation formelle, ce qui implique une certaine distance entre les deux interlocuteurs et dans ce cas le pronom peut être « antum » « أنتم » ou bien « hadhratakum » « حضرتكم ». Mais il peut aussi désigner la deuxième personne au pluriel « antum » « أنتم ». Par manque d’analyse de l’ensemble du récit, le traducteur a opté pour cette dernière. Ce choix a bien entendu faussé tout le processus du récit : le lecteur de la version arabe du roman de Butor sera entièrement déconnecté du monologue intérieur indirect car la langue arabe distingue entre « anta » «أنتَ» au singulier « Tu » / « antum » « أنتم» « Vous » au pluriel ; la nature de ce monologue qui met en question la vie intime du personnage et ses impressions ne peut s’adresser aux lecteurs au pluriel car un certain malaise gagne le lecteur de la traduction arabe puisqu’il se retrouve face à plusieurs personnes entrant dans le compartiment  du train en même  temps وضعتم قدمكم (vous avez mis le pied) تحتكون ( en vous frottant) تحاولون ( vous essayez ). Cette emphase qui recouvre le signifiant « vous » en arabe ne fait pas le même effet qu’en français même si dans tous les dictionnaires et les manuels de traduction le pronom personne « vous » est traduit par « حضرتكم » « hadhratoukum et « أنتم « Antum» », pour l’usage formelle . Ici, dans la trame de ce récit il doit être traduit par le pronom personnel « أنت » « anta » qui correspond mieux au contexte du texte, or, cela ne figure dans aucun manuel de traduction du français vers l’arabe.
+
+Il est vrai que le pronom personnel « vous » dans <em>La Modification</em> peut désigner le lecteur, mais pas tous les lecteurs à la fois « antum » « أنتم » comme ça a été traduit dans la première traduction. De surcroît, ce qui aggrave les effets de cette traduction erronée, c’est que le traducteur passe du pluriel au singulier en traduisant les adjectifs possessif, « <em>votre valise […] assez petite d’homme habitué aux longs voyages</em> »  حقيبتكم الصغيرة كرجل معتاد على الأسفار الطويلة
+
+Ce passage d’un pronom personnel désignant le pluriel suivi d’une épithète au masculin ne fait que perturber le rythme du monologue du personnage et déroute le lecteur.
+
+Une troisième erreur s’ajoute à la liste : « وَضَعتُم القدمَ اليسرى » le traducteur a traduit littéralement la phrase « vous avez mis le pied gauche ». En arabe, traduire littéralement le pied par القدم « <em>Alkadam</em> » donne l’impression que c’est le pied de quelqu’un d’autre, et qu’un groupe de personnes porte pour le mettre sur la rainure ; ce qui ajoute à la faiblesse de cette traduction. Là aussi, une lacune de compréhension de la langue originale se fait sentir : en français nous disons « je me suis cassé le pied » la traduction de cette phrase en arabe est « انكَسَرَتْ قدَمي » et non pas «  كَسَرتُ قدمي » qui veut dire « j’ai fait exprès de me casser le pied ».
+
+Et voici un autre exemple, où le pronom personnel « Vous » est traduit au pluriel « antum » أنتم , ce qui  fausse, encore une fois, la trame de l’histoire car, s’adressant à plusieurs personnes à la fois, enlève au monologue intérieur toute son intimité « Vous êtes encore transi de l’humidité froide qui vous a saisi lorsque vous êtes sorti du wagon. » (<em>Ibid</em>. : 91) «ما زلتم ترتعدون من الرطوبة التي تملكتكم حينما خرجتم من العربة. »
+
+Nous avons rectifié cette traduction en remplaçant  ما زلتم « vous êtes encore... » par « ma zilta »ما زلت  », « qui vous a saisi… » par تملكتك et خرجتم « vous êtes sorti… » par خرجتَ, ce qui a rendu au monologue intérieur son intimité :  « ما زلتَ ترتعد من الرطوبة الباردة التي تملكتك حينما خرجتَ من العربَة  (Al Tahawoul (La  Modification), traduction Hana Subhi : 1910 : 75 ).
+
+&nbsp;
+
+<u>Le rythme</u> : « Le rythme, comme organisation subjective d’un discours, historicité de ce discours, fonde le continu qui fait qu’un texte est de la littérature. Il passe par les « prosodies (intonation) personnelles », dont Apollinaire avait l’intuition. C’est une physique du discours. « c’est ce qui fonde les traductions » (Meschonic,1999 : 202) Ne pas sentir le rythme d’un texte littéraire, c’est donc, comme le précise Meschonic, fausser tout le sens de la notion de littérature. Dans la traduction erronée que nous avons analysée, le traducteur n’a pas rendu ce rythme ; voire l’a cassé.
+
+La quatrième erreur est la traduction du signifiant « rainure » par « had »حَّد  qui veut dire limite, ce qui ne correspond pas au signifiant « rainure » dans le contexte du texte. En lisant ce mot dans le texte traduit, le lecteur ne comprend pas où il se trouve.
+
+Il ne s’agit pas ici de faire une liste des erreurs commises par le traducteur de la première version, mais de les corriger en proposant une autre traduction que voici :
+<blockquote><em>وَضَعتَ قَدَمَكَ اليُسرى على الفُرضة النحاسية وبكتفك اليُمنى تُحاول عبثاً أن تدفَعَ الباب المُنزَلِق، أكثر قليلاً.[...] ثم يسترسل بعد عدة سطور: عيناكَ نصف مفتوحتين، كأنهما مغشَّاتان بدخان خفيف، جفناك حسّاسان وجافان، صًدغاك مثقلان وكأن جلدهما المشدود قد تصلَّبَ تجاعيدَ رقيقة، وشعرَكَ الأشعث، الذي راح يتناقص ويشيب شيئاً فشيئاً...</em>  (Al Tahawoul (La  Modification), traduction Hana Subhi : 1910 : 7 ).</blockquote>
+Nous partageons ici entièrement l’opinion de Berman : « […] il ne faut pas se contenter […] d’un simple travail de destruction. Il appartient au critique d’éclairer le pourquoi de l’échec traductif […] et de préparer l’espace de jeu d’une traduction […]. Cet espace de jeu est lui-même pris dans un espace plus vaste, celui de la translation d’une œuvre étrangère dans une langue culture » (Berman, 1995 : 17).
+<h3><strong>Conclusion</strong></h3>
+Nous constatons qu’un traducteur littéraire a un statut particulier dans le monde de la traduction et doit être à la hauteur de la tâche noble qu’il exécute. Une œuvre littéraire est un objet de luxe dont il faut prendre soin. C’est pourquoi, il doit d’abord l’aimer, l’apprécier et se sentir responsable de lui, donner dans la nouvelle culture où elle va s’installer, le même éclat dont elle bénéficie dans sa culture d’origine. Dans <em>La Modification</em> le personnage principal, Léon Blum, évolue tout au long du roman pour aboutir à sa décision finale de quitter sa maîtresse, de retourner à sa femme et d’écrire un livre sur Rome qu’il chérit. Cette évolution accompagnée d’un changement d’utilisation de pronoms personnels – le passage de « vous » à « il » puis à « je », devrait être prise en considération par le traducteur mais cela n’a pas été le cas, comme nous l’avons constaté :
+<blockquote>ce voyage devrait être une libération, un rajeunissement, un grand nettoyage de votre corps et de votre tête; ne devriez-vous pas en ressentir déjà les bienfaits et l'exaltation?
+Mais n'est-ce pas justement pour parer à ce risque dont vous n'aviez que trop conscience que vous avez entrepris cette aventure, n'est-ce pas vers la guérison de toutes ces premières craquelures avant-coureuses du vieillissement que vous achemine cette machine vers Rome où vous attendent quel repos et quelle réparation ?» (Butor, <em>Ibid</em>. : 280)</blockquote>
+Ce livre « monument », de par les efforts déployés par son auteur et de par le message si important qu’il véhicule pour les humains, partout où ils se trouvent, a été maltraité par un traducteur qui n’a pas su comment écouter la musique et le rythme du personnage: « La médiocrité d’une traduction est une fonction de la surdité au rythme » (Berman, <em>Ibid.</em> :150), c’est pourquoi nous avons préparé « l’espace de jeu d’une retraduction » pour reprendre les termes de Berman, sans faire la « donneuse de leçons » mais simplement pour redonner à cette œuvre la place qu’elle mérite, elle et son auteur, dans la culture qui l’a accueillie.
+
+Ainsi, parallèlement à <em>la Modification</em> du personnage de Butor, atteinte au bout de longues et profondes réminiscences, la retraduction que nous avons effectuée a entraîné, à son tour, une <em>modification</em> du point de vue du lecteur arabophone grâce à une nouvelle compréhension du texte.
+
+&nbsp;
+
+----
+
+references: 
+- <ul>
+ 	<li>ABDUL BAKI, Youssef, <em>Les caractéristiques du nouveau roman français</em>,</li>
+ 	<li><em>Al Bahithoun</em>, Revue électronique, N. 53, novembre 2011.</li>
+ 	<li>ALBERES, René Marill, <em>Histoire du roman moderne</em>, Paris, Albin Michel, 1962.</li>
+ 	<li>ALBERES, René Marill, <em>Métamorphose du roman</em>, Paris, Albin Michel, 1972.</li>
+ 	<li>BERMAN, Antoine, <em>Pour une poétique de la traduction</em>, Paris, Bibliothèque des idées, Gallimard, 1995.</li>
+ 	<li>BERMAN, Antoine, <em>L’épreuve de l’étranger</em>, Paris, Gallimard, 1995.</li>
+ 	<li>BERMAN, Antoine, <em>Pour une critique des traductions : John Donne</em>, Paris, Gallimard, 1995.</li>
+ 	<li>BONNEFOY, Claude, <em>Panorama critique de la littérature moderne</em>, Paris, Belfond, 1980.</li>
+ 	<li>BUTOR, Michel, <em>La Modification,</em> Paris, Editions de Minuit, 1957.</li>
+ 	<li>BUTOR, Michel, <em>Essai sur le roman, </em>Paris, Gallimard, 1960.</li>
+ 	<li>LUBBOCK, Percy, <em>The craft of fiction, </em>Londres, The Travelers Library, 1921.</li>
+ 	<li>MESCHONIC, Henri, <em>Poétique du traduire, </em>Paris, Verdier, 1999.</li>
+ 	<li>RICAROU, Jean, <em>Le Nouveau Roman</em>, Paris, Seuil, 1978.</li>
+ 	<li>ROBBE-GRILLET, Alain, <em>Pour un nouveau roman</em>, Paris, Gallimard, 1968.</li>
+ 	<li>ROSSUM-GUYON, Françoise Van, <em>Critique du roman, </em>Paris, Gallimard, 1970.</li>
+ 	<li>SARRAUTE, Nathalie, <em>L’Ére du soupçon, essai sur le roman, </em>Paris, Gallimard, 1956.</li>
+</ul>
+
+<hr />
+
+[1] Terme générique désignant les recherches sur l’écriture romanesque menées, à partir des années 1950, par un groupe d’écrivains  (qui comptait notamment  Nathalie Sarraute, Alain Robbe-Grillet, Michel Butor, Claude Simon, etc…) et dont l’action essentielle a été de pratiquer une remise en question du récit linéaire traditionnel.
+
+[2] Cité in “Critique du roman” par Françoise Van ROSSOUM-GUYON, Gallimard, 1970. P.16. La différence de base entre les deux techniques (direct et indirect) réside dans le fait que le monologue intérieur indirect donne au lecteur le sentiment d’une présence continue de l’auteur, tandis que le monologue direct l’exclut entièrement ou en grande partie. Cette différence, à son tour, implique des différences particulières, telle que l’utilisation de la troisième personne (ou de la seconde) à la place de la première, une utilisation plus large de méthodes de description et d’exposition pour l’organisation des matériaux. En même temps la fluidité et le réalisme dans la description des états de conscience peuvent être maintenus.
+
+[3] Nous avons mis en rouge toutes les lettres et les mots qui ont nécessité une réflexion de notre part. (Hana Subhi)
+
+&nbsp;
+
+----
+
+number: 8
+
+----
+

@@ -1,0 +1,529 @@
+title: [22-03] Le traitement des référents culturels dans la version française du roman arabe (Koweït) <i>Ici même</i> de Taleb Alrefai
+
+----
+
+subtitle: 
+
+----
+
+author: Isabelle BERNARD & Waël RABADI 
+
+----
+
+affiliation: Université de Jordanie & Université Al-Albayt
+
+----
+
+abstract_fr: <span style="font-weight: 400;">Cet article s’intéresse au traitement des référents culturels dans le roman de Taleb Alrefai intitulé </span><strong><i>Ici même </i></strong><span style="font-weight: 400;">et paru en France en 2016. Ces référents culturels nombreux sont présentés et analysés suivant un plan triaxial. L’article commente ainsi les choix de la traductrice, Mathilde Chèvre,  dans ce qu’ils apportent à la lecture de ce premier roman autofictionnel koweïtien. D’abord, il traite de la question des référents spatiaux, dont le titre indique d’emblée la prégnance pour le roman et sous-entend l’importance aux yeux du lecteur non-arabophone pour lequel la géographie de l’Émirat demeure mal connue. Ensuite, il aborde la question du féminin, souvent saisie entre fantasmes et stéréotypes par et pour le lecteur occidental, en ce qui concerne la femme arabe d’hier (avec Shéhérazade, symbole de la parole féminine) ou celle d’aujourd’hui (avec son engagement dans la défense des droits des femmes, en grande partie consacrée à la dialectique du </span>haram/hallal<span style="font-weight: 400;">, du voilé/dévoilé). Enfin, il passe en revue les différents choix stratégiques de la traductrice quant aux données plus strictement sociales et sociologiques étayées dans le roman.</span>
+
+----
+
+abstract_en: <span style="font-weight: 400;">This article focuses on the treatment of cultural references in the novel Taleb Alrefai entitled </span><strong><i>Here and Now</i></strong><span style="font-weight: 400;">, published in France in 2016. These numerous cultural references are analyzed according to a triaxial plan. The article discusses the choice of the translator, Mathilde Chèvre, in what they bring to the reading of this first novel autofictional from Kuwait. First, it introduces the issue of spatial referents, whose title immediately indicates the significance for the novel and implies the importance to the non-Arabic-speaking reader to which the geography of the Emirate remains unknow. Then, it addresses the issue of women, often gripped between fantasies and stereotypes and to the Western reader, regarding Arab women yesterday (with Scheherazade, symbol of feminine Word) or that of today (with its commitment to women's rights, devoted largely to the dialectic of veiled / unveiled). Finally, it reviews the different strategic choices of the translator as to more strictly social and sociological data supported in the Novel.</span>
+
+----
+
+text: <span style="font-weight: 400;">Né en 1958, Taleb Alrefai est l’auteur d'une dizaine de romans et de recueils de nouvelles qui s’inscrivent dans la veine actuelle des écrivains koweïtiens. À l’instar de Buthaina al-Issa (née en 1982), auteure d’une œuvre narrative fort audacieuse, féminine et féministe, ou de Saud al-Sanoussi (né en 1981), lauréat du Prix International de la fiction arabe (</span><i><span style="font-weight: 400;">International Prize of Arabic Fiction</span></i><span style="font-weight: 400;">) en 2015 pour </span><i><span style="font-weight: 400;">The Bamboo Stalk</span></i><span style="font-weight: 400;"> (2013), un roman très engagé socialement appelant à la reconnaissance des droits des minorités et des métis dans l’État, l’écrivain[1] </span><span style="font-weight: 400;">s’interroge sur la condition féminine dans son pays et sur celle des travailleurs immigrés. </span>
+
+<span style="font-weight: 400;">Au printemps 2016, la traduction française de son second roman </span><i><span style="font-weight: 400;">Ici même</span></i><span style="font-weight: 400;">[2]</span><span style="font-weight: 400;"> par Mathilde Chèvre est publiée aux éditions[3]</span><span style="font-weight: 400;">. L’œuvre se compose de treize chapitres partagés entre des notations autofictionnelles et l’intériorité de Kawthar qui, pour assumer ses désirs de femme amoureuse se bat contre sa culture arabo-musulmane d’origine qu’elle juge machiste. Comme dans un journal intime un rien nostalgique, Taleb Alrefai se met en scène en tant que témoin, prudent et philosophe, de la passion de son amie Kawthar, de confession chiite, pour Machârî, un séduisant haut fonctionnaire sunnite, marié, père de trois enfants, dans un </span><i><span style="font-weight: 400;">hic et nunc</span></i><span style="font-weight: 400;"> qui désigne le Koweït d’aujourd’hui. Nous proposons de scruter le fonctionnement intime d’</span><i><span style="font-weight: 400;">Ici même</span></i><span style="font-weight: 400;"> en mettant en lumière les modalités de gestion des référents culturels, leur place et leur intégration dans l’œuvre.</span>
+<h4><span style="font-weight: 400;">1- </span><b><i>Ici même</i></b><b> et la question du lieu</b></h4>
+<span style="font-weight: 400;">Même si le champ linguistique arabe-français est aujourd’hui dominé[4] </span><span style="font-weight: 400;">par la traduction d’œuvres littéraires, </span><i><span style="font-weight: 400;">Ici même</span></i><span style="font-weight: 400;"> de Taleb Alrefai demeure un hapax, étant à ce jour le seul roman koweïtien accessible au lectorat francophone[5]</span><span style="font-weight: 400;">. Plus encore que d’autres pays du Golfe Persique[6]</span><span style="font-weight: 400;">, l’Émirat du Koweït, fondé en 1961[7]</span><span style="font-weight: 400;">, constitue une aire culturelle peu familière aux francophones[8]</span><span style="font-weight: 400;">, mais ces constats ne sauraient demeurer.  </span>
+<blockquote><i><span style="font-weight: 400;">[…] l</span></i><i><span style="font-weight: 400;">’émergence d’un secteur privé de l’édition, encore modeste, s’appuie sur un pluralisme idéologique et une expérience du débat démocratique sans équivalent dans le reste des cités-États du Golfe. En outre, le régime koweitien fait de la promotion de la culture et de l’éducation un aspect important de son identité régional. (Mermier, 2002)</span></i></blockquote>
+<span style="font-weight: 400;">Les particularités du dialecte koweïtien sont, toutefois, peu usitées par la génération actuelle des traducteurs arabophones européens, principalement formés en Égypte ou en Syrie. Malgré l’augmentation du nombre de traductions d’ouvrages fictionnels en provenance des pays du Golfe, le travail de Mathilde Chèvre doit être envisagé comme celui d’une pionnière. Les désignateurs de référents culturels (ou « culturèmes », selon Michel Ballard)</span> <span style="font-weight: 400;">sont profondément ancrés localement et, en dépit de la mondialisation, restent soumis à de nombreuses variations à l’intérieur même du monde arabe. Certains, peu connus, n’ont pas d’équivalent à l’extérieur de l’Émirat[9]</span><span style="font-weight: 400;">. La question de leur traitement apparaît dès lors comme tout à fait pertinente et d’actualité concernant </span><i><span style="font-weight: 400;">Ici même,</span></i><span style="font-weight: 400;"> un roman qui contient bien des défis auxquels tout traducteur rêve de se mesurer.</span>
+
+<span style="font-weight: 400;">D’emblée, soulignons que le décor et les paysages entrent en résonance avec les personnages-narrateurs, le </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;"> et Kawthar, dont les récits s’entremêlent puisque le </span><i><span style="font-weight: 400;">Je,</span></i><span style="font-weight: 400;"> écrivain, s’empare de l’histoire de son amie pour écrire son roman </span><i><span style="font-weight: 400;">Ici même </span></i><span style="font-weight: 400;">(Alrefai, 2016 : 154). De fait, l’ancrage territorial[10]</span><span style="font-weight: 400;"> réclamé dès le titre – l’expression est répétée à de très nombreuses reprises au fil du roman – désigne plusieurs lieux du pays, à commencer par le bureau du </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;">, dépeint dès l’incipit. Cette description place le lecteur au centre du quartier emblématique de Koweït City, le plus ancien, qui concentre la haute administration du pays.</span>
+<blockquote><i><span style="font-weight: 400;"> Seul, ici même, dans le bureau n°33 du premier étage de l’école communale, propriété du Conseil national des arts et des lettres dans le quartier de Moubârakiya près des vieux souks de la ville. (Ibid. : 9). </span></i>
+<p style="text-align: left;"><span style="font-weight: 400;"> وحدي، هُنا في غرفتي رقم 33 في الدور الأول، من مبنى المدرسة القبلية، التابع للمجلس الوطني للثقافة والفنون والآداب، في منطقة المباركية، قرب أسواق الكويت القديمة</span></p>
+(الرفاعي، .7:2014)</blockquote>
+<span style="font-weight: 400;">Parce que le cœur du récit est indéniablement ce bureau dans lequel a lieu la gestation du roman lui-même (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;">  : 154), le lecteur aurait dû pouvoir resituer l’intrigue dans ce quartier fondateur de l’État[11]</span><span style="font-weight: 400;">, depuis devenu cœur économique et politique du pays et savoir que les bureaux des conseillers attachés au Ministère de la culture sont (de façon autrement symbolique) situés dans la première école communale pour filles édifiée dans le pays. Il est vrai que derrière le paysage de la capitale-état qui est l’« unique agglomération urbaine d’un des plus riches pays pétroliers » (Cabène, 2013), avec ses hautes tours au design postmoderne, il a dû être difficile à la traductrice, qui n’a jamais séjourné au Koweït, de saisir que le tissu urbain reste caractérisé par de vifs clivages historiques et communautaires, ethniques et confessionnels[12]</span><span style="font-weight: 400;"> ; elle ne les signale pas alors que, généralement, l</span><span style="font-weight: 400;">es solutions traductives les plus fréquentes pour résorber ces problèmes liés à des implicites culturels sont l’explicitation ou l’adjonction d’une carte en fin de volume </span><span style="font-weight: 400;">(Lederer, 1998 : 61)</span><span style="font-weight: 400;">. Le lecteur aurait tiré un large bénéfice de la présence d’un plan de ville qui aurait localisé à </span><span style="font-weight: 400;">l’extrême fond du Golfe Persique cet émirat qui est « le lieu d’interconnexion entre les émirats pétroliers et le Moyen-Orient arabe » (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">.). Plusieurs autres occurrences de l’expression spatiale renvoient encore au bureau du </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;"> narrateur (Alrefai, 2016 : 43, 45, 114, 153, 154, 157…) pour le décrire un peu plus dans sa sobriété, selon le vœu de l’auteur de rester le plus proche de la réalité que possible.</span>
+<blockquote><i><span style="font-weight: 400;">[…] debout, derrière la fenêtre de mon bureau qui donne sur le quartier Moubârakiya. La circulation sur la rue Ali Salem est fluide, au loin apparaît la coupole de la mosquée Dawla et, à côté, le nouveau bâtiment élevé de la banque centrale dans sa dernière phase de construction. </span></i><i><span style="font-weight: 400;">Mon bureau est petit, un canapé en coin couleur taupe, des murs blancs apaisants, une table marron, un ordinateur, des livres et des encyclopédies […] Je suis prisonnier, ici même. </span></i>
+
+<i><span style="font-weight: 400;">(Ibid, 44)</span></i>
+
+<i><span style="font-weight: 400;"> </span></i><span style="font-weight: 400;">أقف خلف نافذة مكتبي المطلة على منطقة المباركية. حركة السيارات في شارع علي سالم منسابة، وعلى البعد لاحت لي قبة مسجد الدولة وإلى جانبها مبنى البنك المركزي الجديد الشاهق في مراحل بنائه الأخيرة. غرفة مكتبي صغيرة بطقم صوفا  بني داكن، وحوائط بيضاء مسالمة، ومكتب بني اللون وكبيوتر، ومجموعة كتب ومجلات ... أنا سجين الهُنا</span>
+
+<span style="font-weight: 400;">(ص: </span><span style="font-weight: 400;">41)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Taleb Alrefai n’est jamais aussi touchant que lorsqu’il s’y autoportraitise, isolé dans une pièce aux allures de tour d’ivoire imprenable, emplie d’un silence monacal ; il y dit son insondable solitude, son imperturbable discipline, ses habitudes (regarder sa page Facebook et Twitter, déguster un sandwich préparé par son épouse…), mais aussi les affres du travail d’écriture (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 76-77). L’unique fenêtre lui est un tableau sur la ville qu’il observe au quotidien s’animer et se modifier d’un point de vue urbanistique et architectural. C’est ainsi qu’il évoque des lieux disparus, surgissant du passé grâce à ses rêveries ; le silence propice à la création n’est alors interrompu que par une seule voix, celle de Mahmoud Al-Koweïti et le fantasme immémorial d’une Shéhérazade, qui aurait désormais la silhouette de Kawthar : </span>
+<blockquote><i><span style="font-weight: 400;">Peut-être parce que j’aime la chanson </span></i><span style="font-weight: 400;">samâri</span><i><span style="font-weight: 400;"> qui me rappelle ma mère et ses amies, me ramène à mon adolescence dans la partie orientale de Farij al-Quodayi, puis plus tard de Farij Borsali […] J’ai imaginé Kawthar vacillant de toute sa hauteur vêtue de l’habit brodé d’or, ployant la branche de son grand corps et dansant avec lenteur le </span></i><span style="font-weight: 400;">samâri<i>.</i></span>
+
+<i><span style="font-weight: 400;">(Ibid. : 114).</span></i>
+
+<span style="font-weight: 400;">وربما لأني أحب غناء السامري، يذكّرني بأمي وصديقاتها، يأخذني لمراهقتي في منطقة شرق في فريج القضيبي ولاحقاً فريج بورسلي [...]  تخيلتُ كوثر تتمايل بطولها اللافت، وهي ترتدي الثوب الزري، تتثنى بغصن جسدها، ترقص بتؤدة رقصة السامري</span>
+
+<span style="font-weight: 400;">(ص: 114</span><span style="font-weight: 400;">) </span></blockquote>
+<span style="font-weight: 400;">Notons que la traductrice n’a pas su situer cet espace hantant les souvenirs du </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;"> alors qu’il est précisément désigné dans le texte-source : ajoutant maladroitement « dans la partie orientale », elle a complètement effacé l’expression « près du quartier de Shark », un quartier qui existe toujours et qui se situe à l’est de Koweït City. En fait, avant sa modernisation[13]</span><span style="font-weight: 400;">, l’arrondissement de Shark était composé de plusieurs quartiers qui portaient le nom d’anciennes familles éminentes, comme « Farij al-Quodayi ou Farij Borsali », littéralement « pâté de maison Al-Qodayi ou pâté de maison Borsali ». Ce sont ces références à l’histoire de la croissance et de la planification de Koweït City, ainsi qu’à la nouvelle dynamique urbaine des décennies 1980 et 2000 qui ont le plus manqué à la traductrice. Les archives nationales rassemblant les études locales[14]</span><span style="font-weight: 400;"> et étrangères[15] </span><span style="font-weight: 400;">ou, plus simplement, la mémoire de l’écrivain, ayant lui-même participé en tant qu’ingénieur civil à l’édification d’une urbanité nouvelle, lui auraient été d’un grand secours. Pour Alrefai, ce Koweït disparu est un </span><i><span style="font-weight: 400;">locus amoenus</span></i><span style="font-weight: 400;"> qui apparaît inextricablement lié au souvenir de sa mère ; ses fidèles lecteurs le savent. Mathilde Chèvre qui, dans l’ensemble du texte, n’a recours qu’à huit notes infrapaginales (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 9, 37, 40, 65, 115, 144) respecte cependant la volonté de l’écrivain d’ancrer pleinement, mais par petites touches, sa fiction dans sa ville. </span>
+<blockquote><i><span style="font-weight: 400;">Le quartier de Salamyia apparut avec ses hautes tours et ses immeubles, de l’autre côté les trois tours de la ville de Koweït et leur dégradé de couleurs bleues.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 74)</span></i>
+
+<span style="font-weight: 400;">.فبدت منطقة السالمية بأبراجها وعماراتها، ومن الجهة الأخرى لاحت أبراج الكويت الثلاث بتدرج ألوانها الزرقاء</span>
+
+<span style="font-weight: 400;"> (ص: 74)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Mais, en n’ajoutant aucune précision géographique, elle ne permet pas au lecteur de se localiser pleinement dans un espace romanesque à visée réaliste, scrupuleusement reconstruit d’après l’original. De la même façon, la traductrice aurait pu signaler que « le centre commercial Afniouz » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 15, 86) est, en fait, </span><i><span style="font-weight: 400;">The</span></i> <i><span style="font-weight: 400;">Avenues, </span></i><span style="font-weight: 400;">le centre commercial le plus fréquenté du Koweït et le plus spacieux du Golfe : afin d’éviter cette adaptation maladroite, elle aurait tout simplement dû garder le nom original anglais, comme elle l’a fait avec d’autres marques ou noms déposés, tels le restaurant français « Le Nôtre » (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 17) ou le fleuriste « Casablanca » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 29). Un autre « mall » rassemblant des </span><span style="font-weight: 400;">espaces commerciaux du même type que ceux de Dubaï</span><span style="font-weight: 400;"> est cité (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 140), ce qui conduit le lecteur à deviner l’importance de ces immenses espaces d’achats, de divertissement, de restauration et de rencontres, où se côtoient toutes les classes sociales et les nationalités. Leur présence démultipliée dit aussi son dynamisme économique et financier. Kawthar, qui sait son amant très entreprenant, insiste pour que l’un de ses rendez-vous avec Machârî se passe dans ce lieu public mixte (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 68) que les promeneurs fréquentent – telle l’avenue des Champs-Élysées, en France – pour se socialiser, « pour voir et être vus ». Le recours à une note proposant un complément civilisationnel aurait pu être une solution pour faire comprendre au récepteur francophone l’impact de cette toponymie, mais ce recours, loin d’être l’aveu d’une impuissance traductive, aurait somme toute alourdi l’ouvrage de fiction qu’est </span><i><span style="font-weight: 400;">Ici même</span></i><span style="font-weight: 400;">. </span><span style="font-weight: 400;"> </span>
+
+<span style="font-weight: 400;">Un autre lieu emblématique est désigné par « ici même » et illustre le fait que le langage véhicule une analyse de la réalité. Il s’agit de l’appartement que Kawthar acquiert (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;">  : 12, 34, 44, 137, 140) face à la mer dans le quartier animé et populaire de Salmiya[16]</span><span style="font-weight: 400;"> (Chèvre le note « Salamiya »), sur « la rue du Golfe arabe » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 110), ailleurs nommée « l’avenue de la corniche » (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 125). Après la mort de son père, la jeune femme s’y installe seule, encourant le risque d’être stigmatisée comme une débauchée et surtout de faire porter cette honte à sa famille[17]</span><span style="font-weight: 400;">.</span> <span style="font-weight: 400;">Aussitôt son déménagement, Kawthar est bel et bien reniée par sa mère et ses sœurs, plus haineuses à son égard les unes que les autres (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 109, 111) et plusieurs fois menacée de mort par son oncle paternel, Baqir (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 112, 132). L’amoureuse se refuse plusieurs fois à son amant dans ce nouvel espace, laissé impersonnel et peu décrit, malgré les toiles[18]</span><span style="font-weight: 400;"> qu’elle va, telle une intruse, discrètement décrocher des murs de la maison familiale pour le décorer[19]</span><span style="font-weight: 400;"> : l’appartement, où elle habite présentement avec sa bonne philippine, ne deviendra le domicile conjugal qu’après le mariage (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 87). C’est cependant depuis sa chambre que, sous la plume du </span><i><span style="font-weight: 400;">Je,</span></i><span style="font-weight: 400;"> Kawthar, le matin de la signature de son contrat de mariage, retrace de façon discontinue les épisodes les plus marquants des quatre années de son idylle avec Machârî. L’amoureuse s’investit tellement dans ce territoire personnel que l’expression « Là-bas » désigne, par une opposition nette et tranchée, sa maison familiale, sise dans le quartier résidentiel de Dasma, où elle a été particulièrement choyée par son père qui la préférait à ses autres sœurs et qui l’a éduquée dans un esprit d’ouverture et de tolérance (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 12, 37, 41, 81). De la figure paternelle aimante et cultivée d’hier ne demeure pour Kawthar qu’une présence fantomatique dans la bibliothèque tant chérie et quelques doux souvenirs d’enfance égrenés dans les larmes, la maison étant emplie des cris et brimades de la mère, obnubilée à l’idée de voir entachée la réputation de sa famille en raison du mariage de sa fille avec un Sunnite. </span>
+
+<span style="font-weight: 400;">Finalement, il y a peu d’occurrences d’autres territoires koweïtiens reconnaissables, mais chacun a une symbolique forte ; citons le quartier de Sourra où se trouve la maison de l’écrivain dans laquelle Chorouq[20]</span><span style="font-weight: 400;">, son épouse fidèle (elle-même personnage secondaire de l’intrigue (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 7, 11, 66, 78-79, 124, 137-138, 156) l’attend et dans laquelle a lieu l’hallucination finale qui fait apparaître la mère disparue en ultime conseillère (</span><i><span style="font-weight: 400;">Ibid. </span></i><span style="font-weight: 400;">: 1554-155). Citons encore les « cinq terrains voisins dans la zone de Janoub-al-Sourra », près de Koweït-City (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 103), qui constituent l’héritage de Kawthar et de ses sœurs, ou bien « la rue Gamel Abdel Nasser près de l’hôpital Sabah » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 19) dans le quartier excentré de Shuwaikh (orthographié d’après une prononciation approximative regrettable sous la forme de « Chouikh » (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 73), près du port industriel, où les amoureux se garent pour flirter et parler à l’abri de leur véhicule, avant d’être interrompus par la police, qui est aussi une police des mœurs.</span>
+<blockquote><i><span style="font-weight: 400;">[…] Un jeune policier est descendu pour venir taper à ta fenêtre, mon cœur battait la chamade, tu as entrouvert ta fenêtre et tu l’envoyas promener :</span></i>
+
+<i><span style="font-weight: 400;">- Vous désirez ?</span></i>
+
+<i><span style="font-weight: 400;">- Qui est cette femme ? t’a-t-il demandé d’un ton provocateur qui répondait au tien. » </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 73)</span></i>
+
+<span style="font-weight: 400;">ترجل شاب شرطي لينقر على زجاج نافذتك، فاهتز شيء من الخوف في قلبي. أنزلت أنت جزأً من زجاج النافذة، وتزجره قلت: نعم؟ من هذه المرأة؟ سألك هو بنبرة مستفزة ردّاً على نبرة حسك</span>
+
+<span style="font-weight: 400;">(ص: 71)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Un autre territoire important pour l’intrigue est l’Angleterre où se déroule une escapade des amoureux, libérés des carcans de leur société et du regard de leurs proches. Machârî, à l’instar de nombreux Koweïtiens de sa classe sociale, possède un bien immobilier en Europe. L’épisode de Brighton (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 96-100), au cours duquel les protagonistes vont au théâtre, boivent de la bière et ont une première relation sexuelle, est important pour comprendre la mentalité de l’élite libérale : comme les amants, la couche la plus aisée de la population affiche une modernité apparente, un goût pour les mœurs occidentales, européennes en particulier, tout en restant marquée par son identité confessionnelle, tenue et régie par des pratiques sociales rigides.</span>
+<blockquote><i><span style="font-weight: 400;"> - Est-ce que tu es vierge ? […]  Ton mépris et, plus encore, le ton de ta question me font mal […] Je suis une orientale éduquée dans les valeurs conservatrices de son milieu, c’est-à-dire à vivre les premiers frissons de son corps dans les bras de son mari !</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 94)</span></i>
+
+<span style="font-weight: 400;">أنتِ بكر؟ آلمني أنك تستخف بكرامتي، آلمني أكثر صيغة سؤالك ... فأنا فتاة شرقية تربت على قناعة صون عرضها، وأن تكون رعشة جسدها الأولى في حضن زوجها</span>
+
+<span style="font-weight: 400;">(ص: 94)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Chèvre donne ici accès à la culture d’une communauté, certes minoritaire, de Koweïtiens aisés possédant une culture européenne, mais qui induit des modes de vie et de pensée communs, des constructions intellectuelles qui, par définition, conduisent les membres de ce groupe à agir pareillement dans des situations sociales données. </span>
+<blockquote><i><span style="font-weight: 400;"> Dès que l’avion s’est posé sur la piste de l’aéroport d’Heathrow, j’ai senti que j’étais une autre femme.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 91). </span></i>
+
+<span style="font-weight: 400;">.ما إن حطت الطائرة على أرض هيثرو، حتى أنني أتحول لفتاة أخرى</span>
+
+<span style="font-weight: 400;">(ص:89)</span></blockquote>
+<span style="font-weight: 400;">Il faut par conséquent déduire que l’expression référentielle « Ici même » désigne le pays tout entier, saisi entre traditions et modernité. Le romancier le décrit autant grâce à des données civilisationnelles que grâce au récit intimiste d’une femme passablement brimée. </span>
+<blockquote><i><span style="font-weight: 400;">Ici, la société brise et réprime le désir féminin, l’empêche de déclarer sa flamme et d’exprimer sa souffrance. </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 114). </span></i>
+
+<span style="font-weight: 400;">.هُنا المجتمع يقمع المرأة في بوحها وتصريحها بحبها ووجعها</span>
+
+<span style="font-weight: 400;">(ص: 114)</span></blockquote>
+&nbsp;
+
+<b>2- Écrire le féminin arabe, entre fantasme et réalité</b>
+
+<span style="font-weight: 400;">Taleb Alrefai donne à son héroïne un physique d’actrice hollywodienne (ou échenozienne), celui de la Sud-africaine Charlize Theron (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 47). Kawthar est grande, blonde, sophistiquée, d’une beauté que ses collègues jalousent. Elle vit entourée d’objets de luxe, porte une montre Chopard et un sac Hermès (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 46), et conduit « une Porsche dernier cri » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 147). Née en 1977, elle incarne la femme moderne, tournée vers les mœurs, la mode et le mode de vie occidentaux. C’est à ce titre que les référents culturels concernent en majorité les données psychologiques et sociales locales : dans ce récit d’un amour malheureux, ce sont moins les objets matériels que les traits spirituels, intellectuels et affectifs qui priment. Par conséquent, dans l’ensemble du roman, Mathilde Chèvre a pu traduire les idées de l’écrivain, musulman sunnite modéré, quant à la vie amoureuse des femmes : elle a transmis le discours progressiste de l’élite qu’il incarne et qui est un message politique fort, jamais duplice ni provocateur, mais parfaitement adapté au contexte géopolitique actuel. </span>
+<blockquote><i><span style="font-weight: 400;">Que le prix à payer est cher pour une fille !, me suis-je dit, combien il peut être ravageur pour elle d’enjamber les obstacles et les limites impitoyables érigées par une société qui s’acharne à les défendre et qui broie tous ceux qui osent les défier ou les transgresser.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 48)</span></i>
+
+<span style="font-weight: 400;">دار ببالي: كم هو مكلف، وقد يكون مدمَّراً، أن تتخطى فتاة حواجز وخطوطاً بائسة شيّدها المجتمع، واستمات في في الدفاع عنها، وسحق كل من يجرؤ على مسّها أو التعدي عليها</span>
+
+<span style="font-weight: 400;">( ص : 45)  </span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Audacieuse, jamais lascive, bien qu’elle se languisse de son amant depuis 4 ans au moment du récit, daté de 2014, Kawthar est peinte[21]</span><span style="font-weight: 400;"> dans les tourments de la polygamie souhaitée par Machârî, mais qu’elle abhorre. </span>
+<blockquote><span style="font-weight: 400;">Tu me veux comme amante, comme femme de secours. Je refuse. Je refuse d’être moins qu’une femme entièrement femme pour un homme entièrement homme.</span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 34)</span>
+
+<span style="font-weight: 400;">.تريدني أن أكون العشيقة، المرأة الاحتياط، وأنا أرفض هذا. أرفض أن أكون أقل من امرأة كاملة لرجل كامل</span>
+
+<span style="font-weight: 400;">(ص:32) </span></blockquote>
+<span style="font-weight: 400;">Une question se pose : la traductrice aurait-elle dû rappeler que, même si elle fait l’objet de beaucoup de controverses et que certains pays musulmans ont pris des mesures pour restreindre cette pratique, la polygamie, légale et autorisée par la loi au Koweït, ne fait l’objet aucune interdiction formelle dans le livre sacré[22]</span><span style="font-weight: 400;">. Difficile de trancher cette question. Il n’en demeure pas moins que ces informations complémentaires auraient renforcé aux yeux des récepteurs la solitude de Khawtar dans sa lutte amère et angoissée pour obtenir le divorce de son amant. Écœurée par sa situation et son humiliation, l’amoureuse, quant à elle, fantasme, par haine d’elle-même.</span>
+<blockquote><i><span style="font-weight: 400;">Est-ce qu’un homme marié à deux femmes les rassemble dans le même lit pour faire l’amour ? Ce doit être excitant de s’allonger entre nous dans les mêmes draps. Qu’y a-t-il de mal à ce que deux femmes partagent le même homme ? </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 16).</span></i>
+
+<span style="font-weight: 400;">هل يجمع رجل متزوج امرأتيه في سرير واحد في لحظة الحب؟ ربما سيكون مثيراً أن تتمدد بيننا نحن الاثنتين على فراش واحد. ما المانع، امرأتان تتشاركان في رجل؟</span>
+
+<span style="font-weight: 400;">(ص:14)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Alrefai fait de Kawthar une combattante qui se construit un destin : offrant à son cri de souffrance de s’articuler en une parole, il l’inscrit sur le mode allusif dans la lignée de Shéhérazade. Si son héroïne est bien victime de traditions qu’elle juge totalement arriérées et inacceptables, elle les pointe maintes fois du doigt et refuse de s’y soumettre. Ainsi en est-il, par exemple, de l’intrusion, typique des sociétés conservatrices, des membres de la famille dans la vie personnelle et intime des femmes : </span>
+<blockquote><i><span style="font-weight: 400;">Je n’ai plus la force d’affronter oncle Baqir, ses contrôles, ses visites, ses menaces.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 141, 144)</span></i>
+
+<span style="font-weight: 400;">.أنا أعجز عن الوقوف في وجه مراقبة وزيارات وتهديدات عمي باقر</span>
+
+<span style="font-weight: 400;">( ص : 146)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Révoltée, Kawthar en vient à décrire son pays comme une société dont l’</span><span style="font-weight: 400;">attachement aux valeurs traditionnelles et aux structures d’organisation tribale entrave l’épanouissement de ses membres :</span>
+<blockquote><i><span style="font-weight: 400;"> […] une société patriarcale arriérée, qui voit en l’homme le seul dépositaire de la force et du droit. </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 61)</span></i>
+
+<span style="font-weight: 400;">.مجتمع ذكوري متخلّف يرى الرجل وحده رمزاً للقوة والحق</span>
+
+<span style="font-weight: 400;">(ص: 59)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">L</span><span style="font-weight: 400;">es relents misogynes qu’elle trouve dans les coutumes la révulsent littéralement et,</span> <span style="font-weight: 400;">dans bien des passages, elle offre un accablant témoignage sur les relations sociales, la ségrégation entre les hommes et les femmes apparaissant encore fort pesante. </span>
+<blockquote><i><span style="font-weight: 400;"> J’étais en troisième quand pour la première fois de ma vie je parlai à un garçon.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 67-68) </span></i>
+
+كنتُ في الصف الثالث ثانوي مساء كلّمت ولداً لأول مرة في حياتي
+
+(ص : 65)
+
+<i><span style="font-weight: 400;">Au Koweït, la rencontre entre une jeune fille et un jeune homme, entre une femme et un homme, ouvertement, dans un lieu public, est une chose que personne n’ose faire .   Aucune fille n’oserait risquer sa réputation et celle de sa famille en s’asseyant en face d’un jeune homme, devant une tasse de café, dans un lieu public ! </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 67)</span></i>
+
+<span style="font-weight: 400;">في الكويت، لقاء شابة بشاب، أو امرأة برجل في العلن، في مكان عام أمر لا يُقدم أحدٌ على اقترافه. ليس من فتاة تجازف بسمعتها وسمعة أهلها وتجالس شابّاً حول فنجان قهوة في مكان عام</span>
+
+<span style="font-weight: 400;">(ص : 66)</span>
+
+&nbsp;</blockquote>
+<span style="font-weight: 400;">C’est malheureusement à l’aide d’un ton trop souvent didactique que la traductrice le montre. Par exemple, lorsque Kawthar explique l’existence d’unions de courtes durées, censées contrer les infidélités en comblant les frustrations des hommes, mariés ou non, qui représentent, selon elle, une sorte de prostitution, d’un échange strictement sexuel duquel les femmes irrémédiablement sortent humainement, socialement, physiquement et émotionnellement vaincues. Si Mathilde Chèvre ajoute de façon tout à fait fluide une brève définition dans le corps du texte, après le terme arabe, elle en délaisse le dessein réaliste : est-il plausible qu’une musulmane se présente à elle-même les fondements mêmes de sa société ?</span>
+<blockquote><i><span style="font-weight: 400;"> En Arabie saoudite, on a inventé le mariage </span></i><span style="font-weight: 400;">misyar</span><i><span style="font-weight: 400;">, littéralement le mariage “de passageˮ. Je n’ai aucune intention de devenir une femme résignée qui attend dans une chambre de la maison familiale qu’un homme de passage vienne lui rendre visite, exhiber sa force d’étalon et gonfler ses plumes tel le coq, combler son cœur de sa présence virile, s’abandonner en elle pour vider son misérable appétit et la laisser après l’amour dans l’espoir de sa prochaine visite […] </span></i>
+
+<i><span style="font-weight: 400;">(</span></i><i><span style="font-weight: 400;">Ibid. : 32-33).</span></i>
+
+<span style="font-weight: 400;">في السعودية اخترعوا زواج "المسيار"، وأنا لا أقبل على نفسي أن أكون امرأة مستكينة ألوذ في غرفة في بيت أهلي أنتظر أن يتكرم رجل عليَّ، يأتي مُسيَّراً لزيارتي مستقوياً بفحولته ونافشاً ريشه كالديك. يسعد قلبه بحضوره الذكوري، يختلي بي ليفرغ شهوته البائسة، ويتركني بعدها على أمل زيارة قادمة يتفضل بها عليَّ بها متى ما فارت شهوته</span>
+
+<span style="font-weight: 400;"> (ص: 31)</span></blockquote>
+<span style="font-weight: 400;">Kawthar poursuit ses invectives à l’égard de sa communauté d’origine. Là encore, la traductrice ajoute une définition facilitant la compréhension, mais laissant l’authenticité du ressenti s’étioler.</span>
+<blockquote><i><span style="font-weight: 400;">Certains chiites pratiquent ce que l’on appelle le mariage </span></i><span style="font-weight: 400;">mut’a</span><i><span style="font-weight: 400;">, un mariage de plaisir, mais je ne me satisferai jamais d’être un plaisir généreusement offert à un homme médiocre auquel j’aurai plu au point qu’il contracte avec moi un mariage factice et misérable, pour un mois ou deux, histoire de se distraire et de satisfaire son caprice. </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 32-33).</span></i>
+
+<span style="font-weight: 400;">البعض من الشيعة لديهم ما يسمى بزواج "المتعة"، وأنا لا أرضى أن أكون متعةً مبذولة لرجل تافه، راق له شكلي فوافق أن يعقد علىَّ قراناً بائساً صوريّاً لمدة شهر أو شهرين كي أرفه عنه أسعد نزوته</span>
+
+<span style="font-weight: 400;">(ص: 31)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Au sein de ses revendications pour une modernité qu’elle souhaiterait moins dévalorisante à l’égard des femmes, l’héroïne du roman mêle encore us hérités du passé et impératifs religieux, les rejetant d’un seul élan. </span>
+<blockquote><i><span style="font-weight: 400;">Nous dormirons enfin dans la légalité et le bannissement ! Et dans les sociétés puritaines, le bannissement procure un plaisir qui surpasse celui de la légalité !</span></i>
+
+<i><span style="font-weight: 400;"> (Ibid. : 22)</span></i>
+
+<span style="font-weight: 400;"> !أخيراً سننام بالحلال والنبذِ، وللنبذ في المجتمعات المتزمتة متعة تفوق متعة الحلال </span>
+
+<span style="font-weight: 400;">(ص: 20) </span></blockquote>
+<span style="font-weight: 400;">Puisque c’est précisément une différence religieuse entre Machârî et elle qui motive la haine de ses parents (le seul fait qu’il soit marié n’étant pas un obstacle au consentement des familles), elle aborde sans hésitation le conflit latent entre les deux écoles de pensées musulmanes majoritaires, le chiisme et le sunnisme (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 16, 17, 22, 139). Les communautés, fondues depuis l’origine, ont connu des périodes de conflits, qui apaisés désormais, n’en ont pas moins laissé des traces : les mariages mixtes restent difficilement tolérés et la traduction rend parfaitement ce tiraillement sociétal.</span>
+
+<i><span style="font-weight: 400;">Il s’est remarié avec une chiite.</span></i>
+<blockquote><i><span style="font-weight: 400;">Elle prononcera le mot “chiiteˮ comme une insulte. Elle se détournera du choc de ton adultère pour se focaliser sur ce mariage avec une chiite. </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 16-17).</span></i>
+
+<span style="font-weight: 400;">.تزوّج شيعية"، ستقول كلمة "شيعية" وكأنها سُبة .. ستترك صفعة خيانتك لها وارتباطك بامرأة من شيعية"</span>
+
+<span style="font-weight: 400;"> (ص: 14)</span></blockquote>
+<span style="font-weight: 400;">Au reste, un rappel historique permet au lecteur d’en saisir toute la portée. En 1977, le père de Kawthar a été confronté au dilemme suivant : accorder ou non la main de sa sœur Altaf à un Sunnite. </span>
+<blockquote><span style="font-weight: 400;">Il était : « jeune nationaliste, libéral, libre penseur, émancipé dans ses opinions et ses actions, sorti de l’Université américaine de Beyrouth »</span>
+
+<span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 53)</span>
+
+<span style="font-weight: 400;">.الشاب القومي الليبرالي المتحرر في تفكيره وآرائه وسلوكه، الذي تخرج في الجامعة الأمريكية في بيروت</span>
+
+<span style="font-weight: 400;">(ص:51)</span></blockquote>
+<span style="font-weight: 400;">Il avait choisi de soutenir sa sœur dans son combat pour imposer à sa famille chiite le futur époux. Or, trente ans plus tard, le même homme refusera tout net de soutenir sa fille dans la même lutte amoureuse : </span>
+<blockquote><i><span style="font-weight: 400;">Je sentis que derrière ce refus d’un homme marié se cachait son objection réelle, celle d’un mariage avec un sunnite.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 56)</span></i>
+
+<span style="font-weight: 400;"> .شعرت أنه يخفي اعتراضه الحقيقي على مذهب الرجل، مُظهِراً رفضه لكونه متزوجاً</span>
+
+<span style="font-weight: 400;">(ص:54)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Au lecteur attentif de glaner, plus loin dans le texte, les quelques notations géopolitiques qui rendront compréhensif ce revirement d’opinion du père, avant d’avoir le sentiment d’Altaf elle-même sur son mariage et la famille qu’elle a fondée. Chèvre a habilement choisi de ne point sous-estimer son lecteur ; aussi aucun lien ne relie ces indices à la réaction du père. Pourtant, elle peint un homme abattu, sincèrement déçu par le résultat des récents sursauts démocratiques et populaires qui, en Tunisie, en Égypte, en Syrie et en Libye, ont plus que jamais éloigné son rêve de voir s’installer une unité politique dans le monde arabe. Ayant perdu toute confiance en l’avenir politique concernant la fraternité arabo-musulmane, le vieux militant souhaite éviter à sa fille d’être confrontée à une dissension inextricable parce que politique. Quelques jours avant son décès, il enterre le panarabisme de ses jeunes années sur un mode prophétique : </span>
+<blockquote><span style="font-weight: 400;">Le chaos va dévaster nos pays dans les temps à venir, la violence fondamentaliste et le sang vont les dévorer. </span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 64)</span>
+
+<span style="font-weight: 400;">.ستجتاح بلداننا الفوضى، ويلتهم العنف الأصولي والدم أيامنا القادمة</span>
+
+<span style="font-weight: 400;">(ص: 62) </span></blockquote>
+<span style="font-weight: 400;">Dans une scène émouvante, la tante de Kawthar ajoute son expérience singulière en soulignant, non des difficultés conjugales – elle n’a jamais regretté son mariage –, mais les inquiétudes que ses filles ont à surmonter de par la mixité confessionnelle de leur foyer. </span>
+<blockquote><i><span style="font-weight: 400;">Elle expliqua que, quel que soit le jeune homme qui venait demander la main d’une de ses filles, il se désistait en apprenant qu’elle était de père sunnite et de mère chiite. […] J’ai peur qu’elles restent vieilles filles.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 139)</span></i>
+
+<span style="font-weight: 400;">راحت تشرح لي أن أي شاب يتقدم لخطبة إحدى بناتها يقف عند توزعهن بين مذهب الأب السني ومذهب الأم الشيعي </span>
+
+<span style="font-weight: 400;">.أخاف عليهن من العنوسة[... ]</span>
+
+<span style="font-weight: 400;"> (ص : 141)</span></blockquote>
+<span style="font-weight: 400;">Au lecteur de tirer les conclusions qui s’imposent de ces données exprimant une profonde discordance de la population.</span>
+
+<span style="font-weight: 400;">Si la traductrice use et abuse de la métaphore de la brûlure et de l’amer pour le dire, elle n’en réussit pas moins certains pans de son portrait de Kawthar. Au cœur même de sa plus proche famille, l’amoureuse doit donc se battre, entièrement seule. Elle connaît la peur et l’amertume des femmes militant au péril de leur vie pour les droits de leur sexe. Du discours familial conservateur d’une insondable violence contre ses choix de vie[23]</span><span style="font-weight: 400;"> :</span>
+<blockquote><span style="font-weight: 400;">« Mon crime suprême était d’exercer mon droit à choisir où j’allais vivre » </span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 126) </span>
+
+<span style="font-weight: 400;">.جريمتي الكبرى أنني مارست حقي ف اختيار مكانٍ خاصًّ أعيش فيه</span>
+
+<span style="font-weight: 400;">(ص 128) </span></blockquote>
+<span style="font-weight: 400;">Elle ne parvient à oublier ni les paroles virulentes de sa mère[24]</span><span style="font-weight: 400;"> : </span>
+<blockquote><span style="font-weight: 400;">« Si tu étais un homme, je te tuerais […] Que Dieu vienne te prendre » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 112-113) ni celles de son oncle Baqir : « Une fille bien éduquée qui quitte la maison familiale pour habiter seule, c’est la honte sur la famille […] Nous te tuerons » </span>(<i>Ibid.</i> : 112).
+
+<span style="font-weight: 400;"> عيب بنت أسرة محترمة تترك بيت أهلها، وتسكن وحدها! ... سنقتلك</span>
+
+(ص :112)
+
+<span style="font-weight: 400;">Alors qu’elle a toujours été sa préférée, son père ne la défend pas non plus (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 60) : « Pourquoi ne pas quitter le Koweït, quitter les pays du Golfe, me reposer de toute cette rancune amère ? » </span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 145). </span>
+
+<span style="font-weight: 400;">.فكرت أترك الكويت ودول الخليج جميها وأرتاح من كل هذا الوجع المر</span>
+
+<span style="font-weight: 400;"> (ص :147 ) </span></blockquote>
+<span style="font-weight: 400;"> Kawthar refuse de se lancer à corps perdu dans des aventures sans lendemain (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 94-95) : sa maturité, ses convictions et ses sacrifices font d’elle une passionaria de l’amour. Sa détresse et sa révolte auraient sans doute mérité un ton et une vivacité d’esprit à la hauteur de sa ferveur. Ses souffrances les plus insupportables sont particulièrement redevables à l’attitude sexiste de celui qu’elle aime néanmoins d’un élan sincère et vrai. </span>
+<blockquote><i><span style="font-weight: 400;">Je veux que tu t’engages, je ne suis pas prête à être une femme de plaisirs faciles vers laquelle tu viendrais pour déverser la violence de ta virilité, que tu délaisserais ensuite, jetée au fond d’un trou obscur.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 32)</span></i>
+
+<span style="font-weight: 400;">.أريد الارتباط بك لأني غير مستعدة لأن أكون امرأة متعة رخيصة، تأتي إليها ل</span><span style="font-weight: 400;">تفرّغ فورة رجولتك، وتغادرها مرمية في قاع حفرة مظلمة</span>
+
+<span style="font-weight: 400;">(ص:30) </span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Physiquement, Machârî, qu’elle vénère au-delà de toute mesure, lui donne bien peu de plaisir et leur rapprochement à Brighton est révélateur d’une immense frustration : </span>
+<blockquote><i><span style="font-weight: 400;">Pour la première fois, dans ton lit, dans ta chambre, sous le regard de ta femme qui nous observait dans son cadre doré, tu m’as fait jouir pour la première fois et mon hymen a délivré le filet de sang qu’il retenait depuis plus de trente ans.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 98)</span></i>
+
+<span style="font-weight: 400;"> على سريرك، في غرفة نومك، </span><span style="font-weight: 400;">وبينما زوجتك تطّل علينا من إطار صورتها المذّهب، حضرت بي شهقة روحي الأولى، وانبثق خيط الدم الذي بقي</span>
+
+<span style="font-weight: 400;">.محبوساً لما يزيد على الثلاثين سنة</span>
+
+<span style="font-weight: 400;">(ص : 98)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Née d’une conscience aiguë des clichés et clivages de sa société, la révolte de cette femme lui permet en contrepoint de tracer à la pointe sèche le portrait de son amant.</span>
+<blockquote><i><span style="font-weight: 400;"> J’ai quitté ma famille et j’ai changé de vie pour toi. Alors vas-tu quitter la tienne et changer ta vie comme moi, ou bien seras-tu incapable d’extirper tes jambes de la boue de ton mariage et du machisme dans lequel tu es englué ?</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 135-136).</span></i>
+
+<span style="font-weight: 400;">أنا بعت أهلي وغيّرت حياتي من أجلك، فهل ستبيع وتغيّر حياتك مثلي، أم إن ساقيك غاطستان في طين زواجك وحساباتك الذكورية ولن تستطيع تخليصهما؟</span>
+
+<span style="font-weight: 400;">(ص : 137</span><i><span style="font-weight: 400;">) </span></i></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Brillant et séduisant, Machârî est « volage, couard » et maladroit : Kawthar le sait et le surnomme rapidement « l’homme des plaisirs éphémères »[25] </span><span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 15) tant il se montre volontiers impudent et cynique avec elle. </span>
+<blockquote><span style="font-weight: 400;">« J’ai la certitude que si tu le pouvais, tu serais ravi de me garder comme amante, cela te suffirait » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 20). </span>
+
+<span style="font-weight: 400;">.لو رجع الأمر لكَ، لسعت بأن أبقى عشيقتك وكفى</span>
+
+<span style="font-weight: 400;">(ص:18) </span></blockquote>
+<span style="font-weight: 400;">Le dédain, l’orgueil et l’arrogance parlent souvent pour lui.</span>
+<blockquote><i><span style="font-weight: 400;">« - Toutes ces années passées à travailler à distance avec toi, je m’étais imaginée une femme sérieuse. Je croyais que tu étais voilée. » (Ibid. : 86) ; « tout en moi brûle de désir, rien n’aurait pu briser ma jouissance avec toi. Sauf ta question timide : - Est-ce que tu es vierge ? » (Ibid. : 94) ; « Tu es un homme qui, pour la renommée publique de sa vie maritale, veut qu’elle soit d’une blancheur immaculée, qu’elle jouisse de calme et de stabilité loin des qu’en-dira-t-on et des rumeurs, mais qui au fond de lui veut frémir de jouissance  avec une femme autre que la sienne » (Ibid. : 14).</span></i>
+
+<span style="font-weight: 400;">لأن روحي تفطرت بعطشها وانتظارها وتوترها، فإن مسام جسدي كانت تفور بحرَّ نيران الرغبة. ولم يكسر علىَّ استمتاعي معك، إلا سؤالك النافر: "أنتِ بِكر"؟</span>
+
+<span style="font-weight: 400;">(ص : 94) </span>
+
+<span style="font-weight: 400;">طوال سنة وأنتِ تتعاملين معي برسمية، تصّورتك امرأة جادة ... اعتقدتك محجبة</span>
+
+<span style="font-weight: 400;">(ص : 84) </span>
+
+<span style="font-weight: 400;">أنت رجل يريد لسمعته حياته الزوجية في العلن أن تبدو ناصعة البياض، تنعم بالاستقرار والهدوء بعيداً عن أي أقاويل أو إشاعات، ويريد لقلبه أن يخفق بمتعة  اللهو مع أي امرأة أخرى غير زوجته</span>
+
+<span style="font-weight: 400;">(ص: 13)</span><span style="font-weight: 400;"> </span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Tiraillée entre des convenances imposées par sa société et ses propres impulsions et aspirations au bonheur :</span>
+<blockquote><span style="font-weight: 400;">« Kawthar a décidé de se marier avec son amant même s’il reste engagé auprès de sa première épouse » </span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 155). </span>
+
+<span style="font-weight: 400;">. كوثر ... عازمة على الزواج من صديقها حتى لو بقي مرتبطاً بزوجته الأولى</span>
+
+<span style="font-weight: 400;"> (ص: 157)</span></blockquote>
+<span style="font-weight: 400;">Rien d’étonnant à ce que, dès les premières pages de son roman, Alrefai associe l’écriture de cette histoire malheureuse (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 9, 43, 47, 49, 152) à une ancienne chanson d’amour, mélancolique à souhait et interprétée par Mahmoud al-Koweïti : « la Sâmarya », que l’on pourrait traduire comme « À une Samaritaine ». Ici, Mathilde Chèvre a choisi d’alléger le texte-cible en reportant en bas de pages des indications sur le nom des auteurs-compositeurs (Khamis ben Mohammed al-Chammari et Hamad al-Rajib) qui sont insérés dans le corps du texte-source ; elle a placé d’autres éclaircissements sur ce texte en dialecte koweïtien, tel le mot d’origine perse « Bouchiya »[26]</span><span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 9, 120) qui désigne une danse et le voile léger destiné à couvrir le visage de la danseuse. Grâce aux fantasmes du </span><i><span style="font-weight: 400;">Je,</span></i><span style="font-weight: 400;"> Alrefai se réfère à une dialectique ancestrale typiquement orientale, celle du voilé et du dévoilé, qui réapparaît au fil du texte au son d’une strophe à chaque fois nouvelle de la chanson.</span>
+<blockquote><i><span style="font-weight: 400;">Vêtu d’une robe en voiles légers comme la peau. </span></i><i><span style="font-weight: 400;">Et d’un habit que soulève sur ses hanches un fin lacet brodé[…] Quel appel le corps lance-t-il par son mouvement […] Quel est le tissu qui ressemble à la peau ?</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 152-153).</span></i>
+
+<span style="font-weight: 400;">ملبوسها النفنوف واللحميّة     والثوب شاله ردفة القيطاني (ص :155) </span><span style="font-weight: 400;"> أي نداء يطلقه الجسد في حركته ... أي ثوب يعدل ثوب لحم الجسد؟ </span>
+
+<span style="font-weight: 400;">(ص: 156)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Il me<span style="color: #000000;">t l’accent sur les liens entre le tabou et le sacré qui s’unissent dans la danse orientale. Remontant aux très anciens </span></span><span style="color: #000000;"><span style="font-weight: 400;">rites</span><span style="font-weight: 400;"> de </span><span style="font-weight: 400;">fertilité</span><span style="font-weight: 400;">, associés à la fois à la </span><span style="font-weight: 400;">religion</span><span style="font-weight: 400;"> et à l'</span><span style="font-weight: 400;">ésotérisme</span></span><span style="font-weight: 400;"><span style="color: #000000;">, ce </span>déhanchement rythmé des danseuses synthétise la sensualité des femmes dans l’imaginaire de l’écrivain. Lorsque les traits de Kawthar, qui intellectualise à l’extrême son désir, se superposent au visage de la danseuse, l’image la rapproche incontestablement de la légendaire Shéhérazade. L’art traditionnel du </span><i><span style="font-weight: 400;">Samâri</span></i><span style="font-weight: 400;"> est cependant mentionné (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 43, 76, 114) sans plus d’éclaircissement, alors même que la bande sonore est omniprésente et que les paroles de Mahmoud al-Koweïti (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 9-11, 43, 49, 76, 102, 152…) rythment le récit autofictionnel du </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;"> qui y puise son inspiration. L’éternel féminin y demeure un univers mystérieux et envoûtant.</span>
+<blockquote><i><span style="font-weight: 400;">« “Lève-toi et danse la </span></i><span style="font-weight: 400;">bouchiya</span><i><span style="font-weight: 400;"> pour moi / Laisse-moi étancher la soif de mon être frêle / Danse pour moi et lève le voile légerˮ […] Je suis captivé par l’instant où la femme écarte le voile, découvre son visage, courbe sa nuque légèrement pour effleurer l’air de ses cheveux  […]» </span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 9, 10, 43-44).</span></i>
+
+<span style="font-weight: 400;">"قلت اوقفي لي وإرفعي البوشيةّ    خليني أروي ضامر العطشاني" (ص: 7) "تشدني تلك اللحظة، حين تزيح المرأة الثوب عن رأسها، كاشفة عن وجهها، وتنحني قليلاً برقبتها لتلفح بشعرها يمنة ويسرة" </span>
+
+<span style="font-weight: 400;">(ص:40-41)</span></blockquote>
+&nbsp;
+<h4><b>3- Le Koweït de Taleb Alrefai : un pays à contrastes, entre traditions et modernité</b></h4>
+<span style="font-weight: 400;">Dans </span><i><span style="font-weight: 400;">Ici même</span></i><span style="font-weight: 400;">, Alrefai n’est jamais aussi vrai que lorsqu’il évoque son propre quotidien d’« écrivain et ingénieur » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 154). À l’heure du bilan de la soixantaine, il se plaint de ses douleurs physiques, de sa disgrâce au Ministère, de sa solitude et en vient à citer plusieurs de ses œuvres, notamment </span><i><span style="font-weight: 400;">L’Ombre du soleil, </span></i><span style="font-weight: 400;">interdit pendant dix ans au Koweït (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 154). Il confesse également quelques souvenirs familiaux, en particulier la combativité de sa mère qui, en apprenant la polygamie de son époux, qu’elle aimait pourtant passionnément, l’avait brutalement quitté, abandonnant à jamais son foyer et ses enfants. Lui-même</span> <span style="font-weight: 400;">est né après cet épisode, de l’union de sa mère avec un second mari. Donnés en arrière-plan au combat de Kawthar, ces souvenirs poignants illustrent le fait que la lutte des femmes pour leur épanouissement et, plus encore, pour l’égalité de leurs droits avec ceux des hommes est transgénérationnelle. La traductrice a rendu ce passage d’épanchement (un rien grandiloquent) du narrateur avec force lourdeurs : d’un côté, la mère reste « cramponnée à sa dignité » et passe « sept années à éteindre le feu dans son cœur avec des larmes silencieuses » ; de l’autre, le </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;"> avoue : </span>
+<blockquote><span style="font-weight: 400;">« L’image de ma mère qui se lamente de l’amère brûlure dans son cœur […] reste enfouie en moi comme un déshonneur ».</span>
+
+<span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 119)</span>
+
+<span style="font-weight: 400;">وخزت قلبي صورة أمي وهي تشكو لي بمرارة حرقة قلبها</span>
+
+<span style="font-weight: 400;">(ص:120) </span></blockquote>
+<span style="font-weight: 400;">La traduction n’est sans doute pas suffisamment explicite pour que le lecteur comprenne d’emblée que le droit des femmes à demander le divorce et à obtenir la garde des enfants n’est pas acquis et que, lorsque la mère de l’écrivain a quitté son mari, elle a irrémédiablement perdu tout droit sur sa descendance. </span>
+<blockquote><span style="font-weight: 400;">« Il m’a brûlé le cœur en me privant de mes enfants, mais je ne suis plus revenue vers lui » (</span><i><span style="font-weight: 400;">Ibidem</span></i><span style="font-weight: 400;">).</span>
+
+<span style="font-weight: 400;">.حرق قلبي بحرماني من أطفالي، لكني لم أعد إليه</span>
+
+<span style="font-weight: 400;">(ص: 120)</span></blockquote>
+<span style="font-weight: 400;">Un autre personnage, Abou Jamila, le père de Kawthar qui fut l’ami du </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;">, permet à Alrefai d’animer un double, porteur d’un message politique correspondant à celui de la génération qui soutint le rêve panarabe de Nasser. Les passages traitant de géopolitique sont nombreux et débutent avec le « printemps arabe de 2011 ». Abou Jamila :</span>
+<blockquote><span style="font-weight: 400;"> « tout exalté […] suivait les manifestations et les affrontements de la place Tahrir, minute par minute » </span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 61-62). </span>
+
+<span style="font-weight: 400;">. امتلأ حماساً يتابع مظاهرات وصدامات ميدان التحرير لحظة بلحظة</span>
+
+<span style="font-weight: 400;">(ص: 59)</span></blockquote>
+<span style="font-weight: 400;">L’espoir vient le rasséréner : </span>
+<blockquote><span style="font-weight: 400;">« Nous avons passé notre vie à attendre ce moment […]. Le monde arabe va changer, avait-il dit. Le citoyen arabe a brisé le mur de la peur ».</span>
+
+<span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">Ibidem</span></i><span style="font-weight: 400;">)</span>
+
+<span style="font-weight: 400;">.عشنا عمراً ننتظر هذا اليوم" ... "سيتغير الوطن العربي" "المواطن العربي كسّر جدار الخوف" </span>
+
+<span style="font-weight: 400;">(ص:60)</span></blockquote>
+<span style="font-weight: 400;">Mais bientôt le doute, puis l’inquiétude et le désarroi le terrasseront (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 106-107). Dans tous ces rappels politiques, la traductrice française préserve les droits de la fiction à présenter des faits politiques, sans réelle analyse, mais au prisme de la sensibilité des personnages :</span>
+<blockquote><i><span style="font-weight: 400;">Qu’est-ce qui lui creva le cœur ? Est-ce l’affliction d’assister à la tragédie présente du monde </span></i><span style="font-weight: 400;">arabe ? Est-il mort de regret devant l’échec de son rêve arabe irréalisé ?</span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 104)</span>
+
+<span style="font-weight: 400;">ما الذي فَطَرَ كبد أبي بالسكتة القلبية؟ ... هل عجزت روحه عن معايشة مآسي الواقع العربي الجديد وفواجعه؟هل مات بحسرة تحقق حلمه العربي؟ </span>
+
+<span style="font-weight: 400;">(ص: 104)</span></blockquote>
+<span style="font-weight: 400;">Dans l’ensemble, le ton pour lequel Mathilde Chèvre a opté reste fidèle au propos sans éclats ou fulgurances poétiques d’Alrefai : l’objectif littéraire s’efface pour l’écrivain derrière une recherche à visée réaliste, la seule pouvant conférer au témoignage de son héroïne un aspect anthropologique. « Ma quête, c’est la vérité du présent », aime-t-il à répéter. La recherche d’équivalents a donc largement sous-tendu la stratégie traductive qui, en dépit de maladresses ou d’approximations, tente de préserver l’arabité originelle : la cadence, le ton, le lexique d’Alrefai sont ainsi rendus grâce à un style métaphorisé. La traductrice a, par exemple, choisi de retranscrire la formulation de politesse, équivalant au « Bonjour » (صباح الورد.( ص8, par la phrase « Bonjour, que ton matin soit rempli de roses ! » (</span><i><span style="font-weight: 400;">Ibid. </span></i><span style="font-weight: 400;">: 10-11) ou encore « Que ton matin soit de la couleur des roses de l’amour » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 19). Suivant cette </span><span style="font-weight: 400;">modalité de salut égyptienne, e</span><span style="font-weight: 400;">lle a reproduit le jeu poétique un peu mièvre entre les amants, utilisant à plein les potentialités du travail de traduction littérale : « Bonsoir, que ta soirée soit remplie de bonheur ! » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 115).(مساء الخير" (ص:115 " La traductrice française prolonge en cela la volonté de l’auteur de placer son texte très loin du langage subversif de la fiction et de l’autofiction féminines actuelles (pensons à Annie Ernaux, Virginie Despentes ou Nelly Arcan), qui, en phase avec une autre écriture du corps, apporte une part d’authenticité et de liberté à la littérature du désir et du sexe. Cette optique impose à la traductrice de calquer le phrasé souvent euphémisé à outrance qu’Alrefai adopte pour exprimer les pensées, même les plus impudiques, de son héroïne. </span>
+<blockquote><span style="font-weight: 400;">« Ton regard a conquis mon cœur et dévoilé ton désir viril envers moi […] à l’instant même où j’ai serré ta main, j’ai senti mon âme se reposer dans la tienne » </span>
+
+<span style="font-weight: 400;">(</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 23-24)</span>
+
+<span style="font-weight: 400;">"نظرة عينيك هي ما علّقت قلبي بك، وفضحت رغبتَكَ الذكورية بي ... لحظة أمسكت بكفك للسلام شعرتُ وكأن روحي أصبحت في راحة يدك!"</span>
+
+<span style="font-weight: 400;">(ص:20-21)</span></blockquote>
+<span style="font-weight: 400;">L’écrivain confirme-t-il en cela qu’il n’y a pas encore de place pour dire le plaisir féminin dans sa société ? Par son âpreté, l’unique scène d’amour, citée plus avant, tend en tous cas à l’illustrer. Le corps amoureux de Kawthar est, en outre, rendu inexistant : l’expérience, d’emblée donnée pour vécue, reste intellectualisée et figée dans un didactisme trop imposant, finalement inefficace.</span>
+<blockquote><i><span style="font-weight: 400;">Je blâmais mon âme de m’avoir entraînée dans les affres d’une mer de souffrances et de l’avoir entraîné, lui, à sa suite […] Je suis Kawthar, plusieurs hommes jeunes ou d’âge mûr me font la cour. Mais je suis à la dérive, la hache de la tristesse est sur le point de rompre les amarres de mon âme.</span></i>
+
+<i><span style="font-weight: 400;">(Ibid. : 146-147)</span></i>
+
+<span style="font-weight: 400;">لمت نفسي لأني أخذتها لأهوال بحر الوجع وجررته هو ورائي ...أنا كوثر يركض الكثير من الشباب ورائي، لكنني الآن لا أكاد أتماسك، ويكاد منشار الحزن أن يقطع </span>
+
+<span style="font-weight: 400;">!أوصال روحي</span>
+
+<span style="font-weight: 400;">(ص:149-150)</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">La traduction littérale rend les lourdeurs et les maladresses inévitables, mais regrettables. </span>
+
+&nbsp;
+<blockquote><i><span style="font-weight: 400;">« Je dois épousseter les questions et la peur de mes draps » (Ibid. : 149), « comme beaucoup d’autres femmes contraintes à avaler la pilule de leur situation familiale » (Ibid. : 150) ;  « galant compagnon de nos rendez-vous courtois » (Ibid. : 20) ; « À la chambre du Conseil national qui se noie sous ses casseroles et son passif […] (Ibid. : 45). </span></i>
+
+<span style="font-weight: 400;">عليَّ أن أنفض أسئلة الخوف عن فراشي(ص:152) مثلي مثل نساء كثيرات في هذا العالم يجبرهن وضعهن الأسري أو الاجتماعي على بلع الموسى(ص:153) تصحبني في موعد غرامي (ص:17) في غرف المجلس الوطني الغارقة في سوالفها .. ( ص: 41</span></blockquote>
+&nbsp;
+
+<span style="font-weight: 400;">Mathilde Chèvre a, par ailleurs, choisi de conserver plusieurs noms (noms communs et noms propres) intacts sans y adjoindre d’explication ou de traduction. Aux côtés du terme « ‘oud » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 10, 44, 152), attesté par les dictionnaires français, qui désigne le luth oriental à manche court et sans frettes, l’on peut ainsi trouver des formules de politesse d’origine turque largement employées en Égypte : « </span><i><span style="font-weight: 400;">Sa’adat al-Bey</span></i><span style="font-weight: 400;"> »</span> <span style="font-weight: 400;">ou « </span><i><span style="font-weight: 400;">efendim</span></i><span style="font-weight: 400;"> » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 91)</span><i><span style="font-weight: 400;"> </span></i><span style="font-weight: 400;">qui équivalent à « Votre Excellence » et à « Madame »</span><i><span style="font-weight: 400;">.</span></i><span style="font-weight: 400;"> La traductrice a également gardé le mot « hijâb » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 105) alors que le terme « voile » a désormais cours en français pour désigner le voile intégral. C’est sans doute pour donner plus d’expressivité à son texte, car, hormis cette occurrence apparaissant dans un dialogue, le terme générique « voile » se retrouve dans les passages descriptifs sous la forme adjectivale (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 44, 86, 106…). Les références infrapaginales ont été réservées aux </span><i><span style="font-weight: 400;">realia </span></i><span style="font-weight: 400;">:</span> <span style="font-weight: 400;">danse, chanson, fêtes traditionnelles, vêtements. L’habit traditionnel koweïtien dont il est fait plusieurs fois mention, y est décrit à l’aide de deux notes : il y a la « dachdâcha », la « djellaba blanche traditionnelle des hommes » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 40) et le « costume traditionnel » qui « se compose d’une grande robe blanche, la </span><i><span style="font-weight: 400;">dachdâcha</span></i><span style="font-weight: 400;">, et d’un foulard blanc à carrés rouges ou noirs, la </span><i><span style="font-weight: 400;">ghutra</span></i><span style="font-weight: 400;">, tenu par une cordelette noire, le « </span><i><span style="font-weight: 400;">‘ouqal</span></i><span style="font-weight: 400;"> » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 115). L’emploi de « turban » (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 140) semble donc bien étrange puisque, dans le texte-source, il désigne la coiffe traditionnelle, la </span><i><span style="font-weight: 400;">ghutra</span></i><span style="font-weight: 400;">, et non le turban qui renvoie, pour les hommes, à une coiffe enroulée autour de la tête et non posée comme la </span><i><span style="font-weight: 400;">ghutra</span></i><span style="font-weight: 400;">. Notons également que, contrairement à ce que Chèvre explique en note, la coiffe traditionnelle est entièrement blanche, comme celle portée dans l’ensemble du Golfe Persique ; le </span><i><span style="font-weight: 400;">keffieh</span></i><span style="font-weight: 400;"> blanc et noir renvoie à l’identité palestinienne et est rarement porté au Koweït, de même que le </span><i><span style="font-weight: 400;">keffieh</span></i><span style="font-weight: 400;"> rouge et blanc, appelé le </span><i><span style="font-weight: 400;">shemagh</span></i><span style="font-weight: 400;">, qui appartient à l’habit traditionnel de Jordanie. </span>
+
+<span style="font-weight: 400;">Ailleurs, la traductrice a judicieusement choisi de placer une note infrapaginale pour expliquer l’expression « Abou Jamila » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 65, 104) utilisée pour apostropher le père de Kawthar : elle explique que les parents sont littéralement appelés « père de … » ou « mère de ... » suivi du prénom de leur aîné, garçon ou fille, ou du prénom du premier enfant mâle de la fratrie. Elle avait précédemment pris soin d’expliquer en note de qui la sœur aînée de Kawthar tenait son prénom en rappelant l’existence de Jamila Bouhired (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 37) : dans le texte source, le </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;"> rappelle en effet que la militante algérienne est un symbole de résistance à l’oppresseur étranger. Selon le même vœu de ne pas alourdir le corps du texte, Chèvre explicite dans une autre note les rites entourant les deux principales fêtes du calendrier musulman : l’« Aïd al-Fitr » et l’ « Aïd al-Adha » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 40). En revanche, c’est d’une façon un peu artificielle qu’elle intègre au corps du texte des indications sur le mariage musulman : « la religion musulmane exige la présence de deux témoins pour un mariage, deux hommes, musulmans, sains d’esprit » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 21, 22,  83-84). </span>
+<blockquote><span style="font-weight: 400;">...يشترط شاهدين على الزواج، رجلين مسلمين عاقلين</span>
+
+<span style="font-weight: 400;">(ص:19)</span></blockquote>
+<span style="font-weight: 400;">Ces mentions qui soulignent le rôle éducatif de toute traduction, apportent </span><span style="font-weight: 400;">aux lecteurs cible des idées et des faits inhérents de la langue-culture source intégrées dans le tissu narratif parce qu’elles étendent leur horizon culturel en leur faisant découvrir d’autres coutumes sans qu’ils ne soient tenus de sortir du récit pour se documenter. Cependant, m</span><span style="font-weight: 400;">algré la confusion inévitable en français, la traductrice a jugé bon de garder la formule « Bonsoir, Monsieur Machârî » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 17)[27]</span><span style="font-weight: 400;"> suivant l’usage arabe d’accoler au titre Monsieur ou Madame, le prénom, et non le nom de famille comme le veut la grammaire française. Apparaissent également à plusieurs reprises l’expression « Oncle Taleb » ou « mon oncle Taleb » (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> :115, 122, 124, 137, 138…), induisant pour le francophone un lien de parenté entre Kawthar et le </span><i><span style="font-weight: 400;">Je</span></i><span style="font-weight: 400;"> autofictionnel – lien qui n’existe pas, Taleb étant un ami du père de Kawthar – puisqu’en arabe, il est courant pour les jeunes d’utiliser l’appellation affectueuse et respectueuse « mon oncle » pour s’adresser à un homme et « ma tante » pour s’adresser à une femme. </span>
+
+<span style="font-weight: 400;">Les brefs échanges de Kawthar avec sa bonne philippine sont retranscrits en anglais[28]</span><span style="font-weight: 400;"> comme dans le texte original : ils donnent une idée de la coexistence des langues, principalement de l’arabe et de l’anglais, dans un pays cosmopolite[29]</span><span style="font-weight: 400;">. </span>
+
+<span style="font-weight: 400;">Par ailleurs, le rituel du café matinal de Kawthar et de son père qui est fort répandu dans les pays du Golfe et au Moyen-Orient entraîne un clin d’œil (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 81) à Mahmoud Darwich, chantre de la Palestine libérée, et à un poème extrait </span><i><span style="font-weight: 400;">d’Une mémoire pour l’oubli</span></i><span style="font-weight: 400;"> que tout Arabe connaît. </span><span style="font-weight: 400;">Il serait abusif d’affirmer que ce renvoi implicite à la culture arabe eût </span><span style="font-weight: 400;">mérité q</span><span style="font-weight: 400;">ue Chèvre pour compenser un potentiel manque de connaissances des récepteurs offre des informations supplémentaires dans la fiction cible. Symétriquement, </span><span style="font-weight: 400;">le rituel hérité des traditions indiennes, mais présent dans de nombreuses religions antiques, de partager l’encens (</span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 122) passe inaperçu alors que c’est une habitude répandue au Koweït : en famille, en couple, les proches s’imprègnent des fumigations odoriférantes, destinées à parfumer leurs corps et à les purifier, car c’est un rite qui est censé porter bonheur. Le lecteur francophone le sait-il ? Ce détail l’empêchera-t-il d’apprécier le roman ? Rien n’est moins sûr ! En revanche, afin d’enclencher le jeu de miroir autobiographique, auquel le lectorat cible est habitué par sa propre tradition littéraire, il aurait fallu harmoniser l’orthographe du nom de l’auteur (partout noté Alrefai selon la prononciation anglaise) qui, dans le récit autofictionnel, est transcrit « al-Rifâ’î » (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 45).</span>
+
+&nbsp;
+
+<span style="font-weight: 400;">Pour conclure, ajoutons qu’il nous a été impossible de nous intéresser au mode d’être (selon la terminologie foucaldienne) de la traductrice qui n’a pas souhaité répondre à notre demande[30]</span><span style="font-weight: 400;"> d’entretien. L’interroger sur sa pratique de la traduction littéraire et sa connaissance des auteurs locaux, sur son expérience de l’Émirat et sa</span> <span style="font-weight: 400;">relation d’altérité à la culture koweïtienne… nous semblait une voie intéressante pour compléter notre présentation des modalités de gestion des référents culturels, explicites comme peuvent l’être les emprunts directs ou plus implicites comme le sont les pratiques socio-culturelles et cultuelles. De notre étude de la traduction française du roman </span><i><span style="font-weight: 400;">Ici même</span></i><span style="font-weight: 400;">, ressortent donc finalement deux principales données : la fiction d’Alrefai est incontestablement passionnante d’un</span><span style="font-weight: 400;"> point de vue socio-culturel car elle renseigne abondamment sur une culture et une communauté mal connues des francophones. Gageons qu’elle suscitera beaucoup d’intérêt[31]</span><span style="font-weight: 400;"> dans les cercles de traducteurs. D’un point de vue stylistique, la prose de Mathilde Chèvre reste en deçà des attentes légitimes d’un lectorat, habitué à trouver dans le romanesque contemporain plus de virtuosité, et qui, par conséquent, se verra trop souvent dans l’impossibilité d’oublier qu’il lit une traduction.</span>
+
+----
+
+references: 
+- <ul>
+ 	<li><span style="font-weight: 400;">A</span><span style="font-weight: 400;">LREFAI</span><span style="font-weight: 400;">, Taleb. </span><i><span style="font-weight: 400;">Ici même</span></i><span style="font-weight: 400;"> (trad. de l’arabe (Koweït) par Mathilde Chèvre), Arles, Actes Sud, coll. « Sindbad », 2016, 158 p.</span></li>
+ 	<li><span style="font-weight: 400;">B</span><span style="font-weight: 400;">ALLARD</span><span style="font-weight: 400;">, Michel. «</span><i><span style="font-weight: 400;"> Les stratégies de traduction des désignateurs de référents culturels </span></i><span style="font-weight: 400;">», dans Ballard, Michel </span><i><span style="font-weight: 400;">La traduction, contact de langues et de cultures</span></i><span style="font-weight: 400;"> (1), Arras, Artois Presses Universitaires, 2005, p.125-148.</span></li>
+ 	<li><span style="font-weight: 400;">B</span><span style="font-weight: 400;">ERQUE</span><span style="font-weight: 400;">, Jacques, </span><i><span style="font-weight: 400;">Le Coran, Essai de traduction</span></i><span style="font-weight: 400;">, Paris : Albin Michel, 1995, 846 p.</span></li>
+ 	<li><span style="font-weight: 400;">C</span><span style="font-weight: 400;">ADÈNE</span><span style="font-weight: 400;">, Philippe, « Koweït City : planification urbaine et stratégie régionale », </span><i><span style="font-weight: 400;">Arabian Humanities</span></i><span style="font-weight: 400;"> [En ligne], n°2, 2013, mis en ligne le 26 novembre 2013, URL : http://cy.revues.org/2622 ; DOI : 10.4000/cy.2622 </span></li>
+ 	<li><span style="font-weight: 400;">C</span><span style="font-weight: 400;">ORDONNIER</span><span style="font-weight: 400;">, Jean-Louis, « Aspects culturels de la traduction : quelques notions clés », </span><i><span style="font-weight: 400;">Meta : journal des traducteurs / Meta: Translators' Journal</span></i><span style="font-weight: 400;">, vol. 47, n° 1, 2002, p. 38-50.</span></li>
+ 	<li><span style="font-weight: 400;">M</span><span style="font-weight: 400;">ERMIER</span><span style="font-weight: 400;">, Franck. « La culture comme enjeu de la métropolisation : capitales et foires du livre dans l’Orient arabe », </span><i><span style="font-weight: 400;">Cahiers de la Méditerranée</span></i><span style="font-weight: 400;">, n°64, 2002, URL : </span><a href="http://cdlm.revues.org/74"><span style="font-weight: 400;">http://cdlm.revues.org/74</span></a><span style="font-weight: 400;">. </span></li>
+ 	<li><span style="font-weight: 400;">S</span><span style="font-weight: 400;">LOT</span><span style="font-weight: 400;">, B. J., </span><i><span style="font-weight: 400;">Les origines du Koweït</span></i><span style="font-weight: 400;">, Koweït : Centre de recherches et d’études koweïtiennes, 2005, 194 p.</span></li>
+ 	<li><span style="font-weight: 400;">طالب الرفاعي، في الهنُا، الطبعة الثالثة، "platinumbook"، الكويت، 2014، 162 صفحة.</span></li>
+</ul>
+
+<hr />
+
+<span style="font-weight: 400;">[1] Une grande part de cet article repose sur des discussions informelles avec Taleb Alrefai datant du printemps puis de l’automne 2016 où il nous a accueillis dans son Cercle culturel avec une infinie gentillesse. Un entretien effectué avec l’écrivain en septembre 2016 est parallèlement publié dans ce numéro.  </span>
+
+<span style="font-weight: 400;">[2] Dans sa version originale, </span><i><span style="font-weight: 400;">Fi l’hunâ</span></i><span style="font-weight: 400;">, le roman de Taleb al-Rifâ’î est paru au Koweït en 2014 chez Maktabat-al-Koweit al-wataniyya. Il y a déjà eu plusieurs rééditions. </span>
+
+<span style="font-weight: 400;">[3] D</span><span style="font-weight: 400;">ans la presse francophone, on a relevé ces trois articles : A</span><span style="font-weight: 400;">BI</span><span style="font-weight: 400;"> S</span><span style="font-weight: 400;">AMRA</span><span style="font-weight: 400;">, Tarek. « Une femme révoltée », </span><i><span style="font-weight: 400;">L’Orient littéraire</span></i><span style="font-weight: 400;">, n°123, sept 2016, URL : </span><a href="http://www.lorientlitteraire.com/article_details.php?cid=14&amp;nid=6429"><span style="font-weight: 400;">http://www.lorientlitteraire.com/article_details.php?cid=14&amp;nid=6429</span></a><span style="font-weight: 400;"> ; B</span><span style="font-weight: 400;">LANCHET</span><span style="font-weight: 400;">-H</span><span style="font-weight: 400;">IDALGO</span><span style="font-weight: 400;">, Paloma. « Roman. Une passion koweïtienne », </span><i><span style="font-weight: 400;">Le Monde des Livres</span></i><span style="font-weight: 400;">, 7 janvier 2016, URL : </span><a href="http://www.lemonde.fr/livres/article/2016/01/07/livres-en-bref_4842974_3260.html"><span style="font-weight: 400;">http://www.lemonde.fr/livres/article/2016/01/07/livres-en-bref_4842974_3260.html</span></a> <span style="font-weight: 400;">; C</span><span style="font-weight: 400;">RÉTOIS</span><span style="font-weight: 400;">, Jules. « Une passion chez les puritains », </span><i><span style="font-weight: 400;">Le Monde diplomatique</span></i><span style="font-weight: 400;">, mars 2016, URL : </span><span style="font-weight: 400;"><a href="http://www.monde-diplomatique.fr/2016/03/cretois/54944">http://www.monde-diplomatique.fr/2016/03/cretois/54944</a> </span>
+
+<span style="font-weight: 400;">[4] La France après la Turquie est le pays qui traduit le plus de l’arabe (littérature contemporaine et publications religieuses), mais cette domination est toute relative puisque l’arabe comme langue source représente moins de 1% des œuvres traduites en français, selon les données fournies en 2012 par l’équipe des </span><i><span style="font-weight: 400;">Transeuropéennes</span></i><span style="font-weight: 400;"> (http://</span><a href="http://www.transeuropeennes.eu"><span style="font-weight: 400;">www.transeuropeennes.eu</span></a><span style="font-weight: 400;">).</span>
+
+<span style="font-weight: 400;">[5] Les romans de Taleb Alrefai intéressent les lecteurs européens : plusieurs traductions de </span><i><span style="font-weight: 400;">Samar’s Words</span></i><span style="font-weight: 400;"> sont d’ores et déjà publiées en anglais, en allemand et en espagnol. La traduction d’</span><i><span style="font-weight: 400;">Ici même </span></i><span style="font-weight: 400;">en italien est en cours.</span>
+
+<span style="font-weight: 400;">[6] De nombreux centres publics de recherche existent et offrent un espace pour le champ traductif. Mentionnons, au sein de l’Université du Koweït, la revue </span><i><span style="font-weight: 400;">al-Majallat al-’Arabiyya li-l-’Ulûm al-Insâniyya, </span></i><span style="font-weight: 400;">au sein du Ministère de l’Information, les revues </span><i><span style="font-weight: 400;">al-’Arabî</span></i><span style="font-weight: 400;"> ou </span><i><span style="font-weight: 400;">Majallat dirâsât al-Khalîj wa-l-Jazîrat al-’Arabiyya </span></i><span style="font-weight: 400;">et au sein du Conseil national pour la culture, les arts et les lettres, où Taleb Alrefai est conseiller, les revues </span><i><span style="font-weight: 400;">‘Âlam al-fikr</span></i><span style="font-weight: 400;"> et </span><i><span style="font-weight: 400;">‘Âlam al-M’arifa</span></i><span style="font-weight: 400;">...</span>
+
+<span style="font-weight: 400;">[7] Sous Protectorat britannique depuis 1899, le Koweït accède à son indépendance en 1961.</span>
+
+<span style="font-weight: 400;">[8] Notons que c’est un artiste koweïtien, Sulaiman Al Bassam (né en 1972) qui a signé la mise en scène de la première création d’une pièce traduite de l’arabe inscrite au répertoire de la Comédie Française : </span><i><span style="font-weight: 400;">Rituel pour une métamorphose</span></i><span style="font-weight: 400;"> (1993) de l’auteur syrien Saadallah Wannous (1941-1997).</span>
+
+<span style="font-weight: 400;">[9] Un dictionnaire des termes typiquement koweïtiens existe. Il s’agit de </span><i><span style="font-weight: 400;">l’Encyclopédie pour tous des termes de la vie sociale et culturelle du Koweït</span></i><span style="font-weight: 400;">, réalisée par Khaled Abdelkader Ben-Cheikh Abdelaziz al-Rached et publiée au Koweït en 2014 (en arabe) ; elle compte 6 volumes illustrés.</span>
+
+<span style="font-weight: 400;">[10] En anglais, le titre est </span><i><span style="font-weight: 400;">Here and now,</span></i><span style="font-weight: 400;"> rendant l’ancrage à la fois temporel et spatial.</span>
+
+<span style="font-weight: 400;">[11] Datant de 1897,</span> <span style="font-weight: 400;">l’ancienne maison du gouverneur du petit port de pêche de Koweït, devenue monument historique, est celle de la dynastie Sabah, celle des Princes régnants ; elle se situe tout à côté du souk, le vieux marché. Le quartier porte le nom de ce premier gouverneur, Moubarak I</span><span style="font-weight: 400;">er</span><span style="font-weight: 400;">.</span>
+
+<span style="font-weight: 400;">[12] Sur ce point, l’on pourra se référer à l’ouvrage de Bâqir Salmân al-Najjâr, </span><i><span style="font-weight: 400;">Sociologie de la société du Golfe arabe</span></i><span style="font-weight: 400;">, Beyrouth : Dâr al-kunûz al-adabiyya, 1999 (en arabe). Franck Mermier en cite un passage clef : « Les effets de la mondialisation et de la modernité s’incarnent avant tout dans ses aspects matériels, dans ses rapports externes et dans la diversité ethnique de sa population alors que le système traditionnel des valeurs et de la culture continue de définir les comportements de ses habitants et le tissu des rapports sociaux » (Mermier, 2008).</span>
+
+<span style="font-weight: 400;">[13] L’on consultera avec profit l’intégralité de l’article de Philippe Cabène pour étoffer ses connaissances sur les différentes étapes de cette modernisation qui suit un plan radioconcentrique établi dès le début de l’extension urbaine.</span>
+
+<span style="font-weight: 400;">[14] Celles du Conseil supérieur de planification et de développement du Koweït (</span><i><span style="font-weight: 400;">Kuwait Supreme Council for Planning and Development</span></i><span style="font-weight: 400;">), par exemple, qui élabore et révise les plans quinquennaux de stratégie de développement urbain.</span>
+
+<span style="font-weight: 400;">[15] En 2011 est paru à Paris un </span><i><span style="font-weight: 400;">Atlas des pays du Golfe</span></i><span style="font-weight: 400;">, dirigé par Philippe Cadène et Bruno Dumortier, édité par les Presses Universitaires de la Sorbonne et RFI.</span>
+
+<span style="font-weight: 400;">[16] Ce quartier est situé à 12 km du cœur ancien de la ville.</span>
+
+[17] <span style="font-weight: 400;">Certains romans contemporains, ceux d’al-Sanoussi, par exemple, accentuent la dimension tyrannique des beaux-frères de jeunes femmes émancipées : les retombées de ce qui est perçu comme leur faute sont donc élargies àleurs sœurs mariées ou non, et sont vraiment dramatiques pour les familles entières. </span>
+
+<span style="font-weight: 400;">[18] À son domicile, Taleb Alrefai possède une très belle collection d’objets d’art, de livres anciens et de peintures, notamment des toiles des peintres koweïtiens cités dans son roman, comme Ayoub Hussein et Adel al-Siwi (Alrefai, 2016 : 128, 138).</span>
+
+<span style="font-weight: 400;">[19] Elle subtilise aussi des livres dans la bibliothèque de son père (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 126).</span>
+
+[20] <span style="font-weight: 400;">Le roman est ainsi dédicacé : « À ma femme Chorouq, mon amour et mon amie fidèle » (</span><i><span style="font-weight: 400;">Ibid</span></i><span style="font-weight: 400;">. : 7).</span>
+
+<span style="font-weight: 400;">(إلى زوجتي شروق حبيبة وصديقة مخلصة" (ص:5"</span>
+
+<span style="font-weight: 400;">[21] Les illustrations choisies pour les couvertures respectives sont à cet égard édifiantes : la koweïtienne est une œuvre d’Abdelwahab al-Awadi, un peintre local très célèbre, qui représente les silhouettes composées d’éléments végétaux d’un couple enlacé sous le soleil, alors que celle choisie pour la traduction la française est le portrait sombre et tourmenté d’une femme brune aux multiples visages réalisé par l’artiste canadienne Lauren Brevner.</span>
+
+<span style="font-weight: 400;">[22] Dans le Coran, il est écrit : « […] si vous craignez de n’être pas équitables en matière d’orphelins… alors épousez ce qui vous plaira d’entre les femmes, par deux, par trois, ou quatre. Mais si vous craignez de n’être pas justes, alors seulement une, ou contentez-vous de votre droite propriété, plus sûr moyen d’échapper à la partialité » (Berque, 1995 : 95).</span>
+
+<span style="font-weight: 400;">[23] Cf. aussi </span><i><span style="font-weight: 400;">Ibid.</span></i><span style="font-weight: 400;"> : 22, 32, 55, 58-61, 112.</span>
+
+<span style="font-weight: 400;">[24] Notons ici que la traductrice</span> <span style="font-weight: 400;"> se trompe n’ayant pas une expérience suffisante des mœurs tribales arabes concernant le crime d’honneur qui touche exclusivement les femmes. Le texte original est explicite. La mère dit bien : « Si j’étais un homme, je te tuerais » . "لو كنت رجلاً لقتلتك" ... "ربنا يأخذك! (ص :112- 113 )" </span>
+
+<span style="font-weight: 400;">[25] "ص:13) "رجل اللذة العابرة)</span>
+
+<span style="font-weight: 400;">[26] Le terme « bouchiya » est expliqué et illustré dans l’</span><i><span style="font-weight: 400;">Encyclopédie</span></i><span style="font-weight: 400;"> des termes koweïtiens (</span><i><span style="font-weight: 400;">op. cit</span></i><span style="font-weight: 400;">., p. 144).</span>
+
+[27] (2014: 15) مساء الخير أستاذ مشاري" الرفاعي"
+
+[28] <span style="font-weight: 400;">Une note signale : « En anglais dans le texte » : « -Madam, don’t loose your boyfriend. - We will marry » (Alrefai, 2016 : 144).</span>
+
+<span style="font-weight: 400;">[29] Alrefai ne révèle pas du tout dans son roman un autre phénomène linguistique actuel, notable au Koweït comme dans d’autres pays arabes, de contamination irréfragable de sa langue maternelle par l’anglo-américain. Il ne revendique pas, à l’inverse d’autres artistes, telle la poète, slameuse et performeuse Nada Faris, l’apport positif de l’anglais à la création littéraire locale. Pour découvrir Faris, on consultera son blog : </span><a href="http://www.nadafaris.com"><span style="font-weight: 400;">http://www.nadafaris.com</span></a><span style="font-weight: 400;">.</span>
+
+<span style="font-weight: 400;">[30] Contactée par le biais de son éditeur français, au printemps 2016, Mathilde Chèvre n’a pas répondu à notre première demande de contact. Sollicitée par email en octobre 2016 par Taleb Alrefai, elle a dans un premier temps accepté de se prêter à un entretien avant de se raviser.</span>
+
+<span style="font-weight: 400;">[31] Un projet de traduction de </span><i><span style="font-weight: 400;">L’Ombre du soleil</span></i><span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">The Shade of the Sun</span></i><span style="font-weight: 400;">) a tout récemment été évoqué par l’écrivain approché par un universitaire tunisien.</span>
+
+<hr />
+
+<span style="font-weight: 400;">Docteur en Littérature (Paris III-Sorbonne Nouvelle),</span><b> Isabelle Bernard (</b><a href="mailto:waelr@hotmail.fr"><span style="font-weight: 400;">waelr@hotmail.fr</span></a><span style="font-weight: 400;">) est Professeure associée au Département de Français de l’Université de Jordanie (</span><i><span style="font-weight: 400;">University of Jordan</span></i><span style="font-weight: 400;">) à Amman. Elle a publié une quarantaine d’articles sur le roman français contemporain (Jean Echenoz, Patrick Deville, Philippe Claudel, Éric Chevillard, Jean-Philippe Toussaint, Thomas B. Reverdy, Emmanuel Adely). Elle a également fait paraître des articles en didactique de la littérature, notamment sur l’apport du théâtre dans la classe de FLE, grâce à des expériences menées avec ses étudiants. Elle a co-organisé deux des quatre colloques réalisés en Jordanie dans le domaine de la francophonie : « La réception mondiale et interdisciplinaire des </span><i><span style="font-weight: 400;">Mille et une Nuits</span></i><span style="font-weight: 400;"> » (2011) et « La réception transdisciplinaire d’Albert Camus » (2013). Elle enseigne actuellement à l’Université du Koweït (</span><i><span style="font-weight: 400;">Kuwait University</span></i><span style="font-weight: 400;">) en tant que professeure invitée.</span>
+<span style="font-weight: 400;">Docteur en Littérature comparée (Université de Picardie Jules Verne), </span><b>Waël Rabadi </b><span style="font-weight: 400;">(</span><a href="mailto:danadan@hotmail.fr"><span style="font-weight: 400;">danadan@hotmail.fr</span></a><span style="font-weight: 400;">) est Professeur associé au Département de Français de l’Université Al-Albayt en Jordanie où il enseigne la langue, la littérature et la traduction. Passionné de théâtre, il a été le premier surtitreur du Royaume et, à ce titre, a collaboré à de nombreuses reprises depuis 2006 avec le Centre Culturel Français d’Amman. Il est aussi traducteur et, aux côtés de nombreux poètes et textes littéraires parus dans des revues (Éluard, Prévert, Apollinaire…), il a publié en 2011 la première version en français du roman phare jordanien des années 1960 : </span><i><span style="font-weight: 400;">Toi, dès aujourd’hui</span></i><span style="font-weight: 400;"> de Tayssir Sboul. Il a co-organisé deux des quatre colloques réalisés en Jordanie dans le domaine de la francophonie : « La réception mondiale et interdisciplinaire des </span><i><span style="font-weight: 400;">Mille et une Nuits</span></i><span style="font-weight: 400;"> » (2011) et « La réception transdisciplinaire d’Albert Camus » (2013). Depuis 2014, il est professeur invité à l’Université du Koweït (</span><i><span style="font-weight: 400;">Kuwait University</span></i><span style="font-weight: 400;">).</span>
+
+----
+
+number: 3
+
+----
+

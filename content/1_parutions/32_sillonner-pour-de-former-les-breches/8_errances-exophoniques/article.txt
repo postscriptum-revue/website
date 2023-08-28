@@ -1,0 +1,39 @@
+title: [32-08] Errances exophoniques
+
+----
+
+subtitle: 
+
+----
+
+author: Flora Roussel et Miriam Sbih
+
+----
+
+affiliation: Université de Montréal
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: &nbsp;
+
+[audio m4a="https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a"][/audio]
+
+----
+
+references: 
+- 
+
+----
+
+number: 8
+
+----
+

@@ -1,0 +1,40 @@
+title: [33-04] Petit beurre
+
+----
+
+subtitle: 
+
+----
+
+author: Caroline Kinkead
+
+----
+
+affiliation: 
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: <img class="alignnone size-full wp-image-3964 alignleft" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel1.jpeg" alt="" width="767" height="830" />
+<p style="text-align: left;"><img class="alignnone size-full wp-image-3965" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel2.jpeg" alt="" width="828" height="997" /></p>
+<p style="text-align: left;"><img class="alignnone size-full wp-image-3966" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel3-scaled.jpg" alt="" width="1920" height="2560" /></p>
+<img class="alignnone size-full wp-image-3967 alignleft" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel4-scaled.jpg" alt="" width="1920" height="2560" />
+
+----
+
+references: 
+- 
+
+----
+
+number: 4
+
+----
+

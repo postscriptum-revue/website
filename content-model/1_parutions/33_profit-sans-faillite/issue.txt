@@ -1,0 +1,49 @@
+Title: Profit sans faillite ?
+
+----
+
+Subtitle: Sur la défectuosité du bonheur
+
+----
+
+Cover: - file://6cKJtIG8XGFi1ofI
+
+----
+
+Color: #0e8c27
+
+----
+
+Date: 2023-02-01
+
+----
+
+Credit-editors: <ul><li>Flora Roussel</li><li>Justina Uribe</li></ul>
+
+----
+
+Credit-revision: <ul><li>L’équipe de Post-Scriptum</li></ul>
+
+----
+
+Credit-webmaster: L’équipe de Post-Scriptum
+
+----
+
+Intro-text: [{"content":{"text":"<em>I couldn’t help it, yes, I let it get in<br>The helpless optimism of spring<br>Worn out and tired and my heart near retired<br>And the world bent double from weeping<br>And yet, the birds begin to sing</em>","citation":"Florence and the Machine"},"id":"6c1ebd0b-b0f9-4cb0-af36-b61e1aeabae2","isHidden":false,"type":"quote"},{"content":{"text":"<p>Marqué l’hiver, espéré le printemps. Cyclicité refusant la linéarité. Car le bonheur est défectueux – il l’a toujours été par son attache à l’idéal inatteignable qu’il produit dans le même temps. Véritable système mis en marche à grand renfort de maux, l’injonction du bonheur ploie sous les corps qu’elle a ensevelis. <em>Mais les oiseaux seront de retour</em>, ils chanteront ce que la marchandisation du bonheur ne peut vendre. C’est dans une volonté de critiquer la promesse néolibérale du bonheur que diverses voix forment chorale pour ce numéro de <em>Post-Scriptum</em>. Le cœur ouvert pousse à la réflexion et prône l’inconfort.</p><p>Épandage d’un bonheur blanc, dominant et lié à la seule « bonne vie » sur des terres colonisées et esclavagisées. Réinscrire les jardins d’une temporalité du présent qui pose la question de la mémoire. Replanter l’écriture dans le désastre du passé qui habite le quotidien. Dans « Écrire le jardin, cultiver la mémoire : narration rabat-joie et critique du récit hégémonique du bonheur dans <em>See Now Then</em> de Jamaica Kincaid », <strong>Audrey Deveault </strong>propose une narration de résistance au mythe totalisant du bonheur – une résistance qui passe par (re)situer l’inconfort. Entre-deux et subjectivité nomade pour transformer les temporalités linéaires qui effacent les faits et qui courent après le bonheur. Défier le jardinage de soumission en rabattant la joie coloniale et convier à l’espace du soi ouvert dans un jardinage de l’échec en<em> mouvements</em>.</p><p>Résonnent des voix de résistance – entremêlement de perspectives. <em>Ça dérange</em>. La fatigue d’un masque à porter où aller tout est caché demandé formaté. La famille comme une résistance face aux discours stéréotypés malgré les attentes, les cernes – un enclos de responsabilités mais un dévouement pour la communauté, contre l’individualisme; le mensonge comme reprise de souffle avant qu’une voix dominante interroge de nouveau quelque chose qu’elle ne peut comprendre. Tissant une navigation de l’entre-deux, <strong>Anya Nousri</strong> respire, pause et chante des vers dans <em>Ici, mes rêves sont sous écrous</em>. Douleur douce-amère dont l’imaginaire révèle la réalité de se construire ensemble, proche – ou : seule, loin. Rêves aux points finaux ouverts.</p>"},"id":"dbe8fea0-7cf5-482c-8e61-fd436c154426","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: Mais les oiseaux seront de retour
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: <ul><li>Flora Roussel</li></ul>
+
+----
+
+Uuid: qJJZmYwbvlUKId8w

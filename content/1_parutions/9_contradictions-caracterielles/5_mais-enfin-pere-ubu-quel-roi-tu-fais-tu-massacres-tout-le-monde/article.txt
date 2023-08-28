@@ -1,0 +1,264 @@
+title: [09-05] « Mais enfin, Père Ubu, quel roi tu fais, tu massacres tout le monde »
+
+----
+
+subtitle: De la méchanceté ubuesque entre farce humaine et satire sociale
+
+----
+
+author: Loredana TROVATO
+
+----
+
+affiliation: Université « Kore » d’Enna et Université de Catane
+
+----
+
+abstract_fr: Cette contribution vise à réfléchir sur les contradictions caractérielles du Père Ubu d’Alfred Jarry, personnage grotesque apparu de façon abrupte sur la scène française en 1896 pour ridiculiser la bourgeoisie dominante et positiv(ist)e de la fin du siècle. À travers l’analyse de la pièce, on veut souligner et approfondir le retournement complet de valeurs chez Ubu et, de façon marginale, chez les autres personnages. Seront mis à jour les mécanismes complexes de la duplicité humaine, à travers la sotte duplicité ubuesque et la suspension de toute éthique en faveur d’une aberration des non-valeurs et d’une altération de la norme sociale/individuelle. Dans les contradictions du Père Ubu, il y a toutes les contradictions de l’époque jarryque et sa contestation. Cette œuvre n’est en effet que le miroir déformé et déformant de la société de la Belle époque, la révélation cathartique de ses maux et de ses erreurs, le triomphe de l’obscur Dieu Sauvage, la prémonition des catastrophes du XXe siècle…
+
+----
+
+abstract_en: This contribution aims at reflecting upon the contradictions in character of Alfred Jarry’s Père Ubu, a grotesque theatre figure created in 1896 in order to hold the dominant and positivist bourgeoisie up to ridicule. The play’s analysis will emphasise the complete reversal of values in Ubu and, marginally, in the other characters. Will be shown human duplicity’s complex mechanisms, through the idiotic “ubuesque” duplicity and the play’s ethical suspension, resulting in an aberrant absence of values and an alteration of the social/individual norm. In Père Ubu’s contradictions lie those of the time, and its contestation. The work is nothing but the deformed and deforming mirror of the Belle Époque society, the cathartic revelation of its illnesses and its mistakes, the obscure “Dieu Sauvage”’s triumph, the premonition of twentieth century’s catastrophes…
+
+----
+
+text: <div class="crayon article-texte-22 texte surlignable clearfix">
+<h3 class="spip">I. Prolégomènes d’Ubu</h3>
+D’après le <i>Trésor de la Langue Française</i>, on indique comme « ubuesque » quelque chose ou quelqu’un qui « évoque le grotesque du père Ubu par un despotisme, une cruauté, un cynisme, une forfanterie d’un caractère outrancier ou par des petitesses dérisoires ». Le personnage d’Ubu a donné lieu à un néologisme qui exprime, à la fois, le pire de l’être humain et son grotesque absurde. Il s’ensuit qu’il ne serait pas question ici de douter de la méchanceté d’Ubu et d’essayer de l’analyser. Et pourtant, notre but veut être d’aller jusqu’à la source de cette méchanceté, de comprendre la nature intrinsèque des contradictions caractérielles de ce « gros pantin » pour en donner une définition plus exhaustive et moins générique que les autres, en la reliant au contexte social et culturel de l’auteur. Si les « prolégomènes » nous aideront à mieux comprendre les problématiques fondamentales du théâtre de Jarry et les origines du père Ubu, on consacrera aussi une partie à l’étude du personnage et de son entourage, ainsi qu’aux actions contradictoires qui le caractérisent afin d’offrir un cadre complet des mécanismes et des procès de la cruauté chez Ubu.
+
+Dès son apparition sur la scène française, il semblait évident qu’<i>Ubu roi</i> (1896) était non seulement une caricature loufoque de la société bourgeoise <i>fin de siècle</i>, mais surtout sa démystification la plus cruelle, la révélation abrupte du Dieu Sauvage<span class="spip_note_ref"> [1]</span> , des cauchemars les plus sombres de l’humanité. Par l’énorme gidouille, la tête de poire cachée sous une capuche de bourreau, la posture grossière et le langage vulgairement virulent, <i>Ubu </i> manifeste cette déformation grotesque de la réalité que la farce transforme en satire féroce de l’époque. Sous le masque du comique, du rire potachique, naïf et adolescent<span class="spip_note_ref"> [2]</span>, <i>Ubu roi</i> déploie tous les sentiments de déception et d’amertume d’une génération d’artistes et d’écrivains face à la sombre hébétude, à la voracité compulsive, au désir – sans inhibitions – de pouvoir de la classe dominante.
+
+Alfred Jarry (1873-1907) est l’un des protagonistes les plus inquiets de ces Banquet Years (Shattuck 1955), l’emblème de l’écrivain maudit, l’anti-dandy toujours accablé par le malheur de vivre à l’intérieur d’une société des contradictions : du luxe des apparences aux misères individuelles, de la beauté des triomphes nationaux à la « laideur » des manigances coloniales qui faisaient enrichir cette grasse bourgeoisie des cafés et des théâtres à la mode. Jarry appartenait à ces « literary gangsters » qui peuplaient « the night streets of the mind while elegant or gaudy crowds jostle gaily in theatres and cafés, on the boulevards » (Hassan 1971 : 48). Du comique farceur (et cathartique) d’une troupe d’adolescents de la fin du XIXe siècle, de la facile parodie passant par les « mardis » chez Alfred Villette ou Stéphane Mallarmé où l’on discutait de littérature, d’art et de la possibilité des « domes in air » de Coleridge, Jarry recrée une pièce qui bouleverse le théâtre traditionnel en lui conférant une force, une vigueur, une actualité sans précédents. Partant de la structure à trois temps du drame shakespearien (Kott 1963) et revisitant l’action et les thèmes de <i>Macbeth</i>, <i>Ubu roi</i> se présente au Théâtre de l’Œuvre de Lugné-Poe dans le but évident de choquer le spectateur à travers un personnage qui dépasse les modules et les typologies symbolistes pour anticiper la fragmentation freudienne du moi et les énonciations surréalistes. Cela est déjà évident dans la <i>Présentation</i> du spectacle, où Jarry prend le soin de souligner les éléments novateurs de son théâtre et d’en affirmer l’originalité à travers la transformation parodique, grotesque et burlesque de la tradition :
+<blockquote class="spip">Le rideau dévoile un décor qui voudrait représenter Nulle Part. […] Nulle Part est partout, et le pays où l’on se trouve, d’abord. C’est pour cette raison qu’Ubu parle français. Mais ses défauts divers ne sont point vices français, exclusivement, auxquels favorisent le capitaine Bordure, qui parle anglais, la reine Rosemonde, qui charabie du Cantal, et la foule polonaise, qui nasille des trognes et est vêtue de gris. […] M. Ubu est un être ignoble, ce pourquoi il nous ressemble (par en bas) à tous. Il assassine le roi de Pologne […], puis étant roi il massacre les nobles, puis les fonctionnaires, puis les paysans. Et ainsi, ayant tué tout le monde, il a assurément expulsé quelques coupables, et se manifeste l’homme moral et normal. […] Il est un peu enfant terrible et nul ne le contredit tant qu’il ne touche point au Czar, qui est ce que nous respectons tous. Le Czar en fait justice, lui retire son trône dont il a mésusé, rétablit Bougrelas […] et chasse M. Ubu de Pologne. (Jarry 1972 : 401-402)</blockquote>
+Dans ce bref synopsis de l’intrigue, Jarry affirme l’universalité d’Ubu, sorte d’anti-<i>exemplum </i> des vices et des défauts humains : il souligne sa nature ignoble et son aptitude au crime qui, en dernière instance, n’est que l’aptitude de « l’homme moral et normal ». La cruauté, le plaisir du meurtre et de la méchanceté sont les éléments constituant l’être ubuesque et tout individu : voilà l’analyse impitoyable offerte par le dramaturge qui condamne le progrès « positif » de son époque, cette tension extrême du capitalisme effréné qui aboutit dans la Première Guerre Mondiale. Chez Ubu, la dialectique faustienne révèle son côté négatif et pousse le spectateur vers un abîme sans fond, abîme que William Butler Yeats identifia – le soir même de la première d’<i>Ubu roi</i> – comme l’irruption d’une entité inconnue qui enveloppe dans son obscurité et annihile la pensée des poètes, et que Louis-Ferdinand Céline appellera quelques années plus tard le « bout de la nuit ».
+<blockquote class="spip">Feeling bound to support the most spirited party, we have shouted for the play, but that night at the Hotel Corneille I am very sad, for comedy, objectivity, has displayed its growing power once more. I say : After Stéphane Mallarmé, after Paul Verlaine, after Gustave Moreau, after Puvis de Chavannes, after our own verse, after all our subtle colour and nervous rhythm, after the faint mixed tints of Conder, what more is possible ? After us the Savage God. (Shattuck 1955 : 209)</blockquote>
+Ces affirmations confirment le rôle d’Ubu en tant qu’incarnation et révélation « physique » du malaise existentiel, de la méchanceté gratuite et des contradictions caractérielles de la société ; elles précisent et renforcent aussi l’opinion de Wellwarth, selon qui
+<blockquote class="spip_poesie">
+<div>when Jarry wrote <i>Ubu roi</i>, he was rebelling not only against the outmoded conventions of the current drama, as the previous ‘avant-gardists’ had done, but against absolutely everything. Jarry rebelled against all things, both physical and metaphysical, to the point where he had to invent a new ‘reality’ beyond the physical and metaphysical worlds – and thus the calculated insanity of ‘Pataphysics’ come into being. (Wellwarth 1971 : 3)</div></blockquote>
+La rébellion jarryque passe par le renouvellement des formes théâtrales : personnages, action, langage subissent une transformation radicale par rapport aux modèles traditionnels et marquent le début d’une ère nouvelle. Par sa structuration, ses problématiques, son herméneutique, <i>Ubu roi</i> se pose, en particulier, en tant qu’avatar (formel, historique, philosophique et linguistique) du théâtre de la cruauté d’Antonin Artaud et du théâtre de l’Absurde d’Ionesco, dont le <i>Macbett </i> n’est qu’une réécriture de la pièce de Jarry.
+<h3 class="spip">II. Les contradictions du personnage : Ubu et son entourage</h3>
+<strong>Postulat (1)</strong> : Ubu est une sorte d’everyman atemporel, anhistorique, virtuel, qui représente la réalité (il en est le miroir déformé et déformant) et qui l’incarne dans tous ses états phénoménologiques.
+
+<strong>Postulat (2)</strong> : Ubu est ontologiquement méchant. La méchanceté est l’élément constituant, de façon dogmatique, son être<span class="spip_note_ref"> [3]</span>.
+
+<strong>Postulat (3)</strong> : L’univers ubuesque – le nombre de personnages qui interagissent à l’intérieur de son microcosme – est aussi méchant, mais il ne l’est pas par sa nature ontologique, mais en conséquence d’un choix empirique, euristique et – bien sûr ! – opportuniste.
+
+Ubu est un anti-<i>exemplum</i> moral puisque Jarry le veut métaphore des maux et des contradictions de son époque. Et pourtant, puisque sa méchanceté est un élément inné de sa personnalité, puisqu’il n’est pas conscient de sa négativité, pourrait-on justifier sa conduite ? Pourrait-on justifier une attitude caractérielle négative même inconsciente ? Ou bien, l’inconscience peut-elle servir à excuser le crime, la vengeance, la cruauté gratuite, l’avidité effrénée ? Enfin, est-on sûrs de cette inconscience ubuesque à la lumière de toutes ses actions abominables ? Bien que le <i>diktat </i> éthique nous enseigne à éprouver de l’indignation, nous incite à crier au scandale face à la perversité et à l’amoralité d’Ubu, il est vrai que ce personnage nous intéresse, nous aimante, nous fascine à cause de son ambiguïté morale : il n’est pas bon, mais il n’est pas totalement méchant grâce à sa drôlerie, ses comportements farcesques, et au rire que suscitent ses actions insensées, révélant une composante caractérielle plus proche de la réalité et des faiblesses humaines. Le spectateur ou le lecteur célèbre alors la ‘sympathie’ d’Ubu, son comique tragique, tout en le craignant comme une entité obscure et inconnue qui l’attend « au-delà du miroir ».
+
+Cependant, l’exemplarité dont il est porteur lui attribue aussi une dimension atemporelle et anhistorique (et, si l’on veut, mythique<span class="spip_note_ref"> [4]</span> ) qui s’exprime, en particulier, à travers ses caractéristiques physiques d’être humain presque non-humain ou amorphe. Dans le discours prononcé à la première de la pièce, Jarry invite le public à « voir en M. Ubu les multiples allusions » qu’il voudra ou, tout simplement, « un fantoche » (Jarry 1972 : 399). Cette liberté d’imagination se traduit par un masque qui enferme la tête de l’acteur en lui conférant « l’effigie du PERSONNAGE », laquelle n’a pas « caractères de pleurs ou de rire (ce qui n’est pas un caractère), mais caractère du personnage » (Jarry 1972 : 407). Expression de la méfiance envers les qualités expressives des acteurs et dénonciation des rôles fabriqués sur la personnalité des artistes, l’idée du masque surgit surtout de la volonté de créer un théâtre assez abstrait et « exact » (dont les indications sur le décor sont la manifestation la plus évidente), de situer sa pièce « dans l’Éternité » (Jarry 1972 : 400). Le commentaire sur le masque des auteurs de <i>L’Univers du théâtre</i> est à ce propos significatif : « Le <i>masque </i> est le lieu des contradictions […] ; parlant, il crie le silence ; […] souvent grotesque, il appelle une géométrie dépouillée du langage gestuel, une transposition ; intemporel, il impose une multiplication du temps et sa durée. » (Girard-Ouellet-Rigault 1995 : 62). De même, Ubersfeld nous rappelle que le masque est « l’antimimique », « un signe stable assurant une permanence des signes du visage » et aussi « un système expressif » (Ubersfeld 1996 : 191). Système expressif qui sert à souligner l’excès et la caricature, à mélanger le grotesque de la forme au comique de l’expression et de la situation : ainsi, la farce prend les traits d’une humanité extrême et extrêmisée pour se transformer en satire sociale âpre, sans répit, violente et perçant les esprits bourgeois les plus obtus et les plus obstinés à la recherche de ce « meilleur des mondes possibles » qui est, peut-être, le Nulle Part ubuesque<span class="spip_note_ref"> [5]</span> .
+
+Ubu est un personnage archétypique car il est, selon Pruner, « un pantin vide de toute intériorité virtuelle, une pulsion animée dans un espace et une durée indéterminés » (Pruner 1998 : 89) : sa substance épique dérive de quelques forces supérieures qui agissent en lui et qui déterminent ses actions. Ces forces se résument dans le paradigme « phynance-merdre-physique » et constituent la base (axiomatique) de sa méchanceté :
+<blockquote class="spip">Ubu parle souvent de trois choses, toujours parallèles dans son esprit : la physique, qui est la nature comparée à l’art, le moins de compréhension opposé au plus de cérébralité, la réalité du consentement universel à l’hallucination de l’intelligent, Don Juan à Platon, la vie à la pensée, le scepticisme à la croyance, la médecine à l’alchimie, l’armée au duel ; – et parallèlement, la phynance, qui sont les honneurs en face de la satisfaction de soi pour soi seul ; tels producteurs de littérature selon le préjugé du nombre universel, vis-à-vis de la compréhension des intelligents ; – et parallèlement, la Merdre. (Jarry 1972 : 402)</blockquote>
+La définition de Jarry des trois éléments substantiels d’Ubu (à noter le manque de description pour la « <i>Merdre</i> », le seul élément en majuscule) nous aide à systématiser le schéma actantiel de la pièce. S’en dégage la circularité autoréférentielle du sujet, dont les actions, les attitudes, les contradictions caractérielles sont la conséquence de l’exigence d’autosatisfaction immédiate des besoins primaires. C’est la raison pour laquelle on peut affirmer qu’Ubu n’est pas le pire exemple de méchanceté, car sa méchanceté est ontologiquement liée à sa nature égocentrique : elle se projette, en effet, sur lui, fondée sur ses désirs fondamentaux qui le poussent vers l’accomplissement naturel de son identité, de sa sphère ou, si l’on veut, de sa gidouille. En tout cas, sa violence, sa cruauté, son manque de sentiments positifs ne sont point justifiables : ils manifestent le pessimisme de Jarry vis-à-vis ce développement ‘positif’ et durable de la société capitaliste qui, comme Ubu, phagocyte sans cesse de la <i>phynance</i>, se nourrit de la <i>merdre </i> et se réjouit du ventre énorme de son <i>physique</i>.
+
+<span class="spip_document_9 spip_documents spip_documents_center"> <img src="http://post-scriptum.org/local/cache-vignettes/L500xH450/image-1-trovato-80079.png" alt="" width="500" height="450" /></span>
+
+Comme on le remarque, les deux personnages pouvant être considérés comme les seuls adjuvants d’Ubu (parce qu’ils ne le contredisent jamais, ne le trahissent ni n’ont de doutes sur sa conduite) sont le Roi Venceslas et le Général Lascy. Toutefois, le premier est la victime désignée du complot des Ubus, tandis que le second est abandonné par le Maître des Finances lors de la bataille contre le tsar :
+<blockquote class="spip">PERE UBU : Allons ! en route. Quel tas de gens, quelle fuite, quelle multitude, comment me tirer de ce gâchis ? (Il est bousculé.) Ah ! mais toi ! fais attention, ou tu vas expérimenter la bouillante valeur du Maître des Finances. Ah ! il est parti, sauvons-nous et vivement pendant que Lascy ne nous voit pas. (Jarry 1972 : 385)</blockquote>
+Il est intéressant de souligner également que tous les anciens adjuvants d’Ubu sont, en quelque sorte, atteints par cette alliance : Mère Ubu est obligée d’abandonner la Pologne avec son terrible mari ; le capitaine Bordure meurt pendant la bataille contre Ubu ; le peuple et ceux qui avaient approuvé Ubu sont vexés par la conduite forcenée et insensée de ce roi ; Nicolas Renski meurt, lui aussi, pour protéger le règne du « gros pantin ». Les seuls qui ne subissent pas de gros dommages sont les Palotins, car ils ne possèdent pas une dimension existentielle autonome, mais sont semblables à des automates, dont le but unique est la transmutation de la pensée ubuesque en action directe. Leur fonction logique, scénique et narrative ne s’explique qu’en relation à Ubu, dont ils sont la création la plus parfaite<span class="spip_note_ref"> [6]</span> .
+
+Jarry offre une pièce, somme toute, assez manichéenne, où le bien est toujours séparé du mal, où les méchants sont toujours punis (l’exil de la mère Ubu et la perte des trésors de Pologne qu’elle avait réussi à voler ; la mort de Bordure auquel on ne pardonne pas l’avidité et la cupidité qui l’avaient mené à s’allier avec Ubu contre le roi Venceslas<span class="spip_note_ref"> [7]</span> ) et l’ordre naturel (ou divin) est rétabli après tant de désordres à travers la juste vengeance de Bougrelas de la mort de ses parents. Même s’il est condamné à l’exil, Ubu ne comprend rien à son expérience polonaise, tant qu’il affirme seulement qu’il n’envie pas la couronne de Bougrelas (V, 3) et qu’il espère revenir vite en France pour se faire nommer Maître des Finances à Paris !
+
+Jarry ne fait pas mourir Ubu parce qu’il a besoin de lui en tant que son alter-ego : par contre, il punit les véritables méchants, c’est-à-dire ceux qui ne le sont pas ontologiquement, mais qui changent d’attitude sur la base des intérêts personnels. La méchanceté d’Ubu est, en effet, presque naïve et suscite souvent le rire et la sympathie du public à cause du nombre de contradictions le caractérisant et de la nécessité de satisfaire ses forces paradigmatiques primordiales. Elle est ‘édulcorée’ par le comique de son aspect et par ses vices, qui lui sont reprochés par les différents personnages : ainsi, il est tour à tour défini comme gras, insatiable, sale, stupide, avare, lâche, buveur et cruel, c’est-à-dire comme l’ensemble le plus redoutable des défauts humains.
+<blockquote class="spip_poesie">
+<div>MÈRE UBU</div>
+<div>« vous estes un <i>fort grand voyou</i> »<span class="spip_note_ref"> [8]</span> (Jarry 1972 : 353)<span class="spip_note_ref"> [9]</span></div>
+<div>« Tu es si <i>bête</i> ! » (353)</div>
+<div>« il est <i>imbécile</i> » (356)</div>
+<div>« quel homme <i>mou</i> ! » (358)</div>
+<div>« Oh ! le <i>traître</i>, le <i>lâche</i>, le <i>vilain</i> et <i>plat ladre</i> » (360)</div>
+<div>« <i>Sagouin</i> toi-même ! Qui m’a bâti <i>un animal de cette sorte</i> ? » (366)</div>
+<div>« Tu es <i>trop</i> <i>féroce</i> » (371)</div>
+<div>« Quel <i>sot</i> homme » (376)</div>
+<div>« Fi, le <i>lâche</i> » (377)</div>
+<div>« Comme il est beau avec son casque et sa cuirasse, on dirait une <i>citrouille armée</i> » (377)</div>
+<div>« Il est vraiment <i>imbécile</i> » (378)</div>
+<div>« <i>gros </i> <i>pantin</i> » (378)</div>
+<div>« mon <i>gros bonhomme</i> » (391)</div>
+<div>« il est <i>encore plus bête</i> que quand il est parti » (391)</div>
+<div>« votre <i>giborgne</i> » (391)</div>
+<div>« <i>sot</i> personnage » (392)</div>
+<div>« <i>sotte bourrique</i> » (394)</div>
+<div>« il est <i>fou</i> » (394)</div>
+<div></div>
+<div>BORDURE</div>
+<div>« je vous croyais <i>fort gueux</i> » (357)</div>
+<div>« vous <i>empestez</i>, Père Ubu. Vous <i>ne</i> vous <i>lavez</i> donc <i>jamais</i> ? » (358)</div>
+<div></div>
+<div>TOUS</div>
+<div>« <i>Misérable</i> Père Ubu ! <i>traître</i> et <i>gueux voyou</i> ! » (357)</div>
+<div>« Fi, le <i>sagouin </i> ! » (360)</div>
+<div>« le Père Ubu est un <i>affreux sagouin</i> et sa famille est, dit-on, abominable » (373)</div>
+<div></div>
+<div>BOUGRELAS</div>
+<div>« Est-il <i>bête</i> » (359)</div>
+<div>« Oh ! ce Père Ubu ! le <i>coquin</i>, le <i>misérable</i> » (363)</div>
+<div>« Un <i>vulgaire</i> Père Ubu, <i>aventurier sorti on ne sait d’où, vile crapule, vagabond honteux</i> ! Et quand je pense que mon père l’a décoré et que le lendemain <i>ce vilain n’a pas eu honte</i> de porter la main sur lui. » (365)</div>
+<div>« <i>vieux gredin</i> » (379)</div>
+<div>« l’<i>affreux </i> Père Ub » (380)</div>
+<div>« <i>lâche, gueux, sacripant, mécréant, musulman</i> » (395)</div>
+<div></div>
+<div>VENCESLAS</div>
+<div>« Monsieur Ubu, <i>chevalier</i> de mes ordres et <i>comte de Sandomir</i> » (361)</div>
+<div>« Monsieur de Ubu est un <i>fort bon gentilhomme</i>, qui se ferait tirer à quatre chevaux pour mon service » (362)</div>
+<div>« <i>Noble</i> Père Ubu » (362)</div>
+<div>« <i>Misérable</i> ! » (363)</div>
+<div></div>
+<div>PALOTINS</div>
+<div>« Quel <i>pourceau</i> » (385)</div>
+<div>« <i>Lâche bougre</i> ! » (386)</div>
+<div>« <i>Révoltante bourrique</i> » (387)</div>
+<div>« C’est <i>révoltant</i> » (388)</div>
+<div>« quel <i>triste imbécile</i> » (397)</div></blockquote>
+Parmi les actants principaux, seul le roi Venceslas utilise des mots positifs aux égards du Père Ubu, mais il meurt sous ses coups de « Merdre ! » en exclamant enfin un simple « Misérable ! » qui résume l’indignation, la stupeur et la déception face à la trahison de son favori.
+
+Ces traits sont aussi soulignés par les actions et le langage d’Ubu tout au long de la pièce, confirmant soit la prédisposition au vice et à la cruauté, soit la naturelle bouffonnerie accentuée par les nombreuses contradictions caractérielles (peur vs courage ; méchanceté vs lâcheté ; affirmation d’une idée vs négation soudaine de la même idée…), soit, enfin, la monstruosité de son physique, miroir de la négativité d’âme et d’esprit. Le tableau suivant veut en effet tracer une liste (non exhaustive) des vices et des sentiments ubuesques par Ubu-même pour offrir, de façon synthétique, toute la complexité de ce personnage et sa dimension contradictoire.
+<blockquote class="spip_poesie">
+<div>FAIM :</div>
+<div>« je crève de faim » ; « j’ai faim » (355)</div>
+<div>« […] cuisez cent cinquante bœufs et moutons, d’autant plus que j’en aurai aussi ! » (367)</div>
+<div>« je me suis déjà flanqué une indigestion » (368)</div>
+<div>« Alors, nous allons dîner, car les Russes n’attaqueront pas avant midi. » (382)</div>
+<div></div>
+<div>LÂCHETÉ ET PEUR :</div>
+<div>« Oh ! merdre, jarnicotonbleu, de par ma chandelle verte, je suis découvert, je vais être décapité ! Hélas ! Hélas ! » (358)</div>
+<div>« si je savais, je filerais vous dénoncer pour me tirer de cette sale affaire, et je pense qu’il me donnerait aussi de la monnaie. » (360)</div>
+<div>« Oh ! Bordure, j’ai peur ! » (364)</div>
+<div>« Ho ! Ho ! J’ai peur ! J’ai peur ! Ha ! Je pense mourir. Ô pauvre homme que je suis. Que devenir, grand Dieu ? Ce méchant homme va me tuer. » (376-377)</div>
+<div>« Ah ! Oh ! Je suis blessé, je suis troué, je suis perforé, je suis administré, je suis enterré. » (383)</div>
+<div>« […] et nul doute que je ne l’eusse complètement tué si une inexplicable terreur n’était venue combattre et annuler en nous les effets de notre courage. » (384)</div>
+<div>« Un ours ! Ah ! l’atroce bête. Oh ! pauvre homme, me voilà mangé. » (386)</div>
+<div>« Ah ! j’ai peur. » (391)</div>
+<div></div>
+<div>ASPECT</div>
+<div>« Ventrebleu, de par ma chandelle verte<span class="spip_note_ref"> [10]</span> » (354)</div>
+<div>« je suis pourtant assez gros » (356)</div>
+<div>« Oh ! aïe ! au secours ! De par ma chandelle verte, je me suis rompu l’intestin et crevé la bouzine ! » (359)</div>
+<div>« Cornefinance » (374)</div>
+<div>« Sabre à finances, corne de ma gidouille […] vous êtes cause que je suis bête ! Mais, corne d’Ubu ! » (376)</div>
+<div>« très gros, en effet » (391)</div>
+<div></div>
+<div>AVARICE</div>
+<div>« Eh ! me crois-tu empereur d’Orient pour faire de telles dépenses ? » (356)</div>
+<div>« Des viandes, oui ! de l’or, non ! Abattez trois vieux chevaux, c’est bien bon pour de tels sagouins. » (366)</div>
+<div>« je veux m’enrichir, je ne lâcherai pas un sou » (366)</div>
+<div>« Tenez, voilà pour vous. Ça ne m’amusait guère de vous donner de l’argent [...]. Au moins promettez-moi de bien payer les impôts » (367)</div>
+<div>« Encore de l’argent à donner ? Ah ! non, du coup ! vous m’avez fait gâcher bien vingt-deux millions. » (369)</div>
+<div>« je vais faire exécuter tous les Nobles, et ainsi j’aurai tous les biens vacants. » (371)</div>
+<div>« D’abord, je veux garder pour moi la moitié des impôts. » (372)</div>
+<div>« je ne veux pas donner d’argent » ; « faisons la guerre, puisque vous en êtes enragés, mais ne déboursons pas un sou. » (377)</div>
+<div></div>
+<div>VIOLENCE</div>
+<div>« Ah ! je vais aiguiser mes dents contre vos mollets. » (356)</div>
+<div>« je vais vous assommer de côtes de rastron » (357)</div>
+<div>« Je vais te marcher sur les pieds » (358)</div>
+<div>« Hé ! messieurs, tenez-vous tranquilles si vous ne voulez visiter mes poches. » (360)</div>
+<div>« […] tu aies à produire et exhiber promptement ta finance, sinon tu seras massacré. » (373)</div>
+<div>« De tous côtés on ne voit que des maisons brûlées et des gens pliant sous le poids de nos phynances » (376)</div>
+<div>« Va-t-on sagouin, ou je te poche avec décollation et torsion des jambes. » (376)</div>
+<div>« Ji tou tue au moyen du croc à merdre et du couteau à figure. » (377)</div>
+<div>« Ji lon mets dans ma poche avec torsion du nez et des dents et extraction de la langue » ; « Torsion du nez et des dents, extraction de la langue et enfoncement du petit bout de bois dans les oneilles. » (378)</div>
+<div>« Moi je commence : torsion du nez, arrachement des cheveux, pénétration du petit bout de bois dans les oneilles, extractions de la cervelle par les talons, lacération du postérieur, suppression partielle ou même totale de la moelle épinière […] sans oublier l’ouverture de la vessie natatoire et finalement la grande décollation renouvelée de saint Jean-Baptiste […] » (395)</div></blockquote>
+Le paradigme phynance-merdre-physique et son importance dans la constitution de la violence et de la méchanceté ubuesques s’expriment soit par le langage, soit par l’exposition de toute une série d’armes (internes et externes au personnage) servant à assurer le contact et, en même temps, la distance avec le monde. Les armes<span class="spip_note_ref"> [11]</span> sont le moyen pour se faire connaître des autres et pour communiquer ses besoins basilaires : elles agissent en tant que protection d’Ubu, lui donnant une force souvent annulée par les effets de la peur et de la volonté de préserver, avant tout, sa personne de la douleur et de la souffrance physique. Elles contribuent ainsi à la manifestation de ses aspects les plus négatifs et mettent en évidence la nature ontologiquement méchante d’Ubu, sa prédisposition naturelle à l’égoïsme, au vice, au non-respect des individus, à l’impolitesse, son incapacité à établir une relation positive et aimable avec le monde.
+<h3 class="spip">III. Actions contradictoires</h3>
+Les actions contradictoires dérivent des comportements contradictoires d’Ubu, c’est-à-dire de l’indécision éternelle du personnage et du conflit continu entre courage et lâcheté, peur et sang-froid. À chaque moment de la pièce, ce conflit se présente et détermine un mouvement (narratif et dramaturgique) oscillatoire d’un état positif (E+) de force, vaillance, courage à un état négatif (E-) de lâcheté, égoïsme, abjection.
+
+Le schéma suivant veut reproduire ce mouvement et nous aide à résumer les phases les plus importantes des contradictions ubuesques.
+
+<span class="spip_document_54 spip_documents spip_documents_center"> <img src="http://post-scriptum.org/local/cache-vignettes/L500xH175/trovato_img2-6f22f.png" alt="" width="500" height="175" /></span>
+
+Comme on peut le remarquer, les contradictions ubuesques suivent un mouvement phasique assez constant : si l’acte I présente une alternance régulière des réactions (Ubu est indécis sur le fait de tuer ou non le roi ; il promet des choses qu’il ne maintient pas ; il agit pour renier, une seconde plus tard, ce qu’il a fait…), dans les actes II et III, Ubu semble faire montre de sa perversité envers le peuple et d’une bien étrange hardiesse (il tue les nobles, les magistrats et les financiers pour s’emparer de toute la finance du royaume ; il emprisonne Bordure pour ne pas lui donner ce qu’il lui avait promis), hardiesse qu’il commence à perdre lorsqu’il doit accepter de combattre une guerre dont il craint les résultats négatifs (acte IV) et qu’enfin il perd définitivement (acte V).
+
+Les actions sont le reflet des mécanismes et des procès internes au personnage et confirment nos postulats sur Ubu : elles servent, à la fois, à démontrer sa fragilité caractérielle et à définir son statut exceptionnel parmi les autres personnages (mythiques) du panorama théâtral moderne et contemporain. Elles sont fonctionnelles aux stratégies révolutionnaires de Jarry et, pourtant, elles naissent de la nature profonde d’Ubu, comme si Jarry n’ait pas été le démiurge mais le simple agent de la volonté ubuesque, le canal entre le personnage et le public. On pourrait affirmer alors que l’action n’est pas l’expression du génie de l’auteur, mais elle surgit d’Ubu qui en définit la structure et le déroulement tout au long de la pièce. Tout ce qui pourrait apparaître comme une transposition parodique assez ingénue, une structure élémentaire tracée sur un sujet mille fois exploité par le théâtre est transformé par Ubu en habile subversion, en renversement farcesque et, en même temps, cruel de valeurs traditionnelles et millénaires.
+<h3 class="spip">IV. Conclusion</h3>
+Les oscillations (hu)morales et décisionnelles font d’Ubu l’un des protagonistes les plus controversés du panorama théâtral moderne et contemporain : jusqu’à l’épilogue de la pièce, le public ne comprend pas s’il a assisté à la divagation comique d’un jeune auteur enragé envers sa société du faux bonheur ou s’il doit croire à cette représentation de la violence gratuite qui devient presque comique, ou encore s’il doit se perdre à l’intérieur de cette (sur)réalité où la méchanceté semble être la valeur la plus positive à chercher et à imiter. La farce humaine se transforme non seulement en satire et critique sociale, mais surtout en cauchemar… ce cauchemar de la conscience collective que Jarry porte sur la scène et déploie sans nuances ou hésitations, ce cauchemar qui s’appelle Ubu et qui conduit le spectateur vers cet âge « of the Extremes » (Hobsbawm 1994) que sera le XXe siècle.
+
+</div>
+
+----
+
+references: 
+- <div class="crayon article-texte-22 texte surlignable clearfix">
+<ul>
+ 	<li>ACCURSI, Daniel, <i>La Philosophie d’Ubu</i>, Paris, P.U.F. (Perspectives critiques), 1999.</li>
+ 	<li>BESNIER, Patrick, <i>Alfred Jarry</i>, Paris, Fayard, 2005.</li>
+ 	<li>GIRARD, Gilles, Réal OUELLET et Claude RIGAULT, <i>L’Univers du théâtre</i>, Paris, P.U.F., 1995.</li>
+ 	<li>HASSAN, Ihab, <i>The Dismemberment of Orpheus. Toward a Postmodern Literature</i>, New York, Oxford U.P., 1971.</li>
+ 	<li>JARRY, Alfred, <i>Œuvres complètes, I</i>, textes établis, présentés et annotés par M. Arrivé, Paris, Gallimard (Bibliothèque de la Pléiade), 1972.</li>
+ 	<li>KOTT, Jan, <i>Shakespeare our Contemporary</i>, London, Routledge, 1965.</li>
+ 	<li>PRUNER, Michael, <i>L’Analyse du texte de théâtre</i>, Paris, Nathan, 2001.</li>
+ 	<li>SHATTUCK, Roger, <i>The Banquet Years. The Origins of the Avant-Garde in France. 1885 to World War I</i>, New York, Vintage Books, 1955.</li>
+ 	<li>TROVATO, Loredana, « De l’inutilité du théâtre au théâtre : Alfred Jarry théoricien de l’art dramatique », dans BURY Mariane et Hélène LAPLACE-CLAVERIE (dir.), <i>Le Miel et le fiel. La critique théâtrale au XIXe siècle</i>, Paris, Presses de l’Université Paris-Sorbonne, 2008, p. 285-296.</li>
+ 	<li>___, « Simbolismo e teoria del (non) romanzo. Note su Gestes et opinions du docteur Faustroll di Alfred Jarry », <i>Atti dell’Accademia Peloritana dei Pericolanti (Messina)</i>, vol. LXXXIII, A.A. CCLXXVIII, 2007, p. 351-364.</li>
+ 	<li>UBERSFELD, Anne, <i>Lire le théâtre II. L’école du spectateur</i>, Paris, Belin, 1996.</li>
+ 	<li>WATT, Ian, <i>Myths of Modern Individualism</i>, Cambridge, Cambridge University Press, 1996.</li>
+ 	<li>WELLWARTH, George, <i>The Theatre of Protest and Paradox. Developments in the Avant-garde Drama</i>, New York, New York University Press, 1971.</li>
+</ul>
+</div>
+<div class="notes">
+
+<hr />
+
+<div id="nb1">
+
+<span class="spip_note_ref">[1] </span>Le Dieu Sauvage est le dieu Pan, personnage de la mythologie grecque qui symbolise la Totalité, la nature tout entière. Il est représenté de façon moins humaine que les satyres et se caractérise souvent par sa laideur et sa sauvagerie. Il est aussi le dieu de la foule hystérique, en raison de la capacité qui lui était attribuée de faire perdre son humanité à l’individu « paniqué ». Paraphrasant le commentaire de William Butler Yeats à la première d’<i>Ubu roi</i>, on se réfère ici au Dieu Sauvage en tant qu’à la manifestation de la violence de l’es freudien dans la société du début du XXe siècle qui amènera aux atrocités de la Première Guerre Mondiale.
+
+</div>
+<div id="nb2">
+
+<span class="spip_note_ref">[2] </span>Dans sa phase primitive d’élaboration, la pièce n’est qu’un divertissement de potaches du Lycée de Rennes se moquant de leur professeur de physique, individu bizarre, assez maladroit et distrait. Les gestes de ce personnage ridicule étaient représentés par une série de marionnettes : Jarry leur donna le nom d’Ubu et, une fois à Paris, développa la matière pour la métamorphoser en une des pièces les plus révolutionnaires du théâtre français.
+
+</div>
+<div id="nb3">
+
+<span class="spip_note_ref">[3] </span>À partir du concept philosophique d’ontologie, on pourrait supposer qu’Ubu n’est pas véritablement méchant, du fait que sa méchanceté étant la substance profonde de son être ne devrait pas être assujettie à la doxa, ne devrait pas être donc changeable et/ou confuse. Toutefois, Ubu est souvent proie de contradictions et de changements qui ne permettent pas de confirmer in toto notre supposition : il faut penser, par exemple, à l’incertitude qui le prend lorsqu’il doit décider si tuer ou ne pas tuer le tsar, ou encore, à la peur dont il est toujours envahi et qui le rend une bouffe caricature des aspects les plus négatifs des individus. Sa nature est, donc, ontologique dans son essence et humaine dans son existence quotidienne.
+
+</div>
+<div id="nb4">
+
+<span class="spip_note_ref">[4] </span>L’adjectif ‘mythique’ est ici emprunté à la signification offerte par Ian Watt lorsqu’il parle des mythes de l’individualisme moderne (Watt 1996).
+
+</div>
+<div id="nb5">
+
+<span class="spip_note_ref">[5] </span>Voilà la définition de « Nulle Part » dans la Présentation d’Ubu roi : « […] le rideau dévoile un décor qui voudrait représenter Nulle Part, […] de même que l’action se passe en Pologne, pays assez légendaire et démembré pour être ce Nulle Part, ou tout au moins, selon une vraisemblable étymologie franco-grecque, bien loin un quelque part interrogatif. » (Jarry 1972 : 401)
+
+</div>
+<div id="nb6">
+
+<span class="spip_note_ref">[6] </span>La description qu’Ubu en donne dans « l’Acte terrestre » de <i>César-Antéchrist</i> (1895) est à ce propos intéressante : « Nos palotins sont aussi d’une grande importance, mais point si beaux que quand j’étais roi d’Aragon. Pareils à des écorchés ou au schéma du sang veineux et du sang artériel, la bile financière leur sortait par des trous et rampait en varicocèles d’or ou de cuivre. Ils étaient numérotés aussi et je les menais combattre avec un licou d’où pendaient des plombs funéraires. Les femmes avortaient devant eux heureuses, car les enfants nés leur seraient devenus semblables. » (Jarry 1972 : 312)
+
+</div>
+<div id="nb7">
+
+<span class="spip_note_ref">[7] </span>Cependant, Bordure pourrait être une sorte de figure tragique (janséniste) qui expie les erreurs de ses passions négatives à travers le sacrifice de la mort.
+
+</div>
+<div id="nb8">
+
+<span class="spip_note_ref">[8] </span>L’italique est de nous.
+
+</div>
+<div id="nb9">
+
+<span class="spip_note_ref">[9] </span>Tous les numéros des pages suivantes se réfèrent à l’édition susdite.
+
+</div>
+<div id="nb10">
+
+<span class="spip_note_ref">[10] </span>L’interjection « ventrebleu » renvoie à l’énorme ventre d’Ubu, tandis que la « chandelle verte » a une valeur métaphorique de type érotique. Ces interjections apparaissent plusieurs fois dans le texte : on en donne alors seulement la première occurrence.
+
+</div>
+<div id="nb11">
+
+<span class="spip_note_ref">[11] </span>Voici la liste de quelques armes ‘externes’ les plus importantes : le voiturin à phynances, la cuirasse, le petit bout de bois, le sabre à merdre, le croc à finances, le ciseau à oneilles, le casque à finances, le croc à merdre, le couteau à figure, le cheval à phynance, le ciseau à merdre, le bâton-à-physique. Il faut aussi ajouter les armes ‘internes’ : la poche, la canne (« enfoncée dans la poche droite », Jarry 1972 : 403), la gidouille et la corne (souvent en relation avec la gidouille dans l’interjection « cornegidouille »).
+
+</div>
+</div>
+
+----
+
+number: 5
+
+----
+

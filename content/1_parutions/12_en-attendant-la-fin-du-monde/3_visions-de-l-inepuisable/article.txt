@@ -1,0 +1,43 @@
+title: [12-03]  Visions de l’inépuisable
+
+----
+
+subtitle: 
+
+----
+
+author: Frédérique BERNIER
+
+----
+
+affiliation: Université Harvard
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: <div class="texteItem">
+<div class="crayon article-texte-145 texte surlignable clearfix">
+<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid360960" src="//www.youtube.com/embed/Tecc61MC79o" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br class="autobr" /> <i>Discussion</i>
+<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid300109" src="//www.youtube.com/embed/bR-cCvLdgNM" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</div>
+
+----
+
+references: 
+- 
+
+----
+
+number: 3
+
+----
+

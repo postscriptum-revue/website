@@ -1,0 +1,37 @@
+Title: Counterfact and Truth
+
+----
+
+Subtitle: Re-imagining History in a Postcolonial Subgenre
+
+----
+
+Summary-fr: <p>Les écrits historiographiques présupposent que les vérités historiques dépendent de l’interprétation narrative de l’information factuelle et que les récits historiques s’engagent nécessairement dans des contextes interprétatifs les uns avec les autres au sujet du sens propre de ces faits. En revanche, les écrits contrefactuels remettent en cause la suprématie du fait dans les récits historiographiques. Tant dans les méthodes qu’elle utilise que dans les conclusions qu’elle apporte, l’imagination contrefactuelle défie et subvertit la base épistémologique conventionnelle de l’historiographie. En même temps, l’écriture contrefactuelle est irréductible au simple statut de la fiction : en écrivant ce qui ne s’est pas passé dans l’être textuel, les récits contrefactuels cherchent paradoxalement à accomplir le travail habituel de l’historiographie en expliquant le passé tel qu’il s’est déroulé en réalité. En dépit des incongruités apparentes qui surgissent de telles pratiques, l’imagination contrefactuelle devient endémique au sein de la culture contemporaine, donnant naissance à des genres très différents d’écriture fictionnelle et non fictionnelle.</p><p>Bien que de nombreuses critiques axées sur l’imagination contrefactuelle exposent un penchant occidental, la liberté des récits dominants, qui est implicite dans l’imagination contrefactuelle, a une résonance évidente dans la littérature postcoloniale. Des interprétations contrefactuelles de l’histoire peuvent être trouvées dans des textes variés en sujet et en genre.  En effet, les histoires contrefactuelles constituent sans doute un sous-genre en voie de développement dans le domaine des littératures postcoloniales. Contemporains à l’épanouissement d’une littérature contrefactuelle, , des romans tels que The Calcutta Chromosome d’Amitav Ghosh, True History of the Kelly Gang de Peter Carey et Summertime de J.M. Coetzee prennent de nouvelles significations lorsqu’ils ne sont pas seulement lus comme des manifestations des littératures locales (nationales ou régionales), mais aussi comme des textes qui illustrent la politique conflictuelle de la postcolonialité contrefactuelle dans un marché mondial postmoderne.</p>
+
+----
+
+Summary-en: <p>Historiographic writings presuppose that historical truths rely on the narrative rendering of factual information and that historical narratives necessarily engage in interpretive contests with each other over the proper meaning of those facts. In contrast, counterfactual writings challenge the primacy of fact in historiographic narratives. Both in the methods it uses and in the conclusions it renders, the counterfactual imagination challenges and subverts the conventional epistemological basis of historiography. At the same time, counterfactual writing is irreducible to the straightforward status of fiction: by writing that which did not happen into textual being, counterfactual narratives paradoxically seek to perform the usual work of historiography by explaining the past as it actually unfolded. Despite the apparent incongruities that emerge from such practices, the counterfactual imagination has become endemic within contemporary culture, proliferating in very different genres of fictional and non-fictional writing.</p><p>Although much criticism focusing on the counterfactual imagination exhibits a Western bias, the freedom from dominant narratives implicit within the counterfactual imagination has obvious resonance with postcolonial literature. Counterfactual renderings of history can be found in texts diverse in subject and genre. Indeed, counterfactual histories arguably constitute a developing subgenre within the field of postcolonial literatures. Published amidst the contemporary moment of counterfactual flourishing, novels such as Amitav Ghosh’s The Calcutta Chromosome, Peter Carey’s True History of the Kelly Gang, and J.M. Coetzee’s Summertime take on new meanings when read not simply as manifestations of local (national or regional) literatures but also as texts that exemplify the conflicted politics of counterfactual postcoloniality in a global postmodern marketplace.</p>
+
+----
+
+Text: 
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Craig Smith
+  affiliation: ""
+
+----
+
+Keywords: 
+
+----
+
+Uuid: q3JLTWk75lNmF3eV

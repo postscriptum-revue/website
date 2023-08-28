@@ -1,0 +1,43 @@
+title: [12-05]  Séduction des évocations apocalyptiques dans la pensée de Walter Benjamin
+
+----
+
+subtitle: 
+
+----
+
+author: Alain BIHAN
+
+----
+
+affiliation: Université de Montréal
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: <div class="texteItem">
+<div class="crayon article-texte-147 texte surlignable clearfix">
+<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid460190" src="//www.youtube.com/embed/PJP8o8dUvLA" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br class="autobr" /> <i>Discussion</i>
+<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid668875" src="//www.youtube.com/embed/UP2cB2Ay5Ug" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</div>
+
+----
+
+references: 
+- 
+
+----
+
+number: 5
+
+----
+

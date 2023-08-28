@@ -1,0 +1,181 @@
+title: [14-13] Deuil et dénonciation du pouvoir
+
+----
+
+subtitle: Iphigénie et Médée dans le théâtre français fin de siècle
+
+----
+
+author: Dora LEONTARIDOU
+
+----
+
+affiliation: Université Paris III
+
+----
+
+abstract_fr: Depuis Antigone de Sophocle et Les Troyennes d’Euripide le deuil est marqué du politique puisqu’il suit comme corolaire les décisions politiques et guerrières du pouvoir. La réécriture des mythes de Médée et d’Iphigénie à la fin du XXe siècle dans le théâtre français utilise le deuil comme véhicule de dénonciation du pouvoir politique et met en épingle l’hypocrisie de ses discours et son indifférence face à la vie et la dignité humaine. La revisite des mythes antiques par les dramaturges contemporains met en filigrane le crime dénudé de ses prétextes patriotico-religieux, le nomme, et le dénonce. Le masque théâtral du mythe permet, jadis et maintenant, de parler chaque fois des sujets délicats de l’actualité.
+
+----
+
+abstract_en: From Sophocles’ Antigone and Euripides’ Trojan Women, mourning is marked of politic since it follows as corollary to the political decisions. Rewriting the myths of Medea and Iphigenia in the late twentieth century, the French theater uses mourning as a vehicle of denunciation of political power. Furthermore it presents the hypocrisy of political pretexts and the indifference to the human lives and dignity. Revisiting of the ancient myths by contemporary playwrights reveals the religious and patriotic pretexts and denounces the crimes against the vulnerable parts of the society. The theatrical mask of the myth allows the treatment of delicate current subjects.
+
+----
+
+text: Y a-t-il un côté politique au deuil ? Indubitablement oui dans les cas où le deuil est le corolaire des décisions politiques et guerrières du pouvoir. Les lamentations d’Antigone, un deuil prononcé par avance pour sa mort imminente, dénoncent l’autoritarisme de Créon (Sophocle 1955 : v. 891-928). Elles mettent également en avant la confrontation du droit naturel d’une part, qui suggère l’ensevelissement des morts, et l’ordre de Créon d’autre part, qui l’interdit. Son refus d’obéir au droit positif, à l’ordre du roi, place Antigone au rang des contestataires du pouvoir, sans pour autant en faire une rebelle anarchiste. Car Antigone se soulève contre le pouvoir de Créon pour défendre les principes du droit naturel. De même, Andromaque qui, dans les <i>Troyennes</i> d’Euripide, se lamente sur la mort de son enfant Astyanax, précipité du haut des remparts de Troie, met le doigt sur la cruauté de la guerre, et la férocité des vainqueurs ; son thrène embrasse alors des connotations politiques contre la guerre et les atrocités que subissent les innocents. Dans les situations où le monde antique parlait du devoir envers la patrie, ou de la soumission absolue à la volonté du roi, du prêtre, des dieux, la relecture des mythes antiques par les dramaturges contemporains met en filigrane le crime dénudé de ses prétextes patriotico-religieux, le nomme, et le dénonce. Il va de soi que le masque théâtral du mythe permet, jadis et maintenant, de parler chaque fois des sujets délicats de l’actualité. Nous examinerons ci-après l’interférence du deuil avec le politique dans les réécritures des mythes de la fin du XXe siècle qui portent sur la guerre et sur le sort des non privilégiés. Les réécritures des mythes de Médée et d’Iphigénie dans le théâtre français utilisent le deuil comme véhicule de dénonciation du pouvoir politique et mettent en exergue l’hypocrisie de ses discours et son indifférence face à la vie et la dignité humaines.
+
+Quand un écrivain recourt à un mythe pour en faire une réécriture, ce processus implique une prise de position personnelle par rapport à la version initiale du mythe ou l’une de ses versions postérieures. Cette réécriture, qui constitue une réinterprétation du matériau mythique, y apporte une couche sémantique secondaire qui est d’importance majeure pour le temps dans lequel l’hypertexte voit le jour. Il s’agit justement de « ce qu’une œuvre nous livre de son temps » ainsi que Roland Barthes l’observe (Barthes 1963 : 140). Cette constitution du mythe de deux couches sémantiques au moins, celle de l’hypotexte et celle de l’hypertexte, est constatée par plusieurs chercheurs. Gilbert Durand juxtapose l’opération de la <i>pérennité</i> et celle de la <i>dérivation</i> dans le corpus des versions. La pérennité renvoie aux constantes, aux invariants, au noyau qui demeure invariable dans les réécritures, la dérivation renvoie aux variantes, aux couches supérieures que les réécritures ajoutent à la matrice (Durand 1978 : 31). Castoriadis pour sa part voit dans le mythe une superposition de couches sémantiques, une « pluralité de niveaux sur lesquels se déploient aussi bien l’exposition que la signification du mythe » (Castoriadis 2004 : 164).
+
+En ce qui concerne l’expression du deuil, et surtout du deuil des femmes, il semble bien que le théâtre antique soit son espace privilégié. En effet, selon Nicole Loraux, le théâtre d’Athènes fournissait un exutoire au thrène des femmes que la cité avait banni de l’espace public et dont il avait limité l’expression jusque dans les rituels. Ce faisant, le deuil refoulé pouvait être extériorisé par le biais de l’intrigue théâtrale, et était conduit dans une expression acceptable et sécurisée pour la morale de la cité. De cette façon, il était enfin désactivé de sa force affective, considérée dangereuse par ses excès pour l’espace public (Loraux 1999). Or, de nos jours, il semble que la contrainte qui empêche le deuil n’existe plus. Or, il est très probable que même si la contrainte n’existe plus formellement, elle est peut-être présente comme violence symbolique En quoi une réécriture pourrait revivifier ce deuil dans ses accents politiques aujourd’hui ? En prenant en considération la dichotomie du contenu mythique et du contenu de la réécriture, nous allons interroger deux versions modernes des mythes, la pièce <i>Iphigénie ou le péché des Dieux</i>, de Michel Azama, créée en 1991, et <i>Médée</i> de Max Rouquette, créée en 1989.
+<h3 class="spip">1. Guerre et sacrifice des jeunes : la voix d’Iphigénie</h3>
+Dans le texte matrice d’Euripide, Iphigénie au début de la tragédie refuse d’aller à l’autel du sacrifice. Mais par la suite, quand elle comprend l’importance que son immolation a pour le bien commun, elle y va de son plein gré. Cette pièce antique fut créée à un moment où le monde grec était en crise. Les Perses étaient en train de corrompre les Grecs avec leurs richesses ; Sparte s’était rapprochée du roi perse Cyrus le Jeune pour profiter des subsides. Il est très probable que l’argent perse est parvenu de corrompre même les marins athéniens. Édouard Delebecque, dans son œuvre devenue référence, traite des événements politiques contemporains à la tragédie et met en évidence leur écho dans le corps de la pièce. Il soutient qu’Euripide avec son Iphigénie faisait appel à une union panhéllenique contre les barbares (Delebecque 1951 : 363-388). Roger Goossens partage lui aussi cette position et il précise :
+<blockquote class="spip">Le patriotisme panhellénique de l’<i>Iphigénie</i> ne se reflète pas seulement dans quelques vers allusifs. Il se dégage de l’œuvre entière. La guerre de Troie avait gardé le prestige de la seule expédition du passé (sans en excepter les guerres médiques) qui avait été entreprise par l’unanimité des peuples grecs. Le souvenir en était ravivé chaque fois qu’on espérait ou qu’on souhaitait refaire l’union des Grecs contre l’Asie (Goossens 1962 : 684).</blockquote>
+C’est dans ce cadre qu’Iphigénie d’Euripide, au moment de son sacrifice dit à sa mère : « Aux barbares il convient que les Grecs commandent, et non ma mère, les barbares aux Grecs ; ceux-là sont des esclaves, et nous des êtres libres » (Euripide [1983] : v. 1400-1).
+
+En ce qui concerne son attitude au moment de son sacrifice, le Messager raconte plus tard à Clytemnestre les dernières paroles de sa fille :
+<blockquote class="spip_poesie">
+<div>LE MESSAGER.– […] Elle vint se placer près de son père et lui dit : « Père, me voici. Je livre ma personne pour ma patrie et pour la terre de Grèce tout entière : sacrifiez-moi, j’y consens, menez-moi à l’autel de la déesse, puisque l’oracle l’exige. Autant qu’il dépend de moi, soyez heureux, obtenez la victoire pour vos armes et regagnez le sol de la patrie. » (v. 1400-1)</div></blockquote>
+Or, l’Iphigénie de Michel Azama ne voit pas son immolation de cette façon. Vers la fin du XXe siècle, Michel Azama<span class="spip_note_ref"> [1]</span> reprend l’épisode d’Iphigénie à Aulis, pour évoquer des causes contemporaines. La modernité de la tragédie lui permet de mettre le doigt sur des plaies de nos jours, de la guerre, de la mort de jeunes gens, de l’hypocrisie. L’auteur, dans l’introduction, nous fait part de ses préoccupations :
+<blockquote class="spip">Avec Iphigénie, cette armée qui attend de partir à la guerre, c’est une fois de plus toutes les épées de Damoclès suspendues au-dessus de la tête de l’humanité. Que ce vieux mythe soit toujours neuf, quelle lapalissade ! Envahir un pays – accomplir un génocide – exécuter la jeuneuse au son d’hymnes patriotiques… Les dieux eux-mêmes ne sont pas absents de nos guerres des étoiles : Dieu chrétien – Dieu juif – Dieu musulman (et si on nous dit que c’est le même, la dérision n’en est que plus grande) les dieux sont toujours là pour nous persuader de la fameuse “nécessité historique”.
+
+Ce n’est pas que rien n’ait changé, c’est que tout est devenu pire : chaque jour dans un lieu du monde moderne s’accomplit le sacrifice de milliers d’Iphigénie (Azama, 1991 : 7-8).</blockquote>
+Ces propos expriment une problématisation sur la pérennité des problèmes qui datent de l’Antiquité, et que le monde moderne, hautement civilisé, n’est pas encore parvenu à résoudre. C’est aussi une position politique claire, une position anti-guerre, qui relève le rideau de l’hypocrisie et attire l’attention sur le crime : la mort des jeunes pour des causes souvent suspectes ou ambivalentes dissimulées sous des hymnes patriotiques. La réécriture met en jeu tous les dieux. Cette fois, la demande de sacrifice n’est pas attribuée à Artémis seule, mais à l’assemblée tout entière des dieux (Azama 1991 : 11-16). Cette transformation englobe en fait une situation très contemporaine, où les guerres au nom de dieux différents aboutissent au même dénominateur commun : la mort des jeunes gens. Cette trouvaille constitue sans doute un écho de la position citée dans l’introduction, citée ci-dessus, concernant les dieux, l’implication des dieux dans les affaires militaires. Selon Carl Schmitt, l’évocation d’une cause religieuse comme objet de guerre est un prétexte qui couvre une cause purement politique (Schmitt 1992 : 66-75).
+
+Dans le texte d’Azama, Iphigénie aspire à la révolte : elle prépare sa fuite avec Achille. Achille lui aussi renonce à la grandeur et à la gloire que les champs de bataille pourraient lui accorder. Il ne veut que le bonheur d’une vie paisible. Son refus a évidemment des contrecoups politiques. Achille met tout en doute : les dieux, les lois, sa patrie. Ce qui est important pour lui, c’est son bonheur personnel avec Iphigénie.
+<blockquote class="spip_poesie">
+<div>ACHILLE.</div>
+<div>Non je refuse,</div>
+<div>Tu ne mourras pas Iphigénie.</div>
+<div>Je vomis les dieux, les lois, la Grèce toute entière.</div>
+<div>Nous aurons des enfants (Azama 1991 : 58).</div></blockquote>
+Sa position anti-guerre est accentuée un peu plus loin quant le Trembleur lui rappelle les gains de la guerre. Leur conversation est significative :
+<blockquote class="spip_poesie">
+<div>LE TREMBLEUR.</div>
+<div>Meurs à la guerre tu connaîtras la gloire immortelle.</div>
+<div>ACHILLE.</div>
+<div>Je la vomis. […]</div>
+<div>LE TREMBLEUR.</div>
+<div>Ton nom sera chanté dans tous les siècles.</div>
+<div>ACHILLE.</div>
+<div>Je vomis le futur que je ne connais pas. Où je ne serai pas. (Azama 1991 :59)</div></blockquote>
+Les deux jeunes gens décident de fuir. Leur projet est toutefois révélé<span class="spip_note_ref"> [2]</span>. L’armée réclame le sacrifice de la fillette. La lamentation pour Iphigénie prend une allure clairement politique :
+<blockquote class="spip_poesie">
+<div>IPHIGÉNIE.</div>
+<div>Je ne veux que vivre.</div>
+<div>CORYPHÉE.</div>
+<div>Plus grande est la foule, plus aveugle son cœur.</div>
+<div>[…]</div>
+<div>LE CHŒUR.</div>
+<div>Les dieux n’ont que faire de tes menaces.</div>
+<div>IPHIGÉNIE.</div>
+<div>Ton malheur est si haut que tu touches le ciel.</div>
+<div>Ce qui va survenir est la honte des dieux ( Azama 1991 : 62-63).</div></blockquote>
+Dans la dernière scène intitulée « les dernières paroles », où Iphigénie se lamente sur son sort inéluctable, sa voix prend soudain la force d’une révolte nette :
+<blockquote class="spip_poesie">
+<div>IPHIGÉNIE.</div>
+<div>Comme il serait beau le sang du bourreau</div>
+<div>Si l’homme se risquait à la révolte (Azama 1991 : 67)</div></blockquote>
+Elle dénonce par la suite les vrais motifs de sa mort, la cause futile et basse qui la conduit à la mort : la guerre. Avec elle, elle accuse aussi les dieux, emballage idéologique d’un acte atroce. Peu avant sa mort, contre laquelle, jusqu’au dernier moment, elle s’insurge, elle déchire encore une fois le voile de l’hypocrisie :
+<blockquote class="spip_poesie">
+<div>IPHIGÉNIE.</div>
+<div>Ne faites pas de moi</div>
+<div>Une statue enterrée pas les siècles.</div>
+<div>Faites de moi</div>
+<div>Ce que je suis :</div>
+<div>Morte pour la guerre pour le plaisir des dieux</div>
+<div>Morte pour rien</div>
+<div>Et ma vie fut bien plus et bien moins qu’une vie (Azama 1991 : 67)</div></blockquote>
+Iphigénie en mourant se lamente sur le peu de valeur que sa vie a pour les décideurs, brossés sous le masque théâtral des dieux et des personnages antiques. Ce thrène met en avant la valeur de la vie contre les buts politiques dont les guerres sont quelques fois les moyens. Elle regrette l’interruption brutale de sa vie et aucune idéologie, aucune haute destinée ne peut pas la réconforter. Ainsi cette réécriture du mythe donne la parole au faible, à l’être dont on réclame le sacrifice de sa vie, ou qu’on pousse à le faire. Or la guerre n’est pas la seule situation qui écrase les êtres faibles. La réécriture d’un mythe peut assumer plusieurs aspects, et jeter de la lumière sur le sort d’autres êtres également non privilégiés.
+<h3 class="spip">2. <i>Médée</i> et le sort des sans-lieu.</h3>
+Les réécritures de Médée au XXe siècle embrassent plusieurs causes sociales et politiques. Mais c’est la préoccupation sur les causes sociales qui semble prédominer. Florence Fix constate que « Ce mythe est éminemment politique ; lue de façon féministe ou anticolonialiste, anarchiste, Médée devient le modèle de la rébellion individuelle, refusant de se subordonner à un groupe ou à une idéologie » (Fix 2010 : 121). <i>Médée</i> de Max Rouquette<span class="spip_note_ref"> [3]</span> est une réécriture de la fin du XXe siècle. La version initiale de cette pièce a été écrite en occitan et publiée en 1989 aux éditions Fédérop-Jom ; la traduction en français voit le jour en 1992. Cette pièce revêt une cause sociale, celle des gitans. Florence Fix confirme cette fonction :
+<blockquote class="spip">Entrant toujours en étrangère dans une grande cité, Corinthe (figurée dans certains textes de la modernité par une mégapole comme New York), elle finit toujours par en dénoncer l’étroitesse, d’esprit comme de surface : l’envolée avec le char du soleil qui lui prêtent les textes antiques après l’infanticide n’est pas qu’un artifice spectaculaire voué à offrir une fin grandiose à un acte inédit, mais témoigne bien du fait que le personnage est hors normes, en dehors de l’humanité (Fix 2010 : 158).</blockquote>
+Les accents politiques sont évidents dans le discours que prononce Médée en voyant Créon qui approche de sa tente :
+<blockquote class="spip_poesie">
+<div>MÉDÉE.</div>
+<div>Voici le Roi, voici le Pouvoir, voici l’Épée, voici le Droit. Il pouvait, dans son Palais, inviter l’étrangère à venir lui pleurer aux chevilles. Quel honneur, Majesté de vous voir surgir d’un sentier de chèvres pour accéder à la masure, sans porte ni fenêtre, d’une gitane… Gitane sans doute, et cependant fille de Roi ! La maison vous est ouverte, Majesté comme au vent qui passe, comme à la pluie. Vous devez le savoir, c’est la maison des étrangers, sans feu ni lieu, sans foi ni loi (Rouquette 2009 : 32).</div></blockquote>
+Dans ce passage, il est clair que la cause de Médée embrasse aussi tout être rejeté, tout étranger qui partage le sort de vivre privé de feu et de lieu. Une phrase de Jason qui va suivre, prouve cette impression suscitée par les paroles des Médée.
+<blockquote class="spip_poesie">
+<div>JASON.– Calme-toi, nous ne sommes ici et partout que des étrangers, et les étrangers ont pour devoir de s’incliner devant la loi du pays.</div>
+<div>MÉDÉE.– Étrangers ! Étrangers ! Nous le sommes pour toute la terre (Rouquette 2009 : 46-7).</div></blockquote>
+Il va de soi que les étrangers doivent respecter les lois du pays accueil, le texte met le doigt sur un sujet contemporain brûlant. Or, le syntagme les étrangers ont pour devoir de s’incliner transmet le poids de la cause logique du respect à la soumission obligatoire. S’incliner ne signifie pas respecter. Jason tente d’obtenir l’obéissance et la concession de Médée. Ce qui est normal. La demande cruelle de se séparer de ses enfants et partir ne pourrait pas devenir un sujet de débat ou de concession. C’est un ordre, devant lequel Médée doit s’incliner. Il s’agit ici donc d’un abus de pouvoir exercé sur un faible à qui on demande la soumission parce qu’il n’a pas de moyens de défense. Médée dans une phrase chargée de contenu politique, mais exprimée par une malédiction naïve – l’arme du faible – évoque les conséquences réelles sur la population de la non-intégration des étrangers exclus : « S’il n’y a plus de paix pour l’errante, livrée aux quatre vents, que le mal contamine aussi les autres et qu’il les emporte » (Rouquette 2009 : 60).
+
+Après les lamentations de Médée, le chœur revient sur le sujet des devoirs de l’humble :
+<blockquote class="spip_poesie">
+<div>LA MÈRE. La patience est de l’or dans les mains du pauvre.</div>
+<div>CHŒUR 1. Il faut être humble et courbé de respect.</div>
+<div>CHŒUR 2. Soyons humbles et courbés de respect.</div>
+<div>CHŒUR 1. Nous en aurons paix et contentement.</div>
+<div>CHŒUR 2. Que peut le pauvre dans le malheur ?</div>
+<div>CHŒUR 1. Il doit plier comme jonc dans le vent.</div>
+<div>CHŒUR 2. Quand le ciel a choisi, comment ne pas s’incliner ?</div>
+<div>CHŒUR 1. La patience, c’est de l’or dans la main du pauvre.</div>
+<div>CHŒUR 2. Quand il serre le poing cela l’empêche de saigner (Rouquette 2009 : 62).</div></blockquote>
+Cette scène du chœur est remplie d’une idéologie qui embrasse tous les humbles. C’est la voix du maître, du privilégié qui veut que tout ce qui lui est inférieur lui soit soumis. Le discours est parsemé de syntagmes qui renvoient à l’idéologie de la religion chrétienne. La patience, l’humble, le ciel, le pauvre, et en plus une résignation sur sa condition, sur son destin. Médée se place à l’antipode de cette attitude. Elle, elle se révolte. Elle refuse l’obéissance, l’humiliation. Elle dira à Créon : « Tout Roi que vous soyez, je suis fille de Roi : Je crache à la face des Rois. Médée je suis » (Rouquette 2009 : 33). Sa fierté, son refus d’accepter l’humilité de son sort l’amènent au crime. Son acte la place hors du droit établi, dont elle conteste l’autorité et auquel elle refuse d’obéir. Or Créon impose son autorité par la contrainte. En effet, l’expulsion de Médée et la privation de ses enfants, n’est pas basée sur une loi mais sur la décision de Créon. De plus, il s’agit d’une décision dictée par ses intérêts familiaux. Cette décision ne relève d’aucun droit, positif ou naturel. Au contraire, elle va tout à fait à l’encontre du droit naturel quand elle ordonne à une mère, qui n’a transgressé aucune loi, d’être séparée de ses enfants. Créon et Jason ont transgressé la loi naturelle de la famille. Imposer leur décision à Médée ne relève pas de la sphère du droit, elle constitue une violence. La violence remplace la raison et les règles morales. L’acte de Créon est autoritaire et non loyal, il va à l’encontre du droit naturel. La réaction violente, de Médée se situe aux antipodes de cette transgression de la loi naturelle et de la raison. À la transgression de Créon et de Jason, à leur réfutation de sa qualité de mère, Médée répond elle aussi par une transgression du droit naturel. À leur violence, la mort au figuré des enfants pour leur mère, elle répond par la mort physique de ces derniers. Son acte reflète le leur : la réfutation du mariage et de la maternité.
+
+Dans la <i>Médée</i> de Max Rouquette, le destinataire, par le biais du sort archétypique de Médée, considère la cause d’une catégorie de la population très spécifique par son genre de vie errante, celle de gitans. La réécriture jette de la lumière sur les conditions de vie d’un peuple errant, qui évoquent éventuellement celles de la Médée mythique. Ainsi s’établit un pont entre le monde antique et le monde moderne. La cause des gitans est mise en avant ; leur sort est vu sous un autre jour apte à susciter de l’intérêt pour leur cause et à les revêtir d’une allure capable de leur rendre la dignité niée par leurs conditions de vie et la déprécation sociale. À côté toutefois de l’affaire des gitans considérés comme étrangers, le texte traite de la condition des étrangers. L’accent est mis sur leur cause et focalise le peu de droits et de moyens de se défendre. Il appelle d’une part à réfléchir sur le sort de ceux dont la vie est dure et d’autre part à repenser la force exercée par le pouvoir à leur égard.
+
+Avant qu’elle ne prenne la décision de tuer ses enfants, Médée se présente comme déchirée par son conflit intérieur et l’affliction qu’il lui cause<span class="spip_note_ref"> [4]</span>. Elle arrache un couteau, tandis que sa vieille servante la conjure de le jeter. Médée lui répond :
+<blockquote class="spip_poesie">
+<div>[...] Je voudrais le jeter dans un puits, au fond de cent pieds d’eau noire. Ne plus le voir. Quand les voir me perce le cœur, à songer que je suis ainsi. Mais rien n’empêche qu’il leur suffit de paraître pour que mes doigts, lente araignée, vers la ceinture, cherchent à tâtons le contact froid du fer. (Rouquette 2009 : 73).</div></blockquote>
+Dans le même flux du désespoir, elle gémit sur la perte de ses enfants :
+<blockquote class="spip_poesie">
+<div>Que deviendrai-je ? Crève-moi les yeux, je ne serai pas plus séparée du monde. Encore pourrai-je les toucher. Suivre des doigts le profil de leur face. Mais, en vérité, on me les arrache. Que toucheront mes mains, à tâtons dans la nuit ? Le vent, les vents sans face et sans mémoire ? Ombre entre les ombres, déjà non ! Je ne suis pas une brebis… (Rouquette 2009 : 74)</div></blockquote>
+L’énoncé exprime une souffrance sans terme. Il se clôt cependant sur une phrase qui met en jeu un élément supplémentaire : la rage provoquée par l’excès du chagrin. Médée affirme « Tant mes doigts serreront le fer, entier restera mon pouvoir » (74), pour continuer son lamentation qui expose tous les paramètres de sa situation malheureuse :
+<blockquote class="spip_poesie">
+<div>Maintenant Jason, tu as gagné : Médée s’évanouit dans le désert : tu as la fille et tu as les enfants. Et moi, sans rien dire, je cheminerai, pas après pas, de pays en pays, qu’il vente ou qu’il pleuve, sans trêve, pauvresse devant ta porte, gitane abandonnée à la rage des chiens, aux jets de pierres des enfants (Rouquette 2009 : 75).</div></blockquote>
+Comme il est évident par l’énoncé ci-dessus, dans cette tragédie le deuil de Médée revêt des problèmes sociaux et politiques contemporains, les conditions de vie et d’accueil des gens du voyage, des immigrés, des étrangers.
+
+La réélaboration du contenu mythique s’avère très efficace pour traiter des problèmes contemporains. Comme cela a toujours été le cas, le masque théâtral des personnages éloignés dans le temps permet une mise à distance par rapport à l’événement brûlant de l’actualité. Cette distanciation permet une meilleure prise de conscience des éléments qui composent le problème. La représentation peut sensibiliser à une cause, car elle est capable de jeter de la lumière sur la condition de <i>l’autre</i>. La mise en parallèle des personnages mythiques glorieux par leur résistance dans le temps et ceux de nos jours, considérés faibles ou inférieurs permet la mise en valeur de ces derniers et donc éventuellement une meilleure considération de leurs problèmes. Le deuil des personnages théâtraux, et leur souffrance qui provoque le fameux élément de la catharsis – la pitié – chez le destinateur, véhiculent aussi des causes sociales et politiques contemporaines, qui sont traitées de façon efficace sur scène, grâce à la distance créée par le masque théâtral du mythe.
+
+----
+
+references: 
+- <div class="crayon article-texte-59 texte surlignable clearfix">
+<ul>
+ 	<li>AZAMA, Michel, <i>Iphigénie ou le péché de dieux</i>, Paris, Éditions Théâtrales, 1991.</li>
+ 	<li>BARTHES, Roland, <i>Sur Racine</i>, Paris, Seuil, 1963.</li>
+ 	<li>CASTORIADIS, Cornelius, <i>Ce qui fait la Grèce, t. 1, D’Homère à Héraclite</i>, Paris, Seuil, 2004.</li>
+ 	<li>DELEBECQUE, Édouard, <i>Euripide et la guerre du Péloponnèse</i>, Paris, Klincksieck, 1951.</li>
+ 	<li>DURAND, Gilbert, « Pérennité, Dérivations et Usure du Mythe », dans <i>Problèmes du mythe et de son interprétation, Actes du colloque de Chantilly, (24-25 avril 1976)</i>, Paris, Les Belles Lettres, 1978.</li>
+ 	<li>EURIPIDE, <i>Iphigénie à Aulis</i>, dans <i>Euripide t.7.1</i>, texte établi et traduit par François Jouan, Paris, Les Belles Lettres, 1983.</li>
+ 	<li>___, <i>Les Troyennes</i>, texte établi et traduit par Louis Parmentier, Paris, Les Belles Lettres, 1959.</li>
+ 	<li>FIX, Florence, <i>Médée, l’altérite consentie</i>, Clermont-Ferrand, Presses Universitaires Blaise Pascal, (Mythographies et sociétés), 2010.</li>
+ 	<li>GOOSSENS, Roger, <i>Euripide et Athènes</i>, Bruxelles, Palais des Académies, 1962.</li>
+ 	<li>LORAUX, Nicole, <i>La voix endeuillée. Essai sur la tragédie grecque</i>, Paris, Gallimard, 1999.</li>
+ 	<li>ROUQUETTE, Max, <i>Médée</i>, Paris, Espaces 34, 2009 [1992].</li>
+ 	<li>SCHMITT, Carl, <i>La notion du politique, Théorie du partisan</i>, traduit de l’allemand par Marie-Louise STEINHAUSER, Paris, Flammarion, 1992, [1963].</li>
+ 	<li>SOPHOCLE, <i>Antigone</i> dans <i>Sophocle t.1</i>, texte établi par Alphonse Dain et traduit par Paul Mazon, Paris, Les Belles Lettres, 1955.</li>
+</ul>
+</div>
+<div class="notes">
+
+<hr />
+
+<div id="nb1">
+
+<span class="spip_note_ref">[1] </span>Michel Azama est un dramaturge contemporain, professeur de lettres et professeur d’art dramatique, inspecteur d’Académie et conseiller littéraire auprès du Centre national des écritures du spectacle.
+
+</div>
+<div id="nb2">
+
+<span class="spip_note_ref">[2] </span>On reconnait dans cette trouvaille de l’escapade montée par Achille pour sauver Iphigénie, les échos de la tragédie homonyme de Racine.
+
+</div>
+<div id="nb3">
+
+<span class="spip_note_ref">[3] </span>Max Rouquette est un dramaturge contemporain. Sur sa biographie et bibliographie on peut consulter son site officiel : http://www.max-rouquette.org/biographie
+
+</div>
+<div id="nb4">
+
+<span class="spip_note_ref">[4] </span>Cette situation est largement développée dans la tragédie, elle occupe plus de six pages, de p.72 à p.78.
+
+</div>
+</div>
+
+----
+
+number: 13
+
+----
+

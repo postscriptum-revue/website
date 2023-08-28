@@ -1,0 +1,53 @@
+title: [27-06] <i>Shuni</i>, de Naomi Fontaine
+
+----
+
+subtitle:  Mots d’une humaine à une autre
+
+----
+
+author: Emilie Sarah CARAVECCHIA
+
+----
+
+affiliation: Université de Montréal, enseignante au Cégep Montmorency
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: <strong>Ouvrage recensé :</strong>
+<p style="text-align: left;"><strong>Naomi Fontaine, <em>Shuni – Ce que tu dois savoir, Julie</em>, Montréal, Mémoire d’encrier, 2019, 159 p.</strong></p>
+Une lettre pour son amie, longtemps murie, – fragments de réflexion – coule au fil des pages de <em>Shuni </em>de Naomi Fontaine. Shuni, c’est Julie, mais elle sera rebaptisée parce que « [les] sons J et L seront imprononçables pour [les grands-parents à Uashat,] […] [ces sons] n’existent pas [en innu]. » (Fontaine, 2019 : 39) Alors, les Anciens l’innuiseront quand elle arrivera – reviendra – comme missionnaire dans la réserve qui l’a vue grandir – elle, l’enfant blanc de l’Ouest canadien, l’amie d’enfance de Naomi. Ce nouveau nom sera une marque d’affection, un respect, une adoption.
+
+<em>Shuni</em>, tout premier essai de Naomi Fontaine, s’inscrit sciemment dans la filiation littéraire de <em>Je suis une maudite sauvagesse</em> d’An Antane Kapesh. À la crainte de son aïeule, quant à la survie de la culture innue devant la colonisation déshumanisante et l’assimilation éhontée, Fontaine répond par l’espoir humain, par l’appel à la fraternité, par le sentiment de bienveillance d’une amie pour l’autre, par un passage des connaissances, des savoirs entre les communautés autochtones et occidentales.
+
+Organisées en sections, sous l’égide de courtes citations d’autrices et d’auteurs autochtones du Canada, les pièces de réflexion de Fontaine s’orchestrent dans l’intention d’assembler le portrait des douleurs colonisatrices, mais « [s]ans conseil et sans reproche » (<em>Ibid. </em>: 11). L’intention est d’amener l’Autre – Julie, celleux qui lisent – à comprendre, à s’ouvrir et surtout à déconstruire les préjugés. Fontaine rappelle ainsi que c’est la colonisation et l’assimilation qui ont détruit la liberté intrinsèque des Innus, que cette même colonisation est responsable des portraits en statistiques déshumanisantes. Les Innus ne peuvent pas – ne doivent pas – être réduits à ces listes de chiffres et de pourcentages. Leur culture est fière, elle se nomme, leur identité s’affirme, elle s’inscrit dans le territoire et se nomme dans « une langue ancienne […] celle de la forêt » (<em>Ibid. </em>: 27). Ce faisant, elle appelle à un rééquilibre des savoirs et souligne l’importance de la persistance du passé de la circularité de l’héritage, de la culture et des traditions. Elle reproche l’uniformité des images misérabilistes des peuples autochtones véhiculées dans la société comme s’il s’agissait d’une fatalité, alors que chez les Premiers Peuples, ce concept de finitude linéaire occidentale n’existe pas. « La vie est un cercle » que Fontaine répète tout au long de son texte. Tout est un fil continu, la possibilité de reprendre là où l’histoire a été laissée existe. La liberté de se (re)posséder se trouve dans la résistance des Ancêtres selon elle, mais aussi, et surtout, dans l’amour des autres, de soi, dans la compréhension mutuelle. Cela dit, pour se faire, il faut reconnaitre l’essence de ce qu’est « l’indiannité ». Cette « indiannité » portée à tous les jours par les personnes issues des Premières Nations avec le poids des préjugés qu’elle implique, cette « indiannité » qui ne permet pas d’être autre chose que « l’Indienne, l’Innue, l’Autochtone » (<em>Ibid. </em>: 110). Cette « indiannité » caricaturale et oppressante, Fontaine veut la déconstruire au profit d’une représentation plus réelle du vécu féminin propre aux Premières Nations car, oui, les conceptions du monde, de ce que c’est que d’être une femme, sont différentes. Reste que pour le savoir, il faut laisser les voix autochtones parler pour elle-même. Il faut savoir les écouter pour leur guérison, pour leur affirmation identitaire. C’est dans cette idée du partage des cultures et de leurs savoirs que Fontaine amorce la fin de sa lettre à Julie.
+
+Je dois vous avouer maintenant que je vous ai menti : toutes les mises en exergues des sections ne sont pas celles d’écrivaines et d’écrivains autochtones. La dernière section s’amorce par une mise en exergue d’un texte de Félix Leclerc sur la nécessité de se battre, que la vie, c’est de se battre. Fontaine conclue en évoquant le caractère universel de la souffrance des peuples opprimés de par le monde. Qu’il n’y a pas de monopole de la souffrance. Que pour être capable de la reconnaitre chez l’Autre, il est nécessaire de reconnaitre son humanité, à lui l’Autre. Qu’en somme « il n’y a que l’humain qui pourra être. L’Innu<a href="#_ftn1" name="_ftnref1">[1]</a>. » (<em>Ibid. </em>:149)
+
+----
+
+references: 
+- <ul>
+ 	<li>FONTAINE, Naomi, <em>Shuni – Ce que tu dois savoir Julie</em>, Montréal, Mémoire d’encrier, 2019, 158 p.</li>
+ 	<li>KAPESH, An Antane, <em>Je suis une maudite sauvagesse. Eukuan nin matshi-manitu innushkueu</em>, Montréal, Mémoire d’encrier, 2019 [1975], 212 p.</li>
+</ul>
+
+<hr />
+
+<h3>Notes</h3>
+<a href="#_ftnref1" name="_ftn1">[1]</a> En français, « innu » se traduit par « humain ».
+
+----
+
+number: 6
+
+----
+

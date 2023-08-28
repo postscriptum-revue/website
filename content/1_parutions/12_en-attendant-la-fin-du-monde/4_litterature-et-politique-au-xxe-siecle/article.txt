@@ -1,0 +1,43 @@
+title: [12-04]  Littérature et politique au XXe siècle
+
+----
+
+subtitle: À l’aune de la catastrophe totalitaire
+
+----
+
+author: Frédérik DETUE
+
+----
+
+affiliation: Université Paris 8
+
+----
+
+abstract_fr: 
+
+----
+
+abstract_en: 
+
+----
+
+text: <div class="texteItem">
+<div class="crayon article-texte-146 texte surlignable clearfix">
+<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid323119" src="//www.youtube.com/embed/Jul5BPuBHQA" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br class="autobr" /> <i>Discussion</i>
+<div class="fluid-width-video-wrapper" style="padding-top: .25%;"><iframe id="fitvid32924" src="//www.youtube.com/embed/C6rOlltFAus" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</div>
+
+----
+
+references: 
+- 
+
+----
+
+number: 4
+
+----
+
