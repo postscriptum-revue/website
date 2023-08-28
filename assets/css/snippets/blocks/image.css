@@ -1,0 +1,19 @@
+.image-block {
+	margin-top: 1rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.image-block + * {
+	margin-top: 1rem;
+}
+
+.image-block__caption {
+	font-size: var(--font-size-small);
+	margin-top: 0.5rem;
+	text-align: center;
+}
+
+.image-block__image {
+	line-height: 0;
+}

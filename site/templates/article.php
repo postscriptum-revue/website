@@ -18,7 +18,7 @@
 <?php slot("main") ?>
 <section class="text-section">
 	<hgroup class="text-section__hgroup">
-		<ul>
+		<ul class="text-section__hgroup-authors">
 			<?php foreach ($page->authors()->toStructure() as $author) : ?>
 				<li><?= $author->name() ?></li>
 			<?php endforeach ?>

@@ -1,3 +1,9 @@
+<?php
+
+$color = $issue_color ??  $page->color();
+
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -17,7 +23,7 @@
 	</title>
 </head>
 
-<body <?php if ($page->template() == "issue") : ?> style="--issue-color: <?= $page->color() ?>" <?php endif ?>>
+<body style="--issue-color: <?= $color ?>">
 	<aside class="site-aside">
 		<div class="site-aside__content-wrapper">
 			<?= $slots->aside() ?>

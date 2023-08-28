@@ -84,7 +84,7 @@
 
 .latest-issues__issue-card {
 	margin: 3rem 2rem 0 2rem;
-	padding: 1.5rem 2rem;
+	padding: 1.25rem 2rem;
 	background-color: white;
 	text-align: center;
 	position: relative;
@@ -113,4 +113,13 @@
 .latest-issues__issue-card-number {
 	font-size: var(--font-size-large);
 	font-family: "Mercure Transcript";
+}
+
+.latest-issues__issue-hgroup {
+	text-align: center;
+	margin-top: 0.5rem;
+}
+
+.latest-issues__issue-date {
+	font-size: var(--font-size-small);
 }
