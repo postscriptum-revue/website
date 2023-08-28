@@ -14,6 +14,6 @@ columns:
                 label: Parutions
                 layout: cards
                 template: issue
-                info: "Nº{{ page.num }} — {{ page.date.toDate('LLLL Y') }}"
+                info: "Nº{{ page.num }} — {{ page.date }}"
                 image:
                     cover: true
