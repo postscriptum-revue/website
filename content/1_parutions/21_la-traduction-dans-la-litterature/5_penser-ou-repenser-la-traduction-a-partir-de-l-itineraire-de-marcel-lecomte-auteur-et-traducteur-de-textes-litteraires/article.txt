@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La présente étude contrastive traite de la traduction d’une même œuvre de Kafka réalisée à la même époque par deux traducteurs écrivains : Marcel Lecomte d’une part, Pierre Klossowski de l’autre. L’hypothèse est que la traduction est un acte d’écriture en soi. L’objectif est d’analyser les influences mutuelles, les différences et rapprochements entre les deux traductions et enfin, d’examiner le bien-fondé de certaines critiques de Groethuysen. La démarche méthodologique sera d’abord contextualisée et compte tenu des études déjà réalisées, visera à dégager les stratégies mises en œuvre dans ces deux traductions. La problématique de la re-traduction sera ensuite évoquée pour conclure par le constat que la traduction amène une autre lecture, une autre pensée, une ré-écriture. C’est une évidence qui nous amène à poursuivre notre étude à peine entamée, à l’élargir à la traduction poétique, toujours dans une optique comparatiste et traductologique.</p>
 
-
 ----
 
 abstract_en: <p>This contrastive study deals with the translation of the same text written by Kafka published at the same time by two translators and writers: Marcel Lecomte and Pierre Klossowski. Our starting assumption is that translating is writing. The aim is to analyze the mutual influences, differences and similarities in both translations and finally, to examine whether Groethuysen’s criticism is well-founded. The methodological approach will first be contextualized and based on previous research studies, it aims at identifying the strategies used in the two translations. The issue of re-translation will then be referred to in order to conclude that the translation takes us to a different reading, to re-writing. It goes without saying that this encourages us to continue a research work that has just started and to extend it from a comparative perspective in the field of translation studies.</p>
-
 
 ----
 
@@ -113,7 +111,6 @@ p 159 Le texte dit : meist sieht man <u>nur …</u></p>
 <p>Au final, dans <em>À l’insu de Babel</em>, Georges-Arthur Goldschmidt (2014) a cette formule imagée qui cristallise de manière exemplaire cette idée : « Deux langues sont aussi semblables que deux visages et diffèrent tout autant l’une de l’autre ».</p>
 <p>La question de l’écriture préoccupe le traducteur littéraire, l’acte de traduire en tant que réécriture est un travail littéraire créatif. « Le traducteur est un auteur » et nous pourrions nous arrêter là, mais nous pouvons aussi nous demander comment les choses s&rsquo;articulent dans le texte transformé, ce que le traducteur en a fait et non ce qu’il était. Notre étude n’étant pas encore complètement achevée, nous allons poursuivre notre réflexion sur ces retraductions, et étendre notre analyse à d’autres textes traduits par Lecomte, dont un poème de Kafka. À l’évidence, le terme retraduction comprend deux éléments, re- et traduction, donc si on retraduit…, ce n’est pas pour que les lecteurs puissent accéder à une traduction déjà disponible de l’œuvre étrangère, mais alors, pourquoi retraduire ? Les traductions de l’œuvre de Kafka se comptent par dizaines et révèlent leur succès incontestable, c’est à nous, traductologues d&rsquo;en approfondir les aspects qui ouvrent de nouvelles perspectives de recherches comparatistes.</p>
 <p><a href="#_ftnref2" name="_ftn2"></a></p>
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’interrogation du fonctionnement textuel à partir duquel le texte apocalyptique peut s’ériger en objet littéraire révèle qu’il dessine, lors de sa réception, les contours langagiers d’un pacte scripturaire et d’un horizon d’attente propres à la littérature biblique apocalyptique. Le régime rétrospectif de la structuration narrative et les catégories actantielles monstrueuses, vampiriques, démoniaques, humanoïdes et phénoménales qui s’y meuvent construisent discursivement la scénographie de la fictionnalité fantastique. Mais cet art verbal de l’étrange qu’affiche le texte johannique ne vaut que par sa visée perlocutoire. Il s’agit, pour l’auteur, de construire, à partir de postures énonciatives et de procédés narratifs spécifiques, la conviction des destinataires en une humanité menacée de disparition par la volonté divine vindicative et en la peur qu’ils devraient éprouver.</p>
 
-
 ----
 
 abstract_en: <p>The interrogation of textual workings from which the apocalyptic text can be wrought as a literary object shows that it draws, during its reception, the linguistic contours of a scriptural pact and of a horizon of expectation that originate in biblical apocalyptic literature. The retrospective regime of the narrative structure and the monstrous, vampiric, demonic, humanoid and phenomenal actants that move within it build discursively the scene of fantastic fictionality. But the verbal art of the strange that is exhibited in the Johannic text finds its worth only in its perlocutionary aims. It consists in an act, by the author, to build, with enunciative postures and specific narrative processes, upon the conviction held by the receivers in a humanity threatened to disappear by a vindictive divine will, and to aggravate the fear that should be brought about by this threat.</p>
-
 
 ----
 
@@ -181,7 +179,6 @@ l’Agneau (19 v. 9).
 <p>L’apocalypse, du point de vue de la pragmatique discursive, constitue un immense acte de langage volitif soumis à une formulation superlative. Son enjeu : capter l’attention du récepteur sur les événements à venir tout en révélant comment il pourrait s’en prémunir. Elle s’inscrit dans un projet de préservation de l’éthique et de l’identité chrétiennes face au pouvoir coercitif romain et aux séductions de la civilisation romaine matérielle et orgiastique. Elle exprime la résistance juive à l’acculturation induite par l’« hellénisation » et la « romanisation » progressives de la société juive (Vidal-Naquet 1981 : 63-64 cité par Schmidt 1982 : 14, 17). C’est, à la fois, une œuvre littéraire de son temps et une œuvre littéraire avant-gardiste, productrice de renouveau. On y retrouve, en effet, la culture lettrée d’une époque où les canons littéraires apocalyptiques de la tradition juive post-exilique, bien que n’étant pas théoriquement formalisés, existaient comme praxis spécifiques et spécifiées par des prophètes visionnaires exiliques. L’apocalypse préfigure aussi toute la littérature fantastique médiévale occidentale dont les réminiscences baignent les films d’horreur hollywoodiens.</p>
 <p>La portée perlocutoire pathémique de la menace eschatologique se vérifie encore aujourd’hui, près de deux mille ans après, par l’audience que le récit apocalyptique continue d’avoir dans le monde. En effet, depuis que le christianisme est devenu une religion mondiale, la base des destinataires de l’apocalypse s’est considérablement élargie. Et d’autant plus que le récit a bénéficié, de siècle en siècle, d’interprétations neuves et éclairantes adaptées aux réalités du moment : l’histoire toujours renouvelée des rapports conflictuels entre le Bien et le Mal, emblématisés, à chaque époque, par des personnages différents. Cela est dû non seulement au statut de récit symbolique et de récit atemporel prophétique de l’apocalypse mais aussi au fait qu’elle se construit autour de préoccupations éternelles. En effet, le texte johannique reste empreint des questions philosophiques auxquelles l’homme n’a pas encore pu trouver de solution. La destiné de l’humanité reste une préoccupation constante parce que le Bien et le Mal continuent de se disputer le cœur de l’homme. Il en va de même du problème de la vie après la mort. Pendant longtemps encore, le souffle prophétique de l’apocalypse restera neuf. Pendant longtemps encore, elle suscitera, dans le cœur de l’homme, chrétien ou païen, la peur.</p>
 
-
 ----
 
 references: 
@@ -216,106 +213,45 @@ references:
  	<li>VION, Robert, « Modalisations, dialogisme et polyphonie », dans "Le sens et ses voix : Dialogisme et polyphonie en langue et en discours", <em>Recherches linguistiques</em> n° 28 sous la direction de Laurent Perrin, Université Paul Verlaine de Metz, 2006, pp. 105-125.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Il est établi que Jean, l’apôtre bien aimé de Jésus-Christ, est l’auteur du récit apocalyptique écrit sur l’île de Patmos pendant son séjour exilique.
 
-
-
-
 [2] Le texte apocalyptique est un récit des voix entendues par Jean. Il livre aussi les images perçues par lui dans le fond de la conscience ouverte sur le monde spirituelle.
-
-
-
 
 [3] Pour Georges Molinié dont la théorie sémiostylistique se situe dans le prolongement des théories de la réception, l’objet littéraire n’est fixé que lors de sa réception, après avoir satisfait à des conditions sémio-linguistiques (Cf. Molinié 1998 : 89-132).
 
-
-
-
 [4] La dimension argumentative est à différencier de la visée argumentative parce qu’elle concerne les textes (comme le texte littéraire) qui n’affichent pas intrinsèquement une entreprise de persuasion programmée et avouée (il s’agit bien plutôt d’ « <em>une</em> entreprise de persuasion indirecte et inavouée ») alors que la seconde est propre aux textes (discours politique, texte publicitaire, etc.) véhiculant une intention de persuader avec des stratégies programmées (Cf. Amossy 2008 : 2-4).
-
-
-
 
 [5] Ainsi souligné dans le texte de référence.
 
-
-
-
 [6] Selon la tradition kabbalistique hébraïque, les différents acteurs qui composent le récit apocalyptique se répartissent sur les différents séphiroth (branches) de l’Arbre de Vie et de l’Arbre de Mort. En leur appliquant les procédés de la combinatoire des lettres ou de la lecture numérologique (guématrite, notarikonne) – qui consistent à associer des nombres aux vingt-deux lettres hébraïques – l’herméneute kabbaliste chrétien peut déboucher sur une interprétation occulte des écrits bibliques qui lui permettra d’en avoir une approche plus éclairante.
-
-
-
 
 [7] Nous excluons les autres modalités du discours rapporté pour ne nous intéresser qu’au discours direct.
 
-
-
-
 [8] Sont exclues de ce décompte les paroles narrativisées ou présentées sous la forme du discours indirect.
-
-
-
 
 [9] L’isotopie désigne l’itération sémique le long d’une chaîne syntagmatique (propositionnelle ou textuelle) pour assurer la cohésion sémantique et l’homogénéité du discours énoncé (Cf. Bertrand 2000 : 117).
 
-
-
-
 [10] Elle est présentée, dans la forme, comme le compte rendu d’une vision destinée, tout simplement, à informer les hommes sur « ce qui doit arriver bientôt » (1 v. 1).
-
-
-
 
 [11] On le retrouve, en général, dans les lignes inaugurales des textes prophétiques comme ceux d’Isaïe, de Jérémie, d’Osée, d’Amos, d’Abdias, de Sophonie et de Malachie.
 
-
-
-
 [12] Par ce topos, le prophète décrit l’environnement qui a présidé à la vision. On le retrouve dans les textes bibliques déjà cités.
-
-
-
 
 [13] Dans la tradition juive, les prophètes se nomment au début de leur récit pour en préciser l’auteur (Cf. Isaïe 1 v. 1, Jérémie 1 v. 1-3, Ezéchiel 1v. 3, Daniel 8v. 1-2, Osée 1 v. 1, Amos 1 v. 1, Michée 1 v. 1, etc.).
 
-
-
-
 [14] Le mot « apocalypse », en hébreux, signifie « révélation ».
-
-
-
 
 [15] Mais si le message apocalyptique ne s’adressait qu’à ceux-là, les chrétiens, comme tendent à le faire croire (au premier degré) certains exégètes de la Bible, on comprend mal toute l’enflure verbale qui est attachée à l’évocation de la destruction accompagnant le retour du Christ et toutes les stratégies argumentatives (éthiques et pathétiques) que Jean met en œuvre pour les séduire. En réalité, l’apocalypse johannique n’est pas expressément une adresse aux chrétiens déjà sauvés mais bien plutôt un message d’effarouchement et d’intimidation adressé aux païens qui peuvent encore se convertir pour être sauvés et aux chrétiens à la foi chancelante qui sont susceptibles de capituler face à l’oppression et aux séductions du monde.
 
-
-
-
 [16] Les exégètes de l’apocalypse datent sa rédaction pendant le règne des rois romains Néron (54 à 68) et Dominitien (81 à 96).
-
-
-
 
 [17] Nous ne visons pas à l’exhaustivité.
 
-
-
-
 [18] Ces perspectives rétrospectives ne remettent, cependant, pas en cause la nature prédictive de l’énoncé apocalyptique indiquée dès le verset inaugural par la tournure finale « pour montrer à ses serviteurs ce qui doit arriver bientôt ». La scénographie "anamnestique" du révolu est donc celle du compte rendu narratif de la vision et non celle de la vision elle-même qui est, plutôt, de type prophétique.
 
-
-
-
 [19] Le pacte scripturaire, chez G. Molinié, renvoie à la mesure, par le marché de la lecture et par le récepteur obvie, des attentes littéraires satisfaites ou non par une œuvre considérée. Il peut être de satisfaction molle, dans le cadre d’une attente prévisible par rapport à la culture littéraire du lectorat, ou, au contraire, aboutir à une attente déceptive qui définit un contexte littéraire de renouveau scriptorial (Molinié 1993 : 47-87).
-
-
-
 
 ----
 

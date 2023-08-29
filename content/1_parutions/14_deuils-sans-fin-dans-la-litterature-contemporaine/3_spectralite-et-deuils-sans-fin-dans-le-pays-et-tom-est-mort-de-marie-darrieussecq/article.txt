@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Chez Marie Darrieussecq, la fiction se fait espace de réflexion et de déplacement des hantises et traumatismes face au décès de son frère. Ses œuvres sont profondément empreintes de perte et d’absence. Il n’est pas tant question d’un travail du deuil vécu comme réparation mais bien plutôt d’une possibilité de survivance au travers de manifestations spectrales introduisant un trouble des frontières entre vie et mort, présence et absence, qui donnent bien à voir une impossibilité de fin dans le deuil, impossibilité si fortement exposée dans les œuvres de Marie Darrieussecq. C’est dans cette optique que la spectralité et les deuils sans fin seront analysés dans les deux derniers romans en date de Marie Darrieussecq que sont Le Pays et Tom est mort.</p>
 
-
 ----
 
 abstract_en: <p>For Marie Darrieussecq fiction becomes a space for the thinking and displacement of fears and traumas in regards to her brother’s death. Her works are profoundly marked by loss and absence. It is not so much the question of mourning as reparation, but rather the possibility of survival through spectral manifestations that bring forth troubled boundaries between life and death, presence and absence, and that clearly show an impossible end to mourning omnipresent in Marie Darrieussecq’s works. It is from this perspective that spectrality and endless mourning will be analysed in the last two novels of Marie Darrieussecq, Le Pays and Tom est mort.</p>
-
 
 ----
 
@@ -62,7 +60,6 @@ the use of the fantastic in the guise of the <em>Maison des Morts</em> in <em>Le
 <p>Seule la mémoire de ceux ayant connu son fils lui assure une forme de survie : « Non que je croie qu’il soit quelque part ; sauf dans ma tête, celle de Stuart et des enfants, et de nos parents. Un foyer de survivance, qui nous déborde, qui nous dépasse. Il surgit, et je pense à lui. Il n’est nulle part, il surgit. Je le vois. Je lève doucement la main, et je caresse l’air » (Darrieussecq 2007 : 79), explique-t-elle. Cette idée de survivance énoncée par la mère rejoint ainsi bien celle de Derrida selon laquelle « la vie <em>est</em> survie. Survivre au sens courant veut dire continuer à vivre, mais aussi vivre <em>après</em> la mort » (Derrida 2005 : 26). La mère de Tom doit en effet continuer à vivre, vivre après la mort, mais aussi vivre <em>avec</em> elle.</p>
 <p>Les deux narratrices de <em>Le Pays</em> et <em>Tom est mort</em> ont finalement recours à l’écriture, qui tente de nommer, de se faire trace du frère / fils décédé. Leurs écritures sont des écritures (fictionnelles) de la perte permettant de penser le deuil, un deuil se lisant également à un niveau autobiographique dans toute l’œuvre de Marie Darrieussecq.</p>
 
-
 ----
 
 references: 
@@ -98,36 +95,17 @@ references:
  	<li>SPIRE, Antoine, « Autrui est secret parce qu’il est autre » (entretien avec Jacques Derrida), <em>Le Monde de l’éducation</em>, juillet-août 2001, <a href="http://www.lemonde.fr/mde/ete2001/derrida.html" rel="nofollow external">http://www.lemonde.fr/mde/ete2001/derrida.html</a> [consulté 26-10-2010]</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Voir aussi Didier Dumas dans <em>L’Ange et le Fantôme</em>, qui établit un rapport entre le manque de représentation d’un traumatisme dû à un défaut de parole à la figure du fantôme.
 
-
-
-
 [2] Nous respectons ici la typographie du texte : le texte alterne entre des passages à la première personne en caractères romains et des passages à la troisième personne en caractères gras.
-
-
-
 
 [3] Voir Guillemette Faure, « Qu’est-ce qui arrive aux comptes Facebook après la mort ? ». On pensera aussi par exemple à l’utilisation d’Internet à visée commémorative pour les soldats des forces britanniques morts en Afghanistan sur le site Internet de <em>Sky News</em>.
 
-
-
-
 [4] On peut en effet considérer l’attitude de la mère dans la perspective du mélancolique, tel que le résume Judith Butler dans <em>Gender Trouble – Feminism and the Subversion of Identity</em> : « The melancholic refuses the loss of the object, and internalization becomes a strategy of magically resuscitating the lost object, not only because the loss is painful, but because the ambivalence felt toward the object requires that the object be retained until differences are settled. » (Butler 2007 : 83-84). Voir aussi Sigmund Freud,<em> Deuil et mélancolie</em> ; Mélanie Klein, <em>Deuil et dépression</em> et Julia Kristeva, <em>Soleil noir – Dépression et mélancolie</em>.
 
-
-
-
 [5] Voir l’entretien d’Anne Berger avec Jacques Derrida intitulé « Dialangues » dans Élisabeth Weber (éd), <em>Points de suspension – Entretiens avec Jacques Derrida</em>.
-
-
-
 
 ----
 

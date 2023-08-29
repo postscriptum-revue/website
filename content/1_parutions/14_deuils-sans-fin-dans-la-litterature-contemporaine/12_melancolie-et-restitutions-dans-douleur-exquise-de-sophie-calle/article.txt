@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La mélancolie amoureuse consiste en l’ajournement du deuil d’une relation perdue. Cet état psychologique est caractérisé par le ressassement douloureux de la perte et l’accablement narcissique du sujet en auto-reproches. La mélancolie s’exprime dans Douleur exquise de Sophie Calle à travers l’exercice d’un rituel purgatif où se conditionnent mutuellement goût et dégoût de la souffrance et de la représentation de celle-ci. Le deuil de l’amour perdu paraît dès lors concomitant du deuil de sa mise en scène ruinée. Cet article offre une analyse de Douleur exquise permettant de penser le rôle de la représentation dans l’accomplissement du deuil. Il est intéressant de penser le procès de détachement nécessaire au deuil comme dépendant d’un désinvestissement émotif du langage-même. J’utiliserai le concept de restitution, entendu à la fois comme expulsion d’un corps étranger et comme recomposition, pour rendre compte du double mouvement structurant ce rituel thérapeutique.</p>
 
-
 ----
 
 abstract_en: <p>The lover’s melancholy consists in the postponement of the mourning of a lost love relationship. This psychological state induces the painful reiteration of the loss and a narcissistic self-depreciating discourse. Melancholy is expressed in Douleur exquise by Sophie Calle through a purgative ritual. In this ritual, suffering and its representation are pretexts for manifestations of both pleasure and disgust. Mourning the lost lover involves mourning the failed staging of the love relationship. This article offers an analysis of Douleur exquise that allows to think the role of representation in the process of mourning. It is interesting to consider the detachment necessary to mourning as dependent of an emotive detachement of language itself. I will use the concept of restitution, understood both as an expulsion of a foreign body and as a recomposition, to comprehend the oscillating movement struturing this therapeutic ritual.</p>
-
 
 ----
 
@@ -71,7 +69,6 @@ text: <blockquote>
 <p><em>Douleur exquise</em> est une œuvre qui joue d’ironie, modérément au début, puis lourdement à la fin. L’humour devient caustique et témoigne du processus de désaffection qui module l’œuvre. Cette désaffection passe par la violence, envers Sophie et envers le récit, mais aussi envers le lecteur. Celui-ci s’engourdit au contact de la douleur assenée répétitivement en coups réguliers. Il se désinvestit émotionnellement de l’œuvre au fur et à mesure que sa patience s’étiole. L’art devient thérapeutique, car il permet de <em>transsubstantialiser</em> la douleur et d’en faire un objet esthétique mis à distance. On transforme l’organique de la douleur en l’inorganique du livre d’artiste. La chair de malheur est rendue sur papier glacé auréolé d’un fini d’un rouge au lustre kitsch. En ce sens, Sophie déjoue le sort orphéique du langage en renonçant au réel regretté de la douleur. C’est-à-dire que l’irreprésentable de l’événement traumatique n’est pas idolâtré en silence, ni regretté comme une chose inestimable. Cet indicible est plutôt tourné en dérision.</p>
 <p>En restituant la scène compulsivement, Sophie parvient à reprendre contrôle du récit qui, entre les mains de M., a malencontreusement dérapé. Elle organise un simulacre compensatoire de la réalité. L’humour devient une arme contre la fatalité de ce qui détermine Sophie sans son consentement. Le sort est conjuré lorsque culmine le rire qui déréalise la souffrance. Le réel qui exporte Sophie hors d’elle-même l’exporte aussi dans un espace <em>ob-scène</em>. Devant le spectacle, Sophie s’esclaffe. La douleur est domptée lorsqu’elle est montrée en décalage complet avec sa scénique grotesque. Sophie surplombe le spectacle en le réécrivant. Elle le cache aussi en posant et en jouant de manière affectée la martyre. De là, les restitutions qui la purgent et la reconstruisent deviennent un manège. Sophie manigance contre le destin et vainc la mélancolie par le jeu, le rire, le mouvement, le vertige, la nausée et la rotation répétitive du manège dont elle contrôle les manivelles.</p>
 
-
 ----
 
 references: 
@@ -93,16 +90,9 @@ references:
  	<li>KRISTEVA, Julia, <em>Les Pouvoirs de l’horreur. Essai sur l’abjection</em>, Paris, Seuil, « Tel Quel » , 1980.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] Dans la scène évoquée, Sophie arrive à New Delhi pour retrouver son amant. Seule une note l’attend. On peut y lire que M. n’a pas pu se présenter dû à une visite impromptue à l’hôpital. Morte d’inquiétude, Sophie attend des heures près du téléphone avant d’apprendre que l’accident auquel cette note faisait référence était en vérité un panaris.
-
-
-
 
 ----
 

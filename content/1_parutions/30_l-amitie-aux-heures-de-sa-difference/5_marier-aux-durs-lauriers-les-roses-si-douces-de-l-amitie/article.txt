@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La dynamique des groupes littéraires, une fois fait le départ avec les opportunités et les rapprochements déterminés par la conquête du champ littéraire, peut être utilement pensée à partir de la notion d’amitié; de fait, les hasards biographiques déterminent les rencontres qui, dès lors que surgissent des affinités, constituent le catalyseur de l’histoire littéraire du point de vue collectif. Si dans le cas de certaines entités la proximité reste circonscrite au domaine de l’intime, certains groupes ont ostensiblement fait valoir ce principe cohésif de l’amitié dans l’image extérieure qu’ils entendaient façonner. C’est le cas des poètes fantaisistes du début du xxe siècle, dont la perception actuelle est tributaire de pratiques spécifiques tout autant que de l’articulation des destins individuels aux bouleversements socio-historiques de la Première Guerre mondiale. En effet, le groupe émerge au sein du champ littéraire dans les années 1912-1913 avant d’être amputé d’un certain nombre de ses membres pendant et après le conflit. Les prodromes de ce groupe et sa survie problématique ont contribué à présenter l’amitié comme centre de gravité : elle informe en effet une certaine légende dorée rendant compte de la constitution du groupe et s’incorpore au travail mémoriel qui se donne à voir dans les écrits après la guerre, qu’il s’agisse de production poétique ou bien de souvenirs littéraires. Si la notion d’amitié demeure bien entendu d’ordre biographique, quoique largement épistolaire, elle se matérialise surtout dans différentes pratiques textuelles : de la dédicace à l’emprunt ou à la réécriture, voire le pastiche, jusqu’au poème commémoratif à coloration funèbre, la camaraderie fantaisiste permet au groupe d’échapper à la nomenclature encore en vigueur à son époque dans l’appréhension du phénomène collectif, à savoir l’école littéraire. Elle lui permet de sortir du dogmatisme prosélyte pour replacer l’expérience littéraire dans sa trajectoire existentielle.</p>
 
-
 ----
 
 abstract_en: <p>The dynamics of literary groups may be thouroughly analyzed through the perspective of friendship, once the opportunities and alliances aroused by the occupation of a standing in the literary field are put aside. In fact, biographical coincidences and particular affinities function as catalysts for literary history, from a collective point of view. In a few cases, proximity remains strictly a matter of intimate circles, but in others, groups have claimed friendship as a cohesive principle structuring the image they intended to show. The fantaisist poets of the early XXth century are a good example of the latter : their current representation is to be attributed to their specific customs as well as to the conjunction of their individual trajectories and the socio-historical disruptions of the First World War. Indeed, the group first appears in 1912-1913 just before several members fall victim by the war and its aftermath. The beginnings of the group and its problematical existence introduced friendship as a pivotal point : representations of friendship retroactively shaped somewhat of a golden age providing the background to the formation of the collective and played a role in the mnemonic process of post-war writings such as poetry or literary memoirs. Friendship can be primarily restricted to interpersonal relationships and can be observed, among others, in correspondances, but it also achieves existence through different textual activities such as dedication, quotation, rewriting and pastiche or even eulogy. Fantaisist comradship is a way to elude stereotypical categories that affect the way phenomenons such as artist collectives used to be conceptualized, such as literary school. It is a mean to avoid dogmatism or proselytism and reinstate literary experience as an existential phenomenon.</p>
-
 
 ----
 
@@ -53,7 +51,6 @@ text: <p>Il semble demeurer un mystère, probablement entretenu à dessein, auto
 <p>C’est donc non seulement thématiquement, mais aussi stylistiquement que la communauté subsiste et que l’hommage redonne une actualité à l’amitié. Le lamento n’est plus à sens unique, mais un dialogue est refondé à partir d’une polyphonie qui restitue partiellement, comme en écho, la voix des défunts. Le poème funèbre devient presque un genre à part entière pour les fantaisistes : outre le texte emblématique de Carco, on peut mentionner un « In memoriam » pour Toulet par Vérane<a href="#_ftnref12" name="_ftn12">[12]</a>, et surtout un autre poème de Derème paru en revue peu de temps après la mort de Pellerin qui réunit les trois disparus en les associant à une géographie sentimentale qui abolit les distances physiques :</p>
 <blockquote><p>À Saint-Rambert, à Guéthary, À Pontcharra, Votre beau cœur endolori Se déchira, Comme à Paris, mais vous dressiez Ce ferme esprit Qui voit ses jours suppliciés Et qui sourit, Jean-Marc Bernard, Paul-Jean Toulet, Jean Pellerin, Et pour vous trois déjà sifflait Le dernier train. (Derème 1922b, 84)</p></blockquote>
 <p>Ces démarches coïncident partiellement avec celles que Laurence Campa a étudiées dans l’ouvrage qu’elle a consacré aux poètes de la Grande Guerre : ce qui transparaît, c’est moins la communauté des poètes tombés au champ d’honneur que l’incomparable spécificité d’êtres connus en tant qu’écrivains et chéris en tant qu’amis. Les pratiques funéraires en littérature permettent alors de mettre « l’accent sur la singularité du défunt et de son œuvre » (Campa 2010, 128)<a href="#_ftnref13" name="_ftn13">[13]</a>. En l’absence d’œuvre constituée et visible sur le plan éditorial, il revient également aux survivants de garantir une existence posthume à ceux qui n’ont pu s’accomplir pleinement dans le champ littéraire. C’est à cette aune que l’on prend la mesure du geste de Francis Carco qui se charge de la publication posthume de l’unique recueil poétique de Jean Pellerin, <em>Le Bouquet inutile</em> en 1923<a href="#_ftnref14" name="_ftn14">[14]</a>. L’investissement de Carco cimente la cohésion du groupe en ce sens qu’il complète symboliquement une fable dans laquelle l’ami souffre le deuil tout autant qu’il rassemble les <em>disjecta membra</em> pour constituer la postérité du défunt. En outre, c’est dans les années d’après-guerre que les fantaisistes connaissent une actualité éditoriale qui se traduit par la publication de recueils compilant des plaquettes antérieures : Derème, Carco, La Vaissière et Vérane publient respectivement <em>La Verdure dorée</em> (1922), une nouvelle édition de <em>La Bohème et mon cœur</em> (1922), <em>Labyrinthes</em> (1925) et <em>Le Promenoir des amis</em> (1925); les œuvres de Jean-Marc Bernard sont quant à elles recueillies par Henri Martineau et Henri Clouard dans deux volumes publiés en 1923. La publication du recueil de Pellerin s’inscrit donc dans une dynamique qui sanctionne l’activité collective et donne une existence au groupe en partie <em>post mortem</em>. Jusqu’à la mort de Carco lui-même en 1958 (Robert de la Vaissière meurt en 1937, Tristan Derème en 1941 et Léon Vérane en 1954), l’aventure fantaisiste est comme en animation suspendue tant qu’elle trouve des réflecteurs dans ses survivants. La puissance des liens d’amitié qui unirent les membres du groupe fantaisiste ne peuvent s’expliquer uniquement par la logique obsidionale du champ littéraire qui inviterait à un repli stratégique et une mentalité corporatiste. Ils s’amalgament à cette lutte sans s’y désagréger et Léon Vérane rappelait bien à Tristan Derème qu’il aimait à penser que « [leur] jeune gloire […] marie aux durs lauriers les roses si douces de l’amitié<a href="#_ftnref15" name="_ftn15">[15]</a> ». Les fantaisistes trouvèrent surtout un refuge dans cette forme de communauté en l’absence de doctrine à visée prosélyte et sous une forme qui ne laisse que peu de prise au discours manifestaire. Ainsi, ils promeuvent une expérience personnelle et intime qui singularise inévitablement la trajectoire littéraire qui est la leur. Ils s’emploient également à préserver une intégrité du groupe, en dépit des disparitions, dans un culte de la mémoire qui conjure la dissolution. Ces liens se matérialisent dans des pratiques scripturales qui donnent une place particulière au nom, à la fois comme matrice et comme reliquaire, au sein d’une lyrique qui interroge la postérité sur la validité profonde de l’aventure littéraire, non plus en tant que processus social au milieu d’autres, mais en tant qu’expérience pour ainsi dire ontologique. Ce n’est pas par hasard que Verlaine parlait de « cette maison de Socrate qu’on appelle l’amitié<a href="#_ftnref16" name="_ftn16">[16]</a> ».</p>
-
 
 ----
 
@@ -102,67 +99,35 @@ Vérane, Léon. <em>Le Livre des passe-temps</em>. Paris : Émile-Paul frères,
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Pour un récapitulatif succinct mais précis de la formation du groupe voir Décaudin 1982 : 8-10.</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Encore faut-il distinguer le groupe de la communauté, comme s’y emploie Vincent Kaufmann lorsqu’il affirme que les groupes « procèdent d’un esthétique communautaire passée dans la réalité, ou cherchant du moins à y passer, à devenir effective. Le moment ou le projet esthétique est ici premier. Il détermine la possibilité d’une pratique collective réelle qui peut très bien rester utopique, et qui le reste d’ailleurs souvent (Kaufmann 1997, 5). » Mais c’est, de l’aveu-même de Kaufmann, un trait essentiel des avant-gardes et l’on ne saurait classer les fantaisistes dans cette catégorie : plutôt conservateurs de tendances esthétiques et politiques et ainsi destinés à substituer à un idéal communautaire révolutionnaire une valeur traditionnelle qui place le groupe de l’autre côté du spectre idéologique.</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Dans un article commémoratif au moment du quatrième centenaire de la naissance de Ronsard, évoquant ce dernier et l’auteur des <em>Regrets</em>, Derème suggérera la possibilité de « longtemps disserter sur l’amitié de ces deux poètes et de l’amitié des poètes » (Derème 1924, 146).</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Ce n’est qu’assez tardivement que Paul-Jean Toulet, aîné isolé en province, sera promu figure tutélaire du groupe qui hésite quelque temps avec Paul Fort.</p>
-
 
 <p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> Le propos suivant du critique René Fernandat témoigne de la porosité entre représentation interne et figuration externe : « On dirait que Carco, Pellerin, Derème et Vérane ont juré de ne jamais se présenter aux regards littéraires sans que leurs quatre visages apparaissent en même temps, et une des surprises de la Fantaisie, qui est en principe, capricieuse et folle, aura été de montrer aux jeunes générations littéraires qu’elle est un lien invisible et sûr, un solide gardien de l’amitié. » (Fernandat 1933, 183-184)</p>
 
-
 <p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Rappelons que figurent en épigraphe de <em>La Muse au cabaret</em> deux citations de Jean Richepin et Maurice Bouchor, à qui Ponchon dédie le recueil, évoquant également la figure d’Omar Khayyam.</p>
-
 
 <p><a href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> La critique se fait d’ailleurs l’écho de cette représentation typique : « On se représente bien M. Léon Vérane dans quelque cabaret de la Pomme de Pin, vidant force pots en l’honneur d’une beauté facile et offrant ses brindes à une Muse prête à servir Bacchus aussi chaleureusement qu’Apollon. Autour de la même table Derême [<em>sic</em>], Carco, Muselli sont assis, animés par une gaieté un peu amère et, comme la figure de marbre chantée par Baudelaire, dissimulant sous un masque souriant une grimace crispée. » (Vaudoyer 1925, 492)</p>
 
-
 <p><a href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> Pour davantage d’éléments sur cette dynamique au sein du groupe fantaisiste, nous nous permettons de renvoyer à notre communication, « Les liaisons propices : le groupe des fantaisistes au prisme de sa correspondance », <em>Amitiés vives : littérature et amitié dans les correspondances d’écrivain.e.s</em>, colloque international organisé par Régine Battiston et Nikol Dziub, Université de Haute-Alsace, 19-20 novembre 2020 (à paraître dans la revue <em>Epistolaire</em>).</p>
-
 
 <p><a href="#sdfootnote9anc" name="sdfootnote9sym">[9]</a> On peut notamment citer <em>Les Champs magnétiques</em> (1920) de Breton et Soupault, <em>L’Immaculée Conception</em> (1930) d’Éluard et Breton, <em>Ralentir travaux</em> (1930) de Breton, Éluard et René Char.</p>
 
-
 <p><a href="#sdfootnote10anc" name="sdfootnote10sym">[10]</a> Pellerin était d’ailleurs coutumier du fait, ayant composé un recueil d’épigrammes en collaboration avec André du Fresnois intitulé <em>Le Petit Carquois</em> et publié anonymement en 1913.</p>
-
 
 <p><a href="#sdfootnote11anc" name="sdfootnote11sym">[11]</a> Phénomène que Carco ne manque pas de noter lorsqu’il estime que « les petites revues d’alors en ont publié un certain nombre qui portaient trop l’empreinte de Jean ou la mienne pour que la supercherie ne fût pas découverte. » (Schmits 1985, 20)</p>
 
-
 <p><a href="#sdfootnote12anc" name="sdfootnote12sym">[12]</a> Voir Vérane 1930, 180-181.</p>
-
 
 <p><a href="#sdfootnote13anc" name="sdfootnote13sym">[13]</a> Voir également sur ce sujet Trévisan 2001.</p>
 
-
 <p><a href="#sdfootnote14anc" name="sdfootnote14sym">[14]</a> Sur ce sujet, nous nous permettons de renvoyer à Piantoni 2020.</p>
-
 
 <p><a href="#sdfootnote15anc" name="sdfootnote15sym">[15]</a> Lettre de Léon Vérane à Tristan Derème datée du 28 mars [1922], Bibliothèque municipale de Bordeaux, Ms 1883.</p>
 
-
 <p><a href="#sdfootnote16anc" name="sdfootnote16sym">[16]</a> Lettre de Paul Verlaine à Edmond Lepelletier datée du 14 novembre [1877], citée dans Lautréamont-Germain Nouveau1970, 851.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ----
 

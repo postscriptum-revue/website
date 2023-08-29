@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>À notre époque, où la reproduction devient monnaie courante dans les camps qui se sont traditionnellement opposés à l’homogénéité essentialiste, et où toute forme de plaisir s’inscrit dans une économie sexuelle apte à se déployer au bout des doigts, que reste-t-il du rêve de différence des années 1970 ? Ce débat s’est historiquement opposé au pénis, conçu comme l’Un, le Même à déconstruire. Or l’œuvre de Kathy Acker joue un rôle fondamental de catalyseur dans la métaphorisation du trope de pénis qu’elle s’applique à incorporer dans la pratique de la masturbation. Kathy Acker exproprie le pénis du phallocentrisme pour l’incorporer dans un projet féministe. Tout cela passe par un rapport politique à la masturbation : une pratique qui est une médiation, une façon de voir, de se voir qui ne produit pas de corps, au sens de la reproduction biologique. Car ce qui compte pour Acker, ce n’est plus le besoin ou le devoir de déconstruire les modèles phallocentriques sur lesquels est bâtie notre société. Acker insiste sur l’importance et le devoir de trouver une fin, un lieu ou un objet commun, une croyance qui nous unit. Elle fait appel à l’importance de se trouver un mythe qui n’est pas utopique. Elle pratique la conscience de soi qui fait tout sauf éprouver de l’amour-propre, voire la prétention de pouvoir sauver l’ignorante de sa propre ignorance.</p>
 
-
 ----
 
 abstract_en: <p>What remains today from the projected feminist utopia in Cixous’ and Irigaray’s seminal works on masturbation ? How has the dream of différence sexuelle, one that fascinated a female political identity, been recalibrated through literature ? I argue that Kathy Acker plays a central role, especially in her later work, in incorporating the trope of the penis, perceived in the feminist project as the “One” to deconstruct, in her practice. The penis pirate is a myth that she endeavors to write and rewrite. Through the trope of the penis pirate, masturbation is a penetrative force, a way to see, and a way to write and simultaneously experience desire without touching the other physically. The penis pirate beckons the possibilities of dreaming and living. In many ways, it is not the project of deconstructing the penis that can be read as most important in her work but rather that of insisting on the significance of finding a familiar ground, a common myth that can never be utopist. Beyond the scope of identity politics, but within that of finding and seeing the body as a political language, Acker’s work practices consciousness of self. Politics become personal. However, this exploration of self never acquires a superior or metaphysical status, it has no claim to self-love, individualism, or ontology. All too conscious of its own failures, of its history, this exploring self knows that it cannot save anyone. Acker’s works are therefore all the more crucial today in light of our era’s obsessive inclination towards self-pleasure, seen in the wider context of consumerism and capital gain, at any cost.</p>
-
 
 ----
 
@@ -66,7 +64,6 @@ text: <p>Dans notre monde, l’accessibilité technologique et virtuelle aux pla
 <p>Ce nouvel avenir, selon Acker, n’est pas un monde à venir. Au contraire, le monde des pirates dont rêve Acker est une écriture qui trace la fin d’une politique identitaire de la femme. Acker s’inscrit dans la lignée de pensée de Judith Butler, qui écrit dans <em>Gender Trouble</em> : « When the category is understood as representing a set of values or dispositions, it becomes normative in character and, hence, exclusionary in principle. » (Butler, 1990 : 325) Dès la publication de <em>Gender Trouble</em>, Butler souligne les effets pervers de l’utilisation de la catégorie identitaire de « femme ». Cette catégorie risque d’avoir un horizon téléologique homogène et cohérent. La catégorie « femme » peut donc devenir une catégorie ayant des implications coercitives et régulatrices. Même si les fins d’une telle construction sont émancipatrices, cette catégorie annonce les limites inhérentes d’une politique identitaire dont le cadre normatif rigide peut passer sous silence le caractère construit de cette catégorie. L’œuvre d’Acker a ceci d’important qu’il souhaite à tout prix faire un monde qui résiste à la prohibition, tout en affirmant l’impossibilité de s’en défaire. Tout cela passe par un rapport politique à la masturbation : une pratique sexuelle qui est comprise comme une politique sexuelle. La masturbation ne produit pas de corps, au sens d’une reproduction biologique de corps. Lorsqu’on se masturbe, les organes génitaux (surtout le vagin) ne sont pas nécessairement inscrits dans une pratique biologique évolutionniste qui réduit le corps à des zones érogènes dont la fonction est de tendre vers la reproduction de l’avenir.</p>
 <p>C’est surtout pour se défaire de l’emprise de sa mère qu’elle a façonné la figure de la pirate, tout en réalisant l’échec de cette possibilité de devenir pirate dans le monde réel. La force de cet échec est précipitée selon Acker par la reconnaissance que ce qui sépare son être de son devenir pirate touche à son statut de fille. À son genre et à son sexe de fille. Elle écrit : « the separation between me and piracy had something to do with being a girl. With gender. » (Acker, 1995 : 79) Incapable d’imaginer un monde où elle peut se défaire de la réalité sociale du genre, Acker écrit qu’elle s’est enfermée dans le monde des livres, là où elle espérait vivre enfin. Elle déclare, par contre, que cette descente dans le monde des livres est une consolation impossible pour combler la douleur du monde. Elle avoue aussi qu’en vieillissant, le monde des livres n’est plus apte à combler ce manque, ce désir de se rebeller qui était si fort lorsqu’elle était enfant. Elle veut désormais trouver le <em>corps</em> : « The older I become, the more insufficient becomes this living in books. I want to find the <em>body</em>. » (Acker, 1995 : 79) Penser à la masturbation comme une volonté de connaître le monde, de le bâtir, de forger un avenir, ne peut se faire aujourd’hui sans un voyage à rebours. Penser ne peut se faire non plus sans avoir un corps qui se matérialise dans le monde politique et culturel. Si je me place dans la discipline des études féministes, aussi diverse et plurivoque qu’elle soit, je conçois mon corps comme un corps de pénétration. Je dis bien « pénétration » et non « pénétré » ou « qui pénètre ».</p>
 
-
 ----
 
 references: 
@@ -89,41 +86,19 @@ references:
  	<li>TISSOT, Simon S. A. D., <em>L’onanisme : dissertation sur les maladies produites par la masturbation</em>, Lausanne, M. Chapuis, 1769.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Je ne vais pas m’attarder ici sur les discours de panique contre la masturbation (avec ses variations : discours sur l’hygiène du corps ; régime de surveillance des jeunes ; discours de peur et d’anxiété de l’abus de soi ; techniques médicales gynécologiques/de l’urètre pour corriger les élans masturbatoires) qui régnaient tout au long des 18e et 19e siècles. Il est néanmoins important de citer que l’apparition des deux ouvrages suivants a largement contribuer à la prolifération d’un régime de surveillance pédagogique et médical auprès des jeunes (filles et garçons). <em>Onania ; or, The Heinous Sin of Self-Pollution</em>, Londres, 1710 et Simon S. A. D. Tissot, <em>L’onanisme : dissertation sur les maladies produites par la masturbation</em>, Lausanne, M. Chapuis, 1769.
 
-
-
-
 [2] « Sur un échantillon de 80 féministes « historiques », « 66 d’entre elles sont diplômées d’études supérieures, dont plus de 40 au niveau du doctorat ».
-
-
-
 
 [3] Je note ici, en toute connaissance de cause, que la pensée de Judith Butler sur le phallus lesbien dans <em>Bodies That Matter</em> est primordiale. Ce sera la deuxième étape de ma réflexion que de voir en quoi cette idée de la transformation du pénis est similaire ou différente à la pensée de Butler.
 
-
-
-
 [4] « I stood on the edge of a new world. »
-
-
-
 
 [5] « [T]here is more need to deconstruct […] the fraud on which our society’s living. We now have to find somewhere to go, a belief, a myth. »
 
-
-
-
 [6] L’expression que je traduis librement est « send men down the plank » (1995 : 78). Elle dit aussi : « swing from any yardarm ».
-
-
-
 
 ----
 

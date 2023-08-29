@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans cet article, je propose d’analyser l’art des avant-gardes sous un angle esthétique et de poursuivre les transformations, les mutations et les fusions éventuelles des catégories du Beau et du Laid. En passant par l’affirmation de la volonté artistique, par les formes que prennent l’urbanisme et la guerre dans l’art des années 1910, j’essaie de poursuivre la création d’une nouvelle esthétique rejetant parfois l’autorité critique rattachée aux valeurs traditionnelles du XIXème siècle – un procédé qui donne de nouvelles créations aspirant à la libération artistique en France, en Italie comme en Russie.</p>
 
-
 ----
 
 abstract_en: <p>In this article, I aim at analyzing the art of the <em>avant-garde</em> from an aesthetic perspective and at continuing the transformations, mutations and possible fusions of the categories of Beauty and Ugliness. In considering the affirmation of artistic will, as well as the forms of urbanism and war, which were shaping art in the 1910s, I intend to further develop the creation of a new aesthetic that sometimes rejects the critical authority associated with traditional values of the 19th century – a process that enables new artworks aspiring to artistic liberation in France, Italy as well as Russia.</p>
-
 
 ----
 
@@ -167,7 +165,6 @@ tezza 200 m della fucileria.<a href="#_ftnref7" name="_ftn7">[7]</a></p>
 <p>[…] Maintenant sur les frontières dressées de baïonnettes on résout la question de notre nouvelle existence : la guerre changera non seulement les frontières géographiques d’états, mais elle tracera des traits puissants sur le visage de la psychologie humaine. (Guérasimov, Gontcharova, 2017 : 766-767; je traduis)</p></blockquote>
 <p>Les futuristes ne voient plus de futur. Ils pressentent. Ils changent de ton. Dans les poèmes de Khlebnikov se font persistants des sujets comme l’angoisse, la mort, l’histoire, la nature du temps. S’écroule le rêve du véritable futuriste désirant un avenir concret où il règnera. Néanmoins, la guerre a enrichi les sujets des poètes russes, lesquels ont déjà épuisé la ville et ses bonheurs ou horreurs. Si auparavant les avant-gardes se contentaient de la révolution artistique et esthétique en puisant leur inspiration dans l’urbanisme, les découvertes scientifiques, la vitesse de la vie accélérée, le pressentiment d’une guerre capable de renouveler le monde et de lui apporter des changements positifs, l’année 1914 ne satisfait guère leurs espoirs : « À la veille de la Première Guerre mondiale, les avant-gardes ne se contentent plus d’affirmer la venue de l’art moderne. Elles manifestent l’angoisse de l’avenir, mélange de fascination et de révolte à une époque où les lustres de la Belle Époque s’éteignent un à un sous le souffles des révolutions sociales et politiques » (Jimenez, 1997 : 313). L’idée de Croce selon laquelle le Beau est l’expression-intuition réussie ne tient plus devant les nouveaux événements : les artistes ne peuvent plus eux-mêmes appeler leurs œuvres <em>belles</em>, puisque depuis deux décennies, ils essayent de mettre au centre de leur représentation le monde réel, l’homme réel, les sentiments réels – ils se sont retrouvés au piége, puisque maintenant c’est leur volonté qui le réclame. Comme ils ne peuvent pas se révolter contre son instinct, leur seul fil conducteur qui demeure après la négation et l’abolition de tout dans le temps et dans l’espace. Leur idée que le Beau ne soit pas forcement lié à la bonté ou à la plaisance n’a pas survécu dans un monde où il ne reste plus rien pour reposer l’œil. Mobilisés, la plupart des artistes ont eu l’occasion de contempler directement les horreurs des guerres et des révolutions. La laideur gagne le monde réel et se transpose dans l’art pour une longue période à venir. Si les premières expériences d’avant-gardes pouvaient provoquer une moquerie, un sourire, une incompréhension, désormais le spectateur tremblera devant un Kirchner ou en lisant un Céline. Puis, après l’époque du <em>ready-made</em>, la survie même de l’art est mise en question. Et Marinetti, Severini, Boccioni, Cendrars, Apollinaire, Khlebnikov, Maïakovski, Rozanova etc. – tous n’en voyaient que le début.</p>
 
-
 ----
 
 references: 
@@ -221,35 +218,19 @@ SEVERINI, Gino. <em>Écrits sur l’art</em>, Paris, Éditions Cercle d’Art, 1
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Peintre et poète futuriste.</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Par exemple, Kandinsky et Marc dans <em>L’almanach du Blaue Reiter</em>, écrivent<em> </em>: « La correspondance des moyens d’expression avec la nécessité intérieure est l’essence de la beauté d’une œuvre » (1981 : 149).</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Terme de Benedetto Croce (Lories, 1988 : 226; je traduis)</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Le terme d’étrangéisation a été développé par un formaliste russe Victor Chklovski en 1917 dans son ouvrage <em>L’Art comme procédé. </em>Il s’agit de représenter un sujet connu et usé sous une nouvelle forme non-familière. L’étrangisation permet au public de se débarrasser d’images communes et transforme l’acte de perception en une forme de re-connaissance.</p>
-
 
 <p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> <em>La rue entre dans la maison.</em></p>
 
-
 <p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Poème <em>Dalle caserme </em>de Paolo Buzzi. « Au fond, il est beau de tirer à la mitraille sur les têtes denses / Nous sommes forts et voulons essayer cette force. » (je traduis).</p>
-
 
 <p><a href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> « oreilles yeux / narines ouverts attentifs / force qui joie voir entendre sentir tout tout taratatatata / des mitraillettes crier à pleine vitesse plus bas morsures gifff- / fles traak-traak coups pic-pac-pum-toumb bizzzzarres sauts / altitude 200 m de la fusillade » (je traduis).</p>
 
-
 <p><a href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> Ces peintres réalistes appartenant au groupe des Ambulants ont choisi comme source d’inspiration la vie campagnarde et folklore russe.</p>
-
-
-
-
-
-
-
-
-
 
 ----
 

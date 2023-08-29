@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Donnie Darko, Harold Bloom, Jorge Luis Borges, Sigmund Freud et le voyage dans le temps : j’aimerais me servir du récent film de science-fiction de Richard Kelly comme d’un guide pour explorer certains topoï (sans doute étonnants) relevant de l’anachronisme et de l’intempestivité. La poétique de l’influence de Harold Bloom propose le concept d’apophrades, une idée révisionniste selon laquelle un poète parvient si bien à imiter son précurseur que nous discernons sa voix dans les poèmes de celui dont il s’inspire (par exemple, Wallace Stevens ressemble parfois à John Ashbery) ; cette idée est une application intéressante de la nouvelle de Borges, « Pierre Ménard, auteur du Quichotte ». Freud propose un concept important et similaire dans sa notion d’après coup, selon laquelle une expérience n’atteint pas à sa signification complète avant que l’ajout tardif d’informations n’en modifie rétroactivement le sens premier.</p>
 
-
 ----
 
 abstract_en: <p>Donnie Darko, Harold Bloom, Jorge Luis Borges, Sigmund Freud, and Time Travel : I want to use Richard Kelly’s recent science fiction film as a guide through some (perhaps surprising) topos in a discussion of anachronism and untimeliness. Harold Bloom’s poetics of influence introduce the revisionary ratio apophrades, in which a poet makes so successful a usurpation of a precursor we hear his distinct voice in poems of the earlier poet (e.g. Wallace Stevens, at times, begins to sound like John Ashbery) ; this is interestingly derived from Borges’s “Pierre Menard, Author of the Quixote”. Sigmund Freud introduces an important and related concept in his notion of deferred action, in which an experience does not gain full significance until the introduction of later knowledge retroactively changes it.</p>
-
 
 ----
 
@@ -57,8 +55,6 @@ text:
 <h3>IV</h3>
 <p>One of the lessons <em>Donnie Darko</em> has to teach scholarship about time travel, anachronism and untimeliness, is to make us aware of a very fragile relationship between figure (life qua Blessing, trope, Eros, fiction, persuasion, power, the exquisite moment, anachronism) and the literal (death, reality, entropy, flat fact, mere accuracy, reduction, the dull routine of habit and custom, chronology). It is the swerve from Donnie’s death that brings us to the tangent universe, but it is the swerve (Bloom’s word for turn or trope) of Frank’s car to avoid Grandma Death that brings the tangent universe to a head and to a close. Jim Cunningham drew a line and opposed the poles of Love and Fear. <em>Donnie Darko</em> gives us a Möbius strip : take a strip of paper, give it a half twist, and connect the ends together in a loop and you will have a figure which at a given point appears to have two sides ; follow a side long enough and you will cross over without being able to tell at what point you crossed, because it is a one sided figure. <em>Donnie Darko</em> “flips” from the literal to the figurative with the tangent universe, which sustains itself until it “flips back” to the reality of dying, the jet engine making a complete circle in time, going all the way around the strip until it ends where it began, and ends in the postponed death. In the words of Jacques Lacan we are “between two deaths” : our biological death, and our death in the symbolic order, the realm of the dead letter of language in which we are caught, and misrecognized, at the moment of our birth. In the image selected by Žižek, we hang like the cat in the cartoon who has walked off a cliff but does not fall until he looks below and realizes he stands on nothing. So too do we find trope between two deaths ; time travel is the most extreme figure because, as the most powerful, it allows us to walk farthest from the cliff’s edge, but it also puts us closest to realizing where we stand. Hence the need for, in the words of John Ashbery, “a kind of fence-sitting/Raised to the level of an esthetic ideal” (232).</p>
 
-
-
 ----
 
 references: 
@@ -79,62 +75,27 @@ references:
 <h4>Filmography</h4>
 <em>Donnie Darko</em>. Written and Directed by Richard Kelley. Perf. Jake Gyllenhall, Patrick Swayze. New Market Cinema, 2001.
 
-
-
-
 <hr />
-
-
 
 [1] Geoff Klock is the author of <em>How to Read Superhero Comics and Why</em> (Continuum, 2002), which uses Harold Bloom’s poetics of influence to look closely at a vein of popular culture. He attended New York University and the University of Texas at Austin, where he studied English literature on the Ph.D. level, and has delivered papers on literary theory, psychoanalysis, and popular culture in three countries. He has never been to Mexico.
 
-
-
-
 [2] Richard Kelley’s DVD director’s commentary helps to connect some of the dots that make up the plot, specifically the fact that Donnie <em>causes</em> the jet engine to go back in time, extraordinarily unclear in the straight narrative. “Tangent universe” is Kelly’s phrase.
-
-
-
 
 [3] Two details in the film reiterate this limbo time : Donnie’s older sister is taking a year off between college and high school ; more importantly, the movie theater where Donnie goes to see <em>Evil Dead</em> lists <em>The Last Temptation of Christ</em> as the only other film : while this could be read in a Joseph Campbell savior mode, it seems more relevant to note that in the film Christ experiences a hallucinatory life in a single moment while suffering on the cross.
 
-
-
-
 [4] In the world of superhero comics, taking a joke seriously resulted in one of the most important advances in the genre : Alan Moore got the idea for <em>Miracleman</em>, one of the <em>Citizen Kane’s</em> of the comic book world, from a Mad Magazine comic strip which spoofed superhero comics by applying real world constraints to a fantasy genre : superheroes who are too strong and punch through the skulls of those they are fighting went from a gag to a frightening vision of “realistic” superheroes, terrorists who use their power to change the world any way they feel fit. (<em>Kimota</em>, 11-12)
-
-
-
 
 [5] Though I am often inclined to see deconstruction emerging from Borges’s “Blue Tigers” and “The Book of Sand”.
 
-
-
-
 [6] Whenever I have a complaint about any inconsistency in a film, my father delights in unknowingly quoting Coleridge by invoking the principle of “a willing suspension of disbelief”.
-
-
-
 
 [7] My response to anyone making the obvious objection that the psychiatrist cannot be an emblem of the discourse of psychoanalysis because they are distinct fields, is simply to point out that Hollywood makes no such distinction, always presenting one-on-one mental therapists as psychoanalysts – who deal with Oedipal struggles, repressed memories, dreams and even use hypnotism — but who also prescribe drugs (e.g. <em>Grosse Pointe Blank</em>, <em>The Sopranos</em>, etc).
 
-
-
-
 [8] As an addendum who feel this connection between the psychoanalytic concept of deferred action and time travel a little far fetched consider D.H. Thomas’s stunning <em>White Hotel</em>, which describes these phenomena as one. The novel includes a brilliant simulacrum of a Freudian case study of a patient suffering from hysterical pains in her left breast and pelvis. It is only at the end of the book that it is revealed that twenty years after her analysis with Freud she was tortured and killed by Nazi soldiers, and that her “hysterical pains” were the results of torture, so painful it could not be contained in a single time, but reverberated into the past.
-
-
-
 
 [9] At this point in the text Žižek uses the French translation of the German <em>Nachträglichkeit</em>, <em>“après coup”</em>.
 
-
-
-
 [10] The “linguist” was Old English scholar cum famous author of <em>Lord of the Rings</em> J.R.R. Tolkien, in the essay “English and Welsh”, though the quote has been attributed to several other writers.
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Pour le sociologue Henri Müller, les écrits des dernières décennies sur les harkis, ces supplétifs musulmans engagés par l’armée française durant la guerre d’Algérie, ont permis « une modification des représentations, au sein comme à l’extérieur de cette population, faisant passer les harkis d’une image de traître à celle de victime » (Müller 1999 : 132). Après un retour sur l’origine du mot « harki », ses désignations, ses significations, nous parcourrons attentivement deux ouvrages de ce corpus hétéroclite : Mon père ce harki de Dalila Kerchouche (Paris, Seuil, 2003) et Le harki de Meriem de Mehdi Charef (Paris, Mercure de France, 1989). Nous verrons comment, dans ces deux textes qui empruntent des voies génériques et narratives fort différentes, se produit un déplacement de la représentation du harki en « salaud » puis en victime, vers la construction d’une image du harki père en héros par ses enfants.</p>
 
-
 ----
 
 abstract_en: <p>For the sociologist Henri Müller, last decades’ writings on the “harkis”, the Muslim auxiliaries enlisted by the French army during the Algerian War, allowed “a modification in representations, within as outside that population, thus transforming the harkis’ image of a traitor into that of a victim” (Müller 1999 : 132). Following a return on the origin of the term “harki”, its designations and its significations, two works from that heterogeneous corpus shall be closely examined : Dalila Kerchouche’s Mon père ce harki (Paris, Seuil, 2003) and Mehdi Charef’s Le harki de Meriem (Paris, Mercure de France, 1989). Despite different generic and narrative choices, the two texts show a shift in the harki’s representation. The character is depicted as a “bastard” then as a victim, towards the construction of the harki’s image as a hero for his children.</p>
-
 
 ----
 
@@ -80,7 +78,6 @@ Accroupie devant le réfrigérateur ouvert, Meriem se raidit brusquement, oublia
 <p>Dans la démarche de Kerchouche, l’innocence du père est à établir coûte que coûte et la frontière entre futurs vainqueurs et vaincus relève d’une stratégie familiale qui n’a pas servi son père (pour protéger la famille, un frère devait entrer dans la harka et un autre au FLN). <em>Le harki de Meriem,</em> quant à lui, brouille quelque peu la frontière entre l’engagement harki et l’expiation de cet acte par le fils. Il déplace la responsabilité de l’engagement du harki vers sa femme, et fait porter à Meriem une conscience historique qui mesure le prix payé par le fils pour le geste du père, en métropole, bien des années après. Peut-être parce que cette conscience est mêlée à un profond sentiment de culpabilité généré par la façon dont la femme a profité du « choix » du mari, l’influence de ce choix sur la mort du fils ne trouve finalement aucune validation à la fin du récit. Azzedine continue à vivre en France avec le bonheur que lui procurent ses petits-enfants et ce, malgré l’adversité, le racisme et la fatalité qui l’a frappé au moins deux fois dans son existence, à l’âge qu’avait son fils avant de mourir et au moment de l’assassinat de ce dernier.</p>
 <p>Chacun à sa façon, et dans une « œuvre [qui] à travers le monde qu’elle configure dans son texte, réfléchit en les légitimant les conditions de sa propre activité énonciative » (Maingueneau 2004 : 175), les deux auteurs ont inscrit leur écriture dans un genre particulier : biographie pour Kerchouche et fiction pour Charef. Ils contribuent ainsi de façon enrichissante mais différenciée à construire une mémoire du drame harki où les femmes ont un rôle privilégié et où la représentation complexe de la guerre d’Algérie apparaît tour à tour de manière singulière et complémentaire.</p>
 
-
 ----
 
 references: 
@@ -117,86 +114,37 @@ references:
  	<li>FAUCON, Philippe, <em>La trahison,</em> France, Kinok Films, 2005.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Sur la « bleuite » (opération de manipulation montée par les services secrets français à partir de 1957-1958) et ses conséquences dans les maquis de l’ALN (Armée de libération nationale) et dans la hiérarchie du FLN (Front de libération nationale), lire le petit résumé de Benjamin Stora (2005 : 25-26).
 
-
-
-
 [2] Après avoir été désigné officiellement par divers euphémismes comme « opérations de maintien de l’ordre », « événements » ou « rébellion », l’événement est nommé « Guerre d’Algérie » par l’Assemblée nationale française le 15 juin 1999.
-
-
-
 
 [3] Cette ambiguïté « a permis à l’armée de ne pas courir les risques politiques inhérents à une intégration plus complète dans les forces régulières : quand Robert Lacoste propose, en octobre 1957, de transformer les <em>harkas</em> en ‘‘formations algériennes de contre-guerrilla’’ et d’introduire des grades propres aux musulmans, le général Salan s’y oppose violemment car le projet aurait ‘‘jeté les bases d’une future armée algérienne, matérialisant ainsi le principe d’une nation algérienne’’ » (Charbit 2006 : 15).
 
-
-
-
 [4] Sur la bataille des chiffres au sujet de ces massacres (le nombre estimé de victimes varie entre 10 000 en 1962 et 100 000 en 2000), lire Tom Charbit (2006 : 52-53) et Charles-Robert Ageron (2000 : 10-11).
-
-
-
 
 [5] Ces chiffres sont ceux auxquels est parvenu Tom Charbit par recoupement (Charbit 2006 : 62-63). Sur la difficulté du dénombrement et ses enjeux politiques, lire Mohand Hamoumou (1993 : 125).
 
-
-
-
 [6] En 1962, on compte en France 1,2 million de soldats, 1 million de pieds-noirs, 400 000 immigrés et 100 000 harkis (Stora 2006 : 60).
-
-
-
 
 [7] Pour les diverses nominations et sigles qui ont visé à rassembler sous une même désignation ces groupes, lire Tom Charbit (2006 : 23).
 
-
-
-
 [8] Mais tous les harkis ne se sont pas exilés. Après 1962, selon les exactions et crimes dont ils ont été reconnus coupables ou non, ils sont restés libres ou ont purgé des peines de prison, et nombre d’entre eux sont restés en Algérie.
-
-
-
 
 [9] En tout l’on compte durant la guerre quelques 200 000 hommes « pro-français », mais d’une grande hétérogénéité sociologique (du paysan analphabète au notable francophile). Cette portion de la population algérienne présente des motifs de « ralliement » à la France qui « ne procèdent pas toujours de choix conscients » et vont de la pression des notables et des opérations d’enrôlement de l’armée française à « la francophilie », aux « sévices du [Front de libération nationale (FLN)] » et à la « volonté de vengeance », en passant par le « désœuvrement », le « besoin alimentaire », l’ « option politique ou idéologique », la « contrainte policière » et le « retournement d’opinion » (Jordi 2003 : 8-9). Sur cette question lire aussi l’ouvrage pionnier et les entretiens de Mohand Hamoumou (1993) ainsi que le numéro hors série d’Autrement de Jean-Jacques Jordi et Mohand Hamoumou (1999).
 
-
-
-
 [10] Nous entendons par polyphonie « les rapports multiples qu’entretiennent auteur, personnages, voix anonymes (le “on dit”), différents niveaux stylistiques, etc. : on parlera de “polyphonie” s’il s’établit dans le texte un jeu entre plusieurs voix » (Charaudeau et Maingueneau 2002 : 448).
-
-
-
 
 [11] Sur le maintien du statut d’exception des familles de harkis dans les camps de relégation, lire Tom Charbit (2006 : 89) et Stéphan Gladieu et Dalila Kerchouche (2003).
 
-
-
-
 [12] Sur les liens entre la crise de l’agriculture et engagements, lire Tom Charbit (2006 : 33), Charles Robert Ageron (1995 : 12) et Bourdieu et Sayad (1964).
-
-
-
 
 [13] Tom Charbit reprend cette expression à Jean-Charles Deniau qui l’utilise dans son film <em>Harkis</em> <em>: des Français entièrement à part</em> <em> ?</em> (2004 [2003]).
 
-
-
-
 [14] Un chapitre du livre raconte comment la fille de Meriem accompagne la dépouille du frère en Algérie et la façon dont les douanes algériennes renvoient le cercueil en France.
 
-
-
-
 [15] Ironie du sort de laquelle aime jouer Mehdi Charef dans son cinéma et ses romans (Maazouzi 2008 : 252-253) : dans <em>Le harki de Meriem,</em> l’un des assassins du fils de harki, reconnaissable à une énonciation particulière, se trouvera être l’un des membres de l’équipe municipale avec laquelle l’association à laquelle appartient Azzedine, le père de la victime, doit négocier la construction d’une mosquée à Reims.
-
-
-
 
 ----
 

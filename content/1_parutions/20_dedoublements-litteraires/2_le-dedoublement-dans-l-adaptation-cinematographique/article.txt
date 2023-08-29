@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p><em>Le film Adaptation du réalisateur Spike Jonze a tous les défauts décrits par les critiques du genre « adaptation ». D’abord parce qu’il s’agit de l’adaptation d’un livre – en l’occurrence, The Orchid Thief de Susan Orlean –, donc de sa copie imparfaite. Plus encore, il s’agit d’une mauvaise adaptation dans ce qu’elle a de plus traître : le film adapte mal le livre. L’adaptation, tout comme la traduction dont elle relève comme espèce, ne sort pas de l’impasse (ou tension) quelque peu ressassée entre fidélité et trahison ; j’essaierai toutefois de penser ultimement en termes éthiques et politiques cette œuvre métafictionnelle se dédoublant à plusieurs niveaux.</em></p>
 
-
 ----
 
 abstract_en: <p><em>Spike Jonze’s film Adaptation encompasses all the flaws described by the critics of the“adaptation” genre since it is the adaptation of Susan Orlean’s novel The Orchid Thief and therefore, its imperfect copy. Furthermore, the film is also the epitome of a bad adaptation : the film poorly adapts the contents of the novel. The concept of adaptation, just as in the realm of translation, cannot free itself from the impasse (or tension) between fidelity and betrayal. I will, however, ultimately try to think about Jonze’s metafictional and multi-leveled work through ethical and political standpoints.</em></p>
-
 
 ----
 
@@ -59,8 +57,6 @@ text: <p>Il s’agira ici de questionner la problématique du dédoublement qui 
 <blockquote><p>While, admittedly, it may be difficult to ascertain how many people « know » a story, we can use surrogate measures : if book sales go up after a television adaptation of a novel, that would be one way to gauge the success of the adaptation (and, of course, the narrative). So, too, would be the number of movie or play tickets sold – seen as a measure of attendance, rather than of financial gain (452).</p></blockquote>
 <p>En ce sens, <em>Adaptation</em> représente le contraire de cette nouvelle exigence capitaliste implicitement exprimée par Bortolotti et Hutcheon : non seulement <em>Adaptation</em> n’est pas fidèle au livre qu’il tentait d’adapter, mais plus encore, il réussit à ne pas remplacer l’original. Cette nouvelle exigence de Bortolotti et Hutcheon – qui est en fait une fidélité nouvelle, non plus en faveur d’une origine autoritaire passée, mais en faveur d’une économie de marché rentable dans le futur (fidèle aux prévisions budgétaires et aux profits anticipés), exactement comme le tricheur qui ménage son avenir – est sans doute une nouvelle difficulté, pour la pensée comme pour la création artistique, qui n’est pas moins perverse que l’ancienne. Si le film <em>Adaptation</em> double le livre de Susan Orlean, il ne le remplace pas, la duplicité de son adaptation ne vise pas la tromperie, contrairement aux accusations de ceux qui se seront aveuglés au soleil de l’identité : le double crée de la différence.</p>
 
-
-
 ----
 
 references: 
@@ -99,27 +95,13 @@ references:
 
 [1] Le mauvais « métatexte » pourrait se voir comme celui qui ne pourrait exprimer qu’un seul des pôles (soit le commentateur prend trop de place, soit il ne fait que répéter sans rien ajouter, l’auteur qu’il a lu). L’essai-nouvelle « Pierre Ménard, autor del Quijote » de Jorge Luis Borges (1994) est sans doute l’exemple extrême d’un « mauvais » commentaire (ou d’une mauvaise traduction/adaptation). Michel Foucault (1971), pour sa part, en faisait l’exemple du « commentaire idéal ».
 
-
-
-
 [2] En anglais, c’est plutôt « a conditioned and conditioning » [<em>bedingtes und bedingendes</em>], voir Beiser 1993 (158). Voici la citation complète telle que donnée par Beiser (Kaufman s’arrête juste avant le mot <em>limitations</em>) : « Each being is, because posited, an op-posited, a conditioned and conditioning ; the Understanding completes these its limitations by positing the opposite limitations as their conditions ; these require the same completion, and the Understanding’s task develops into an infinite one … Reason … completes [a relative identity] through its opposite and produces though the synthesis of the two a new identity, which is again itself an inadequate identity in the eyes of Reason, which again likewise completes itself »
-
-
-
 
 [3] Il fait toutefois une erreur dans la référence. Il renvoie à <em>La raison dans l’histoire</em>alors que la citation provient plutôt d’une œuvre de jeunesse (1801, système d’Iéna), dans la version française de Bernard Gilson (Hegel 1986 : 112). Voici la traduction française de la phrase en entier : « Tout être, parce que posé, est opposition ; il dépend d’une condition et est une condition ; l’entendement parachève ces limitations, qui sont les siennes, en posant les limitations opposées comme des conditions ; il doit parachever celles-ci à leur tour et sa tâche s’étend donc à l’infini. » Les recherches que j’ai entreprises pour retrouver le passage en anglais ne m’a mené à aucune référence, sauf pour le <em>Cambridge Companion</em>. L’œuvre de laquelle la citation est tirée est plutôt mineure dans la pensée hégélienne (ce qui explique peut-être l’erreur d’attribution de Boyle). La disparition de cette référence à Hegel en même temps que lui-même, dans le passage du script à l’image, peut-il s’expliquer tout simplement par sa futilité ?
 
-
-
-
 [4] Pour un cas contraire, mais tout aussi parlant, celui d’un scénario qui ne veut pas disparaître, voir Lemieux (2012). Une fois qu’il est montré à l’écran (ici à propos du film<em>Bienvenue au conseil d’administration</em> de Serge Cardinal), le scénario se présente comme un personnage conceptuel possédant en soi une puissance métafictionelle très souvent politique.
 
-
-
-
 [5] Dans une des premières scènes avec Charlie et Valerie (une des productrices), celle-ci, faisant référence à <em>Being John Malkovich</em>, autre film de Spike Jonze, dit à Charlie : « Such a unique voice. Boy, I’d love to find a portal into <em>your</em> brain. » Et Charlie répond : « Trust me, it’s no fun. » (p. 4 du script) Tout le film pourrait se voir comme une réponse humoristique à cette demande de la productrice.
-
-
 
 ----
 

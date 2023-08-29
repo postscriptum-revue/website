@@ -16,13 +16,11 @@ abstract_fr: <p>De la Renaissance à l’Âge classique, il est souvent question
 
 <p>Mots-clés : moraliste, exemplarité, Montaigne, Marie de Gournay, Jean-Pierre Camus</p>
 
-
 ----
 
 abstract_en: <p>From the Renaissance to the Classical era, researchers often evoke the crisis of exemplarity in rhetorics. It is possible to look at this crisis through the production of the <em>premiers moralistes</em>—Montaigne, Jean-Pierre Camus, Marie de Gournay. The <em>premiers moralistes</em> offer a new modelization of history via a personal interpretation which has to guide the reader to a good ethical life. We will demonstrate in what ways the <em>premiers moralistes</em> have an hermeneutical reading of history and how it is systematically the object of a judgement.</p>
 
 <p>Keywords: moralist, exemplarity, Montaigne, Marie de Gournay, Jean-Pierre Camus</p>
-
 
 ----
 
@@ -76,7 +74,6 @@ text: <p>Entre l’apogée de la Renaissance et l’éclat de l’Âge classique
 <p><a href="#_ftnref7" name="_ftn7">[7]</a> Pour preuve, Saint-Évremond écrit une pièce intitulé <em>La Comédie des Académistes</em> (1637/1638), critique de l’Académie française nouvellement créée. La première édition des <em>Advis </em>est déjà alors parue. Le but de Saint-Évremond est de railler le travail linguistique de l’Académie. Il va mettre en scène les premiers académiciens, nettement plus jeunes que Marie de Gournay. Ainsi quelques personnages se moquent aussi de la vieillesse de son langage, car elle critiquait ouvertement le langage mondain d’un Malherbe : « Boisrobert. Ce sont là raisons que le démon vous dicte. / Comment, vieille Gournai; vous aimez la “vindicte”? / Qui vous fait “détracter”? / Qui vous met en “courroux”? » Bref, c’est cette représentation qui figera l’image qu’on s’est fait de Marie de Gournay.</p>
 <p><a href="#_ftnref8" name="_ftn8">[8]</a> À cet effet, l’exemple le plus important est sans conteste l’<em>Institution du Prince</em> de Guillaume Budé. Ce dernier en offre un manuscrit à François Ier vers 1519 (Basset et Bénévent 2014, 63). Voir également : Flandrois 1992.</p>
 <p><a href="#_ftnref9" name="_ftn9">[9]</a> Voir : Sellier 2010.</p>
-
 
 ----
 

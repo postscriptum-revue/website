@@ -1,16 +1,18 @@
-title: L’art de la séduction ?
+Title: L’art de la séduction ?
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-number: 11
+Number: 11
 
 ----
 
-intro_text: <p>La séduction implique une reconnaissance partielle et un détournement, elle guide en dehors du chemin sans pour autant manifester clairement l’ailleurs qu’elle promet. Ce numéro bilingue propose de penser les gestes de la séduction, ses étapes et son art, l’au-delà et l’en-deçà qu’elle propose à travers les figures qui l’exposent. Il s’agit d’explorer diverses formes de séduction, non pas pour établir un paradigme permettant de comprendre les manifestations de ce phénomène mais pour esquisser quelques silhouettes à travers des personnages de séducteurs et de séductrices et penser ainsi la puissance de la séduction. Quel dialogue, quelle complicité, quels affrontements sont à l’œuvre entre les séduits, les séduites, les séducteurs et les séductrices qui foisonnent dans les œuvres littéraires et philosophiques ? La séduction est-elle un art ? Quel espace s’ouvre dans la séduction, quelle quête se dessine à travers elle ? En évoluant entre littérature, philosophie, et psychanalyse, les articles présentés ici s’intéressent aux enjeux de l’acte séducteur. Ce numéro découle du séminaire « The art of seduction : Global language and local figures » qui a eu lieu lors du congrès de l’ACLA, <em>Global Language, local cultures</em>, en 2009 à l’Université d’Harvard.</p>
+Intro-text:
+
+<p>La séduction implique une reconnaissance partielle et un détournement, elle guide en dehors du chemin sans pour autant manifester clairement l’ailleurs qu’elle promet. Ce numéro bilingue propose de penser les gestes de la séduction, ses étapes et son art, l’au-delà et l’en-deçà qu’elle propose à travers les figures qui l’exposent. Il s’agit d’explorer diverses formes de séduction, non pas pour établir un paradigme permettant de comprendre les manifestations de ce phénomène mais pour esquisser quelques silhouettes à travers des personnages de séducteurs et de séductrices et penser ainsi la puissance de la séduction. Quel dialogue, quelle complicité, quels affrontements sont à l’œuvre entre les séduits, les séduites, les séducteurs et les séductrices qui foisonnent dans les œuvres littéraires et philosophiques ? La séduction est-elle un art ? Quel espace s’ouvre dans la séduction, quelle quête se dessine à travers elle ? En évoluant entre littérature, philosophie, et psychanalyse, les articles présentés ici s’intéressent aux enjeux de l’acte séducteur. Ce numéro découle du séminaire « The art of seduction : Global language and local figures » qui a eu lieu lors du congrès de l’ACLA, <em>Global Language, local cultures</em>, en 2009 à l’Université d’Harvard.</p>
 <p>Sara Danièle Bélanger M. se penche sur la figure du séducteur dans le <em>Journal du Séducteur</em> et <em>La Reprise</em> de Kierkegaard. Elle interroge le rapport entre les stades esthétique et religieux et pense la quête d’absolu qui se dessine dans les textes à l’étude.</p>
 <p>En posant le séducteur comme un personnage conceptuel et le matador comme une figure esthétique, Mathilde Branthomme pense la violence à l’œuvre dans la séduction. La philosophie de Deleuze et Guattari, le film <em>Matador</em> de Pedro Almodóvar et une conférence de Federico García Lorca ouvrent une réflexion sur les extrêmes de l’acte séducteur et permettent ainsi d’envisager une nouvelle approche de la séduction.</p>
 <p>En lisant les nouvelles <em>Allouma</em> et <em>Marocca</em> de Guy de Maupassant, Céline Brossillon explore les rapports d’identité et d’altérité dans le choc culturel et la rencontre de la femme orientale et d’un colon français en Algérie. Au cœur des contes de Maupassant se nouent les enjeux du désir, la femme orientale enserre dans l’excitation des sens l’homme qui ne se maîtrise plus.</p>
@@ -19,18 +21,18 @@ intro_text: <p>La séduction implique une reconnaissance partielle et un détour
 <p>À partir de <em>L’Esquisse d’un hymne à Marthe Beauvoisin</em> du surréaliste belge Paul Nougé, Lénia Marques s’intéresse aux rapports entre la séduction, l’érotisme et l’amour, et analyse deux approches de la séduction, l’une racontée, liée à l’exercice de mémoire, et l’autre visant le lecteur. La parole écrite fait la séduction et le texte devient ainsi objet bouleversant.</p>
 <p>Mirella Vadean adopte un regard mythologique et philosophique et interroge la séduction, ici alliance du mal et du beau, comme image globale à travers une lecture de <em>The Lord of the Rings</em> de Tolkien. En explorant les moyens de la séduction, l’anneau et l’œil, l’auteure pointe l’éclatement à l’œuvre dans la séduction et souligne l’importance du passage du mythique au social dans une séduction sans fin.</p>
 
+----
+
+Credits: 
 
 ----
 
-credits: 
+Date: 2009-11-15 00:00:46
 
 ----
 
-date: 2009-11-15 00:00:46
+References: 
 
 ----
 
-references: 
-
-----
-
+Uuid: MvujJqwV95GmuGbB

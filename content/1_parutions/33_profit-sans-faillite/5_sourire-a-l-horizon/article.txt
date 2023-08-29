@@ -16,13 +16,11 @@ abstract_fr: <p style="text-align: justify; line-height: 150%;">Cet article disc
 <p style="text-align: justify; line-height: 150%;"><em> </em></p>
 <p style="text-align: justify; line-height: 150%;">Mots-clés : Kundera, chien, mort, bonheur</p>
 
-
 ----
 
 abstract_en: <p>This article discusses the death of the dog Karenina in <em>The Unbearable Lightness of Being </em>(1984) by Milan Kundera from a philosophical and intertextual perspective that questions the possibility of reconciling happiness and awareness of finitude. By staging a complex affective relationship between species, this novel blurs the boundaries between animality and humanity, going so far as to offer a canine smile comparable to the one executed by a corpse in Tolstoy’s <em>Anna Karenina</em>. From this impossible smile, the dog is analyzed as a figurehead of happiness, whose death disrupts the married life of Tereza and Tomas, which was largely dependent on the circular temporality of the animal. Ultimately, the article recognizes that the animal’s relationship to the world offers another way to approach the paradoxical thought of death freed from the monopoly of the <em>Dasein</em>.</p>
 <p><em> </em></p>
 <p>Key words : Kundera, dog, death, happiness</p>
-
 
 ----
 
@@ -96,7 +94,6 @@ text: <p>Le sourire s’interprète souvent comme une manifestation de bonheur. 
 
 <p>Dans l’expression employée pour désigner le regard de Karénine (« insoutenable crédulité »), la crédulité se transforme en une sorte de lucidité, nous engageant sur le chemin d’une pensée paradoxale. Car « [l]a mort n’est pas un objet comme les autres : c’est un objet qui, étranglant l’être pensant, met fin et coupe court à l’exercice de la pensée » (Jankélévitch 2017 [1977], 620). Cette idée de l’exercice d’une pensée se retournant en im-pensée fait évidemment écho au questionnement de Derrida concernant la capacité du langage d’approcher le <em>comme tel </em>de la mort. La figure du chien, à l’abandon de ce corps voué au réel – désigné par Bailly comme « une adhérence à soi et au monde » (2013, 38) –, offre quant à elle une autre avenue permettant de concilier bonheur et finitude, en rappelant que c’est la mort parlée, et non la mort réelle, qui constitue le véritable tourment. L’être humain qu’écrit Kundera, aux prises avec un bonheur défectueux telle une horloge brisée, apparaît presque comme celui qui ne peut pas mourir. Si la mort est une pensée qui ne se pense pas, peut-être n’accédons-nous à une véritable pensée de la mort que par son négatif : l’impensé.</p>
 
-
 ----
 
 references: 
@@ -112,9 +109,6 @@ references:
 <p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Maciel, Maria Esther. « Quand meurt un chien », <em>Carnets</em> [En ligne], Deuxième série – 18, 2020, mis en ligne le 31 janvier 2020. <a href="http://journals.openedition.org.proxy.bibliotheques.uqam.ca/carnets/10604">http://journals.openedition.org.proxy.bibliotheques.uqam.ca/carnets/10604</a> (dernière consultation le 2 mai 2022)</p>
 <p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Thirouin, Marie-Odile. « La tentative de l’anti-humanisme dans l’oeuvre de Kundera ». In <em>Désaccords parfaits. La réception paradoxale de l’oeuvre de Milan Kundera</em>, textes présentés par Marie-Odile Thirouin et Martine Boyer-Weinmann, 291-304. Grenoble : Ellug, 2009.</p>
 <p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Tolstoï, Leon. <em>Anna Karénine</em>. Traduit du russe par Henri Mongault. Paris : Gallimard, 2012 [1878].</p>
-
-
-
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> L’être de la pesanteur représenté par Tereza est évidemment le résultat du patriarcat qui rabaisse les femmes au corporel, à l’irrationalité et au privé : « Une jeune fille qui doit, au lieu de “s’élever”, servir de la bière à des ivrognes et passer le dimanche à laver le linge sale de ses frères et sœurs, amasse en elle une immense réserve de vitalité, inconcevable pour des gens qui vont à l’université et bâillent devant des bouquins » (Kundera 1984, 73).
 

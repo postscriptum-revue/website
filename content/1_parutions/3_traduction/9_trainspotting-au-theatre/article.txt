@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le roman Trainspotting d’Irvine Welsh a suscité diverses adaptations : le film culte de Danny Boyle et l’adaptation théâtrale d’Harry Gibson. Nous utiliserons l’adaptation de Gibson et ses traductions belge et québécoise pour aborder la question de la traduction théâtrale. Nous présenterons tout d’abord le roman et sa version théâtrale, puis nous effectuerons une analyse comparative des traductions en question. Ensuite, nous retracerons les traducteurs, comparerons les versions et examinerons la position traductive, le projet de traduction et l’horizon traductif de chaque tandem. Le but de cette étude est de prendre en compte le caractère de l’adaptation en traduction théâtrale. La question primordiale soulevée en traduction théâtrale est bien « pour qui traduit-on ? ». Ces deux versions ont toutes deux adapté le texte de Gibson à leur culture respective. Non seulement le public doit être pris en considération dans tout horizon traductif, mais la notion de réception est aussi un facteur de la validité et de l’efficacité de la tradaptation.</p>
 
-
 ----
 
 abstract_en: <p>Irvine Welsh’s novel Trainspotting has given rise to several different adaptations : Danny Boyle’s cult movie, and Harry Gibson’s theatrical adaptation. Gibson’s play and its Belgian translation and its Quebec translation bring out issues related to stage translation. First, we will present the novel and its theatrical adaptation, then we will perform a comparative analysis of the two translations in question. Next, we will trace a portrait of the translators, compare their versions, and examine their translative positions and horizons, and translation projects. The goal of this analysis is to highlight the aspects of the adaptation process which shaped the theatrical translations. The fundamental question posed by the practice of theatrical translation is “for whom do we translate ?” These two versions have both adapted Gibson’s text to their own culture. When discussing the translative horizon of a given work, one must not only take into consideration the public, but also the notion of reception, which is a leading factor in judging the validity and effectiveness of a transadaptation.</p>
-
 
 ----
 
@@ -169,8 +167,6 @@ Mark— Ouais…
 <blockquote><p>Plus sombre, plus sale, plus décousue, plus rugueuse que le film de Danny Boyle, <em>Trainspotting,</em> la pièce, ressemble à une série de shoots : une succession de flashs —où une drôlerie dérisoire le dispute à l’horreur— entrecoupée de noir. Les mots, traduits avec une efficace rythmique ordurière par Wajdi Mouawad et Martin Bowman, s’y bousculent, les émotions se télescopent. Pas toujours intelligible (comme le film d’ailleurs, en patois édimbourgeois), mais prenant. Un climat, un beat (Labrecque 1998).</p></blockquote>
 <p>Le but de cette étude n’était pas de chercher la meilleure version aux dépens de l’autre, mais bien de prendre en compte le caractère d’adaptation de la traduction théâtrale. La question primordiale soulevée en traduction théâtrale est bien « pour qui traduit-on ? ». La traduction théâtrale est avant tout une adaptation qui s’adresse à une communauté donnée, à une époque déterminée de son histoire. Elle est influencée par la mise en scène et la performance, voire la <em>théâtralité.</em> L’une des particularités de la traduction théâtrale est qu’elle est régie par les metteurs en scène, les comédiens et le public. « Dans le domaine du théâtre, il est vrai que le rapport étroit entre texte et jeu ne peut que justifier et faciliter la démarche du traducteur qui peut, dans une certaine mesure jouer des signes verbaux et non verbaux » (Tomarchio 1990 : 86). Les deux tandems de traducteurs ont choisi d’adapter le texte de Gibson (qui est lui-même une adaptation, une traduction intersémiotique de l’œuvre de Welsh) à leur culture respective. Non seulement le public doit être pris en considération dans tout horizon traductif, mais la notion de réception est aussi un facteur de la validité et de l’efficacité de la <em>tradaptation.</em> La traduction théâtrale est une expérience en soi. C’est la question du rapport d’une langue à une autre, d’une culture à l’autre, d’une histoire à l’autre… Comment faire réapparaître l’autre histoire, l’autre culture, l’autre langue dans celle de la traduction ?</p>
 
-
-
 ----
 
 references: 
@@ -189,16 +185,9 @@ references:
  	<li>TOMARCHIO, Margaret, « Le théâtre en traduction : quelques réflexions sur le rôle du traducteur (Beckett, Pinter) », <em>Palimpsestes</em> n° 3, <em>Traduction/Adaptation,</em> Paris, Publications de la Sorbonne Nouvelle, 1990, p. 86.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] Cet article est la version écrite d’une communication présentée au colloque <em>Odyssée de la traductologie,</em> tenu le 21 mars 2003 à la Bibliothèque nationale du Québec.
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>À partir de textes de Lacan et de Kierkegaard, l’auteur pense la séduction en tant que réponse à l’angoisse. Dans un premier temps, il situe l’angoisse du sujet de l’inconscient en tant qu’expérience impossible du désir de l’Autre. Ensuite, il propose une lecture d’extraits du Journal du Séducteur où la jouissance esthétique de l’écriture sert à maîtriser l’angoisse causée par un surplus de jouissance.</p>
 
-
 ----
 
 abstract_en: <p>Based on readings of Lacan and Kierkegaard, the author thinks of seduction as an answer to anxiety. First, he frames anxiety within the theory of the subject of the unconscious as the impossible experience of the Other’s desire. He then reads excerpts from the Seducer’s Diary where the aesthetic jouissance of writing serves the purpose of mastering the anxiety caused by a surplus of jouissance.</p>
-
 
 ----
 
@@ -37,7 +35,6 @@ text: <p>How can one speak of seduction and anxiety in the same breath ? A surp
 <blockquote><p>Have I become blind ? Has the inner eye of the soul lost its power ? I have seen her, but it is as if I had seen a heavenly revelation—so completely has her image vanished again for me. [&#8230;] My eyes fixed unswerveling upon her. They no longer obeyed their master’s will ; it was impossible for me to <em>shift</em> my gaze and thus overlook the object I wanted to see—I did not look, I stared. (Kierkegaard 1987 : 323)</p></blockquote>
 <p>Further on, having gone through the pangs of not being able to find his beloved in the green cloak, our seducer comes to the conclusion that although meeting a young woman in the street is more enigmatic (326), meeting someone in society comes with useful information if one should like to find her again (328). In other words, the young lady would no longer be confined to his Imaginary but would also have a certain foothold in the character’s Symbolic order. This, however, is merely a consolation. If we go back to their encounter, we read that “It was impossible [for him] to look down, impossible to withdraw [his] glance, impossible to see, because [he] saw far too much” (323). If we turn back to the Complete Graph for a second look, we see that the <em>objet a</em>, as the upholder of the gaze, is precisely to be found on the projectory of need. It is not desire expressing itself through signifiers but in the alienating potential of images, in the light that shines down on them in a chiaroscuro that reminds one of the ambivalent optic play of <em>fort-da</em>. We should remind ourselves that the <em>objet a</em> is not the object itself that is desired : it is the light absent in the object itself but that infuses it with what we find desirable. However, when the <em>objet a</em> threatens to manifest itself, we experience the second type of anxiety that I briefly remarked upon above.</p>
 <p>In conclusion, I would say that Kierkegaard seeks to demonstrate how the writing of these events, their esthetical rendering, alleviates the anxiety they caused Johannes. Of course, my analysis of the text’s poetic jouissance does not take into consideration the whole book and its developing narrative. My purpose in using these literary examples was to replace seduction in a wider psychoanalytic framework, namely as a repetitive answer to the anxiety present in the very constitution of the desiring subject. Furthermore, the sketching out of the seducer’s structural economy of anxiety in regards to his object of desire points to the reasons why feelings or affects do not voice the origin to which they react : they have a way of covering up what we cannot handle, namely the Other’s constitutive disinterest in our desire.</p>
-
 
 ----
 

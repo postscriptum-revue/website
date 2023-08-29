@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’article vise les rapports herméneutiques très complexes que l’intertextualité entretient avec la traduction littéraire, à travers un cas particulier : les rênes linguistiques, culturelles et politiques quand l’écriture intertextuelle piège le travail du traducteur.</p>
 
-
 ----
 
 abstract_en: <p>In my analysis, I look at the complex relationship between intertextuality and any literary translation, focusing on a personal experience of such a translation work: how a labyrinth of cultural, political and above all linguistic games might entrap the translator and loose the hermeneutic core of the source text.</p>
-
 
 ----
 
@@ -61,7 +59,6 @@ text: <p>Vers la fin des années 90, alors que j’essayais de pénétrer dans l
 <p>Ce n’est donc qu’à la fin que j’ai réussi un clin d’oeil à la roumaine à la dimension érotique de ce qui est caché dans le jeu de mots <em>pine/balls</em>. En roumain, l’expression populaire vulgaire « futerea futerilor », bien que grossière à son origine, n’est qu’un superlatif stylistique. J’ai ajouté une note explicative en ce qui concerne l’allusion respective (quelques mots sur Ducharme et son roman). L’affrontement des deux registres linguistiques – si définitoire dans le contexte historique québécois – ne peut pas être gardé : pour jouer au pinball, il faut avoir, d’abord, des « balls ». À bon lecteur/entendeur, salut !</p>
 <p style="text-align: center;">*</p>
 <p style="text-align: left;">Malheureusement, dans le contexte du 9/11, la publication de cette histoire d’un terroriste postmoderne qui tire sur des boîtes de Coca-Cola et s’empare de la tour de contrôle d’un aéroport a été refusée par la maison d’édition roumaine <em>Junimea</em> de peur de ne pas perdre les contributions financières de l’Ambassade Américaine de Bucarest. D’un coup, il fallait bien jouer le rôle de la « Nouvelle-Europe » alliée dans la coalition de G.W. Bush. J’aimerais beaucoup voir, un jour, le roman de Louis Hamelin publié en roumain. <em>La Rage</em> est un texte d’une beauté exquise qui mériterait d’être ajouté au trésor de littérature française et francophone traduite déjà en roumain. Sinon, à quoi bon la littérature?</p>
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La présente contribution aborde la question de la réécriture de l’histoire dans <em>Iḍ d Wass </em>de l’écrivain d’expression kabyle Amer Mezdad. Il s’agira d’examiner le matériau historique inséré dans ce roman afin d’appréhender le sens que celui-ci confère au récit romanesque. En effet, à divers endroits, la dimension historique dans l’œuvre de Mezdad est fortement ressentie là où des moments charnières de l’histoire de la Kabylie sont représentés. Ainsi, notre interrogation est la suivante : comment la narration romanesque participe-t-elle à la relecture de l’histoire coloniale de la Kabylie? Afin d’y répondre, nous partons de l’hypothèse selon laquelle Mezdad redéploie le récit historique pour nous livrer sa propre lecture de l’histoire et propose par là un regard rétrospectif pouvant mener à une meilleure compréhension de l’histoire contemporaine de la Kabylie. Cette lecture vise non seulement à délivrer l’histoire des grilles d’analyse établies par les circuits officiels de l’État algérien, mais aussi à concilier la mémoire collective kabyle, nourrie par l’oralité, et l’Histoire. Par ailleurs, nous pensons que cette réflexion doit être inscrite dans un cadre théorique qui tient compte du rapport entre histoire et littérature ainsi que de l’apport de l’oralité dans l’écriture de l’histoire.</p>
 
-
 ----
 
 abstract_en: <p>This contribution addresses the issue of the rewriting of history in <em>Iḍ d Wass</em> by the Kabyle-speaking writer Amer Mezdad. We will examine the historical material inserted in this novel to apprehend the meaning it gives to the novelistic narrative. Indeed, in various places, the historical dimension in Mezdad’s work is strongly felt where pivotal moments in the history of Kabylia are represented. Thus, our question is the following: how does novelistic narration participate in the rereading of the colonial history of Kabylia? In order to answer this, we start from the hypothesis according to which Mezdad redeploys the historical narrative to give us his own reading of history and proposes by the same token a retrospective look that can lead to a better understanding of the contemporary history of Kabylia. This reading is intended not only to free history from the reading grids established by the official circuits of the Algerian State, but also to reconcile it with the Kabyle collective memory, nourished by orality. Moreover, we think that this problem will only be clearer if we place it in a theoretical framework that is dealing with the relationship between history and literature as well as with the contribution of orality in the writing of history.</p>
-
 
 ----
 
@@ -109,7 +107,6 @@ text: <p>Introduction</p>
 <p><a href="#_ftnref11" name="_ftn11">[11]</a> Nous avons montré ailleurs l’importance de la temporalité dans l’œuvre de Mezdad. Pour plus de détails sur cette question le lecteur est convié à consulter la contribution suivante : Ayad, Salim. « Espace/temps et imaginaire dans l’œuvre romanesque d’Amer Mezdad ». <em>Akofena</em> vol. 3, no. 006 (septembre 2022) : 411-420. <a href="https://doi.org/10.48734/akofena.n006v3.36.2022">https://doi.org/10.48734/akofena.n006v3.36.2022</a></p>
 <p><a href="#_ftnref12" name="_ftn12">[12]</a> Pour de plus amples informations concernant ce sujet, nous renvoyons le lecteur à l’étude suivante : Tal, Shuval. « Remettre l&rsquo;Algérie à l&rsquo;heure ottomane. Questions d&rsquo;historiographie ». <em>Revue des mondes musulmans et de la Méditerranée</em> vol. 95-98 (2002) : 423-448. <a href="https://doi.org/10.4000/remmm.244">https://doi.org/10.4000/remmm.244</a></p>
 <p><a href="#_ftnref13" name="_ftn13">[13]</a> « Ma d nekkni glan yes-neɣ. Nettwet ɣer wallaɣ: d tatut i d-iɣlin fell-aɣ. […] D tiniri i d amezruy-nneɣ, d ilem ideg nezzer. Nniqal nemmmeɣ deg tillas n at war imawlan, n at war iẓuran ».</p>
-
 
 ----
 

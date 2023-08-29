@@ -1,16 +1,18 @@
-title: Grandeur de l’Empire
+Title: Grandeur de l’Empire
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-number: 16
+Number: 16
 
 ----
 
-intro_text: <p>Pour marquer la reprise de la revue, après de longues années d’absence, la nouvelle équipe éditoriale a préparé un numéro éclaté, atypique, fonctionnant tantôt comme un catalogue d’exposition, tantôt comme une revue académique traditionnelle. On y trouve, entre autres, les notes de travail d’un musicien, le journal de bord d’un directeur de département, un billet du blog Trahir augmenté et annoté par l’auteur, un compte rendu critique d’un livre controversé ; mais plus encore, ou autrement : un article sur une fausse affirmation de la NASA, une étude s’intéressant à une série de livres pour enfants, ainsi qu’un entretien sur la littérature, les langues et la philosophie avec Barbara Agnese, nouvelle professeure au département. Marqué par des différences profondes, non seulement sur le plan du contenu, mais également sur celui de la forme et de la fonction du médium, ce numéro cherche ainsi à mettre en relief le caractère pluriel de la littérature comparée, en contraste justement avec la notion d’Empire formant son noyau thématique – se voulant, du même coup, une réflexion rétrospective sur l’exposition <em>Grandeur de l’Empire – essai de comparatisme visuel</em>, présentée par le département de littérature comparée à l’automne dernier.</p>
+Intro-text:
+
+<p>Pour marquer la reprise de la revue, après de longues années d’absence, la nouvelle équipe éditoriale a préparé un numéro éclaté, atypique, fonctionnant tantôt comme un catalogue d’exposition, tantôt comme une revue académique traditionnelle. On y trouve, entre autres, les notes de travail d’un musicien, le journal de bord d’un directeur de département, un billet du blog Trahir augmenté et annoté par l’auteur, un compte rendu critique d’un livre controversé ; mais plus encore, ou autrement : un article sur une fausse affirmation de la NASA, une étude s’intéressant à une série de livres pour enfants, ainsi qu’un entretien sur la littérature, les langues et la philosophie avec Barbara Agnese, nouvelle professeure au département. Marqué par des différences profondes, non seulement sur le plan du contenu, mais également sur celui de la forme et de la fonction du médium, ce numéro cherche ainsi à mettre en relief le caractère pluriel de la littérature comparée, en contraste justement avec la notion d’Empire formant son noyau thématique – se voulant, du même coup, une réflexion rétrospective sur l’exposition <em>Grandeur de l’Empire – essai de comparatisme visuel</em>, présentée par le département de littérature comparée à l’automne dernier.</p>
 <p>À cet égard, l’idée d’Empire recoupe, au contraire, un désir d’uniformisation du savoir et des genres, de même que l’unilatéralité d’une langue sans faille et sans métaphore, comme une sorte d’hygiène historique dans le temps homogène du progrès. Point d’horizon d’un achèvement humain relevant de l’évidence dans ce discours, cet Empire projette, en apparence, une émancipation radicale des individus, qui se joue en fait aux dépens (ou en l’absence) de chacun, déléguant la conjugaison sociale à des principes de gestion institutionnels, tels d’ailleurs que l’université, qui se trouve au centre d’un conflit d’intérêts croissant de nos jours. Dans ce contexte, la littérature comparée voudrait se considérer comme point de résistance, ou, à tout le moins, désigner ce qui pourrait l’être.</p>
 <p>C’est ainsi que doit se comprendre, à nos yeux, la présence d’une exposition telle que <em>Grandeur de l’Empire</em> dans le cadre universitaire où elle s’est installée, en 2013. En effet, l’exposition proposait la définition du trope impérial comme « ce qui demande de voir grand », ce qui fabule la grandeur, et donc, par contraste, ce qui détermine des zones de petitesse, des anfractuosités que le dispositif comparatiste a voulu relever, mettre en conflit. Au sein des collages filmiques de l’exposition, par exemple, c’est par cette myriade de détails et de fragments subordonnés à un environnement « plus grand que nature » qu’une vision critique pouvait s’établir, l’hétérogénéité des images projetées perdant leur différence au sein d’un « master narrative » où leur qualité de fragments résistait néanmoins, détonnait, bloquait l’évidente continuité du propos. Ainsi, le message se dérobait à l’impasse d’un sens unique, pour questionner les possibilités du langage visuel lui-même, sans lui conférer quelque statut gratuit. Car si l’image est une force critique revendiquée par les exposants de <em>Grandeur de l’Empire</em>, c’est dans la mesure où sa mise en scène ne vise pas seulement à présenter une idée, mais à mettre en question le dispositif par lequel celle-ci se présente, se pense ou se donne à voir.</p>
 <p>C’est ce que Simon Harel, dans le premier article de ce dossier, relève de son côté, et ce, de manière surprenante, dans un journal de bord personnel interrogeant son rôle de directeur de département, remettant en question certains principes organisationnels régissant le savoir en fonction de la relation qu’ils créent entre l’institution et la personne. Cela, pour Harel, se réfléchit notamment par l’organisation spatiale propre de l’université, dont il fait l’expérience de la discontinuité à travers la mise en œuvre événementielle de <em>Grandeur de l’Empire</em> : longitudinalité des lieux de travail et des corridors anonymes, rencontrant à angle droit la verticalité imaginaire d’un savoir qu’ils mettent en scène. Harel, qui ne trouve que rarement le site de l’exposition sans se perdre, trace dans son parcours un motif contrastant, qui en appelle à la mobilité, au dehors, à la communauté des tâtonnements. Son texte, dans la perspective de la « théorie portative » qui est sienne, fonctionne ainsi comme un seuil : on se trouve, dans ce contexte, au seuil d’une institutionnalisation rectiligne du savoir, mais également d’une forme surprenante, renouvelée de celui-ci, dans les égarements que son dédale provoque sans le vouloir.</p>
@@ -23,18 +25,18 @@ intro_text: <p>Pour marquer la reprise de la revue, après de longues années d�
 <p>Puis, pour terminer en beauté ce numéro, nous vous proposons finalement un entretien avec Barbara Agnese, nouvelle professeure au département de littérature comparée de l’Université de Montréal, réalisé par Catherine Lemieux. Figurant comme un texte hors dossier, l’entretien aborde toutefois directement ces enjeux de la différence et de l’inter ou transdisciplinarité que le numéro a voulu mettre en rapport, qui se retrouvent ici discutés sur un terrain spécifiquement littéraire. Agnese et Lemieux, en effet, y parlent de l’importance de la littérature et du dialogue des langues, en tant que brèches dans la pensée unique permettant une réflexion au-delà des textes, vers ce qu’Ingeborg Bachmann nommait le <em>jugement vivant</em> de la pensée – une contrée de l’esprit qui n’a résolument rien d’impérial ni de fossile…</p>
 <p>Bonne lecture, donc, et longue vie au renouveau !</p>
 
+----
+
+Credits: 
 
 ----
 
-credits: 
+Date: 2014-04-15 00:00:03
 
 ----
 
-date: 2014-04-15 00:00:03
+References: 
 
 ----
 
-references: 
-
-----
-
+Uuid: 3SNF0mHnVf9FGYMe

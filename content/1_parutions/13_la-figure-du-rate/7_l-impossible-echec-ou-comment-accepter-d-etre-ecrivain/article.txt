@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’imaginaire littéraire contemporain est encore fortement marqué par les figures de ratés et d’écrivains maudits devenus, depuis le XIXe siècle, les représentants mythiques d’une littérature sans compromission : l’échec se renverse ainsi en victoire pour ces écrivains, prêts à tout perdre au nom de l’œuvre, qui considèrent leur exclusion comme la preuve de leur authenticité et de leur légitimité. Les nombreuses représentations d’écrivains souffrants dans la littérature fictionnelle sont le reflet de la persistance de ce scénario auctorial. Cependant, il semble que ce déploiement de fictions d’auteurs négatives constitue en son cœur une entreprise salutaire de lutte contre un naufrage possible de la littérature : ces récits mettent en scène l’insatisfaction provoquée par la réussite littéraire et interrogent la fascination qu’à l’inverse l’échec exerce sur les écrivains. L’exemple du roman Doctor Pasavento d’Enrique Vila-Matas montre comment la figure de l’écrivain résiste malgré tout à la tentation de l’abîme et se reconstruit à l’écart des ratés pour rendre impossible l’échec de la littérature.</p>
 
-
 ----
 
 abstract_en: <p>The contemporary representation of literature is still broadly influenced by images of unsuccessful and cursed writers who have become, since the nineteenth century, the mythical figures of uncompromising literature : failure is thus reversed into success for theses writers who put all their lives at stake for their works and consider the exclusion that they endured as proof of authenticity and legitimacy. Fiction is full of representations of suffering writers which can be analysed as a sign of the long-lasting presence of this authorial behaviour. However this profusion of fictional writers may conceal a salutary struggle against a possible ruin of literature : theses narratives show how literary success induces dissatisfaction and examine on the other side the mesmerizing effect of failure for writers. Enrique Vila-Matas’ novel, Doctor Pasavento, reveals how the figure of the author bears sinking attraction despite everything and rebuilds itself away from unsuccessful writers so as to the failure of literature does not happen.</p>
-
 
 ----
 
@@ -58,7 +56,6 @@ text: <p>La figure de l’écrivain malheureux et méconnu, du poète maudit pou
 <p>Le roman <em>Doctor Pasavento</em> révèle ainsi la présence d’un « cercle vertueux » caché derrière la mécanique du cercle vicieux exposée au début : en effet, la persistance du mythe du raté s’interprète désormais comme le signe d’une résistance de la littérature qui ne cesse de faire advenir cette figure négative pour se maintenir résolument à ses côtés. Enrique Vila-Matas a inscrit son œuvre romanesque, hantée par le renoncement et le silence, dans cette perspective. Il exprime un fantasme de disparition à travers le personnage de Pasavento, son double autofictionnel, qui lui emprunte de nombreux traits, pensées, expériences (la rencontre avec Bernardo Atxaga a réellement eu lieu) et même paroles (de nombreux passages du roman sont des emprunts à des articles qu’a écrits Enrique Vila-Matas). Le romancier se plonge ainsi avec ostentation dans la fiction afin de retrouver au terme de cette expérience littéraire une place pour l’écriture sur les traces d’Ingravallo, l’auteur public survivant à la disparition de Pasavento et nous transmettant le récit. De ce fait, l’échec fascinant reste strictement enclos dans la fiction et en outre dans le lieu le plus éloigné de la réalité du lecteur, cette terre brumeuse décrite dans les dernières lignes qui semble être le territoire de l’imaginaire.</p>
 <p>Il est vrai que la spirale négative qui s’est propagée dans l’imaginaire littéraire depuis la fin du XIXe siècle demande à la littérature un travail peut-être plus épuisant ou plus impressionnant qu’avant la rupture de la modernité, mais on constate que c’est aussi l’occasion d’un nouveau défi et par là d’un renouveau. Enrique Vila-Matas comme d’autres auteurs contemporains se sont attelés à cette tâche avec conviction : dans leurs œuvres, ils emploient les moyens de la littérature, les ressources de la fiction et de l’invention narrative pour mettre à distance la figure du raté, séduisante mais sans doute pernicieuse pour la littérature. Michel Leiris, exprimant avec douleur son sentiment d’échec, refusait déjà de renvoyer au néant toute son œuvre malgré ses pulsions destructrices : « <em>I’ll burn all my books !</em> » proclame-t-il au début de « Musique en texte et musique antitexte » sans pouvoir jamais s’y résoudre. Comme le montre Nathalie Barberger, « écriture dénonçant l’écriture, verre de plus qu’on boit pour faire passer celui qu’on vient de boire » (Leiris 1985 : 171), ce livre est « ce long travail apologétique pour s’excuser d’avoir tant écrit » (Barberger 1998 : 229). L’écrivain lutte ainsi indéfiniment contre ses contradictions et contre une image de lui-même qu’il maintient et rejette alternativement. Or, si la blessure intime reste à vif dans l’écriture autobiographique, il semble que le transfert dans la fiction de l’image du raté, détachant cette figure mythique de l’auteur réel en l’attribuant à un autre imaginaire, offre le moyen d’un renversement et, en cela, d’une rémission. Le double fictionnel fait l’épreuve, à la place de l’auteur, de la tentation de l’échec et constate son inachèvement puisque le récit met en évidence la présence de cet être insaisissable et pourtant indéfectible : ce fantôme de l’écrivain qui réapparaît toujours. Les fictions d’auteurs offrent ainsi un lieu d’expérimentation où rechercher une issue au scénario de la malédiction : elles opèrent une refondation du statut de l’écrivain afin de se le réapproprier autrement et de rendre impossible l’échec de la littérature. Il reste cependant à savoir si ces dédoublements fictionnels et ces mises en scène romanesques seront à même d’agir en retour sur les postures contemporaines des écrivains et de remodeler notre imaginaire. La lutte fictionnelle engagée dans ces récits porte l’espoir en tout cas d’une nouvelle conciliation entre le statut d’écrivain et un idéal littéraire.</p>
 
-
 ----
 
 references: 
@@ -83,36 +80,17 @@ references:
  	<li>___, Docteur Pasavento, Traduit de l’espagnol par André GABASTOU, Paris, Christian Bourgois, 2006 [2005].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Même si David Lodge a vécu douloureusement la publication de ce livre, devancé de quelques mois par le roman <em>The Master</em> de Colm Tóibín sur un sujet très proche (comme il le raconte dans <em>The Year of Henry James. The Story of a Novel</em>), <em>Author, Author</em> n’a pas manqué de lecteurs et a eu des revues de presse plutôt favorables.
 
-
-
-
 [2] Voir le chapitre VII « Suicides en série ».
-
-
-
 
 [3] C’est ainsi que l’on nomme les textes de Walser qu’il a composés en secret d’une écriture minuscule au crayon sur diverses feuilles de papier.
 
-
-
-
 [4] Humbol a gagné une notoriété littéraire conséquente par son œuvre passée, bien qu’il n’écrive plus depuis quinze ans.
 
-
-
-
 [5] Faute de place, je n’ai pas étudié ici la construction narrative singulière de ce roman où le récit discontinu du narrateur (écrit en plusieurs lieux et plusieurs moments) fait en outre de constants va-et-vient entre le passé proche et le présent d’écriture jusqu’aux chapitres terminaux où temps de l’action et de la narration semblent finalement se rejoindre.
-
-
-
 
 ----
 

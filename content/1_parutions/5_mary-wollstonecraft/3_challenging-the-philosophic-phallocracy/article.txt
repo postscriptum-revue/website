@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article se penche sur les écrits fictionnels et philosophiques de Wollstonecraft et tente de démystifier la construction de la femme en tant qu’esclave d’un corps domestiqué, glorifiant son propre assujettissement (VRW 130). De plus, Wollstonecraft vise à ébranler la socialisation des femmes aux rôles subordonnés, prescrits et cautionnés par l’éducation et la culture de la classe moyenne. Ces rôles sont également exprimés et maintenus par la tradition philosophique patriarcale. Dans son texte polémique A Vindication of the Rights of Woman, Wollstonecraft demande à ce qu’on la reconnaisse non seulement en tant que femme, mais aussi en tant que philosophe et sujet rationnel doté de droits. Sa stratégie d’écriture crée un lien entre l’argumentation et la fiction dans le but de définir un raisonnement et une subjectivité féminine potentiels. Maier explore comment Wollstonecraft développe la notion du droit des femmes et comment cette autonomie postulée perturbe le concept traditionnel du discours philosophique. Cet article explore donc l’inclusion d’un discours social et moral défini par les femmes, et leur traitement dans la fiction Maria, qui fait l’illustration du préjudice encouru par les femmes privées du droit d’autodétermination.</p>
 
-
 ----
 
 abstract_en: <p>This article considers how Wollstonecrafts philosophical and fictional writing attempts to demystify the eighteenth-century construction of women as domesticated slaves to their bodies, [who] glory in their [own] subjection (VRW 130) and to disrupt the appropriation of women into the accepted, prescribed, subordinate roles of the middle-class through education, socialization and culture which are articulated and upheld by a patriarchal philosophical tradition. In her polemical text, A Vindication of the Rights of Woman, Wollstonecraft demands recognition for herself and for Woman as philosopher, speaking subject and woman possessing reason and right. Her writing strategy creates a nexus between argument and fiction in order to engage in and subvert the Enlightenments male-defined philosophic discourse in an attempt to define the possibility of feminine reasoning and subjectivity. Maier explores how Wollstonecrafts ideas of the female right to independence and desire disrupt the traditional idea of detached philosophical discourse, how such fluidity could result in inclusionary or female-defined philosophical, social and moral discourse, as well as how these ideas are further discussed in the fictional text, Maria, which demonstrates the great cost to women who are denied the right to such self-construction.</p>
-
 
 ----
 
@@ -67,8 +65,6 @@ woman could recur to the first principles of things as well as man, [&#8230;] al
 <blockquote><p>&#8230;what are we, when the mind has, from reflection, a certain kind of elevation, which exalts the contemplation above the little concerns of prudence ! We see what we wish, and make a world of our own—and though reality may sometimes open a door to misery, yet the moments of happiness procured by the imagination, may, without a paradox, be reckoned among the solid comforts of life. Maria now, imagining that she had found a being of celestial mould—was happy,—nor was she deceived. (<em>M</em> 138)</p></blockquote>
 <p>In the end, Wollstonecraft’s subject is of illusory and temporary unity. In the real world of the text, in spite of possibilities raised for a woman, Maria’s life is one of submission, domination and oppression while Wollstonecraft’s reality is similarly complicated by the uneasy alliance of her philosophy and her desires ; thus, both Wollstonecraft and her character are seduced back into the symbolic patriarchal order that temporarily confines each in the role of passive and silenced other until the fragmented narrative might have come to completion. Writing as the desire that creates self-consciousness is clearly Wollstonecraft’s project in both of her texts, but unfortunately there too, her condemnation of Maria as representative woman writer of her historical time paradoxically inscribes Wollstonecraft herself into the patriarchal discourse and it threatens to dismantle and unravel her project ; however, Wollstonecraft’s revolution in female manners, and her attempts to demystify gender relations, are successful in <em>A Vindication of the Rights of Woman</em> and <em>Maria, or the Wrongs of Woman</em> even if she does not successfully complete her projected escape [13].</p>
 
-
-
 ----
 
 references: 
@@ -82,76 +78,33 @@ references:
  	<li>WOLLSTONECRAFT, M. <em>Mary and Maria : Or the Wrongs of Woman.</em> Toronto : PBC, 1992.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Some recent feminist critics, such as Sandra Gubar in “Feminist Misogyny : Mary Wollstonecraft and the Paradox of ‘It Takes One to Know One’” (<em>Feminist Studies.</em> 20.3 Fall 1994, p 452) claim that the difficulty with Wollstonecraft is that she leaves behind an ambiguous legacy for future women writers ; however, Gubar does acknowledge that Wollstonecraft “Represent[s] the masculinist voice in order to controvert its messages.”
 
-
-
-
 [2] Half a century later, one of the reasons that the Victorian author George Eliot, another woman writer with a defiant personal politic, is ironically accepted into the canon is because she is a woman who writes with a masculine mind and in the traditionally masculine mode of realism. In her text, <em>The Proper Lady and the Woman Writer</em> (1984), Mary Poovey cites Eliot’s recognition of the courage of Wollstonecraft as a foremother of women writers : “Remember, it has happened to many to be glad they did not commit suicide, though they once ran for the final leap, or as Mary Wollstonecraft did, wetted their garments well in the rain hoping to sink the better when they plunged. She tells how it occurred to her as she was walking in the damp shroud, that she might live to be glad that she has not put an end to herself and so it turned out. She lived to know some real joys, and death came in time to hinder the joys from being spoiled” (112).
-
-
-
 
 [3] Wollstonecraft had, herself, participated in this tradition with her earliest work, <em>Some Thoughts Concerning the Education of Daughters</em> (1787).
 
-
-
-
 [4] See section entitled, “Observations on the State of Degradation to Which Woman Is Reduced by Various Circumstances” (<em>VRW</em> 141-172).
-
-
-
 
 [5] Wollstonecraft is not alone in her ideas. Many connections can be made between the articulation of her ideas in her writing and those of Elizabeth Hamilton. I would like to thank my colleague, Dr. Charles Stewart-Robertson, for his insightful and enthusiastic comments on this project which will culminate in a co-authored on both women.
 
-
-
-
 [6] Read “unphilosophical” with the accompanying connotation of un“reason”able.
-
-
-
 
 [7] <em>A Vindication of the Rights of Men</em> was written in approximately a month, and <em>A Vindication of the Rights of Woman</em> was finished in six weeks.
 
-
-
-
 [8] Refer to"The Effect Which an Early Association of Ideas Has Upon the Character" (<em>VRW 219-225</em>).
-
-
-
 
 [9] See Hegel’s <em>Introductory Lectures on Aesthetics ;</em> specifically, the section on “the Conception of Artistic Beauty” (New York : PBC, 27-62).
 
-
-
-
 [10] This 18th century example in Wollstonecraft prefigures an ongoing debate regarding the constraints of language for woman and/or patriarchal language’s inability to express female fluidity which is still a site of contention in French feminist theory and philosophy.
-
-
-
 
 [11] For a convincing argument that Jemima’s story is the successful moment in <em>Maria ; or, the Wrongs of Woman,</em> see <em>The Proper Lady and the Woman Writer</em> (1984) in which Mary Poovey contends that Jemima’s story is “decidedly unsentimental” and that through her resilience, “Jemima’s story [...] is a radical, indeed feminist, story” with “anarchy implicit in Jemima’s brief assertion of female sexuality” which “explode[s] the assumptions that tie female sexuality to romance” (103-104).
 
-
-
-
 [12] In a sister art of the 18th century, Goya’s paintings create a parallel reminder of the closeness of monstrosity to both reason and libertinism.
 
-
-
-
 [13] I would like to extend my thanks to Dr. J. Charles Stewart-Robertson for his insightful comments and for our engaging conversations during the completion of this piece.
-
-
-
 
 ----
 

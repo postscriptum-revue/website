@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Déchirée par la mort du père, l’œuvre d’Hélène Cixous est une œuvre où le deuil se constitue en principe vital de l’écriture. Les tombes sont alors des lieux problématiques qui s’évident en cénotaphes. Signifiants partiellement coupés de leur signifié, elles indiquent comment le récit du deuil doit être pensé : comme l’inscription d’une présence absentée, d’une présence qui ne pourra se réaliser que dans l’affirmation d’une absence. Aussi est-ce la voix qui semble fournir au récit les possibilités mêmes de cette trace singulière. L’être disparu s’inscrit alors dans la logique de la lettre, trace signifiante autant que situation d’énonciation où l’adresse et la voix guident le récit. Cette lettre se fait alors événement en soi, événement épistolaire comme événement linguistique où les deux versants du signe se clivent. Assurément, le livre trouve dans cette lettre sa faculté de recueillir la présence de la disparition, de naître à l’infini sans jamais se clore définitivement comme un tombeau.</p>
 
-
 ----
 
 abstract_en: <p>Because of the death of father, Helene Cixous’s fictions are books in which bereavment is a vital processus in writing. Graves are problematic places which become cenotaphes. They are signifiers partially disjoint from a signified and they embody a very important aspect of the narrative because they show a presence realised in the absence. Thus it is the voice in itself which allows this mark in the narrative, with the letters, characters as well as missives. Indeed these letters are the way in which the narrative opens itself to the polysemy and the address to the dead, so that the book cannot become a grave but remain a perpetual rebirth.</p>
-
 
 ----
 
@@ -64,7 +62,6 @@ Mon père était rangé en moi derrière moi. Le voici rangé devant moi en pèr
 </blockquote>
 <p>Cixous s’élève contre l’embaumement, qu’il soit littéraire ou mémoriel. Le livre comme la tombe doivent mettre en communication morts et vivants, perturber les cloisons, déranger l’ordre, commander la porosité et le mélange. Aussi <em>OR</em> invente-t-il une autre organisation du livre de deuil présidant à une lecture nouvelle. Il met en effet en scène une situation intenable qui tient dans le choix impossible entre lire ou ne pas lire les lettres du père (Cixous 1997 : 61), situation qui rejoue le perpétuel dilemme qui travaille certains textes de Cixous, tiraillée entre aller ou ne pas aller à Manhattan, à Certes (<em>Manhattan</em>) ou à Alger (<em>Si près</em>). Cette aporie est la condition même de la présence du père dans son absence. L’essentiel avec les lettres est donc finalement de faire durer le venir. Toute l’œuvre sera ainsi un ne-pas-lire les lettres, une lecture vraie dans le refus d’une lecture. Le récit d’une non lecture, d’une « <em>promesse de lecture</em> » (Calle-Gruber 2002 : 98). Il semble alors que le retour des lettres soit en réalité le rétablissement de la situation que le décès a rompue. A la mort du père, il était en effet « trop tard pour appeler Lazare » (Cixous 1997 : 48). Toute l’œuvre sera donc cet appel au père, cette voix de l’écriture. Car ce Lazare que n’a pu être le père, « hors d’appel » (48), ne serait-ce pas alors le livre qui est chargé de le devenir ? Blanchot l’indiquait avec force : le Lazare qu’est le livre, est ressuscité par l’arrachement à l’auteur réalisé par le lecteur (Blanchot 1988 : 256-258). En ce sens, les lettres du père sont arrachées à leur auteur par leur destinataire qu’est la narratrice, elles sont réécrites par elle comme le lecteur réécrit le livre. La seule vraie écriture ou lecture se trouve dans cet arrachement qui est interpellation, qui est émergence d’une voix. Les lettres, le livre des lettres, l’être de ce livre de lettres, est bien appel à ressusciter par le biais de la singulière situation de communication qui se met en place. C’est bien pourquoi le Livre chez Cixous est à la fois tombe et cénotaphe, lieu de présences, que ce soit celle des morts, de celui qui écrit ou qui lit, qui s’affirment seulement dans leur absence.</p>
 
-
 ----
 
 references: 
@@ -86,36 +83,17 @@ references:
  	<li>FOREST, Philippe, <em>Le Roman infanticide. Dostoïevski, Faulkner, Camus. Essais sur la littérature et le deuil</em>, Nantes, Éditions Cécile Défaut, 2010.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Voir entre autres Derrida 2000 : 40-54.
 
-
-
-
 [2] Derrida parle à ce sujet d’une « métempsychose infinie » (2000 : 32).
-
-
-
 
 [3] Voir Derrida 2000 : 114.
 
-
-
-
 [4] Voir à ce sujet Calle-Gruber 2002 : 93-94.
 
-
-
-
 [5] Si, comme le précise Philippe Forest, « il n’y a pas de tombeau littéraire » (Forest 2010 : 120), reste néanmoins que le récit-tombeau semble demeurer à l’état de danger et de modèle repoussoir dans l’imaginaire d’Hélène Cixous.
-
-
-
 
 ----
 

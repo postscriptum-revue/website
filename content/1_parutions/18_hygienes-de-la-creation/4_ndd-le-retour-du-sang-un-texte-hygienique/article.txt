@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La perte du sang et d’un corps de son propre corps ponctue la vie de la femme et donne à l’expérience de la pensée une temporalité spécifique d’une part et, d’autre part, induit un certain rapport à la création (que je comprends indifféremment comme création théorique ou artistique). Une temporalité qui contrevient à la loi implicite de la production institutionnelle du savoir, et, à travers elle, à une loi beaucoup plus ancienne, voire primitive, des ensembles humains. Ce texte est une tentative de soumettre la pensée et l’écriture au rythme du sang, de remettre les corps en travers de leur chemin, et dont la faillite montre la difficulté de renoncer aux lois de la désincarnation.</p>
 
-
 ----
 
 abstract_en: <p>The loss of blood and of a body from her own body punctuates a woman’s life. It gives the experience of thought a specific temporality and introduces a different relationship to the creative act (whether theoretical or artistic). This temporality contravenes the implicit law of the institutional production of knowledge and thereby goes against a much more ancient – perhaps even primitive – law of human groups. This text is an attempt to subject thought and writing to the rhythm of blood. Its failure shows how difficult it is to renounce the laws of disembodiment.</p>
-
 
 ----
 
@@ -65,7 +63,6 @@ où l’humanité, pour assurer sa survivance, se verra réduite à cesser de «
 <p>Ce qui se cache derrière les voiles, réels et matériels que l’on a dressés devant la source du sang, le sexe féminin qui saigne – le « dernier tabou » de la sexualité comme l’écrivait Luce Irigaray – est-il force meurtrière ou, au contraire, le lien inextricable entre la création et l’absence d’événement, ce que Marguerite Duras a appelé « la vaine attente de l’événement » ? En lieu et place d’un meurtre inaugural de la finitude humaine, l’événement du sang comme sortie de scène du spectacle des meurtres sanglants – c’est bien là son obscénité ! – ce sang-là ne rachète rien ni personne, parce qu’il est indifférent à toute idée d’une culpabilité originelle.</p>
 <p>Conscience à la fois intime et irreconnaissable de la mort : dans les corps qu’elle perd elle reconnaît la vie en soi de ce qui ne peut se reconnaître. Vibrance d’un savoir des formes potentielles, dans un temps où elles peuvent encore se composer ou se décomposer, et entraîner avec elles une part de l’être qui est en train de créer : ce qui n’aura pas lieu, sera sa perte à elle. Temps de l’attente des formes encore indécidées – écrire dans ce geste suspendu de la création où l’œuvre se laisse sentir, laisse entendre un écho à rebours de sa prise de chair, et conservera dans son corps une marque de l’indécidabilité de la forme. Appel de ce qu’il y a à venir, à la fois l’œuvre et la mort, l’œuvre, la mort – l’une trébuchant dans l’autre</p>
 
-
 ----
 
 references: 
@@ -84,36 +81,17 @@ references:
  	<li>WOOLF, Virginia, <em>Three Guineas</em>, London, Penguin, 2000 (1938).</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Prenez par exemple, le département de littérature comparée de l’Université de Montréal, lieu incontournable d’une pensée intellectuelle critique à Montréal, voire en Amérique du Nord, qui n’a toujours pas d’intitulé portant sur les théories féministes, ou encore le département de philosophie de la même université qui aura attendu 2015 pour offrir son premier cours de philosophie féministe, et ce grâce aux efforts notables de la professeure Ryoa Chung.
 
-
-
-
 [2] À ce sujet, voir le livre d’Evyatar Marienberg, <em>Niddah. Lorsque les juifs conceptualisent la menstruation</em>, Paris, Les Belles Lettres, 2003.
-
-
-
 
 [3] Dans ce sens, les systèmes téléologiques judéo-chrétiens sont, pour Eliade, une abolition du temps différée dans un événement unique de régénération dans un « <em>in illo tempore</em> à venir ».
 
-
-
-
 [4] Voir Paolo Virno, <em>Le souvenir du présent</em>, <em>essai sur le temps historique</em>, Paris, Éditions de l’éclat, trad. de l’italien de Michel Valensi, 1999, sur le <em>déjà vu de l’histoire</em> comme projection de la modalité du possible, dans le dédoublement de l’expérience du présent comme actualité et possibilité, sur un passé déjà réalisé. La fiction contemporaine d’une fin de l’histoire nous condamnerait à répéter indéfiniment les gestes du passé.
 
-
-
-
 [5] Il est d’ailleurs intéressant de noter que le potentiel de contamination de la faute féminine opère à même le langage, puisque Niddah est passé de la femme à l’homme dans sa récupération par certains des premiers textes de propagande chrétienne, traitant les hommes juifs de « menstrués » pour le meurtre de Jésus.
-
-
-
 
 ----
 

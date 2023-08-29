@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans ce travail, nous avons l’intention d’examiner des stratégies de remaniement et de recréation employée par Suehiro Maruo dans le manga intitulé <em>Yume no q-saku</em> (2005) – qui comportent un ensemble complexe et imbriqué des procédures pertinentes à la traduction intersémiotique – pour réaliser une traduction intersémiotique du livre <em>Histoire de l’œil</em> de Georges Bataille. Pour cela, nous avons sélectionné quelques scènes du récit de Bataille et du manga de Maruo, en particulier la scène narrative intitulée <em>Recette de la soupe au caca</em> afin d’analyser les intersections existantes entre elles. Finalement, nous mettons en évidence comment les notions du langage de la sexualité et de la littérature de la jouissance extatique de Bataille deviennent l’érotique-grotesque de Suehiro Maruo en suivant les procédures de la traduction intersémiotique.</p>
 
-
 ----
 
 abstract_en: <p>Based on the intersemiotic translation theory, this essay focuses on some scenes from the works <em>History of the Eye</em>, Georges Bataille’s polemic novel, and <em>Yume no Q-saku</em> (manga) by pointing out their intersections and a few of the markers that unite them.</p>
-
 
 ----
 
@@ -70,7 +68,6 @@ text: <p>Currently, the theory of Translation Studies constitutes a prolific fie
 <p>The actions are gradually brought about to their extreme, culminating in <em>the little death</em> when approaching deadly actions. Then, a new terrifying setting is established, forcing the reader to confront the horror that was maintained astray at all costs. For Bataille, the act of dodging the horror is a big mistake, “since the horror reinforces the ‘attraction’ and excites the desire.” (SONTAG, 1987: 65).</p>
 <p>According to Sontag (ibid.: 65), before Bataille, themes such as transgression and death have never been treated in such a sophisticated way. Thus, the scenes described in his text bring to the center of the plot an awkward beauty that, before becoming execrable, casts doubt on the well-defined notions of pleasure, desire, eroticism, beauty, good, bad, etc. His notion of eroticism deals inseparably with violence and death (the second as the culmination of the first), leads the characters involved in the actions (particularly the victim) to go beyond the surface of a seemingly measured world, a “drab world in which men lead their estimated life”, and puts them in the vacuum of total disproportion. In this vacuum, “death and violence rave and cannot stop out of respect for the law that orders the social human life.” (BATAILLE, 2004: 92).</p>
 <p>In both Bataille and Maruo, the eroticism takes a totally forbidden dimension as it brings to the erotic realm themes such as death, excess, madness, scatology, incest, necrophilia, etc., which define and materialize their definition of eroticism, which results in the bright ecstasy that opens the door to the impossible. Hence, from the skilled eye of Maruo and his hyper-creative thinking comes a sophisticated translational operation, which according to J. Plaza’s discussions, originals and translations, although they are constituted as different languages, are directly linked by an isomorphic ratio, which defines translation as a rebuilding process. This way of thinking the translation process empowers the translator by shifting the translator’s position to the one of the creator; generating a piece of work which is at the same time a new equivalent. As was stated by Benjamin (2004: 19) “just as translation is a form of its own, so, too, may the task of the translator be regarded as distinct and clearly differentiated from the task of the poet.” (<em>Ibid</em>.: 19).</p>
-
 
 ----
 

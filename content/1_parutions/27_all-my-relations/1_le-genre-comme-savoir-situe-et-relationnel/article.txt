@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Leanne Betasamosake Simpson, intellectuelle Michi Saagiig Nishnaabeg et auteure de l’essai <em>As We Have Always Done: Indigenous Freedom Through Radical Resistance </em>(2017), conçoit le genre comme un savoir à la fois situé et relationnel. Selon elle, le genre est un savoir vécu, ancré dans les corps et leurs relations à leur environnement. Définir le genre en tant que <em>savoir</em> permet de contester la notion même de savoir. Dans la pensée occidentale et coloniale, ce dernier est généralement considéré objectif et neutre. Selon cette conception, le genre, en tant qu’il est un outil contextuel dépendant d’individus, de territoires et d’expériences particulières, n’est pas un savoir. Cet article lie la pensée de Simpson, sa conception du genre comme savoir, à la théorie de la performativité du genre de Judith Butler. Pour Butler, militante féministe et philosophe américaine, le genre est un devenir, c’est-à-dire qu’il est en constante construction, il est <em>fait</em> et <em>défait</em> par les relations entre les individus et les attentes sociales qu’ils vivent. Pour ces deux auteures, le genre est semblable à un processus d’apprentissage qui ne peut exister à l’extérieur d’un réseau complexe de relations. Faire dialoguer Simpson et Butler permet donc d’examiner comment les savoirs, les corps et les genres peuvent être reconstruits en structures relationnelles, et déconstruits en tant qu’outils de la violence coloniale et hétéropatriarcale.</p>
 
-
 ----
 
 abstract_en: <p>Leanne Betasamosake Simpson is a Michi Saagiig Nishnaabeg intellectual and the author of the essay <em>As We Have Always Done: Indigenous Freedom Through Radical Resistance </em>(2017). She understands gender to be a form of knowledge that is situated and relational. According to her, gender is a lived knowledge, embedded in bodies and in their relations to their environment. To define gender as <em>knowledge</em> challenges the concept of knowledge itself. The latter is considered objective and neutral in Western colonial thought. Thus, gender, as a contextual tool that depends on particular individuals, territories and experiences, is not defined as knowledge. This article aims to link Simpson’s thought to Judith Butler’s theory of gender performativity. According to Butler, feminist activist and American philosopher, gender is a doing, something that is constantly being built, that is <em>done</em> and <em>undone</em> by the relations between individuals and the social expectations they face. Both Simpson and Butler consider that gender works as a learning process that cannot exist outside of complex webs of relations. A dialogue between them thus allows us to examine how knowledge, bodies and genders can be rebuilt into relational structures, and deconstructed as tools of colonial and heteropatriarchal violence.</p>
-
 
 ----
 
@@ -50,7 +48,6 @@ text: <p>Leanne Betasamosake Simpson, intellectuelle Michi Saagiig Nishnaabeg, e
 <p>Bien sûr, en Amérique du Nord notamment, le système hétéropatriarcal s’adapte pour normaliser certaines identités sexuelles et de genre qui sont plus facilement assimilables à sa structure capitaliste, c’est-à-dire certaines identités marginales qui sont tout de même privilégiées sur le plan du genre, de la race ou de la classe (Puar, 2012 : 9). Cette normalisation découle cependant d’une dynamique d’inclusion et d’exclusion qui sert à dépolitiser et à rendre disponible à la marchandisation les identités incluses et à remarginaliser les identités exclues.</p>
 <p>Enfin, j’aimerais revenir sur l’appel que fait Simpson aux personnes canadiennes issues de la colonisation qui nous incite à trouver une façon de vivre qui n’est pas basée sur la violence et l’exploitation. Il me semble que de reconnaître son genre en tant que savoir situé et relationnel est un premier pas vers la déconstruction de la conception occidentale du savoir née de la colonisation. C’est une façon d’incarner ce savoir situé et relationnel, de l’habiter dans les différentes sphères de nos vies en reconnaissant qu’il est un savoir valide. Reconnaître son genre comme savoir est une posture critique qui doit nous accompagner dans nos expériences et nous amener à questionner les structures de pouvoir qui déterminent qui peut savoir et par quelle méthode. Pour Justice, les relations sont des axes de la compréhension, et donc, <em>qui</em> peut savoir veut aussi dire <em>avec qui</em> peut-on apprendre. Butler affirme que nous devons chercher à nous reconstruire en relation avec les personnes que nous considérons être opposées à nous. Ces réflexions m’amènent à la conviction que je dois réapprendre à <em>apprendre avec</em> le territoire, avec les personnes autochtones, avec celles dont les pratiques et les savoirs me désorientent, avec mes émotions, avec mon corps, avec mon esprit, avec mon genre. C’est une façon de créer du sens pour moi, c’est un premier pas, très humble, qui, bien qu’il soit important, n’est pas suffisant et auquel je ne dois pas me limiter.</p>
 
-
 ----
 
 references: 
@@ -74,7 +71,6 @@ references:
  	<li>VIZENOR, Gerald. « Preface », <em>Manifest Manners: Narratives on Postindian Survivance</em>, Lincoln : University of Nebraska Press, 1999, p. vii-xvii.</li>
 </ul>
 
-
 <hr />
 
 <h3>Notes</h3>
@@ -87,8 +83,6 @@ references:
 -al de « survival » par le suffixe -ance. Le premier signifie un état passif alors que le second marque l’action et la duration dans le temps. Vizenor écrit : « Survivance is an active sense of presence, the continuance of native stories, not a mere reaction, or a survivable name » (1999 : vii). La survivance des peuples autochtones est leur construction continue de liens vivants avec le passé, le présent et l’avenir.
 
 <a href="#_ftnref2" name="_ftn2">[4]</a> J’utilise ici le terme de Dolorès Contré-Migwans. « Cosmovision » désigne une vision du monde ou une perspective à la fois spirituelle, physique, émotionnelle et cognitive (2019).
-
-
 
 ----
 

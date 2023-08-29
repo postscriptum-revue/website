@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Se dépeignant lui-même sous les traits d’un snob mondain paresseux, introspectif, excessivement nerveux et fragile de santé, le narrateur d’À la recherche du temps perdu semble au premier abord ne partager aucun point en commun avec une figure héroïque typique. Et pourtant, comme il le remarque à quelques reprises, notamment au début de Sodome et Gomorrhe, il s’est « battu plusieurs fois en duel sans aucune crainte, à cause de l’affaire Dreyfus » : l’examen attentif des passages de la Recherche où il est question de duel révèle que le narrateur jouait à ses heures du fer et de l’arme à feu, qu’il se battait dans les règles en véritable homme d’honneur et de principe respectant scrupuleusement le protocole. Par leur caractère bouffon, par leur apparent manque d’importance de répercussions, les évocations de coups d’épée ou de révolver échangés entre hommes de qualité critiquent avec ironie, mais tout en la reconduisant implicitement, une conception de l’héroïsme qui s’appuie sur une morale et une pratique aristocratiques désuètes, quoique toujours en vogue à la Belle Époque. L’article évalue le sens et la portée socio-idéologique de ce motif proustien peu étudié en le mettant en relation avec les discours sur l’héroïsme et l’honneur du duelliste qui circulent au tournant du XXe siècle dans une série de romans, d’ouvrages historiques et de traités d’étiquette.</p>
 
-
 ----
 
 abstract_en: <p>Portraying himself as a lazy, introspective, overly nervous lying snob, the narrator of À la recherche du temps perdu does not seem to share much in common with a typical heroic figure. Yet, as he notes several times, especially early in Sodome et Gomorrhe, he “fought several duels without fear, because of the Dreyfus affair” : a careful examination of passages in the Recherche where it comes to duelling reveals that the narrator fought regularly with sword or pistol, respecting the rules and principles, as a real man of honor. Through their comic treatment and their apparent lack of importance of impact in the novel, the evocations of duels seem at first hand to critic ironically this type of confrontation. However, they also implicitly re-conduct a practice based on an obsolete morality, though still popular in the Belle Époque. The article evaluates the meaning and socio-ideological grounds of that topic by relating Proust’s masterpiece with several writings (novels, historical works, press articles&#8230;) on heroism and honor of the duellist circulating in France at the turn of the twentieth century.</p>
-
 
 ----
 
@@ -62,7 +60,6 @@ aller se recueillir dans une chambre, écrire ses dispositions relativement aux 
 <p>Le duel va ici contre la nature première et essentielle héritée de la grand-mère. Il participe de la méconnaissance du moi véritable qui est masqué aux yeux de l’entourage par le moi superficiel engagé dans la vie sociale. L’obtention de réparations sur le pré est de plus une forme d’héroïsme fausse, pratiquée par imitation, qui n’est l’apanage de personne. À ce titre, il mérite d’être moqué, rendu ridicule, comme le fait le protagoniste devant ses pairs, et comme le fait aussi le narrateur au moment où il rapporte le faux duel du baron de Charlus. Mais la « nature » montrée par Marcel aux moments où il se bat en duel n’est pas moins « assez fière », et le narrateur ne manque pas de préciser qu’il n’était « nullement peureux ». D’ailleurs, si Marcel pouvait, comme le rapporte le narrateur, diminuer le « prestige moral » de ses duels en s’en moquant, c’est que, forcément, le jeune homme qui se battait et le vieil homme qui se remémore l’époque où il se battait reconnaissent tous les deux à ces combats répétés une forme indéniable de « prestige moral ».</p>
 <p>La présence du duel dans la <em>Recherche</em> montre comment, sous la IIIe République, la question de l’héroïsme était sujet d’ambivalence. D’une part, la rencontre sur le pré était tenue pour théâtrale et risible, mais d’autre part elle était aussi sensée révéler la véritable trempe morale d’un homme, mettre en lumière le courage dont il pouvait faire preuve, la générosité qu’il pouvait mettre à faire triompher les valeurs de vérité, de justice, de noblesse. C’est là l’indice d’un monde et d’un groupe social qui avaient besoin de se reconnaître en un modèle d’héroïcité tout en sachant que dans leur position, compte tenu de leurs moyens et de leurs traditions, cet héroïsme ne pouvait être que défaillant. La pratique du duel était cette chose éminemment auto-contradictoire qu’est un héroïsme de convention, dont on se moque sans cesser pour autant de le valoriser, de le pratiquer, de s’en glorifier et, parfois, d’en mourir.</p>
 
-
 ----
 
 references: 
@@ -82,51 +79,23 @@ references:
  	<li>TADIÉ, Jean-Yves, <em>Marcel Proust I. Biographie,</em> Paris, Gallimard (Folio), 1996.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Marcel Proust, <em>Le Temps Retrouvé,</em> dans <em>À la recherche du temps perdu III,</em> édition établie sous la direction de Jean-Yves Tadié, Paris, Gallimard, coll. « Bibliothèque de la Pléiade », 1988, p. 460. Désormais, les références à cet ouvrage seront placées entre parenthèses dans le corps du texte et seront indiquées par les numéros de tome et de page précédés par le sigle indiquant le volume désigné : CS = <em>Du Côté de chez Swann ;</em> JF = <em>À l</em>’<em>ombre des jeunes filles en fleurs ;</em> CG = <em>Du Côté de Guermantes ;</em> SD = <em>Sodome et Gomorrhe ;</em> P = <em>La Prisonnière ;</em> AD = <em>Albertine disparue ;</em> TR = <em>Le Temps retrouvé.</em>
 
-
-
-
 [2] Jean Béraud, l’autre témoin de Proust dans l’affaire Lorrain, est de son côté présenté comme l’« un de nos derniers chevaliers » (Proust 1971a : 550).
-
-
-
 
 [3] Dans ce passage, Guillet synthétise l’une des thèses développées dans Gabriel de Tarde, « Le duel », dans <em>Études pénales et sociales,</em> Paris, Masson, 1892, p. 1-83.
 
-
-
-
 [4] Statistiques tirées de Claire Vidalet, <em>Le duel dans la société civile française à la fin du XIXe siècle (1880</em>-<em>1899),</em> mémoire de maîtrise sous la direction de Christophe Charle, Université Paris I, 2003, p. 56 (cité par Guillet, 2007 : 64).
-
-
-
 
 [5] Dans le domaine littéraire, c’est notamment le cas pour les poètes russes Pouchkine et Lermontov qui trouvèrent tous deux la mort sur le pré, respectivement en 1837 et en 1841.
 
-
-
-
 [6] Toutes les citations qui précèdent proviennent de Jeanneney 2004.
-
-
-
 
 [7] Cette expression était en vogue au cours de la IIIe République parmi les nombreux publicistes qui cherchaient à discréditer l’institution du duel.
 
-
-
-
 [8] C’est dans <em>La Prisonnière</em> que le baron se remémore : « Ah ! J’ai eu de l’agrément avec ce ménage-là [Swann et Odette] ; et, naturellement, c’est moi qui ai été obligé d’être son témoin contre d’Osmond, qui ne me l’a jamais pardonné » (P, III : 804).
-
-
-
 
 ----
 

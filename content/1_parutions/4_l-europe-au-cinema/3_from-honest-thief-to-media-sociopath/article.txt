@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La relation passionnelle entre la France et les États-Unis sera examinée à travers le prisme réfracteur du film noir français. Une brève étude diachronique faisant apparaître l’image de plus en plus négative de la culture américaine dans le film noir français sera suivie d’une analyse détaillée de L’Appât de Bertrand Tavernier (1993). Basé sur un fait divers, le film raconte la trajectoire criminelle de trois jeunes français, gavés par un régime culturel de films d’action et de jeux télévisés américains et pourris par une société de consommation américanisée qui les conduiront jusqu’au meurtre. L’analyse débutera par une interrogation critique du propos du film, en apparence violemment antiaméricain, pour être ensuite reliée à des questions plus générales concernant la relation franco-américaine, notamment les craintes françaises et européennes devant le processus de mondialisation et le quasi-monopole hollywoodien du marché cinématographique mondial.</p>
 
-
 ----
 
 abstract_en: <p>The paper examines the on-going evolution of the love-hate relationship between France and the USA through the refracting prism of classic and contemporary French Film Noir. After a brief, diachronic survey suggesting the increasingly negative nature of images of American culture in French noir, I look at Bertrand Tavernier’s 1993 feature, L’Appât/The Bait. Based on a true story, the film tells how three fairly ordinary French teenagers, apparently drugged on a cultural diet of American thrillers and an Americanised consumer-driven French media, are driven to commit violent, cold-blooded murder. I begin my analysis of the film by interrogating its apparent charges of American media-materialism and cultural contamination. Finally, I relate this analysis back to broader issues in Franco-American relations, such as French and European fears of American-dominated globalisation and monopolization of the world’s film industries.</p>
-
 
 ----
 
@@ -69,8 +67,6 @@ pretty spectacular, nothing less than a complaint from the American that French 
 <p>In this case, the Americans were forced to back down on the issue, <em>l</em>’<em>exception culturelle</em> won the day and France has continued to foster and protect its national film industry, though for how long, is unsure.</p>
 <p>The battle for French and other European cinemas to maintain their national specificity and cultural integrity against the Goliath that is Hollywood is thus a very real one and surely, one worth fighting for. While less simplistically anti-American than has been argued, Tavernier’s agenda in <em>The Bait,</em> conceived during a period of GATT negotiations, when American share of the French box-office was just under 60%, and almost double that of local production, when cinema attendance in France was at an all-time low, is thus explainable in terms of national cinemas’ fight to survive in an increasingly free global market context. It is also defensible in terms of cultural diversity, in that the loss of national cinemas, as the cultural equivalent to the extinction of species, would result in the further impoverishment of our global cultural heritage.</p>
 
-
-
 ----
 
 references: 
@@ -106,21 +102,11 @@ references:
  	<li>WILSON, Emma, <em>French Cinema Since 1950 : Personal Histories,</em> Lanham (MD), Rowman and Littlefield, 1999.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Eg. Fritz Lang’s <em>Scarlett Street</em> (1945)<em>,</em> after Renoir’s <em>La Chienne</em> (1931) ; Anatole Litvak’s <em>The Long Night</em> (1947) after Carné’s <em>Le jour se lève</em> (1939) ; Tay Garnett’s <em>The Postman Always Rings Twice</em> (1946), after Pierre Chenal’s <em>Le dernier tournant</em> (1939).
 
-
-
-
 [2] A prominent public figure, Tapie rose to fame in the 1980s, as an entrepreneurial wiz-kid, later becoming involved in politics, and more recently, television, cinema and theatre. But in the 1990s, his career nose-dived, and at the time of <em>The Bait</em>’<em>s</em> release, his name and image had become synonymous with financial and political hubris, dishonesty and scandal.
-
-
-
 
 ----
 

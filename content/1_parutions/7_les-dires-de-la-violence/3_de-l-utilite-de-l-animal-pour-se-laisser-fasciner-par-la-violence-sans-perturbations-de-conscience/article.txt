@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p>La violence fascine l’être humain. Pourtant, ses manifestations lui sont difficiles à assimiler : chaque fois qu’elle fait irruption, la violence provoque un choc qui le laisse complètement démuni, au moins pour quelques instants. Pour le tirer de ce mauvais pas, la culture lui fournit des mots, des concepts et des gestes qui facilitent le travail d’intégration de la violence à son expérience. Par exemple, la simple phrase « ils ont tué mon ami » ou « j’ai tué mon frère » sont déjà des formes minimales d’intégration. De telles structures langagières sont néanmoins rudimentaires ; la culture munit l’homme de structures beaucoup plus complexes et efficaces. L’animal en est une, une des plus fréquentes, d’ailleurs. Le mythe en est une autre. Les deux se retrouvent dans le récit « Las Ménades » de Julio Cortázar, qui présente un déchaînement de violence hors du commun. Je concentre ici mes réflexions sur l’animal pour examiner comment il est utilisé en tant que structure, et quels problèmes suscite un tel usage.</p>
 
-
 ----
 
 abstract_en: 
@@ -36,8 +35,6 @@ text:
 <p>Cette machine anthropologique, qui gouverne tant les relations des humains entre eux que celles qu’ils entretiennent avec les animaux, parait toutefois caduque si on l’expose à la lumière d’une intuition que, étonnamment, tant Agamben que Cortázar ont eue, chacun à leur manière. <em>Final del juego</em>, le même recueil de récits où se trouve « Las Ménades », abrite un autre conte intitulé <em>Axolótl</em>. Ce dernier relate l’histoire d’un humain qui se transforme en axol6tl (ou ajolote), un animal très particulier. Le premier paragraphe proclame : « Ahora soy un axolótl [17] » (p. 189). Cette transformation se produit à la suite d’une longue période d’observation fascinée : le protagoniste allait chaque jour observer l’axolótl à l’aquarium, le visage collé contre la vitre. Le récit donne l’impression d’une certaine proximité, ou du moins une similarité, entre l’axolótl et l’humain. Un petit texte de Giorgio Agamben développe la même intuition et expose ce qu’est un axolótl [18] : il s’agit d’une sorte de salamandre albinos, explique Agamben, qui vit dans les eaux douces du Mexique. Elle présente un aspect infantile : une tête très grosse par rapport au corps, une peau opalescente et des pattes minces pourvues de doigts. L’axolótl possède aussi des caractéristiques typiques des larves de batraciens : une respiration par branchies et un séjour exclusivement dans l’eau. Il reste ainsi toute sa vie et se reproduit sans problème, comme tout autre espèce. Les scientifiques ont cependant découvert, à travers des expérimentations, que s’ils lui administraient des hormones, il se métamorphosait en animal amphibie normal : il perd ses branchies, développe une respiration pulmonaire et se transforme en un spécimen adulte de salamandre. Par conséquent, l’axolótl représente un type d’infantilisme obstiné, ou néoténie. Comme si cet animal s’obstinait à demeurer à l’état larvaire, et avait acquis la capacité de se reproduire dans cet état. Selon Agamben, cet infantilisme obstiné donnerait une clé pour comprendre l’évolution humaine d’une manière différente : elle ne se serait pas faite à partir de singes adultes, mais plutôt à partir de petits des primates qui auraient, comme l’axolótl, acquis la capacité de se reproduire. Une telle évolution expliquerait certaines particularités morphologiques de l’homme, qui correspondent non pas à celles des primates adultes mais à celles de leurs fœtus.</p>
 <p>Telle est l’idée d’Agamben, également suggérée dans le conte de Cortázar (à travers cette transformation mystérieuse d’un humain en axolótl, comme si une certaine proximité entre les deux facilitait le passage). Cette idée vient ébranler la machine anthropologique qui produit l’homme en le séparant de l’animal. Que l’être humain soit un organisme vivant demeurant perpétuellement dans un état infantile, cela pourrait impliquer que, s’il n’est pas absorbé par un élément de son environnement, c’est non pas parce qu’il s’ennuie et suspend du coup ses désinhibiteurs, comme le présente la théorie d’Heidegger, mais parce que dans son immaturité, il ne peut réagir directement, c’est-à-dire, de manière immédiate, à ce désinhibiteur. Le mode d’être décrit par Uexküll et attribué à certains animaux ne serait pas possible à l’homme en raison de son immaturité, qui le rend incapable de répondre aux désinhibiteurs (ou, du moins, capable de répondre uniquement à un nombre restreint d’entre eux, et de façon limitée, comme par exemple lorsque le nouveau-né se met à téter dès qu’on lui chatouille la lèvre). L’immaturité impose un délai, laisse un espace entre l’être humain et son milieu – l’humain ne peut refermer son monde autour de ses désinhibiteurs, dans une parfaite adéquation à eux. La violence dont il est capable n’aurait donc rien à voir avec une animalité. Le lion qui dévore la gazelle répond peut-être à un désinhibiteur, mais pas le spectateur qui s’en prend à un chef d’orchestre. La structure à laquelle recourt implicitement le narrateur de « Las Ménades » pour assigner la violence, la faire tenir dans le récit et contenir son énormité perd son assise, et la violence reparaît dans toute sa brutalité.</p>
 
-
-
 ----
 
 references: 
@@ -45,92 +42,39 @@ references:
 
 [1] Walter BENJAMIN, « Critique de la violence », dans <em>Œuvres I</em>, Paris, Gallimard, 2000, p. 210-243.
 
-
-
-
 [2] Julio CORTÁZAR, « Las Ménades », dans <em>Final del juego</em>, Madrid, Suma de Letra, 2003, p. 63. Les références suivantes à ce récit seront indiquées dans le texte par le numéro de page entre parenthèses. En français : « qu’on respecte avant tout leur digestion et leur bien-être », tiré de Julio CORTÁZAR, « Les ménades », dans <em>Nouvelles 1945</em>-<em>1982</em>, trad. Laure Guille-Bataillon, Françoise Campo Timal et Françoise Rosset, Paris, Gallimard, 1993, p. 293. Tous les passages traduits sont issus de cette édition.
-
-
-
 
 [3] « l’un s’essuyant les mains avec son mouchoir, l’autre défroissant son habit, le troisième réajustant son col » (p. 301 ).
 
-
-
-
 [4] « Don Perez me conduisit à ma place après m’avoir tendu un programme imprimé sur papier crème. Neuvième rang, légèrement sur la droite : le parfait équilibre acoustique. Je connais bien le théâtre Corona et je sais qu’il a des caprices de femme hystérique » (p. 293).
-
-
-
 
 [5] « des gens tranquilles et comme il faut qui préfèrent les mauvaises choses qu’ils connaissent aux bonnes qu’ils ne connaissent pas et qui exigent qu’on respecte avant tout leur digestion et leur bien-être » (p. 293).
 
-
-
-
 [6] « nous sommes un peu ses musiciens, nous aussi » (p. 294).
-
-
-
 
 [7] « Cela me désolait de me sentir en marge, de regarder tous ces gens du dehors, en entomologue. Mais qu’y faire, c’est toujours la même chose. J’ai même fini par utiliser cette aptitude pour ne pas me compromettre en quoi que ce soit » (p. 296).
 
-
-
-
 [8] « vieux renard » (p. 292) ; la traduction de <em>gruñeron</em> par « il y eut des protestations » (p. 294) ne rend pas la connotation animal de ce verbe qui désigne le grognement du porc ; « petites poules caquetantes » (p. 294) ; « comme un chameau assoiffé » (p. 295) ; « comme des mouches sur un pot de confiture », « les hommes en habit faisaient penser à une bande de corbeaux » (p. 296) ; « en écrevisses ruisselantes » (p. 297) ; « comme une bête à l’affût » (p. 298) ; « couinant comme un rat qu’on écrase » (p. 299).
-
-
-
 
 [9] Jacques Derrida conteste par exemple non pas qu’il y ait une séparation, mais la simplicité de la ligne séparant deux ensembles homogènes. Il appelle à penser une multiplicité de limites et de structures hétérogènes parmi le non-humain. Cf. « L’animal que donc je suis », dans <em>L’animal autobiographique</em>, Paris, Galilée, 1999 p. 298.
 
-
-
-
 [10] « à la fois dégoût et pitié » (p. 297).
-
-
-
 
 [11] « Incapable de bouger de ma place, je sentais croître dans mon dos comme une avancée de forces, une progression parallèle à celle de la femme en rouge » (p. 299).
 
-
-
-
 [12] « J’avais conservé assez de lucidité pour me demander pourquoi les musiciens ne se sauvaient pas à toutes jambes par les coulisses » et « …je me demandais si dans tous ces sauts et toutes ces courses quelqu’un ne s’était pas rompu bras et jambes » (p. 300).
-
-
-
 
 [13] « de spectateur je devins acteur moi aussi, emporté par ce raz de marée d’enthousiasme » (p. 300).
 
-
-
-
 [14] « Plus rien ne m’importait » (p. 301) ; « Je voyais tout cela, je m’en rendais parfaitement compte, mais en même temps je n’avais pas la moindre envie de me joindre au délire général, et mon indifférence, de ce fait, me causait une étrange impression de culpabilité » (p. 301 ).
-
-
-
 
 [15] « Quelle idée, aussi, de m’être égaré, par désœuvrement, dans un concert où… »(p. 293).
 
-
-
-
 [16] Giorgio AGAMBEN, <em>L’ouvert. De l’homme</em> et <em>de l’animal</em>, trad. de l’italien par Joël Gayraud, Paris, Éd. Payot &amp; Rivages, 2002.
-
-
-
 
 [17] « Et maintenant je suis un axolotl » (Julio CORTÁZAR, <em>Nouvelles 1945</em>-<em>1982</em>, <em>op. cit.</em>, p. 355).
 
-
-
-
 [18] Giorgio AGAMBEN, <em>Idée de la prose</em>, Paris, Christian Bourgeois Éditeur, 1998 [1988], p. 81-86.
-
-
 
 ----
 

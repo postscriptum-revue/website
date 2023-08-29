@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p>Sans cesse dans l’œuvre de Klossowski nous sont offerts des simulacres, êtres mortels ou divins, simulant quelque chose, dont le mode, s’il en est un, est celui de l’éclatement. Non pas des signes, mais bien des simulacres, qui jouent sans cesse d’eux-mêmes et de nous. Voilà que dans sa version du bain de Diane, la déesse se fait elle-même simulacre et entraîne ainsi Actéon à sa perte. Mais elle n’est pas le seul simulacre, puisque Actéon lui-même devient simulacre et un simulacre tiers s’immisce aussi, sous la forme du démon intermédiaire, permettant à Diane de s’incarner. Surgissement d’un triple regard qui relève toute l’ambiguïté du cercle infini, du retour éternel, à l’intérieur duquel se meuvent les simulacres. Dans ce désordre de simulation, qui n’en finit plus de se répéter, l’Amour devient manifeste. Entre Actéon et Diane se crée un lien amoureux, qui est désir-obsession, et qui ouvre chez Actéon la certitude d’une vision-à-soi, c’est-à-dire que la Diane qu’il a aperçue est sienne. Même le démon est amoureux, mais son amour est celui d’un voyeur et d’un joueur, qui prend plaisir à se rire de tous ceux qui ne sont pas lui. Décortiquer ces liens, ces regards et ces méprises, c’est là ce que propose ce texte.</p>
 
-
 ----
 
 abstract_en: 
@@ -67,7 +66,6 @@ text: <p>Des maintes représentations, ou mises en scène du mythe de Diane et d
 <blockquote><p>Dès qu’on analyse ces mots, on y relève à la fois la provocation et l’ironie : Raconte maintenant que tu m’as vue ayant déposé mon voile – Si tu le peux, libre à toi ! La provocation : Va donc le dire – va décrire la nudité de Diane – va décrire mes appas – c’est là sans doute ce que tu attends, ce que tes semblables aimeraient savoir ! l’ironie : Si tu le peux, libre à toi ! (Klossowski, 1956, p. 100)</p></blockquote>
 <p>Invitation à la décrire dans une langue qui n’est pas celle de l’espace du mythe, celle du jeu, une langue profane, ironie puisqu’il ne le peut déjà plus, déjà transformé, il a perdu l’usage de la parole. Si c’est dans l’art, voire dans le jeu, qu’il nous est possible de recouvrir le temps perdu à travers nos amours, tel que le dit Proust, alors c’est à moi, à nous qu’échoit la tâche de répéter sans cesse la métamorphose d’Actéon.</p>
 
-
 ----
 
 references: 
@@ -94,41 +92,19 @@ references:
  	<li>W. SMITH, Daniel, « Klossowski’s reading of Nietzsche : Impulses, Phantasms, Simulacra, Stereotypes », <em>Diacritics</em>, Vol. 35, N. 1, « Whispers of the Flesh, Essays in Memory of Pierre Klossowski », pp. 8-21, 2005</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Le mythe de Diane et Actéon n’a pas toujours pris la même forme et celui décrit par Ovide, dans lequel Actéon surprend Diane au bain, en est l’une des formes qu’on pourrait qualifier de tardives. L’article de Pascal Macary, « Du bain de Diane à Artémis l’ensauvagée », paru en 2005 dans la revue <em>Psychanalyse</em>, nous donne un aperçu assez intéressant des diverses formulations qu’a pris le mythe au fil des traditions. Il m’apparaît pertinent de noter que le mythe de Diane et Actéon, dans la forme qu’il a prise chez Ovide, est celui qui semble avoir le plus frappé l’imaginaire, notamment parce qu’il met en place un rapport érotique entre la déesse et Actéon qu’on ne retrouve point dans les autres versions.
 
-
-
-
 [2] Pensons notamment à celle de Rembrandt, de Cesari, de Balducci, de Albane, de Titien, de Boucher, etc. Klossowski, qui était aussi peintre et dessinateur, en a d’ailleurs réalisé plusieurs représentations picturales. Son texte débute tout d’abord par cette critique : « J’aimerais vous parler de Diane et Actéon : deux noms qui dans l’esprit de mon lecteur évoquent peu ou beaucoup de choses : une situation, des postures, des formes, un motif de tableau, à peine de légende, car l’image et le récit, vulgarisés par les encyclopédies, ont réduit à la seule vision d’un bain de femmes surprises par un intrus ces deux noms dont le premier fut l’un des mille que porte la divinité aux regards d’une humanité disparue. » (Klossowski, 1956, p. 7). Comme si, de par cette vulgarisation, l’histoire de Diane et Actéon avait perdu tous témoins.
-
-
-
 
 [3] Toute la difficulté se situe dans cette impossibilité de reconnaître Diane comme simulacre. C’est cette impossibilité qui fonde toute la réflexion de Klossowski. Le simulacre est la négation de sa propre différence. Il efface sans cesse les distinctions qui le constituent. Deleuze nous dit dans <em>Renverser le platonisme</em> : « Le simulacre n’est pas une copie dégradée, il recèle une puissance positive qui nie <em>et l’original et la copie, et le modèle et la reproduction</em>. Des deux séries divergentes au moins intériorisées dans le simulacre, aucune ne peut être assignée comme l’original, aucune comme la copie. […] Que le Même et le Semblable soient simulés ne signifie pas qu’ils soient des apparences ou des illusions. La simulation désigne la puissance de produire un <em>effet</em>. Mais ce n’est pas seulement au sens causal […] C’est au sens de « signe », issu d’un processus de signalisation ; et au sens de « costume », ou plutôt de masque, exprimant un processus de déguisement où, derrière chaque masque, un autre encore… ». (Deleuze, 1969, p. 303-304) Le simulacre, produisant un effet, signale à Actéon quelque chose qui lui, par ce signalement, se croit être en train de <em>lire</em> des signes. Et le simulacre de Diane qui se montre à lui, dans un dédoublement Diane-démon intermédiaire (dédoublement à propos duquel se penche le prochain paragraphe) ne permet aucunement de distinguer dans ce dédoublement ce qui serait, pourrais-je dire, le <em>vrai</em> du <em>faux</em>.
 
-
-
-
 [4] C’est dans la première méditation que Descartes pose l’hypothèse du malin génie, hypothèse certes hyperbolique qui lui permettra de jouer du concept de Dieu en tant qu’il évoque la possibilité d’un dieu trompeur, qui lui ne peut aucunement être concilié avec la bonté divine qui définit (en partie) alors le Dieu de l’église chrétienne. Le malin génie est, dit Descartes : « […] un certain mauvais génie, non moins rusé et trompeur que puissant qui a employé toute son industrie à me tromper. » (Descartes, 2007, p. 31-32). C’est Foucault, dans « La prose d’Actéon », qui a proposé une telle comparaison. Je me suis permise de la conserver ici, puisque, comme nous le verrons au fil de cet examen, cette description du malin génie s’applique, mais surtout, permet de mieux cerner les contours dessinés par Klossowski de ce qu’il appelle le démon intermédiaire.
-
-
-
 
 [5] Cette construction du paysage dont parle Deleuze dans <em>L’Abécédaire</em> se voit détaillée de manière beaucoup plus précise dans <em>Proust et les signes</em>, lorsqu’il traite des signes de l’amour. L’être aimé dit-il, porte un paysage enroulé en lui, que l’aimant ne cesse de tenter de dérouler. Ce paysage enroulé en l’être aimé demeure toutefois une construction, puisque jamais l’aimant ne pourra le dérouler au complet. Il n’est pas de satisfaction qui puisse répondre au désir amoureux. Ainsi, c’est par les signes offerts, volontairement ou involontairement par l’être aimé à l’aimant que celui-ci peut justement construire ce paysage qui reste incomplet. Les signes de l’amour ont comme principe d’être mensongers, car à toutes les fois où la construction du paysage semble terminée, un nouveau signe apparaît, niant les cloisons établies par l’aimant pour fermer le paysage. Avec les signes naissent toujours de nouveaux paysages, paysages qui ne sont pas tous offerts à l’aimant mais à d’autres et qui génèrent la jalousie, propre, dit Deleuze, au mouvement, au jeu de l’amour. Jeu d’enroulement et de déroulement constant entre le paysage, ou plutôt, les paysages contenus en l’être aimé et ceux créés par l’aimant. C’est sans doute là que peut se trouver une autre méprise d’Actéon, c’est-à-dire d’avoir cru que les signes que lui offrait à voir Diane, soit ceux de la chasse, du leurre, de sa pureté, etc., complétaient son paysage. Qu’il l’avait bien vu dans sa totalité, que la nudité de la déesse lui offrait à voir tout ce qui lui était possible de contempler en elle.
 
-
-
-
 [6] Ce passage d’une sphère à une autre, c’est le passage entre la sphère profane et la sphère sacrée : « La transgression excède sans le détruire un monde profane, dont elle est le complément. La société humaine n’est pas seulement le monde du travail. Simultanément — ou successivement — le monde profane et le monde sacré la composent, qui en sont les deux formes complémentaires. Le monde profane est celui des interdits. Le monde sacré s’ouvre à des transgressions limitées. C’est le monde de la fête, des souverains et des dieux. […] L’interdit, le tabou, ne s’opposent au divin qu’en un sens, mais le divin est l’aspect fascinant de l’interdit, c’est l’interdit transfiguré. La mythologie compose — parfois elle enchevêtre — ses thèmes à partir de ces données. » (Bataille, 1957, p. 76). L’amour qu’éprouve Actéon envers Diane se meut entre ces deux sphères, désir de transgresser l’interdit, qu’il a pourtant déjà bravé, d’une certaine manière, en l’observant nue, mais qu’il veut pousser par-delà ces frontières. C’est parce que l’interdit demeure que la transgression a lieu, certes ! Mais ce désir de transgresser l’interdit pour s’approcher, voire même, entrer carrément dans la sphère sacrée fait partie du paysage de Diane et de sa construction par Actéon. Bataille traite environ une ligne plus haut des mouvements contradictoires qui prennent place chez l’homme, soit celui de la terreur et celui de l’attrait. Ces deux mouvements sont liés à l’interdit et à la transgression, tout comme ils se meuvent en Diane, qui elle-même justement, consacre sa théophanie en bravant elle-même l’interdit, ou en le faisant braver à un autre. Je l’ai déjà dit, en Diane deux mouvements, celui d’être potentiellement possédable et celui de demeurer à jamais impossédée. Elle joue elle-même de cette ligne entre interdit et transgression et c’est dans le potentiellement qu’œuvrent les possibles !
-
-
-
 
 ----
 

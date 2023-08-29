@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article étudie l’image projetée et créée par les écrivains qui se traduisent, autrement dit leur identité discursive telle qu’elle peut s’étaler dans des préfaces, des lettres ou des entrevues. L’analyse de ces « paratextes » s’inspire du concept de « posture d’auteur », dérivé par Jérôme Meizoz de la sociologie de Pierre Bourdieu. Les résultats préliminaires indiquent que la rhétorique à laquelle ont recours les autotraducteurs est en grande partie de nature oppositionnelle, c’est-à-dire qu’elle sert à construire la traduction et l’écriture comme deux pratiques non seulement différentes, mais encore axiologiquement opposées. Sous-jacente à cette rhétorique est l’une des préfaces les plus célèbres de l’histoire de la traduction, le <em>De optimo genere oratorum</em> de Cicéron.</p>
 
-
 ----
 
 abstract_en: <p>In this article, I focus on the image projected and created by self-translating writers, on their discursive identity in other words, as it can be seen unfolding in prefaces, correspondence, and interviews. My analysis of this “paratextual” material will draw on Jérôme Meizoz’s concept of « <em>posture d’auteur</em> » (an offshoot of Pierre Bourdieu’s sociology). Preliminary results indicate that much of the rhetoric deployed is oppositional in nature, i.e. it serves to construct translating and writing as not only two different but axiologically opposed practices. Underlying this rhetorical construction is one of the most famous prefaces in translation history, Cicero’s <em>De optimo genere oratorum</em>).</p>
-
 
 ----
 
@@ -102,7 +100,6 @@ text: <h3>1. Jhumpa Lahiri et l’impossible autotraduction</h3>
 <h3>Pour (ne pas) conclure</h3>
 <p>On pourrait multiplier les exemples où est postulée l’opposition entre traduction et autotraduction à partir des postures, tenues pour irréconciliables, du traducteur et de l’auteur. Le critère le plus souvent invoqué pour créer de telles dichotomies n’est pas la présence/absence de compétence technique, comme chez Cicéron, mais la présence/absence de liberté d’action, d’autorité et d’agentivité (<em>agency</em>) (Grutman et Van Bolderen 2014). L’idée que cette triple liberté serait <em>ex officio</em> l’apanage des autotraducteurs mais serait interdite aux traducteurs allographes est cependant une pétition de principe qui ne résiste ni à l’observation ni à l’analyse.</p>
 <p>En réalité, l’écrivain qui se traduit (qu’il consente à appeler ainsi ou non son intervention sur le texte ne change rien au fait) est « situé », comme dirait Sartre, « est en situation dans son époque ». Comme tout traducteur, il travaille à l’intérieur d’un cadre plus ou moins contraignant, notamment sur le plan de la langue et, plus largement, de la culture vers laquelle et pour laquelle il traduit. Si tant est qu’il prenne d’autres libertés qu’un traducteur « normal » (ce qui reste à prouver), celles-ci ne seront pas toujours plus nombreuses ni forcément plus subversives, même et peut-être surtout s’il prétend le contraire. Après tout, il s’agit d’une posture d’écrivain que la critique n’est pas obligée d’avaliser mais a le droit de reconnaître pour ce qu’elle est, un exercice de façonnement de soi qui cache une prise de position. Et cela de la part d’un acteur du champ littéraire infiniment plus privilégié que le « simple traducteur » …</p>
-
 
 ----
 

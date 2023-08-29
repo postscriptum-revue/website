@@ -15,11 +15,9 @@ authors: -
 abstract_fr: <p><em>La question du double se pose dans la poésie du XXe siècle, lorsque cette dernière assume l’héritage des romantiques allemands qui regardaient l’œuvre d’art comme un fait de nature c’est-à-dire comme une forme en train d’émerger. Étant celui par qui de la forme advient, l’artiste se laisse surprendre par ce qui ne procède nullement de son identité individuelle. Or, dans les années qui suivirent la Seconde Guerre mondiale, René Char orienta sa poésie selon le modèle de la peinture. Dans cette façon d’envisager l’écriture on découvre comment se nouent l’effet de double, et la trace laissée de par le monde, car désormais la surprenante nature de l’œuvre en acte, c’est à la surface du monde et dans la matérialité du trait graphique qu’elle s’affichera de préférence. Le monde est ce qui s’altère en se traçant, et il est ce qui fait corps en s’altérant – à la surprise du poète tombant sur des traces qui paraissent échapper à sa maîtrise. Le terme de trace, Char l’emploie dans un texte intitulé Sous ma casquette amarante. Nous fondant sur ce texte, de l’altération poétique productrice d’un effet de double nous proposons une analyse où il s’agit de comprendre la trace, que l’écriture picturalisée met en évidence ; la temporalité à chronologie inversée, telle que le monde plein de traces est le résultat de l’écriture ; enfin l’écriture elle-même, entendue comme travail du monde se donnant pour un souverain redoublement de ses propres traces. Char conçoit une altérité, non pas qui se situerait à l’extérieur du sujet moderne et avec laquelle ce dernier entretiendrait une relation de domination techniciste plus ou moins précaire, mais se dessinant dans l’action et l’émerveillement, parmi les traces qu’on n’en finit pas de laisser après soi.<br />
 </em></p>
 
-
 ----
 
 abstract_en: <p><em>The question of the double arose in the XXth Century poetry when the latter took on the legacy of the german Romantics who considered the work of art as a fact of nature that is to say as a form in the making. Being the one who emerges from the form, the artist can be surprised by anything not pertaining to his individual identity. It so happens that, in the years following the Second World War, René Char modelled his poetry on painting. In this manner of considering the art of writing, one discovers how the duplicating effect and the trace left about the world can develop because from then on, the surprising nature of the work in action is to be preferably found at the surface of the world and in the materiality of the graphic line. The world is what alters by being traced and what unifies by altering – to the poet’s utter dismay when stumbling upon traces that escapes his mastery.The term traces was used by Char in a text entitled Sous ma casquette amarante. Focusing on this text, we will analyse the poetic alteration creating a duplicating effect and endeavour to understand the trace that pictorialised writing brings out ; reversed-chronology temporality, as the world full of traces results from writing ; finally writing itself conceived as the work of the world appearing as a sovereign duplication of its own traces. Char conceived an alterity which would not be external to the modern subject who would thus entertain with it a relationship based on technical domination, precarious as it may be, but an alterity being drawn in action and amazement, among the traces that one but constantly leaves behind.</em></p>
-
 
 ----
 
@@ -138,7 +136,6 @@ text: <h3>Le double, altération ou aliénation ?</h3>
 <p>En Lola Abba on ne peut pas dissocier le signe, et ce vers quoi il fait signe. Lola Abba est un nom d’autrefois, et une jeune fille maintenant. Aussi, en sa présence, aucun moyen n’est mis au service d’aucune fin. Lola Abba, venant à son heure, est souveraine.</p>
 <p>On n’en remarque pas moins, chez elle, le dédoublement d’une épitaphe et d’un spectre. Elle est donc une trace, mais peu importe de quel passé funèbre elle est la trace. Elle n’est pas un indice à soumettre à la question : elle est une trace qui se trace et qui rêve – ou se rêve ; qui s’écrit et qui se dessine. Mise en relief par la lumière vive d’une bougie naturelle, elle s’enlumine. En attente ou désirée, elle <em>provient</em>. Elle n’est pas un revenant, mais un provenant.</p>
 
-
 ----
 
 references: 
@@ -170,123 +167,53 @@ references:
  	<li>TEILHARD DE CHARDIN, Pierre, <em>Écrits du temps de la guerre</em>, 1916-1919, Les Cahiers rouges, Grasset, Paris, 1965.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Que les dieux nous habitent, nous pouvons le tirer des vers suivants : « Les dieux, habitez-nous ! / Derrière la cloison, / Nul ne veut plus de vous. » (Char, 1983 : 557.)
 
-
-
-
 [2] Ceci parce que Char, à l’énoncé 22 des <em>Feuillets d’Hypnos</em>, fera la satire des « prudents », ces paresseux blottis dans leurs maisons tandis que dehors s’abat la répression (Char, 1983 : 180).
-
-
-
 
 [3] Voir Libera, 2014 : 87 et sq. Le sujet au sens moderne ou cartésien désigne celui à qui on peut attribuer actions, paroles et pensées. Il se distingue du sujet aristotélicien (ὑποκείμενον, <em>subjectum</em>), qui est ce dont on peut dire quelque chose – ce à quoi on peut attribuer des prédicats : non pas celui qui parle, donc, mais ce dont on parle.
 
-
-
-
 [4] Que le maquis soit un lieu de beauté, c’est ce que signale le dernier énoncé numéroté des <em>Feuillets d’Hypnos</em> : « Dans nos ténèbres, il n’y a pas une place pour la Beauté. Toute la place est pour la Beauté. » (Char, 1983 : 232.)
-
-
-
 
 [5] « L’éclair me dure. » (Char, 1983 : 378.) « Si nous habitons un éclair, il est le cœur de l’éternel. » (<em>Ibid</em>. : 266.)
 
-
-
-
 [6] Voir à ce propos l’énoncé 30 des <em>Feuillets d’Hypnos</em> (<em>ibid</em>. : 182).
-
-
-
 
 [7] Utilisée dans les <em>Feuillets d’Hypnos</em>, l’expression « agir en primitif et prévoir en stratège » (<em>ibid</em>. : 192) nous semble exprimer au mieux cette chanceuse coalescence du calcul et de l’action.
 
-
-
-
 [8] « Conduire le réel jusqu’à l’action », note Char dans les <em>Feuillets d’Hypnos</em> (<em>ibid</em>. : 175). On dirait que le poète aide le monde à basculer dans l’action plus qu’il n’agit lui-même. De même, à l’énoncé 130 (<em>ibid</em>. : 206), le locuteur déclare avoir « confectionné avec des déchets de montagne des hommes qui embaumeront quelques temps les glaciers » : mais « la suite appartient aux hommes », précise-t-il en exergue du même ouvrage (<em>ibid</em>. : 173).
-
-
-
 
 [9] Si nous parlons ici de règle poétique, ce n’est pas au sens où la création serait soumise à certaines règles, mais parce que Char, dès les années 1930, a écrit cette phrase qui semble un programme : « Il va falloir changer ma règle d’existence. » (<em>Ibid</em>. : 52.)
 
-
-
-
 [10] Émile Benveniste définissait la voix moyenne en indo-européen comme la « diathèse interne » qui s’oppose à la voix active, ou « diathèse externe », dans un système où la voix passive n’existe pas. Il affirmait que le verbe à la voix moyenne indique un procès où est requise la participation du sujet grammatical. Il disait en effet que le sujet d’un verbe à la voix moyenne <em>effectue le procès en s’affectant</em> (Benveniste, 1966 : 172-173).
-
-
-
 
 [11] Ce terme de « présentation » est celui qu’emploie Caroline Sulzer, 1999 : 25.
 
-
-
-
 [12] Cette thématique se rencontre aussi dans les <em>Élégies de Duino</em> de Rilke, que Char admirait.
-
-
-
 
 [13] « Comment la fin justifierait-elle les moyens ? Il n’y a pas de fin, seulement des moyens à perpétuité, toujours plus machinés. » (Char, 1983 : 767.)
 
-
-
-
 [14] Nous nous appuyons ici sur Mireille Raynal-Zougari (1998 : 6-7), laquelle, étudiant les images chez René Char, explique qu’elles interviennent « entre poésie littérale et poésie imageante », « entre autoréférence et référence ».
-
-
-
 
 [15] C’est Char lui-même qui emploie en mauvaise part le terme d’artifice. Par opposition à la bougie, éclairage naturel, l’artifice de la lumière électrique l’empêche de voir les constellations se dessiner sur la voûte céleste : « Il fait nuit. Les artifices qui s’allument me trouvent aveugle. » (Char, 1983 : 362.) Ailleurs, parlant de sa conception de la poésie, Char satirise « ce congédié : l’artificialisme » (<em>ibid</em>. : 741). En outre, à la contrainte qui procède de l’aliénation il préfère l’astreinte, laquelle est une obligation souverainement assumée, les « grands astreignants », dont on trouve la liste (<em>ibid</em>. : 711), étant les poètes, peintres et autres visionnaires dont l’auteur souhaite recueillir l’héritage.
 
-
-
-
 [16] En 1974 Char eut vent de la découverte par Leroi-Gourhan d’une grotte ornée en partie immergée. L’expression que nous citons est rapportée par Jean Pénard, 1991 : 85.
-
-
-
 
 [17] Parlant de rumeur confuse nous avons en tête la façon dont Leibniz décrit les perceptions, sachant qu’à ses yeux non plus aucun horizon n’est concevable, la monade comprenant d’emblée la totalité de ce qui existe : « Les perceptions de nos sens, lors même qu’elles sont claires, doivent nécessairement contenir quelque sentiment confus car, comme tous les corps de l’univers sympathisent, le nôtre reçoit l’impression de tous les autres […]. Et c’est à peu près comme le murmure confus qu’entendent ceux qui approchent du rivage de la mer vient de l’assemblage des répercussions des vagues innumérables. » (Leibniz, 1993 : 71-72.) En outre, que le monde dans sa visibilité fugace soit une sorte de rumeur, c’est ce dont Char témoigne en particulier lorsque, dans son dialogue, il dit ceci : « Heureusement que j’ai l’ouïe fine, comment ferais-je pour distinguer un astre d’un autre ? » (Char, 1983 : 827.)
 
-
-
-
 [18] Dans <em>La Peinture préhistorique, Lascaux ou la naissance de l’art</em>, 1955, Georges Bataille appelle évidence l’irréductibilité de la « Licorne » de Lascaux à toute signification référentielle. Chez lui comme chez René Char, la souveraineté d’une figure écrite ou peinte (mais ici, la distinction entre les deux n’est plus pertinente) est fonction d’une telle évidence.
-
-
-
 
 [19] Nombreux sont les manuscrits enluminés des poèmes de Char. Tantôt le poète enluminait lui-même ses poèmes, tantôt il confiait cette tâche à des amis peintres comme Victor Brauner ou plus tard Maria-Helena Vieira da Silva (voir Marie-Claude Char, 1992). Quant à la grande proximité de l’écriture poétique et de la graphie picturale, elle conduit Margaret Montagne à user du terme de « pictopoètes » (Montagne : 2003 : 61-71).
 
-
-
-
 [20] Par ailleurs, l’idée que l’écriture poétique consiste à tracer les constellations (ou à les laisser se tracer, à la voix moyenne) en se promenant à la surface du ciel nocturne, cette idée est au principe de la composition d’<em>Aromates Chasseurs</em>, recueil publié en 1975.
 
-
-
-
 [21] Parce qu’elle nous semble correspondre au propos de Char, nous reprenons ici une thèse chère à Jean Clottes, qu’il emprunte à d’autres auteurs ayant avant lui étudié l’art du Paléolithique supérieur : « Les paléolithiques percevaient des animaux dans les reliefs des parois au fond des grottes et les complétaient par leurs dessins. » (Clottes, 2011 : 133.)
-
-
-
 
 [22] Au contraire, « plus il contemple, moins il vit », affirmait Guy Debord (1992 : 31) à propos du spectateur aliéné dans nos sociétés marchandes contemporaines. La poésie selon Char est également une façon de refuser la marchandise selon Debord.
 
 [23] « La Manne de Lola Abba » in <em>Le Marteau sans maître, L’Action de la justice est éteinte</em>. En 1983 (Char, 1983 : 25), Char inclura ce texte dans ses <em>Œuvres complètes</em> et il l’évoquera dans son entretien <em>Sous ma casquette amarante</em> (<em>ibid</em>. : 833-834).
-
-
-
 
 ----
 

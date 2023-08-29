@@ -20,11 +20,9 @@ abstract_en: <p>Cinema programming is a means for exposing cinema, a mediation w
 <p>In cinema, because it is a work done with images, programming is something that can be approximated to montage : the juxtaposition of parts (the shots, the sequences) that, by their articulation and order, establish a whole that can’t be reduced to those parts (this is how Deleuze describes the cinematic image-movement). We can then say there is something cinematic about programming, as there is something programmatic about cinema : they are both about making images work in a determined way.</p>
 <p>To reflect upon all this, I propose the study of Essential Cinema, a series constructed between 1970 and 1975 and still being showed on a regular basis, by Anthology Film Archives, a “film museum” born out of the avant-garde movement in 1969, in New York &#8211; the so-called New American Cinema. Starting by analyzing the selection of films and their arrangement into a series of programs, I intend to find the place of the programming gesture of Essential Cinema among the New American Cinema’s program (or agenda) and then to see there, what is programming an instrument for. In the end, briefly relating the concept to that of the collection, I’ll ask : is the programming of Essential Cinema a way to establish a constellation, a family of forms ?</p>
 
-
 ----
 
 text: <p><iframe loading="lazy" id="fitvid709433" src="//www.youtube.com/embed/gluq81mLyk8?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article propose de considérer Cassandre en tant que figure de lectrice dans l’<em>Agamemnon </em>d’Eschyle et le poème <em>Alexandra</em> de Lycophron. En retournant vers ces tragédies antiques, il est possible de penser, dès celles-ci, une conceptualisation du rôle de la lectrice dans une simultanéité entre dire et lire, redonnant à Cassandre une puissance langagière dont elle semble, en apparence, dépourvue.</p>
 
-
 ----
 
 abstract_en: <p>This article proposes to consider the figure of Cassandra as a reader figure in Aeschylus&rsquo; <em>Agamemnon</em> and Lycophron&rsquo;s poem <em>Alexandra</em>. By returning to these ancient tragedies, this essay offers a conceptualization of the role of the reader in a simultaneity between saying and reading, thus giving back to Cassandra the potency of language of which she seems, in appearance, to be deprived.</p>
-
 
 ----
 
@@ -98,7 +96,6 @@ text: <blockquote><p>But in the Electra or in the Antigone we are impressed by s
 <h3>Du crachat au crachat</h3>
 <p>Le don de divination a été donné à Tirésias pour apaiser la cécité physique imposée par des divinités féminines (Héra dans l’une, Athéna dans l’autre). Celui de Cassandre lui a été laissé comme malédiction parce qu’elle s’est refusée à Apollon. Du crachat d’Apollon, Cassandre ne conserve que le sien propre, écume de sa parole qu’elle nous tend et nous offre, pour nous rappeler que sa puissance à elle aussi se tient dans ce crachat. Considérer Cassandre comme lectrice, déjà chez Eschyle et Lycophron, c’est permettre de redonner à cette figure enfermée un pouvoir d’énonciation, dès lors que lire à voix haute signifie aussi dire, sans cesse, avec acharnement, redonnant voix au féminin en nous rendant, lectrice, participante de cette énonciation avec elle.</p>
 <p><em>Cassandre qui, plus que Tirésias, crache, écume, crie, fonde un hurlement qui est celui de toutes les lectrices que je suis.</em></p>
-
 
 ----
 

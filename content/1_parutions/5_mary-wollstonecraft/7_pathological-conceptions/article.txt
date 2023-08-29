@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’article présente une lecture foucaldienne de Rights of Woman de Mary Wollstonecraft à travers Naissance de la clinique de Foucault, afin de montrer comment le texte de Wollstonecraft expose un glissement de sens des discours rhétoriques, reflétant ainsi la métamorphose de la perception médicale au cours de la Révolution. Par l’intermédiaire de la métaphore de la féminité en tant que maladie, idée centrale du discours de Wollstonecraft, nous verrons dans un premier temps de quelle manière l’auteure s’oppose à la définition culturelle des femmes en s’appropriant la rhétorique philosophique formelle, similaire au discours nosologique en médecine au 18e siècle, qui tous les deux occultent du champ de vision tout ce qui n’a pas encore été identifié et nommé. Nous expliquerons ensuite comment Wollstonecraft réplique à ce système en décrivant tout ce qu’elle voit du monde qui l’entoure, en adoptant une perspective semblable à la médecine clinique apparue durant la Révolution, celle qui a fait glisser la perception médicale de l’expert à l’observateur naïf. L’emploi que fait Wollstonecraft de ces deux perceptions disparates lui permet de se positionner entre ces deux épistèmes pour déconstruire les conceptions pathologiques des femmes et ainsi ouvrir la voie à des discours nouveaux et visionnaires.</p>
 
-
 ----
 
 abstract_en: <p>In this article, I read Wollstonecraft’s Rights of Woman through Foucault’s The Birth of the Clinic to show how Wollstonecraft’s text displays shifting rhetorical discourses, reflecting the metamorphosis of medical perception across the Revolution. Through Wollstonecraft’s central metaphor of femininity as disease, I show first how she opposes the cultural definition of women by appropriating formal philosophical rhetoric, similar to eighteenth-century nosological medicine’s discourse, both of which allow only what is already named to be seen. Next, I explain how Wollstonecraft counters this system by describing the men and women she sees in the concrete world, adopting a perspective similar to the clinical medicine arising during the Revolution that shifts medical perception from expert to naive observer. Wollstonecraft’s use of these two disparate perceptions allows her to utilize her position between these two epistemes to deconstruct pathological conceptions of women and pave the way for a new and visionary discourse.</p>
-
 
 ----
 
@@ -49,8 +47,6 @@ text:
 <p>In <em>A Vindication of the Rights of Woman,</em> Wollstonecraft employs two languages, the learned and the naive, as two different rhetorical strategies linked to two conflicting perceptions of her project. On the one hand, she diagnoses the cause of women’s inferiority according to the manifestation of the disease with the classificatory gaze of nosology and couches her findings in the formal masculine language of philosophy she has appropriated. On the other hand, she subverts this formality with parody and a rhetorical strategy of plainness that mark her as an outsider, as “naive,” in the manner of clinical medicine. In addition, while the philosophical and nosological perception isolates women’s inferiority from the circumstances of their lives—making inferiority a generic feature of their diseased female natures rather than an accident of environment—the clinical perception allows Wollstonecraft to place women and their pathological inferiority in the settings of society that influence their disease. Wollstonecraft’s diverging rhetorical strategies reveal her writing as situated at the epistemological break between the Enlightenment and the nineteenth century, and at the same time reveal her work as an active force in that rupture.</p>
 <p>The metaphor of femininity as disease echoes throughout the book as Wollstonecraft reiterates in more particular instances the symptoms, her diagnosis, and her prescription. She sees the formation of independent individuals through education as a movement toward a human perfection that should be open to the striving of everyone. From a perception linked to the spirit of clinical medicine, she proposes a cure for women’s pathological existence, attaching the root of the disease of femaleness to the old overgrown discourse of Enlightenment philosophers, hoping that when the Revolution burns away the old growth, her new perception of the problem of sex will remain, firmly staked to the discourse of the new century.</p>
 
-
-
 ----
 
 references: 
@@ -66,26 +62,13 @@ references:
  	<li>WOLLSTONECRAFT, Mary, <em>A Vindication of the Rights of Woman,</em> New York, Borzoi-Knopf, 1992 [1792].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] See Todd (10-17) and Wang (134-35). See also Furniss (179-81, 197-98) ; Griffin (299) ; Finke (esp. 170) ; and Allen (330-333). Allen also notes that in American rhetoric “the association between manly virtues and the male body began to crumble in the mid 1770s. Having a need to castigate those not in support of the [American] Revolution—and the English themselves—speakers and writers began to separate men as a category from virtue” (333).
 
-
-
-
 [2] Finke also comments on this issue : “She must appropriate the apparently disinterested rhetoric of masculine authority for her own purposes because there is no other language in which she can write ; but she must simultaneously subvert it, exposing it as an arbitrary fiction, a prejudice that keeps women in their place. She must fashion out of patriarchal discourse a language in which to inscribe her subjectivity and experience as correctives to the masculine authorities on women she has read. Her task is not easy” (161-62).
 
-
-
-
 [3] For an illustration of parody and contrasting style in <em>Rights of Woman,</em> see Finke (164-65).
-
-
-
 
 ----
 

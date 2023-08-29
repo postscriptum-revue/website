@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p><em data-rich-text-format-boundary="true">Cet entretien, mené par l’équipe de la revue Post-Scriptum, fait partie du nº 33 sur le bonheur. Il officialise du même coup l’ouverture de la revue à la recherche-création, et illustre sa volonté d’initier un dialogue engagé avec les auteur·ices invité·es. Provenant d’une lecture plus lente de leurs textes, les questions qui y sont posées se veulent aussi sérieuses qu’ouvertes à la déambulation oratoire. Nous aimerions remercier chaleureusement Daphné B. de s’être prêtée à l’exercice!</em></p>
 
-
 ----
 
 abstract_en: 
@@ -76,7 +75,6 @@ text: <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>D : Je pense dans un monde auquel j’appartiens. Je ne peux pas me distancier du système capitaliste dans lequel on vit, j’en fais partie. Au même titre que je ne peux pas me distancier du patriarcat parce que j’en fais partie. Pour moi, un des effets du capitalisme est de vivre un paradoxe, d’être des êtres fondamentalement paradoxaux, de là l’angoisse dans le texte. Pour ce qui est du rapport méditatif, le moment où je me maquille me rappelle comment je me sens quand j’écris. Écrire est une forme de méditation. Quand on parvient dans l’écriture à une espèce de <em>flow</em>, il y a un moment où on s’abandonne à quelque chose d’inconnu. C’est méditatif, mais c’est aussi un moment où on apprend à se laisser aller et à se faire confiance. Ultimement, c’est un apprentissage de la mort. Je pense que si on développait un meilleur rapport à la mort, si on apprenait mieux à mourir ou à accepter la mort, peut-être que ça nous sauverait de certains impératifs du capitalisme. L’écriture et le maquillage m’amènent tous les deux dans un état mental qui se rapproche d’un laisser-aller essentiel. On s’abandonne à ce qu’on ne connaîtra jamais et qu’on ne peut pas connaître : la mort.</p>
 <p><!-- /wp:paragraph --></p>
-
 
 ----
 

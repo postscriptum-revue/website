@@ -15,12 +15,10 @@ authors: -
 abstract_fr: <p>De la chute du système impérial, en passant par la Révolution culturelle, jusqu’aux répressions de la Place Tiananmen, les bouleversements politiques de la Chine du XXe siècle marquent toute une génération d’artiste, donnant ainsi naissance au réalisme cynique. Dans ce mouvement artistique en réaction à la censure et à l’asservissement politique se distinguent les artistes Yue Minjun et Zeng Fanzhi. Cette analyse comparatiste met en lumière comment, dans leurs tableaux, l’utilisation de la laideur par la caricature, le masque, l’exagération, le difforme et le grotesque illustre une forme de résistance à l’oppression de la Chine contemporaine.</p>
 <p>En premier lieu est analysé le travail de Yue Minjun, dont les personnages sont déformés par un sourire exorbitant, et ensuite celui de Zeng Fanzhi, où des masques aux traits caricaturaux recouvrent le visage de ses personnages. Les deux artistes utilisent l’hilarité et la détresse dans un jeu de dissimulation et d’apparition, afin de détourner la censure et de briser les canons maoïstes traditionnels. Par la peinture, ils revendiquent ce que le peuple chinois a perdu : son passé, son identité et sa liberté.</p>
 
-
 ----
 
 abstract_en: <p>From the fall of the imperial system to the repressions of Tiananmen Square, including the Cultural Revolution, the political upheavals of 20th century China marked an entire generation of artists, thereby giving rise to cynical realism. In this artistic movement, which is a reaction to censorship and political enslavement, the artists Yue Minjun and Zeng Fanzhi stand out. This comparative analysis sheds light on how, in their paintings, the use of ugliness (caricature, mask, exaggeration, misshapen and grotesque) illustrates a form of resistance to the oppression of contemporary China.</p>
 <p>This paper analyzes first the work of Yue Minjun, which displays characters distorted by an exorbitant smile, and then that of Zeng Fanzhi, in which masks with caricature features cover the faces of his characters. The two artists make use of hilarity and distress in a game of covering up and appearance, so as to hijack censorship and shatter mainstream Maoist canons. In their paintings, they claim that which the Chinese people have lost: their past, their identity and their freedom.</p>
-
 
 ----
 
@@ -112,7 +110,6 @@ Oil on canvas<br />
 <p>Piégés par une idéologie politique qui les a privés d’héritage culturel, les deux artistes sont en quête d’identité : ils ne sont pas ces êtres bêtement heureux rabâchés par la propagande maoïste, ni ces Occidentaux des temps modernes découverts grâce à l’ouverture de Deng Xiaoping. Pour les peintres du réalisme cynique, la création permet une réaffirmation de soi, ainsi qu’un lieu où ils peuvent s’exprimer, jusqu’à faire jaillir leurs vices, leurs failles et leurs douleurs. Avec la multiplication des clones et l’utilisation du masque, Yue Minjun et Zeng Fanzhi dénoncent cette société où l’illusion et l’assimilation sont les seules portes vers la survie. L’un avec une pointe de burlesque, l’autre avec amertume.</p>
 <p>Les tableaux de Yue Minjun et de Zeng Fanzhi se positionnent comme un porte-voix pour écraser la superficialité (“mei”), pour en faire émerger la laideur (“chou”), offrant ainsi une nouvelle voie à la Chine contemporaine : si ses citoyens ne se sont pas reconnus dans les canons maoïstes, peut-être le pourront-ils dans le grotesque, le difforme, la caricature, l’exagération et le masque?</p>
 
-
 ----
 
 references: 
@@ -182,18 +179,11 @@ TOLLEBEEK, Jo, VAN ASSCHE, Eline. <em>Ravages : l’art et la culture en temps
 
 <hr />
 
-
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Traduction libre. La citation originale est : « “At the time, when one worked for the governement, [we] paint whatever was politically required regardless of how one felt,” recalled Jin. Imprisoned and tortured by Red Guards in 1966 » (Hyer, 2020 : en ligne).</p>
-
 
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Traduction libre. La citation originale est : « I call the neo-realistic trend that emerged after 1988 or 1989, and that concentrated mainly in Beijing as Cynical Realism; “cynical” is an English word, and we take up its connotations of ridicule, sarcasm and cold views on reality and life » (Kharchenkova, Velthuis, 2015 : 115).</p>
 
-
 <p><a href="#sdfootnote3anc" name="sdfootnote5sym">[3]</a> Liu Xiaobo a été relâché en 2017 pour des raisons de santé.</p>
-
-
-
-
 
 ----
 

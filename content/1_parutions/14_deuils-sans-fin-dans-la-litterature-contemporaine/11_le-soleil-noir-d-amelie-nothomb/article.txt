@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Travaillés par une nostalgie de l’origine, les récits autobiographiques d’Amélie Nothomb dépeignent un inconfort devant la perte, un malaise face à la migration géographique. Dans cet article, je propose une lecture psychanalytique de Biographie de la faim (2004) basée sur la notion de mélancolie, définie par Mélanie Klein (1976) et Julia Kristeva (1987) comme un mode de fonctionnement psychique fondé sur une incapacité à gérer le deuil. Pour Kristeva (1974), la mélancolie est associée au sémiotique et constitue une fonctionnalité antérieure au langage, proche du corps et du maternel, pouvant influencer le symbolique, c’est-à-dire le sujet de l’énonciation. Je défendrai ici la thèse que la mélancolie constitue une structure infralangagière qui organise toute la production d’Amélie Nothomb. Je montrerai qu’elle transparaît notamment dans Biographie de la faim à travers les affects et passages à l’acte de la protagoniste (avatar de l’écrivaine), chez qui les épisodes dépressifs alternent avec des phases maniaques.</p>
 
-
 ----
 
 abstract_en: <p>Driven by a nostalgia for an origin, Amelie Nothomb’s autobiographical work presents a discomfort towards loss and geographic migration. In this article, I propose a psychoanalytical reading of Biographie de la faim (The Life of Hunger, 2004) based on the notion of melancholia, defined by Melanie Klein (1976) and Julia Kristeva (1987) as a psychic economy founded on the incapacity to deal with mourning. For Kristeva (1974), melancholy is linked to semiotic and constitutes a functionality prior to language, close to the body and the maternal, able to influence the symbolic, i. e. the subject of the enunciation. I will defend the thesis that melancholia constitutes an infralinguistic structure that organizes Amelie Nothomb’s whole production. I will demonstrate that melancholia appears in Biographie de la faim through the affects and acting out of the protagonist (avatar of the writer), whose depressive episodes alternate with manic phases.</p>
-
 
 ----
 
@@ -48,7 +46,6 @@ text: <p> [1]</p>
 <p>À Serge Bimpage (2000), Amélie Nothomb confie qu’elle a véritablement souffert de potomanie, d’alcoolisme infantile et d’anorexie et que la disparition de ses symptômes coïncide avec sa venue à l’écriture. Selon Jeanine Chasseguet-Smirgel, la réparation du sujet serait le motif fondamental de la créativité. Simon Harel, dans <em>L’écriture réparatrice</em> (1994), ajoute que s’il y a défaillance de la fonction contenante de l’enveloppe psychique, une « seconde peau » substitutive, musculaire ou verbale, sera créée. À cet égard, l’auteure-narratrice écrit : « Je connaissais ce corps que j’avais décomposé [par l’anorexie]. Il s’agissait à présent de le reconstruire. Bizarrement, l’écriture y contribua. […] Cet effort constitua une sorte de tissu qui devint mon corps. » (Nothomb 2004 : 226-7) D’après Simon Harel, l’écriture autobiographique s’adresserait toujours à un dédicataire maternel encrypté qu’on cherche à réparer et à détruire par l’acte d’écriture (Harel 1994 : 112, 119). À ce propos, Amélie Nothomb affirme écrire pour affronter son « ennemi intérieur » (David 2006 : 74). De ce dédicataire, l’auteur attendrait une parole qui lui permettrait de nouer le pacte interlocutoire nécessaire au travail du deuil, de manière à ce qu’il puisse enfin introjecter l’Autre. Or, cette réponse n’advient jamais dans l’écriture, car la mère incorporée est un fantôme qui n’a plus rien à voir avec l’objet externe. L’acte de création fonderait cependant pour le sujet écrivant un rituel capable d’apaiser sa détresse psychique devant la perte. Nothomb, qu’on dit atteinte du « symptôme graphomane » (Joignot 2004 : 28), consacre d’ailleurs quatre heures par jour à l’écriture, sans quoi elle est incapable de fonctionner. Dans cette perspective, on peut supposer que le travail créateur de l’écrivaine constitue un symptôme, socialisé, de sa mélancolie.</p>
 <h3>Mélancolie et travail créateur</h3>
 <p>Je clorai cet article en rappelant qu’à mon avis, la mélancolie est au cœur du projet créateur d’Amélie Nothomb. Associée au sémiotique dont parlait Julia Kristeva, la maladie du deuil constitue une économie psychique qui aurait d’abord engendré, chez l’auteure de chair, différentes manifestations somatiques, chacune obéissant à la logique d’un corps-tube requérant d’être sans cesse rempli et vidé. Ces symptômes auraient ensuite été médiatisés sur le terrain du langage par le biais de l’écriture autobiographique, à qui Nothomb semble adresser un souhait de réparation contre des objets internes destructeurs. En étudiant <em>Biographie de la faim</em>, j’ai pu montrer que la narratrice-personnage Amélie présente de façon cyclique des affects de tristesse et une asymbolie associés à des deuils géographiques impossibles, en plus de développer une avidité protéiforme caractéristique du déni maniaque. Aussi conclurai-je en avançant que, dans son cycle autobiographique, l’écrivaine s’est construit un corps textuel exprimant, à un coût moindre, les conflits qui affectaient son corps de chair. Le corps textuel n’est pas l’équivalent du corps réel ; j’avance qu’il en est cependant le relais et participe du même processus. J’aimerais enfin souligner que si l’écriture de la maladie est au cœur du projet autobiographique d’Amélie Nothomb, l’écrivaine présente ses symptômes alcooliques et boulimiques comme des lieux de jouissance et d’identité et non comme des sources d’affliction. Dans l’univers nothombien, tout événement ou pathologie apportant du déplaisir est traité avec humour ou, plus rarement, sur un mode métaphorique amenant un effet de distanciation. L’écrivaine arrive donc à dépasser l’écriture de la douleur pour en faire une écriture du plaisir, originale, limpide et efficace, qui s’allie à un univers autobiographique déjà singulier.</p>
-
 
 ----
 
@@ -87,46 +84,21 @@ references:
  	<li>TUSTIN, Frances, <em>Le trou noir de la psyché : barrières autistiques chez les névrosés</em>, Paris, Seuil, 1989.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] L’auteure souhaite remercier le Conseil de recherches en sciences humaines du Canada (CRSH) et le Fonds de recherche sur la société et la culture (FQRSC) qui ont rendu possible la parution de cet article.
 
-
-
-
 [2] La critique s’accorde généralement sur le statut autobiographique des cinq textes susnommés, Nothomb déclarant régulièrement depuis 2003 être sincère en racontant son existence. L’ensemble de la production nothombienne, composée d’un cycle autobiographique, de « romans autobiographiques » (Touzin 1993 : 9), d’« autofictions fantastiques » (Colonna 2004 : 75) et de fictions, est d’ailleurs parcouru par un souci de soi.
-
-
-
 
 [3] Dans <em>L’écriture autobiographique</em>, Marie-Madeleine Touzin déclare qu’aujourd’hui, « le corpus autobiographique d’un écrivain englobe les entretiens, les émissions de radio ou de télévision, les photographies, la correspondance, les brouillons et même les journaux dits « intimes » […]. Le texte se double d’un ensemble d’autres textes qui, le plus souvent, ne sont pas « littéraires », mais qui apportent un éclairage indispensable sur la constitution du texte lui-même (Touzin 1993 : 14). Cette affirmation me semble particulièrement juste dans le cas d’Amélie Nothomb, qui fait l’objet d’une campagne médiatique exceptionnelle depuis la parution de son premier roman. Le discours extraromanesque de l’écrivaine foisonne à un point tel que Michel David en vient à le considérer comme une forme d’écriture autobiographique parallèle, liée à la parole, à l’adresse (David 2006 : 41). En abordant la question du « je » nothombien, il m’apparaît par conséquent nécessaire de tenir compte de cette seconde voix qui participe du projet autobiographique.
 
-
-
-
 [4] Cet argument a été discuté de façon approfondie dans mon mémoire de maîtrise intitulé <em>La mélancolie comme structure infralangagière de l’œuvre d’Amélie Nothomb</em> (Lambert-Perreault 2008).
-
-
-
 
 [5] À cet égard, la narratrice raconte : « À tout instant, si je le lui demandais, elle [Nishio-san] abandonnait son activité pour me reprendre dans ses bras, me dorloter, me chanter des chansons où il était question de chatons ou de cerisiers en fleurs. » (Nothomb 2000 : 57)
 
-
-
-
 [6] J’emploie ici la majuscule initiale afin de respecter la règle usuelle sur l’orthographe des nationalités.
 
-
-
-
 [7] Le Moi-peau (ou enveloppe psychique) est un modèle tridimentionnel élaboré par Didier Anzieu (1985, 2000) pour décrire l’appareil psychique humain. Celui-ci aurait cinq fonctions, dont celles de contenance et de pare-excitation.
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article souhaite s’intéresser, dans une perspective comparatiste, à un corpus de textes contemporains ayant abordé la question du deuil né d’une expérience de violence traumatique. Nous analyserons deux œuvres de la littérature brésilienne contemporaine, Sempreviva d’Antonio Callado, Les Pensionnaires de Lygia Chiapinni Fagundes Telles, et une œuvre d’un auteur malien, Toiles d’araignées d’Ibrahima Ly. Ce choix a été guidé par les spécificités de l’écriture de l’après, que ces récits développent, notamment dans le traitement de la temporalité. La violence de l’Histoire est à l’origine d’un deuil sans fin, d’un deuil dont ces textes constituent à la fois l’avènement et en précisent l’événement. Ils inaugurent une nouvelle ère pour les victimes, une ère infinie, qui semble n’avoir aucune issue possible. Nous tenterons donc de mettre au jour les spécificités de cette écriture du deuil, entre survivance et volonté de faire image</p>
 
-
 ----
 
 abstract_en: <p>This paper offers a contrastive reading of three contemporary novels, Sempreviva by Antonio Callado, Les Pensionnaires by Lygia Chiapinni Fagundes Telles (Brazil) and Toiles d’araignées by Ibrahima Ly (Mali). All of them deal with mourning as a result of an experience of traumatic violence and develop a specific writing of the time after. Violence of History opens an endless mourning, with apparently no way out for the victims. This paper will analyze the temporality of these events which on these novels are focused, to define a writing wavering between surviving traces and creation of images despite everything.</p>
-
 
 ----
 
@@ -38,7 +36,6 @@ text: <p>C’est à une expérience particulière du deuil et de la perte à laq
 <p>Mariama meurt, dans un éblouissement terrible, d’avoir « tout vu une dernière fois ». La vision, au sens figuré, de ce à quoi Yoro a survécu, suffit à la tuer. Le pouvoir de contamination mortelle de ce récit tient certes de la violence terrible des révélations qu’il contient, mais surtout de sa fonction symbolique en cette fin de roman. L’œuvre tisse en effet progressivement une succession de témoignages mis en scène par la personnification et la retranscription de dialogues de victimes de la dictature malienne. Ces images survivantes de la violence extrême hantent véritablement le récit et ajoutent leur poids d’horreur les unes aux autres pour finalement aboutir à la mort de Mariama, qui ne peut plus résister. Pour autant, c’est en écrivant, et en tissant ces « toiles d’araignées », qu’Ibrahima Ly se défait définitivement de ce que le bourreau, le tortionnaire, la dictature ont tenté d’imprimer sur lui. À la tentative d’animalisation, de déshumanisation, il répond par le seul acte qui différencie définitivement l’espèce humaine de toutes les autres espèces vivantes : la poésie. Le temps de l’écriture et de la lecture, il réinvente l’espèce humaine. C’est peut-être ainsi par les souffrances et la mort de Mariama et de ses co-détenus, qu’il parvient sinon à faire le deuil de son épreuve, du moins à témoigner, à dire <em>l’après</em> contre l’injonction de silence de la dictature. <em>Toiles d’araignées</em>, comme œuvre, comme objet/livre, est en soi un témoin, un relais qui permet à la parole d’exister, à l’idiome secret, à la voix interdite, d’être rendue publique. Il se donne pour tâche de faire entendre, d’amplifier la parole des témoins, de la retranscrire en rendant compte également de sa difficulté à exister. L’écriture de <em>l’après</em> se caractérise par cette double mise en voix, de la parole du bourreau, du maître, et de la retranscription des témoignages. Il s’agit concrètement d’une polyphonie particulière, où les mots des uns sont strictement cachés, abolis socialement par les mots d’ordre des autres. L’œuvre apparaît comme le lieu possible d’une inversion, du déterrement des idiomes secrets des témoins, malgré l’omniprésence, également textuelle, de la parole officielle.</p>
 <p>Le récit, comme objet, comme livre, devient le seul recours à l’expérience traumatique de la disparition qu’il décrit. L’expérience esthétique, la frontière même de l’ouvrage protègent le lecteur. Pour autant, enclore une telle perte n’est qu’une tentative infinie, jamais totalement réalisée. L’image subsiste, et tend à garder son pouvoir de contamination et ce jusqu’à la lecture. L’<em>après</em> serait donc ce temps particulier du deuil, du moment où une violence traumatique le cause dans un contexte politique et historique singulier, jusqu’à son écriture esthétique par une œuvre particulière et sa lecture qui le prolonge. Cette dernière met en scène la violence qui mène à sa propre création, sans forcément pouvoir en élucider le sens qui dépasse souvent toute raison. Le texte se fait dès lors palimpseste, surimpressions de voix et d’images qui, dans la profondeur du temps, interrogent sans cesse la perte fondatrice et la possibilité de sa représentation.</p>
 
-
 ----
 
 references: 
@@ -53,16 +50,9 @@ references:
  	<li>MOREL, Anne-Sophie, <em>Chateaubriand et la violence de l’Histoire dans les Mémoires d’Outre-Tombe</em>, Lyon, Thèse de doctorat, 2007.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] L’exemple donné par G. Didi-Huberman est celui de la <em>madone</em>, qui apparaît et réapparaît dans « l’histoire de l’art », à différentes périodes et différents lieux, sans nécessairement qu’il y ait référence directe de l’une à l’autre de ses réalisations.
-
-
-
 
 ----
 

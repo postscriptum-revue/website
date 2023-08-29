@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L&rsquo;écriture du passé, menée par les mains des colons et des vainqueurs de l&rsquo;Histoire, contient des vides qui ont récemment refait surface, comme il est le cas dans le cadre des témoignages des peuples saccagés et esclavagisés par la colonisation. Quelques-uns de ces récits, au contraire, sont à jamais perdus. Rendre sensible ce vide est à la fois un appel moral et un problème esthétique pour l&rsquo;historien et l&rsquo;artiste latino-américain. En se concentrant sur le cas du cinéma latino-américain contemporain, nous nous demanderons de quelle manière un film pourrait donner voix et faire image à partir de ces vides historiques – sans pour autant les remplacer grossièrement par une fiction historique alternative, ce qui allégerait le poids de ce silence. Cet article avance l&rsquo;hypothèse que certaines figures cinématographiques peuvent résoudre ce paradoxe. La première de ces figures est la <em>bouche</em>, travaillée par Daniela Thomas dans <em>Vazante</em> (2017), qui fait émerger la puissance du corps lorsque la parole manque. La deuxième figure, celle du <em>fleuve</em>, comme abordée par Ciro Guerra dans<em> L&rsquo;étreinte du serpent</em> (2015), opère une désorganisation de la temporalité linéaire moderne, en mettant en perspective la notion même de vide historique.</p>
 
-
 ----
 
 abstract_en: <p>The writing of the past, carried out by the hands of the settlers and victors of History, contains significative blanks that have recently returned to the surface, as in the case of the testimony of peoples sacked and enslaved by colonization. However, some of these stories are gone forever. Making this void noticeable is both a moral appeal and an aesthetic problem for Latin American historians and artists. Focusing on the case of contemporary Latin American cinema, we ask ourselves how a film can give a voice and build an image from these historical voids – without, by doing so, trying to grossly replace them with an alternative historical fiction, which would lighten the weight of this silence. This article argues that certain cinematographic figures can solve the paradox. The first of these figures is the <em>mouth</em>, as developed by Daniela Thomas&rsquo; <em>Vazante</em> (2017), which brings out the power of the body over itself when speech is lacking. The second figure, that of the<em> river</em>, as approached by Ciro Guerra&rsquo;s <em>Embrace of the serpent</em> (2015), operates a disorganization of modern linear temporality, putting into perspective the very notion of historical void.</p>
-
 
 ----
 
@@ -106,7 +104,6 @@ text: <p>Introduction</p>
 <p>Sachant que le perspectivisme est un problème d&rsquo;imaginaire et de conception du monde, il peut servir d&rsquo;outil théorique et de provocation pour penser une voie décoloniale au cinéma, que ce soit dans le contexte de l&rsquo;industrie cinématographique ou des collectifs de cinéma expérimental et/ou autochtone.</p>
 <p>Pour conclure, nous observons que ces films travaillent plus dans la <em>construction </em>d&rsquo;images pour un passé troublé, que dans une optique de résistance, déconstruction ou dénonciation des faits condamnables (même si les films n&rsquo;omettent pas les violences entraînées par un ordre colonial et patriarcal). Avec cela, nous cherchons à attirer l&rsquo;attention vers le fait que, en plus de défaire les images critiquables et les stéréotypes longtemps renforcés, il est aussi essentiel de produire des nouvelles images qui puissent se situer entre la reconnaissance des vides à jamais perdus et la possibilité d&rsquo;une construction identitaire pour les sujets décoloniaux.</p>
 <p><a href="#_ftnref1" name="_ftn1"></a></p>
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Zumthor : 20 ans après sa mort, 35 ans après qu’il ait fondé à l’Université de Montréal, le département de Littérature comparée qui ferme ses portes ; que reste t-il de cet illustre inconnu ? Influencé par Jackobson, ami de Genette, il s’est néanmoins distancé du structuralisme. Médiéviste, spécialiste des Grands rhétoriqueurs, il s’est fait tantôt ethnologue, tantôt maître de littérature, penché sur les traditions orales de partout ou intéressé aux formes contemporaines de la poésie. Théoricien, il a écrit par ailleurs plusieurs recueils et romans. Sa manière d’aborder ses sujets de recherche permet l’élargissement des perspectives et les déplacements, elle ne renie pas l’ambiguïté et fouille les nuances. Plutôt que d’opposer écrit et parole ou oral et écrit, Zumthor opte pour des comparaisons entre parole et voix, entre ouïr et lire, entre oreille et œil. De par son ouverture au corps et le passage sans raccourcis qu’il pose entre passé et présent, en considérant les perceptions de l’espace et l’espace sonore, Zumthor a pavé une voie faite de notions qu’il est toujours bon de fouler en recherche, d’une discipline à l’autre. Vocalité, performance, nomadisme et mouvance sont parmi celles-ci. Si sa poétique de l’équivoque reste contestée, sa réponse aux théories de McLuhan est d’une vive pertinence. Il s’avère nécessaire de ne pas restreindre la portée de Zumthor aux cercles de médiévistes et rendre compte de son actualité.</p>
 
-
 ----
 
 abstract_en: <p>Zumthor : 20 years after his death, 35 years after he founded at the University of Montreal, the Comparative Literature department now closed ; what does remain of this illustrious unknown person ? Influenced by Jackobson and friend of Genette, he nevertheless distanced himself from structuralism. Medievalist, expert of the Great rhetoricians, he sometimes focused on ethnology, looked at oral traditions from everywhere and he even worked on contemporary forms of poetry. Theorist, he also wrote several poetry collections and novels. His approach to his research topics allows for a broadening of perspectives and movements ; it does not deny ambiguity and the search for nuances. Rather than opposing writing and speech or oral and written mediums, Zumthor opts for comparisons between speech and voice, between hearing and reading, between the ear and the eye. Through his view of the body and the idea of passages without shortcuts which arises between past and present, well also considering the different perceptions of space and sound space, Zumthor has paved a path made of ideas that are always important to consider in academic research, namely going from one discipline to another. Vocalisation, performance, nomadism and mobility are among them. If his poetics of ambiguity is still contested, his response to McLuhan’s theories is extremely relevant. It is necessary not to limit the scope of Zumthor’s impact only to medievalists’ circles and rather to take his wide topicality and his contemporary importance into account.</p>
-
 
 ----
 
@@ -47,7 +45,6 @@ text: <p>D’entrée de jeu, mettons sur table les motivations qui amènent à �
 <p>L’œuvre de Zumthor est immense. Le livre qui vient d’être réédité ne doit pas être le seul pour nous en convaincre. Nous sommes redevables à Zumthor du, feu, département de Littérature comparée qu’il a fondé au début des années 1970 à l’Université de Montréal et qui s’étiole en 2015, victime d’une fusion. Or, au-delà de la littérature et ce département, ne devrions-nous pas plutôt, désormais, saluer l’espace épistémologique que Zumthor a dégagé afin de faire place à cette « intermédialité » qui fait aujourd’hui la renommée de l’Université de Montréal ?</p>
 <p>Zumthor, lecteur de Jakobson et contemporain de Genette a surfé sur la vague structuraliste. À propos de son <em>Essai de poétique médiévale toutefois</em>, il admet percevoir « cette sémiotisation comme une entreprise ludique » (1990 : 35). Une fois sur la rive, il a pris d’autres embarcations tantôt pour pêcher au large, tantôt pour entreprendre de grandes traversées. Zumthor ne s’est jamais contenté du texte écrit. Il a considéré les circonstances, les contextes de temps et de lieu, malgré l’impossibilité de les saisir. Cela conduit à sa paradoxale poétique de l’équivocité, mais par ailleurs, donne à sa théorie une dimension universelle. En sortant du champ des études médiévales et des sentiers battus, en amalgamant les études littéraires à une ethnologie critique, Zumthor a fait place à une poétique de l’oralité rassembleuse et intemporelle. Matière sonore, lieu de l’affect, rythme social, chaque fois unique : la voix devient l’objet d’étude par excellence. Cet objet « inobjectivable » (1983 :16), essentiellement dynamique, exige des notions elles-mêmes opératoires comme la « mouvance », fonctionnelles à la fois aux niveaux critique, analytique et pratique. Au final, ce n’est pas seulement les objets d’études de Zumthor qui nous intéressent, mais comment il les aborde. Cette manière de poser des questions qui met en mouvement nos horizons de réponses. Cette façon de mettre en lumière, d’ouvrir les registres et de multiplier les fréquences. Comme lui <em>Laeti bibamus sobriam Ebrietatem spiritus</em> « joyeux buvons la sobre ébriété de l’esprit » (1990 : 35).</p>
 
-
 ----
 
 references: 
@@ -72,57 +69,26 @@ references:
  	<li>ZUMTHOR, Paul, <em>La Mesure du monde</em>, Paris, Seuil, 2014</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Une phrase tout de même des plus significatives : « La performance apparaît comme une action orale-aurale complexe, par laquelle un message poétique est simultanément transmis et perçu, ici et maintenant. […] Dans la performance se recoupent les deux axes de toute communication sociale : celui qui joint le locuteur à l’auteur ; et celui sur quoi s’unissent situation et tradition. », (Zumthor, 1987 : 248).
 
-
-
-
 [2] <a href="http://www.fondspaulzumthor.umontreal.ca/id19.htm" rel="external">http://www.fondspaulzumthor.umontreal.ca/id19.htm</a> [en ligne], consulté le 10 avril 2015
-
-
-
 
 [3] Voilà peut-être pourquoi Zumthor est boudé par Serge Martin qui, à l’instar de son ami Meschonic, méprise tout « mallarméisme ».
 
-
-
-
 [4] Rime équivoque, par exemple dans la complainte de Molinet : Tout homme devient fol, tant soit sage et constant, / S’il met son estudie a aymer ces cons tant. Le titre du livre de Cornillat est une rime équivoque qui explique ce qu’elle peut être en soi, Or ne mens. Cornillat posera ces questions : les rimes équivoques brouillent-elles le sens, détruisent-elles une distinction sémantique admise, établissent-elles une équivalence là où la langue ne prévoyait aucun rapport ?
-
-
-
 
 [5] Jean-Claude Mühlethaler, Poétique du quinzième siècle, Paris, Nizet, 1983, pp. 63 et Claude Thirdy, La poétique des rhétoriqueurs, 1980 (cité par Cornillat)
 
-
-
-
 [6] Selon Cornillat toujours, dans Mimologique Genette remarque l’ambiguïté initiale du concept d’équivalence dans la poétique chez Jackobson, repris par Zumthor, (1994 : 173).
-
-
-
 
 [7] Cornillat mentionne que Zumthor pose comme mêmes deux manières d’approcher la rime : calembour rabaissant ou homonymie créant des équivalences, (1994 : 32).
 
-
-
-
 [8] McLuhan, 1968 : quatrième de couverture
-
-
-
 
 [9] Dans Langue, texte, énigme, Zumthor introduit ainsi sont travail : « […] non de retrouver, quelque matrice primitive qui, si on la pense commune, n’est qu’une image spécieuse –car il n’en eut jamais qu’individuellement, pour chacun d’entre nous- mais de se hisser à un niveau exemplaire, où toutes les questions que nous adresse notre propre texte culturel résonne et s’amplifient […]
 La difficulté de transcender la distance, sans l’abolir puisqu’elle fait partie de la définition du fait. D’où la duplicité nécessaire des méthodes. Le défrichement du terrain. La mensuration de monument ainsi dégagé ou de ses ruines, le dénombrement et la classification de ses parties, imposent le recours à des techniques philologiques et herméneutiques fondées sur une longue tradition ». (1975 : 8)
-
-
-
 
 ----
 

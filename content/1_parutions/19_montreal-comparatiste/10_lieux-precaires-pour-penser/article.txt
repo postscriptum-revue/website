@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article interroge le rapport de la traduction à la littérature comparée — rapport devenu un noeud de réflexion important dans le débat sur l’avenir du comparatisme. La contribution de Madame de Stael aurait-elle été négligée ?</p>
 
-
 ----
 
 abstract_en: <p>This article takes a critical look at the role of translation within the context of comparative studies, revalorizing the contribution of Madame de Stael.</p>
-
 
 ----
 
@@ -51,7 +49,6 @@ text: <p>Puisqu’il s’agit de l’une des dernières manifestations du Dépar
 <p>Si la frontière qui divise les groupes les uns des autres — les Juifs hassidiques par exemple – peut ressembler à un <em>boundary</em>, une frontière dure, il existe une multiplicité de <em>borders</em> dans la ville-frontières qui se traversent beaucoup plus allègrement et sans danger. Les traductions qui se pratiquent dans ces zones sont plus libres, plus volatiles, et constituent des actes d’interférence créatrice. La multiplication des lignes de traversée définit une société faite de croisements variés et imprévisibles. C’est la variété des logiques de la traduction qui composent une société pluraliste, et qui permettent de déceler les dynamiques sociales et culturelles en jeu.</p>
 <p>La signification sociale de ces actes de traduction est constamment à analyser : parfois les relations d’échange ressembleront à des actes d’appropriation (l’importation des idées ou du style de l’autre vers un mode connu, déjà éprouvé), et parfois il s’agira d’une relation plus distante, davantage une juxtaposition qu’une assimilation. Entre ces deux pôles, il existe une pluralité de logiques qui témoignent d’interrelations en constant devenir.</p>
 
-
 ----
 
 references: 
@@ -69,31 +66,15 @@ references:
  	<li>VENUTI, Lawrence. “Hijacking Translation”, <a href="http://boundary2.org/2015/02/19/hijacking-translation/" rel="external">http://boundary2.org/2015/02/19/hijacking-translation/</a></li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] <a href="http://backdoorbroadcasting.net/2012/01/emily-apter-%E2%80%98doing-things-with-untranslatables%E2%80%99-the-problem-of-translation-and-untranslatability-in-the-comparative-humanities/" rel="external">http://backdoorbroadcasting.net/2012/01/emily-apter-%E2%80%98doing-things-with-untranslatables%E2%80%99-the-problem-of-translation-and-untranslatability-in-the-comparative-humanities</a>
 
-
-
-
 [2] <a href="http://boundary2.org/2015/02/19/hijacking-translation/" rel="external">http://boundary2.org/2015/02/19/hijacking-translation/</a>
-
-
-
 
 [3] Pour un développement de cette idée, voir <em>Traduire la diversité : le Québec après la charte</em> dans<em> Diversité et dialogue</em>, dir. A. Gagnon, PUL, à paraître.
 
-
-
-
 [4] “Edges come in two sorts : boundaries and borders. A boundary is a relatively inert edge ; population things out at this sort of edge and there’s little exchange among creatures. A border is a more active edge, as at the shoreline dividing ocean and land ; this is a zone of intense biological activity, a feeding ground for animals, a nutrient zone for plants. In human ecology, the eight-lane highway isolating parts of the city from each other is a boundary, whereas a mixed-use street at the edge between two communities can be more of a border.” (Sennett 2012 : 79)
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet essai s’intéresse aux descriptions de populations colonisées dans la cinématographie de l’Empire britannique. Précisément, c’est la déshumanisation de l’autochtone dans deux films britanniques des années 1930 qui serviront de point de départ, puisque l’emploi de l’imagerie animale tant dans Sanders of the River que dans Elephant Boy cherche à légitimer et soutenir l’impérialisme britannique en Afrique comme en Inde. Après un bref survol de la critique traitant de la cinématographie impériale, cet essai propose ensuite une lecture attentive des stratégies visuelles et narratives de chaque film, ainsi qu’un commentaire sur leur réception et, enfin, une mise en question de ce qu’impliquent ces représentations. Enfin, les descriptions filmiques britanniques de ces cultures et de ces peuples laissent entrevoir l’attitude problématique du colonisateur qui essaie d’interpréter l’Autre et de se l’approprier à l’occidentale, conflit qui se situe au centre même des études postcoloniales.</p>
 
-
 ----
 
 abstract_en: <p>This essay examines the depictions of colonized people in the films of Empire Cinema. Specifically, it is the dehumanization of the native in two British films made during the 1930s that serve as the point of departure, as the use of animal imagery in both Sanders of the River and Elephant Boy attempts to legitimatize and defend British imperialism in both Africa and India. Beginning with a brief survey of Empire Cinema film criticism, the essay then engages in a close reading of the visual and narrative strategies of each film, as well as a discussion of the films’ receptions, before interrogating the implications of these portrayals. Ultimately, the British cinematic depictions of these cultures and people suggests the problematic nature of the colonizer attempting to interpret and appropriate the Other in Western terms, a conflict that lies at the crux of all postcolonial studies.</p>
-
 
 ----
 
@@ -54,8 +52,6 @@ text:
 <p>After WWII, Empire Cinema virtually died out, as did the Empire itself, but these films offer us invaluable insights into the British mentality of the time, one that was nostalgic, defiantly proud, and embarrassingly racist. Ultimately, the British were forced to withdraw from most of their colonies, and those colonies are still today negotiating the remnants of a colonial presence that is at once spectral and all too pervasive.</p>
 <p>One complicated issue any Western scholar of the third world faces is that of appropriation ; as Gayatri Spivak asks, who speaks for the subaltern ? I would suggest that perhaps the British tendencies in these films might also function as a cautionary tale for the potential pitfalls of postcolonial scholarship. In these films, the purpose was to highlight the eminence of the Empire and the Brits’ supremacy over those they colonized. However, these films’ biased depictions of colonized people are now recognized as terribly inaccurate, and instead read as texts providing insight into the Western ideological climate from which they emerged. Might postcolonial scholars fall into the same trap ? Will modern postcolonial scholarship be read retrospectively as revealing not of the cultures and people which it purports to study but of Western academics ? These film exemplify the problems of homogenous, hegemonic perceptions constructed by a party that is, in some way, direct or indirect, complicit in the perpetuation of hegemony.</p>
 
-
-
 ----
 
 references: 
@@ -76,16 +72,9 @@ references:
  	<li>SNYDER, Louis L., <em>The Idea of Racialism : Its Meaning and History,</em> New York, D. Van Nostrand Company, 1962.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] The British were not, in fact, a race, although what is important is that they often considered themselves to constitute one. For definitions of race and a critique of British notions of race, see Snyder 1962.
-
-
-
 
 ----
 

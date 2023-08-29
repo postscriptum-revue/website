@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Résumé *intempestif* c’est-à-dire dans ce cas-ci, trop tôt certainement. Au ton intempestif dudit texte, au sens de « déplacé » pour un article sérieux, j’ajoute en effet ici un prématuré préambule : je veux dire nettement, assez de discours délirant sur « l’utopie du cyberespace », sus aux démarcheurs en rêve en gros, global comme leur ego ; l’utopie du cyberespace, si elle est, est l’appel paradoxal et uchronique d’un objet éternel qui n’a pas besoin de nosu pour être, mais nous rêve en se matérialisant —cycliquement. Vous êtes bien avancés maintenant…</p>
 
-
 ----
 
 abstract_en: <p>An *untimely* summary &lt;[hence] not of its time ; inopportune, displaced&gt; and in this case, certainly too soon. The tone of the text is untimely, to the extent that it is “out of place”‚ for a serious article. And so I add a premature preamble : I want to say clearly, enough with the crazy talk about the “utopia of cyberspace”, out with campaigners of wholesale dreams as universal as their egos, the utopia of cyberspace, if it exists at all, is the paradoxical and uchronic call from an eternal object which does not need us in order to be, but dreams us as it materializes —cyclically. And now you have come further ahead…</p>
-
 
 ----
 
@@ -91,8 +89,6 @@ et qu’à son réveil, il trouvât cette fleur dans ses mains&#8230;
 que dire alors ?
 </blockquote>
 
-
-
 ----
 
 references: 
@@ -115,41 +111,19 @@ references:
  	<li>WIENER, N., <em>Cybernetics or Control and Communication in the Animal and the Machine,</em> 2nd edition, Cambridge (MA), MIT Press, 1965 [1948].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Je remercie Samuel Butler pour avoir inventé le verlan avant la lettre et pour m’avoir ainsi fourni mes titres.
 
-
-
-
 [2] Guy Debord disait « le spectacle est la reconstruction matérielle de l’illusion religieuse ».
-
-
-
 
 [3] Je peux même dater avec quelque précision cette utopie seconde avec l’apparition et le développement de la première génération de « computer scientists » dans les années 1960 aux États-Unis. Je considère le fameux article de JCR Licklider, le premier patron du Bureau des Techniques de l’Information de l’ARPA du Ministère de la défense américaine, comme le premier manifeste de cette seconde utopie ; cet article intitulé « Man-Computer Symbiosis » est publié en 1960 : ici le cyborg relaie le golem.
 
-
-
-
 [4] Mais peut-être à peine corrigé, après tout. Car les « wastelands » de Butler, cette fictionnalisation du Canterbury Settlement (Nouvelle-Zélande) où il séjourna entre 1860 et 1864, ressemblent à s’y méprendre, par leurs effets pour l’âme solitaire, à la Patagonie évoquée par Darwin.
-
-
-
 
 [5] Ted Nelson, propos recueillis par Yves Eudes (Cahier Multimedia du <em>Monde,</em> semaine du 1er avril 1996).
 
-
-
-
 [6] « The two conspicuous examples of the truth-relation in human experience are afforded by propositions and by sense-perception. A proposition is the abstract possibility of some specified nexus of actualities realizing some eternal object, which may either be simple, or may be a complex pattern of simpler objects » (Whitehead 1967 : 243).
-
-
-
 
 ----
 

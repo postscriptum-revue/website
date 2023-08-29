@@ -18,7 +18,6 @@ abstract_fr:
 
 abstract_en: <p><em>Con el desarrollo de la Rational Choice Theory (RCT), durante los años sesentas, la Economía se volvió una ciencia capaz de estudiar el comportamiento del ser humano incluso en sus aspectos más intimas (el amor, la sexualidad, la fe, etc.). De esta manera, dicha ciencia nos proponía un nuevo acercamiento a los mecanismos de la conducta humana, al lado de la psicología, la sociología y las ciencias biomédicas. La RCT demostraba así que el comportamiento humano y todas sus áreas de interacción pueden ser estudiados como fenómenos de mercado en sociedades en las que la norma epistémica y los cánones de razonamiento son, desde su fundación, marcadamente económicos. ¿Pero qué ocurre cuando, dentro de dicha norma, aparecen actividades gratuitas, lúdicas, desinteresadas, desprovistas de utilidad, pero capaces de absorber completamente al individuo ? ¿Cómo reacciona la norma ante ello ? ¿En qué la contradice o la cuestiona ? La novela </em>Inmaculada<em> del escritor mexicano Juan García Ponce, nos proporciona un ámbito ideal para el estudio de esta problemática, para explorar las posibilidades de la RCT en el análisis literario, y, también, para emprender su crítica. A su vez, un contraste entre esta novela y </em>Lolita<em>, de Vladimir Nabokov, a la cual se asocia muy a menudo, muestra que cuando los personajes no son conducidos por dicha racionalidad, fenómenos tan intimas como la sexualidad, adquieren formas y significados muy diferentes.</em></p>
 
-
 ----
 
 text: 
@@ -75,31 +74,15 @@ references:
  	<li>TOMMASI, Mariano y Kathryn Ierulli (1995), <em>The New Economics of Human Behavior</em>, Cambridge, Cambridge University Press.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Este artículo fue presentado en el Congreso de la Asociación Canadiense de Hispanistas, llevado a cabo en mayo de 2006 en la York University
 
-
-
-
 [2] Véase, para una somera introducción, Elster, 1986.
-
-
-
 
 [3] Allende el orbe hispánico, podríamos mencionar particularmente <em>La pornografía</em> de Witold Gombrowicz, o en las letras francófonas, <em>Le goût des jeunes filles</em> de Dany Laferrière.
 
-
-
-
 [4] Por ejemplo, está en el centro mismo de la filosofía Nietzscheana, desde <em>Zarathustra</em> hasta <em>Ecce homo</em>.
-
-
-
 
 ----
 

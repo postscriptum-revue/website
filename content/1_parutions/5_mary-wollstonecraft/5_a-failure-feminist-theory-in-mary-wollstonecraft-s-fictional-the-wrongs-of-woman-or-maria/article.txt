@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>The Wrongs of Woman : or, Maria a souvent été considéré comme un échec parce que « didactique » ou « schématique ». Cependant, de telles critiques reflètent à la fois une mauvaise connaissance des intentions de l’auteure et une mauvaise interprétation des richesses du texte, dans lequel elle fait la généralisation et la politisation du personnel. Les critiques formulées à son égard sont en fait ce sur quoi repose l’intérêt principal du roman. Ainsi, une relecture des aspects génériques de Wrongs révèle que l’alliage intentionnel entre la théorie et la fiction permet à Wollstonecraft de transgresser et de renverser les catégories (genres) genrées qui réfutaient la participation des femmes écrivains aux discours théoriques (philosophiques et politiques). Wollstonecraft peut donc être étudiée non seulement en tant que première écrivaine féministe ayant proposé un programme féministe fort compréhensif et explicite, mais aussi en tant qu’elle est la première à effectuer une transformation des aspects formels et du discours genré à des fins féministes.</p>
 
-
 ----
 
 abstract_en: <p>The Wrongs of Woman : or, Maria has often been judged as a failure, as “didactic,” or “schematic.” However, such criticism misinterprets these features, as they result from Wollstonecraft’s intention to generalize and politicize the personal in theoretical form. These points of criticism are in fact the novel’s major points of interest since they contribute to making the genre of the novel suitable for voicing feminist ideas and are part of Wollstonecraft’s new discourse of feminist writing. Thus, a rereading of the generic aspects of Wrongs reveals that it is Wollstonecraft’s deliberate mixture of theory and fiction which allows her to transgress and subvert gendered genres that would deny women writers participation in theoretical (philosophical or political) discourses. Hence, Wollstonecraft can be regarded not only as the first feminist writer who provided an exceptionally comprehensive and explicit feminist program, but she is equally the first to transform gendered genres and gendered discourses for feminist purposes.</p>
-
 
 ----
 
@@ -71,8 +69,6 @@ text:
 <p>Wollstonecraft’s explicit use of theory in her fiction can be contrasted with novels by other women writers at the end of the 18th and beginning of the 19th century who wrote pure fiction without feminist theory. Well-known examples include Elizabeth Inchbald’s <em>A Simple Story</em> (1791), Mary Robinson’s <em>Walsingham</em> (1797), or Maria Edgeworth’s <em>Belinda</em> (1801). What these novels have in common is that their plots could be termed feminist, since it would be possible to base a general theory of women’s oppression as well as feminist demands on the characters’ individual experiences. However, none of these novels explicitly does this. Instead, they leave it open whether a feminist message is implied or whether they only narrate the personal story of individuals. Presenting an individual woman’s situation, even if it is governed by gender-specific oppression, is not automatically feminist. <em>Wrongs,</em> on the other hand, shows that the renunciation of theoretical elements would have hindered the introduction of feminist concerns from the exemplary and private sphere to the political, philosophical and public sphere.</p>
 <p>With <em>Wrongs,</em> Mary Wollstonecraft is the first writer to transform gendered genres for feminist purposes. Her mixture of fiction with theory for the first time makes it possible to convey explicit feminist points without resorting to the male-dominated theoretical treatise. Subsequent feminist women writers have directly or indirectly profited from her experimentation with and de-gendering of genre. Both those women writers who have read Wollstonecraft (<em>cf.</em> Harriet Martineau, Olive Schreiner and Virginia Woolf) and those who cannot directly be linked to her thoughts (<em>cf.</em> post-structuralist authors such as Hélène Cixous and Monique Wittig) had to make use of different mixtures of theory and fiction for transmitting feminist ideas. Even if these combinations vary and are constantly experimented with, Wollstonecraft certainly is the first to blend feminist theoretical theses and arguments with fictional scenes. How then is <em>Wrongs</em> a “failure” ? It can be regarded as a failure to correspond to normative gendered genres and discourses. For feminist writing it is a milestone.</p>
 
-
-
 ----
 
 references: 
@@ -93,51 +89,23 @@ references:
  	<li>YAEGER, Patricia. <em>Honey</em>-<em>Mad Women : Emancipatory Strategies in Women</em>’<em>s Writing.</em> New York : Columbia UP, 1988.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Kelly, Introduction xx ; Jump 145, 132 ; Walters 327.
 
-
-
-
 [2] The term “feminism” has only been in use since 1894/5. Positions and attitudes that advocate the rights of women and largely believe in the equality of the sexes have, of course, also been held before that time. It is in order to refer to such positions that I use this term.
-
-
-
 
 [3] Watkins for example argues that “From its inception to the present day, the novel has been a feminised genre in terms of readership, authorship, content and narrative structure” (2). Benstock / Ferriss / Woods give several reasons for the novel becoming a genre associated with women : “The new novel form, however, provided women with a relatively untried genre, one that stressed the realities of domestic and social life … With its emphasis on social realism, novel writing also was not predicated on a classical education. As a result, women, who had traditionally been denied such training in classical literature and philosophy, were no longer disadvantaged” (39-40).
 
-
-
-
 [4] There are very few male exceptions who have explicitly developed feminist arguments over the centuries, such as François Poulain de la Barre or John Stuart Mill.
-
-
-
 
 [5] Bakhtin 291. For a specifically feminist context see Yaeger. She regards the form of the novel as suitable for the exploration of anti-patriarchal attitudes : “the novel is a form women choose because its multivoicedness allows the interruption and interrogation of the dominant culture. The novel’s polyvocality gives the writer an opportunity to interrupt the speech practices, the ordinary patriarchal assumptions of everyday life” (31).
 
-
-
-
 [6] Harasym, among others, justly states that “In the treatment of the self in <em>Maria or the rongs of Women,</em> there is a sharp contrast between Maria’s first-person autobiographical memories and the third-person narrative discourse which criticizes and censors Maria’s actions, and draws social and political conclusions about the unjust treatment of women” (164).
-
-
-
 
 [7] Poovey draws attention to the “uncertain perspective of the novel’s omniscient narrator” (112) that changes from the position of “detached, critical observer to emotional participant” (113).
 
-
-
-
 [8] One general meaning of “theory” given in the Oxford English Dictionary is “a scheme or system of ideas or statements held as an explanation or account of a group of facts or phenomena… a statement of what are held to be the general laws, principles, or causes of something known or observed”.
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’avant-garde littéraire du XXe siècle, qui souvent se distingue par son son autoréférentialité (pensons ici à Finnegans Wake et certains éclairs surréalistes, parmi lesquels se range Aurora), propose un véritable défi à l’herméneutique dans la mesure où elle restreint les possibilités de dialogue entre l’œuvre et l’interprète (Gadamer). Alors, comment interpréter un texte qui contourne sciemment les clichés, formes figées inhérentes au langage, au point de fragiliser la relation signifiant/signifié, voire de menacer le mot dans tout ce qu’il comporte de préjugé ? Si la présente exploration du roman de Leiris souligne surtout les pièges tendus à l’herméneutique transcendantale, elle effleure aussi quelques allusions ludiques à l’interprétation nihiliste, considérée par Vattimo comme la nouvelle koinè. En contournant sans cesse les clichés du langage sur un ton parodique, Leiris nous invite à sauter dans l’Ab-grund de la tradition (Heidegger).</p>
 
-
 ----
 
 abstract_en: <p>The literary avant-garde of the 20th century, which has often been distinguished by self-referentiality in the manner of Finnegans Wake and surrealist works, among them Aurora, represents a considerable challenge to hermeneutics to the extent that it limits the possibilities of dialogue between the work and the interpreter (Gadamer). How then does one interpret a text that avoids clichés and the fixed forms inherent in language to the point of weakening the relation signifier/signified ? If this study of Leiris’s novel is first and foremost concerned with the pitfalls of transcendental hermeneutics, it also speaks to the humorous allusions of nihilist interpretation, which Vattimo considered the new koinè. By continuously avoiding linguistic clichés in a tone of parody, Leiris invites us to leap into the abyss (Ab-grund) of tradition (Heidegger).</p>
-
 
 ----
 
@@ -66,8 +64,6 @@ text:
 <h3>Conclusion : <em>Aurora</em> ou l’aube d’une nouvelle herméneutique ?</h3>
 <p>Dans son explication étymologisante du prénom de son héroïne (178), Leiris évoque le mot latin <em>hora</em> (« heure »), le radical <em>or</em> (présent dans <em>os</em> et <em>oris</em>, soit « bouche » ou « orifice »), le mont Ararat, ainsi que deux « créatures semi-fantomatiques » de Nerval, soit Pandora et Aurélia. Comment interpréter le fait qu’il évite <em>sciemment</em> de parler de l’<em>aurore</em>, seul espoir en germe du roman ? Devons-nous le faire ? Si l’exploration du roman a permis de mettre en lumière quelques pièges tendus, entre autres, à l’herméneutique transcendantale, elle a néanmoins négligé nombre d’allusions ludiques à une autre voie de l’interprétation, celle considérée par Vattimo comme la nouvelle <em>koinè</em>. Sans cesse, Leiris nous oblige à sauter dans l’<em>Ab-grund</em> de la tradition sur un ton parodique qui cherche à contourner les clichés : « Il n’est pas nécessaire que je raconte les diverses péripéties de ce voyage, car elles se trouvent toutes rapportées, ou à peu près, dans les récits des anciens navigateurs », (29-30). De plus, il donne l’impression d’<em>anticiper</em> à plusieurs reprises le concept heideggérien de l’<em>être-pour-la-mort</em> : « le mobilier qui rappelle la mort plus sûrement que n’importe quelle horloge » (61). Enfin, il insiste sur le gouffre qui sous-tend le monde en raillant toutes les « cannes métaphysiques » (62). Bref, au même titre que <em>La Nausée</em> exemplifie l’existentialisme sartrien, <em>Aurora</em> constitue à notre avis la « mise en œuvre » sur le plan littéraire d’une vision nihiliste du monde. « Le délire d’interprétation ne commence qu’où l’homme mal préparé prend peur dans cette <em>forêt d’indices</em> », écrivait Breton dans <em>L’Amour fou</em> (1992 : 685). La lecture éblouissante d’<em>Aurora</em> et cette volonté farouche d’échapper aux préjugés de l’interprétation canonique rappellent la pertinence de sa remarque. Aussi nous semble-t-il possible d’affirmer que l’herméneute désireux d’interpréter une œuvre de l’envergure d’<em>Aurora</em>, c’est-à-dire un texte qui disqualifie les fondements de la signification et la position centrale du sujet, n’arrivera à des résultats satisfaisants qu’en tenant compte du tournant nihiliste amorcé par sa discipline avec Heidegger. On ne lit pas Leiris comme on lirait Balzac. Entre <em>Aurora</em> et l’interprète, il est certain qu’un dialogue s’instaure. Il s’agit de saisir à quel niveau il se situe et, comme le propose Vattimo, d’évaluer si on dispose des outils nécessaires pour répondre au texte.</p>
 
-
-
 ----
 
 references: 
@@ -90,66 +86,29 @@ references:
  	<li>___, « L’herméneutique comme nouvelle <em>koinè</em> », dans <em>Éthique de l’interprétation</em>, Paris, Éditions La Découverte, 1991, p. 45-58.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Recherche réalisée grâce à l’appui financier du Fonds FCAR.
 
-
-
-
 [2] Éric Van der Schueren souligne en outre que le silence relatif des critiques contribue à minimiser l’importance d’<em>Aurora</em> (1990 : 143).
-
-
-
 
 [3] Terme crée en 1943 par Leiris (de Sermet 1997 : 194-195).
 
-
-
-
 [4] Désormais, nous indiquerons la page citée dans le corps du texte.
-
-
-
 
 [5] Écrit en 1927-1928, de toute évidence inspiré de son premier grand voyage (Égypte, Grèce), <em>Aurora</em> paraîtra seulement en 1946 après bien des hésitations (de Sermet 1997 : 165-167 et Leiris 1992 : 128-129).
 
-
-
-
 [6] L’expression est de Hannah Arendt (Souche-Dagues 1996 : 1-7).
-
-
-
 
 [7] Foucault l’a bien montré dans son <em>Histoire de la sexualité</em> et nous connaissons les conséquences des révolutions scientifiques sur les vérités…
 
-
-
-
 [8] Expérience qui procure le « trouble physique » exigé par Breton (1992 : 678).
-
-
-
 
 [9] Plus loin dans le roman, un orateur-tonneau mettra en vente le mobilier des Descartes, « à terminer par son illustre <em>table rase</em> », soulignant avec ironie qu’il aurait dû commencer par lui raser « les quatre pieds » (157-158).
 
-
-
-
 [10] Cette triade rappelle l’affirmation de Breton : « L’œuvre d’art, au même titre d’ailleurs que tel fragment de la vie humaine considérée dans sa signification la plus grave, me paraît dénuée de valeur si elle ne présente pas la dureté, la rigidité, la régularité, le lustre sur toutes ses faces extérieures, intérieures, du cristal » (1992 : 681).
 
-
-
-
 [11] Theophrast von Hohenheim (1494-1541), médecin et naturaliste allemand, est souvent considéré comme un membre à part entière de la tradition savante (Bode, Becker et Klofat 1996 : 196).
-
-
-
 
 ----
 

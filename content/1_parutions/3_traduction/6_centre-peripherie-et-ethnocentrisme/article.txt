@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Puisque nous devons souvent recourir à des traductions, il est important de réfléchir à la part de médiation impliquée par l’acte de traduire, lequel suppose le transfert du sens ou le respect de la lettre —rarement les deux. Cet article présente d’abord deux courants de la traductologie (cibliste et sourcier), représentés ici par Jean-René Ladmiral et Antoine Berman, avant d’examiner un cas particulier. En effet, les vives réactions suscitées au Québec par la traduction franco-française du dernier roman de Mordecai Richler, Barney’s Version, montrent combien la qualité d’une traduction (avec tous les paramètres que cela comporte) influence la réception de l’œuvre. À l’aide d’une analyse contrastive, l’auteur met en évidence les écueils d’une approche ethnocentrique de la traduction littéraire, ici pratiquée sans les compétences culturelles adéquates, puis intègre la Francophonie à la problématique de l’assimilation de l’Autre.</p>
 
-
 ----
 
 abstract_en: <p>Since we often have to resort to translations, it is important to reflect on the mediating role played by the act of translation, which presupposes a choice : either to transfer the meaning or to respect the letter of the original —rarely both at the same time. This article first introduces two currents of thinking in translation studies, the target-oriented approach and the source-oriented one, represented by Jean-René Ladmiral and Antoine Berman, respectively, before examining a particular case. The strong reactions which were provoked in Quebec by the French (or Parisian) translation of Mordecai Richler’s last novel, Barney’s Version, show the extent to which the quality of a translation (and all that this entails) influences the reception of a work. The author first uses a contrastive analysis to reveal the pitfalls of an ethnocentric approach to literary translation, as in this case, where cultural knowledge was wholly lacking, and then discusses the Francophonie in terms of the assimilation of the Other.</p>
-
 
 ----
 
@@ -83,96 +81,41 @@ references:
  	<li>___, <em>The Street,</em> Markham (Ont.), Penguin Books Canada, 1985 [1969] ; <em>Rue Saint</em>-<em>Urbain,</em> traduit de l’anglais par René Chicoine, Montréal, Bibliothèque québécoise, 2002 [1969, pour la traduction].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Cet article est la version remaniée d’une communication présentée au colloque <em>Odyssée de la traductologie,</em> tenu le 21 mars 2003 à la Bibliothèque nationale du Québec (Montréal).
 
-
-
-
 [2] Ladmiral emprunte ces termes à Georges Mounin (109 et suivantes) et Eugene A. Nida (159 <em>et passim).</em>
-
-
-
 
 [3] Bernard Cohen a surtout traduit des auteurs américains, dont Norman Mailer (<em>Le Combat du siècle),</em> Sam Shepard (<em>Balades au paradis),</em> Walter Mosley (<em>La Musique du diable)</em> et Thomas Harris (<em>Hannibal),</em> mais aussi des écrivains hispanophones, dont Manuel Vázquez Montalbán (<em>Moi, Franco).</em>
 
-
-
-
 [4] Martine Wiznitzer a pris la même décision dans sa traduction de <em>St. Urbain</em>’<em>s Horseman,</em> publiée à Paris en 1976. Elle écrit « St. Catherine Street » (<em>Le Cavalier de Saint</em>-<em>Urbain</em> :133), « Rachel Market » (<em>Ibid.</em> :116), « Montreal Royals » (<em>Ibid.</em> : 99), etc.
-
-
-
 
 [5] En 1999, Charlotte Melançon, alors vice-présidente de l’Association des traducteurs littéraires du Canada, confiait à Marie-Claude Fortin : « Si l’on traduit “Lower Canada” par “Canada Inférieur”, il est évident qu’on ne connaît absolument rien des réalités canadiennes ! » (Fortin).
 
-
-
-
 [6] D’ailleurs, si Cohen avait cherché la Gaspésie sur une carte du Québec, il aurait sans doute évité de traduire « salmon fishing on the Restigouche » (<em>BV</em> 178) par « pêcher le saumon au Restigouche » (<em>MB</em> 258). Restigouche ne désigne ni une technique de pêche, ni un appât autochtone, il s’agit plutôt d’une rivière à saumon réputée située dans la vallée de la Matapédia, en plein cœur de la Gaspésie.
-
-
-
 
 [7] « Miguel, c’est le chef au Michelangelo, à Monkland » (<em>MB</em> 378).
 
-
-
-
 [8] Ce condensé n’inclut pas les nombreuses incohérences et hésitations entre le français et l’anglais. Ainsi, St Catherine Street Ouest alterne avec Sainte-Catherine (Cohen écrit pourtant Sherbrooke Street West), l’avenue Laurier (<em>MB</em> 330) constitue une surprise et la rue de l’Évêque (<em>MB</em> 579), pour Bishop, un non-sens : elle n’existe pas !
-
-
-
 
 [9] On aura reconnu l’Hôpital général de Montréal et l’Hôpital général juif.
 
-
-
-
 [10] Bien sûr, il eût été préférable d’écrire « magasin La Baie » ou encore « chez La Baie », expressions plus idiomatiques, quitte à insérer une note du genre : grand magasin canadien (<em>cf.</em> Printemps, La Samaritaine).
-
-
-
 
 [11] Au Québec, le terme « Palais de glace » du carnaval de Québec appartient à la culture populaire. Quant au « Grand Théâtre de Quebec City », destiné au « Peuple <em>de</em> Québec » (<em>MB</em> 22, nous soulignons), nous ne savons trop qu’en dire : comme plusieurs, Cohen confond la ville avec la province.
 
-
-
-
 [12] Les termes sont compilés dans <em>Termium,</em> la banque terminologique du gouvernement fédéral canadien, et dans la Banque terminologique du Québec (consultation gratuite sur le site www.granddictionnaire.com).
-
-
-
 
 [13] Petite épicerie du coin ou de quartier, souvent ouverte à toute heure du jour et de la nuit. Elle <em>dépanne</em> en cas de besoin. Lori Saint-Martin a relevé que ce même mot fut traduit par « crèmerie » dans un roman d’Alice Munro (Fortin).
 
-
-
-
 [14] « Parain québécois du parti conservateur » semblait pourtant évident (serait-ce Brian Mulroney, l’ancien premier ministre canadien ?).
-
-
-
 
 [15] C’est d’ailleurs ce que Richler voulait dire par « traded » (<em>BV</em> 123). Pour l’anecdote, Chelios fut échangé par Serge Savard, alors directeur-gérant des Canadiens, aux Black Hawks de Chicago en 1990.
 
-
-
-
 [16] Au Québec, ce verbe et ses variantes pronominales et passives (<em>se crosser, se faire crosser)</em> signifient <em>duper, se faire rouler</em> ou, dans son acception vulgaire, <em>masturber</em> ou <em>se masturber...</em>
 
-
-
-
 [17] Cohen donne au texte français une saveur plus argotique que l’original. Ici, nous pensons par exemple à l’emploi de « grolles » (<em>MB</em> 44) pour traduire « shoes ».
-
-
-
 
 ----
 

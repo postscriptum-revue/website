@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Depuis Antigone de Sophocle et Les Troyennes d’Euripide le deuil est marqué du politique puisqu’il suit comme corolaire les décisions politiques et guerrières du pouvoir. La réécriture des mythes de Médée et d’Iphigénie à la fin du XXe siècle dans le théâtre français utilise le deuil comme véhicule de dénonciation du pouvoir politique et met en épingle l’hypocrisie de ses discours et son indifférence face à la vie et la dignité humaine. La revisite des mythes antiques par les dramaturges contemporains met en filigrane le crime dénudé de ses prétextes patriotico-religieux, le nomme, et le dénonce. Le masque théâtral du mythe permet, jadis et maintenant, de parler chaque fois des sujets délicats de l’actualité.</p>
 
-
 ----
 
 abstract_en: <p>From Sophocles’ Antigone and Euripides’ Trojan Women, mourning is marked of politic since it follows as corollary to the political decisions. Rewriting the myths of Medea and Iphigenia in the late twentieth century, the French theater uses mourning as a vehicle of denunciation of political power. Furthermore it presents the hypocrisy of political pretexts and the indifference to the human lives and dignity. Revisiting of the ancient myths by contemporary playwrights reveals the religious and patriotic pretexts and denounces the crimes against the vulnerable parts of the society. The theatrical mask of the myth allows the treatment of delicate current subjects.</p>
-
 
 ----
 
@@ -130,7 +128,6 @@ Maintenant Jason, tu as gagné : Médée s’évanouit dans le désert : tu as
 <p>Comme il est évident par l’énoncé ci-dessus, dans cette tragédie le deuil de Médée revêt des problèmes sociaux et politiques contemporains, les conditions de vie et d’accueil des gens du voyage, des immigrés, des étrangers.</p>
 <p>La réélaboration du contenu mythique s’avère très efficace pour traiter des problèmes contemporains. Comme cela a toujours été le cas, le masque théâtral des personnages éloignés dans le temps permet une mise à distance par rapport à l’événement brûlant de l’actualité. Cette distanciation permet une meilleure prise de conscience des éléments qui composent le problème. La représentation peut sensibiliser à une cause, car elle est capable de jeter de la lumière sur la condition de <em>l’autre</em>. La mise en parallèle des personnages mythiques glorieux par leur résistance dans le temps et ceux de nos jours, considérés faibles ou inférieurs permet la mise en valeur de ces derniers et donc éventuellement une meilleure considération de leurs problèmes. Le deuil des personnages théâtraux, et leur souffrance qui provoque le fameux élément de la catharsis – la pitié – chez le destinateur, véhiculent aussi des causes sociales et politiques contemporaines, qui sont traitées de façon efficace sur scène, grâce à la distance créée par le masque théâtral du mythe.</p>
 
-
 ----
 
 references: 
@@ -151,31 +148,15 @@ references:
  	<li>SOPHOCLE, <em>Antigone</em> dans <em>Sophocle t.1</em>, texte établi par Alphonse Dain et traduit par Paul Mazon, Paris, Les Belles Lettres, 1955.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Michel Azama est un dramaturge contemporain, professeur de lettres et professeur d’art dramatique, inspecteur d’Académie et conseiller littéraire auprès du Centre national des écritures du spectacle.
 
-
-
-
 [2] On reconnait dans cette trouvaille de l’escapade montée par Achille pour sauver Iphigénie, les échos de la tragédie homonyme de Racine.
-
-
-
 
 [3] Max Rouquette est un dramaturge contemporain. Sur sa biographie et bibliographie on peut consulter son site officiel : http://www.max-rouquette.org/biographie
 
-
-
-
 [4] Cette situation est largement développée dans la tragédie, elle occupe plus de six pages, de p.72 à p.78.
-
-
-
 
 ----
 

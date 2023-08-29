@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le célibataire des nouvelles de Maupassant est un personnage en décalage par rapport à la société qui l’entoure. Pour le bourgeois qui au dix-neuvième siècle encourage l’individu à se marier et fonder une famille, le célibataire, qui refuse ces valeurs dans lesquelles il ne se reconnaît pas, apparaît comme un « raté. » Rejetant la femme qui incarne à ses yeux le « piège de la procréation, » le célibataire s’isole. Alors que la vieillesse s’installe, la solitude se fait cellule et devient aliénante. Réalisant qu’il aurait pu (qui sait ?) goûter aux joies de la famille, il se perd. Après avoir été un mari, un père puis un homme ratés, la folie et le suicide deviennent les étapes ultimes du ratage célibataire. Par le biais de journaux, de lettres, ou autres confessions, il se construit alors un « moi » qui, ayant longtemps refusé l’ « Autre, » cherche maintenant à l’atteindre. Mais n’est-il pas trop tard ?</p>
 
-
 ----
 
 abstract_en: <p>The bachelor in Maupassant’s short stories is a character shifting away from nineteenth-century society. For the bourgeois who encourages the individual to marry and start a family, the bachelor who refuses these values he does not share, appears as a “failure.” Rejecting women who represent the “trap of procreation,” the bachelor isolates himself. But as old age settles in, solitude becomes a cell and alienates him. Realizing that he could have tasted (who knows ?) the joys of marital life, he loses himself. Failed husband, failed father, failed man, madness and suicide become the ultimate stage of the bachelor’s failure. Through newspapers, letters, or other confessions, the bachelor creates an “I” who, having refused the “Other,” now seeks to reach her. But isn’t it too late ?</p>
-
 
 ----
 
@@ -71,7 +69,6 @@ text: <p>Le personnage principal de la plupart des contes et nouvelles de Maupas
 <h3>Conclusion</h3>
 <p>Le célibataire qui s’efforce de vivre sans normes, sans règles, sans contraintes, sans épouse, sans enfants, se retrouve… sans vie. Ce néant ne fait que vivre de ratages et dérapages. Mari raté parce qu’il refuse le mariage et la femme, préférant les femmes ; citoyen raté en rejetant la famille et ses contraintes ; père raté lorsque le piège de la nature se referme sur lui et fait naître de sa chair, de son sang, un monstre ; homme raté car revendiquant son infertilité ; puis écrivain raté car incapable de faire entendre son cri désespéré par un lecteur qui ne peut lui tendre la main et le sauver de son destin implacable. Le célibataire « établit le ratage comme modèle de toute expérience sensible » (Borie 1991 : 78), c’est « l’homme auquel les choses n’obéissent pas, l’homme pour qui rien ne marche, […] l’homme qui ne rencontre partout que ratages et difficultés techniques » (Borie 1991 : 211).</p>
 
-
 ----
 
 references: 
@@ -99,31 +96,15 @@ references:
  	<li>TROYAT, Henri, <em>Maupassant</em>, Paris, Flammarion, 1989.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Léopold de <em>L’Héritage</em> est « fier de promener ce ventre en bosse qui attestait sa virilité » (Maupassant 1979 : 62).
 
-
-
-
 [2] Les vers sont extraits de « La Colère de Samson » (v. 100) dans <em>Les Destinées</em>.
-
-
-
 
 [3] Qu’est-ce qui est plus léger qu’une plume ? La poussière. Qu’est-ce qui est plus léger que la poussière ? Le vent. Qu’est-ce qui est plus léger que le vent ? Une femme. Qu’est-ce qui est plus léger qu’une femme ? Rien.
 
-
-
-
 [4] Maupassant est bien le disciple de Flaubert : « Nous sommes tous dans un désert. Personne ne comprend personne. ».
-
-
-
 
 ----
 

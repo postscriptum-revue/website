@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p><em>À quoi rêvent les loups</em> de Yasmina Khadra est un roman qui prend en charge les états et les effets de la violence ayant sévi en Algérie de 1992 à 2002. Il met en scène la trajectoire complexe du jeune Nafa Walid : celle du basculement vers la violence armée. Ce texte met en relation deux éléments phares qui sont d’une part la réalité des faits historiques de la dramatique décennie algérienne (1992-2002) et de l’autre l’imaginaire nécessaire à l’expression littéraire. Ainsi, il met en scène des personnages dotés d’une sensibilité singulière face aux événements tragiques et traumatisants, individuellement ou collectivement vécus. Cet état de conscience par le biais duquel la narration se développe instruit les lecteurs à propos d’une fracture singulière ayant entraîné une plaie que les Algériens, aujourd’hui encore, estiment ouverte. Le présent article propose d’analyser la représentation littéraire du personnage du terroriste dans le roman à la lumière de l’étude sociologique menée par Abderrahmane Moussaoui dans <em>La violence en Algérie, les lois du chaos</em>. Il questionne les limites et les contours du sujet terroriste en rapport avec la notion du djihad et son interprétation dans le contexte mémoriel de la dramatique décennie algérienne.</p>
 
-
 ----
 
 abstract_en: <p><em>À quoi </em><em>rêvent</em><em> les loups</em> by Yasmina Khadra is a novel that takes on the states and effects of violence in Algeria from 1992 to 2002. It stages the complex trajectory of the young Nafa Walid; that of the swing towards armed violence. This text puts in relation two main elements which are, on the one hand, the reality of the historical facts of the dramatic Algerian decade (1992-2002) and on the other hand the imaginary necessary to the literary expression. Thus, it displays characters endowed with a singular sensitivity in front of the tragic and traumatic events, individually or collectively lived. This state of consciousness through which the narrative develops instructs about a singular fracture that has led to a wound that Algerians today still feel open. This article proposes to analyze the literary representation of the terrorist character in the novel considering the sociological study conducted by Abderrahmane Moussaoui in <em>La violence en Algérie, les lois du chaos</em>. It questions the limits and contours of the terrorist subject in relation to the notion of jihad and its interpretation in the memorial context of the dramatic Algerian decade.</p>
-
 
 ----
 
@@ -113,8 +111,6 @@ text: <p><em>À quoi rêvent les loups</em> de Yasmina Khadra est un roman qui p
 <p><a href="#_ftnref1" name="_ftn1">[1]</a> Le mot « taghout », constitué à partir du radical <em>tagha</em> et de la racine <em>taghw</em>, renvoie, selon ses nombreuses occurrences coraniques, à ce qui dépasse la limite, ce qui déborde, et par extension, désigne celui qui se rebelle. La définition que lui donnent les salafistes est plus précisément centrée sur le politique en rapport avec le religieux. Elle découle de celle qu’en donne Muh. B. Abd al-Wahhâb dans son épître « signification du taghût (Ma’nâ al-tâghût) » (Moussaoui 2006, 306).</p>
 
 <p><a href="#_ftnref2" name="_ftn2">[2]</a> Goumeziane recense cinq principales exigences mentionnées dans le Coran pour rendre légitime cette résistance. Primo, le respect de la liberté de chacun et de son droit à la mécréance. Secundo, elle n’est reconnue que sous la forme de légitime défense répondant à une agression préalable. Tertio, en l’absence de toute agression, l’entente et l’amitié sont prescrites même envers les populations d’appartenances religieuses différentes. Quarto, les pactes de non-agression signés entre les populations maintiennent la paix. C’est la trahison de ces pactes qui appelle à la résistance armée. Quinto, la solidarité avec les populations musulmanes agressées est recommandée en l’absence de pacte signé avec la partie adverse. (Goumeziane, 2016).</p>
-
-
 
 ----
 

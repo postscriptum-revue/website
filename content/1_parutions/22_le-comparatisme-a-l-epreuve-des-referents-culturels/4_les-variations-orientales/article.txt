@@ -16,13 +16,11 @@ abstract_fr: <p>La péri, fée orientale, inspirée des contes des <em>Mille et 
 <p>Les enjeux esthétiques du conte de <em>La Mille et Deuxième nuit</em> (1842) et du ballet de <em>La Péri </em>(1843) de Théophile Gautier, inspirés du conte « L&rsquo;histoire du Prince Ahmed et de la fée Pari-Banou » traduit par Antoine Galland, montrent que la structuration de l’espace nous promet et permet la découverte de territoires exotiques (l’Égypte, l’Inde, la Turquie) dans lesquels le personnage merveilleux de la péri use de tout son pouvoir pour mettre à l’épreuve les sentiments amoureux du sultan. Loin d’être un simple ornement dans un monde oriental rêvé, la femme représentée par la péri, acquiert une dimension universelle, celle de Shéhérazade pour signifier à l’homme cette devise chère à Gautier « l’amour est plus fort que la mort ».</p>
 <p>L’étude de l’intertextualité interne et externe montre que la motivation de Gautier est celle de s’appuyer sur le vraisemblable, sur cette dimension esthétique qui définit le rapport entre l’Orient et l’Occident, qui abolit les frontières spatiales pour laisser place au métissage culturel et civilisationnel.</p>
 
-
 ----
 
 abstract_en: <p>The peri, oriental fairy, inspired by the tales of the Thousand and One Nights, is the incarnation of the magical power that woman exercises over man. The marvelous, as defined by Etiemble, « is part of the real world », constitutes a gautheristic power based on illusion.</p>
 <p>The aesthetic stakes of the story of The Thousand and Second Night (1842) and Theophile Gautier&rsquo;s ballet La Péri (1843), inspired by the tale « The story of Prince Ahmed and the fairy Pari-Banou » translated by Antoine Galland Show that the structuring of space promises us and allows the discovery of exotic territories (Egypt, India, Turkey) in which the marvelous personage of the perished uses all its power to test the feelings In love with the Sultan. Far from being a mere ornament in a dreamed oriental world, the woman represented by the peri, acquires a universal dimension, that of Shéhérazade to signify to man the motto dear to Gautier « love is stronger than death ».</p>
 <p>The study of internal and external intertextuality shows that Gautier&rsquo;s motivation is to rely on plausibility, on this aesthetic dimension which defines the relationship between East and West, which abolishes spatial boundaries to leave Cultural and civilizational mixing.</p>
-
 
 ----
 
@@ -103,7 +101,6 @@ text: <h3>Introduction</h3>
 <p><em>La Mille et Deuxième Nuit</em> n’est en fait qu’un prétexte pour Gautier pour dénoncer la condition de l’artiste : « Votre sultan Schahriar, ma pauvre Scheherazade, ressemble terriblement à notre public ; si nous cessons un jour de l’amuser, il ne nous coupe pas la tête, il nous oublie, ce qui n’est guère moins féroce. Votre sort me touche »</p>
 <p>La trame romanesque de <em>La Mille et Deuxième Nuit</em> est empruntée aux <em>Mille et Une Nuits</em>. L’histoire dans l’histoire est l’une des caractéristiques de l’œuvre originale, Gautier montre non seulement sa fascination, mais aussi l’habileté de cette œuvre à user de procédés littéraires ne relevant pas du conventionnel occidental, mais d’une recherche de la beauté et d’une quête des origines. La référence aux civilisations orientales dépasse une simple influence de mode pour refléter une vraie conception de l’art et de l’art d’écrire chez Gautier.</p>
 <p><a href="#_ftnref1" name="_ftn1"></a></p>
-
 
 ----
 
@@ -187,11 +184,7 @@ references:
 
 <hr />
 
-
-
 Narjess Saidi d’Outreligne, maître assistante en littératures française et comparée à l’Institut Supérieur des Sciences Humaines de Jendouba, Tunisie, directrice du Centre de Langues et de Certifications, chef de projets PAQ (Projet d’Appui à la Qualité dans l’enseignement supérieur) et de MOOC (Préparer et réussir le DELF B2 et le DALF C1). Elle a publié de nombreux articles et deux critiques littéraires aux éditions de l’Harmattan, <em>De l’Orient des Mille et Une Nuits à la magie surréaliste</em>, et <em>Les techniques d’expression dans </em>Zayni Barakat <em>de Ghitany</em>.
-
-
 
 ----
 

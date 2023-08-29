@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p><em>La violencia ha sido considerada por la modernidad como el principal enemigo de la civilización, del humanismo, de la cultura y de la sociedad. Sin embargo, cada acto fundador, sea este político, cultural, ejecutivo o simbólico, implica la manifestación de una violencia que atenta contra un orden establecido. En la tradición literaria hispanoamericana la violencia como forma de representación de la trasgresión o de la resistencia está presente en todas sus formas constituyendo un rasgo que caracteriza de manera ejemplar a esta narrativa. En </em>Mantra<em> de Rodrigo Fresán la violencia acapara todos los elementos constitutivos de la enunciación : el imaginario narrativo, la trama, la estructura y la forma. En esta novela la violencia no aparece como una forma de sometimiento sino más bien como una manera de romper con las convenciones para fundar un nuevo orden. Precisamente, este análisis consiste en un examen fenomenológico de esta violencia.</em></p>
 
-
 ----
 
 abstract_en: 
@@ -52,26 +51,13 @@ references:
  	<li>___, <em>El hombre operable : Notas sobre el estado ético de la tecnología génica</em>, www.antroposmoderno.com</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Peter Sloterdijk, <em>El hombre operable : notas sobre el estado ético de la tecnología génica</em>, www.petersloterdijk.net
 
-
-
-
 [2] Rodrigo Fresán : <em>Tener estilo</em>, The Barcelona Review no 49, www.BarcelonaReview.com
 
-
-
-
 [3] Peter Sloterdijk, <em>Reglas para el parque humana</em>, www.antroposmoderno.com
-
-
-
 
 ----
 

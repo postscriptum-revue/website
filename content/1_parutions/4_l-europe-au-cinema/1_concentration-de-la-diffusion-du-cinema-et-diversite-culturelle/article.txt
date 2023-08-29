@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article se propose d’étudier le rôle des réseaux indépendants de diffusion en Europe dans un contexte d’exacerbation des contraintes économiques pesant sur l’industrie cinématographique. Alors même qu’autour de l’exploitation en salle se mettent en place de nouvelles stratégies menées par les grands groupes, tendant à impliquer la prééminence d’un compromis cinématographique particulier art-industrie, la diversité des réseaux de diffusion, au sein desquels les cinémas indépendants, apparaît nécessaire pour la préservation d’une diversité culturelle cinématographique effective. C’est à partir de ce nouvel objectif que doivent se repenser ou s’articuler les politiques publiques aujourd’hui essentiellement concentrées sur la création.</p>
 
-
 ----
 
 abstract_en: <p>This article proposes to study the role of independent distribution networks in Europe in the context of growing economic constraints felt by the film industry. While new strategies centred on the business of movie-goers are increasingly put in place by large companies, with a tendency to give more prominence to a compromise of art and commercial cinema, the diversity of distribution networks, at the heart of which are independent cinemas, seems necessary to preserve effective cultural diversity in cinema. This new objective can help us to re-conceptualise public policies which nowadays are still essentially focused on creation.</p>
-
 
 ----
 
@@ -74,8 +72,6 @@ text:
 <p>Dans ce cadre, on peut alors s’interroger sur l’impact de la transformation des politiques publiques, jouant un rôle important en France et dans d’autres pays européens (Vivancos 2000) et devant s’adapter à de nouveaux objectifs affichés par les Pouvoirs Publics qui ne sont plus ceux de « l’exception culturelle », mais de « la diversité culturelle », et ceci alors même que de nombreuses critiques des politiques publiques d’aide au cinéma se font jour, comme avec Jean Cluzel (2003). La situation du cinéma en France, régulé par un dispositif politique, administratif, financier et symbolique mis en place depuis trois quarts de siècle, s’incarnant notamment dans la création en 1946 d’un outil de politique nationale comme le CNC (Centre national de la cinématographie), témoigne d’une transformation historique des modalités d’intervention de l’État dans l’économie du cinéma (Farchy 1999 : 190-193) par le passage d’une politique industrielle de structuration du secteur dans l’après-guerre à une politique à prétention culturelle avec le rattachement du cinéma au Ministère de la Culture en 1959. Alors qu’elles doivent rentrer dans le cadre d’une négociation prochaine en 2005 au sein de l’Union européenne, ce sont ces formes de l’aide qui apparaissent en crise actuellement, puisqu’en mettant l’accent sur l’aide à la production plutôt que sur l’aide à la diffusion des films (comme avec l’aide aux salles), elles accentuent le décalage entre le niveau élevé de la production et les possibilités limitées de sortie des films dans de bonnes conditions [24].</p>
 <p>Comme le rappelle Claude Forest (1998), la diversité artistique et culturelle des œuvres de cinéma s’accompagne donc et se nourrit d’une diversité de la population des opérateurs économiques du secteur. Alors que les enjeux culturels sont au cœur de la constitution de l’Europe comme une réalité politique non réductible à une vaste zone de libre échange, si l’Europe veut donc continuer à produire un cinéma qui lui serait spécifique, développer « son génie […] dans le dialogue des pluralités qui produit le changement » (Morin 1990 : 149), elle ne peut faire l’économie d’une réflexion forte sur les conditions de l’exposition de sa production et de préserver une pluralité des réseaux d’exploitation (Thiollière et Ralite 2003).</p>
 
-
-
 ----
 
 references: 
@@ -123,131 +119,55 @@ references:
  	<li>WAYNE, Michael, « Post-Fordism, Monopoly Capitalism, and Hollywood’s Media Industrial Complex », <em>International Journal of Cultural Studies,</em> vol. 8, n° 1 (2003), p. 82-103.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] LEPII est l’acronyme du Laboratoire d’économie de la production et de l’intégration internationale. Une version remaniée de cet article paraîtra dans le n° 11 (septembre 2004) de la Revue <em>TESS–Travailler pour une économie sociale et solidaire</em>. Je suis fortement redevable des remarques et suggestions des rapporteurs anonymes de la revue, ainsi que des nombreux échanges à propos de l’économie sociale culturelle avec Danièle Demoustier (Institut d’Études Politiques de Grenoble). Je reste bien sûr seul responsable des lacunes de ce texte.
 
-
-
-
 [2] La concentration des producteurs et des produits, se traduisant non par le nombre de films (stable ou en augmentation), mais par le coût moyen de production et la concentration du nombre de spectateurs ; la mise en question des modes de financements de la création (l’économie de l’avance sur recettes en France, par exemple). Voir Créton 2001.
-
-
-
 
 [3] Voir à ce propos différents articles d’Élisabeth Lequeret dans les <em>Cahiers du Cinéma</em> en 2001-2002.
 
-
-
-
 [4] Ce dont Karl Marx lui-même se défiait, comme en témoigne son éloge de l’art grec et de Shakespeare comme modèles artistiques « inaccessibles » (1990). Face à la critique de « scientisme » dès lors que l’on s’intéresse à l’économie des pratiques culturelles, rappelons ici ce qu’écrivait Pierre Bourdieu à propos de l’œuvre littéraire : « l’analyse scientifique des conditions sociales de la production et de la réception de l’œuvre d’art, loin de réduire ou de la détruire, intensifie l’expérience littéraire » (1998 : 14-15).
-
-
-
 
 [5] Pour une discussion plus précise de la notion de diversité culturelle (et de son historique), voir Mattelart (2002), critiquant « la diversité culturelle assimilée [uniquement] à la multiplication de l’offre et de demande sur le marché des biens culturels ».
 
-
-
-
 [6] Notons que l’on arrive à la même conclusion si on étudie l’évolution de la marge bénéficiaire de ces différents acteurs (Thiollière et Ralite 2003).
-
-
-
 
 [7] Cette progression rencontre actuellement des limites réglementaires dans la mesure où la salle ne peut recueillir moins de 50% de la recette hors taxe.
 
-
-
-
 [8] En effet, au sein d’un secteur où les différentes branches sont traditionnellement rémunérées au pourcentage de la recette par entrée, l’introduction de telles formules faisait difficulté : elle ne permettait plus d’individualiser, pour chaque film, les recettes issues des abonnements et rendait par conséquent problématique la rémunération des distributeurs et des ayants droit.
-
-
-
 
 [9] En droit français (mais cela rejoint en grande partie la définition européenne), il s’agit des complexes cinématographiques d’au moins 8 salles pour une capacité minimum de 1000 fauteuils.
 
-
-
-
 [10] Par exemple, le 2 janvier 2004, quatre films (<em>Le monde de Némo, Le Seigneur des Anneaux, Scary Movie, Les Ripoux 3</em>) occupaient 3022 écrans (sur 5280), soit 57% de l’ensemble des écrans (tous réseaux confondus) !
-
-
-
 
 [11] L’ensemble des programmateurs appelant l’ensemble des distributeurs le lundi matin, au vu des résultats dont tous ont eu communication en fin de week-end.
 
-
-
-
 [12] L’amplitude du choix potentiel incite certains à toucher tous les segments de la clientèle, y compris la plus cinéphilique, livrant une concurrence frontale avec la frange des exploitants « art et essai » qui s’étaient établis sur cette niche, ne serait-ce que parce que la programmation de films « art et essai » porteurs (l’exemple type pour le cas français étant le film annuel de Woody Allen) permet de diversifier les sources de profit en assurant une durée d’exploitation optimale de chaque film.
-
-
-
 
 [13] On ne compte plus les accords de partenariat entre les sociétés de multiplexes et celles de restauration rapide à proximité pour proposer des offres couplées préférentielles.
 
-
-
-
 [14] Dans un article des <em>Cahiers du Cinéma</em>, Anne Ballynlich (2000) avait caractérisé de cette manière la stratégie des grandes entreprises des industries culturelles.
-
-
-
 
 [15] De même que le système français finance largement des cinéastes étrangers, conduisant par exemple à ce que Denys Arcand puisse recevoir pour les <em>Invasions Barbares</em> le César du meilleur film. On peut y voir alors une nouvelle forme de rapport centre-périphérie (France par rapport au reste du monde francophone).
 
-
-
-
 [16] Un simple coup d’œil sur les affiches (se réduisant à une collection de portraits des acteurs) des principaux « blockbusters » français montrent qu’ils singent jusqu’à la caricature <em>l’image et l’univers</em> des films américains.
-
-
-
 
 [17] Comme Arte, elles tendent ainsi à développer un compromis sur la diffusion du film entre un produit télévisuel et un film indépendant plus « classique » (par exemple en proposant de manière légèrement décalée une première vision télévisuelle puis une sortie en salle).
 
-
-
-
 [18] L’analyse spécifique de la situation du documentaire et de la part de plus en plus importante que les chaînes occupent dans « son formatage télévisuel » nécessiterait à elle seule un développement beaucoup plus large que les quelques arguments mentionnés ici relativement à l’économie générale du film.
-
-
-
 
 [19] Rappelons ici que, selon les chiffres du CNC pour 2002, 5% des titres représentent 73% des ventes<br />de DVD ; les films américains représentent une part identique des ventes.
 
-
-
-
 [20] Pour ce dernier cas, l’effet est même celui de la contamination sur la structure du récit du film se résumant à celle d’un jeu vidéo (action, récit préalable à l’action suivante, action suivante de difficulté supérieure, etc.).
-
-
-
 
 [21] Claude Forest y voit un avantage comparatif de Hollywood : « la différence incontournable entre les régimes juridiques anglo-saxons et ceux d’autres pays comme la France fonde l’abîme entre les différentes conceptions de l’auteur de l’œuvre à produire comme de l’œuvre elle-même. Les États-Unis n’ont, en effet, pas adhéré à la convention de Berne sur les droits d’auteur qui donnent à ceux-ci (que ce soit pour un livre, un scénario ou toute autre œuvre d’art) un droit de regard absolu sur l’utilisation ultérieure qui sera faite de leur création. Il s’ensuit que, en droit américain, seul compte le propriétaire du copyright, qui est cessible contractuellement entre n’importe quelles parties, comme par exemple un scénariste salarié et son employeur » (Forest 2002 : 219).
 
-
-
-
 [22] Cette analyse <em>canonique</em> (la « politique des auteurs » des <em>Cahiers du Cinéma</em>) nécessiterait toutefois un réexamen. En témoigne le destin du film <em>Gangs of New York</em>, ayant largement échappé (dans son montage, dans les scènes coupées…) au contrôle de Martin Scorsese, pourtant considéré par la revue comme l’archétype du « contrebandier du cinéma américain ».
-
-
-
 
 [23] Comme le résume bien une des structures associatives rencontrées, « que ce soit à travers le cinéma, les spectacles vivants, les expositions, les activités d’expressions culturelles, toutes les actions qui nous développons tendent vers une même exigence : <em>ouvrir et nourrir les esprits,</em> mieux se connaître et mieux se comprendre ». Le cinéma dans ce type d’organisation s’inscrit avant tout dans un <em>projet social et éducatif</em> plus vaste.
 
-
-
-
 [24] Pour une part, certaines politiques réglementaires ont été mises en place. Outre l’encadrement des cartes illimitées, des engagements de programmation pris par les opérateurs doivent contribuer à la diversité de la programmation des multiplexes en prévoyant un pourcentage minimum de séances consacrées aux films européens et en limitant la pratique de la multidiffusion consistant à projeter le même film dans plusieurs salles d’un multiplexe.
-
-
-
 
 ----
 

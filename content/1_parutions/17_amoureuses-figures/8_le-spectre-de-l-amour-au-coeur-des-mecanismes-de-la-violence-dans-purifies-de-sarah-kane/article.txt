@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p>« Love me or kill me », lance Grace sur un ton défiant au spectre de son frère Graham. Cette réplique marquante – fréquemment commentée dans les études dédiées à l’œuvre de Kane – est issue de sa troisième pièce Purifiés ; une œuvre associée à un mouvement théâtral britannique tapageur et unpolitically correct qui se développe au long des années 90 : le « In-Yer-Face theatre ». La citation illustre parfaitement le caractère radical que prennent l’amour, ses figures et ses formes dans un contexte de mise à l’épreuve. Dans Purifiés – et extensivement dans l’ensemble de l’œuvre « coup-de-poing » de Kane – l’amour, omniprésent dans les rapports de force, est toujours teinté d’une certaine morbidité. Il côtoie étroitement la violence démesurée reçue par les corps. À travers les images intolérables de la violence qui cherchent à éprouver les affects du spectateur, les signes de l’amour ne se laissent pas cerner si facilement. Pourtant sa forme spectrale – à l’image du fantôme de Graham dans la pièce – traverse sans cesse l’agonie, la décomposition ou la métamorphose des personnages. Bien que se manifestant sous les formes de l’aliénation, du désengagement, du sacrifice, ou encore comme « présence sexuelle », l’amour peine à trouver un langage adéquat dans un monde où la parole échoue lamentablement. À l’aide d’un dispositif scénique transgressant les normes dramatiques, en faisant appel à une multitude de médias et en prenant ses distances du texte, Purifiés, au-delà du discours, engage le spectateur à saisir les formes de l’amour présentes au cœur des mécanismes de la violence. Cet essai vise à commenter ces formes spectrales à la lumière de certaines notions issues du paradigme théâtral « postdramatique » forgé par le théoricien Hans-Thies Lehmann.</p>
 
-
 ----
 
 abstract_en: 
@@ -84,7 +83,6 @@ Carl Yes
 <blockquote><p>La catastrophe amoureuse est peut-être proche de ce qu’on a appelé, dans le champ psychotique, une situation extrême, qui est « une situation vécue par le sujet comme devant irrémédiablement le détruire » ; l’image en est tirée de ce qui s’est passé à Dachau. N’est-il pas indécent de comparer la situation d’un sujet en mal d’amour à celle d’un concentrationnaire de Dachau ? L’une des injures les plus inimaginables de l’Histoire peut-elle se retrouver dans un incident futile, enfantin, sophistiqué, obscur, advenu à un sujet confortable, qui est seulement la proie de son Imaginaire ? Ces deux situations ont néanmoins ceci de commun : elles sont, à la lettre, paniques : ce sont des situations sans reste, sans retour : je me suis projeté dans l’autre avec une telle force que, lorsqu’il me manque, je ne puis me rattraper, me récupérer : je suis perdu, à jamais. (Barthes, 1977, p.60)</p></blockquote>
 <p>Dans <em>Purifiés</em>, la catastrophe humaine et la catastrophe amoureuse sont effectivement posées sur une même échelle. La pièce peut alors se concevoir comme une mise en image de la citation de Barthes. Sans quitter le registre de la provocation, j’y vois aussi une mise en image du hit de Joy Division [19], « Love will tear us apart », dont le titre serait ici pris au pied de la lettre, un groupe dont Kane était d’ailleurs une admiratrice [20]. Cette référence me permet de mettre de l’avant le rapport de la dramaturge avec des œuvres issues de la culture populaire et de la contre-culture [21], dont on peut déceler les empreintes et le caractère tapageur au fil de ces images radicales et provocantes de la fragmentation et de la défiguration des corps amoureux.</p>
 
-
 ----
 
 references: 
@@ -106,116 +104,49 @@ references:
  	<li>SAUNDERS, Graham. <em>Love me or kill me : Sarah Kane and the theatre of extremes</em>, Manchester University Press, 2002.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Voir <em>Au-delà du principe du plaisir</em>, essai où Freud expose en détail la théorie des pulsions : <em>Eros</em> et <em>Thanatos</em>.
 
-
-
-
 [2] Conception forgée par le dramaturge britannique Howard Barker, qui s’inspire directement du « Théâtre de la cruauté » d’Artaud : « Howard Barker agresse le spectateur dans le confort de sa conception du théâtre comme « sortie mondaine », divertissement ou même propagande politique. Pour protecteur que soit le noir de la salle, le public ne parvient pas pour autant à se soustraire à cet espace tortionnaire que crée l’extraordinaire puissance dérangeante du dramaturge. […] Le théâtre de Barker est d’abord un théâtre de la destruction ; sa dramaturgie, une renaissance des décombres. Avant tout, Barker fracasse, démolit, met en pièces. Tel le phénix qui renaît de ses cendres, son théâtre se nourrit de l’anéantissement de toute existence scénique antérieure. Théâtre de la souffrance donc, il se place d’entrée de jeu sous le signe de la « cruauté » au sens où l’entend Antonin Artaud. » (Angel-Perez, 2008, en ligne)
-
-
-
 
 [3] Dans <em>Purifiés</em>, cette fragmentation temporelle se fait à travers le choix du genre choral, en juxtaposant quatre intrigues qui s’entrecroisent et s’entre-influencent.
 
-
-
-
 [4] À ce sujet Kane expliquait dans une entrevue le choix d’un texte minimal : « I wanted to strip everything down. I wanted to be as small – when I say small I mean minimal and poetic, and I didn’t want to waste any words » (Saunders, 2002, p.88).
-
-
-
 
 [5] Le traitement du corps pour Lehmann est un des critères principaux de distinction du postdramatisme avec les normes dramatiques, il les compare comme suit : « Le processus dramatique se déroulait <em>entre</em> les corps, le processus postdramatique se joue <em>sur</em> le corps. La motorique corporelle ou son handicap, forme ou non-forme, totalité ou parcellisation, se substituent au duel mental que le meurtre physique, le duel sur scène ne faisaient que mettre en évidence. Si le corps dramatique était bel et bien le porteur de l’<em>agon</em>, le corps postdramatique élabore l’image de son <em>agonie</em>. Ceci interdit toute représentation, toute illustration et toute interprétation trop tranquilles à l’aide du corps en tant que simple moyen. » (H.T. Lehmann, 2002. p.152)
 
-
-
-
 [6] Alex Sierz s’intéresse extensivement au contexte des années 90 en Angleterre, où émergent les œuvres de jeunes dramaturges constituant le « In-Yer-Face theatre » : « In the nineties, a host of plays by young writers used explicit and directly confrontational material to explore the way we live and feel. Never before had so many plays been so blatant, aggressive or emotionally dark. » (Sierz, 2001, p.30)
-
-
-
 
 [7] « In-Yer-Face theatre » a été traduit en français par « Théâtre coup-de-poing ».
 
-
-
-
 [8] Dans son ouvrage <em>Le spectateur émancipé</em>, Jacques Rancière consacre un chapitre à « L’image intolérable ». Il s’intéresse au recours à une imagerie violente par les artistes et à l’effet sur leur spectateur. Il part de la question générale : « Qu’est-ce qui rend une image intolérable ? » (Rancière, 2008, p.93). Après avoir présenté les caractéristiques des images qui montrent des réalités insupportables en citant une série d’exemples, il souligne l’ambivalence de l’effet de telles images, et remarque que face à celles-ci une tension s’effectuerait entre la culpabilité et le voyeurisme du spectateur. Il conclut son essai en mettant en avant l’importance du dispositif où l’image intolérable apparaît : « Le traitement de l’intolérable est ainsi une affaire de dispositif de visibilité. […] Le problème n’est pas d’opposer la réalité à ses apparences. Il est de construire d’autres réalités, d’autres formes de sens commun, c’est-à-dire d’autres dispositifs spatiaux-temporels, d’autres communautés des mots et des choses, des formes et des significations. » (<em>Ibid.</em>, p.111).
-
-
-
 
 [9] Par pornographie, je fais référence de façon générale aux scènes de sexe explicite indiquées par les didascalies, qui sont parfois non simulées dans les mises en scène (voir par exemple la mise en scène de <em>Purifiés</em> par Peter Zadek au Kammerspiele de Hambourg en 1998). Dans son ouvrage « Penser la pornographie », Ruwen Ogien met en évidence la difficulté d’établir une définition du terme pornographie qui ferait consensus. À partir des points de vue communs de divers philosophes, il énumère les critères suivants pour identifier la pornographie : l’intention de l’auteur ; les réactions affectives ou cognitives du consommateur (entre attraction et répulsion) ; les réactions affectives du non-consommateur ; la représentation d’activité sexuelle non simulée et le langage cru ; la dégradation, l’objectification voire la déshumanisation des personnages (Ogien, 2003, p.25). Plus loin, il confronte cette série de critères à des œuvres d’art qui investissent le genre pornographique sans avoir pour intention d’exciter sexuellement leur spectateur. Il démontre comment une définition qui se composent de critères stables et rigides échoue lorsque l’œuvre d’art investit le genre, non pas pour exciter son spectateur, mais pour mettre en évidence « une façon froide, crue, directe, clinique, dépourvue de toute sentimentalité, parfois totalement dérisoire, de représenter la sexualité.(<em>Ibid.</em>, p.27).
 
-
-
-
 [10] C’est ce que Muriel Plana met en évidence lorsqu’elle prend pour exemple l’œuvre de Kane dans un essai consacré aux « Mises en scène au féminin et l’obscène au présent » : « Les derniers tabous tombent pourtant, puisque le texte dialogué ne porte plus seul sur l’obscène et que les mutilations, les fellations, les coïts, sont « exigés » en didascalies. Ainsi encouragée par la littérature, la scène, avec plus ou moins de ruse, s’empare de la cruauté, de la pornographie, et joue de ses limites morales et esthétiques, d’abord en suivant les réquisitions du texte monté, puis de manière complètement autonome […] » (Plana, 2010, p.247)
-
-
-
 
 [11] Une appellation donnée par Graham Saunders au théâtre de Kane dans <em>« Love me or Kill me » Sarah Kane and the theatre of extremes.</em>
 
-
-
-
 [12] À ce sujet Kane disait dans une interview avec Graham Saunders : « Increasingly, I’m finding performance much more interesting than acting ; theatre more compelling than play […] » (Saunders, 2002, p.17)
-
-
-
 
 [13] « The surpreme irony regarding Tinker, is that someone who so systematically attempts to destroy love in others is in fact yearning to express and reciprocate love himself ». (Saunders, 2002, p.98)
 
-
-
-
 [14] Dans le roman d’Orwell, O’Brien, le tortionnaire de Winston, utilise la plus grande peur de sa victime : être dévoré par les rats. Kane fera d’ailleurs apparaître à plusieurs occasions sur scène l’image des rats venant grappiller les morceaux de corps.
-
-
-
 
 [15] « Le théâtre postdramatique se présente comme un théâtre de la corporalité autosuffisante, exposé dans ses intensités, dans sa « présence » auratique et ses tensions internes ou transmises vers l’extérieur. S’ajoute la présence du corps déviant qui, par la maladie, le handicap, l’altération, s’écarte de la norme et provoque une fascination « non-morale », malaise ou angoisse. » (Lehman, 2002, p.151)
 
-
-
-
 [16] Kane à ce sujet disait : « When you love obsessively, you do lose yourself. And when you lose the object of your love, you have none of the normal resources to fall back on. It can completely destroy you. And very obviously concentration camps are about dehumanizing people before they are killed. I wanted to raise some questions about the two extreme and apparently different situations. » (Saunders, 2002, p.93).
-
-
-
 
 [17] À l’origine c’est la démesure qui mène le héros tragique à sa perte.
 
-
-
-
 [18] « There’s a point in <em>A Lover’s Discourse</em> when he says the situation of a rejected love is not unlike the situation of a prisoner in Dachau. And when I read it I was just appalled and thought how can he possibly suggest the pain of love is as bad as that. But then I thought about it I thought actually I do know what he is saying. It’s about the loss of self. […] And thinking about that I made a connection with <em>Cleansed</em>. » Kane dans une entrevue avec Nils Talbert (Saunders, 2002, p.93).
-
-
-
 
 [19] Joy Division est un groupe britannique au nom <em>unpolitically correct</em>, représentant du <em>post-punk</em> des années 80. Ils sont reconnus pour les textes lugubres de leur leader emblématique, Ian Curtis : « coldness, pressure, darkness, crisis, faillure, collapse, loss of control » (Reynolds, 2005, p.112). Tout comme Sarah Kane, Ian Curtis, souffrant de dépression, s’est suicidé précocement.
 
-
-
-
 [20] « […] she was drawn to the music of Joy Division and their suicidal singer Ian Curtis […] » (Ravenhill, The Guardian, 2006)
 
-
-
-
 [21] « A significant feature of Sarah Kane’s drama is the degree to which it is informed and influenced by an eclectic collection of theatrical, literary and musical sources : these range from the King James version of the Bible, to poetry, novels and pop music lyrics » (Saunders, 2002,p.54)
-
-
-
 
 ----
 

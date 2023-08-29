@@ -16,11 +16,9 @@ abstract_fr: <p>Cet article est l’ébauche d’une géométrie littéraire. Il
 <p>RESUMO</p>
 <p>Este artigo é o esboço de uma geometria literária. Ele se estrutura a partir de quatro figuras geométricas elementares – o ponto, a linha, o círculo e o triângulo – a fim de refletir sobre algo que desafia o tempo e o espaço: a eternidade. Para articular minha reflexão, eu tomo por base a ideia de eternidade tal como o filósofo Baruch Spinoza (1632-1677) a desenvolve em sua <em>Ética</em>. Além disso, utilizo diversas passagens de duas obras da escritora brasileira Clarice Lispector (1920-1977), os romances <em>Perto do coração selvagem </em>et <em>A Paixão segundo G.H. </em>para conduzir o raciocínio. Este artigo ressalta como a autora é capaz de extrapolar os limites da linguagem a fim de atingir uma estétics que transcende a forma e a razão.</p>
 
-
 ----
 
 abstract_en: <p>This article is the outline of a literary geometry. It is based on four elementary geometric figures – the point, the line, the circle and the triangle – to reflect on something that defies time and space: eternity. In order to articulate this concept, I start with the idea of eternity such as it was developed by the philosopher Baruch Spinoza (1632-1677) in <em>The Ethics, </em>and which I illustrate with excerpts from two novels written by Brazilian writer Clarice Lispector, <em>Near to the Wild Heart</em> and <em>The Passion According to G.H.</em>. Finally, this article highlights how the author stretches the limits of language to achieve an aesthetic that transcends form and reason.</p>
-
 
 ----
 
@@ -94,7 +92,6 @@ text: <p><img decoding="async" loading="lazy" src="http://post-scriptum.org/word
 <p>Sans ironie, le mot peut être comparé à une pierre brute et difforme qui devient joyau à mesure qu’elle subit la technique lapidaire. Comme un joyau ou une sculpture, le résultat final est là dès le départ, il existe avant que le premier excès de matière ne soit enlevé. C’est peut-être dans le dépouillement du langage que se cache le sublime, tellement infime au point d’être à la fois début et fin.</p>
 <h3>Conclusion</h3>
 <p>Pour terminer, je pourrais appliquer la technique lapidaire sur le raisonnement que j’ai essayé de développer ici. Sans surprise, je trouverais dans le noyau des pensées exposées l’idée du point. J’ai tenté de construire une réflexion sur l’éternité appuyée sur une logique mathématique illustrée dans les quatre figures géométriques que j’ai élues. Mais je voulais aussi mettre en lumière la convergence des différentes idées élaborées vers une constance conceptuelle : encore le point. Je suis persuadé que le point est l’expression la plus proche que nous pouvons concevoir d’une alliance cohérente entre le tout absolu et le rien absolu. Toutes les dimensions y sont concentrées, toutes pensées y convergent, tout est là. Pour sa part, Clarice est la preuve de la terrifiante beauté que la quête de ce point peut amener. Elle, qui souvent fait appel à la main pour continuer à écrire et à foncer dans sa quête à travers le langage, devient la généreuse conductrice qui fraye le chemin au juste milieu de nous-mêmes. Comme n’importe quel angle devant la violence de la bissectrice.</p>
-
 
 ----
 

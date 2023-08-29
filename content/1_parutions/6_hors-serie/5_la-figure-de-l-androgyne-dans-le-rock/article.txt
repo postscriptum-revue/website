@@ -15,7 +15,6 @@ authors: -
 abstract_fr: <p>La culture rock a toujours été un terrain d’investigation intéressant pour un questionnement et une forme d’expérimentation vis-à-vis des normes sociales ; et a su ne pas rester étrangère, voire précéder à nombre de débats de société sur des questions d’identité, de sexualité, de genre. Dans cet article, je vais donc tenter d’explorer quelques-unes des tensions qui s’y donnent à lire, entre un discours normatif, délimitant ce qui est acceptable en matière de performance identitaire et refusant l’accès à une pleine subjectivité humaine à tout ce qui n’est pas reconnu dans le cadre de ces critères ; et des possibilités d’identifications exclues par ce discours mais dont la thématisation permet en retour d’articuler une mise en question de ces limites.</p>
 <p>La figure de l’androgyne dans les discours rock permet d’ancrer une mise en relief de ces tensions, permet de thématiser ce rapport problématique à ce qui constitue et exprime la norme en matière de performance identitaire. Dans le but d’illustrer cela, j’examinerai les représentations de l’androgyne à travers les œuvres de David Bowie (The Rise and Fall of Ziggy Stardust, 1972), de Marilyn Manson (Mechanical Animals, 1998) et enfin d’Antony Hegarty (I Am a Bird Now, 2005), tout en appuyant mes remarques sur le modèle théorique développé par Judith Butler autour de ces tensions productives entre l’humain et l’inhumain.</p>
 
-
 ----
 
 abstract_en: 
@@ -85,7 +84,6 @@ Tony went to fight in Belfast / Rudi stayed at home to starve / I could make it 
 <blockquote>
 to intervene in the name of transformation means precisely to disrupt what has become settled knowledge and knowable reality, and to use, as it were, one’s unreality to make an otherwise impossible or illegible claim. I think that when the unreal lays claim to reality, or enters into its domain, something other than a simple assimilation into prevailing norms can and does take place. The norms themselves can become rattled, display their instability and become open to resignification. (Butler, 2004 : 27)
 </blockquote>
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans cet article, je propose une approche centrée sur un féminisme affirmatif pour penser le personnage principal de la nouvelle The Buffalo de Clarice Lispector. Après avoir passé en revue d’autres approches qui recourent à un féminisme plus réactif, je conçois ce personnage comme étant en quête d’une subjectivité féminine fluide. La théorie féministe contemporaine soutient mes réflexions sur la construction de l’identité et du genre du personnage de cette nouvelle de Lispector. La « construction performative du genre » définie par Judith Butler, la représentation « nomade » de la subjectivité féminine proposée par Rosi Braidotti et celle de « devenir avec » développée par Donna Haraway sont quelques-uns des concepts-clés du cadre théorique utilisé dans cet article.</p>
 
-
 ----
 
 abstract_en: <p>In this essay, I propose an approach based on affirmative feminism to reflect on the protagonist of the short story <em>The Buffalo </em>by Clarice Lispector. After reviewing other ways of thinking about this story informed by second-wave reactive feminism, I conceptualize the woman’s journey in the zoo as a quest for fluid female subjectivity. I will draw on contemporary feminist theory to support my reflections on the construction/destruction/construction of identity and gender of the woman in this short story. The “preformative aspect of the construction of the gendered body” defined by Judith Butler, the notions of “nomadic subjectivity” and “liminality” proposed by Rosi Braidotti and that of “becoming with” developed by Donna Haraway are some of the critical concepts of the theoretical framework used in this essay.</p>
-
 
 ----
 
@@ -84,7 +82,6 @@ text: <h3>Introduction</h3>
 <p>We shall now look into the last part of this short story when the Buffalo reciprocates the woman’s sight:</p>
 <blockquote><p>Innocent, curious, plunging deeper and deeper into those eyes staring unhurriedly at her, simple, with a drowsy sigh, neither wanting nor able to flee, trapped in this mutual murder. Trapped as if her hand were forever stuck to the dagger she herself had thrust. Trapped, as she slid spellbound down the railing. (<em>Ibid.</em>: 231)</p></blockquote>
 <p>The woman then faints: “In such slow dizziness that just before her body gently crumpled the woman saw the whole sky and a buffalo.” (<em>Ibid.</em>: 231) I argue that the image of the “whole sky,” rather than a double murder as Lispector’s words seem to allude, is the universe of possible futures opened up for her<em>.</em> At the moment the woman’s body crumples, she breaks with the despotic understanding of her old habits, modes and behaviors and becomes “deterritorialized,” mutable. She becomes able to come to terms with the negative affects that the buffalo incarnated. Under this “whole sky,” the woman is closer to freedom and ready to leave the cages in which she has lived, or which had been imposed on her throughout all her life. Borrowing Braidotti’s interpretation of the Spinozian conception of freedom, she “adequates the understanding of the conditions of her bondage, the conditions of her oppression.” (Braidotti, 2014) Perhaps equally important, she is not defeated by this process. The act of “dying” can thus be seen as an internal deconstruction, a deconstruction that will also allow the emergence of a self-affirmative nomadic subjectivity. The woman is finally in touch with her mutable, fluid, embodied subjective nature. I conclude by saying that what happens after the encounter with the buffalo is an affirmation of alternative possibilities. By gazing the “whole sky” our heroine reveals that she is open to new subject position endeavors.</p>
-
 
 ----
 

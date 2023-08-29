@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article offre une lecture comparative de la nouvelle Au cœur des ténèbres (1899/1902) de J. Conrad et de son adaptation cinématographique Apocalypse Now (1979 ; réal. : F. F. Coppola). Ce film transpose l’intrigue de son modèle littéraire dans le contexte de la guerre du Vietnam. Dans un premier temps, l’analyse proposée ici considère la situation narrative des deux œuvres pour ensuite aborder deux structures centrales que partagent la nouvelle et le film (le fleuve et Kurtz). Adoptant la perspective d’une narratologie transmédiale, cette lecture montre comment, à l’exception des parallèles, les divergences par rapport à la nouvelle renforcent l’effet de désespoir du film. Ceci permettra de mieux cerner la manière dont Coppola représente la guerre du Vietnam, à savoir comme un échec « apocalyptique » de la mission civilisatrice des États-Unis, et comment il inscrit l’impossibilité de sortir de ce dilemme moral dans la structure narrative même d’Apocalypse Now.</p>
 
-
 ----
 
 abstract_en: <p>This paper offers a contrastive reading of Conrad’s novella Heart of Darkness (1899/1902) and its film adaptation Apocalypse Now (1979 ; dir. : F. F. Coppola). As is well known, the film transfers the overall plot of its literary model into the context of the Vietnam War. This analysis will first compare the narrative situations of both works in order to then focus on two central structures shared by the novella and the film : the river and Kurtz. From a perspective of transmedial narratology, this reading elaborates how the deviations from the novella (in addition to the parallels) reinforce the movie’s effect of despondency. This will allow for a better understanding of Coppola’s interpretation of the Vietnam War as an “apocalyptic” failure of the U.S. “civilizing mission” and, especially, of the means by which this moral dilemma is inscribed in the narrative structure of Apocalypse Now.</p>
-
 
 ----
 
@@ -46,7 +44,6 @@ text: <p>Nulle part dans son film <em>Apocalypse Now</em> le réalisateur Franci
 <p>De plus, le protagoniste d’<em>Apocalypse Now</em> est beaucoup plus proche de Kurtz que celui d’<em>Au cœur des ténèbres</em>. À la différence de Marlow, Willard « est attiré par Kurtz <em>après que</em> la société l’a identifié comme assassin » (Hellman 1982 : 434 ; ma traduction, je souligne). Le protagoniste est attiré et s’assimile au mal qu’il est censé éliminer. Ainsi trouve-t-il des règles de conduite qui sont tout à fait applicables à sa condition. Il apprend à tuer « sans sentiment », « sans passion » et « sans jugement » (Coppola/Milius 1979 ; ma traduction). Cela se voit surtout dans son exécution de Kurtz qui marque, une fois de plus, la différence entre Marlow et Willard [15]. Ces changements du personnage de Kurtz ainsi que de la constellation des personnages suggèrent que la relation entre l’individu et sa morale est profondément changée. Kurtz et ses convictions ne représentent plus une exception singulière d’un système impérialiste qui, autrement, serait tenable. Le personnage de Willard établit un lien entre Kurtz et les soldats américains en général [16]. Tous les camarades de Willard ou meurent ou deviennent fous puisqu’ils ne réussissent pas à confronter l’horreur de la guerre à l’aide d’une éthique civilisée et, donc, obsolète. La représentation de cet échec démasque l’hypocrisie de l’effort de guerre américain. Cette dernière consisterait dans la disparité criante entre, d’un côté, la prétention à la diffusion de la paix ainsi que de la démocratie et, de l’autre côté, l’expérience traumatique de l’individu qui prouve la fausseté des principes humanitaires de paix, liberté et bienfaisance. Au lieu de maintenir l’opposition entre le protagoniste et Kurtz, Coppola les identifie. Une fois de plus, Coppola dissout les dichotomies qui, auparavant, ont permis à Conrad de construire une contre-image positive du cœur des ténèbres.</p>
 <p>Comme il a été démontré, l’« apocalypse » dans <em>Apocalypse Now</em> est inscrite dans la structure même du récit filmique. Cette structure apocalyptique consiste dans la suppression d’un certain nombre d’oppositions binaires. L’individu Willard, qui est aussi le protagoniste-narrateur dans <em>Apocalypse Now</em>, est ébranlé par le déracinement et l’ambivalence de son récit à la première personne. Contrairement à son modèle littéraire, le film de Coppola ne contient pas d’équivalent illuminé aux ténèbres de la guerre du Vietnam. Par conséquent, le récit exclut tout point de fuite pour l’aventure du protagoniste ; le voyage de Willard <em>Au cœur des ténèbres</em> est sans retour. C’est cette situation sans issue qui souligne—au niveau des structures spatiales du film—la vision apocalyptique de l’effort de guerre des États-Unis que propose ce film. Finalement, il a été démontré que le contraste entre le protagoniste et Kurtz n’est pas maintenu dans <em>Apocalypse Now</em>. Willard et Kurtz représentent un couple de guerriers qui s’adonnent à l’horreur et à la violence en laissant derrière eux une éthique qui s’avère hypocrite et impraticable. Outre les moments critiques plus évidents, c’est à travers ces structures narratives que le film de Coppola met en valeur sa vision de la guerre du Vietnam comme le symptôme d’une apocalypse contemporaine, celle de tout un système de valeurs politico-morales.</p>
 
-
 ----
 
 references: 
@@ -64,91 +61,39 @@ references:
  	<li>SCHAFFER, Brian W., « Joseph Conrad : <em>Heart of Darkness</em> », dans BRADSHAW, David et Kevin J. H. DETTMAR (dir.), <em>A Companion to Modernist Literature and Culture</em>, Malden : Blackwell, 2006, p. 314–323.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Il est vrai que Conrad lui-même joue avec ces oppositions binaires et les brouille ainsi (cf. p. ex. Conrad 1985 : 97). Il ne s’agit pas ici de diminuer l’importance ni la complexité du texte conradien. L’« opposition » entre Conrad et Coppola que je propose moi-même vise avant tout une lecture plus adéquate d’<em>Apocalypse Now</em> et des liens avec son modèle littéraire.
 
-
-
-
 [2] Désormais, les références à cette édition seront faites dans le corps même du texte en indiquant le numéro de page sans sigle ou abréviation.
-
-
-
 
 [3] Dans ce qui suit, j’emprunte la plupart des termes narratologiques fondamentaux à Genette 1972. Je fais une exception dans le cas des termes désignant les différents « niveaux narratifs » qui—comme Genette l’avoue—vont à l’encontre du « modèle logico-linguistique » (Genette 1972 : 238s., cf. surtout p. 239, note 1). A leur place, j’utilise les termes « récit porteur » et « récit porté » dont la signification me semble être aussi évidente que suffisamment précise pour mon propos.
 
-
-
-
 [4] Il crée l’ambiance pour le récit de Marlow (cf. 45-47, 109) ; il dirige les attentes du lecteur – du moins au début, avant de « disparaître » presque complètement – (cf. 48) ; il fait des commentaires (assez brefs) sur la narration de Marlow (cf. p. ex. 80) ; il relate occasionnellement les réactions des autres personnes présentes (cf. 89).
-
-
-
 
 [5] Comme exemple peut servir le personnage de Watson qui est également le narrateur des <em>Aventures de Sherlock Holmes</em>.
 
-
-
-
 [6] Je pense, par exemple, à David Copperfield qui, devenu écrivain, raconte sa vie.
-
-
-
 
 [7] Voici deux exemples de relativisation du récit porté par le récit porteur : Le narrateur anonyme du récit porteur évalue l’étrange récit [<em>tale</em>] de Marlow en expliquant que pour ce dernier « le sens d’un épisode n’était pas à l’intérieur comme les cerneaux, mais à l’extérieur, enveloppant seulement le récit qui l’amenait au jour comme un éclat voilé fait ressortir une brume » (48) ; avant d’écouter le rapport du Russe, Marlow remarque qu’il ressemblait à un « arlequin » (116 passim) et qu’il représentait pour lui un « problème insoluble » (118s.).
 
-
-
-
 [8] Cf. p. ex. Raschke 2006, 71s. et Schaffer 2006 pour la « crise épistémologique » et la multi-perspectivité dans <em>Au cœur des ténèbres</em>.
-
-
-
 
 [9] Force est d’utiliser les guillemets puisque le statut du narrateur dans les médias audiovisuels est extrêmement controversé. Cf. p. ex. Rajewsky 2007.
 
-
-
-
 [10] Pour les références à des Bouddhas dans <em>Au cœur des ténèbres</em> voir pp. 50 et 150. C’est Marlow qui est comparé à un Bouddha par le narrateur anonyme.
-
-
-
 
 [11] Je cite le passage entier qui est pertinent dans ce contexte : « La conquête de la planète qui signifie pour l’essentiel qu’on l’arrache à ceux qui n’ont pas le même teint, ou bien ont le nez un peu plus camus que nous, n’est pas un joli spectacle, si l’on y regarde de trop près. La seule chose qui la rachète, c’est l’idée. Une idée qu’il y a là-derrière : non pas un faux-semblant sentimental, mais une idée ; et une foi désintéressée en cette idée – quelque chose que l’on puisse exalter, devant quoi s’incliner, à quoi offrir un sacrifice… » (50).
 
-
-
-
 [12] Ces remarques rappellent le fameux passage dans les <em>Thèses sur la philosophie de l’histoire</em> de Walter Benjamin : « La tradition des opprimés nous enseigne que l’« état d’exception » dans lequel nous vivons est la règle. Nous devons parvenir à une conception de l’histoire qui rende compte de cette situation » (Benjamin 2000 : 433). Ce sont, si l’on veut, les changements faits lors de l’adaptation et soulevés ici qui font que <em>Apocalypse Now</em> permet d’identifier l’état d’exception comme la règle.
-
-
-
 
 [13] Cf. aussi la remarque de Marlow : « Manifestement, la fringale d’ivoire l’avait emporté sur les – comment dirais-je ? – les aspirations moins matérielles » (Conrad 1985 : 122).
 
-
-
-
 [14] L’un des supérieurs de Willard décrit Kurtz ainsi : « Walt Kurtz was one of the most outstanding officers this country has ever produced. He was brilliant and outstanding in every way and he was a good man too. Humanitarian man, man of wit, of humor. He joined the Special Forces. After that his ideas, methods have become unsound… Unsound » (Coppola/Milius 1979).
-
-
-
 
 [15] Cf. aussi Stewart 1981, 459 : « Willard does not, as Marlow before him, simply watch Kurtz die but becomes his bloody executioner. »
 
-
-
-
 [16] Cf. aussi Kinder 1979-80, 18 ; je souligne : « By <em>identifying Kurtz so strongly with Willard – and by implication with the other American fighting men</em> who were driven mad by the war – Coppola undermines the character’s dramatic power. In Conrad’s story, Kurtz was set much more apart. »
-
-
-
 
 ----
 

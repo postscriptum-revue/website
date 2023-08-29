@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Alors que la beauté affiche d’excellents résultats en imaginant des idéaux extrêmement exigeants, la laideur cherche à contrecarrer celle-ci en exhibant des tabous sans fard et sans voile. Or, ce paradigme beauté-laideur questionne les corps, autant qu’il est questionné par ceux-ci. Ayant pour objectif de repenser ce binarisme au-delà du binarisme, le présent article se concentrera sur les thèmes de l’identité, de la sexualité et du corps dans <u>Hebi ni piasu</u> de Kanehara Hitomi et <u>Feuchtgebiete </u>de Charlotte Roche et analysera, en ceci, l’ambivalence des déformations qui se rapporte aux représentations et expressions de la laideur et de la beauté dans la littérature contemporaine écrite par des femmes.</p>
 
-
 ----
 
 abstract_en: <p>While beauty boasts excellent results by imaging extremely ambitious ideals, ugliness attempts to counter-attack by frankly – even flagrantly – displaying taboos. This beauty-ugliness paradigm both questions bodies and is called into question by bodies. In intending to rethink this binarism beyond binarism, this paper will focus on themes of identity, sexuality, and body in Kanehara Hitomi’s <u>Hebi ni piasu</u> and Charlotte Roche’s <u>Feuchtgebiete</u>, and will analyze their presentations of the ambivalence of distortions that pertains to the representations and expressions of ugliness and beauty in contemporary literature written by women.</p>
-
 
 ----
 
@@ -61,7 +59,6 @@ text: <h3>I. Bodily Considerations: An Introduction</h3>
 <p>Both <em>Hebi ni piasu</em> and <em>Feuchtgebiete</em> portray young women whose actions constantly navigate between resisting the institution of beauty and conforming to it. Particularly on the topics of identity, sexuality, and body, the novels make use of the ugly to disrupt norms. While this act is not as successful as one could have imagined, it nonetheless advocates for a rethinking of binarism/s. Perhaps what is striking is less the insistence on ugliness through the inverting of its relationship with beauty than the inconclusiveness of this act. The distortions, together with their embellishments, illustrate the societies in which they are de/constructed, so as to signify that there is no pure ugly and no pure beautiful. Because of the authors’ attempt to subvert norms, a political claim toward a more ambivalent idea of beauty can be seen. Deeply affective, the perceptions of ugliness and beauty are relational. This relationality that Ahmed attributes to emotions, “involve[s] (re)actions or relations of ‘towardness’ or ‘awayness’ in relation to such objects” (2014 [2004]: 8). Thus, the very conceptualization of ugly bodies does not solely pertain to a binarism with beautiful bodies, but also to a need for a critical rethinking concerning the ambivalence of the notion of ugly and beautiful bodies within modern literatures, one that acknowledges how this constant movement between them can be fruitful.</p>
 <p>In lieu of conclusion, one could well return to the titles of the novels, from which one may infer this ambivalence, even before one has opened the books. <em>Hebi ni piasu</em>, subtitled ‘Snakes and Earrings’ on the front cover of the Japanese book (Kanehara, 2006 [2003]: title page), alludes to the punk identity (蛇・‘<em>hebi</em>’/‘snakes’) as well as to the <em>kawaii</em>-myth (ピアス・‘<em>piasu</em>’/‘earrings’). While the grammatical word に・‘<em>ni</em>,’ translated into ‘and,’ could easily refer to binarism (as in: and/or), it also implies a departure from, or arrival at (i.e., に・‘ni’ and its locative function), and so, a constant movement. <em>Feuchtgebiete</em>, rendered as ‘Wetlands’ in English, also indicates a location that is both slippery and sticky (‘<em>feucht</em>’/‘humid’; ‘<em>Gebiete</em>’/ ‘place’) – a subversive yet clear pointing to the genital area (‘<em>feucht</em>’/’wet’; ‘<em>Gebiete</em>’/‘area’). The title then insists on the difficulty of writing about ugly taboos as well as on the ease of talking about beautiful ideals. At the end, one is confronted with bodies that are exquisitely ugly and hideously beautiful, all shining with and from dirtiness and cleanliness.</p>
 
-
 ----
 
 references: 
@@ -74,7 +71,6 @@ ____. <em>Snakes and Earrings</em>, translation by David James Karashima, London
 ROCHE, Charlotte. <em>Feuchtgebiete</em>, Berlin, Ullstein, 2013 [2008].
 
 ____. <em>Wetlands</em>, translation by Tim Mohr, London, Fourth Estate, 2009.
-
 
 <h4>Secondary Sources</h4>
 AHMED, Sara. <em>The Cultural Politics of Emotions</em>, Edinburg, Edinburg University Press, 2014 [2004].
@@ -145,39 +141,21 @@ YO, Yahata. “The Dark Subculture of Japanese Youth,” <em>World Press Review<
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> With “nearly one million copies [sold] in its first six months” (Holloway, 2014: 97) in Japan for <em>Hebi ni piasu</em>, winner of the prestigious Akutawaga Prize in 2004, and with, as of today, more than two millions copies in Germany for <em>Feuchtgebiete</em>, number one on the <em>Spiegel </em>bestseller-list soon after its publication (Krumrey, 2014: 545), both novels can be considered as bestsellers.</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> In this paper, the names of Japanese authors, scholars, and protagonists will be rendered in the Japanese way of naming, that is, by stating first the family name and then the given name. The transcription of the Japanese language will be rendered with the Hepburn romanization (<em>Hebon-shiki rōmaji</em>).</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> <em>Gyaru</em> is a term derived from the English word ‘girl,’ mostly re-translated in English as ‘gal.’ For King, it represents “young women who dress in a manner regarded as ‘trendy and sexy’,” are “heavily tanned […] with bleached hair” and have a “thin body” (2012: 208). This paper does not approve Karashima’s translation of <em>gyaru</em> into “Barbie-girl” (Kanehara, 2005: e.g., 5, 19, 22, 49, 61), for it does not depict a Japanese phenomenon, but sticks to a Western-oriented representation of women, even if this translation could indeed better resonate in the ears of a Western audience. Therefore, all references to this trait of identity will be made with the Japanese word ‘<em>gyaru</em>.’</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> <em>Irezumi</em> is the Japanese word for tattooing, specifically referring to traditional tattoos (Ikoma, 2005: 32).</p>
-
 
 <p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> A <em>kirin</em> is “a sacred animal” that has “a single horn,” and “is a legend that comes from China” (Kanehara, 2005: 31-32; Kanehara, 2006 [2003]: 34-35).</p>
 
-
 <p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> In the original text, the clitoris is renamed “Perlenrüssel” (pearl/bead/gem + snout/gap), the inner labia, “Hahnenkämme” (cock/tap + comb/crest/neck), the outer labia, “Vanillekipferln” (vanilla + croissant) (Roche, 2013 [2008]: 22). The significant association of food, animal, sex – an association that plays with ugliness (here as disgust), reveals even more the construction of one’s body by a deconstruction of norms and a re-appropriation of stereotypes.</p>
-
 
 <p><a href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> This paper does not suggest that sadomasochism is a practice in which women can be objectified, but refers to feminist re-evaluations of such non-conventional practices that deprive women’s sexuality of its reduction to its reproductive function (see Rubin, 2010 [1984]).</p>
 
-
 <p><a href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> This paper does not agree with Mohr’s translation of “Verruchtes” into “crazy” (Roche, 2009: 116; Roche, 2013 [2008]: 116). The translation might have mixed “verrucht” (depraved; immoral) with “verrückt” (crazy; wild; insane), or have relied on the meaning of “wicked” that one can find in both “verrucht” and “verrückt.” However, in so doing, the translation disregarded the moral connotation of “verrucht.”</p>
 
-
 <p><a href="#sdfootnote9anc" name="sdfootnote9sym">[9]</a> The Japanese word <em>furītā</em> (<em>freeter</em>) is a portmanteau word from the English ‘free’ and the German ‘Arbeiter’ (worker). Quoting the annual publication <em>Labor White Paper</em> of 1991, Driscoll explains that <em>freeter </em>are “between the ages of 15 and 34, unmarried women or men who had never stayed in the same job longer than five years, and who understood themselves to be part-time workers” (2007: 170).</p>
-
-
-
-
-
-
-
-
-
-
 
 ----
 

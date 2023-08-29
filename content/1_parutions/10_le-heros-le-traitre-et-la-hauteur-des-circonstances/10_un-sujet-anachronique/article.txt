@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article se donne pour objet d’analyser, à la lumière de ses cinq premiers romans, la façon dont la démarche esthétique singulière d’Olivier Rolin éclaire, à partir de la question de l’héroïsme, les contours de l’imaginaire social contemporain. Participant du renouvellement des formes et des enjeux romanesques qui se fait jour dans la littérature française depuis le début des années quatre-vingt, les romans d’Olivier Rolin apparaissent comme des tentatives d’élucidation de soi à la faveur de personnages par lesquels l’auteur se fictionnalise. Réfléchissant le deuil impossible des aspirations héroïques qui animèrent sa jeunesse militante, et le sentiment d’anachronisme généré par un présent dans lequel l’auteur ne se reconnaît pas, les romans d’Olivier Rolin retracent le drame d’un sujet qui se heurte à l’énigme de sa propre identité, tout en nous renseignant sur certains traits de notre contemporanéité, soit qu’ils la critiquent, soit qu’ils lui fassent écho.</p>
 
-
 ----
 
 abstract_en: <p>Through the study of the question of heroism in five Olivier Rolin’s novels, this article analyses how the author highlights some aspects of the contemporary social imaginary. In these novels, belonging to the renewal of French fiction in the early eighties, Olivier Rolin attempts to elucidate his self by projecting himself in fictional characters. Taking on the impossible task of mourning for the heroic dreams of his politicized youth, and expressing his feelings of anachronism vis-à-vis French contemporary society, his novels tell the story of a subject confronting itself with the enigma of its own identity. They simultaneously propose a view of our present, whether they criticize it, or mirror it.</p>
-
 
 ----
 
@@ -45,7 +43,6 @@ text: <p>Le 26 janvier 2009, lors d’une conférence au Centre National du Livr
 <p>Dans le geste interrogatif qu’ils adressent au soi et à l’héritage, les romans d’Olivier Rolin sont l’expression d’une contemporanéité inquiète qui s’éprouve sous l’angle de la perte, de la séparation, qui est avide d’interroger le passé afin de combler le sentiment de discontinuité qui l’habite. Il y a là un trait qui traverse tout un pan de la littérature française contemporaine (que l’on songe à Pierre Michon ou à Gérard Macé et, en ce qui concerne l’intérêt pour des héros en voie d’effacement de la mémoire collective, aux derniers romans de Patrick Deville ou à Antoine Volodine) et, au-delà, l’imaginaire social tout entier.</p>
 <p>Critiques à l’égard d’une société qui aurait été désertée par « l’Histoire » et n’aurait plus le sens de l’héritage, les romans d’Olivier Rolin ne proposent pas pour autant de refonder l’héritage, de pallier la défection des anciens récits par leur réactualisation sur la scène romanesque. Enquêtes sur une identité instable, reconstitutions par bribes d’une mémoire dont le sujet se sent coupé, ils font plutôt ressentir au lecteur le déclin des anciens modèles collectifs : ils sont ainsi, de quelque manière, l’expression de l’état de société que l’auteur décrit et dénonce. Ce n’est pas dire que le roman n’ajoute rien de plus à ce qui se dit et s’énonce déjà dans la société de son temps. Bien au contraire, entreprises singulières d’exploration de soi au miroir du présent, les romans d’Olivier Rolin illustrent la propension critique et autocritique de la pensée contemporaine, témoignant ainsi au plus haut degré non seulement des inquiétudes, mais aussi de la vivacité intellectuelle de notre modernité.</p>
 
-
 ----
 
 references: 
@@ -58,26 +55,13 @@ references:
  	<li>___, <em>Méroé,</em> Paris, Seuil (Points), 2000 [1998].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] « Nous avions cessé de croire à la cloche à plongeurs la cloche à plongeurs désignant le marxisme politique, convaincus que cet instrument était en définitive inapte au progrès sous-marin, suceur de sang, arracheur d’yeux et catastrophique pour les poumons, ou bien encore que sa mise au point était une tâche trop ambitieuse pour l’époque » (Rolin 1999 : 118).
 
-
-
-
 [2] Le roman est aussi un parcours euphorique de la grande bibliothèque universelle puisque chaque chapitre s’écrit à partir d’un ou de plusieurs modèles détournés, de l’<em>Ulysse</em> de Joyce à <em>L</em>’<em>Invitation au voyage</em> de Baudelaire en passant par <em>La Vie mode d</em>’<em>emploi</em> de Georges Perec, la <em>Théogonie</em> d’Hésiode ou le <em>De natura rerum</em> de Lucrèce.
 
-
-
-
 [3] On peut lire sur la quatrième de couverture de la première édition de <em>Phénomène futur</em> : « Afin de calmer, peut-être, quelques angoisses, l’auteur tient à affirmer qu’il a essayé de tenir à l’esprit cette règle de goût donnée dans le <em>Temps retrouvé</em> : qu’un roman encombré de théories est comme un objet offert sur lequel on aurait laissé la marque du prix. »
-
-
-
 
 ----
 

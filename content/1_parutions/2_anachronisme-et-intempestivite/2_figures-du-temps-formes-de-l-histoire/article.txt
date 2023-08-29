@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Représenter des événements passés relève des compétences de la peinture. Du moins jusqu’à l’aube du XXe siècle, lorsque l’intérêt pour la forme semble déloger le souci de la figuration. Ces constats demandent à être précisés. D’abord, les représentations que les tableaux d’histoire donnent du passé peuvent véhiculer des conceptions temporelles fort dissemblables. Ensuite, le passage vers l’abstraction ne signifie pas nécessairement un abandon des rapports de l’art au temps et à l’histoire. Ce texte propose un libre parcours de quelques situations, étalées du XVIe au XXe siècle, dans lesquelles une œuvre d’art représente du temps et produit de l’histoire.</p>
 
-
 ----
 
 abstract_en: <p>Representing past events is among the competencies of painting. That was at least the case until the dawn of the 20th century, when interest in form seemed to displace the concern about figuration. These observations require clarification. Firstly, representations of the past given by historical canvasses may convey temporal conceptions that are jarringly dissimilar. Secondly, the passage towards abstraction does not necessarily mean an abandon of the relations of art to time and to history. This article proposes a survey of situations, from the 16th to the 20th centuries, in which a work of art both represents time and produces history.</p>
-
 
 ----
 
@@ -75,8 +73,6 @@ text:
 <p>Ce texte suit une progression linéaire, du XVIe au XXe siècle. Beaucoup de dates viennent appuyer son argumentation ; ses différentes parties sont numérotées, dans l’ordre, de un à cinq. La pensée qui a présidé à l’écriture reste ancrée dans la tradition d’une histoire évolutive où les temps se succèdent sans retour ni résurgence.</p>
 <p>Mais ces parties sont autant de cas. Chaque expérience est singulière ; les anachronismes, s’il y a lieu, sont aussi variés que les expériences de l’histoire. Dans les intervalles entre les chiffres entiers, d’autres rapports au temps interceptent ces variations.</p>
 
-
-
 ----
 
 references: 
@@ -91,26 +87,13 @@ references:
  	<li>MARCADÉ, Jean-Claude, <em>Malevitch</em>, Paris, Casterman/Nouvelles Éditions françaises, 1990.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] « Loubok » : gravures sur bois sur des thèmes religieux ou séculaires, se caractérisant par un dessin simplifié, une perspective non linéaire qui fait coexister plusieurs couches du récit représentées dans le même espace pictural, sans autre distinction que celle de la taille des personnages.
 
-
-
-
 [2] Les textes de Malevitch sur l’élément additionnel sont publiés en français dans Malevitch 1981 : 119-159 ; pour des illustrations, <em>cf</em>. Marcadé : 206-207.
 
-
-
-
 [3] Galvez note que pour résoudre le problème de la simultanéité historique de différents éléments additionnels (cézannien et cubiste ; ou cézannien et impressionniste…), Malevitch recourait à l’image du combat : « Présenter ainsi le monde comme un champ de bataille où s’affrontent des éléments additionnels permettait alors à Malevitch de rendre compte de l’existence simultanée de multiples styles picturaux, puisqu’à tout instant pouvaient coexister plusieurs éléments additionnels qui s’évertuaient à devenir la prochaine norme » (84).
-
-
-
 
 ----
 

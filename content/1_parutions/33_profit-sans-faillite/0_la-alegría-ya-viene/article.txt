@@ -51,7 +51,6 @@ En cualquier hemisferio<br />
 <img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/10-ruines-anticipees-1024x1019.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-1024x1019.jpg 1024w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-300x298.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-150x150.jpg 150w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-768x764.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees.jpg 1136w" sizes="(max-width: 1024px) 100vw, 1024px" /><br />
 <img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/11-basura-y-mugre.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/11-basura-y-mugre.jpg 975w, http://localhost:8000/wp-content/uploads/2023/02/11-basura-y-mugre-300x260.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/11-basura-y-mugre-768x666.jpg 768w" sizes="(max-width: 975px) 100vw, 975px" /></p>
 
-
 ----
 
 references: 

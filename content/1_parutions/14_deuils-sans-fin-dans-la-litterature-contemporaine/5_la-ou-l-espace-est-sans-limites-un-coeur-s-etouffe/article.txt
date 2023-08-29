@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Si les poètes du passé, tels Novalis et Hugo, ont fait du deuil une expérience mystique conduisant à l’azur de la révélation divine, les poètes endeuillés d’aujourd’hui mènent une réflexion hypnotique et sans fin sur le néant, tentant de comprendre par quelle inimaginable absence de transition l’on passe de la vie à la mort. « L’expérience est celle de la Disproportion », écrit Michel Deguy : une expérience de la perte de mesure. Nous voudrions montrer que la poésie de deuil contemporaine se construit autour des motifs de la disjonction et de la confrontation, se donne pour but de saisir les deux versants de l’expérience du deuil, celui des vivants et de la mesure, celui des morts et de l’immense, et de mettre en image leur insaisissable décalage. Aux monodies endeuillées et autobiographiques de Roubaud et Deguy répondent les multiples voix des morts, fictives, de « Fayoum » : comment, des deux côtés de « l’obscur », l’expérience de la disproportion est-elle menée ?</p>
 
-
 ----
 
 abstract_en: <p>If poets of the past, such as Novalis and Hugo, found in mourning the way of a mystic experience to the azure of divine revelation, the contemporary mourning poets lead a hypnotic and endless meditation upon nothingness, trying to understand by which inconceivable lack of transition we pass from life to death. “The experience is that of Disproportion”, write Michel Deguy : an experience of loss of ratio. We would want to show that contemporary mourning poetry is based on the patterns of separation and of comparison and aims at catching the two sides of the mourning experience, the side of the living and of ratio, that of the dead and of immensity, and at picturing the elusive gap between them. To Roubaud’s and Deguy’s autobiographical mourning monodies the many fictional voices of the dead from “Fayoum” correspond : how, from the two sides of the darkness, is the experience of the disproportion performed ?</p>
-
 
 ----
 
@@ -107,7 +105,6 @@ text: <p>Jacques Roubaud, Michel Deguy, Claude Esteban, trois poètes contempora
 <p>toi, l’odeur de sa main, de son aisselle, j’irai<br /> te prendre un soir, quand</p>
 <p>ils s’endormiront près de leurs sandales, ceux<br /> qui t’oublient. (Esteban 2001 : 140)</p></blockquote>
 
-
 ----
 
 references: 
@@ -124,51 +121,23 @@ references:
  	<li>ROUBAUD, Jacques, <em>Quelque chose noir</em>, Paris, Poésie/Gallimard, 1986.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Texte non paginé.
 
-
-
-
 [2] <em>Lui</em> : à l’épouse disparue.
-
-
-
 
 [3] « comme si notre société avait tendance à confondre déni de la mort et pudeur », écrit Dominique Carlat (2007 : 69). Philippe Ariès explique, quant à lui, que dans notre société « la douleur du regret peut subsister au cœur secret du survivant ; la règle est aujourd’hui dans presque tout l’Occident qu’il ne doit jamais la manifester en public. » (Ariès 1977 : 288)
 
-
-
-
 [4] Nous soulignons.
-
-
-
 
 [5] Idem
 
-
-
-
 [6] Dans ce poème, Jacques Roubaud (1986 : 17) écrit : « Le résultat de l’investigation était celui-ci : le précipité des ressemblances. […] / Ensuite que toi et ta mort n’avaient aucun air de famille. »
-
-
-
 
 [7] Cf. Grimal 1978 : 115-117.
 
-
-
-
 [8] Cf. Boileau (1966 : 164) II, 38- 40 : « D’un ton un peu plus haut, mais pourtant sans audace, / La plaintive Elégie en longs habits de deuil, / Sçait les cheveux épars gémir sur un cercueil ».
-
-
-
 
 ----
 

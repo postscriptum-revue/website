@@ -1,16 +1,17 @@
-title: Le héros, le traître et la hauteur des circonstances
+Title: Le héros, le traître et la hauteur des circonstances
 
 ----
 
-subtitle: Actes du premier colloque du Centre de recherche interuniversitaire en sociocritiques des textes (CRIST), tenu à l’Université de Montréal les 6 et 7 mars 2009
+Subtitle: Actes du premier colloque du Centre de recherche interuniversitaire en sociocritiques des textes (CRIST), tenu à l’Université de Montréal les 6 et 7 mars 2009
 
 ----
 
-number: 10
+Number: 10
 
 ----
 
-intro_text: 
+Intro-text:
+
 <p>On ne naît pas héros, on le devient. Du moins, c’est ce que les grands récits, mythiques, historiques comme littéraires, nous invitent à croire. Un individu se découvre, se confère ou se voit octroyer une mission dont l’accomplissement lui permet de transcender son statut initial, de s’élever au-dessus du commun des mortels pour accéder au rang de héros, évolution dans laquelle d’aucuns liront un processus d’initiation. L’idée de l’héroïsme et les représentations du héros varient dans l’histoire et selon les textes où elles sont façonnées, de sorte qu’il est vain d’établir une chronologie des diverses mutations de l’être héroïque. Il est cependant loisible de discerner des idéal-types de héros ou des modèles de parcours héroïques, lesquels ressurgissent périodiquement dans l’imaginaire social comme dans la littérature. Les actes de ce colloque sont consacrés à l’étude des traitements de ces figures héroïques dans la littérature (au sens large) et les arts. La question est reprise d’un point de vue sociocritique : c’est dire que les auteurs des articles qui suivent lient l’examen des procédures de mise en forme des œuvres à leur projection sur l’écran de la semiosis sociale afin d’évaluer leur portée.</p>
 <h3>L’héroïsme, en faits : ceux dont le rôle semblait écrit</h3>
 <p>Les époques historiques, les contextes culturels et les conditions sociales indiquent des comportements héroïques à adopter, mais il revient aux individus de suivre ou non, mal ou bien, ces pistes de conduite, d’investir le rôle qui s’offre à eux. Certaines de ces conjonctures — que nous retrouverons au fil des articles — ont été maintes fois travaillées par la littérature : la montée parisienne, la guerre, l’emprisonnement ou la découverte d’un crime sont autant de canevas de base qui laissent deviner — à tort ? — l’éclosion prochaine de l’héroïsme. Auteurs et producteurs de discours jouent sciemment sur ces modèles pour réfléchir sur la définition admise de l’héroïsme à un moment donné.</p>
@@ -29,18 +30,18 @@ intro_text:
 <p>Cette concrétion historique créée par l’héroïsme se retrouve dans les écrits de Thomas Carlyle : ici aussi le rôle de l’aspirant héros est directement déterminé par l’interprétation qu’en fera la postérité. L’étude de la notion chez l’auteur anglais permet à François-Emmanuël Boucher de mettre en lumière son rapport au XIXe siècle et à l’avenir, seule validation des accomplissements de l’Humanité. Carlyle se pose comme intermédiaire au cœur de l’histoire : c’est lui qui donne une définition atemporelle de l’héroïsme en déterminant le caractère héroïque de personnages historiques, tout en transmettant ces valeurs à l’avenir de manière à établir une continuité dans le devenir humain — ce qui, dans la perspective contemporaine de l’histoire des idées, cause certaines difficultés d’analyse, sur lesquelles conclut Boucher.</p>
 <p>Les cinq premiers romans d’Olivier Rolin (de 1983 à 1998) analysés par Mélanie Lamarre participent d’une démarche similaire de compréhension du passé en regard de l’avenir, de validation de l’héroïsme par le biais du devenir humain. Mais dans le cas précis de l’écrivain contemporain, il s’agit d’évaluer son propre rôle héroïque tel qu’il l’a construit en constante réaction contre l’histoire en marche. Lamarre étudie ainsi les transformations de l’héroïsme, et ce qu’elles nous apprennent sur l’évolution de l’imaginaire social contemporain. Du désengagement marxiste à l’affirmation d’une toute-puissance individuelle sous le signe du littéraire, les narrateurs de Rolin oscillent entre des pôles opposés de l’héroïsme, tout en se rejoignant dans un désaccord vis-à-vis de la société actuelle. Ils expriment une inquiétude face au contemporain doublée d’un rejet des modèles du passé, attitude complexe relayée par la forme romanesque participant à l’auto-évaluation de celui qui s’est donné — à tort, constate-t-il — un rôle historique. Le seul héroïsme qui lui reste est minuscule et quotidien, élaboré à partir d’un constat d’échec généralisé.</p>
 
+----
+
+Credits: 
 
 ----
 
-credits: 
+Date: 2009-09-15 00:00:59
 
 ----
 
-date: 2009-09-15 00:00:59
+References: 
 
 ----
 
-references: 
-
-----
-
+Uuid: 9D5Qn178wDzirXMC

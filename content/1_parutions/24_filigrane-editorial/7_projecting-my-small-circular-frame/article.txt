@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article se propose d’explorer la part du pictural de la pensée littéraire. De prime abord, le terme pictural renvoie ici à l’idée de la composition visuelle, tandis que la pensée littéraire se rapporte au processus intersubjectif qui se déploie entre l’écriture et la lecture. En se basant sur la proposition conceptuelle, soutenue par Liliane Louvel, du tiers pictural, l’argument expérimente une approche picturale du littéraire à travers des fragments de pensée de W. G. Sebald et de Henry James. Comme l’œil est ce tiers qui intervient entre les formes visibles du monde et le phénomène de la vision, le tiers pictural serait le terme qui permettrait d’aller de la signification, suivant le décodage linguistique, à l’image construite par le corps et la pensée. Y aurait-il donc quelque chose de proprement pictural dans la pensée littéraire ?</p>
 
-
 ----
 
 abstract_en: <p>This paper aims to explore the pictorial dimension of a <em>pensée littéraire</em>. Here, pictorial refers to a visual composition, while the notion of a <em>pensée littéraire</em> concerns the intersubjective process occurring between the act of writing and that of reading. Based on Liliane Louvel’s concept of <em>tiers pictural</em>, this essay proposes a pictorial approach to the literary by examining W. G. Sebald’s and Henry James’s fragments of thoughts. As the eye is this third party that intervenes between visible forms of the world and the phenomenon of vision, the <em>tiers pictural</em> is a useful concept to go from signification, to linguistic decoding, and to the body-and-thought constructed image. Is there something quintessentially pictorial in a pensée littéraire?</p>
-
 
 ----
 
@@ -66,7 +64,6 @@ ce qu’on voit ne loge jamais dans ce que l’on dit </em>(Foucault, 1966 : 25
 <h3>Figure 2</h3>
 <p><img decoding="async" loading="lazy" src="http://post-scriptum.org/wordpress/wp-content/uploads/2018/04/napoleon.png" alt="napoleon.png" srcset="http://localhost:8000/wp-content/uploads/2018/04/napoleon.png 681w, http://localhost:8000/wp-content/uploads/2018/04/napoleon-300x161.png 300w" sizes="(max-width: 681px) 100vw, 681px" /></p>
 
-
 ----
 
 references: 
@@ -101,8 +98,6 @@ references:
 [4] L’image virtuellement contenue dans le texte.
 
 [5] <em>Faire voir</em>, entendu ici comme opération visuelle, non comme <em>faire image</em>, qui est lié à la façon de composer l’image, que ce soit dans l’opération strictement matérielle ou purement imaginaire.
-
-
 
 ----
 

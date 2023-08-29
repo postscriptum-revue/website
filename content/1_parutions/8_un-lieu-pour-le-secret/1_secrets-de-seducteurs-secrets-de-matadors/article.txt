@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La séduction opère souvent dans le secret, dans l’échange de signes que seuls séducteur et séduit peuvent percevoir. Johannes, héros du Journal du Séducteur de Søren Kierkegaard, se présente comme le maître des secrets, celui qui jouit de son secret sans pour autant être tenu au secret. Les matadors du film de Pedro Almodóvar, Matador, posent au contraire, dès le début de leur séduction, une responsabilité mutuelle qui les tient au secret. À travers ces œuvres et les textes de Jacques Derrida, Donner la mort et Ginette Michaud, Tenir au secret (Derrida, Blanchot), cet article cherche à montrer comment la séduction peut ouvrir l’espace du secret. Cet espace offre ainsi la possibilité d’une relation secrète, liée à une responsabilité au-delà de la morale générale, ouvrant ainsi sur le sacré.</p>
 
-
 ----
 
 abstract_en: <p>Seduction takes place in secret, when the seducer and the seduced exchange signs that only them can perceive. Johannes, hero of The Seducer’s diary by Søren Kierkegaard, presents himself as the master of secrets, the one that enjoys his secret without being kept in secret. The matadors of Pedro Almodóvar’s movie, Matador, create, on the contrary and from the very beginning of their seduction, a mutual responsability to keep it a secret. Through the works of Jacques Derrida Donner la mort and Ginette Michaud, Tenir au secret (Derrida, Blanchot), this article shows how seduction can open the space of the secret. This space offers the possibility of a secret relation, linked to a responsibility, which is above general morality, and opens a door to sacredness.</p>
-
 
 ----
 
@@ -56,7 +54,6 @@ text: <p>On peut séduire dans le secret, dans l’intimité d’une « petite 
 <p>Dans cette chapelle, María creuse le lieu du secret et lorsqu’elle révèle celle-ci à Diego, elle le pousse à <em>tenir au secret</em> cet espace. Johannes, le séducteur kierkegaardien, jouit dans le secret de son secret, le connaît. C’est pour cela qu’il n’est pas Abraham, qu’il reste chez Kierkegaard dans les limbes de l’esthétique. Il ne prendra jamais en charge cette étrange responsabilité, parce qu’il ne sera jamais tenu au secret. Le mouvement de la séduction participe du secret en voilant le séduit et le séducteur, en ne donnant pas à voir l’autre sous la lumière aveuglante des néons, mais en créant, à travers l’artifice, le simulacre, le masque, des espaces intimes. María ne devient pas Diego, Diego ne devient pas María, mais ils portent ensemble le secret. La séduction se poursuit ainsi jusque dans la dernière scène où les deux amants miment la séduction du torero et du taureau avant de se sacrifier mutuellement. Mort sacrée pour ceux qui se sont mis à mort, la plus belle mort dont ils pouvaient rêver, mort opérée en faisant fi du général, dans l’intimité d’une maison qui tient au secret. Mort terrible s’il en est, par laquelle Almodóvar célèbre le désir et la passion.</p>
 <p><em>Tenir au secret</em> (Michaud 2006), c’est demeurer au secret. Il faut se méfier de notre discours, nous avons trop souvent tendance à vouloir sortir du secret, passer outre dans la résolution du problème, se conforter dans notre chère problématique. Mais comment errer entre le secret et son absence, comment se tenir au secret sans se perdre complètement ? Comment aussi ne pas ressasser cette éternelle question, celle du vague, de l’à-peu-près, du senti et du pressenti jamais clairement énoncé ? Il faudrait, comme María et sa chapelle, se construire une niche, un endroit avec non pas des tiroirs bien propres et bien découpés, mais plutôt des accidents de terrain. On pourrait faire comme Willie dans <em>Oh les beaux jours</em> (Beckett 1974), on se réserve le droit de se cacher quand on veut. On refuse la place de Winnie, l’exposition au soleil n’est pas pour nous, choisissons plutôt l’ombre, mais l’ombre qu’on creusera nous-mêmes, qu’on construira dans la dune. Il n’y a plus de rocs, plus de bons rochers solides où construire nos belles certitudes. On bâtira sur du sable, sur de l’éphémère, sur un secret bien gardé, inconnu, jamais mis à jour. Et par la séduction, on continuera à parler.</p>
 
-
 ----
 
 references: 
@@ -82,26 +79,13 @@ references:
  	<li>YARZA, Alejandro. <em>Un caníbal en Madrid : la sensibilidad camp y el reciclaje de la historia en el cine de Pedro Almodóvar</em>, Madrid : Ediciones Libertarias, 1999.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] On peut penser ici au mythe du roi Midas, conté par Ovide dans Les Métamorphoses, qui pose un secret se perpétuant sans cesse.
 
-
-
-
 [2] Pedro Almodóvar confie à Nuria Vidal « Desde luego Bataille estaba presente » (Vidal 1990) [Évidemment, Bataille était présent. (ma traduction)
 
-
-
-
 [3] « Tu m’as séduit, Yahvé, et je me suis laissé séduire » (La Bible, Jérémie 20, 7)
-
-
-
 
 ----
 

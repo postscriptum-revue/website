@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le héros populaire ne le devient pas pour rien : des conjonctures expliquent et justifient sa position hors du commun. Ce passé comprend souvent une injure donnant lieu à des représailles ; depuis l’archétype du genre, le comte de Monte-Cristo, les héros sont des vengeurs. Dans Dondog, Antoine Volodine fait usage de procédés similaires, si bien qu’on a pu comparer le personnage à Edmond Dantès. Le hic, c’est que Dondog est amnésique. Il ne sait plus de quel affront ou de quel traumatisme historique il doit se venger, ni sur qui. Il se dessine ainsi en anti-héros sans mémoire et sans passé, cantonné dans un présent ne débouchant sur aucun avenir. Volodine investit la figure du vengeur d’une signification nouvelle, dont il s’agira d’évaluer la portée. Comment penser l’épuisement du héros et son amnésie dans l’univers volodinien, univers d’après les révolutions et de la ruine des utopies ? En d’autres mots, de quoi précisément Dondog refuse-t-il de se souvenir, et avec quelles conséquences sur le roman ?</p>
 
-
 ----
 
 abstract_en: <p>A popular hero doesn’t emerge out of nowhere : specific circumstances justify his exceptional status. This past often includes an offense and subsequent vengeance, as is exemplified by the genre’s archetype, the Count of Monte-Cristo. Heroes are therefore avengers. In Dondog, Antoine Volodine’s use of a similar pattern causes a comparison between his main character and Edmond Dantès. The only discrepancy is that Dondog is an amnesiac. He has no knowledge of that defining insult or historic trauma on which he must take revenge, let alone on whom. He is thus designated as an anti-hero without memory and without past, confined to a present without a future projection. Volodine invests the figure of the avenger with a new meaning, which is the focus of this enquiry. How should we conceptualise the hero’s exhaustion and his amnesia in the Volodinian world, one at the end of all revolutions and utopia’s ruin ? In other words, what exactly does Dondog refuse to remember, and with what consequences on the novel ?</p>
-
 
 ----
 
@@ -46,7 +44,6 @@ text: <p>Notre époque est celle de la mémoire : la commémoration des innombr
 <p>La relation duelle mise au jour peut également nous aider à mieux comprendre celle de <em>Dondog</em> avec le roman populaire et le héros, puisque le rapport à la mémoire est aussi rapport à l’histoire littéraire. La figure du vengeur est insérée dans la trame narrative, mais travestie et mêlée à une foule d’autres références intertextuelles, allant du surréalisme à la littérature soviétique, de manière à recycler son sens. La portée, cependant, est inaltérée, la fin du <em>Comte de Monte</em>&#8211;<em>Cristo</em> concluant aussi à l’inutilité de la vengeance. Mais pour arriver à ce retournement, il faut au personnage du comte perpétuer le cycle de violence contre lequel il se situe initialement, et réaliser qu’il devient ce qu’il déteste. À cette action tragique, Dondog oppose l’inaction la plus complète, pour parvenir à la même condamnation de la mémoire littérale : le roman contemporain fait, en quelque sorte, un pied de nez à son homologue classique, en développant une vision semblable à la sienne sans recourir aux agissements d’un protagoniste dynamique. Mais cette différence narrative cache une rupture plus profonde : l’action du héros dumasien se déploie dans un monde où il est encore possible d’en être un, tandis que l’univers de Volodine, théâtre des diverses « solutions finales » du siècle dernier, évacue cette voie, qu’Adorno assimile plutôt à une reproduction du problème. Dans ses <em>Notes sur la littérature,</em> le philosophe s’explique de sa fameuse phrase sur l’impossibilité de la poésie après Auschwitz en arguant que la découverte des camps interdit à l’art une posture gaie ou triomphante. Car, dit-il, « la position de vainqueur est celle qui convient le moins aux adversaires des fascistes, qui ont le devoir de ne ressembler en rien à ceux qui se retranchent dans cette position » (Adorno 1958 : 434). Suivant cette perspective — que Monte-Cristo, notons-le, annonce à un degré moindre —, le marasme de Dondog et le ratage de son initiation, qui lui interdit toute victoire subséquente, obéissent au paradoxe de la défense faite à l’insurrection de s’insurger face au comble de l’horreur. Car sa vengeance personnelle, il en est conscient, représente une volonté de revanche à beaucoup plus vaste échelle, dont la visée allégorise le fascisme qu’a vécu Adorno : « comment voulez-vous que je me venge vraiment de ce qu’ils ont fait subir aux Ybürs ? De la première extermination, de la deuxième ?… Et comment se venger du capitalisme, hein ?… Comment se venger des camps ? D’une vie de camps ?… » (Volodine 2002 : 227) De tous ces maux, aucun vengeur ne peut se venger, et la littérature, loin d’être gaie, se voit réduite aux balbutiements du <em>Monologue de Dondog.</em></p>
 <p>Pour revenir, une dernière fois, aux emboîtements à n’en plus finir qui caractérisent la construction de l’édifice post-exotique, remarquons que la correspondance à la fois ludique et philosophique avec la tradition romanesque est résumée de façon on ne peut plus laconique dans le <em>Post</em>&#8211;<em>exotisme en dix leçons, leçon onze.</em> Parmi la liste (fictive) des titres post-exotiques parus depuis 1977, présentée en guise de conclusion de l’ouvrage, celui de « <em>Vain temps après</em> » (Volodine 1998 : 87) fait clin d’œil à Dumas. Le jeu de mots renvoie aussi à l’œuvre volodinienne : celle-ci est énoncée, on l’a vu, à partir de l’après d’une « catastrophe », dans les mots de Viart, ou encore d’un <em>vain temps.</em> Mais le « temps » est aussi une période, ici le XXe siècle, vu de haut, de loin, de sorte que les événements représentés ne sont plus que des agrégats historiques, et leurs acteurs des « blattes » dont les actions et réactions se perdent dans l’agitation générale. De nouveau la fiction de Volodine entre en dialogue avec la pensée de Todorov, qui avance qu’« au-delà d’un certain seuil, les crimes contre l’humanité ont beau rester spécifiques, ils se rejoignent dans l’horreur sans nuances qu’ils suscitent » (Todorov 1998 : 42) — horreur dont a voulu bien inutilement se venger Dondog, et qu’en raison même de son ampleur il n’a pu qu’oublier.</p>
 
-
 ----
 
 references: 
@@ -73,16 +70,9 @@ references:
  	<li>____, <em>Le post</em>-<em>exotisme en dix leçons, leçon onze,</em> Paris, Gallimard, 1998.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] Doug Liman, <em>The Bourne Identity</em>, 2002 ; Paul Greengrass, <em>The Bourne Supremacy</em>, 2004 et <em>The Bourne Ultimatum</em>, 2007.
-
-
-
 
 ----
 

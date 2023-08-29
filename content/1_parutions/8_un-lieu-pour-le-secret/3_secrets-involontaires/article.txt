@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article porte sur le rôle de la notion de secret au sein de la réception individuelle des mangas (bandes dessinées japonaises) traduits en français. Dans un premier temps, je me concentre sur « le secret initial », soit le processus de découverte qui s’opère lors de la première lecture de mangas par un lecteur néophyte ; ce dernier doit alors maîtriser des codes culturels, textuels et visuels inconnus et en percer le sens. Dans un deuxième temps, j’examine « le secret accidentel » qui a lieu lorsque des erreurs de traduction mènent à l’épaississement d’un secret déjà existant, et transforment ainsi l’expérience de tout lecteur. J’illustre ce deuxième point à travers une analyse de la série Fruits Basket, de Takaya Natsuki.</p>
 
-
 ----
 
 abstract_en: <p>This article deals with the role of the notion of secret within the individual reception process of manga (Japanese comics) translated into French. In the first part, I focus on « the initial secret », i.e. the discovery process which takes place during the experience of a first-time manga reader ; in this case, the latter must learn to master unknown cultural, textual, and visual codes, and uncover their meanings. In the second part, I examine « the accidental secret » which occurs when translation errors lead to the complication of a pre-existing secret, thus transforming the experience of any reader. I illustrate this second point through an analysis of the Fruits Basket series, by Takaya Natsuki.</p>
-
 
 ----
 
@@ -63,7 +61,6 @@ text: <p>La présence de traductions de mangas (bandes dessinées japonaises) en
 <p>Ainsi, plus le lecteur relit, plus il se heurte aux problèmes potentiels de traduction, et plus le secret s’épaissit. Car, il suffit que le lecteur ait détecté un seul contresens flagrant pour qu’il puisse avoir des doutes concernant le reste de la traduction. Je ne sous-entends absolument pas que la traduction française de <em>Fruits Basket</em> est truffée de fautes et de contresens, mais elle en comporte certainement, et le fait que le lecteur puisse facilement s’en rendre compte par lui-même (contrairement à la majorité des traductions en général) place ce dernier dans un état d’esprit où il sent qu’il ne peut jamais être certain qu’il est en train de lire « la vérité ». C’est cette conscience aiguë de la fragilité de la traduction qui rend l’expérience de lecture des mangas si particulière. C’est d’autant plus vrai concernant les phrases énigmatiques, décontextualisées. En effet, comme je l’ai illustré plus haut, le secret dans <em>Fruits Basket</em>, comme tout secret fonctionnel, se laisse entrevoir à travers des phrases dont le sens est difficile à décrypter et qui s’offre ainsi à l’interprétation du lecteur, qui cherche à comprendre l’indice qui lui est ainsi donné. Or cette interprétation se voit compliquée par le doute qu’éprouve le lecteur face à la traduction, <em>justement dans ces cas-ci</em>. La clé du secret devient ainsi encore plus insaisissable, plus fuyante – et peut-être le plaisir du lecteur s’en trouve-t-il augmenté. C’est ainsi que, du secret involontaire de la première lecture, on passe au secret accidentel qui mène à la relecture.</p>
 <p>Mon but n’a pas été, dans cet article, de dénoncer ou de critiquer les problèmes de traduction des mangas en général, ou de <em>Fruits Basket</em> en particulier. Plutôt, en partant de leur constat, j’ai voulu montrer comment ces derniers parviennent à accentuer le secret, à ajouter une autre dimension à cette figure qui opère déjà à tant de niveaux dans la réception des mangas. Je suis d’avis que le secret, sous ses multiples formes, joue un rôle important dans la lecture des mangas, en ce qu’il participe au plaisir de cette expérience. Qu’il soit volontaire ou non, un secret demande à être découvert, et le processus d’enquête qu’il déclenche est source de plaisir, en même temps que de frustration : le secret accidentel de la traduction ne fait pas exception à cette règle.</p>
 
-
 ----
 
 references: 
@@ -88,36 +85,17 @@ references:
  	<li>TILLON, Fabien, <em>Culture manga</em>, Paris, Nouveau monde éditions, 2006.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Les noms de personnes japonaises et de personnages de manga seront inscrits en respectant l’ordre japonais, qui consiste à placer le patronyme avant le prénom.
 
-
-
-
 [2] Je ne pense pas que la bande dessinée puisse être en tout temps divisée en textes d’une part et en images de l’autre. Cependant, cette classification a l’avantage d’être claire dans le présent contexte d’analyse.
-
-
-
 
 [3] Excepté, bien sûr, lorsque le récit comporte un secret, comme dans le cas de <em>Fruits Basket</em>, que nous examinerons dans la deuxième partie.
 
-
-
-
 [4] On trouve un tel exemple dans le tome 4 de la série <em>Trigun Maximum</em>, de Nightow Yasuhiro, p. 193-194.
 
-
-
-
 [5] Plus précisément, dans le texte original, on appelle Ritsu « Rit-chan », -chan étant un suffixe japonais diminutif, employé pour les enfants ou les intimes.
-
-
-
 
 ----
 

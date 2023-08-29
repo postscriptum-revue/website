@@ -35,7 +35,6 @@ intro_text: <blockquote><p><em>I couldn’t help it, yes, I let it get in</em></
 
 <p><em>Mais les oiseaux seront de retour</em>, ils accueilleront nos résistances, nos peines, nos refus de vivre dans l’illusion. <em>Mais les oiseaux sont déjà là</em>, car loin de la promesse inculquée du bonheur d’autres vies sont possibles. Retour cyclique qui embrasse la temporalité des affects et qui affiche sans cesse les mots, formes, pensées dont nous avons besoin pour ébranler l’arbre de béton. Accueillir le non-bonheur comme un échec créateur. <em>Et les oiseaux repartiront</em>.</p>
 
-
 ----
 
 credits: <ul>

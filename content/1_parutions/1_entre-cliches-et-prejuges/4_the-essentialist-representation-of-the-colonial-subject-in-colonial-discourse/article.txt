@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>On devrait considérer l’usage abusif et la manipulation des représentations et des images des peuples colonisés dans le discours comme l’origine même de la représentation du sujet colonisé en tant que figure de l’ « Autre » déviant, comme une stratégie-clé du discours colonial. C’est ainsi qu’on réussit à circonscrire de façon permanente le sujet colonisé dans une position signifiante fixe. Homi Bhabha considère la fixité « comme la marque d’une différence culturelle, historique ou raciale dans le discours du colonialisme, qui est un mode de représentation paradoxal puisqu’elle évoque la rigidité et un ordre invariant, mais aussi le désordre, la dégénérescence et la répétition diabolique » (The Location of Culture). On peut donc définir le stéréotype comme la cristallisation des notions de fixité et d’essentialisme qui nourrirent le discours colonial. Dans cette optique, on devrait donc analyser le stéréotype en tant que stratégie discursive centrale du colonialisme. Ce sera donc dans ces termes que je tenterai de situer et d’analyser la fonction du stéréotype dans les constructions du discours colonial.</p>
 
-
 ----
 
 abstract_en: <p>The « trafficking » and manipulation of colonised peoples’ representations and images in discourse is to be considered as the source of the ideological representation of the colonised subject as a deviant « other », a key strategy of colonial discourse. The colonised was thus permanently circumscribed to a fixed signifying position. Homi Bhabha considers fixity « as the sign of cultural/historical/racial difference in the discourse of colonialism, which is a paradoxical mode of representation : it connotes rigidity and an unchanging order as well as disorder, degeneracy and daemonic repetition » (The Location of Culture). The stereotype can be then conceptualised as the crystallisation of the notions of fixity and essentialism that informed colonial discourse, and as such, it is to be analysed in terms of a central discourse strategy of colonialism. It is therefore within this framework that I endeavour to map the position and function of the stereotype in colonial discursive constructs.</p>
-
 
 ----
 
@@ -76,8 +74,6 @@ politically that difference was spelled out as one between rulers and the ruled�
 </blockquote>
 <p>It is then on account of the Western world’s « flexible positional superiority, » which conditioned and determined all possible relationships with the East, that stereotypes became fixed once and for all in colonial discourse (Said 1978 : 7). The hidden discursive nature of such stereotypical representations contributed to their becoming fixed not only in discourse but also in the very tissue of culture. The ensuing manipulation of colonised peoples’ representations and images was thus turned into a means of domination. By circumscribing the colonised to a fixed signifying position, colonial power ensured that the colonial subject develop a sense of double-consciousness and the consequent drive to mimicry. Ultimately, the essentialist representation of the colonial subject in discourse can be analysed in terms of a central discourse strategy of colonialism conceived in order to perpetuate the status quo, i.e., the colonial system.</p>
 
-
-
 ----
 
 references: 
@@ -105,16 +101,9 @@ references:
  	<li>ROY, Arundhati, <em>The God of Small Things</em>, Toronto, Vintage Canada, 1997.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] In addition to playing with the meaning of the title of Conrad’s novel, Roy inverts and alters the grammatical category of the words that comprise it ; the noun « darkness » becomes the adjective « dark, » and the noun « heart » is transformed, via a process of analogy, into the more abstract noun « heartness. » Whereas Roy identifies « heart of darkness » with Kari Saipu’s house, which symbolizes the recent colonial past, « dark of heartness » stands for the police, which is also alluded to as « Dark of Heart » (289).
-
-
-
 
 ----
 

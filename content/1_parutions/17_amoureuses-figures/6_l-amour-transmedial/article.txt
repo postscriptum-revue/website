@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Les représentations de l’amour dans les univers fictionnels sont loin d’appartenir à un médium en particulier. En effet, on remarque que des scènes amoureuses sont représentées non seulement au cinéma, mais aussi à l’intérieur de certains objets culturels appartenant au médium vidéoludique. Si les représentations de situations amoureuses semblent être un sujet transmédial, on peut se demander quels effets elles tendent à provoquer sur les spectateurs et les joueurs, et surtout comment ces différents médias usent des possibilités que leur offre leur langage émotionnel afin de contrôler l’espace émotionnel et affectif de ceux-ci ? C’est d’abord avec l’appui de quelques-uns des travaux de la psychologie cognitive et de la philosophie des émotions appliquées au cinéma et au jeux vidéo que je tenterai de définir ce que sont les différents émotions et affects qui composent l’expérience de la spectature et du jeu. Puis, avec l’aide d’extraits tirés de The Notebook (Nick Cassavetes, 2004), In the Mood for Love (Fa yeung nin wa, Wong Kar-Wai, 2000) et Gone Home (The Fullbright Company, 2013) je tenterai d’analyser comment ces concepts se mettent en scène à l’intérieur des œuvres. Je tenterai par le fait même de définir ce que la jouabilité [1] du médium vidéoludique amène comme complexification de l’expérience émotionnelle et affective chez le joueur.</p>
 
-
 ----
 
 abstract_en: <p>Representations of love in fictions are far from belonging to a particular medium. Indeed, it is known that love scenes are represented not only in cinema, but also within cultural objects related to video games. If those representations seem to be a transmedia topic, we can ask ourselves which are the effects they can create on their viewers and gamers, and mainly, how they use the possibilities provided by their own emotional language to take control of the viewers and gamers’s emotions and affects ? It is with the support of parts of research in cognitive psychology and philosophy of emotions applied to films and video games that I will primarily try to define what are the different emotions and affects that make up the experience of viewing and gaming. Then, with the help of clips from The Notebook (Nick Cassavetes, 2004), In the Mood for Love (Fa yeung nin wa, Wong Kar-Wai, 2000) and Gone Home (The Fullbright Company), I will try to analyze how these concepts are depicted. Furthermore, I will try to define what the gameplay of this particular video game brings in complexity in regard of the player’s emotional and affective experience.</p>
-
 
 ----
 
@@ -57,7 +55,6 @@ text: <p>Si l’amour comme sentiment a été le moteur de bien des créations a
 <h3>Conclusion</h3>
 <p>Bien que l’apparente interactivité du médium vidéoludique amène une complexification dans l’expérience affective et émotionnelle du joueur, il est toutefois important de noter que le cinéma aborde déjà une dimension ludique dans la reconstitution du (ou des) sens d’une œuvre. Ce procédé est d’autant plus évident lorsque l’on aborde une œuvre comme <em>In the Mood for Love,</em> où la reconstitution de la trame narrative principale est laissée entre les mains du spectateur. Si ce processus est aussi vrai pour <em>The Notebook,</em> il n’est que plus évident dans l’œuvre de Wong Kar-Wai. De même, la différence flagrante entre les esthétiques des deux films cités en exemple amène des implications différentes dans l’expérience émotionnelle et affective du spectateur, malgré qu’il soit question de la représentation de situations amoureuses. Pareillement, <em>Gone Home</em> use d’une grande variété de stratégies dans son langage émotionnel, qui le rapproche à quelques égards de la création d’affects et d’émotions déjà étudiés dans le médium cinématographique. Ainsi, que ce soit lorsqu’un individu regarde un film ou joue à un jeu vidéo, il se trouve dans une position d’activité cognitive, même si son engagement moteur n’est que partiel. Les exemples utilisés dans cette analyse présentaient tous un récit où l’amour était mis en scène, pourtant les émotions et les affects ressentis par le spectateur ou le joueur différaient dans leur nature, sans compter les variations possibles dans leurs réactions provenant des sensibilités esthétiques, les désirs individuels et le contexte et l’environnement de visionnement ou de jeu ambiant de chacun. On ne peut en effet pas prévoir avec exactitude toute la gamme d’émotions qu’un spectateur ou un joueur peut ressentir face à une œuvre, mais mon analyse a tenté de percevoir quelques-uns des moyens dont chacun des média disposent dans leur langage émotionnel respectif afin de contrôler un tant soit peu les réponses des spectateurs et des joueurs lorsque l’amour est représenté.</p>
 
-
 ----
 
 references: 
@@ -81,26 +78,13 @@ references:
  	<li>THERRIEN, Gilles. « La lisibilité au cinéma », <em>Cinémas : revue d’études cinématographiques</em>, vol. 2, n˚2-3, 1992, p. 107-122.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] La jouabilité est un terme qui peut être défini comme la capacité d’un jeu vidéo à être joué. Il englobe entre autres la façon dont le jeu doit être joué, ses commandes, ses règles et les possibilités de jeu, de déplacement et d’enchaînements qu’il offre au joueur.
 
-
-
-
 [2] J’emploie ici le terme d’affect au sens que lui donne Carl Plantinga dans <em>Moving Viewers : American Film and the Spectator’s Experience,</em> soit en référence aux réactions corporelles, aux humeurs et sentiments plus ou moins diffus que le spectateur [et le joueur] expérimente lors du visionnement d’un film [ou de l’expérience de jeu d’un jeu vidéo] (Plantinga, 2009, p. 57).
 
-
-
-
 [3] Le terme spectature est un néologisme élaboré par Gilles Therrien qui fait référence à la « lisibilité » du médium cinématographique, où le spectateur doit amorcer un mouvement de « lecture » et d’interprétation (même minimal) pour comprendre ce qui se déroule dans l’œuvre. Ainsi, le spectateur devant un film fait acte de spectature, tout comme le lecteur devant un texte fait acte de lecture. (voir Therrien, 1992, p. 107-122).
-
-
-
 
 ----
 

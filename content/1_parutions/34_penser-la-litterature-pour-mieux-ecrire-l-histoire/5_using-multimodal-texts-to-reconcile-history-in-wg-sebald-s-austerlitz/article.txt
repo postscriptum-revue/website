@@ -16,13 +16,11 @@ abstract_fr: <p>Comment l’analyse de la littérature postmoderne, associée à
 
 <p>Mot-clés : postmémoire, Kindertransport, photographie, esthétique, texte</p>
 
-
 ----
 
 abstract_en: <p>How can the analysis of postmodern literature, coupled with photography, contribute to our comprehension of the connection between literature, generational trauma, and war? To better understand this complex and nuanced relationship, regarding how literature and the image influence war and vice versa, we need to redefine “text” as multimodal. In the works of Philippe Artières and Régine Robin, which trouble our sense of what text can be, there is a call to analyze postmodern works in order to discern the reciprocity between war and literature. Scholarship on W. G. Sebald’s <em>Austerlitz, </em>dealing with postmemory, the history of the Holocaust, and the Kindertransport, includes the works of Naomi Stead, Amir Eshel, and notably, Marianne Hirsch’s “The Generation of Postmemory”. I propose that history <em>can</em> be analyzed using photographs as aesthetic and textual evidence of the historical implications in interpretations of literature. To illustrate this, I’ll return to Hirsch’s mention of “truth and obscurity, exactitude and simulacrum”(2013, 216). Using this idea, alongside Susan Sontag’s fragmented versions of photography to demonstrate history and war’s influence over interpretation, I argue that a revisiting of <em>Austerlitz</em> is needed. My argument will provoke questions: How does Austerlitz find truth <em>in</em> obscurity? What do (or don’t) the fragmented aesthetics of the photographs attempt to convey about Sebald’s history, the history of the Kindertransport, and the 1.5 Generation? Using these lenses to analyze history and literature’s multifarious relationship, by way of W.G. Sebald’s <em>Austerlitz,</em> this article will help reveal the veracity of other texts, thus enriching attempts to reconcile our collective history.</p>
 
 <p>Keywords: postmemory, Kindertransport, photography, aesthetics, text</p>
-
 
 ----
 
@@ -85,7 +83,6 @@ text: <blockquote><p>With photography, a new language has been created. Now for 
 
 <p>Conclusion</p>
 <p>Photography and the image give us more than just a glimpse at what <em>was</em>, they give us reality, the “is” that is encapsulated within the present moment. <em>Austerlitz</em> presents the “is” in a way that equally confounds and liberates both the reader and the images themselves, giving new meaning to how narrative and the image can communicate. “This failure of language to synchronize with images is something with which Austerlitz can acutely identify, and it inaugurates <em>through language </em>the beginning of his becoming-image” (Olsen 2013, 61). Sebald’s innovative work begs us to ask: how do we find ourselves in these images? Whether we know who or what they are, taking that moment to let the images seep into us, to let the identities of the other speak presents the opportunity to find solace in their reflection, building a more powerful collective memory and a stronger reconciliation of our histories, traumas, and stories.</p>
-
 
 ----
 

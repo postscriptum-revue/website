@@ -72,7 +72,6 @@ je gronderai ici</p>
 <p>mon seul rendement<br />
 inutile</p>
 
-
 <p>**</p>
 <p><em>Crête</em></p>
 <p>je m’assois plein ventre de tes habitudes<br />
@@ -86,7 +85,6 @@ possible</p>
 <p>transgression algique</p>
 <p>de l’inflexible héréditaire<br />
 nos vétustes voûtes</p>
-
 
 <p>**</p>
 <p><em>Appartement</em></p>
@@ -103,7 +101,6 @@ J’arrive ici, tu es minuscule et accroupie sur des graines cuisantes et en ter
 <p>Mes mues logent l’autre plancher et le nouveau reflète mes aspérités sans qu’elles ne tombent de mes morceaux. Pour la première fois, c’est mon odeur que je sens lorsque j’ouvre la porte, je me sais capable de me perdre.</p>
 <p>Je désoriente mes poussières, mes paumes appuyées au mur, il me faut replanter le lierre, sortir les mouches mortes du congélateur.</p>
 <p>On verra par où je voudrai me re-connaître.</p>
-
 
 ----
 

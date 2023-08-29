@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article s’efforce de prolonger le dispositif participatif mis en œuvre lors du colloque Montréal comparatiste, tradition vivante afin de matérialiser notre intelligence collective à l’issue de ces deux journées intenses de réflexions. Cette approche relationnelle bouscule des normes disciplinaires pour envisager la recherche comme une forme de création résolument embrayée. Comment relier cette perspective indisciplinaire au comparatisme différentiel tel que je l’avais élaboré dans mon doctorat en cotutelle entre la France et Montréal ? Saurons-nous inventer, ensemble, des manières de comparer susceptibles d’orienter différemment nos situations contemporaines ?</p>
 
-
 ----
 
 abstract_en: <p>This essay is an attempt to extend our experiment to materialize our collective intelligence at the very end of the conference Montréal comparatiste, tradition vivante. Such a relational approach breaches the disciplinary rules to consider research as a form of creation-in-context. How is it possible to link this indisciplinary perspective with the “differential compartism” drafted in my previous transatlantic work ? Will we be able to imagine ways to compare that could orient our contemporary situations in a different way ?</p>
-
 
 ----
 
@@ -101,7 +99,6 @@ text: <p>Présenté comme « un des derniers [événements] à avoir lieu au d�
 <p>L’indiscipline est une forme de pensée tactique, qui ne prétend pas être la seule valable ni même devoir se pérenniser. Ce texte s’est efforcé de poser quelques jalons pour une recherche qui prend appui sur un comparatisme différentiel pour se faire relationnelle. Il s’agissait, en somme, de prolonger l’expérience d’un dispositif imaginé pour ressaisir et relancer, davantage que clore, les réflexions partagées lors du colloque <em>Montréal, tradition comparatiste</em>. Cette expérimentation me semble moins résoudre les questions relatives à l’avenir de la littérature comparée à l’UdeM que les déplacer ou les décaler. Tout se passe comme si l’effort pour « se situer » devenait non pas celui d’un regard rétrospectif couplé à une analyse de la situation contemporaine mais plutôt une invention de forme. Nous traversons à l’évidence une phase de péremption généralisée des discours et des étiquettes – et ce « nous » déborde le cercle des comparatistes comme celui des seuls universitaires. Dans ce vertige, il est possible de perdre pied – ou de travailler à inventer en acte des directions inédites. Je crois que la littérature comparée sera ce que nous en faisons, à la fois en-deçà et au-delà des infrastructures institutionnelles, en relation avec d’autres constellations de lucioles. <br />De même que le dispositif décrit ici n’a existé que comme une expérience partagée, ce texte est avant tout un nœud dans une interlocution continue. Permettez-moi de vous l’adresser de nouveau : que vous ayez participé ou non au dispositif expérimenté lors du colloque, n’hésitez pas à verser vos commentaires, interprétations, critiques et propositions dans le document partagé disponible à l’adresse suivante : <a href="http://post-scriptum.org/https%20://drive.google.com/folderview?id=0Bw_skey1WqT0fkRvT3U3MTgyREQ4cWhSTk1IdTZTRXpVUzhTUnhodW0xcmVpYWVyX2JTTDA&amp;usp=sharing">https://drive.google.com/folderview?id=0Bw_skey1WqT0fkRvT3U3MTgyREQ4cWhSTk1IdTZTRXpVUzhTUnhodW0xcmVpYWVyX2JTTDA&amp;usp=sharing</a></p>
 <p>Le terme même d’indiscipline n’est aucunement définitif. Puisse-t-il fonctionner comme un mot de passe (un <em>shibboleth</em>, pour faire écho à l’<em>eruv</em> découvert dans les petits papiers…) qui permettrait de se retrouver, par-delà les cloisonnements des spécialisations et des institutions, pour chercher ensemble les alternatives dont nous avons bien besoin.</p>
 
-
 ----
 
 references: 
@@ -124,26 +121,13 @@ references:
  	<li>ZIMA Peter V., « Vergleich als Konstruktion. Genetische und Typologische Aspekte des Vergleichs und die sozial Bedingtheit der Theorie », dans Peter V. Zima, Reinhard Kacianka, Johann Strutz (éd.), <em>Vergleichende Wissenschaften : Interdisziplinarität und Interkulturalität in den Komparatistiken</em>, Tübingen, Gunter Narr Verlag, 2000.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] <a href="http://www.fabula.org/actualites/colloque-annuel-de-la-revue-post-scriptum-montreal-comparatiste-tradition-vivante-29-30-avril-2015_66675.php" rel="external">http://www.fabula.org/actualites/colloque-annuel-de-la-revue-post-scriptum-montreal-comparatiste-tradition-vivante-29-30-avril-2015_66675.php</a>
 
-
-
-
 [2] Consulter les conférences orchestrées par la revue Liberté permet d’en savoir plus : <a href="http://revueliberte.ca/content/la-depossession-tranquille-4-conferences-pour-penser-lausterite" rel="external">http://revueliberte.ca/content/la-depossession-tranquille-4-conferences-pour-penser-lausterite</a> - Pour un bel exemple de logique inverse à la manière d’un exercice de style, on peut lire la lettre « Si j’étais ministre de la Culture… » de Carole Fréchette : <a href="http://www.cqt.ca/accueil/actualites/923" rel="external">http://www.cqt.ca/accueil/actualites/923</a> - Pour plus théorique et systématique, voir les Economistes atterrés : <a href="http://www.atterres.org/" rel="external">http://www.atterres.org/</a>
 
-
-
-
 [3] Présentation à l’adresse (<a href="http://llm.umontreal.ca/departement/presentation/" rel="external">http://llm.umontreal.ca/departement/presentation/</a>)
-
-
-
 
 [4] À l’interface Univer/Cité, voir par exemple :
 <ul>
@@ -153,37 +137,17 @@ references:
  	<li>La recherche dans les écoles supérieures d’art, Culture et Recherche n° 130, hiver 2014-2015. Dossier coordonné par Isabelle Manci, <a href="http://www.culturecommunication.gouv.fr/Ressources/Publications/Culture-et-Recherche-n-130-La-recherche-dans-les-ecoles-superieures-d-art" rel="external">http://www.culturecommunication.gouv.fr/Ressources/Publications/Culture-et-Recherche-n-130-La-recherche-dans-les-ecoles-superieures-d-art</a></li>
 </ul>
 
-
-
 [5] Outre le Comité invisible, voir les Entrepreneurs du commun, <a href="https://www.facebook.com/entrepreneursducommun" rel="external">https://www.facebook.com/entrepreneursducommun</a>
-
-
-
 
 [6] Document participatif disponible à l’adresse <a href="https://docs.google.com/document/d/1e3PgKd05B_dpu0AbI-ZX9l9S7jo3bkVBbRrYnRHPctY/edit?usp=sharing" rel="external">https://docs.google.com/document/d/1e3PgKd05B_dpu0AbI-ZX9l9S7jo3bkVBbRrYnRHPctY/edit?usp=sharing</a>
 
-
-
-
 [7] Il faudrait bien davantage qu’une note de bas de page pour le remercier de sa participation à chacune de étapes de cette expérimentation, cet essai de restitution compris
-
-
-
 
 [8] Ses images sont disponibles ici <a href="http://post-scriptum.org/https%20://onedrive.live.com/?cid=0b2f009ab4482593&amp;id=B2F009AB4482593%2144629&amp;Bsrc=Share&amp;Bpub=SDX.SkyDrive&amp;sc=Photos&amp;authkey=%21Av9eKBPE3Zc7VYQ">https://onedrive.live.com/?cid=0b2f009ab4482593&amp;id=B2F009AB4482593 !44629&amp;Bsrc=Share&amp;Bpub=SDX.SkyDrive&amp;sc=Photos&amp;authkey= !Av9eKBPE3Zc7VYQ</a>
 
-
-
-
 [9] Pour tester un exemple rendu possible par l’outil numérique, cf. <a href="http://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?artist=50" rel="external">http://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?artist=50</a> où chaque clic sur l’un des nœuds réorganise tout le réseau – et construit une histoire de l’art.
 
-
-
-
 [10] Merci à Charline Pluvinet, qui m’a aidée à me formuler cette remarque dans l’après-coup de l’expérience.
-
-
-
 
 ----
 

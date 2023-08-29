@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans sa destinée, la séduction se trouve associée au mal. Elle maîtrise l’univers symbolique, y compris celui du littéraire (Baudrillard). Afin de mieux comprendre l’impact de la séduction sur nos consciences, nous examinerons ses signes à partir d’exemples tirés du récit The Lord of the Rings de Tolkien. Ainsi, dans une perspective innovatrice mythologique et philosophique, nous questionnerons la séduction comme image globale. Un des problèmes qui gouverne ce récit est le mal qui est beau et qui assure le dépassement même de la séduction, vers la tentation. Notre enjeu ne consiste pas à identifier cette association ou cette conversion, mais bien à pointer les conditions dans lesquelles s’établit leur jugement (Nietzsche). Premièrement, nous examinerons les moyens de la séduction : un objet &#8211; l’anneau et un symbole du corps &#8211; l’œil. En dépit de leur forme circulaire (emblème de l’unité), ceux-ci ouvrent, à travers la séduction, vers l’éclatement : du symbole (mise ensemble) au diabole (éclatement). Trois exercices différents de séduction, celui de Sméagol/Gollum, de Boromir et de Frodo dévoileront une expérience intime, distincte chaque fois. Deuxièmement, nous analyserons l’importance du passage du mythique au social. La séduction montre que le mal n’est pas projeté hors du monde des humains, ce qui appelle à promouvoir des relations interculturelles. Le mérite du récit de Tolkien est d’évoquer, depuis une position fédératrice d’époques et de cultures que la fin de la séduction n’existe pas. Dans notre cas, un ancien modèle de séduction perdure dans son association avec le mal et le beau.</p>
 
-
 ----
 
 abstract_en: <p>Because of its destiny, seduction is associated with evil. It controls the symbolic universe, including literature (Baudrillard). To better understand the impact of seduction on our consciences, we will examine its signs from examples issued from the story The Lord of the Rings by Tolkien. Through an innovative mythological and philosophical approach, we question the seduction as a global image. One of the problems that govern this story is that evil is beautiful. This aspect ensures the passage of the seduction toward temptation. Our challenge is not to identify this association or conversion, but rather to point the conditions set for their trials (Nietzsche). First, we will examine the mediums of seduction : an object, the ring, and a body symbol, the eye. Despite their circular shape (emblem of unity), they lead through seduction to fracture : from symbol (the moment of union) to diabol (split). Three different exercises of seduction, the one of Sméagol/Gollum, of Boromir and the other of Frodo, reveal an unlikely intimate experience. Secondly, we will analyze the importance of the passage from mythical to social. Seduction shows that evil is not projected outside the human world, which calls for promoting intercultural relations. The value of Tolkien’s story is significant. Placed within a federation of eras and cultures, it emphasises the fact that the End of seduction never occurs. Furthermore one can say that an ancient model of seduction persists through its association with evil and beauty.</p>
-
 
 ----
 
@@ -78,13 +76,10 @@ text: <blockquote>
 <h3>***</h3>
 <p>Pour Mathilde Branthomme, la séduction est communication, au séducteur ne s’oppose pas le séduit, mais l’ermite (Branthomme 2007). Pour moi, (sous un autre angle), la séduction est une sorte de « <em>spatium</em> intensif » (Deleuze 1967b) [5], une profondeur qui préexiste à toute qualité, comme à toute extension. Ce que nous saisissons, c’est sa force (du côté du séducteur ou du séduit) comme vecteur qui va de la mise ensemble, de l’unité et du symbole vers l’éclatement, le fragment et le diabole. Ce que nous ignorons, c’est son étendue (Deleuze 1956c : 296) [6]. Ce que nous ressentons, c’est le fait que la séduction va « au-delà du bien et du mal » pour se ranger du côté du nécessaire (Cuvillier 1956 : 156) [7]. Frodo Baggins, porteur d’un anneau qui n’est pas anneau de pouvoir mais anneau de séduction, manque à son devoir de le détruire, de le jeter dans le volcan de la Montagne du Destin. Peut-être, mais jeter l’Anneau unique dans ce volcan aurait signifié de renoncer à la séduction !</p>
 
-
 ----
 
 references: 
 - 
-
-
 
 <ul>
  	<li>BAUDRILLARD, Jean, « L’Objet comme attracteur étrange », dans <em>La transparence du mal. Essai sur les phénomènes extrêmes,</em> Paris, Galilée, 1990.</li>
@@ -105,49 +100,21 @@ references:
  	<li>VIRILIO, Paul, <em>Esthétique de la disparition,</em> Paris Galilée (Espace critique), 1989.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Bien que ma démarche ne s’inscrive pas dans une perspective qui valorise l’intentionnalité de l’auteur, je trouve important de mentionner le fait que, dans une des lettres adressées par Tolkien à l’éditeur Milton Waldman des éditions Collins, il explique que Sauron est un séducteur. Voir « Lettre à Milton Waldman » (Tolkien 2005 : 224).
 
-
-
-
 [2] Avant le temps du <em>Seigneur des Anneaux,</em> dans la mythologie tolkienienne, Arda, la Terre, devient sphérique. C’est dans cet espace défini pas la circularité que l’on crée l’anneau (circulaire lui aussi).
-
-
-
 
 [3] S’y trouvent aussi d’autres victimes, les Cavaliers Noirs (autrefois des rois humains qui aspirèrent tous à l’Anneau du pouvoir et qui payèrent pour leur cupidité, car destinés à errer dans cet espace sans limites et repères pour servir le Seigneur des Anneaux, leur âme ne se reposa jamais).
 
-
-
-
 [4] Pour échapper à la colère de Boromir, à ses attaques physiques, Frodo glisse l’anneau au doigt et disparaît.
-
-
-
 
 [5] Comme tout <em>spatium,</em> il se définit par une étendue et une profondeur.
 
-
-
-
 [6] « Que l’étendue sorte des profondeurs, cela n’est pas possible que si la profondeur est définissable indépendamment de l’étendue », ce qui n’est pas notre cas tant que nous identifions les forces de la séduction. Voir Deleuze, Gilles. <em>Différence et répétition.</em> Paris, P.U.F. (Épiméthée), 1968, p. 296.
 
-
-
-
 [7] Or, le nécessaire ne précède-t-il pas la qualité ?
-
-
-
-
-
-
 
 ----
 

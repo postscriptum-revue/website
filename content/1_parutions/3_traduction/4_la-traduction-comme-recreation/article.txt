@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La traduction essaie de révéler le langage pur, tâche impossible, mais qui reste, en dépit de son impossibilité, l’essence même de l’acte de traduire. Cette vision de la traduction fait sortir celle-ci du cercle vicieux du questionnement linguistique : quel est le meilleur type de traduction ? La traduction qui reste fidèle à l’original au détriment du naturel de la langue d’arrivée ou, au contraire, celle qui s’adapte librement à celle-ci ? Ni l’une ni l’autre, mais la traduction qui saisit le mieux la relation entre les deux langues, celle qui est la plus attentive aux deux manières de dire le monde. Si le traducteur est un passeur, sa fonction est peut-être de rester entre les deux langues, en assurant le passage d’une langue à l’autre, et non, comme le veut l’opinion commune, d’être chez soi dans la langue d’arrivée.</p>
 
-
 ----
 
 abstract_en: <p>Translation tries to reveal pure language, an impossible task, but one that nonetheless remains its very essence. This view of translation allows it the practice to escape the vicious circle of linguistic questioning : what is the best type of translation ? That which remains faithful to the original to the detriment of the naturalness of the target language, or that which freely adapts itself to the target language ? Neither one nor the other is ideal ; rather the type of translation that best grasps the relation between the two languages, that which is most attentive to the two ways of expressing the world. If the translator is a ferryman, his task is perhaps to remain between the two linguistic shores, by ensuring the passage from one language to another, and not, as conventional wisdom would have it, by being at home in the target language.</p>
-
 
 ----
 
@@ -65,8 +63,6 @@ In what language am <em>I,</em> suis-<em>je,</em> bin <em>ich,</em> when I am in
 <p>Cette fable est donc, en fin de compte, une fable sur l’écriture ou sur « la langue ». C’est, à ma connaissance, la seule narration construite autour d’un mythe chrétien qui associe la langue de l’écriture à un <em>fragment</em> d’un corps inaccessible. C’est, essentiellement, la même vision du langage que celle décrite par Benjamin à partir du mythe juif du vase cassé où le corps inaccessible est « <em>die reine Sprache</em> », qui ne veut pas dire « langage poétique », mais bien « langage sacré ».</p>
 <p>Le langage est révélation, dit Benjamin à la fin de « La Tâche du traducteur », et je ne connais pas de récit qui illustre mieux cette idée que la fable de Merwin. Chaque fois que le langage inaugure un commencement, surgissant comme pour la première fois dans une création poétique, il y a contact avec les sources du langage et ébranlement devant l’impossibilité de saisir ces sources. Ce contact ou cet ébranlement peut avoir lieu aussi bien dans le cas du créateur de l’original que dans celui du traducteur. Si celui qui entre en contact avec le langage accepte non pas de s’en emparer comme d’un instrument factice, mais, comme dans la fable de Merwin, de franchir un espace où le miracle est « par moments » possible, il peut y avoir révélation du langage.</p>
 
-
-
 ----
 
 references: 
@@ -82,36 +78,17 @@ references:
  	<li>___, <em>Real Presences,</em> Londres et Boston, Faber and Faber, 1991 [1989].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Il y a sans doute des poètes qui ont écrit des essais <em>sur</em> l’acte d’écrire, mais ce sont des essais essentiellement <em>poétiques,</em> et non pas « théoriques ». Autrement dit : le poète n’emploie pas deux types de langage, l’un pour écrire une œuvre « poétique » et un autre, « théorique », pour expliquer cette œuvre. De plus, le discours autoréférentiel est plus commun à la tradition littéraire française et beaucoup moins courant dans d’autres traditions littéraires, la tradition anglo-saxonne par exemple.
 
-
-
-
 [2] Les citations de ce texte sont tirées de la traduction faite par Maurice de Gandillac dans Benjamin 2000.
-
-
-
 
 [3] La manière dont on a traduit cette phrase peut, à elle seule, faire l’objet d’une étude (Paul de Man en parle, d’ailleurs). Là où l’original dit <em>Intentio,</em> M. de Gandillac traduit « chose […] visée » ou « manière de viser » ou « mode de visée ». La traduction anglaise dit « <em>intention</em> » et, dans d’autres contextes, « <em>mode of intention</em> ».
 
-
-
-
 [4] La tâche du poète ou de <em>l</em>’<em>écrivain par excellence</em> est définie par Maurice Blanchot d’une manière presque identique à celle assignée par Benjamin au traducteur.
 
-
-
-
 [5] Il est intéressant, de nouveau, de comparer les traductions. La traduction anglaise dit « <em>glued together</em> » et « <em>match one another</em> ». Cependant, de Man attire notre attention sur ce que l’original dit littéralement : [fragments] « articulés ensemble » et « se suivre l’un l’autre » (de Man : 32).
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Publiés aux Éditions du Seuil, La Montée des eaux (2003), Le Ciel pour mémoire (2006) et Les Derniers Feux (2008) constituent un triptyque romanesque rédigé par Thomas B. Reverdy [1], qui pour son entrée en littérature livre beaucoup de lui-même en animant un personnage narrateur homonyme. Ces fictions contemplatives font corps autour d’un même sujet : la disparition d’un être cher, précisément, la mère, dont la persistance thématique marque l’impossible travail de deuil. Dans une facture classique privilégiant les attaches autobiographiques et les références intertextuelles, Reverdy déploie son œuvre naissante en forme de complainte qui sera présentée ici selon trois axes : la mise en scène de la figure de la mère ; le questionnement identitaire inhérent au processus de deuil ; le rôle de l’écriture littéraire dans la gestion des blessures affectives.</p>
 
-
 ----
 
 abstract_en: <p>Published by Editions du Seuil, La Montée des eaux (2003), Le Ciel pour mémoire (2006) and Les Derniers Feux (2008) is a triptych of novels written by Thomas B. Reverdy, who for his literary debut gives much of himself up in animating a character narrator namesake. These contemplative works of fiction embody a single topic : the disappearance of a loved one, specifically, the mother. The trilogy already signals the continuing theme of the impossible work of mourning. The work of Reverdy will be presented here in three areas : the staging of the figure of the mother ; the questioning of identity inherent in the process of mourning ; the role of literary writing in the management of emotional wounds.</p>
-
 
 ----
 
@@ -48,7 +46,6 @@ text: <h3>Au nom de la mère</h3>
 <p>Le tressé du « Je » et du « Il » dans <em>La Montée des eaux</em> même s’il est rompu par la suite, les deux romans suivants étant pris en charge par un unique « Je », souligne le caractère indécidable de la vérité d’une vie. Il permet également à Thomas de temporiser le passage à l’écriture autobiographique : lacunes, doutes, incertitudes l’empêchent d’agir. Le narrateur se heurte maintes fois au passé, à ses silences et à ses manques de précision, et il doit au quotidien surmonter les défaillances de sa propre mémoire qui tendent à faire de lui, le témoin, un traître. Dans <em>Le Ciel pour mémoire</em>, le narrateur a dépassé ses inhibitions : les blessures du deuil demeurent en lui éternelles, mais elles peuvent être exprimées. Du reste, la reconquête du passé amorce une appréhension singulière et distancée de l’écriture qui active chez l’écrivain débutant un phénomène de réciprocité : « Que nous pouvions être chacun la tombe des autres, en quelque sorte » (Reverdy 2006 : 208). Thomas, qui ressent une dette morale envers Guillaume, le réceptacle de ses souvenirs d’enfance, estime que le moment est venu de lui prouver à son tour cette fidélité à toute épreuve. Ce sera un moyen pour lui de combattre le sentiment de trahison lancinant qu’il ressent. « Je pense qu’il voulait que je continue à faire vivre ses souvenirs d’une manière ou d’une autre, ces bouts de mémoire […] comme si je me les rappelais pour lui, ou à sa place, ou pour être sûr que ça s’était vraiment passé » (Reverdy 2006 : 24-25). L’écrit testimonial, assumé dans son caractère fictionnel et lacunaire, servira de lien symbolique entre les disparus et le survivant. Grâce à l’écriture voulue autobiographique, la vie psychique reprend son cours et s’invente des liens nouveaux qui remobilisent l’énergie vitale du narrateur. Thomas est cependant certain de ne pas retracer exactement l’existence de Guillaume, tissée à la sienne, sans faire œuvre de création – « peut-être même que rien n’arriverait, ce serait bien » – mais il fera à coup sûr de son ami le protagoniste de son œuvre : « Je le retrouverais, même absent, sur la plage de Coney Island, dans les ruines de Rome ou dans les églises, j’apprendrais peut-être à prier, qui sait, je le ferais revivre un peu, dans les sourires de Julien ou les paysages que je traverserais avec son ombre » (Reverdy 2006 : 209). C’est par conséquent en tant qu’écrivain, et non autobiographe, qu’il assume d’annoncer à ses amis qu’il a commencé de relire son vécu pour lui conférer un sens, combler les manques et les oublis, afin d’être à nouveau, autant que faire se peut, maître de son destin. Dans <em>Les Derniers Feux</em>, Thomas procède à ce détournement fictif de sa biographie qui rattache ses écrits au genre fictionnel. « Ma mère qui danse et son petit garçon, c’est en moi que je les ai ensevelis. En moi qu’ils dorment, qu’ils pleurent. En moi qu’ils meurent, chaque jour. Qu’ils s’effacent à mesure que je les raconte » (Reverdy 2008 : 120). Une autodéfinition du romanesque de Reverdy se dessine alors : les trois récits miment l’ordre cyclique de la nature qui de la disparition d’un élément en fait naître un autre. « Je suis de la lignée de la mort qui a fini mon éducation […] mon passé s’arrête aujourd’hui » (Reverdy 2008 : 133-134). Les échos et similitudes thématiques laissent finalement entrevoir un phénomène d’autoréférentialité car les fictions s’interrogent sur leur propre création en tant qu’œuvres. Pour que la mort ne l’emporte pas sur les mots, le narrateur déclare : « Mes souvenirs, j’en étais maître, je n’avais qu’à les écrire […] mes fantômes disparaîtraient » (Reverdy 2008 : 144). Le processus créatif dépeint par le triptyque s’origine dans les douleurs et les violences d’un « Je » et n’existe qu’à travers la fictionnalisation d’une expérience, que le lecteur devine être aussi celle de Thomas Reverdy. S’éclaire, de fait, la tentation autofictionnelle de l’auteur qui, sous couvert d’un « Je » narratif défini comme strictement romanesque, explique comment il est devenu écrivain, autrement dit, comment il s’est projeté dans un « Je » (son narrateur Thomas) qui raconte comment il a donné naissance à Thomas le romancier, son double fictionnel.</p>
 <p>Dans <em>La Montée des eaux</em>, <em>Le Ciel pour mémoire</em> et <em>Les Derniers Feux</em>, Reverdy explore donc le thème du deuil de l’autre qui contraint à un deuil infini de soi. Cette étape dévastatrice est déclinée ton sur ton dans ces émouvantes fictions sur les morsures de l’absence. Avec sensibilité, l’auteur s’interroge sur le temps et sur la place de chacun dans son histoire personnelle. Son approche de la poétique du deuil et du drame intime, au demeurant fort pudique, questionne, par ailleurs, la pratique autofictionnelle : elle engendre un dialogue entre les textes et une mise en abyme de la création romanesque elle-même. Cette écriture de soi, qui s’avère autant un repli sur l’exception individuelle que sa fictionnalisation, tend à l’universel et dit les pouvoirs d’invention infinis du romanesque actuel.</p>
 
-
 ----
 
 references: 
@@ -68,38 +65,19 @@ references:
  	<li>REVERDY, Thomas B., <em>L’Envers du Monde</em>, Paris, Éditions du Seuil, 2010</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Né en 1975, Thomas Berthet-Reverdy poursuit parallèlement à sa production littéraire une carrière d’enseignant en région parisienne. Il a activement collaboré à la revue de littérature La femelle du requin<em> et a récemment publié un quatrième roman : </em>L’Envers du Monde<em>. Pour plus d’informations, on se réfèrera au site http://www.thomasreverdy.com.</em>
 
 [2] L’ouvrage que Jacques Derrida consacre à ses amis disparus, intitulé <em>Chaque fois unique, la fin du monde</em>, est à cet égard éclairant.
 
-
-
-
 [3] Dans <em>Romances sans paroles</em>, Paul Verlaine écrit : « Il pleure dans mon cœur comme il pleut sur la ville ».
-
-
-
 
 [4] À ce propos, l’on peut citer le <em>Journal de deuil</em> barthésien : « Non, le Temps ne fait rien passer ; il fait passer seulement l’émotivité du deuil » (Barthes 2009 : 111).
 
-
-
-
 [5] « Le deuil n’est que le moment de la confrontation avec la mort, le souvenir, la promesse, l’espoir et, en fin de compte, l’identité » (extrait de notre correspondance personnelle avec Reverdy, février 2009).
 
-
-
-
 [6] On retrouve cet engagement sans fin auprès des amis disparus sous la plume de Derrida (cf. supra note 3).
-
-
-
 
 ----
 

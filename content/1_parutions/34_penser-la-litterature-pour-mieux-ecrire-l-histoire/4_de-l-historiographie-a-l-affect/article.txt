@@ -16,13 +16,11 @@ abstract_fr: <p>La période révolutionnaire française, et plus particulièreme
 
 <p>Mots-clés : esthétique, Pierre Michon, affect, historiographie</p>
 
-
 ----
 
 abstract_en: <p>The French revolutionary period, and more particularly the period described as “The Reign of Terror,” was characterized by a series of internal conflicts which opposed the different factions (Jacobins, Girondins, Montagnards, etc.). The writer Pierre Michon, in his 2009 story <em>Les Onze</em>, chose to revisit this moment in French history through the mediation of a fictional painting representing the members of the Committee of Public Safety. Michon proposes to reveal, through affects, the forces that are hidden at the center of the monuments of this period. Rather than showing how history is the result of the actions of “great men,” namely the sovereigns, Michon makes the opposite wager: giving back to aesthetics a certain sovereignty allowing to bypass the political intentions that led to the commissioning of the painting representing the members of the Committee. Through a series of anamorphosis, in other words, of movements around the image creating alterations, I wish to demonstrate how Michon proposes a conception of historical time which unfolds in a radically wild form, by postulating a series of forces which go back to prehistory, and which are hidden at the very heart of the aesthetic act. Thus, I seek to understand how history, when we move around it, is also able to transform and alter itself, by creating a constellation with other images that haunt our imagination.</p>
 
 <p>Keywords: aesthetics, Pierre Michon, affect, historiography</p>
-
 
 ----
 
@@ -88,7 +86,6 @@ text: <p>Introduction</p>
 <p><a href="#_ftnref4" name="_ftn4">[4]</a> Parlant de Michelet, Michon écrit : « Dans ces douze pages, une page entière et la moitié d’une autre sont consacrées à la commande : à l’occasion, au petit moment extraordinaire que les Grecs appelaient le <em>kairos</em> – c’est-à-dire le moment, Monsieur, où la chance décroche de sa ceinture la petite bourse spéciale, celle qu’on n’attendait plus, et que d’ailleurs on n’attend jamais » (2009, 124).</p>
 <p><a href="#_ftnref5" name="_ftn5">[5]</a> Nous renvoyons ici aux travaux de Georges Didi-Huberman sur la question du visuel. Pour celui-ci, le visuel est le déplacement du visible, son paradoxe en acte qui recherche le dissemblable, la dislocation de ce qu’offre le visible. Au-delà du visible et de l’invisible, la notion de visuel laisse entrevoir une conception des images où celles-ci « ne doivent pas leur efficacité à la seule transmission de savoirs – visibles, lisibles ou invisibles –, […] au contraire leur efficacité joue constamment dans l’entrelacs, voire l’imbroglio de savoirs, transmis et disloqués, de non-savoirs produits et transformés » (Didi-Huberman 2000, 25).</p>
 <p><a href="#_ftnref6" name="_ftn6">[6]</a> Dominique Viart a bien raison de nous rappeler que le <em>kairos</em> implique un art de la chute. C’est pour cette même raison qu’il évoque un fragment de <em>Rhétorique spéculative </em>où Pascal Quignard écrit : « La langue ordinaire dit : “Cette femme, cette chose, cet évènement tombent à pic.” C&rsquo;est ce qui traduirait le mieux le mot de <em>hypsos</em>, bien mieux que le latin <em>sublimis</em>. L’à-pic est le <em>kairos</em>. L’à-pic est ce qui s&rsquo;ouvre sous l’humain comme abîme, comme la falaise tombe à-pic. L&rsquo;humain fuit l’abime. Le <em>logos</em> seul l’y ramène. C’est pourquoi l&rsquo;à-pic est si rare à chaque époque du monde » (Pascal Quignard 1995, 73, cité dans Viart 2015, 121).</p>
-
 
 ----
 

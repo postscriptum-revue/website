@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Mary Wollstonecraft est l’une des pionnières du féminisme égalitaire britannique au XVIIIe siècle. Influencée par les Dissidents, qui étaient en faveur de la sécularisation de l’État et du nivellement des richesses, elle réfute Reflections on the Revolution in France d’Edmund Burke en publiant d’abord sous pseudonyme A Vindication of the Rights of Men. La suite de cet ouvrage, A Vindication of the Rights of Woman, est l’essai qui suscite le questionnement de la présente analyse. Pourquoi les attaques faites au symbole du roi touchent-elles trois institutions patriarcales avec lesquelles les féministes sont toujours en lutte, soit la religion, l’État et le mariage ? Serait-ce que nous n’en avons pas fini avec les rois et avec la dissidence ? Il s’agira donc d’une approche sociocritique de l’œuvre qui invite à l’engagement et qui tiendra compte des réflexions d’historiennes telles que Cott et Blunden, de la politologue Gunther-Canada et de la théologienne Ramshaw.</p>
 
-
 ----
 
 abstract_en: <p>Mary Wollstonecraft was one of the pioneers of 18th century egalitarian feminism who were influenced by the Dissidents, who were in favour of secularisation and the levelling of wealth. She refuted Burke’s Reflections on the Revolution in France in France with her publication A Vindication of the Rights of Men. The sequel to this paper, A Vindication of the Rights of Woman, is the object of this analysis. I study the symbol of king as a complex of metaphors and metonymies. This reading attempts to understand the recurrence of this symbol and its effectiveness in rejecting paternalist discourses or in developing arguments for the rights of women. As such, this is a socio-critique of the work that takes into account historians such as Cott and Blunden, the political scientist Gunther-Canada, and the theologian Ramshaw.</p>
-
 
 ----
 
@@ -60,7 +58,6 @@ I do not mean to allude to all the writers who have written on the subject of fe
 <p>L’essayiste était tout à fait consciente du fait que la reine du foyer allait devenir l’esclave de son domaine et que celui-ci, trop restreint, allait la rendre captive.</p>
 <h3>Conclusion</h3>
 <p>Grâce à sa foi en un Dieu-<em>Logos,</em> Wollstonecraft a pu se détacher des institutions religieuses et concevoir une certaine liberté de conscience pour les femmes. Puis, son opposition à la monarchie britannique lui a permis de revendiquer une représentation du sexe féminin et des classes moyennes. Finalement, l’existence d’une âme chez les femmes a justifié le refus d’obéir aux hommes ou d’accepter des concessions quant à leurs droits civils. Or, la pensée de Wollstonecraft synthétise prodigieusement le premier féminisme et elle résonne toujours dans notre quotidien. Nous constatons aujourd’hui que les femmes et les hommes féministes se sont éloignés des institutions religieuses. Ceux et celles qui proposent des réformes doivent lutter contre le fondamentalisme chrétien. Dans le domaine de la politique, une augmentation du nombre de députées ou de femmes ministres est toujours souhaitable. De plus, les réflexions de Wollstonecraft sur la représentativité et sa lutte contre les hiérarchies sociales du Royaume de Grande-Bretagne peuvent nous amener à réfléchir sur la légitimité de certaines institutions. Je pense notamment au Sénat. Par ailleurs, plusieurs féministes occidentales craignent une reproduction de sphères exclusives dans les milieux de travail, ce qui ne favoriserait pas l’égalité salariale. Les conservatismes actuels (reflétés par les réseaux de prostitution, l’importation de danseuses nues, les manifestations en faveur de l’abstinence avant le mariage et les pressions exercées sur le Québec pour un éventuel Conseil de la Charia) nous invitent, je crois, à la dissidence…</p>
-
 
 ----
 

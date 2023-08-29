@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’Esquisse d’un hymne à Marthe Beauvoisin se révèle une pièce-clé pour la compréhension de la séduction, de l’érotisme et de l’amour dans l’univers du surréaliste belge Paul Nougé. Deux perspectives d’approche de la séduction par l’auteur sont analysées dans cette étude : celle de la séduction racontée, évoquée dans un exercice de mémoire ; et une autre qui a le lecteur comme cible, touché par le biais du langage. La séduction chez Nougé se fait ainsi par la parole écrite, dans un rapport ambivalent de pouvoir et de manipulation, toujours dans le sens de faire du texte un objet bouleversant, tout d’abord pour le lecteur.</p>
 
-
 ----
 
 abstract_en: <p>The poem Esquisse d’un hymne à Marthe Beauvoisin is a key-piece in the understanding of seduction, eroticism and love in the world of the Belgian surrealist Paul Nougé. In this paper, two perspectives are analyzed : narrated seduction, evoked by an exercise of the memory ; and seduction that targets at the reader by the means of language. Seduction in Nougé’s work is therefore performed by the written word, in an ambivalent relation of power and manipulation, seeking to transform the text into an “objet bouleversant” [disruptive object], first and foremost for the reader.</p>
-
 
 ----
 
@@ -199,7 +197,6 @@ C’était trop long
 Maintenant, c’est fait (192)
 </blockquote>
 
-
 ----
 
 references: 
@@ -231,81 +228,35 @@ references:
  	<li>TORRE GIMÉNEZ, Estrella de la, « Paul Nougé et l’amour », dans Linkhorn, Renée (études rassemblées par), <em>Perspectives sur les lettres belges de langue française,</em> New York, Peter Lang, 1995, p. 89-97.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Jean Baudrillard fait, au contraire, une différence entre désir et séduction (cf. Baudrillard 1979 : 9-11).
 
-
-
-
 [2] Selon le Trésor de la Langue Française, édition en ligne, « Séduire », http://www.cnrtl.fr/ , page consultée le 18/03/2009.
-
-
-
 
 [3] L’<em>Esquisse d</em>’<em>un hymne à Marthe Beauvoisin</em> sera donc analysée dans le cadre d’une œuvre qui met en place des thèmes proches de la séduction (flirt, érotisme et sexualité). Espérons qu’une étude plus approfondie de ce vaste champ d’analyse chez le surréaliste belge puisse bientôt voir le jour.
 
-
-
-
 [4] Je dis « aussi » parce que plusieurs témoignages et documents corroborent l’idée d’un Nougé séducteur, dans ses textes – dont nous nous occupons aujourd’hui –, mais aussi dans sa vie. Smolders raconte que dans son quotidien, Nougé est un homme qui sait « l’art de conquérir les femmes et de les prendre dès qu’elles s’offrent » (Smolders 1995 : 63).
-
-
-
 
 [5] Inspiré des paroles de Baudelaire, <em>Procès de la femme</em> interpelle le lecteur (et la lectrice, surtout de nos jours) avec des commentaires tels que : « Notre dangereux, notre ignoble abaissement devant la femme. Les poètes… / Il s’agit maintenant, en conséquence, d’en dire tout le mal possible, de l’abaisser à tout prix » (Nougé 1969). Sur Paul Nougé et l’amour, <em>cf.</em> Torre Giménez 1995 : 89-97.
 
-
-
-
 [6] Marc Quaghebeur a proposé une fine lecture de ces « paroles de femme sur petit fond d’orchestre » (Quaghebeur 1997 : 125-152).
-
-
-
 
 [7] Dans le Fonds Marcel Mariën, aux Archives et Musée de la Littérature, on peut consulter les six cahiers de l’écolier numérotés déjà cités. Ces cahiers contiennent un long texte manuscrit laissé par Nougé qui approche divers aspects de la sexualité, dont le premier est « L’Appétit sexuel de la femme » (cote : AML FS47 00173). D’autres inédits abordent différents aspects : « En pensant aux cloches des Dominicaines… » (cote provisoire : AML ML07 00108 ; « La nature et les points d’excitation… » (cote : AML FS47 00181/0002-0003) ; « Différences sexuelles corrélatives de la Psychologie humaine » et « L’Appétit sexuel » (cote provisoire : AML ML07 00106).
 
-
-
-
 [8] L’<em>Esquisse</em> a vu le jour par les soins de Marcel Mariën, qui en a fait la première édition en 1970 (<em>cf.</em> Nougé 1970).
-
-
-
 
 [9] Pour connaître d’autres détails, je renvoie à l’ouvrage d’Olivier Smolders (1995 : 73-80).
 
-
-
-
 [10] C’est moi qui souligne.
-
-
-
 
 [11] Pour alléger le texte, toutes les citations extraites de l’<em>Esquisse d</em>’<em>un hymne à Marthe Beauvoisin</em> seront uniquement suivies du numéro de page de la version publiée dans <em>Érotiques</em> (Nougé 1995).
 
-
-
-
 [12] Par ailleurs, le fait de demander de l’aide et d’affirmer l’impossibilité de dire ce qui le « déchire » est une manière d’exprimer, ne fût-ce qu’en partie, le tourbillon de sentiments, de douleurs et d’angoisses qui hantent le poète.
-
-
-
 
 [13] Dans le premier manuscrit, l’ironie continue avec ce commentaire : « Mais quelle belle thèse universitaire en vue » (187).
 
-
-
-
 [14] À propos de la théorie des objets bouleversants, <em>cf.</em> Quaghebeur (1990 : 77-94) et Marques (2007 : 242-243).
-
-
-
 
 ----
 
