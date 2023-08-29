@@ -6,11 +6,9 @@ subtitle:
 
 ----
 
-author: Flora Roussel et Miriam Sbih
-
-----
-
-affiliation: Université de Montréal
+authors: -
+  name: Flora Roussel et Miriam Sbih
+  affiliation: Université de Montréal
 
 ----
 
@@ -22,9 +20,10 @@ abstract_en:
 
 ----
 
-text: 
+text: <p></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio id="audio-0-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a?_=1" /><a href="https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a">https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a</a></audio>
 
-[audio m4a="https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a"][/audio]
 
 ----
 
