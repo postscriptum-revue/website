@@ -77,7 +77,7 @@ references:
 - <ul>
  	<li>AMIOT-JOUENNE, Pascale, <em>Les Métamorphoses de Sweeney dans la littérature irlandaise contemporaine</em>, Caen, Presses universitaires de Caen, 2011</li>
  	<li>BERMAN, Antoine, <em>L’Épreuve de l’étranger</em>, <em>Culture et traduction dans l’Allemagne romantique</em>, Paris, Gallimard, 1984</li>
- 	<li>BERMAN, Antoine, « La retraduction comme espace de la traduction », in <em>Palimpsestes</em> <em>n°4, « Retraduire »,</em> Paris, Presses de la Sorbonne nouvelle, 1990</li>
+ 	<li>BERMAN, Antoine, « La retraduction comme espace de la traduction », in <em>Palimpsestes n°4, « Retraduire »,</em> Paris, Presses de la Sorbonne nouvelle, 1990</li>
  	<li>BERMAN, Antoine, <em>La Traduction et la lettre ou L’Auberge du lointain</em>, Paris, Seuil, 1999</li>
  	<li>CLISSMANN, Anne, <em>Flann O’Brien: A Critical Introduction to his Writings</em>, Dublin, Gill and MacMillan, New York, Barnes and Noble, 1975.</li>
  	<li>COLOUMA, Flore, <em>La Représentation du langage dans l’œuvre de Flann O’Brien </em>[thèse]<em>, </em>Université Paris-Diderot, 2007</li>
@@ -86,7 +86,7 @@ references:
  	<li>DERRIDA, Jacques, Le Monolinguisme de l’autre, Paris, Galilée, 1996</li>
  	<li>GALLAGHER, Monique, <em>Flann O’Brien, Myles na Gopaleen et les autres, Masques et humeurs de Brian O’Nolan, fou-littéraire irlandais, </em>Lille, Presses universitaires du Septentrion, 1998</li>
  	<li>LADMIRAL, Jean-René, <em>Sourcier ou cibliste</em>, Paris, Les Belles Lettres, 2014</li>
- 	<li>MESCHONNIC, Henri, <em>Poétique du</em> <em>traduire</em>, Lagrasse, Verdier, 1999</li>
+ 	<li>MESCHONNIC, Henri, <em>Poétique du traduire</em>, Lagrasse, Verdier, 1999</li>
  	<li>O’KEEFFE, J.G. (ed.), <em>Buile Suibhne (The Frenzy of Suibhne) being the Adventures of Suibhne Geilt : A Middle Irish Romance</em>, préfacé et traduit de l’irlandais par J.G. O’Keeffe, London, Irish Texts Society, 1913</li>
  	<li>O’BRIEN, Flann, <em>Blather, </em>Dublin, janvier 1935</li>
  	<li>O’BRIEN, Flann, <em>At-Swim-Two-Birds</em>, London, Penguin Books, 1939</li>

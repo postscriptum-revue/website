@@ -69,7 +69,7 @@ references:
  	<li>Bibliothèque nationale de France (BnF), fonds français (f. fr.) 6702-6731, Papiers de Pierre Lénet, recueillis pour son histoire du Grand Condé (1649-1658), lettres et traités.</li>
  	<li>FURETIÈRE, Antoine. <em>Dictionnaire universel contenant généralement tous les mots français, tant vieux que modernes et les termes de toutes les sciences et des art</em>s, 3 vols, La Haye, Arnout et Reiner Leers, 1690.</li>
  	<li>JACOB, Paul. <em>Le parfait secrétaire ou la manière d’écrire et de répondre à toute sorte de lettres, par préceptes et par exemples</em>, Paris, Antoine de Sommaville, 1646.</li>
- 	<li>PUGET DE LA SERRE, Jean. <em>Le</em> <em>secrétaire à la mode</em>, Rouen, Robert Dare, 1651.</li>
+ 	<li>PUGET DE LA SERRE, Jean. <em>Le secrétaire à la mode</em>, Rouen, Robert Dare, 1651.</li>
 </ul>
 <h4>Sources secondaires</h4>
 <ul>

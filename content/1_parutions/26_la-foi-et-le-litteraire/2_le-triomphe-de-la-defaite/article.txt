@@ -82,7 +82,7 @@ references:
  	<li>――――. <em>Les Chemins de l’évasion</em>, Paris, Robert Laffont, 1980.</li>
  	<li>――――. <em>La Fin d’une liaison</em>, <em>in </em>Graham Greene, <em>Œuvres choisies</em>, tome 1, Paris, Robert Laffont, 1964 [1951].</li>
  	<li>――――. <em>Le Fond du problème</em>, <em>in </em>Graham Greene, <em>Œuvres choisies</em>, tome 1, Paris, Robert Laffont, 1964 [1948].</li>
- 	<li>――――. <em>La Puissance et la gloire</em> <em>in </em>Graham Greene, <em>Œuvres choisies</em>, tome 1, Paris, Robert Laffont, 1964 [1940].</li>
+ 	<li>――――. <em>La Puissance et la gloire in </em>Graham Greene, <em>Œuvres choisies</em>, tome 1, Paris, Robert Laffont, 1964 [1940].</li>
  	<li>――――. <em>The Lost Childhood and Other Essays</em>, Londres, Eyre &amp; Spottiswoode, 1951.</li>
  	<li>GRIFFITHS, Richard. « Faith and Doubt as Components of Catholic Literature. A talk given at the Conference on Catholic Culture in Schools organised by the Jesuit Institute and Stonyhurst College, 11th – 13th June 2012. », <a href="http://jesuitinstitute.org/Resources/GriffithsTEXT.pdf">http://jesuitinstitute.org/Resources/GriffithsTEXT.pdf</a>.</li>
  	<li>――――. <em>The Pen and the Cross. Catholicism and English Literature 1850-2000</em>, Londres, Continuum, 2010.</li>
@@ -220,7 +220,7 @@ references:
 
 <a href="#_ftnref56" name="_ftn56">[56]</a> Voir la citation complète de Greene : « Le cardinal Newman, dont la lecture m’a beaucoup influencé après ma conversion, niait l’existence d’une littérature “catholique”. Il reconnaissait seulement la possibilité d’une dimension religieuse supérieure à la dimension littéraire, et écrivait que les livres devaient d’abord traiter de ce qu’il appelait dans les termes de l’époque “le destin tragique de l’homme en sa déchéance”. Je suis d’accord avec lui. C’est le “facteur humain” qui m’intéresse, pas l’apologétique ».
 
-<a href="#_ftnref57" name="_ftn57">[57]</a> Pour ne citer que les plus connus de ces romans : <em>La Puissance et la gloire</em> (1940)<em>,</em> <em>Le Fond du problème </em>(1948),<em> La Fin d’une liaison </em>(1951) et <em>Retour à Brideshead</em> (1944).
+<a href="#_ftnref57" name="_ftn57">[57]</a> Pour ne citer que les plus connus de ces romans : <em>La Puissance et la gloire</em> (1940)<em>, Le Fond du problème </em>(1948),<em> La Fin d’une liaison </em>(1951) et <em>Retour à Brideshead</em> (1944).
 
 <a href="#_ftnref58" name="_ftn58">[58]</a> « Its theme – the operation of divine grace on a group of diverse but closely connected characters ».
 
