@@ -1,26 +1,30 @@
-title: Ici, mes rêves sont sous écrous
+Title: Ici, mes rêves sont sous écrous
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Anya Nousri
   affiliation: Autrice
 
 ----
 
-abstract_fr: 
+Abstract-fr: 
 
 ----
 
-abstract_en: 
+Abstract-en: 
 
 ----
 
-text: <blockquote>
+Text:
+
+<blockquote>
 <p style="text-align: right;">« <em>Why does the eldest immigrant daughter always think she is the family manager?</em></p>
 <p style="text-align: right;">Manager? I wish that’s where my role ended. I am also the :</p>
 <p style="text-align: right;">Travel agent // Head of operations // Financial adviser // Gift buyer // Card writer // Event planner // Creative direction // Head of research and development // Logistics manager // Psychologist // Councilor // Tutor // Career coach // Translator // Communication head : Email writing editor, Proof reader // Public relation // Medical assistant // Emergency responder // Babysitter // Driver // Delivery picker // » <a href="#_ftn1" name="_ftnref1">[1]</a></p>
@@ -79,13 +83,15 @@ text: <blockquote>
 
 ----
 
-references: 
+References:
+
 - <a href="#_ftnref1" name="_ftn1">[1]</a> Tiktok @Nikita_fernandes
 <a href="#_ftnref2" name="_ftn1">[2]</a> La fouine, « Petite sœur », <em>La Fouine vs Laouni</em>, 2011.
 
 ----
 
-number: 2
+Number: 2
 
 ----
 
+Uuid: YZPXdmmnwZwJWjrr

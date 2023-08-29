@@ -1,37 +1,56 @@
-title: Errances exophoniques
+Title: Errances exophoniques
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
-  name: Flora Roussel et Miriam Sbih
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"text":"<p><a href=\"https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Universite%CC%81-de-Montre%CC%81al-6.m4a\" rel=\"noreferrer\">https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a</a></p>"},"id":"1c989b4d-8d63-4d7b-b71e-d57df8002b02","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Flora Roussel
+  affiliation: Université de Montréal
+- 
+  name: Miriam Sbih
   affiliation: Université de Montréal
 
 ----
 
-abstract_fr: 
+Keywords: 
 
 ----
 
-abstract_en: 
+Abstract-fr: 
 
 ----
 
-text: 
-<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio id="audio-0-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a?_=1" /><a href="https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a">https://post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a</a></audio>
+Abstract-en: 
 
 ----
 
-references: 
-- 
+References: -
 
 ----
 
-number: 8
+Number: 8
 
 ----
 
+Uuid: xf909zKo0D5i1DHv

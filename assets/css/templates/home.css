@@ -18,7 +18,7 @@
 .last-issue__cover {
 	background-position: center;
 	background-size: cover;
-	height: 42vw;
+	height: 43vw;
 	border: 1px solid gainsboro;
 }
 
@@ -73,7 +73,7 @@
 }
 
 .latest-issues__issue-cover {
-	height: 26vw;
+	height: 27vw;
 	background-position: center;
 	background-size: cover;
 	display: flex;

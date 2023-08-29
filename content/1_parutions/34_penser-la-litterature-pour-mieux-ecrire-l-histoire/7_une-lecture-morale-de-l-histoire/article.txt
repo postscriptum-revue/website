@@ -1,30 +1,38 @@
-title: Une lecture morale de l’histoire 
+Title: Une lecture morale de l’histoire 
 
 ----
 
-subtitle: la crise de l’exemplarité et le problème des <i>exempla</i> chez les premiers moralistes (1580-1647)
+Subtitle: la crise de l’exemplarité et le problème des <i>exempla</i> chez les premiers moralistes (1580-1647)
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Kevin Berger Soucie
-  affiliation: 
+  affiliation:
 
 ----
 
-abstract_fr: <p>De la Renaissance à l’Âge classique, il est souvent question de la crise de l’exemplarité, causée par le bouleversement des cadres intellectuels remis en cause, en France, dès le xvie siècle. Il est possible d’aborder cette crise par la production des premiers moralistes – Montaigne, Jean-Pierre Camus et Marie de Gournay. Les premiers moralistes proposent effectivement une nouvelle modélisation de l’histoire par une interprétation qui se veut personnelle et qui doit aiguiller vers la pratique d’une vie bonne. Nous tenterons de montrer en quoi les premiers moralistes ont un rapport avant tout herméneutique à la matière historique, qui doit systématiquement faire l’objet d’un jugement.</p>
+Abstract-fr:
+
+<p>De la Renaissance à l’Âge classique, il est souvent question de la crise de l’exemplarité, causée par le bouleversement des cadres intellectuels remis en cause, en France, dès le xvie siècle. Il est possible d’aborder cette crise par la production des premiers moralistes – Montaigne, Jean-Pierre Camus et Marie de Gournay. Les premiers moralistes proposent effectivement une nouvelle modélisation de l’histoire par une interprétation qui se veut personnelle et qui doit aiguiller vers la pratique d’une vie bonne. Nous tenterons de montrer en quoi les premiers moralistes ont un rapport avant tout herméneutique à la matière historique, qui doit systématiquement faire l’objet d’un jugement.</p>
 
 <p>Mots-clés : moraliste, exemplarité, Montaigne, Marie de Gournay, Jean-Pierre Camus</p>
 
 ----
 
-abstract_en: <p>From the Renaissance to the Classical era, researchers often evoke the crisis of exemplarity in rhetorics. It is possible to look at this crisis through the production of the <em>premiers moralistes</em>—Montaigne, Jean-Pierre Camus, Marie de Gournay. The <em>premiers moralistes</em> offer a new modelization of history via a personal interpretation which has to guide the reader to a good ethical life. We will demonstrate in what ways the <em>premiers moralistes</em> have an hermeneutical reading of history and how it is systematically the object of a judgement.</p>
+Abstract-en:
+
+<p>From the Renaissance to the Classical era, researchers often evoke the crisis of exemplarity in rhetorics. It is possible to look at this crisis through the production of the <em>premiers moralistes</em>—Montaigne, Jean-Pierre Camus, Marie de Gournay. The <em>premiers moralistes</em> offer a new modelization of history via a personal interpretation which has to guide the reader to a good ethical life. We will demonstrate in what ways the <em>premiers moralistes</em> have an hermeneutical reading of history and how it is systematically the object of a judgement.</p>
 
 <p>Keywords: moralist, exemplarity, Montaigne, Marie de Gournay, Jean-Pierre Camus</p>
 
 ----
 
-text: <p>Entre l’apogée de la Renaissance et l’éclat de l’Âge classique, la période baroque – essentiellement la première moitié du XVIIe siècle – est « le théâtre d’un bouleversement radical de la configuration intellectuelle de l’univers, [c’est-à-dire que] la plupart des cadres dans lesquels l’homme de la Renaissance vivait se trouvent remis en cause brutalement. » (Clément 1996, 13) Plusieurs événements concourent à cette crise : l’exploration et la conquête des Amériques, les Guerres de religion, une effervescence autour de l’édition et le commentaire de textes antiques, etc.<a href="#_ftn1" name="_ftnref1">[1]</a> Dans <em>Poétique de la crise : poètes baroques et mystiques</em>, Michèle Clément remarque que « toute la période baroque s’explique alors peut-être comme l’expression de la volonté de permanence d’un ordre ancien au sein d’un monde qui change de limites » (<em>Ibid.</em>, 56-57). Cet ordre ancien, c’est un monde aristotélicien et chrétien qui repose sur la dichotomie monde sublunaire-monde céleste, représentation symbolique de la dualité entre Dieu et sa Création<a href="#_ftn2" name="_ftnref2">[2]</a>. C’est aussi un ordre qui « confond physique et métaphysique dans la mesure où une hiérarchie de valeurs s’instaure entre un monde sublunaire imparfait et un monde céleste parfait. » (<em>Ibid.</em>) Michèle Clément pose ce diagnostic avec l’analyse de la production poétique de cette époque, mais il semble tout à fait légitime de faire le même constat à propos d’un autre corpus de textes, celui des moralistes.</p>
+Text:
+
+<p>Entre l’apogée de la Renaissance et l’éclat de l’Âge classique, la période baroque – essentiellement la première moitié du XVIIe siècle – est « le théâtre d’un bouleversement radical de la configuration intellectuelle de l’univers, [c’est-à-dire que] la plupart des cadres dans lesquels l’homme de la Renaissance vivait se trouvent remis en cause brutalement. » (Clément 1996, 13) Plusieurs événements concourent à cette crise : l’exploration et la conquête des Amériques, les Guerres de religion, une effervescence autour de l’édition et le commentaire de textes antiques, etc.<a href="#_ftn1" name="_ftnref1">[1]</a> Dans <em>Poétique de la crise : poètes baroques et mystiques</em>, Michèle Clément remarque que « toute la période baroque s’explique alors peut-être comme l’expression de la volonté de permanence d’un ordre ancien au sein d’un monde qui change de limites » (<em>Ibid.</em>, 56-57). Cet ordre ancien, c’est un monde aristotélicien et chrétien qui repose sur la dichotomie monde sublunaire-monde céleste, représentation symbolique de la dualité entre Dieu et sa Création<a href="#_ftn2" name="_ftnref2">[2]</a>. C’est aussi un ordre qui « confond physique et métaphysique dans la mesure où une hiérarchie de valeurs s’instaure entre un monde sublunaire imparfait et un monde céleste parfait. » (<em>Ibid.</em>) Michèle Clément pose ce diagnostic avec l’analyse de la production poétique de cette époque, mais il semble tout à fait légitime de faire le même constat à propos d’un autre corpus de textes, celui des moralistes.</p>
 
 <p>Il suffit de regarder le premier, Montaigne, pour en émettre l’hypothèse. Dès la première édition des <em>Essais</em> (1580), Montaigne fait effectivement un usage particulier de l’<em>exemplum</em> dans l’économie discursive de son texte. Pour lui, l’exemplarité d’une figure <em>x</em> ne réside jamais dans les qualités qui lui seraient intrinsèques, dont l’imitation serait recommandable. Plutôt, le premier moraliste démontre que le choix et la mise en perspective d’un exemple est un signe de notre faculté imaginative à percevoir et à formuler des exemples, que l’<em>exemplum</em>, dans son contenu, peut être bon ou mauvais, à admirer ou à condamner, mais que cela dépend toujours de ce qu’on en fait : c’est ce qui importe davantage (Lyons 1989, 118-119). Il ne faut pas rendre à César ce qui appartient à César; il faut seulement constater que ce que nous rendons à César dépend du regard que nous portons sur lui.</p>
 
@@ -77,7 +85,8 @@ text: <p>Entre l’apogée de la Renaissance et l’éclat de l’Âge classique
 
 ----
 
-references: 
+References:
+
 - Aristote. <em>Poétique</em>. Paris : Livre de Poche, coll. « Les Classiques de Poche », 1990.
 
 Aristote. <em>Rhétorique</em>. Paris : Garnier-Flammarion, 2007.
@@ -130,7 +139,8 @@ Zanin, Enrica. « Les commentaires modernes de la <em>Poétique</em> d’Aristo
 
 ----
 
-number: 7
+Number: 7
 
 ----
 
+Uuid: 9DhnJAgNCpdbVvhA

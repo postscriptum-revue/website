@@ -1,28 +1,34 @@
-title: Penser au loin
+Title: Penser au loin
 
 ----
 
-subtitle: L’errance chamanique
+Subtitle: L’errance chamanique
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Clara Melniczuk Dupont 
   affiliation: Université Paris 8
 
 ----
 
-abstract_fr: <p>Depuis plusieurs années, le collectif d’art et recherche NOMASMETAFORAS, composé d’artistes et de chercheur.es, est en conversation avec les communautés indigènes Misak, Yanakuna, Nasa, Kokonuko dans le département du Cauca en Colombie à travers l’organisation de l’Université Autonome Indigène Interculturelle du conseil régional indigène du Cauca (UAIIN-CRIC.) Le collectif a réalisé plusieurs projets en collaboration avec l’Université Autonome Interculturelle indigène dans l’intention de tisser une pratique « créolisante » entre philosophie décoloniale, art contemporain, pensée et médecine traditionnelle autochtone. Dans le cadre de ces dialogues et rencontres avec les chamans du département du Cauca, le collectif s’interroge sur la place de la pensée autochtone d’<em>Abya Yala<a href="#_ftn1" name="_ftnref1">[1]</a></em> dans les débats actuels sur la décolonisation, la relation à l’altérité et au vivant.</p>
+Abstract-fr:
+
+<p>Depuis plusieurs années, le collectif d’art et recherche NOMASMETAFORAS, composé d’artistes et de chercheur.es, est en conversation avec les communautés indigènes Misak, Yanakuna, Nasa, Kokonuko dans le département du Cauca en Colombie à travers l’organisation de l’Université Autonome Indigène Interculturelle du conseil régional indigène du Cauca (UAIIN-CRIC.) Le collectif a réalisé plusieurs projets en collaboration avec l’Université Autonome Interculturelle indigène dans l’intention de tisser une pratique « créolisante » entre philosophie décoloniale, art contemporain, pensée et médecine traditionnelle autochtone. Dans le cadre de ces dialogues et rencontres avec les chamans du département du Cauca, le collectif s’interroge sur la place de la pensée autochtone d’<em>Abya Yala<a href="#_ftn1" name="_ftnref1">[1]</a></em> dans les débats actuels sur la décolonisation, la relation à l’altérité et au vivant.</p>
 <p><u>Mots-clés : </u>Chamanisme/Décolonisation/Plurivers/Performance</p>
 <p><a href="#_ftnref1" name="_ftn1">[1]</a> <em>Abya Yala</em> veut dire « Terre de vie », « terre de pleine maturité », « terre de sang ».Les organisations indigènes latino-américaines ont ainsi renommé le continent « Amérique », lors du cinquième anniversaire de la « Découverte », par un terme Kuna.</p>
 
 ----
 
-abstract_en: <p>For a few years, the art and research collective NOMASMETAFORAS composed of artists and researchers is in conversation with the Misak, Yanakuna, Nasa, Kokonuko indigenous communities in department of Cauca in Colombia through the organization of the Autonomous Intercultural Indigenous University of the indigenous regional council of Cauca. The collective has been working on several projects within the context of the Autonomous Intercultural Indigenous University in order to knit a creolizing practice between decolonial philosophy, contemporary art, ancestral thought and traditional Amerindian medicine. In the context of its dialogues and encounters with the shamans of the department of Cauca, the collective reflects on the place of Indigenous thought within the current debates on decolonization, relationship to the living and otherness.</p>
+Abstract-en: <p>For a few years, the art and research collective NOMASMETAFORAS composed of artists and researchers is in conversation with the Misak, Yanakuna, Nasa, Kokonuko indigenous communities in department of Cauca in Colombia through the organization of the Autonomous Intercultural Indigenous University of the indigenous regional council of Cauca. The collective has been working on several projects within the context of the Autonomous Intercultural Indigenous University in order to knit a creolizing practice between decolonial philosophy, contemporary art, ancestral thought and traditional Amerindian medicine. In the context of its dialogues and encounters with the shamans of the department of Cauca, the collective reflects on the place of Indigenous thought within the current debates on decolonization, relationship to the living and otherness.</p>
 
 ----
 
-text: <p><u>Introduction</u></p>
+Text:
+
+<p><u>Introduction</u></p>
 <p>Luis Aureliano Yunda est un médecin traditionnel de la communauté Nasa, un chaman comme nous les appelons maladroitement en Occident. Il soigne régulièrement des malades qui viennent à lui pour toutes sortes d’affections d’ordre physique, mentale et spirituelle. Pour ce faire, Luis pratique des rituels de guérison qu’il appelle des harmonisations à travers l’usage de la <em>hoja sagrada</em> (la feuille sacrée de coca). Au cours des mois passés à vivre à proximité de la communauté Nasa, il est arrivé que le chaman invite le collectif NOMASMETAFORAS à l’accompagner dans un processus d’harmonisation. Le rituel se déroule en silence dans une nuit noire, loin de toutes perturbations lumineuses. La nuit évolue comme un voyage nocturne et contemplatif, et, après plusieurs heures à mastiquer la feuille de coca, certaines douleurs physiques se font sentir chez les participants, telles que des nausées et des sueurs. Le chaman ne s’en inquiète pas, au contraire il explique que c’est la maladie qui cherche à sortir; c’est bon signe. Au cours de la nuit, Luis se lève régulièrement pour faire reculer les nuages et chasser les lucioles ainsi que d’autres signes des déséquilibres des personnes présentes au rituel. Il fume un gros cigare, car il travaille avec la feuille de coca (la plante reine) et le tabac en même temps afin de préserver l’équilibre féminin-masculin. Pour se donner une idée de l’évolution du rituel, Luis regarde la forme que prend l’embout de son cigare après plusieurs bouffées. Après six heures à mastiquer la feuille de la coca sans interruption, vers trois heures du matin, Luis fait signe que l’harmonisation est terminée, il ne dit presque rien et part se coucher.</p>
 
 <p><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/02/chamannasa-300x283.png" alt="" srcset="http://localhost:8000/wp-content/uploads/2022/02/chamannasa-300x283.png 300w, http://localhost:8000/wp-content/uploads/2022/02/chamannasa.png 513w" sizes="(max-width: 300px) 100vw, 300px" /></p>
@@ -76,7 +82,8 @@ text: <p><u>Introduction</u></p>
 
 ----
 
-references: 
+References:
+
 - Albert, Bruce, Kopenawa, Davi. <em>La chute du ciel. Paroles d’un chaman Yanomami</em>. Paris : Pocket, 2014.
 
 Viveiros de Castro, Eduardo. <em>Métaphysiques Canni</em><em>bales</em><em>. Lignes d’anthropologie post-structurale.</em> Paris : Presses Universitaires de France, 2009.
@@ -143,7 +150,8 @@ Notes
 
 ----
 
-number: 6
+Number: 6
 
 ----
 
+Uuid: Y3IwOSmHAb4t1Kke

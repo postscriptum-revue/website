@@ -1,26 +1,30 @@
-title: La alegría ya viene
+Title: La alegría ya viene
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Justina Uribe
   affiliation: Autrice, Université de Montréal
 
 ----
 
-abstract_fr: 
+Abstract-fr: 
 
 ----
 
-abstract_en: 
+Abstract-en: 
 
 ----
 
-text: <p><em>No quiero<br />
+Text:
+
+<p><em>No quiero<br />
 Que mis muertos descansen en paz<br />
 Tienen la obligación<br />
 De estar presentes<br />
@@ -53,12 +57,12 @@ En cualquier hemisferio<br />
 
 ----
 
-references: 
-- 
+References: -
 
 ----
 
-number: 0
+Number: 0
 
 ----
 
+Uuid: kEZmzR0sYauwWKT3

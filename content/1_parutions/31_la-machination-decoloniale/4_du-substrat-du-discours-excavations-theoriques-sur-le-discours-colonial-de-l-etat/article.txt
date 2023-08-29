@@ -1,26 +1,30 @@
-title: Du substrat du discours, excavations théoriques sur le discours colonial de l’État
+Title: Du substrat du discours, excavations théoriques sur le discours colonial de l’État
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Guillaume G. Poirier
   affiliation: Université d’Ottawa
 
 ----
 
-abstract_fr: <p>À partir d’une problématisation de la méthode de Michel Foucault, cet article propose un ajustement théorique afin de l’adapter à une analyse du discours colonial de l’État moderne. Dans un premier temps, l’article prend en compte les différences entre parole et écriture au sein du discours, différences que Foucault considère inessentielles. Cela ouvre une compréhension plus fine du rapport colonial qu’entretient le discours aux peuples qu’il dépeint comme sans écriture. L’article tente de penser ensuite le rapport d’intrication entre le discours et son propre support. Dans cette intrication, on découvre un système de valorisation réflexif qui opère sur la base du crédit attribué au support du discours, en l’occurrence, l’écriture. Ce système de valorisation est pensé sous la forme d’un concept nouveau, à savoir la <em>machine discursive. </em>Pour illustrer ce rapport de l’écrit à l’oral dans le discours colonial de l’État, des exemples sont tirés chez quelques théoriciens modernes de la souveraineté. L’article offre enfin une analyse théorique du chiasme qui lie l’écriture à la parole afin d&rsquo;ouvrir des pistes de réflexion sur les modalités par lesquelles le discours colonial écrit se rapporte à la parole.</p>
+Abstract-fr: <p>À partir d’une problématisation de la méthode de Michel Foucault, cet article propose un ajustement théorique afin de l’adapter à une analyse du discours colonial de l’État moderne. Dans un premier temps, l’article prend en compte les différences entre parole et écriture au sein du discours, différences que Foucault considère inessentielles. Cela ouvre une compréhension plus fine du rapport colonial qu’entretient le discours aux peuples qu’il dépeint comme sans écriture. L’article tente de penser ensuite le rapport d’intrication entre le discours et son propre support. Dans cette intrication, on découvre un système de valorisation réflexif qui opère sur la base du crédit attribué au support du discours, en l’occurrence, l’écriture. Ce système de valorisation est pensé sous la forme d’un concept nouveau, à savoir la <em>machine discursive. </em>Pour illustrer ce rapport de l’écrit à l’oral dans le discours colonial de l’État, des exemples sont tirés chez quelques théoriciens modernes de la souveraineté. L’article offre enfin une analyse théorique du chiasme qui lie l’écriture à la parole afin d&rsquo;ouvrir des pistes de réflexion sur les modalités par lesquelles le discours colonial écrit se rapporte à la parole.</p>
 
 ----
 
-abstract_en: <p>This article offers a theoretical inquiry on Michel Foucault’s methodology in order to first adjust and then apply it to an analysis of the colonial discourse of the modern state. The first goal is to take into account the differences between speech and writing in the discourse, a methodological principle that Foucault considered as inessential. Against Foucault, this article claims that this distinction is key to understanding the colonial relationship between discourse and the people it has colonized and depicted as “people lacking writing”. As a second step, the article attempts to think the intricate relationship between the discourse and its material support. The materiality in play here is working as a system of symbolic valorization that gives power to the discourse in proportion to the credit we give to its own support. In the case of the discourse this article is studying, the material support is the written text of the discourse, or better, writing itself. This system of valorization is conceptualized as a <em>discursive machine</em> and clarified through various examples taken from theorists of the modern state. Finally, the article tries to grasp this interrelation through a new concept: the chiasm between writing and speech. Through this concept we can understand what relationship the colonial discourse of the state has to the power of speech.</p>
+Abstract-en: <p>This article offers a theoretical inquiry on Michel Foucault’s methodology in order to first adjust and then apply it to an analysis of the colonial discourse of the modern state. The first goal is to take into account the differences between speech and writing in the discourse, a methodological principle that Foucault considered as inessential. Against Foucault, this article claims that this distinction is key to understanding the colonial relationship between discourse and the people it has colonized and depicted as “people lacking writing”. As a second step, the article attempts to think the intricate relationship between the discourse and its material support. The materiality in play here is working as a system of symbolic valorization that gives power to the discourse in proportion to the credit we give to its own support. In the case of the discourse this article is studying, the material support is the written text of the discourse, or better, writing itself. This system of valorization is conceptualized as a <em>discursive machine</em> and clarified through various examples taken from theorists of the modern state. Finally, the article tries to grasp this interrelation through a new concept: the chiasm between writing and speech. Through this concept we can understand what relationship the colonial discourse of the state has to the power of speech.</p>
 
 ----
 
-text: <p>Introduction</p>
+Text:
+
+<p>Introduction</p>
 <p>Les critiques du discours colonial ont mis au jour le mode stratégique par lequel le récit de l’État moderne constitue ou performe la figure des peuples qu’il colonise. On ne compte plus à cet égard les allusions aux Premiers Peuples « américains » chez les théoriciens modernes de l’État souverain qui effacent et performent des traits à leur guise. Et pourtant, dans la constitution coloniale de ces figures, on peine encore à souligner le rapport oralo-scripturaire qui sous-tend ces discours. Car, il faut bien le reconnaitre, ces récits mettent presque immanquablement en scène une écriture fondatrice et souveraine – celle de l’État, de la théologie ou encore de la science – qui vient envahir de ses lumières la figure « orale » du colonisé. Dans ces discours, c’est donc bien souvent l’écriture alphabétique de l’Europe occidentale qui incarne la raison capable de libérer les peuples colonisés du joug de l’état de nature. Cet article a pour objet de problématiser théoriquement ce rapport oralo-scripturaire que renferme le discours colonial, et plus précisément le discours à la racine de l’État colonial moderne. Pour ce faire, je propose de revoir brièvement la méthode foucaldienne qui fonde en général l’analyse du discours en ce domaine, et ce, en vue de dégager quelles en sont les limites pour examiner ce rapport de l’écrit à l’oral dans le discours moderne de la souveraineté. On verra qu’il est nécessaire de dégager un autre domaine discursif pour arriver à cette fin, plus précisément un autre domaine de performativité qui renvoie moins aux figures ou aux objets que produit le discours, mais bien au crédit que porte le discours à son support. Dans le discours colonial, ce support est en l’occurrence l’écriture alphabétique qui s’oppose à « l’oralité » des Premiers Peuples que l’État souverain prétend pouvoir légitimement coloniser. L’antique rapport entre « vie sauvage » et « vie civile » est donc traversé par un autre rapport qui apparait comme tout autant fondateur de la souveraineté, à savoir celui qui oppose l’économie scripturaire occidentale aux formes de vie non-scripturaires ou orales. Pour arriver à intégrer ce rapport dans l’analyse du discours colonial, je propose deux nouveaux concepts. Le premier est celui de machine discursive qui renvoie aux rouages réflexifs de valorisation entre un discours et son substrat ou son support. Le second est celui de chiasme de l’écrit et de l’oral qui, à partir des travaux de Maurice Merleau-Ponty et de Dalie Giroux, a pour fonction de penser l’intrication indépassable entre l’écriture et la parole. On pourra voir en quoi cette ébauche théorique peut porter fruit au moyen d’exemples chez quelques théoriciens de l’État moderne, notamment chez Hobbes, Locke et Montesquieu. Bien entendu, il ne s’agit pas, avec ces exemples, de tracer l’étendue du corpus qu’impliquerait l’analyse du discours colonial de l’État souverain. Une telle délimitation et sa justification dépasseraient largement le cadre de cet article. Le choix de certains passages chez ces auteurs a pour fonction d’illustrer la nécessité méthodologique d’ajuster l’analyse du discours colonial en prenant au sérieux la question du rapport oralo-scripturaire.</p>
 <p>Le discours politique théorico-pratique</p>
 <p>Considérons d’abord la notion de discours dans le champ général du politique. Si l’on souhaite se pencher sur la question du développement de l’État colonial moderne, on peut constater que la notion de discours renvoie habituellement à deux types d’approches analytiques jugées distinctes, mais qui sont en réalité intimement liées. En effet, sous un premier angle, on fait face aux « pratiques » politiques telles qu’elles s’exercent au sein des institutions de la modernité. Ces pratiques mobilisent toutes à leur manière un certain rapport entre l’écrit et l’oral que l’on peut aborder par les questions suivantes : sous quelle forme discursive s’exercent les différents pouvoirs au sein de l’État? À quel moment a-t-on recours à l’écriture pour maintenir l’autorité? Selon quelles circonstances la parole suffit-elle à obtenir obéissance? Par quels codes, par quels énoncés (écrits, dits, lus, prononcés) reproduit-on l’institution du pouvoir souverain? Selon quel schéma le discours de la souveraineté circule-t-il entre les pôles de l’écriture et de la parole en vue de se fonder, s’exercer et se maintenir? Ce sont tout autant de questions qui cherchent à cartographier les flux, les dénivellations et les points de pivot du pouvoir étatique tel qu’il met en acte certaines « pratiques » verbales écrites ou orales.</p>
@@ -67,7 +71,8 @@ text: <p>Introduction</p>
 
 ----
 
-references: 
+References:
+
 - Armitage, David. « John Locke, Carolina, and the Two Treatises of Government », <em>Political Theory</em> 32, no. 5 (octobre 2004) : 602-27.
 
 Austin, J. L. <em>How to do Things with Words</em>. Oxford : Clarendon Press, 1962 [1955].
@@ -142,7 +147,8 @@ Notes
 
 ----
 
-number: 4
+Number: 4
 
 ----
 
+Uuid: WzuNpPvJ42gymBPg

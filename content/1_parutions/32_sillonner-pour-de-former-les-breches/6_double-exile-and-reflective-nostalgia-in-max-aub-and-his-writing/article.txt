@@ -1,28 +1,36 @@
-title: Double Exile and Reflective Nostalgia in Max Aub and his Writing
+Title: Double Exile and Reflective Nostalgia in Max Aub and his Writing
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Lena Hein
   affiliation: Freie Universität Berlin
 
 ----
 
-abstract_fr: <p>Le double exil de Max Aub consiste, d’une part, en l’émigration de sa famille de la France vers l’Espagne en 1914 en raison de la Première Guerre mondiale et, d’autre part, en sa migration ultérieure de l’Espagne vers le Mexique en 1939 du fait de la guerre d’Espagne et de la dictature franquiste. Son écriture exophonique, son double exil et son approche esthétique de notions telles que le passé, la nostalgie, le chez-soi et l’appartenance dans ses œuvres font de lui un sujet d’étude intéressant pour la revue <em>Post Scriptum</em> de cette année. En effet, son choix d’écrire en espagnol n’est pas seulement lié à la langue elle-même, mais aussi à son profond engagement idéologique avec la Seconde République espagnole, à laquelle il fait constamment référence dans son travail. Après avoir exposé la constellation de l’exil, du chez-soi et du langage spécifique à Max Aub, cet article propose un commentaire de son texte, <em>La gallina ciega</em>. Dans ce journal où il raconte son retour « chez lui » (une expression qui devrait toujours se trouver entre guillemets dans ce contexte) en Espagne en 1969, il recueille ses impressions, réflexions et moments de nostalgie qui seront analysés à l’aide de concepts empruntés à l’ouvrage théorique de Svetlana Boym, <em>The Future of Nostalgia</em>. L’article se conclut avec une réflexion sur l’écriture de Aub à travers le texte de Derrida, <em>Le monolinguisme de l’autre : ou la prothèse d’origine</em>, qui traite du rapport entre le langage, la citoyenneté, l’existence et l’identité. Cet aperçu de la pensée du philosophe nous permet de mieux comprendre la démarche dialectique par laquelle Aub fait référence au passé dans son œuvre, au moyen d’une réflexivité nostalgique qui permet de penser le présent et le future tout en déconstruisant le caractère naturel de concepts comme le chez-soi, l’appartenance et la citoyenneté.</p>
+Abstract-fr:
+
+<p>Le double exil de Max Aub consiste, d’une part, en l’émigration de sa famille de la France vers l’Espagne en 1914 en raison de la Première Guerre mondiale et, d’autre part, en sa migration ultérieure de l’Espagne vers le Mexique en 1939 du fait de la guerre d’Espagne et de la dictature franquiste. Son écriture exophonique, son double exil et son approche esthétique de notions telles que le passé, la nostalgie, le chez-soi et l’appartenance dans ses œuvres font de lui un sujet d’étude intéressant pour la revue <em>Post Scriptum</em> de cette année. En effet, son choix d’écrire en espagnol n’est pas seulement lié à la langue elle-même, mais aussi à son profond engagement idéologique avec la Seconde République espagnole, à laquelle il fait constamment référence dans son travail. Après avoir exposé la constellation de l’exil, du chez-soi et du langage spécifique à Max Aub, cet article propose un commentaire de son texte, <em>La gallina ciega</em>. Dans ce journal où il raconte son retour « chez lui » (une expression qui devrait toujours se trouver entre guillemets dans ce contexte) en Espagne en 1969, il recueille ses impressions, réflexions et moments de nostalgie qui seront analysés à l’aide de concepts empruntés à l’ouvrage théorique de Svetlana Boym, <em>The Future of Nostalgia</em>. L’article se conclut avec une réflexion sur l’écriture de Aub à travers le texte de Derrida, <em>Le monolinguisme de l’autre : ou la prothèse d’origine</em>, qui traite du rapport entre le langage, la citoyenneté, l’existence et l’identité. Cet aperçu de la pensée du philosophe nous permet de mieux comprendre la démarche dialectique par laquelle Aub fait référence au passé dans son œuvre, au moyen d’une réflexivité nostalgique qui permet de penser le présent et le future tout en déconstruisant le caractère naturel de concepts comme le chez-soi, l’appartenance et la citoyenneté.</p>
 <p>Mots-clés : Max Aub ; exil ; nostalgie ; Seconde République espagnole</p>
 
 ----
 
-abstract_en: <p>Max Aub’s double exile consists, on one hand, in the emigration of his family from France to Spain in 1914 due to the First World War and, on the other hand, in his subsequent emigration from Spain to Mexico in 1939 due to the Spanish Civil War and Francoist dictatorship. His exophonic writing, his double exile and the way he deals in his works aesthetically with aspects like past, nostalgia, home and belonging make him an interesting study subject for <em>Post Scriptum</em>’s journal this year. His choice of Spanish is not only connected to language alone but also to a deep ideological engagement with the <em>Segunda República Española </em>that will be a constant referential element in his writing. After outlining the specific constellation of exile, home and language of Max Aub, the article comments on his text <em>La gallina ciega</em>. In this diary about his visit back ‘home’ – a term that is always to be used in scare quotes in this context – in Spain in 1969 he gathers impressions, reflections and nostalgic moments that will be analysed with concepts of Svetlana Boym’s theoretical work <em>The Future of Nostalgia</em>. The article finishes with a reflection on Aub’s writing together with Derrida’s text <em>Le monolinguisme de l&rsquo;autre: ou la prothèse d&rsquo;origine</em>, treating the connection between language, citizenship, existence and identity. This insight in the philosopher’s thinking allows us to understand better the dialectical way in Aub’s Œuvre to refer to the past in a reflective nostalgic way in order to think about present and future by simultaneously deconstructing the natural character of concepts like home, belonging and citizenship.</p>
+Abstract-en:
+
+<p>Max Aub’s double exile consists, on one hand, in the emigration of his family from France to Spain in 1914 due to the First World War and, on the other hand, in his subsequent emigration from Spain to Mexico in 1939 due to the Spanish Civil War and Francoist dictatorship. His exophonic writing, his double exile and the way he deals in his works aesthetically with aspects like past, nostalgia, home and belonging make him an interesting study subject for <em>Post Scriptum</em>’s journal this year. His choice of Spanish is not only connected to language alone but also to a deep ideological engagement with the <em>Segunda República Española </em>that will be a constant referential element in his writing. After outlining the specific constellation of exile, home and language of Max Aub, the article comments on his text <em>La gallina ciega</em>. In this diary about his visit back ‘home’ – a term that is always to be used in scare quotes in this context – in Spain in 1969 he gathers impressions, reflections and nostalgic moments that will be analysed with concepts of Svetlana Boym’s theoretical work <em>The Future of Nostalgia</em>. The article finishes with a reflection on Aub’s writing together with Derrida’s text <em>Le monolinguisme de l&rsquo;autre: ou la prothèse d&rsquo;origine</em>, treating the connection between language, citizenship, existence and identity. This insight in the philosopher’s thinking allows us to understand better the dialectical way in Aub’s Œuvre to refer to the past in a reflective nostalgic way in order to think about present and future by simultaneously deconstructing the natural character of concepts like home, belonging and citizenship.</p>
 <p>Keywords: Max Aub; exile; Nostalgia; Second Spanish Republic</p>
 
 ----
 
-text: <ol>
+Text:
+
+<ol>
 <li> Max Aub: Historical Context</li>
 </ol>
 <p>What does this double exile mean for the exophonic writer Max Aub who is born in Paris in 1903? It consists, on one hand, in the emigration of his family from France to Spain in 1914 at age 11 due to the First World War. On the other hand, it is his subsequent emigration from Spain to Mexico in 1939 due to the Spanish Civil War and Francoist dictatorship. Choosing only to write his works in Spanish, his double exile and the way he deals in his works aesthetically with aspects like past, nostalgia, home and belonging make him an interesting study subject for <em>Post Scriptum</em>’s journal this year. His choice of Spanish is not only connected to language alone but also to a deep ideological – but not strictly political, in the sense of belonging to a party, – engagement with the <em>Segunda República Española</em> (1931 – 1939) which will be a constant referential element in his writing.</p>
@@ -76,7 +84,8 @@ text: <ol>
 
 ----
 
-references: 
+References:
+
 - Aguirre-Otezia, Daniel. <em>This Ghostly Poetry: Reading Spanish Republican Exiles between Literary History and Poetic Memory</em>. Toronto: University of Toronto Press, 2020.
 
 Aub, Max. <em>Diarios (1939-1972)</em>, edited by Manuel Aznar Soler. Barcelona: Alba Editorial, 1998.
@@ -111,7 +120,8 @@ Notes
 
 ----
 
-number: 6
+Number: 6
 
 ----
 
+Uuid: BrvtvwFbuYIintBM

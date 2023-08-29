@@ -1,26 +1,30 @@
-title: Daphné B. 
+Title: Daphné B. 
 
 ----
 
-subtitle: capitalisme, paradoxes et contradictions
+Subtitle: capitalisme, paradoxes et contradictions
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Maude MARCOTTE
   affiliation: University of Toronto
 
 ----
 
-abstract_fr: <p><em data-rich-text-format-boundary="true">Cet entretien, mené par l’équipe de la revue Post-Scriptum, fait partie du nº 33 sur le bonheur. Il officialise du même coup l’ouverture de la revue à la recherche-création, et illustre sa volonté d’initier un dialogue engagé avec les auteur·ices invité·es. Provenant d’une lecture plus lente de leurs textes, les questions qui y sont posées se veulent aussi sérieuses qu’ouvertes à la déambulation oratoire. Nous aimerions remercier chaleureusement Daphné B. de s’être prêtée à l’exercice!</em></p>
+Abstract-fr: <p><em data-rich-text-format-boundary="true">Cet entretien, mené par l’équipe de la revue Post-Scriptum, fait partie du nº 33 sur le bonheur. Il officialise du même coup l’ouverture de la revue à la recherche-création, et illustre sa volonté d’initier un dialogue engagé avec les auteur·ices invité·es. Provenant d’une lecture plus lente de leurs textes, les questions qui y sont posées se veulent aussi sérieuses qu’ouvertes à la déambulation oratoire. Nous aimerions remercier chaleureusement Daphné B. de s’être prêtée à l’exercice!</em></p>
 
 ----
 
-abstract_en: 
+Abstract-en: 
 
 ----
 
-text: <p><!-- wp:paragraph --></p>
+Text:
+
+<p><!-- wp:paragraph --></p>
 <p>Maude Marcotte (M):<em> Avant </em>Maquillée<em>, je te connaissais plutôt pour tes poèmes. Je sais que tu écris aussi des articles, animes maintenant un balado, publies dans des revues, etc. Avec </em>Maquillée<em>, tu as écrit une œuvre assez inclassable, qui se situe entre l’essai personnel et l’article scientifique, même si on est en présence d’un langage poétique. Qu’est-ce qui a motivé ce choix? Serait-ce le sujet du livre ou l’influence de ces autres formes littéraires?</em></p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Daphné B. (D) : Il y a plusieurs raisons. Pour moi, rien ne me « motive », pas même un genre. Je travaille beaucoup avec l’intuition. Même avec mon travail essayistique de recherche, ça se passe <em>in media res</em>. Je n’ai pas de plan quand j’écris. En fait, je ne suis pas friande des genres littéraires, des codifications, des catégories. D’ailleurs, j’ai écrit là-dessus dans <em>Le Devoir </em>et<em> Lettres Québécoises </em>parce que, selon moi, la catégorisation sous-entend une forme de hiérarchie des genres et entrave l’avènement d’une littérature difficile à nommer. Je vise à mélanger les genres et à problématiser cette hiérarchie politique. Ce n’est pas nouveau de mélanger, par exemple, le récit de soi à l’essai et à la poésie. Il y a beaucoup de poètes, dont une que je cite allègrement dans <em>Maquillée</em>, Anne Boyer, qui ont une pratique essayistique semblable. Je vois souvent ce passage de la poésie à l’essai.</p>
@@ -78,12 +82,12 @@ text: <p><!-- wp:paragraph --></p>
 
 ----
 
-references: 
-- B., Daphné. <em>Maquillée</em>. Montréal : Marchand de feuilles, 2020.
+References: - B., Daphné. <em>Maquillée</em>. Montréal : Marchand de feuilles, 2020.
 
 ----
 
-number: 8
+Number: 8
 
 ----
 
+Uuid: c3dpoy6Eq2h8ear0

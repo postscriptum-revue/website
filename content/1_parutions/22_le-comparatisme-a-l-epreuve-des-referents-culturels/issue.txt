@@ -1,16 +1,18 @@
-title: Le comparatisme à l'épreuve des référents culturels
+Title: Le comparatisme à l'épreuve des référents culturels
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-number: 22
+Number: 22
 
 ----
 
-intro_text: <blockquote>
+Intro-text:
+
+<blockquote>
 <p style="margin: 0cm; margin-bottom: .0001pt; text-align: right; background: white;" align="right">À chaque fois que je me suis cherché</p>
 <p style="margin: 0cm; margin-bottom: .0001pt; text-align: right; background: white; font-variant-caps: normal; orphans: auto; widows: auto; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;" align="right">Je n&rsquo;ai trouvé que les autres</p>
 <p style="margin: 0cm; margin-bottom: .0001pt; text-align: right; background: white; font-variant-caps: normal; orphans: auto; widows: auto; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;" align="right">Et à chaque fois que je les ai cherchés</p>
@@ -27,17 +29,20 @@ intro_text: <blockquote>
 
 ----
 
-credits: <ul>
+Credits:
+
+<ul>
  	<li>Texte de présentation du numéro par Dr. Hanen Allouch</li>
 </ul>
 
 ----
 
-date: 2017-03-30 09:00:55
+Date: 2017-03-30 09:00:55
 
 ----
 
-references: 
+References: 
 
 ----
 
+Uuid: G2L1UMGvaR1h75YO

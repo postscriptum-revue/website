@@ -1,28 +1,36 @@
-title: L’ethos romanesque d’Édouard Glissant
+Title: L’ethos romanesque d’Édouard Glissant
 
 ----
 
-subtitle: une stratégie rhétorique anti-prédatrice et un projet sociétal antillais
+Subtitle: une stratégie rhétorique anti-prédatrice et un projet sociétal antillais
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Mohamed Lamine Rhimi 
   affiliation: Université de Tunis, Tunisie, et Université Islamique Al-Imam Muhammad Ibn Saoud, Royaume d’Arabie Saoudite
 
 ----
 
-abstract_fr: <p>Édouard Glissant prend à partie toutes les formes d’uniformisation et s’applique à faire barrage à toute standardisation qui modélise les cultures, auxquelles il propose plutôt une pensée excentrée. C’est justement dans cette perspective que notre investigation rhétorique a repris la question de la stratégie rhétorique anti-prédatrice glissantienne, en la rattachant aux genres oratoires et la traitant à la lueur de leurs visées respectives. L’intentionnalité argumentative se trouve en effet enrichie de l’impulsion judicaire, de l’éloquence épidictique et de la visée délibérative pour pouvoir embrasser le passé, le présent et l’avenir des Antillais. Le romancier-orateur, en cherchant à docere (enseigner) son auditoire, s’emploie souvent à faire preuve de sagesse (phronèsis), de sincérité (arétè) et de sympathie (eunoia). Ce sont là les modalités qui, entre autres, sont mises à contribution par l’écrivain dans l’intention de garantir l’efficacité pragmatique de son logos romanesque, c’est-à-dire de remporter l’adhésion de ses auditeurs qu’il entend persuader par son projet heuristique, culturel et poétique, en somme politique.</p>
+Abstract-fr:
+
+<p>Édouard Glissant prend à partie toutes les formes d’uniformisation et s’applique à faire barrage à toute standardisation qui modélise les cultures, auxquelles il propose plutôt une pensée excentrée. C’est justement dans cette perspective que notre investigation rhétorique a repris la question de la stratégie rhétorique anti-prédatrice glissantienne, en la rattachant aux genres oratoires et la traitant à la lueur de leurs visées respectives. L’intentionnalité argumentative se trouve en effet enrichie de l’impulsion judicaire, de l’éloquence épidictique et de la visée délibérative pour pouvoir embrasser le passé, le présent et l’avenir des Antillais. Le romancier-orateur, en cherchant à docere (enseigner) son auditoire, s’emploie souvent à faire preuve de sagesse (phronèsis), de sincérité (arétè) et de sympathie (eunoia). Ce sont là les modalités qui, entre autres, sont mises à contribution par l’écrivain dans l’intention de garantir l’efficacité pragmatique de son logos romanesque, c’est-à-dire de remporter l’adhésion de ses auditeurs qu’il entend persuader par son projet heuristique, culturel et poétique, en somme politique.</p>
 <p>Mots-clés : Édouard Glissant — ethos romanesque — projet sociétal antillais — romancier-orateur — stratégie rhétorique anti-prédatrice</p>
 
 ----
 
-abstract_en: <p>Edouard Glissant criticizes and prevents all forms of standardization that model cultures, to which he rather proposes an eccentric thought. It is precisely in that context that our rhetorical investigation reexamined the question of Glissant’s anti-predatory rhetorical strategy by relating it to the oratorical genres and by treating it in the light of their respective aims. Indeed, the argumentative intentionality is enriched by the judicial impulse, the epidictic eloquence and the deliberative aim in order to be able to embrace the past, the present ant the future of Caribbean thought and culture. In seeking to<em> teach</em> (<em>docere</em>) his readers, the novelist-orator often employs wisdom (<em>phronèsis</em>), sincerity (<em>arétè</em>) and sympathy (<em>eunoia</em>). These are the modalities which have been used, among others, to guarantee pragmatic efficiency of his novelistic <em>logos</em>. In other terms, the writer tries to gain the widespread adherence of his readers that he intends to convince by his heuristic, cultural, poetic and political project.</p>
+Abstract-en:
+
+<p>Edouard Glissant criticizes and prevents all forms of standardization that model cultures, to which he rather proposes an eccentric thought. It is precisely in that context that our rhetorical investigation reexamined the question of Glissant’s anti-predatory rhetorical strategy by relating it to the oratorical genres and by treating it in the light of their respective aims. Indeed, the argumentative intentionality is enriched by the judicial impulse, the epidictic eloquence and the deliberative aim in order to be able to embrace the past, the present ant the future of Caribbean thought and culture. In seeking to<em> teach</em> (<em>docere</em>) his readers, the novelist-orator often employs wisdom (<em>phronèsis</em>), sincerity (<em>arétè</em>) and sympathy (<em>eunoia</em>). These are the modalities which have been used, among others, to guarantee pragmatic efficiency of his novelistic <em>logos</em>. In other terms, the writer tries to gain the widespread adherence of his readers that he intends to convince by his heuristic, cultural, poetic and political project.</p>
 <p>Key words : anti-predatory rhetorical strategy – Caribbean societal project – Edouard Glissant – novelist-orator – romantic <em>ethos</em> </p>
 
 ----
 
-text: <p>Introduction </p>
+Text:
+
+<p>Introduction </p>
 <p>Réfractaire à tout nombrilisme culturel et résistant à toute systématique monolithique, Édouard Glissant place résolument ses romans sous le signe d’une « contre-rhétorique » (Glissant 2010, 24), soutenant une « anti-poétique » (Glissant 1997, 210) qui rend essentiellement compte de l’historicité de la communauté antillaise, sans pour autant basculer dans la haine ou l’exclusivisme. En effet, Glissant opère une rupture épistémologique au cœur de la pensée géoculturelle contemporaine, en ceci qu’il propose une nouvelle approche critique reposant sur une nouvelle géopoétique qu’est la <em>poétique de la Relation</em>. Il faut remarquer ici que la réalisation de cette <em>poétique de la Relation</em> se ferait à l’abri de la négation de l’autre. Une telle <em>poétique</em>, qui constitue l’un des invariants de la phénoménologie de Glissant s’emploie à garantir la dignité humaine et s’inscrit en faux contre toutes formes de domination. Partant, il prend à partie les «<em> rhétoriques traditionnelles </em>», car elles « <em>continuent d’être unilingues et unilatérales</em> […] ne conçoivent pas les diffractions de nos temps ni les écarts ni les vertigineuses attractions de toutes langues données » (Glissant 1997a, 112).</p>
 <p>Dans cet ordre d’idée, le romancier martiniquais adopte une stratégie de résistance à la prédation coloniale, en mettant à contribution l’impulsion judiciaire, laquelle lui permet de dresser un réquisitoire complet aussi bien contre les colonialistes que contre leur sale besogne. S’agissant de ce procès qu’il engage contre les forces hégémoniques, il représente, à coup sûr, l’un des maîtres mots de la rhétorique sous-jacente à son œuvre romanesque. En cela, Glissant se place dans la lignée Césaire-Fanon, dans la mesure où Aimé Césaire se dresse contre la systématisation colonialiste, comme il le confirme dans <em>Discours sur la Négritude</em> : « […] la Négritude a été une forme de révolte d’abord contre le système mondial de la culture […] la Négritude a été une révolte contre ce que j’appellerai le réductionnisme européen » (Césaire 2004, 84). Frantz Fanon, pour sa part, lance un pamphlet incendiaire contre les colonialistes et leurs systèmes réificateurs. C’est ce dont il se revendique dans <em>Pour la rév</em><em>olution africaine </em>: « Les Antillais de la Martinique et de la Guadeloupe, “département d’outre-mer”, subissent depuis des siècles la politique d’assimilation chère à la France, tendant à les dépouiller systématiquement de leur personnalité » (Fanon 2006, 101). Autant dire que, dans le but de garantir l’efficacité et la réussite de son discours, Glissant s’efforce, d’emblée, de réécrire l’Histoire antillaise. Celle-ci fut caractérisée par le masquage et le voilement des vérités traumatisantes qui concernent la « digenèse » (Glissant 2018, 57) des Nègres antillais. Si les cultures ataviques cultivent la genèse, les mythes sacrés et la noblesse de leur filiation pour légitimer leur existence ainsi que l’expansion territoriale à laquelle elles se livrent en ayant recours à la force et à la violence, Glissant propose ce terme de <em>digenèse </em>pour rendre compte du surgissement historique des sociétés et des cultures composites, surgissement qui s’opère souvent à la suite de fortes commotions civilisationnelles.</p>
 <p>Il procède, pour réussir ce palimpseste, à la transcription de l’historicité du surgissement de la communauté insulaire, c’est-à-dire au retraçage de sa véritable Histoire. Il est sans doute ici question d’un plaidoyer <em>pro domo</em>, plaidoyer en faveur de la cause antillaise, plaidoirie pour défendre l’antillanité. Et Glissant de confirmer dans <em>Le Discours antillais</em> que « [l’] une des conséquences les plus terrifiantes de la colonisation sera bien cette conception univoque de l’Histoire, et donc du pouvoir, que l’Occident a imposé aux peuples » (159). </p>
@@ -109,7 +117,8 @@ text: <p>Introduction </p>
 
 ----
 
-references: 
+References:
+
 - Aquien, Michèle. &amp; Molinié, Georges.<em> Dictionnaire de rhétorique et de poétique</em>. Paris : La Pochotèque, Le Livre de Poche, Librairie Générale Française, 1996.
 
 Barthes, Roland.<em> L’aventure sémiologique</em>. Paris : Seuil, 1985.
@@ -188,7 +197,8 @@ Notes 
 
 ----
 
-number: 3
+Number: 3
 
 ----
 
+Uuid: 3dFqHjT3YpWQnqHB

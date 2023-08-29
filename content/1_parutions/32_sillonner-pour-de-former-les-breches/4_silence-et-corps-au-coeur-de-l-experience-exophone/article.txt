@@ -1,26 +1,30 @@
-title: Silence et corps au cœur de l’expérience exophone
+Title: Silence et corps au cœur de l’expérience exophone
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Anna Bourges-Celaries
   affiliation: Université de Montréal et Université de Strasbourg
 
 ----
 
-abstract_fr: <p>À travers l’analyse d’œuvres de deux auteurs exophones, Aharon Appelfeld et François Cheng, cet article traite de la notion de silence représenté par la figure de l’enfant. Le silence, et plus particulièrement celui de l’enfance, trouve une place particulière dans la littérature exophone puisqu’il permet d’accéder à un espace linguistique qui donne la possibilité à l’auteur·e de revisiter son passé tout en affirmant sa double identité. Notre approche s’appuie sur la nature de la relation entre corps et langage qui est un élément essentiel à la compréhension de la pratique exophonique. En effet, l’identité se construit à travers ce qu’un individu perçoit du monde qui l’entoure, comme en fonction de son environnement et de son rapport aux autres. Le corps de l’auteur·e exophone se fait réceptacle du silence qu’iel peut alors dépasser grâce à la langue d’adoption.</p>
+Abstract-fr: <p>À travers l’analyse d’œuvres de deux auteurs exophones, Aharon Appelfeld et François Cheng, cet article traite de la notion de silence représenté par la figure de l’enfant. Le silence, et plus particulièrement celui de l’enfance, trouve une place particulière dans la littérature exophone puisqu’il permet d’accéder à un espace linguistique qui donne la possibilité à l’auteur·e de revisiter son passé tout en affirmant sa double identité. Notre approche s’appuie sur la nature de la relation entre corps et langage qui est un élément essentiel à la compréhension de la pratique exophonique. En effet, l’identité se construit à travers ce qu’un individu perçoit du monde qui l’entoure, comme en fonction de son environnement et de son rapport aux autres. Le corps de l’auteur·e exophone se fait réceptacle du silence qu’iel peut alors dépasser grâce à la langue d’adoption.</p>
 
 ----
 
-abstract_en: <p>By analyzing the works of two exophone writers, Aharon Appelfeld and François Cheng, I discuss the notion of silence through the authors’ use of the figure of the child. Silence, especially the silence experienced during childhood, plays an important role in exophonic literature as it enables exophonic writers to reach a creative space where they can experience anew the past, while stating their double identity. My approach highlights the importance of the relationship between body and language in the study of exophonic literature: the authors’ identity is built through their perceptions of the world around them, and also through their interactions with their environment and other people. Their use of a new language bridges the chasm of silence embodied in images of their childhood.</p>
+Abstract-en: <p>By analyzing the works of two exophone writers, Aharon Appelfeld and François Cheng, I discuss the notion of silence through the authors’ use of the figure of the child. Silence, especially the silence experienced during childhood, plays an important role in exophonic literature as it enables exophonic writers to reach a creative space where they can experience anew the past, while stating their double identity. My approach highlights the importance of the relationship between body and language in the study of exophonic literature: the authors’ identity is built through their perceptions of the world around them, and also through their interactions with their environment and other people. Their use of a new language bridges the chasm of silence embodied in images of their childhood.</p>
 
 ----
 
-text: <p>Introduction</p>
+Text:
+
+<p>Introduction</p>
 <p>Nous proposons dans cet article de nous intéresser à la relation au corps et au silence dans l’écriture exophone des auteurs François Cheng (1929), écrivain chinois de langue d’expression française, et Aharon Appelfeld (1932-2018) dont la langue maternelle était l’allemand mais qui écrivait en hébreu, en particulier à travers la figure de l’enfant comme représentation de ce que nous appelons l’« entre ». Entre les langues, entre les époques, entre différents états. Pour appuyer notre analyse, nous allons notamment nous intéresser à la psychologie qui s’appuie sur deux aspects pour appréhender la conception humaine du corps. Il y a tout d’abord ce que nous ressentons par le biais de nos organes de perception (ouïe, vue, odorat, etc.), ainsi que la proprioception, dimension relative à la vision que nous avons de notre propre corps dans l’espace. Ces deux formes d’interaction sont les fondations de notre relation personnelle avec notre corps, aussi bien que de la vision que nous en avons. Dès 48 mois, l’enfant commence à construire ce que l’on pourrait appeler une « image sociale » de lui-même (Riva 2018), c’est-à-dire l’intégration du concept de son propre corps objectivé selon les normes sociales relatives au corps de façon générale. D’après Giuseppe Riva, « […] culture has a central role in shaping our bodily experience as we construct and revise our own experience of the body through a variety of social inputs » (<em>Ibid</em>., 247). Puisque la langue fait partie intégrante de la culture, une influence mutuelle et réciproque existe donc entre les expériences marquantes vécues et le langage.</p>
 <p>Dans certaines situations, la survie nécessite d’apprendre une nouvelle langue. Ce fut le cas d’Aharon Appelfeld, dont le roman <em>Mon père et ma mère </em>(2020) dont la narration relate le dernier été que l’auteur passa avec ses parents, l’été qui précéda la Seconde Guerre mondiale. Le silence tient un rôle important dans cet ouvrage puisque tout est décrit du point de vue d’un enfant d’une dizaine d’années qui observe son environnement. Ce silence de l’enfance est par ailleurs une composante importante dans la littérature exophone. La pratique exophonique pourrait alors être l’écho de ce silence, qui devient un espace de dialogue entre les langues. François Cheng dans son essai <em>Le Dialogue</em> (2002) théorise l’impact de sa pratique du français quant à son expression personnelle poétique qu’il pense être profondément chinoise et française à la fois. À l’instar d’Appelfeld, Cheng a vécu l’exil de son pays et de sa sphère linguistique familière, et dû faire face à une forme de silence, en particulier lors de son arrivée en France. La figure de l’enfant trouve également place parmi les images auxquelles recourt François Cheng pour décrire sa situation langagière. L’enfant, qui plus est celui que nous étions, est un objet de fantasmes et de rêveries, en raison du fait que l’humain voit ses souvenirs se déformer; il est en réalité très difficile, voire impossible, de réellement savoir ce que recèle notre passé. Mais si la figure de l’enfant fascine, c’est sans doute aussi pour la richesse qu’elle offre. Cet article se concentre principalement sur le phénomène de resubjectivation de la figure de l’enfant et du phénomène de croissance par l’usage de la pratique exophonique qui joue alors le rôle de médium de navigation de l’« entre ». En revisitant ainsi l’enfant que nous avons été, nous pouvons faire (bon) usage du silence : le silence des mots, le silence de l’apprentissage, le silence imposé (par les adultes, la société, une situation, etc.). (Ré)écrire l’enfant est une possibilité de (re)création que l’exophonie rend d’autant plus tangible grâce à l’utilisation d’une nouvelle langue. Dans un premier temps, nous aborderons la notion de dialogue que le silence de l’enfant permet d’explorer, pour, dans un deuxième temps, discuter de l’utilisation de métaphores corporelles qui marquent l’intégration de ce silence à l’œuvre et à la vie des auteur·e·s exophones.</p>
 <p>Dialogue avec le passé</p>
@@ -56,7 +60,8 @@ text: <p>Introduction</p>
 
 ----
 
-references: 
+References:
+
 - Appelfeld, Aharon. <em>Mon père et ma mère. </em>Traduit par Valérie Zenatti. Paris : Éditons de l’Olivier, 2020.
 
 Ausoni, Alain. <em>Mémoires d’outre-langue. L’écriture translingue de soi</em>. Genève : Slatkine Érudition, 2018.
@@ -107,7 +112,8 @@ Notes
 
 ----
 
-number: 4
+Number: 4
 
 ----
 
+Uuid: RY3Hi5DFPDiaHP0q

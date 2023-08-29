@@ -1,16 +1,18 @@
-title: All my relations
+Title: All my relations
 
 ----
 
-subtitle: Littératures et épistémologies autochtones comparées
+Subtitle: Littératures et épistémologies autochtones comparées
 
 ----
 
-number: 27
+Number: 27
 
 ----
 
-intro_text: <blockquote><p>“All my relations” is the English equivalent of a phrase familiar to most Native peoples of North America. It may begin or end a prayer or speech or a story, and, while each tribe has its own way of expressing this sentiment in its own language, the meaning is the same. “All my relations” is at first a reminder of who we are and of our relationship with both our family and our relatives. It also reminds us of the extended relationship we share with all human beings. But the relationships that Native people see go further, the web of kinship to animals, to the birds, to the fish, to the plants, to all the animate and inanimate forms that can be seen or imagined. More than that, “all my relations” is an encouragement for us to accept the responsibilities we have within the universal family by living our lives in a harmonious and moral manner (a common admonishment is to say of someone that they act as if they had no relations).</p>
+Intro-text:
+
+<blockquote><p>“All my relations” is the English equivalent of a phrase familiar to most Native peoples of North America. It may begin or end a prayer or speech or a story, and, while each tribe has its own way of expressing this sentiment in its own language, the meaning is the same. “All my relations” is at first a reminder of who we are and of our relationship with both our family and our relatives. It also reminds us of the extended relationship we share with all human beings. But the relationships that Native people see go further, the web of kinship to animals, to the birds, to the fish, to the plants, to all the animate and inanimate forms that can be seen or imagined. More than that, “all my relations” is an encouragement for us to accept the responsibilities we have within the universal family by living our lives in a harmonious and moral manner (a common admonishment is to say of someone that they act as if they had no relations).</p>
 <p>— Thomas King, <em>All My Relations</em></p></blockquote>
 <p>Plus qu’une expression, une philosophie tout entière se tient dans les mots « <em>All my relations </em>». L’écrivain Cherokee Thomas King souligne de quelle manière l’expression renvoie à l’ensemble des relations qu’entretiennent les Premières Nations, les Métis et les Inuits au sein de leur territoire. Relations avec des êtres humains, mais également avec le monde naturel : les animaux, les pierres, les plantes, etc. Putting forward this fundamental relational space, an interconnection at the center of Indigenous ways of thinking about the world, Cherokee author Daniel Heath Justice proposes, in his article « Go Away Water » (Justice, 2008), the concept of <em>kinship</em>. As a process, he says, <em>kinship</em> can become a critical tool through which we can better study and understand what is at stake in contemporary Indigenous literatures (<em>Ibid</em>.: 148), and therefore can emerge as a “renewed way of understanding the ethical relationship between the critic and indigenous literatures” (<em>Ibid</em>.: 149). Le concept de <em>kinship</em>, tel qu’il est élaboré et mis en pratique par Justice en lien avec la critique littéraire elle-même, ne peut donc pas se traduire en français par celui de <em>parenté</em>, dans la mesure où l’auteur donne au concept un sens précis: “Kinship, like Fire, is about life and living; it’s not about something that <em>is</em> in itself so much as something <em>we do</em> – actively, thoughtfully, respectfully” (<em>Ibid</em>.: 148; l’auteur souligne).</p>
 <p>Ainsi, cette manière de mettre de l’avant, à l’intérieur de la critique et de la théorie littéraires, l’ensemble des relations et des processus relationnels, apparaît être une porte d’entrée absolument féconde à partir de laquelle réfléchir aux littératures et aux épistémologies autochtones dans une perspective comparatiste. Et c’est précisément le désir d’une rencontre entre les méthodologies des études littéraires autochtones et de la littérature comparée, entre la relation et la comparaison, qui est à l’origine de ce numéro de <em>Post-Scriptum</em>. Both the concept of <em>kinship</em> and the expression « <em>All my relations </em>» invite us to think <em>in relation</em> rather than <em>in comparison</em>. That implies reflecting upon Indigenous texts that stage those relationships, and, at the same time, engaging in a relation through literary criticism. Et peut-être même la notion de <em>kinship</em> est-elle, par excellence, un lieu à partir duquel « démontrer les articulations entre les études autochtones et la littérature comparée » (Simpson et Smith, 2014 : VII, ma traduction), voire repenser les termes de la littérature comparée dans une perspective de décolonisation et, ce faisant, à réviser la discipline depuis les épistémologies autochtones plutôt que l’inverse. De plus, si l’on réfléchit avec la notion de <em>kinship</em> qui permet de penser les relations au cœur du littéraire, c’est ce dernier, le littéraire justement, qui vient se placer au centre des études autochtones pour véritablement envisager des études <em>littéraires</em> autochtones à l’intérieur desquelles les littératures ne seraient pas un objet d’étude, mais bien une lentille à partir de laquelle étudier. In that perspective, maybe <em>kinship</em> has even a part to play in the renewal of what is comparative literature as a discipline today, and maybe comparative literature, through the way the discipline engages with languages, can contribute to the study of Indigenous literatures.</p>
@@ -21,18 +23,21 @@ intro_text: <blockquote><p>“All my relations” is the English equivalent of a
 
 ----
 
-credits: <ul>
+Credits:
+
+<ul>
  	<li>Illustration : <em>Eclipse</em>, © Eruoma Awashish.</li>
  	<li>Texte de présentation par Marie-Eve Bradette (Université de Montréal)</li>
 </ul>
 
 ----
 
-date: 2019-12-12 14:00:28
+Date: 2019-12-12 14:00:28
 
 ----
 
-references: 
+References: 
 
 ----
 
+Uuid: RlHhtbFf64f4xTN9

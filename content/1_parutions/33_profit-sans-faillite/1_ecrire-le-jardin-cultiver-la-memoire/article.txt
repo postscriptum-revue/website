@@ -1,18 +1,22 @@
-title: Écrire le jardin, cultiver la mémoire 
+Title: Écrire le jardin, cultiver la mémoire 
 
 ----
 
-subtitle: narration rabat-joie et critique du récit hégémonique du bonheur dans See Now Then de Jamaica Kincaid
+Subtitle: narration rabat-joie et critique du récit hégémonique du bonheur dans See Now Then de Jamaica Kincaid
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Audrey Deveault
   affiliation: Goldsmiths, University of London
 
 ----
 
-abstract_fr: <p>Reconnue pour sa prose acerbe et parfois même colérique, l’autrice antiguaise-américaine Jamaica Kincaid pourrait être décrite comme une rabat-joie, affirmant elle-même : « I feel it’s my duty to make everyone a little less happy » (Berlin Snell 1997). En d’autres termes, le rôle de l’écrivain·e serait de susciter l’inconfort chez les lecteur·trices, de révéler les vérités désagréables que l’on tente d’ignorer. Pour Kincaid, ce projet vise avant tout à remettre en question l’histoire canonique de la colonisation des Antilles ainsi que les relations de pouvoir, plus particulièrement entre hommes et femmes.</p>
+Abstract-fr:
+
+<p>Reconnue pour sa prose acerbe et parfois même colérique, l’autrice antiguaise-américaine Jamaica Kincaid pourrait être décrite comme une rabat-joie, affirmant elle-même : « I feel it’s my duty to make everyone a little less happy » (Berlin Snell 1997). En d’autres termes, le rôle de l’écrivain·e serait de susciter l’inconfort chez les lecteur·trices, de révéler les vérités désagréables que l’on tente d’ignorer. Pour Kincaid, ce projet vise avant tout à remettre en question l’histoire canonique de la colonisation des Antilles ainsi que les relations de pouvoir, plus particulièrement entre hommes et femmes.</p>
 
 <p>Dans le cadre de cet article, je postule que la notion de bonheur, l’idée d’une « bonne vie », se construit à partir du point de vue dominant et qu’il faut donc la considérer non pas comme une chose en soi, mais en tant que produit d’une narration. Ainsi, à la lumière des écrits de Sara Ahmed et des théories du <em>Black feminism</em>, je développe le concept de récit hégémonique du bonheur. Par le biais de l’analyse du roman <em>See Now Then</em> (2013), je montre que la narratrice kincaidienne, en adoptant une posture rabat-joie, tant dans le fond que dans la forme, offre une critique et une riposte à ce récit. La figure de la <em>melancholic migrant</em> théorisée par Ahmed me permettra de lire cette posture face aux discours dominants. À travers son refus d’oublier le passé trouble d’Antigua, des États-Unis et, plus largement, de l’histoire de la colonisation, cette figure rejette d’emblée l’idée dominante du bonheur. Enfin, le lien tissé par l’autrice entre les pratiques d’écriture et de jardinage, où la seconde sert de métaphore à la première, me permettra de développer la portée esthétique de l’attitude rabat-joie de la narratrice. Tant l’écriture que le jardinage sont, chez Kincaid, marqués par la répétition, la reprise, l’insatisfaction et l’échec.</p>
 
@@ -20,7 +24,9 @@ abstract_fr: <p>Reconnue pour sa prose acerbe et parfois même colérique, l’a
 
 ----
 
-abstract_en: <p>Known for her acerbic and sometimes angry prose, the Antiguan American author Jamaica Kincaid could be described as a killjoy, stating, “I feel it&rsquo;s my duty to make everyone a little less happy” (Berlin Snell 1997). In other words, the role of the writer would be to make readers feel uncomfortable, to reveal the unpleasant truths that we try to ignore. For Kincaid, this project is primarily about questioning the canonical history of West Indian colonization and power relations, particularly between men and women.</p>
+Abstract-en:
+
+<p>Known for her acerbic and sometimes angry prose, the Antiguan American author Jamaica Kincaid could be described as a killjoy, stating, “I feel it&rsquo;s my duty to make everyone a little less happy” (Berlin Snell 1997). In other words, the role of the writer would be to make readers feel uncomfortable, to reveal the unpleasant truths that we try to ignore. For Kincaid, this project is primarily about questioning the canonical history of West Indian colonization and power relations, particularly between men and women.</p>
 
 <p>In this paper, I posit that the notion of happiness, the idea of a “good life”, is constructed from the dominant point of view, and thus must be considered not as a thing in itself, but as the product of a narrative. Thus, in light of Sara Ahmed’s writings and theories of Black feminism, I develop the concept of a hegemonic narrative of happiness. Through an analysis of the novel <em>See Now Then</em> (2013), I show that the Kincaidian narrator, by adopting a killjoy posture in both content and form, offers a critique and rebuttle to this narrative. The figure of the melancholic migrant theorized by Ahmed will allow me to read this posture in the face of dominant discourses. Through her refusal to forget the troubled past of Antigua, the United States and, more broadly, the history of colonization, this figure rejects from the outset the dominant idea of happiness. Finally, the connection the author makes between writing and gardening as artistic endeavours, where the latter serves as a metaphor for the former, will allow me to develop the aesthetic significance of the narrator’s killjoy attitude. Both writing and gardening in Kincaid’s work are marked by repetition, revision, dissatisfaction, and failure.</p>
 
@@ -28,7 +34,9 @@ abstract_en: <p>Known for her acerbic and sometimes angry prose, the Antiguan Am
 
 ----
 
-text: <p>L’idée de bonheur, c’est-à-dire tant la recherche de son essence que la manière de l’atteindre, occupe depuis longtemps la philosophie. D’une part, pour des philosophes tels que Socrate et Platon, « happiness is the life of virtue » (Bellioti 2003, 5) et repose sur la quête de la raison et de la sagesse. D’autre part, des penseurs modernes, comme les utilitaristes (i.e. John Stuart Mill et Jeremy Bentham), ont fait de cette injonction morale un devoir collectif en cherchant à maximiser le bonheur et le plaisir pour le plus grand nombre d’individus. Mais ce que ces deux conceptions ont en commun, c’est qu’en elles perdure l’association entre le bonheur et la notion de « bonne vie » (<em>the good life</em>). Ce rapprochement confère au bonheur une forte dimension morale et le transforme en impératif, voire en devoir. Pour le dire avec Sara Ahmed, « [i]f we have a duty to promote what causes happiness, then happiness itself becomes a duty » (2010, 7). Je postule que la notion de bonheur n’est pas neutre, mais construite par, à travers et pour le point de vue dominant. L’idée d’une « bonne vie » n’est donc pas un fait naturel et objectif, mais le produit d’une narration. C’est pour rendre compte de ce processus que je développe le concept de récit hégémonique du bonheur. Les écrits de Sara Ahmed me servent de base théorique pour l’analyse du roman <em>See Now Then</em> (2013). Ce roman, construit autour d’une narration acerbe et rabat-joie, rejette cette notion hégémonique du bonheur. Dans le cadre de cet article, j’interroge la manière dont Kincaid construit, tant dans le fond que dans la forme, un contrepoint à cette idée pernicieuse. Comment la narratrice kincaidienne vient-elle offrir un regard oppositionnel au point de vue dominant? L’écriture et le jardinage, en tant que pratiques artistiques et créatrices, peuvent-elles servir de pratiques de résistance? De quelles manières peuvent-elles révéler des moments de malheur dissimulé, et même mettre en péril l’idée de bonheur?</p>
+Text:
+
+<p>L’idée de bonheur, c’est-à-dire tant la recherche de son essence que la manière de l’atteindre, occupe depuis longtemps la philosophie. D’une part, pour des philosophes tels que Socrate et Platon, « happiness is the life of virtue » (Bellioti 2003, 5) et repose sur la quête de la raison et de la sagesse. D’autre part, des penseurs modernes, comme les utilitaristes (i.e. John Stuart Mill et Jeremy Bentham), ont fait de cette injonction morale un devoir collectif en cherchant à maximiser le bonheur et le plaisir pour le plus grand nombre d’individus. Mais ce que ces deux conceptions ont en commun, c’est qu’en elles perdure l’association entre le bonheur et la notion de « bonne vie » (<em>the good life</em>). Ce rapprochement confère au bonheur une forte dimension morale et le transforme en impératif, voire en devoir. Pour le dire avec Sara Ahmed, « [i]f we have a duty to promote what causes happiness, then happiness itself becomes a duty » (2010, 7). Je postule que la notion de bonheur n’est pas neutre, mais construite par, à travers et pour le point de vue dominant. L’idée d’une « bonne vie » n’est donc pas un fait naturel et objectif, mais le produit d’une narration. C’est pour rendre compte de ce processus que je développe le concept de récit hégémonique du bonheur. Les écrits de Sara Ahmed me servent de base théorique pour l’analyse du roman <em>See Now Then</em> (2013). Ce roman, construit autour d’une narration acerbe et rabat-joie, rejette cette notion hégémonique du bonheur. Dans le cadre de cet article, j’interroge la manière dont Kincaid construit, tant dans le fond que dans la forme, un contrepoint à cette idée pernicieuse. Comment la narratrice kincaidienne vient-elle offrir un regard oppositionnel au point de vue dominant? L’écriture et le jardinage, en tant que pratiques artistiques et créatrices, peuvent-elles servir de pratiques de résistance? De quelles manières peuvent-elles révéler des moments de malheur dissimulé, et même mettre en péril l’idée de bonheur?</p>
 
 <p>Dans les contextes étasuniens et antillais à partir desquels Jamaica Kincaid écrit, l’histoire de la colonisation fait en sorte que l’élite qui s’est constituée s’est d’abord et avant tout définie par le biais de la race. En d’autres termes, autant par les mécanismes de la conquête et de l’extermination des peuples autochtones que par ceux de l’esclavage et de la traite négrière, la classe dominante s’est constituée comme blanche. Cela implique, d’une part, que le bonheur et ce qui constitue une bonne vie ont été conçus par et pour les personnes blanches et, d’autre part, que la blanchité est elle-même devenue associée au bonheur. Dans un mouvement dialectique, le bonheur est constitué par ce que plusieurs théoricien·nes ont qualifié de <em>white gaze</em> (hooks 1992; Morrison 1992; Collins 2009), mais la notion de blanchité est elle aussi construite par le récit hégémonique du bonheur parce que ce regard blanc réifie les corps et détermine qui a accès à la blanchité et, de ce fait, qui peut prétendre à la bonne vie.</p>
 
@@ -102,7 +110,8 @@ text: <p>L’idée de bonheur, c’est-à-dire tant la recherche de son essence 
 
 ----
 
-references: 
+References:
+
 - Ahmed, Sara. <em>The Promise of Happiness</em>. Durham : Duke University Press, 2010.
 
 Atkinson, Jennifer Wren. <em>Gardenland: Nature, Fantasy, and Everyday Practice</em>. Athens : University of Georgia Press, 2018.
@@ -137,7 +146,8 @@ Woolf, Virginia. <em>A Room of One’s Own</em>. San Diego : Harcourt Brace Jov
 
 ----
 
-number: 1
+Number: 1
 
 ----
 
+Uuid: v3QcLuHRoimBAC8V

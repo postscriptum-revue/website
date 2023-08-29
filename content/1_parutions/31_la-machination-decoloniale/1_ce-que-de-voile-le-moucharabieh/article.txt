@@ -1,28 +1,36 @@
-title: Ce que dé-voile le moucharabieh
+Title: Ce que dé-voile le moucharabieh
 
 ----
 
-subtitle: ou les reflets d’une auto-colonisation.
+Subtitle: ou les reflets d’une auto-colonisation.
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Zineb Bennouna
   affiliation: Laboratoire EVCAU- Université de Paris et École Nationale Supérieure de Paris-Val de Seine
 
 ----
 
-abstract_fr: <p>L’espace, par ses propres dispositifs de cloisonnement, exacerbe les relations intersubjectives et les hiérarchies qui le régissent, et le moucharabieh en est le parfait exemple. Ce dispositif en bois tourné, en se greffant aux fenêtres, semble esquisser les contours stricts d’un monde binaire partagé entre intérieur/extérieur, masculin/ féminin, voir et ne pas être vu. Pendant plus d’un siècle et demi, les textes et récits orientalistes ont nourri le reflet d’un moucharabieh oppressif ayant pour seul dessein celui de se substituer au voile de la femme musulmane, de la soustraire du regard d’autrui. Une cage, une prison, un voile. Tels sont les stéréotypes qui entourent le moucharabieh et qui ont largement contribué à sa dépréciation à la suite de la période coloniale. Essentiellement vu de l’extérieur (et au travers d’un regard occidentalisé), il est usuellement pressenti comme un écran hostile, une frontière misanthrope. Pourtant, c’est précisément son rôle limitrophe qui donne lieu de passage. A travers cet article nous tenterons de répondre à la question qui suit : comment décoloniser le regard que l’on porte encore aujourd’hui, sur ce dispositif architectural?</p>
+Abstract-fr:
+
+<p>L’espace, par ses propres dispositifs de cloisonnement, exacerbe les relations intersubjectives et les hiérarchies qui le régissent, et le moucharabieh en est le parfait exemple. Ce dispositif en bois tourné, en se greffant aux fenêtres, semble esquisser les contours stricts d’un monde binaire partagé entre intérieur/extérieur, masculin/ féminin, voir et ne pas être vu. Pendant plus d’un siècle et demi, les textes et récits orientalistes ont nourri le reflet d’un moucharabieh oppressif ayant pour seul dessein celui de se substituer au voile de la femme musulmane, de la soustraire du regard d’autrui. Une cage, une prison, un voile. Tels sont les stéréotypes qui entourent le moucharabieh et qui ont largement contribué à sa dépréciation à la suite de la période coloniale. Essentiellement vu de l’extérieur (et au travers d’un regard occidentalisé), il est usuellement pressenti comme un écran hostile, une frontière misanthrope. Pourtant, c’est précisément son rôle limitrophe qui donne lieu de passage. A travers cet article nous tenterons de répondre à la question qui suit : comment décoloniser le regard que l’on porte encore aujourd’hui, sur ce dispositif architectural?</p>
 <p>Mots-clés : moucharabieh, colonisation, décoloniser, orientalisme.</p>
 
 ----
 
-abstract_en: <p>Space exacerbates, by its own opening devices, the inter-subjective relations and hierarchies that govern it, and the mashrabiyya is the perfect example to illustrate it. By grafting itself to the windows, this turned wooden device seems to outline the very strict contours of a binary world articulated around paradoxical entities such as the interior/exterior, masculine/feminine, seeing and not be seen. For more than a century and a half, Orientalist narratives have nourished the reflection of an oppressive mashrabiyya, of which the only purpose is to replace the veil of the Muslim woman and to remove her from the gaze of others. A cage, a prison, a veil: these are the stereotypes that surround the mashrabiyya and that have largely contributed to its depreciation following the colonial period. Essentially seen from the outside (and through a Westernized gaze), it is usually perceived as a hostile screen, a misanthropic border. Yet, it is precisely its bordering role that shimmers a possibility of encounter between these antithetical universes. Through this article, we will try to answer the following question: how to decolonize the gaze that we still carry today, on this architectural device?</p>
+Abstract-en:
+
+<p>Space exacerbates, by its own opening devices, the inter-subjective relations and hierarchies that govern it, and the mashrabiyya is the perfect example to illustrate it. By grafting itself to the windows, this turned wooden device seems to outline the very strict contours of a binary world articulated around paradoxical entities such as the interior/exterior, masculine/feminine, seeing and not be seen. For more than a century and a half, Orientalist narratives have nourished the reflection of an oppressive mashrabiyya, of which the only purpose is to replace the veil of the Muslim woman and to remove her from the gaze of others. A cage, a prison, a veil: these are the stereotypes that surround the mashrabiyya and that have largely contributed to its depreciation following the colonial period. Essentially seen from the outside (and through a Westernized gaze), it is usually perceived as a hostile screen, a misanthropic border. Yet, it is precisely its bordering role that shimmers a possibility of encounter between these antithetical universes. Through this article, we will try to answer the following question: how to decolonize the gaze that we still carry today, on this architectural device?</p>
 <p>Keywords: mashrabiyya, colonization, decolonization, orientalism.</p>
 
 ----
 
-text: <p>Introduction</p>
+Text:
+
+<p>Introduction</p>
 <p>« Ces cages délicieuses ne laissent jamais entrevoir les charmants oiseaux qu’elles tiennent captifs. A peine, de temps à autre, voit-on une main furtive entr’ouvrir discrètement le châssis, ou deux yeux de gazelle briller à travers le treillage ». (Poitou 1875, 80).</p>
 <p>Une cage, une prison, un voile. Tels sont les « stéréotypes durables » du moucharabieh (Depaule 2014, 15). Pendant plus d’un siècle et demi<a href="#_ftn1" name="_ftnref1">[1]</a>, les textes, récits et écrits orientalistes ont tour à tour nourri le portrait d’un moucharabieh aux traits oppressifs et réducteurs, ayant pour seul dessein celui de se substituer au voile de la femme musulmane, de la soustraire du regard d’autrui : « En Orient, la richesse et la beauté cherchent l’ombre ; on n’y trouve point le pompeux étalage de notre luxe extérieur : les maisons, comme les femmes sont voilées » (Reynaud 1846, 236). Pourtant, les treillis en bois tournés qui le composent ne sont autres que le fruit de « l’heureuse alliance de l’imagination du peuple et des exigences du paysage » (Fathy 1999, 50). En effet, le moucharabieh répond à des critères et besoins environnementaux et fonctionnels particuliers aux régions chaudes et arides. Hassan Fathy, architecte égyptien du xxe siècle mondialement connu comme fervent défenseur de l’architecture vernaculaire, lui reconnaît d’ailleurs cinq fonctions : le contrôle de la température, le contrôle de l’humidité, la ventilation naturelle, la filtration de la lumière directe et la préservation de l’intimité. Malgré tous ses avantages, cet entrelacs boisé, symbole de l’architecture traditionnelle arabe, subit une forte dépréciation suite à la période coloniale. Hassan Fathy dépeint parfaitement ce phénomène dans sa pièce de théâtre <em>Le conte du moucharabieh</em> qu’il dédia entièrement au dispositif éponyme : « La plupart des pays orientaux se sont entichés de l’éclat de la civilisation occidentale. Il les a aveuglés et leur a fait abandonner ce que nos ancêtres avaient créé et ce que notre environnement nous avait inspiré au service de notre bien-être » (Fathy 1991, cité dans Volait, Perrin 2017, 519). Dans ce contexte, nous en venons à nous demander : le moucharabieh ne demeurerait-il pas sous la souveraineté orientaliste? Mais, surtout, comment décoloniser le regard que l’on porte encore aujourd’hui sur ce dispositif architectural?</p>
 <p>C’est ce que nous proposons de dévoiler à travers cet article en examinant dans un premier temps l’émergence des lieux communs du moucharabieh. Ensuite, nous nous attarderons sur l’influence des modèles de l’architecture occidentale sur le regard porté sur ce dispositif. Enfin, nous aborderons la question de l’auto-colonisation dans cette idée de « décoloniser la théorie mais aussi l’être » (Gómez 2016, 104).</p>
@@ -76,7 +84,8 @@ text: <p>Introduction</p>
 
 ----
 
-references: 
+References:
+
 - Ali, Zahra et Sonia Dayan-Herzbrun. « Présentation ». <em>Tumultes.</em> vol. 48, no. 1, 2017, pp. 5-13. [https://doi.org/10.3917/tumu.048.0005].
 
 Amy, Sandrine. « Les nouvelles façades de l’architecture ». <em>Appareil. </em>no. spécial, 2008. [En ligne] http://journals.openedition.org/appareil/ 287 (dernière consultation le 30 juillet 2020).
@@ -197,7 +206,8 @@ Notes
 
 ----
 
-number: 1
+Number: 1
 
 ----
 
+Uuid: MaGYgtZgoWicrYRf

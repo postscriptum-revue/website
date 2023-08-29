@@ -1,28 +1,36 @@
-title: Exophonie et allophonie
+Title: Exophonie et allophonie
 
 ----
 
-subtitle: le dehors et l’autre pour penser les langues
+Subtitle: le dehors et l’autre pour penser les langues
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Mathieu Marchadour
   affiliation: Université Rennes 2
 
 ----
 
-abstract_fr: <p>Dans cet article, nous proposons une étude des liens entre l’exophonie et l’allophonie pour penser nos rapports aux langues et à la définition d’un dehors et d’une altérité linguistiques. En rapprochant deux notions qui prennent la langue comme support de réflexion sur l’altérité et l’autrement, nous souhaitons interroger la catégorisation d’« élève allophone » en contextes scolaires français afin de questionner l’idée d’une altérité linguistique à sens unique. Cette interrogation d’un terme de l’univers scolaire français « allophone » sera alimentée par le recours aux travaux de sociologues, philosophes et écrivain·es sur l’idée de langue, d’altérité et d’immigration. Ainsi, nous verrons que l’idée d’exophonie en littérature, telle qu’elle a été développée par Yoko Tawada, et la vision des langues que développent d’autres auteur·es, peuvent éclairer d’une manière féconde la notion d’allophonie en contextes scolaires français.</p>
+Abstract-fr:
+
+<p>Dans cet article, nous proposons une étude des liens entre l’exophonie et l’allophonie pour penser nos rapports aux langues et à la définition d’un dehors et d’une altérité linguistiques. En rapprochant deux notions qui prennent la langue comme support de réflexion sur l’altérité et l’autrement, nous souhaitons interroger la catégorisation d’« élève allophone » en contextes scolaires français afin de questionner l’idée d’une altérité linguistique à sens unique. Cette interrogation d’un terme de l’univers scolaire français « allophone » sera alimentée par le recours aux travaux de sociologues, philosophes et écrivain·es sur l’idée de langue, d’altérité et d’immigration. Ainsi, nous verrons que l’idée d’exophonie en littérature, telle qu’elle a été développée par Yoko Tawada, et la vision des langues que développent d’autres auteur·es, peuvent éclairer d’une manière féconde la notion d’allophonie en contextes scolaires français.</p>
 <p>Mots-clés : exophonie, allophonie, plurilinguisme, altérité</p>
 
 ----
 
-abstract_en: <p>This article intends to forge ties between exophony and allophony in order to reflect on our relationship to languages and our definition of an “outside” and of an “otherness” in language. By bringing these two notions together, for they take language as the basis on which to elaborate about otherness and the other, we would like to examine the categorization of “allophone pupil” in the French school system, so as to challenge the possibility of a one-way otherness. In inquiring about the term “allophone” (term used in the French school system), we will rely on sociological, philosophical and literary works about language, otherness and immigration. Thus, we will see that the idea of exophony in literature, as developed by Yoko Tawada and other writers, can be a fertile ground to reconsider the notion of allophony in the French school system.</p>
+Abstract-en:
+
+<p>This article intends to forge ties between exophony and allophony in order to reflect on our relationship to languages and our definition of an “outside” and of an “otherness” in language. By bringing these two notions together, for they take language as the basis on which to elaborate about otherness and the other, we would like to examine the categorization of “allophone pupil” in the French school system, so as to challenge the possibility of a one-way otherness. In inquiring about the term “allophone” (term used in the French school system), we will rely on sociological, philosophical and literary works about language, otherness and immigration. Thus, we will see that the idea of exophony in literature, as developed by Yoko Tawada and other writers, can be a fertile ground to reconsider the notion of allophony in the French school system.</p>
 <p>Keywords : exophony, allophony, plurilingualism, otherness</p>
 
 ----
 
-text: <p>Exophonie et hors-la-langue</p>
+Text:
+
+<p>Exophonie et hors-la-langue</p>
 <p><em>Penser le dehors pour voir la langue</em></p>
 <p>Une des conceptions de l’écrivain·e, selon Tawada, est celle de quelqu’un·e qui cherche à se « libérer de la langue » (Rigault 2017, 10) tout en tentant d’en libérer son œuvre. Libérer, autant que faire se peut et d’un même mouvement, le dire et le dit, l’écrire et l’écrit, le faire et le fait, le faire et le fait (par la langue). Essayer d’empêcher ou d’<em>amortir</em> ce que l’on fait par la langue, et ce que la langue fait de nous lorsqu’on le fait. Ce que la langue nous fait faire, ce qu’elle nous fait dire, ce qu’elle nous fait taire ou faire lorsque l’on dit à travers elle(s). Tenter d’empêcher, ou de limiter les restrictions et les aliénations linguistiques et langagières de l’œuvre par l’ouvrier·e (au sens de la personne qui œuvre, c’est-à-dire parle ou écrit) et sa ou ses langues :</p>
 <blockquote><p>L’écriture est certes un travail avec la langue maternelle, mais aussi parfois contre elle. On doit lutter contre elle car elle nous contraint aussi à rester à l’intérieur d’un système unique. Et ça, ce n’est vraiment pas souhaitable (Tawada, citée et traduite par Rigault 2017, 10).</p></blockquote>
@@ -82,7 +90,8 @@ text: <p>Exophonie et hors-la-langue</p>
 
 ----
 
-references: 
+References:
+
 - Alexakis, Vassilis. <em>Paris-Athènes</em>. Paris : Fayard, 1989.
 
 ———. <em>La langue maternelle. </em>Paris : Fayard, 1995.
@@ -185,7 +194,8 @@ Notes
 
 ----
 
-number: 7
+Number: 7
 
 ----
 
+Uuid: r701neN94juO4XId
