@@ -47,7 +47,7 @@ sóc amb vosaltres.</p>
 <p>Et maintenant, assise</p>
 <p>au seuil de ma maison</p>
 <p>je suis avec vous.<a href="#_ftn6" name="_ftnref6">[6]</a></p>
-<p></p></blockquote>
+</blockquote>
 <p>À travers tous ses séjours à l’étranger, voyages et exils, Abelló ne perd jamais son affection particulière pour la langue anglaise, développée pendant son enfance. Elle a un contact presque maternel avec l’anglais, qu’elle vient à <em>ingérer</em> très jeune – autour des six ou sept ans. La famille ne reste à Londres qu’entre une et deux années, ceci dit dans un contexte d’immersion. Si l’anglais prend très tôt une place importante dans la vie d’Abelló, il n’était pas garanti qu’il la conserverait : la famille retourne en Catalogne – où la deuxième langue est l’espagnol – puis l’exil la mène à Valparaíso. L’anglais comme deuxième langue est autant le résultat des circonstances que celui d’un choix. Choix qui deviendra poétique, politique, mais qui au départ n’en est qu’un d’affinité, de curiosité, de plaisir. Comme Nathalie Sarraute dans <em>Enfance</em>, son dialogue d’inspiration biographique, Abelló s’éveille à la musicalité et à la puissance des mots grâce à l’<em>étrangeté </em>de l’anglais. Sarraute, comme Abelló, se mesure très jeune aux sonorités neuves de l’allemand ou du français. Dans son récit, le russe et le français se côtoient :</p>
 <blockquote><p>… venus sans doute des plaines ensoleillées que je voyais par la fenêtre… le mot français <em>soleil </em>et le même mot russe <em>solntze </em>où le <em>l </em>se prononce à peine, tantôt je dis sol-ntze, en ramassant et en avançant les lèvres, le bout de ma langue incurvée s’appuyant contre les dents de devant, tantôt so-leil en étirant les lèvres, la langue effleurant à peine les dents. Et de nouveau sol-ntze. Et de nouveau so-leil (Sarraute 1983, 107).</p></blockquote>
 <p>Ce sont les sonorités des mots, mélodieuses ou dures, qui frappent la jeune Montserrat, à l’instar de la voix narrative mise en scène par Sarraute. Et cette distance, cette opacité à surmonter, exacerbe la musicalité des langues, la nouvelle comme la maternelle.</p>
@@ -61,7 +61,7 @@ sóc amb vosaltres.</p>
 <p>soumise, cachée</p>
 <p>des milliers d’années sous</p>
 <p>le sexe.</p>
-<p></p>
+
 <p>À peine éveillée</p>
 <p>et déjà en morceaux<a href="#_ftn9" name="_ftnref9">[9]</a></p></blockquote>
 <p>La quête s’accompagne d’un repositionnement. À partir des années 1980, plusieurs événements et engagements précisent l’orientation féministe de la carrière d’Abelló, une orientation née avant tout d’une obligation, d’un manque à combler. « Je suis féministe par nécessité »<a href="#_ftn10" name="_ftnref10">[10]</a> (Pujol 2013, 18). Abelló s’implique à la revue <em>Dones en lluita </em>(Femmes en lutte), à <em>laSal</em>, maison d’édition et café-librairie, travaille pour la Foire Internationale du livre féministe à Barcelone, fait partie des créatrices du Comité d’Écrivaines du Centre Catalan du PEN Català. Lors de ces deux dernières occasions, l’implication consiste aussi en traductions d’œuvres catalanes et castillanes vers l’anglais, prélude à un travail de diffusion vers l’international. La lutte féministe et catalaniste pour Abelló, passe avant tout par l’acte de la traduction. Ces mêmes années, elle publie <em>Cares a la finestra </em>(Visages à la fenêtre), une anthologie sous-titrée « 20 femmes poètes de langue anglaise du XXe siècle ». Abelló fait pour ce travail, détaille Caterina Riba, une recherche imposante, dans les Instituts britannique et nord-américain de Barcelone, dans les librairies spécialisées de Londres et auprès de spécialistes et poètes. La publication de l’anthologie devient un acte d’« espionnage poétique », grâce auquel de nouveaux modèles sont importés en Catalogne (Riba 2015, 207). La poésie anglophone avait donc le potentiel de donner du souffle au milieu catalan.</p>
@@ -73,25 +73,25 @@ sóc amb vosaltres.</p>
 <p>circles and more circles,</p>
 <p>water swirling wildly,</p>
 <p>always swallowed.</p>
-<p></p>
+
 <p>In the middle, the strength</p>
 <p>of a look that plays</p>
 <p>with the sweetness of skin</p>
 <p>and searches the deep</p>
 <p>root of water.</p>
-<p></p>
+
 <p>What I have is</p>
 <p>a pencil in my hand,</p>
 <p>a paper in front of me</p>
 <p>and the wish to write</p>
 <p>names full of tenderness.</p>
-<p></p>
+
 <p>The colour is blue:</p>
 <p>dark blue in the afternoon,</p>
 <p>the azure blue of the sea at midday, blue</p>
 <p>– sky blue of the sky – and the ash</p>
 <p>blue of oblivion.</p>
-<p></p>
+
 <p>I do not want it to be so</p>
 <p>and look for</p>
 <p>the red of blood</p>
@@ -123,7 +123,7 @@ sóc amb vosaltres.</p>
 <p>sense bellesa.</p>
 <p>I el plor s&rsquo;ha fet amarg,</p>
 <p>cenyit com una mortalla.</p>
-<p></p>
+
 <p>La soirée pleine de présages</p>
 <p>est la lanterne inutile</p>
 <p>d’un monde gras, assoupi,</p>
@@ -136,27 +136,27 @@ sóc amb vosaltres.</p>
 <p>plenes d’un blau seràfic,</p>
 <p>i aqueixes nits amargues que degoten</p>
 <p>sobre les pedres impassibles.</p>
-<p></p>
+
 <p>Hi ha remor d’ales feixugues</p>
 <p>que passen fregant la terra.</p>
 <p>Però la nit és closa;</p>
 <p>no n’entenc la veu negra.</p>
-<p></p>
+
 <p>Em cansa tanta espera.</p>
 <p>Les hores cauen com les fulles.</p>
-<p></p>
-<p></p>
+
+
 <p>Oh, j’ai de telles angoisses</p>
 <p>à voir les nuits ouvertes,</p>
 <p>pleines d’un bleu séraphique,</p>
 <p>et ces nuits amères qui dégoutent</p>
 <p>sur les pierres impassibles.</p>
-<p></p>
+
 <p>Il y a une rumeur d’ailes lasses</p>
 <p>qui passent et frôlent le sol.</p>
 <p>Mais la nuit est close;</p>
 <p>je n’entends pas sa voix noire.</p>
-<p></p>
+
 <p>Tant d’attente m’épuise.</p>
 <p>Les heures tombent comme les feuilles.</p></blockquote>
 <p>Alors qu’Abelló ne l’avait pas encore lue, ce poème évoque l’imagerie de Sylvia Plath – ces instants d’attente mi-convaincue d’un présage, d’un éclat fugace. Comme le met en scène le poème « Black Rook in Rainy Weather », où un corbeau occupé à réarranger ses plumes a la capacité d’invoquer, par sa brillance, une éphémère satisfaction. Cet éclat subi, cette lumière, « rumeur d’ailes lasses » frôlant le sol, s’invite sous la forme d’un oiseau au cœur d’un paysage monotone et fatigué, mais peut aussi s’emparer des objets du quotidien, d’une table de cuisine, d’une chaise. « A certain minor light may still / Leap incandescent / Out of kitchen table or chair / As if a celestial burning took / Possession of the most obtuse objects now and then » (Plath 2008, 34). Plath s’imagine une longue marche, ponctuée d’instants chargés de sens, lumineux – de présages, qui élisent oiseaux ou tables de cuisine, indistinctement. Abelló met en scène des nuits amères d’attente, au cœur de la vie quotidienne, lorsque le monde se fait immobile et ceint d’un linceul, de longues soirées lourdes de messages, où une transcendance lointaine interrompt le cours des choses. Puis, « The wait’s begun again, / The long wait for the angel, / For that rare, random descent » (<em>Ibid</em>., 35).</p>
@@ -173,7 +173,7 @@ sóc amb vosaltres.</p>
 <p>circles and more circles,</p>
 <p>water swirling wildly</p>
 <p>always swallowed.</p>
-<p></p>
+
 <p>//</p>
 <p>Desenes de miratges,</p>
 <p>cercles i més cercles,</p>

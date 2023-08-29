@@ -31,7 +31,7 @@ La main du maître est tout de même là participe de la fusion et se soumet à 
 <p>Dompter l’objet n’est pas toujours possible dompter n’est pas toujours projet puissance potentialité et la perte n’est pas toujours monstrueuse.</p>
 <p>Ma panique fuit l’inutile dit le professeur, le bonheur d’une possession m’est devenu l’huile brûlée et amère celle qui me fourbe les flancs et les genoux.</p>
 <p>Le vent vorace gifle les mains trop pleines et la minuscule brosse de H. continue son chemin entre les sillons du jaune et du bleu.</p>
-<p></p>
+
 <p>**</p>
 <p>tu loges un monde<br />
 sur un autre<br />
@@ -40,7 +40,7 @@ trouble<br />
 l’eau se défend<br />
 elle ne t’a rien<br />
 promis</p>
-<p></p>
+
 <p>___</p>
 <p>**</p>
 <p>pousse ton visage vers le haut</p>
@@ -60,7 +60,7 @@ l’attente floutée</p>
 <p>le panneau demande une satisfaction</p>
 <p>contentement de voitures plages<br />
 compounds codes QR</p>
-<p></p>
+
 <p>l’horizon possible d’une peau<br />
 contre la mienne</p>
 <p>quelle marche à suivre<br />
@@ -71,8 +71,8 @@ l’exigence</p>
 je gronderai ici</p>
 <p>mon seul rendement<br />
 inutile</p>
-<p></p>
-<p></p>
+
+
 <p>**</p>
 <p><em>Crête</em></p>
 <p>je m’assois plein ventre de tes habitudes<br />
@@ -80,14 +80,14 @@ entre ton sein-thorax et gorge<br />
 je demande<br />
 de m’éduquer</p>
 <p>je ne sais rien prononcer</p>
-<p></p>
+
 <p>l’inconfort mon seul<br />
 possible</p>
 <p>transgression algique</p>
 <p>de l’inflexible héréditaire<br />
 nos vétustes voûtes</p>
-<p></p>
-<p></p>
+
+
 <p>**</p>
 <p><em>Appartement</em></p>
 <p>Les muettes confrontations entre soi et soi dans le temps disloqué de l’écriture, la nullité de mes expressions et de mes silences me frondent dans l’appartement où seule je vis seule je gratte seule je respire seule je pleure.</p>
@@ -96,10 +96,10 @@ Il manque toujours un objet, un phonème entre mes strophes et mes désirs, mes 
 <p>J’étais le ponton-lumineux à l’est du Sahel qu’il dit, le corps tendu, les yeux doux fiers et pleins.<br />
 J’arrive ici, tu es minuscule et accroupie sur des graines cuisantes et en terre que je ne vois même pas.</p>
 <p>Mais c’est que j’ai voulu être le ponton/ la masse/ l’entre-deux/ mon père/ debout /aimer encore/ vivre à l’heure.</p>
-<p></p>
+
 <p>J’ai cherché à faire de mes mutismes et de leurs attaques mes substances visqueuses, mes traces, mes lésions-uniques qui justifient la peur de ce qui m’abandonne. Mon larmé-balcon, ma chair dissoute en liquides et en vagues sont devenus refuges, mes velours cramoisis que je palpe sans dégoût.</p>
 <p>Je veux m’habiter ailleurs que dans mes itérations, mes aveugles rengaines, mes ulcères prévisibles. Je commence en ouvrant le tiroir du four, je désarticule mes moules, la saleté que je présumais fatale, je dessine mon nouvel appétit, les voies que j’emprunterais peut-être.</p>
-<p></p>
+
 <p>Mes mues logent l’autre plancher et le nouveau reflète mes aspérités sans qu’elles ne tombent de mes morceaux. Pour la première fois, c’est mon odeur que je sens lorsque j’ouvre la porte, je me sais capable de me perdre.</p>
 <p>Je désoriente mes poussières, mes paumes appuyées au mur, il me faut replanter le lierre, sortir les mouches mortes du congélateur.</p>
 <p>On verra par où je voudrai me re-connaître.</p>

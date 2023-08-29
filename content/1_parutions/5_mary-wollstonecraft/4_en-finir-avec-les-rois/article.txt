@@ -23,9 +23,9 @@ abstract_en: <p>Mary Wollstonecraft was one of the pioneers of 18th century egal
 ----
 
 text: <p>Travaillant surtout sur des écrivaines féministes du XIXe siècle, je n’ai pas pu m’empêcher de remarquer, à la lecture de <em>A</em> <em>Vindication</em> <em>of</em> <em>the</em> <em>Rights</em> <em>of</em> <em>Woman,</em> que le symbole du roi (et ses variantes : le sultan, le seigneur, le maître, le tyran) est une constante dans le discours occidental. Si ces expressions ont aujourd’hui perdu leur dimension hyperbolique, je crois néanmoins que l’on peut s’interroger sur les causes de leurs apparitions successives et les implications de celles-ci. La société séculière et démocratique dans laquelle nous vivons, ainsi que les droits civils dont nous jouissons nous font probablement oublier la portée de ce symbole dans la société patriarcale du Royaume de Grande-Bretagne du XVIIIe siècle. Pourtant, peut-être voyez-vous à quoi je veux en venir, ces droits individuels ne sont pas acquis. En effet, pourquoi les attaques lancées contre ce symbole en particulier touchent-elles trois institutions patriarcales avec lesquelles les féministes d’hier et d’aujourd’hui sont toujours en lutte, soit la religion, l’État et le mariage ? Serait-ce que nous n’en avons pas fini avec les rois et avec la dissidence ? J’observerai donc ici comment Wollstonecraft tente de déconstruire le genre masculin de la souveraineté et de quelle manière cela affecte le fondamentalisme, la hiérarchisation politique et l’autorité des hommes dans la cellule familiale.</p>
-<p></p>
+
 <h3>***</h3>
-<p></p>
+
 <blockquote>
 I do not mean to allude to all the writers who have written on the subject of female manners […] but attacking the boasted prerogative of man — the prerogative that may emphatically be called the iron scepter of tyranny, the original sin of tyrants, I declare against all power built on prejudices, however hoary (Wollstonecraft : 158).
 </blockquote>

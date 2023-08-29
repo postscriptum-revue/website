@@ -21,7 +21,7 @@ abstract_en:
 ----
 
 text: <p>I</p>
-<p></p>
+
 <p>la journée est suppliante</p>
 <p>l’objet est beau</p>
 <p>puisqu’il est bleu</p>
@@ -40,16 +40,16 @@ text: <p>I</p>
 <p>par toutes les fenêtres</p>
 <p>de toutes les villes</p>
 <p>l’obscurité avance</p>
-<p></p>
+
 <p>bête cernée</p>
 <p>ourse</p>
 <p>épidurale</p>
 <p>somatique</p>
-<p></p>
+
 <p>***</p>
-<p></p>
+
 <p>II</p>
-<p></p>
+
 <p>ô comme</p>
 <p>la vie se prend</p>
 <p>si j’avais à choisir</p>
@@ -58,7 +58,7 @@ text: <p>I</p>
 <p>j’aime cet état</p>
 <p>de la lumière dégagée</p>
 <p>par le côté sombre du lilas</p>
-<p></p>
+
 <p>ô mais quel délice</p>
 <p>que mon enfance</p>
 <p>plus j’y repense plus je vois</p>
@@ -70,11 +70,11 @@ text: <p>I</p>
 <p>le chiendent</p>
 <p>sur les tuiles</p>
 <p>de sa maison</p>
-<p></p>
+
 <p>***</p>
-<p></p>
+
 <p>III</p>
-<p></p>
+
 <p>peur</p>
 <p>de l’épuisement dans la haine</p>
 <p>donc</p>
@@ -109,11 +109,11 @@ text: <p>I</p>
 <p>je suis du côté du pénible</p>
 <p>de l’eau claire</p>
 <p>et de l’ordre</p>
-<p></p>
+
 <p style="text-align: left;">***</p>
-<p></p>
+
 <p>IV</p>
-<p></p>
+
 <p>et je veux dire que</p>
 <p>quand j’aime une fois</p>
 <p>je suis incapable de synthèse</p>
@@ -125,7 +125,7 @@ text: <p>I</p>
 <p>combien de fois on peut se quitter</p>
 <p>par pensée et ne rien comprendre</p>
 <p>aux bruits des papillons au bout du lit</p>
-<p></p>
+
 <p>et j’ai une peau un sexe un sens à démêler</p>
 <p>un discours situé</p>
 <p>je suis au cœur</p>
@@ -144,14 +144,14 @@ text: <p>I</p>
 <p>ensevelit</p>
 <p>l’amour</p>
 <p>dans son habit trop tight</p>
-<p></p>
+
 <p>et quelque chose et quelqu’un pleure</p>
 <p>dans la chambre fermée</p>
-<p></p>
+
 <p style="text-align: left;">***</p>
-<p></p>
+
 <p>V</p>
-<p></p>
+
 <p>j’ai tenu</p>
 <p>la corde du nœud</p>
 <p>j’ai collé le mot à l’image</p>
@@ -165,14 +165,14 @@ text: <p>I</p>
 <p>le chevreuil trébuche dans son jour</p>
 <p>les couleurs l’ont laissé passer</p>
 <p>il dit merci et l’histoire reprend son deuil</p>
-<p></p>
+
 <p>les corps vont trop vite dans les chars</p>
 <p>la forêt monte et tombe dans son feuillage</p>
 <p>et je sais que l’eau n’est pas bleue</p>
 <p>que c’est une invention de l’âme</p>
 <p>il me faut regarder</p>
 <p>dans la douleur</p>
-<p></p>
+
 <p>c’est un jeu du monde</p>
 <p>comme recrachée des forges</p>
 <p>l’épée encercle la plaie</p>
@@ -180,7 +180,7 @@ text: <p>I</p>
 <p>à ta main tiède</p>
 <p>il faut peser le long des veines</p>
 <p>au bord des canaux troubles</p>
-<p></p>
+
 <p>ma bête cernée</p>
 <p>d’ourse bleue</p>
 <p>nue dans mes nœuds</p>

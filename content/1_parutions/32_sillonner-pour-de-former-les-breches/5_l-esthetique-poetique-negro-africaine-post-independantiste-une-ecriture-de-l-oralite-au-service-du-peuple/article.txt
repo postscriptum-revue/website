@@ -152,7 +152,7 @@ text: <p>Introduction</p>
 <p>Ainsi battait le Tam-tam rituel!</p>
 <p>Le Tam-tam du supplice battait</p>
 <p>L’affreuse mêlée de mon peuple!</p>
-<p></p>
+
 <p>Écoute cette chanson qui démarre comme</p>
 <p>Toutes les histoires banales</p>
 <p>Pour enfin devenir</p>
