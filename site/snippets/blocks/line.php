@@ -1,0 +1,1 @@
+<hr class="text-section__hr">

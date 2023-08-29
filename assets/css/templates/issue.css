@@ -51,7 +51,8 @@
 }
 
 .issue-header__cover-image {
-	/* The rules below make it so the image doesn't take any space, and adapts to the height of the card. */
+	/* The rules below make it so the image doesn't take any space,
+	and adapts to the height of the card. */
 	position: absolute;
 	object-fit: cover;
 	width: 100%;

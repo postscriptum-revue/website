@@ -1,0 +1,8 @@
+.article {
+	grid-column: span 4;
+	text-align: center;
+}
+
+.article__authors {
+	font-size: var(--font-size-small);
+}

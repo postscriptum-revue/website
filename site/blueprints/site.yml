@@ -18,3 +18,5 @@ columns:
                 type: pages
                 label: Sections
                 status: listed
+                templates:
+                    - issues

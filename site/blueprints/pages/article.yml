@@ -29,6 +29,7 @@ columns:
                     name:
                         type: text
                         label: Nom
+                        help: Ne pas transcrire le nom de famille en majuscule.
                     affiliation:
                         type: text
                         label: Affiliation
