@@ -6,11 +6,9 @@ subtitle:
 
 ----
 
-author: Angela COZEA
-
-----
-
-affiliation: Université de Toronto
+authors: -
+  name: Angela COZEA
+  affiliation: Université de Toronto
 
 ----
 
@@ -24,11 +22,9 @@ abstract_en:
 
 text: 
 
-<iframe id="fitvid398759" src="//www.youtube.com/embed/HpiZmLhhIHE" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<br /> <i>Discussion</i>
-<iframe id="fitvid760710" src="//www.youtube.com/embed/1L9pijI1_Gk" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
+<iframe loading="lazy" id="fitvid398759" src="//www.youtube.com/embed/HpiZmLhhIHE" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<p><br /> <em>Discussion</em></p>
+<iframe loading="lazy" id="fitvid760710" src="//www.youtube.com/embed/1L9pijI1_Gk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ----
 

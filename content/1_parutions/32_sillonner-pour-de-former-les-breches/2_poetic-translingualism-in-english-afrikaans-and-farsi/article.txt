@@ -6,11 +6,9 @@ subtitle:
 
 ----
 
-author: Klara du Plessis et Khashayar Mohammadi
-
-----
-
-affiliation: University of Concordia (KdP) - Poet, Writer, Translator, Photographer
+authors: -
+  name: Klara du Plessis et Khashayar Mohammadi
+  affiliation: University of Concordia (KdP) - Poet, Writer, Translator, Photographer
 
 ----
 
@@ -22,224 +20,127 @@ abstract_en:
 
 ----
 
-text: Introduction
-
-In the spring of 2020, Khashayar Mohammadi invited Klara du Plessis to start a collaborative writing project. Knowing du Plessis’ translingual <i>Ekke</i>, a poetry collection in Afrikaans and English, he had been researching possible similarities between Afrikaans and Farsi—their respective mother tongues—discovering that they indeed share a very prevalent G or χ sound. The two poets started playing in a shared Google doc, thinking that they would compose a handful of poems. The creative impetus of the collaboration was so strong, however, that they wrote the first draft of an entire trilingual poetry collection in English, Afrikaans, and Farsi in a matter of weeks. This manuscript is provisionally called <i>Fricatives</i> and is scheduled for publication through Palimpsest Press in 2023.
-
-Both Mohammadi and du Plessis are in the unique position of having more than one language in which they think and create. For him, it is English and Farsi, and for her it is English and Afrikaans. They live in and form part of a country (Canada) and literary community, however, that obviously has an extremely rich linguistic diversity, but only officially acknowledge English and French—in terms of publishing, in particular. Mirene Arsanios diagnoses this linguistic repression as a symptom of settler colonialism in her essay “Notes on Mother Tongues”: “The ‘nation’ of the modern, settler-colonial nation-state is premised on the eradication of [...] languages [...] it turns lands into territories that stand for a nation’s monolithic identity (nationalism) (monolingualism)” (2020, 2). In other words, Literature is beholden to nationhood in a way that can dictate the kinds of literatures that are allowed to exist, to be published, and to be read.
-
-One form of resistance to this condition is translingualism—writing in and across languages, and deliberately including languages that the majority of a Canadian readership would not necessarily understand. Sarah Dowling writes in <i>Translingual Poetics:</i>
-<blockquote>I use the term <i>trans</i>lingual [...] because it describes the capacity of languages to interact, influence, and transform one another [...] Translingualism is generally understood as a set of strategies by which writers engage with diverse linguistic codes in ways that are context-dependent. Translingual practice does not simply flout established norms and dominant institutions, but negotiates these social constraints in relation to writers’ competencies and repertoires [...] the term <i>translingual </i>typically describes critical, oppositional, and survival practices (2018, 4-5).</blockquote>
-For both poets, coming to terms with the strength inherent to translingual poetic practice is a major part of their development as writers. They can write democratically across languages, allowing words to enter poems as they are inspired to do, without worrying whether a monolingual audience would <i>understand </i>the work or not. Even amongst themselves, they also invite each other into their respective languages, creating an exophonic dialogue between languages; this act of hospitality into Farsi and Afrikaans, framed by a shared proficiency in English, allow the poets access into strange linguistic terrain that they themselves do not understand. Semantic comprehension is unimportant and what does gain currency is the productive disruption caused by bringing so-called minority languages into the hegemonic reading space of an anglophone audience. Each time they use an Afrikaans or Farsi word, they perforate the illusion of a stable and universal English.
+text: <p>Introduction</p>
+<p>In the spring of 2020, Khashayar Mohammadi invited Klara du Plessis to start a collaborative writing project. Knowing du Plessis’ translingual <em>Ekke</em>, a poetry collection in Afrikaans and English, he had been researching possible similarities between Afrikaans and Farsi—their respective mother tongues—discovering that they indeed share a very prevalent G or χ sound. The two poets started playing in a shared Google doc, thinking that they would compose a handful of poems. The creative impetus of the collaboration was so strong, however, that they wrote the first draft of an entire trilingual poetry collection in English, Afrikaans, and Farsi in a matter of weeks. This manuscript is provisionally called <em>Fricatives</em> and is scheduled for publication through Palimpsest Press in 2023.</p>
+<p>Both Mohammadi and du Plessis are in the unique position of having more than one language in which they think and create. For him, it is English and Farsi, and for her it is English and Afrikaans. They live in and form part of a country (Canada) and literary community, however, that obviously has an extremely rich linguistic diversity, but only officially acknowledge English and French—in terms of publishing, in particular. Mirene Arsanios diagnoses this linguistic repression as a symptom of settler colonialism in her essay “Notes on Mother Tongues”: “The ‘nation’ of the modern, settler-colonial nation-state is premised on the eradication of [&#8230;] languages [&#8230;] it turns lands into territories that stand for a nation’s monolithic identity (nationalism) (monolingualism)” (2020, 2). In other words, Literature is beholden to nationhood in a way that can dictate the kinds of literatures that are allowed to exist, to be published, and to be read.</p>
+<p>One form of resistance to this condition is translingualism—writing in and across languages, and deliberately including languages that the majority of a Canadian readership would not necessarily understand. Sarah Dowling writes in <em>Translingual Poetics:</em></p>
+<blockquote><p>I use the term <em>trans</em>lingual [&#8230;] because it describes the capacity of languages to interact, influence, and transform one another [&#8230;] Translingualism is generally understood as a set of strategies by which writers engage with diverse linguistic codes in ways that are context-dependent. Translingual practice does not simply flout established norms and dominant institutions, but negotiates these social constraints in relation to writers’ competencies and repertoires [&#8230;] the term <em>translingual </em>typically describes critical, oppositional, and survival practices (2018, 4-5).</p></blockquote>
+<p>For both poets, coming to terms with the strength inherent to translingual poetic practice is a major part of their development as writers. They can write democratically across languages, allowing words to enter poems as they are inspired to do, without worrying whether a monolingual audience would <em>understand </em>the work or not. Even amongst themselves, they also invite each other into their respective languages, creating an exophonic dialogue between languages; this act of hospitality into Farsi and Afrikaans, framed by a shared proficiency in English, allow the poets access into strange linguistic terrain that they themselves do not understand. Semantic comprehension is unimportant and what does gain currency is the productive disruption caused by bringing so-called minority languages into the hegemonic reading space of an anglophone audience. Each time they use an Afrikaans or Farsi word, they perforate the illusion of a stable and universal English.</p>
 <p style="text-align: center;">Lungscapes</p>
-The fricative reclines in its resonance
-
-across languages and landscapes /
-
-<i>landskappe en tongskappe / </i>
-
-vibrating at the frequency of speech
-
-
-
-The thing about expansiveness
-
-is that it never comes to an end / <i>einder </i>
-
-being a placeholder for the line of sight
-
-circling around continents / consonants
-
-thrill-seeking and trilling
-
-
-
-Each word sinks beneath the horizon
-
-of its throat. Oral moon leaves one last ovum
-
-glimmering in the nighttime stratum
-
-of the sentence. Straddling grammar,
-
-the egg / <i>eier</i> / <i>eie </i>/ <i>ei </i>/ staggers inside its own
-
-weight, the shell needling its decline
-
-with the technology of a crack
-
-
-
-Crack the whip of vocab. <i>Eina, </i>
-
-<i>roep die sin </i>/ sinful / <i>sonde </i>/ <i>sondage. </i>
-
-See, a survey of sounds
-
-shows a sensational reliance on similarity,
-
-on familiarity, intimacy, coitus interruptus,
-
-on a firm verbal handshake shivering
-
-across the surface of poems, loanwords,
-
-and dictionaries in all languages
-
-
-
-Dipping in and out of relevance /
-
-reverb fricative / returns with daybreak / 
-
-line break / crisps diction with gruff 
-
-crackling of spikes, spittle, and frills
-
-
-
-To separate a sound into functionality,
-
-then to reunite it with the gentle endlessness /
-
-<i>langskap einders </i>/ of lungscapes
-
-___________________________________________
-
-
-
-<i>Landskappe (Afrikaans) landscapes</i>
-
-<i>En (Afrikaans) and</i>
-
-<i>Tongskappe (Afrikaans) tonguescapes (neologism)</i>
-
-<i>Einder (Afrikaans) horizon</i>
-
-<i>Eier (Afrikaans) egg</i>
-
-<i>Eie (Afrikaans) own</i>
-
-<i>Ei (Afrikaans) used in “vir ’n appel en ’n ei” for a mere song</i>
-
-<i>Eina, roep die sin (Afrikaans) ouch! the sentence exclaims</i>
-
-<i>Sonde (Afrikaans) sin</i>
-
-<i>Sondage (French) survey </i>
-
-<i>Langskap (Afrikaans) longscape (neologism)</i>
-
-<i>Einders (Afrikaans) horizons</i>
-
-
+<p>The fricative reclines in its resonance</p>
+<p>across languages and landscapes /</p>
+<p><em>landskappe en tongskappe / </em></p>
+<p>vibrating at the frequency of speech</p>
+<p></p>
+<p>The thing about expansiveness</p>
+<p>is that it never comes to an end / <em>einder </em></p>
+<p>being a placeholder for the line of sight</p>
+<p>circling around continents / consonants</p>
+<p>thrill-seeking and trilling</p>
+<p></p>
+<p>Each word sinks beneath the horizon</p>
+<p>of its throat. Oral moon leaves one last ovum</p>
+<p>glimmering in the nighttime stratum</p>
+<p>of the sentence. Straddling grammar,</p>
+<p>the egg / <em>eier</em> / <em>eie </em>/ <em>ei </em>/ staggers inside its own</p>
+<p>weight, the shell needling its decline</p>
+<p>with the technology of a crack</p>
+<p></p>
+<p>Crack the whip of vocab. <em>Eina, </em></p>
+<p><em>roep die sin </em>/ sinful / <em>sonde </em>/ <em>sondage. </em></p>
+<p>See, a survey of sounds</p>
+<p>shows a sensational reliance on similarity,</p>
+<p>on familiarity, intimacy, coitus interruptus,</p>
+<p>on a firm verbal handshake shivering</p>
+<p>across the surface of poems, loanwords,</p>
+<p>and dictionaries in all languages</p>
+<p></p>
+<p>Dipping in and out of relevance /</p>
+<p>reverb fricative / returns with daybreak / </p>
+<p>line break / crisps diction with gruff </p>
+<p>crackling of spikes, spittle, and frills</p>
+<p></p>
+<p>To separate a sound into functionality,</p>
+<p>then to reunite it with the gentle endlessness /</p>
+<p><em>langskap einders </em>/ of lungscapes</p>
+<p>___________________________________________</p>
+<p></p>
+<p><em>Landskappe (Afrikaans) landscapes</em></p>
+<p><em>En (Afrikaans) and</em></p>
+<p><em>Tongskappe (Afrikaans) tonguescapes (neologism)</em></p>
+<p><em>Einder (Afrikaans) horizon</em></p>
+<p><em>Eier (Afrikaans) egg</em></p>
+<p><em>Eie (Afrikaans) own</em></p>
+<p><em>Ei (Afrikaans) used in “vir ’n appel en ’n ei” for a mere song</em></p>
+<p><em>Eina, roep die sin (Afrikaans) ouch! the sentence exclaims</em></p>
+<p><em>Sonde (Afrikaans) sin</em></p>
+<p><em>Sondage (French) survey </em></p>
+<p><em>Langskap (Afrikaans) longscape (neologism)</em></p>
+<p><em>Einders (Afrikaans) horizons</em></p>
+<p></p>
 <p style="text-align: center;">Aarie</p>
-<i>vawhed</i> now <i>vawheh</i>
+<p><em>vawhed</em> now <em>vawheh</em></p>
+<p>from <em>toheed </em>to <em>tohee</em></p>
+<p>the tongue is prosthetic unity</p>
+<p>pros- : <em>in addition to</em></p>
+<p>+τίθημι : to put (literal act of laying down)</p>
+<p>like <em> </em>τῐ́θημῐ <a href="https://en.wiktionary.org/wiki/%CF%80%CE%BF%CF%8D%CF%82#Ancient_Greek">πόδα</a> : I plant the foot</p>
+<p>τῐ́θημῐ <em> </em><a href="https://en.wiktionary.org/wiki/%E1%BD%85%CF%80%CE%BB%CE%BF%CE%BD#Ancient_Greek">τὰ ὅπλα</a>: </p>
+<p>I rest arms</p>
+<p>I bear arms</p>
+<p>I lay down arms and surrender</p>
+<p>language is pros-θέσις</p>
+<p>an addition seeking to fulfil</p>
+<p>an absent limb itching</p>
+<p>a primal map/  ejaculate from</p>
+<p>a time-bruise on the throat</p>
+<p><em>the last song beyond mankind</em></p>
+<p>words as habitat for a thought system</p>
+<p>systemic erasure of sounds echo in history</p>
+<p>the k now silent in knife</p>
+<p>the performative exploitation</p>
+<p>of sounds lost to history</p>
+<h1>q(u&rsquo;)es(t-ce) q(u)e c&rsquo;e(st)</h1>
+<p>(g)nostic tho(ugh)t apropo(s) bigbang ex nihilo</p>
+<p>phlegm’s elusive g</p>
+<p>the χ of Afrikaans</p>
+<p>geld in throat</p>
+<p>lifted off to spell</p>
+<p>the letter that sands</p>
+<p>my tongue-root lucid</p>
+<p>there are too many moving parts to the self</p>
+<p>the only continuity is through language</p>
+<p>there is an entropy to friction </p>
+<p>feel it in your throat</p>
+<p>say χ and listen </p>
+<p>to its pulse</p>
+<p>climb out </p>
+<p>of your laryngeal Tundra</p>
+<p>___________________________________________</p>
+<p></p>
+<p><em>tah (ته) Farsi for “end”</em></p>
+<p><em>tahi (تهی) Farsi, correct ancient pronunciation of “Tohi” colloquially meaning “empty” but literally “that without an end” or “endless”</em></p>
+<p><em>vawhed (واحد) Arabic for “Unit”, commonly used in Farsi</em></p>
+<p><em>vawheh (واحه) Farsi for “oasis”</em></p>
+<p><em>toheed (توحید) Arabic word for “unity” commonly used in Farsi</em></p>
+<p><em>tohee/tohi: refer to “tahi”</em></p>
+<p><em>τίθημι (Greek) tithenai, meaning “to put” also the literal act of lying down</em></p>
+<p><em>τῐ́θημῐ</em> <a href="https://en.wiktionary.org/wiki/%CF%80%CE%BF%CF%8D%CF%82#Ancient_Greek"><em>πόδα</em></a><em> (Greek) tithnyi poda: “to plant the foot”</em></p>
+<p><em>θέσις(Greek): thesis</em></p>
 
-from <i>toheed </i>to <i>tohee</i>
-
-the tongue is prosthetic unity
-
-pros- : <i>in addition to</i>
-
-+τίθημι : to put (literal act of laying down)
-
-like <i> </i>τῐ́θημῐ <a href="https://en.wiktionary.org/wiki/%CF%80%CE%BF%CF%8D%CF%82#Ancient_Greek">πόδα</a> : I plant the foot
-
-τῐ́θημῐ <i> </i><a href="https://en.wiktionary.org/wiki/%E1%BD%85%CF%80%CE%BB%CE%BF%CE%BD#Ancient_Greek">τὰ ὅπλα</a>: 
-
-I rest arms
-
-I bear arms
-
-I lay down arms and surrender
-
-language is pros-θέσις
-
-an addition seeking to fulfil
-
-an absent limb itching
-
-a primal map/  ejaculate from
-
-a time-bruise on the throat
-
-<i>the last song beyond mankind</i>
-
-words as habitat for a thought system
-
-systemic erasure of sounds echo in history
-
-the k now silent in knife
-
-the performative exploitation
-
-of sounds lost to history
-<h1>q(u')es(t-ce) q(u)e c'e(st)</h1>
-(g)nostic tho(ugh)t apropo(s) bigbang ex nihilo
-
-phlegm’s elusive g
-
-the χ of Afrikaans
-
-geld in throat
-
-lifted off to spell
-
-the letter that sands
-
-my tongue-root lucid
-
-there are too many moving parts to the self
-
-the only continuity is through language
-
-there is an entropy to friction 
-
-feel it in your throat
-
-say χ and listen 
-
-to its pulse
-
-climb out 
-
-of your laryngeal Tundra
-
-___________________________________________
-
-
-
-<i>tah (ته) Farsi for “end”</i>
-
-<i>tahi (تهی) Farsi, correct ancient pronunciation of “Tohi” colloquially meaning “empty” but literally “that without an end” or “endless”</i>
-
-<i>vawhed (واحد) Arabic for “Unit”, commonly used in Farsi</i>
-
-<i>vawheh (واحه) Farsi for “oasis”</i>
-
-<i>toheed (توحید) Arabic word for “unity” commonly used in Farsi</i>
-
-<i>tohee/tohi: refer to “tahi”</i>
-
-<i>τίθημι (Greek) tithenai, meaning “to put” also the literal act of lying down</i>
-
-<i>τῐ́θημῐ</i> <a href="https://en.wiktionary.org/wiki/%CF%80%CE%BF%CF%8D%CF%82#Ancient_Greek"><i>πόδα</i></a><i> (Greek) tithnyi poda: “to plant the foot”</i>
-
-<i>θέσις(Greek): thesis</i>
 
 ----
 
 references: 
-- Arsanios, Mirene. <i>Notes on Mother Tongues: Colonialism, Class, and Giving What You Don’t </i> <i>Have. </i>New York City: Ugly Duckling Presse, 2020.
+- Arsanios, Mirene. <em>Notes on Mother Tongues: Colonialism, Class, and Giving What You Don’t </em> <em>Have. </em>New York City: Ugly Duckling Presse, 2020.
 
-Dowling, Sarah. <i>Translingual Poetics: Writing Personhood Under Settler Colonialism. </i>Iowa  City: University of Iowa Press, 2018.
+Dowling, Sarah. <em>Translingual Poetics: Writing Personhood Under Settler Colonialism. </em>Iowa  City: University of Iowa Press, 2018.
 
 Acknowledgements
 
-“Lungscapes” by Klara du Plessis was first published in <i>The Capilano Review</i>: Translingual Issue, Fall 2020.
+“Lungscapes” by Klara du Plessis was first published in <em>The Capilano Review</em>: Translingual Issue, Fall 2020.
 
-“Aarie” by Khashayar Mohammadi was first published in <i>Shrapnel Magazine</i>, 2021. &lt;https://www.shrapnelmagazine.com/poetry/fricative-20&gt;.
+“Aarie” by Khashayar Mohammadi was first published in <em>Shrapnel Magazine</em>, 2021. &lt;https://www.shrapnelmagazine.com/poetry/fricative-20&gt;.
 
 ----
 

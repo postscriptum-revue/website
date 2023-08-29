@@ -6,11 +6,9 @@ subtitle:
 
 ----
 
-author: Frédérique BERNIER
-
-----
-
-affiliation: Université Harvard
+authors: -
+  name: Frédérique BERNIER
+  affiliation: Université Harvard
 
 ----
 
@@ -24,11 +22,9 @@ abstract_en:
 
 text: 
 
-<iframe id="fitvid360960" src="//www.youtube.com/embed/Tecc61MC79o" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<br /> <i>Discussion</i>
-<iframe id="fitvid300109" src="//www.youtube.com/embed/bR-cCvLdgNM" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
+<iframe loading="lazy" id="fitvid360960" src="//www.youtube.com/embed/Tecc61MC79o" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<p><br /> <em>Discussion</em></p>
+<iframe loading="lazy" id="fitvid300109" src="//www.youtube.com/embed/bR-cCvLdgNM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ----
 

@@ -6,11 +6,9 @@ subtitle:
 
 ----
 
-author: Justina Uribe
-
-----
-
-affiliation: Autrice, Université de Montréal
+authors: -
+  name: Justina Uribe
+  affiliation: Autrice, Université de Montréal
 
 ----
 
@@ -22,46 +20,37 @@ abstract_en:
 
 ----
 
-text: <em>No quiero
-Que mis muertos descansen en paz
-Tienen la obligación
-De estar presentes
-Vivientes en cada flor que me robo
-[…]
-Cuando los vivos al borde del insomnio
-Juegan a los dados
-Y enhebran su amargura
-[…]
-No quiero
-Que mis muertos me los hundan
-Me los ignoren
-Me los hagan olvidar
-Aquí o allá
-En cualquier hemisferio
-</em>
--Stella Díaz Varín
+text: <p><em>No quiero<br />
+Que mis muertos descansen en paz<br />
+Tienen la obligación<br />
+De estar presentes<br />
+Vivientes en cada flor que me robo<br />
+[…]<br />
+Cuando los vivos al borde del insomnio<br />
+Juegan a los dados<br />
+Y enhebran su amargura<br />
+[…]<br />
+No quiero<br />
+Que mis muertos me los hundan<br />
+Me los ignoren<br />
+Me los hagan olvidar<br />
+Aquí o allá<br />
+En cualquier hemisferio<br />
+</em><br />
+-Stella Díaz Varín</p>
+<p></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--1024x738.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--1024x738.jpg 1024w, http://localhost:8000/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--300x216.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--768x553.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--1200x864.jpg 1200w, http://localhost:8000/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric-.jpg 1237w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/2-melodiaexilio-chilean-electric-706x1024.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/2-melodiaexilio-chilean-electric-706x1024.jpg 706w, http://localhost:8000/wp-content/uploads/2023/02/2-melodiaexilio-chilean-electric-207x300.jpg 207w, http://localhost:8000/wp-content/uploads/2023/02/2-melodiaexilio-chilean-electric.jpg 760w" sizes="(max-width: 706px) 100vw, 706px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/3-en-familia-1024x619.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/3-en-familia-1024x619.jpg 1024w, http://localhost:8000/wp-content/uploads/2023/02/3-en-familia-300x181.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/3-en-familia-768x464.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/3-en-familia-1200x725.jpg 1200w, http://localhost:8000/wp-content/uploads/2023/02/3-en-familia.jpg 1385w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4-muerte-y-mentira-892x1024.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/4-muerte-y-mentira-892x1024.jpg 892w, http://localhost:8000/wp-content/uploads/2023/02/4-muerte-y-mentira-261x300.jpg 261w, http://localhost:8000/wp-content/uploads/2023/02/4-muerte-y-mentira-768x882.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/4-muerte-y-mentira-1045x1200.jpg 1045w, http://localhost:8000/wp-content/uploads/2023/02/4-muerte-y-mentira.jpg 1260w" sizes="(max-width: 892px) 100vw, 892px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/5-imbunche-1024x819.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/5-imbunche-1024x819.jpg 1024w, http://localhost:8000/wp-content/uploads/2023/02/5-imbunche-300x240.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/5-imbunche-768x614.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/5-imbunche.jpg 1198w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/6-nada-1024x583.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/6-nada-1024x583.jpg 1024w, http://localhost:8000/wp-content/uploads/2023/02/6-nada-300x171.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/6-nada-768x437.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/6-nada-1536x874.jpg 1536w, http://localhost:8000/wp-content/uploads/2023/02/6-nada-1200x683.jpg 1200w, http://localhost:8000/wp-content/uploads/2023/02/6-nada.jpg 1859w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/7-creatures-.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/7-creatures-.jpg 978w, http://localhost:8000/wp-content/uploads/2023/02/7-creatures--300x247.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/7-creatures--768x631.jpg 768w" sizes="(max-width: 978px) 100vw, 978px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/8-duerme-tranquila-1024x571.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/8-duerme-tranquila-1024x571.jpg 1024w, http://localhost:8000/wp-content/uploads/2023/02/8-duerme-tranquila-300x167.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/8-duerme-tranquila-768x428.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/8-duerme-tranquila-1536x857.jpg 1536w, http://localhost:8000/wp-content/uploads/2023/02/8-duerme-tranquila-1200x669.jpg 1200w, http://localhost:8000/wp-content/uploads/2023/02/8-duerme-tranquila.jpg 1732w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/9-les-morts-847x1024.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/9-les-morts-847x1024.jpg 847w, http://localhost:8000/wp-content/uploads/2023/02/9-les-morts-248x300.jpg 248w, http://localhost:8000/wp-content/uploads/2023/02/9-les-morts-768x929.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/9-les-morts.jpg 961w" sizes="(max-width: 847px) 100vw, 847px" /><br />
+<img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/10-ruines-anticipees-1024x1019.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-1024x1019.jpg 1024w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-300x298.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-150x150.jpg 150w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees-768x764.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/10-ruines-anticipees.jpg 1136w" sizes="(max-width: 1024px) 100vw, 1024px" /><br />
+<img decoding="async" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/11-basura-y-mugre.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/11-basura-y-mugre.jpg 975w, http://localhost:8000/wp-content/uploads/2023/02/11-basura-y-mugre-300x260.jpg 300w, http://localhost:8000/wp-content/uploads/2023/02/11-basura-y-mugre-768x666.jpg 768w" sizes="(max-width: 975px) 100vw, 975px" /></p>
 
-
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/1-pienso-en-las-sombras-chilean-electric--1024x738.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/2-melodiaexilio-chilean-electric-706x1024.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/3-en-familia-1024x619.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4-muerte-y-mentira-892x1024.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/5-imbunche-1024x819.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/6-nada-1024x583.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/7-creatures-.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/8-duerme-tranquila-1024x571.jpg" alt="" width="100%" height="auto" />
-
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/9-les-morts-847x1024.jpg" alt="" width="100%" height="auto" />
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/10-ruines-anticipees-1024x1019.jpg" alt="" width="100%" height="auto" />
-<img src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/11-basura-y-mugre.jpg" alt="" width="100%" height="auto" />
 
 ----
 

@@ -6,15 +6,14 @@ subtitle:
 
 ----
 
-author: Servanne MONJOUR
+authors: -
+  name: Servanne MONJOUR
+  affiliation: Université de Montréal
 
 ----
 
-affiliation: Université de Montréal
+abstract_fr: <p>Outil de consécration de l’œuvre d’art, le piédestal a fait l’objet de manipulations subversives tout au long du XXe siècle, pour devenir l’un des principaux leviers parodiques des dispositifs artistiques contemporains. Mais ces récents détournements du piédestal ont-ils le même écho qu’un Ready Made de Duchamp, par exemple, alors que la parodie dite « post moderne », se montre davantage ludique que polémique ? Dans deux œuvres connexes, le film The Watermelon Woman, et l’album photo qui l’accompagne The Fae Richards Photo Archive, la réalisatrice Cheryl Dunye et la photographe Zoe Leonard reviennent sur la carrière de Fae Richards, une actrice afro-américaine homosexuelle des années trente, confrontée au racisme de la société ségrégationniste américaine. À cela près que Fae Richards n’a jamais existé : elle est un personnage de fiction façonné Zoe Leonard et Cheryl Dunye, qui révèlent d’ailleurs la supercherie à la fin du film. The Watermelon Woman et The Fae Richards Photo Archive sont donc des mythomanies documentaires qui, par leur travail de falsification de l’archive, détournent la fonction documentaire habituellement échue à la photographie.</p>
 
-----
-
-abstract_fr: Outil de consécration de l’œuvre d’art, le piédestal a fait l’objet de manipulations subversives tout au long du XXe siècle, pour devenir l’un des principaux leviers parodiques des dispositifs artistiques contemporains. Mais ces récents détournements du piédestal ont-ils le même écho qu’un Ready Made de Duchamp, par exemple, alors que la parodie dite « post moderne », se montre davantage ludique que polémique ? Dans deux œuvres connexes, le film The Watermelon Woman, et l’album photo qui l’accompagne The Fae Richards Photo Archive, la réalisatrice Cheryl Dunye et la photographe Zoe Leonard reviennent sur la carrière de Fae Richards, une actrice afro-américaine homosexuelle des années trente, confrontée au racisme de la société ségrégationniste américaine. À cela près que Fae Richards n’a jamais existé : elle est un personnage de fiction façonné Zoe Leonard et Cheryl Dunye, qui révèlent d’ailleurs la supercherie à la fin du film. The Watermelon Woman et The Fae Richards Photo Archive sont donc des mythomanies documentaires qui, par leur travail de falsification de l’archive, détournent la fonction documentaire habituellement échue à la photographie.
 
 ----
 
@@ -22,7 +21,8 @@ abstract_en:
 
 ----
 
-text: <iframe id="fitvid671374" src="//www.youtube.com/embed/Tqid80v-xf8?rel=0" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+text: <p><iframe loading="lazy" id="fitvid671374" src="//www.youtube.com/embed/Tqid80v-xf8?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
 
 ----
 

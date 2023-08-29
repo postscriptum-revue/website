@@ -6,317 +6,183 @@ subtitle:
 
 ----
 
-author: Sarah Labelle
+authors: -
+  name: Sarah Labelle
+  affiliation: Université de Montréal
 
 ----
 
-affiliation: Université de Montréal
+abstract_fr: <p>Cet article se veut une introduction, en français, à l’œuvre de la poète et traductrice catalane Montserrat Abelló. La porte d’entrée vers cette autrice sera ici son rapport à la langue anglaise, rapport qui s’est construit tout au long de sa carrière au fil de ses lectures, de son travail d’enseignante et de traductrice. Par son choix de l’anglais comme seconde langue, Abelló s’est échafaudé un langage propre, se situant dans une filiation littéraire bâtie sur mesure. Grâce à l’espace créé par les allers-retours entre catalan et anglais, elle a pu affirmer une voix poétique singulière, préfigurant les voix féministes ancrées dans l’intime et les expérimentations langagières de l’exophonie, basées sur la matérialité des mots, les frictions entre langues.</p>
+<p>Mots-clés : traduction, poésie, filiation, féminisme, exophonie</p>
+
 
 ----
 
-abstract_fr: Cet article se veut une introduction, en français, à l’œuvre de la poète et traductrice catalane Montserrat Abelló. La porte d’entrée vers cette autrice sera ici son rapport à la langue anglaise, rapport qui s’est construit tout au long de sa carrière au fil de ses lectures, de son travail d’enseignante et de traductrice. Par son choix de l’anglais comme seconde langue, Abelló s’est échafaudé un langage propre, se situant dans une filiation littéraire bâtie sur mesure. Grâce à l’espace créé par les allers-retours entre catalan et anglais, elle a pu affirmer une voix poétique singulière, préfigurant les voix féministes ancrées dans l’intime et les expérimentations langagières de l’exophonie, basées sur la matérialité des mots, les frictions entre langues.
+abstract_en: <p>This article aims to give an introduction in French to the work of the poet and translator Montserrat Abelló. The main angle will be her relationship to the English language, a relation built throughout her career through her reading choices, her teaching work, and her translations. By choosing English as her second language, Abelló has built her own poetic language and installed it in a custom-made literary lineage. Thanks to the space opened by creating between Catalan and English, she asserted a singular poetic voice, announcing the intimist and feminist voices that would follow, as well as the linguistic experimentations of exophony, based upon words’ corporality and frictions.</p>
 
-Mots-clés : traduction, poésie, filiation, féminisme, exophonie
 
 ----
 
-abstract_en: This article aims to give an introduction in French to the work of the poet and translator Montserrat Abelló. The main angle will be her relationship to the English language, a relation built throughout her career through her reading choices, her teaching work, and her translations. By choosing English as her second language, Abelló has built her own poetic language and installed it in a custom-made literary lineage. Thanks to the space opened by creating between Catalan and English, she asserted a singular poetic voice, announcing the intimist and feminist voices that would follow, as well as the linguistic experimentations of exophony, based upon words’ corporality and frictions.
+text: <p>En 2014, la maison d’édition anglaise Francis Boutle, spécialisée en littératures de langues européennes minoritaires, inaugure sa collection d’œuvres catalanes avec <em>Fifty Love Poems, </em>premier passage vers l’anglais de Montserrat Abelló, ainsi qu’avec <em>The Body’s Reason</em>, première traduction vers cette langue de l’écrivaine féministe Maria Mercè Marçal. La première est une autotraduction, la seconde une traduction à deux mains, réalisée en partie par Abelló. Dans <em>Fifty Love Poems, </em>une des dernières œuvres publiées de son vivant, Abelló jette un regard rétrospectif sur cinquante ans de vie poétique et revitalise ses poèmes par un regard distancié.<a href="#_ftn1" name="_ftnref1">[1]</a> La distance qui regénère la poésie est celle des années, mais aussi, et c’est celle qui nous intéresse ici, celle de la langue. Ou plutôt, celle des allers-retours entre langues.</p>
+<p>Dès le départ, et jusqu’à <em>Fifty Love Poems</em>, la carrière de Montserrat Abelló est inséparable de la traduction – enjeu inévitable, pour tout milieu littéraire construit autour d’une langue nationale minoritaire et historiquement minorisée.<a href="#_ftn2" name="_ftnref2">[2]</a> Malgré ces obstacles, la littérature catalane vit un petit âge d’or, surtout depuis 2007 et la foire du livre de Francfort, où elle était l’invitée d’honneur. Pensons aux succès de traduction comme Mercè Rodoreda ou Quim Monzó, au romancier Jaume Cabré et son <em>Jo confesso</em>, traduit en plus de 20 langues, ou à <em>Canto jo i la muntanya balla</em> d’Irene Solà, représentant la plus jeune génération.<a href="#_ftn3" name="_ftnref3">[3]</a> Ce dynamisme reste cependant fragile, la diffusion à l’international étant totalement dépendante de la traduction et, plus largement, de la vitalité culturelle catalane, de la pérennité de ses institutions.<a href="#_ftn4" name="_ftnref4">[4]</a> En Catalogne, Abelló commence à être étudiée et commémorée officiellement à partir des années 1990, autant pour son œuvre poétique que pour la somme de ses traductions. Elle reçoit la Creu San Jordi en 1998 et le Prix d’Honneur des Lettres Catalanes en 2008. En 2018, quatre ans après son décès, le gouvernement choisit de la célébrer avec l’An Montserrat Abelló, puis, la même année, une journée d’étude est organisée à l’Institut d’Études catalanes. Abelló a travaillé à partir des années 1960 à la diffusion de la poésie anglo-saxonne dans sa langue natale et a traduit Iris Murdoch, Dylan Thomas, Sylvia Plath, Adrienne Rich, Alice Walker, dans plus d’une vingtaine d’ouvrages.</p>
+<p>Abelló est désormais reconnue pour son apport indéniable à l’histoire de la traduction catalane. Inversement, elle est encore peu traduite et diffusée hors Catalogne où, de surcroit, peu de recherches ont été effectuées sur son rapport à l’anglais, en ses termes « sa deuxième langue » (Abelló 2015, 48; Abelló 1998). Je propose ici de lire Montserrat Abelló avec comme point de départ son rapport libérateur à l’anglais, ne serait-ce que pour offrir une porte d’entrée à son œuvre et l’inscrire dans une mouvance poétique et politique plus vaste. Qu’est-ce que la poète trouve dans la langue anglaise? Qu’est-ce qui est modifié, ébranlé, ouvert par celle-ci? Comment l’anglais lui permet-il de se situer en poésie, de trouver lieu et voix?</p>
+<p>« Vivències » : entre anglais et catalan<a href="#_ftn5" name="_ftnref5">[5]</a></p>
+<p>Après sa naissance à Tarragona en 1918, Montserrat Abelló mène très tôt une existence marquée par le mouvement – son père est ingénieur naval et la famille le suit à Cadiz, Carthage, Londres, où elle commence l’apprentissage de l’anglais. Adolescente et jeune adulte, elle vit en Catalogne, entre à l’université en lettres et pédagogie, mais y restera une seule année : en 1936 éclate la guerre civile, provoquée par le coup d’État franquiste. À vingt-et-un ans, après s’être engagée à titre de professeure d’anglais et d’interprète au sein des Brigades internationales, elle accompagne son père en exil. Père et fille s’arrêtent d’abord à Londres, y vivront le début de la Deuxième Guerre mondiale, puis émigrent vers le Chili. Abelló y demeurera vingt ans. Elle quittera Valparaíso en 1960, prendra le chemin du retour. C’est après ce retour en Catalogne que s’amorce officiellement sa carrière littéraire, car les années chiliennes – où elle enseigne, fréquente peintres et poètes comme Joan Oliver, Pablo Neruda et Roser Bru, et réalise ses premières traductions – peuvent être considérées comme ses années de formation. En 1963, Abelló publie un premier recueil, <em>Vida diària </em>(Vie quotidienne)<em>, </em>qu’elle clôt avec le poème « Retour », dont voici les derniers vers (Abelló 2002, 78) :</p>
+<blockquote><p>I així, arrecerada,<br />
+escolto el so de la paraula vostra i meva.<br />
+Com l’aigua que traspua<br />
+de la paret ombriva,<br />
+verda de molsa, i lenta;<br />
+es transforma en una sola gota clara.<br />
+I ara, asseguda<br />
+al llindar de casa meva,<br />
+sóc amb vosaltres.</p>
+<p>//</p>
+<p>Et ainsi, abritée,</p>
+<p>j’écoute le son de votre parole et de la mienne.</p>
+<p>Comme l’eau qui perle</p>
+<p>du mur ombragé,</p>
+<p>vert de mousse, et lente;</p>
+<p>se transforme en une seule goutte claire.</p>
+<p>Et maintenant, assise</p>
+<p>au seuil de ma maison</p>
+<p>je suis avec vous.<a href="#_ftn6" name="_ftnref6">[6]</a></p>
+<p></p></blockquote>
+<p>À travers tous ses séjours à l’étranger, voyages et exils, Abelló ne perd jamais son affection particulière pour la langue anglaise, développée pendant son enfance. Elle a un contact presque maternel avec l’anglais, qu’elle vient à <em>ingérer</em> très jeune – autour des six ou sept ans. La famille ne reste à Londres qu’entre une et deux années, ceci dit dans un contexte d’immersion. Si l’anglais prend très tôt une place importante dans la vie d’Abelló, il n’était pas garanti qu’il la conserverait : la famille retourne en Catalogne – où la deuxième langue est l’espagnol – puis l’exil la mène à Valparaíso. L’anglais comme deuxième langue est autant le résultat des circonstances que celui d’un choix. Choix qui deviendra poétique, politique, mais qui au départ n’en est qu’un d’affinité, de curiosité, de plaisir. Comme Nathalie Sarraute dans <em>Enfance</em>, son dialogue d’inspiration biographique, Abelló s’éveille à la musicalité et à la puissance des mots grâce à l’<em>étrangeté </em>de l’anglais. Sarraute, comme Abelló, se mesure très jeune aux sonorités neuves de l’allemand ou du français. Dans son récit, le russe et le français se côtoient :</p>
+<blockquote><p>… venus sans doute des plaines ensoleillées que je voyais par la fenêtre… le mot français <em>soleil </em>et le même mot russe <em>solntze </em>où le <em>l </em>se prononce à peine, tantôt je dis sol-ntze, en ramassant et en avançant les lèvres, le bout de ma langue incurvée s’appuyant contre les dents de devant, tantôt so-leil en étirant les lèvres, la langue effleurant à peine les dents. Et de nouveau sol-ntze. Et de nouveau so-leil (Sarraute 1983, 107).</p></blockquote>
+<p>Ce sont les sonorités des mots, mélodieuses ou dures, qui frappent la jeune Montserrat, à l’instar de la voix narrative mise en scène par Sarraute. Et cette distance, cette opacité à surmonter, exacerbe la musicalité des langues, la nouvelle comme la maternelle.</p>
+<p>Comme Sarraute qui évoque la joie de se faire happer par les livres (« un courant invisible m’entraîne » : <em>Ibid</em>., 266), la lecture est pour Abelló cruciale à l’entrée vers le nouveau monde langagier : « Déjà petite, j’en connaissais les <em>Nursery Rhymes </em>(des poèmes pour enfants), et ensuite, bien sûr, beaucoup de poésie : Shakespeare, Keats, Shelley, Rossetti. Lire était ma passion »<a href="#_ftn7" name="_ftnref7">[7]</a> (Abelló 1998). Après le séjour londonien, Abelló continue de lire en anglais. Puis elle l’étudiera et l’enseignera, avant et après l’exil. À son retour à Barcelone dans les années 1960, elle reprend les études de philologie commencées avant l’éclatement de la guerre civile un quart de siècle plus tôt, se spécialise en étude comparative de la phonétique anglaise et catalane.</p>
+<p>Fait intéressant : ni Abelló la poète, ni Montserrat enfant ne se butent à une altérité totale. Au contraire, la langue est assez <em>étrange</em> pour que l’enfant y dénote des frictions, mais aussi assez familière pour qu’elle puisse y plonger. À plusieurs reprises, Abelló souligne les rapprochements qui peuvent être faits entre l’anglais et le catalan : le rythme marqué par les toniques, qui allongent les sons, ou la grande quantité de mots monosyllabiques. Lorsqu’elle aborde sa pratique de la traduction, Abelló la décrit comme très fluide, instinctive, grâce à cette proximité des sons et des accentuations dans les deux langues (Carné 2007, 189). Le catalan est une langue plus coupante, tranchée, que le sont par exemple l’espagnol ou l’italien. Les mots sont courts, se terminent plus souvent sur des consonnes dures (comme [t], [d], [k]). Comme en anglais, particulièrement les accents plus découpés des îles britanniques, la plupart des consonnes se prononcent. Naturellement, la poésie syncopée et rythmée propre à la langue anglaise et le catalan, sec, ciselé, se rapprochent. Moins radical qu’on l’imaginerait, le déplacement vers l’anglais implique tout de même un repositionnement – l’espagnol devrait par la force des choses mériter ce titre. Le choix de l’anglais comme deuxième langue est politique tout autant que créatif, au diapason des revendications nationales catalanes et des luttes féministes.</p>
+<p>Certain·es poètes ou artistes se déplacent vers une langue étrangère pour y trouver de l’espace pour respirer, une liberté créative, un lieu où rebâtir. Ou pratiquer la fuite. La poète argentine Alejandra Pizarnik, par exemple, écrit en français pour poursuivre une quête impossible, pour aller toujours plus loin dans sa marche vers les limites du poème. « Whether in Spanish or in French, in Buenos Aires or in Paris, her voice remains that of the eternal émigré who searched for a home but failed to find it. Pizarnik wrote the way she lived: in a state of restless longing » (McNamara 2018). D’autres, j’argumenterais, y trouvent juste assez de confort et de familiarité. C’est le cas d’Abelló. Elle s’y installe, par passion pour la langue, d’abord, mais ensuite comme force créatrice. L’anglais nourrit la langue maternelle. Il la revitalise, comme l’autotraduction et son mouvement. Les allers et retours entre les langues, tout au long d’une carrière de poète et de traductrice, stimulent la création. Mais surtout, le rapport à l’anglais d’Abelló lui permet de changer ses frontières, ses cadres et contraintes : il est libérateur. Il lui permet de s’inscrire dans une lignée de poètes, de créer dans sa propre langue selon des modalités qui la satisfont, d’entrer dans un dialogue poétique riche.</p>
+<p>L’ancrage : filiation, féminisme et traductions</p>
+<p>L’œuvre d’Abelló s’insère naturellement dans une mouvance plus vaste de poésie féminine/féministe du xxe siècle, une appartenance qu’elle a elle-même choisie avec ses traductions, tant vers le catalan que vers l’anglais. L’écrivaine et chercheuse Lluïsa Julià, lui reconnaissant une trajectoire singulière, la résume ainsi : « Dès le départ la poésie de Montserrat Abelló s’est établie sur deux lignes de recherche : la volonté d’être, d’exister, de dire sa raison d’être, et la conscience collective d’être “femme” dans le monde »<a href="#_ftn8" name="_ftnref8">[8]</a> (2014, 1). Cette conscience collective, peut-être l’a-t-elle ressentie en tout premier lieu dans la nécessité d’exprimer ce <em>quelque chose</em> d’enfoui, confiné au silence. Dans son recueil <em>L’arrel de l’aigua</em> (La racine de l’eau), elle en décrit les fondements en un court poème (Abelló 2002, 250) :</p>
+<blockquote><p>Je cherche mon</p>
+<p>identité</p>
+<p>soumise, cachée</p>
+<p>des milliers d’années sous</p>
+<p>le sexe.</p>
+<p></p>
+<p>À peine éveillée</p>
+<p>et déjà en morceaux<a href="#_ftn9" name="_ftnref9">[9]</a></p></blockquote>
+<p>La quête s’accompagne d’un repositionnement. À partir des années 1980, plusieurs événements et engagements précisent l’orientation féministe de la carrière d’Abelló, une orientation née avant tout d’une obligation, d’un manque à combler. « Je suis féministe par nécessité »<a href="#_ftn10" name="_ftnref10">[10]</a> (Pujol 2013, 18). Abelló s’implique à la revue <em>Dones en lluita </em>(Femmes en lutte), à <em>laSal</em>, maison d’édition et café-librairie, travaille pour la Foire Internationale du livre féministe à Barcelone, fait partie des créatrices du Comité d’Écrivaines du Centre Catalan du PEN Català. Lors de ces deux dernières occasions, l’implication consiste aussi en traductions d’œuvres catalanes et castillanes vers l’anglais, prélude à un travail de diffusion vers l’international. La lutte féministe et catalaniste pour Abelló, passe avant tout par l’acte de la traduction. Ces mêmes années, elle publie <em>Cares a la finestra </em>(Visages à la fenêtre), une anthologie sous-titrée « 20 femmes poètes de langue anglaise du XXe siècle ». Abelló fait pour ce travail, détaille Caterina Riba, une recherche imposante, dans les Instituts britannique et nord-américain de Barcelone, dans les librairies spécialisées de Londres et auprès de spécialistes et poètes. La publication de l’anthologie devient un acte d’« espionnage poétique », grâce auquel de nouveaux modèles sont importés en Catalogne (Riba 2015, 207). La poésie anglophone avait donc le potentiel de donner du souffle au milieu catalan.</p>
+<p>Ce souffle, Abelló l’a trouvé par elle-même au sein de la tradition anglo-saxonne, lorsqu’elle a lu Sylvia Plath. À Bristol, en 1971, un ami professeur et poète lui offre <em>Winter Trees</em>. Immédiatement, Abelló se sent interpellée. Elle fera ensuite constamment référence à cette rencontre en poésie avec Plath comme un moment clé, qu’elle décrit ainsi : « Je m’y suis tout de suite identifiée. Enfin j’avais trouvé une personne qui voyait la poésie comme je la voyais. Elle aussi <em>voulait</em> vivre la Vie en majuscules, avoir un mari, des enfants, être une grande poète, avoir tout ça… Mon sentiment était semblable. Comme un sentiment de rébellion. »<a href="#_ftn11" name="_ftnref11">[11]</a> (Torrents 2006, 100). Les écrits de Plath sont aujourd’hui reconnus comme ayant été l’un des catalyseurs du Women’s Lib. Ce qui peut être décelé derrière ses mots, une voix « seething, private, caustic » (Clark 2021, 57), stimule de nombreuses prises de parole. Abelló est de celles et ceux qui, en la rencontrant, sentent s’ouvrir une brèche. Elle nourrit déjà une sensibilité pour la prose anglophone durant des décennies, lorsqu’elle découvre Plath, mais la côtoyer en traduction (avec beaucoup d’autres) fonde un nouvel élan créateur. Si le recueil de 1963 est son entrée en poésie, le suivant marque un tournant. En 1981, avec <em>Vida diària. Paraules no dites</em> (Vie quotidienne. Les mots non-dits), elle brise un silence de presque vingt ans et publiera ensuite fréquemment. Le milieu féministe, qui s’est depuis structuré, lui donne aussi un lieu d’appartenance plus clair. Cette transition est apparente à travers les prologues de ses œuvres. À partir de <em>Paraules no dites, </em>les prologuistes sont des femmes de la nouvelle génération de poètes : Marta Pessarrodona ou Maria Mercè Marçal, entre autres.</p>
+<p>Les relations bâties avec le milieu féministe sont importantes, mais différentes de celles nouées par la traduction, qui bâtit une proximité particulière. Comme l’anglais est rythmiquement proche du catalan, Abelló se permet de traduire le plus souvent ligne par ligne. Elle parcourt un texte rapidement avant de se mettre au travail, mais se laisse <em>aller à la rencontre</em> du poème pour la première fois seulement au moment même de la traduction. Et ainsi, sans traduire seulement le sens, mais si possible la cadence et le son, elle se rapproche de l’original (Carné 2007, 189). La traduction, dit-elle, est une façon de lire plus en profondeur (<em>Ibid</em>., 187). De passer le texte à travers soi. Abelló en fait donc un mouvement initié par une rencontre textuelle, mais qui se déploie intérieurement.</p>
+<p>La traduction fidèle est aussi rendue possible par la proximité entre ce qui est traduit et ce qui est créé, entre les lectures et les mots neufs. Abelló développe un langage, bâti de ces lectures-traductions et de son écriture propre. Elle fait de ce langage un tout, où « poésie directe et poésie traduite sont une seule poésie »<a href="#_ftn12" name="_ftnref12">[12]</a> (Torrents 2006, 101). Un choix significatif est d’avoir inclus une sélection de traductions à son anthologie de 2002, <em>Al cor de les paraules </em>(Au cœur des mots), sous le titre d’« <em>Altres veus</em> ». Les traductions sont des dialogues avec d’« Autres voix », au travers desquels des relations, puis une filiation se dessinent. Ce qui fait de la traduction chez Abelló un repositionnement – un déplacement, un ancrage. Car au départ, comme elle l’affirme, aucun canon littéraire ne la définit : « J’ai terminé de me le construire en publiant <em>Cares a la finestra</em>. »<a href="#_ftn13" name="_ftnref13">[13]</a> (Riba 2015, 207). Ce qu’elle ne trouvait pas dans sa propre tradition littéraire, encore bien sûr très masculine et classique, elle se l’approprie par la traduction et se bâtit ainsi un nouveau cadre formé d’Adrienne Rich, de May Sarton, de Sylvia Plath et de l’incontournable Woolf. Dans le recueil fondateur <em>Paraules no dites </em>se trouve un des rares poèmes avec un titre, lequel est « À Virginia Woolf ». En reprenant dans ses propres mots un des célèbres textes de l’écrivaine, qu’elle vient d’étudier lors d’un séminaire<a href="#_ftn14" name="_ftnref14">[14]</a>, elle l’intègre aussi à son propre langage, le fait sien. « Chacun doit avoir / sa propre pièce. / Et un patio bleu / où promener ses doutes. »<a href="#_ftn15" name="_ftnref15">[15]</a> (Abelló 2002, 103). <em>A Room of One’s Own</em> n’était à ce moment pas encore traduit en catalan.</p>
+<p>Avec Plath, la complicité littéraire dure plusieurs décennies. Abelló la traduit encore en 2006, dans l’anthologie <em>Soc Vertical</em>, comprenant tous ses poèmes entre 1960 et 1963. La « symbiose » (Mur 2009, 100) entre les voix poétiques d’Abelló et Plath se révèle sous plusieurs aspects – une colère bouillonnant sous les lignes, une poésie construite sur la puissance et le poids des mots, un ton personnel, basé sur l’expérience, mais versant vers l’abstraction, aux accents oraculaires, mythiques. Le poème « Desenes de mirages » (Scores of mirages) présente une structure rythmée, mais surtout un mélange de dureté et de douceur, et un combat entre les couleurs (les dangers du bleu, la vivacité du rouge) qui rappelle Plath. On sent « sa voix comme une trame de fond qui discoure en parallèle »<a href="#_ftn16" name="_ftnref16">[16]</a> (<em>Ibid</em>., 100), encore plus dans l’autotraduction vers l’anglais (Abelló 2014, 59) :</p>
+<blockquote><p>Scores of mirages,</p>
+<p>circles and more circles,</p>
+<p>water swirling wildly,</p>
+<p>always swallowed.</p>
+<p></p>
+<p>In the middle, the strength</p>
+<p>of a look that plays</p>
+<p>with the sweetness of skin</p>
+<p>and searches the deep</p>
+<p>root of water.</p>
+<p></p>
+<p>What I have is</p>
+<p>a pencil in my hand,</p>
+<p>a paper in front of me</p>
+<p>and the wish to write</p>
+<p>names full of tenderness.</p>
+<p></p>
+<p>The colour is blue:</p>
+<p>dark blue in the afternoon,</p>
+<p>the azure blue of the sea at midday, blue</p>
+<p>– sky blue of the sky – and the ash</p>
+<p>blue of oblivion.</p>
+<p></p>
+<p>I do not want it to be so</p>
+<p>and look for</p>
+<p>the red of blood</p>
+<p>within my skin.</p></blockquote>
+<p>Les traductions vers le catalan de Montserrat Abelló naissent de la nécessité de faire découvrir de nouvelles voix en Catalogne (Carné 2007, 190). La <em>nécessité</em>, chez Abelló, revient à toutes les occasions. Tout comme être féministe, traduire est une nécessité, ainsi qu’écrire : « Je me demande si écrire est une passion ou une nécessité de survivre. »<a href="#_ftn17" name="_ftnref17">[17]</a> (<em>Ibid</em>. 2002, 84). Mais ces traductions qui s’imposent, ces poèmes qui s’extériorisent, ces combats à mener sont tout de même dépendants du choix, sans cesse reconduit, de la poète. Le choix de garder l’anglais vivant dans l’esprit, celui de convoquer certaines voix dans sa pratique, de même que de faire résonner sa voix propre. Le choix, plus encore, de cultiver des relations littéraires avec Virginia Woolf ou Sylvia Plath, ainsi qu’avec la vague de poètes féministes qui les suivront. Dans son prologue à <em>Foc a les mans </em>(Le feu dans les mains), Maria Mercè Marçal place Abelló dans une lignée de femmes poètes catalanes (1998, 12). Sauf qu’à mon sens, l’associer d’abord à une autre lignée, celle qu’elle se construit, est plus représentatif – sans pour autant diminuer les démarches poétiques de celles qui précédent, telles Rosa Leveroni ou Clementina Arderiu. Abelló a longtemps écrit dans la solitude, publié dans la solitude. La première communauté littéraire est celle construite par les lectures, puis les traductions; c’est ensuite que les institutions féministes l’ont rattrapée. En 1963, avec <em>Vida diària</em>, elle est une discrète pionnière.</p>
+<p>L’élan : prise de parole poétique</p>
+<p>Retournons donc vers les années 1960, la fin de l’exil et surtout à <em>Vida diària</em>, le « programme d’entrée dans une vie nouvelle, celle de la poésie et de l’activisme »<a href="#_ftn18" name="_ftnref18">[18]</a> (Torrents 2006, 100). <em>Vida diària </em>ne cadre pas avec la poésie de l’époque (Agado 1998, 18), d’abord car l’œuvre s’affranchit des structures classiques et emprunte le style du vers libre. Abelló donne de l’espace à ceux-ci, laissant souvent un mot seul sur la ligne. Ensuite, elle se détache des thèmes et des luttes à l’avant-plan de son époque, prenant encore dans l’ombre une voie alternative, celle d’une voix poétique existentielle, introspective : tournée vers soi, vers son expérience, composée d’instantanés intimes. Même si un public apparaît parfois, il s’agit majoritairement d’un seul <em>je</em>, d’une seule voix, celle de la poète devant la nuit vertigineuse. <em>Vida diària</em> est peuplé d’arbres et de jardins, de mains qui reprisent et écrivent, de nuages, de nuits d’été, d’angoisses et de tendresses. Le vers libre autorise plusieurs variations dans la forme – de longs poèmes avec beaucoup de souffle, comme des poèmes courts et ciselés, dépouillés parfois jusqu’à en devenir flous. Les mots restent simples. Il s’agit déjà d’une voix très moderne, dont voici deux courts poèmes (Abelló 2002. Ets tendre : 42; La tarda : 58) :</p>
+<blockquote><p>Ets tendre,</p>
+<p>estàs malalt.</p>
+<p>Confons</p>
+<p>el negre amb el blanc.</p>
+<p>I em pregunto per què.</p>
+<p>Per què jo</p>
+<p>Tu es tendre,</p>
+<p>et tu es malade.</p>
+<p>Tu confonds</p>
+<p>le noir et le blanc.</p>
+<p>Et je me demande pourquoi.</p>
+<p>Pourquoi moi</p>
+<p>no et puc aclarir aquest enigma,</p>
+<p>si duus la meva sang.</p>
+<p>//</p>
+<p>je ne peux t’élucider cette énigme,</p>
+<p>si tu portes mon sang.</p>
+<p>//</p>
+<p>La tarda plena de presagis</p>
+<p>és la llanterna inútil</p>
+<p>sobre un món gras, ensopit,</p>
+<p>sense bellesa.</p>
+<p>I el plor s&rsquo;ha fet amarg,</p>
+<p>cenyit com una mortalla.</p>
+<p></p>
+<p>La soirée pleine de présages</p>
+<p>est la lanterne inutile</p>
+<p>d’un monde gras, assoupi,</p>
+<p>sans beauté.</p>
+<p>Et le pleur s’est fait amer,</p>
+<p>serré comme un linceul.</p></blockquote>
+<p><em>Vida diària</em> décrit les sensations douces-amères du retour (« Retorn »), mais aussi des instants volés, entre deux obligations de la vie quotidienne. « Aujourd’hui je suis orgueilleuse de mon temps »<a href="#_ftn19" name="_ftnref19">[19]</a>, écrit la poète, décrivant un personnage qui s’abreuve d’art abstrait, observe les vitrines, la mer, sans coudre ni repasser. Dans le recueil sont transmis des moments d’impuissance, comme « Tu es tendre », laissant parfois sous-entendre une révolte. Surtout, des moments de contemplation, lorsque tombe le soir et ses présages. La nuit y est inquiétante : « maintenant le calme me frappe » (<em>Ibid</em>., 65), douce, en compagnie des « Poètes aimés, aimées » (<em>Ibid</em>., 69) ou faite de vide et de silence (<em>Ibid</em>., 53) :</p>
+<blockquote><p>Oh, quines ànsies tinc</p>
+<p>de veure nits obertes,</p>
+<p>plenes d’un blau seràfic,</p>
+<p>i aqueixes nits amargues que degoten</p>
+<p>sobre les pedres impassibles.</p>
+<p></p>
+<p>Hi ha remor d’ales feixugues</p>
+<p>que passen fregant la terra.</p>
+<p>Però la nit és closa;</p>
+<p>no n’entenc la veu negra.</p>
+<p></p>
+<p>Em cansa tanta espera.</p>
+<p>Les hores cauen com les fulles.</p>
+<p></p>
+<p></p>
+<p>Oh, j’ai de telles angoisses</p>
+<p>à voir les nuits ouvertes,</p>
+<p>pleines d’un bleu séraphique,</p>
+<p>et ces nuits amères qui dégoutent</p>
+<p>sur les pierres impassibles.</p>
+<p></p>
+<p>Il y a une rumeur d’ailes lasses</p>
+<p>qui passent et frôlent le sol.</p>
+<p>Mais la nuit est close;</p>
+<p>je n’entends pas sa voix noire.</p>
+<p></p>
+<p>Tant d’attente m’épuise.</p>
+<p>Les heures tombent comme les feuilles.</p></blockquote>
+<p>Alors qu’Abelló ne l’avait pas encore lue, ce poème évoque l’imagerie de Sylvia Plath – ces instants d’attente mi-convaincue d’un présage, d’un éclat fugace. Comme le met en scène le poème « Black Rook in Rainy Weather », où un corbeau occupé à réarranger ses plumes a la capacité d’invoquer, par sa brillance, une éphémère satisfaction. Cet éclat subi, cette lumière, « rumeur d’ailes lasses » frôlant le sol, s’invite sous la forme d’un oiseau au cœur d’un paysage monotone et fatigué, mais peut aussi s’emparer des objets du quotidien, d’une table de cuisine, d’une chaise. « A certain minor light may still / Leap incandescent / Out of kitchen table or chair / As if a celestial burning took / Possession of the most obtuse objects now and then » (Plath 2008, 34). Plath s’imagine une longue marche, ponctuée d’instants chargés de sens, lumineux – de présages, qui élisent oiseaux ou tables de cuisine, indistinctement. Abelló met en scène des nuits amères d’attente, au cœur de la vie quotidienne, lorsque le monde se fait immobile et ceint d’un linceul, de longues soirées lourdes de messages, où une transcendance lointaine interrompt le cours des choses. Puis, « The wait’s begun again, / The long wait for the angel, / For that rare, random descent » (<em>Ibid</em>., 35).</p>
+<p>Le recueil d’Abelló est soutenu par Joan Oliver, un des célèbres poètes de l’époque, qu’elle avait côtoyé au Chili. Oliver lui écrit un prologue enthousiaste – il louange une poésie « transparente », austère, au style économe et rigoureux – mais aussi préventif, d’un ton qui semble aujourd’hui verser vers la condescendance. Oliver prévoit des réactions négatives, à l’image de la sienne en premier lieu. Il avoue que la seule raison de sa réelle attention au recueil, qu’il aurait pu considérer « juvénile », « vaniteux » ou « le loisir d’une dame oisive »<a href="#_ftn20" name="_ftnref20">[20]</a>, a été l’amitié qui le liait à Abelló (Oliver 1998, 8). Il affirme que les poèmes sont écrits dans un langage nouveau, qui secoue l’immobilisme de la tradition, mais qu’ils sont distincts « du petit concert de notre poésie féminine ». Oliver se sent donc obligé de défendre l’œuvre d’Abelló, insistant sur sa nouveauté : sans doute parce qu’en arrière-plan se tient la vie quotidienne si peu prisée, contée, qui plus est, par une voix féminine. Il défend une poésie « concrète », parcourue quand même par « trois ou quatre motifs de transcendance »<a href="#_ftn21" name="_ftnref21">[21]</a> (<em>Ibid</em>.). En contraste avec un immobilisme (non-défini), Abelló élèverait une voix poétique moderne. Sans avoir besoin d’affirmer son opposition avec la tendance littéraire, Abelló plonge effectivement dans une expressivité qui est totalement la sienne, ancrée dans ses préoccupations et ses désirs. Bien qu’elle publie toute sa vie durant en catalan et affirme son support à la cause catalane, elle situe le cœur de sa lutte ailleurs : féminisme, pluralité des voix, authenticité… Donc, elle ne penche ni vers le réalisme historique ni vers l’élégie classique, deux courants de l’époque.</p>
+<p>Le moment est forcément politique en Catalogne, au vu de la violence extrême de la dictature franquiste envers les peuples minoritaires d’Espagne et leurs langues. En 1963, alors que paraît <em>Vida diària</em>, une anthologie iconique de poésie catalane est publiée : <em>Poesía catalana del segle XX, </em>de Castellet et Molas. À partir de poèmes choisis entre 1900 et 1960, les éditeurs retracent l’évolution de la poésie catalane depuis le symbolisme et surréalisme jusqu’à l’acte de naissance du réalisme historique. Ce « réalisme historique », bien entendu moins homogène que décrit dans cette anthologie militante de 1963<a href="#_ftn22" name="_ftnref22">[22]</a>, est vanté comme la tendance poétique marquante du moment. Plusieurs poètes modèleront leurs voix à cette nécessité politique (Torrents 2006, 99). Proche du réalisme social, d’une conscience historique marquée, avec des voix « lucides et désolées » (Castellet 1978, 190), cette « poésie d’idée » (<em>Ibid</em>., 185) est aussi le reflet de la misère des années de dictature. Elle s’est construite en réaction à l’ancienne génération poétique, celle d’Abelló – bien que celle-ci n’y soit jamais associée, probablement à cause de l’exil et d’une carrière qui débute tardivement.</p>
+<p>Cette génération littéraire des années 1930 se mérite plusieurs noms, notamment : génération sacrifiée, génération perdue, génération de la république ou génération de 36 (Abrams 2016). Le groupe de « L’École des Bibliothécaires », entourant le célèbre classiciste et poète Carles Riba, possède une culture littéraire basée sur l’étude des classiques européens : les œuvres grecques et latines, mais aussi les œuvres catalanes médiévales. La poète Rosa Leveroni, formée par cette école, écrit des « chants », une poésie lyrique qui « appartient à la lignée des poètes élégiaques »<a href="#_ftn23" name="_ftnref23">[23]</a> (Mohino i Balet 2010, 10). En comparaison, la seconde langue et surtout langue d’étude d’Abelló est l’anglais, ce qui lui ouvre un nouvel espace. Affirmer et pratiquer l’anglais ainsi lui offre, en ces années d’effervescence politique et sociale, une distance vis-à-vis de l’espagnol associé à la dictature, ainsi que la liberté de ne pas se limiter à sa propre tradition linguistique ni aux modèles littéraires de sa génération. Elle est donc libérée du poids politique qui devrait conditionner le poème et de l’obligation d’appartenance à une école littéraire.</p>
+<p>Abelló exprime souvent la libération ressentie quand elle s’est enfin autorisée à faire de la poésie en abandonnant les modèles classiques et en revenant à la plus petite unité, un mouvement qui découle d’abord des circonstances. L’événement déclencheur immédiat est le diagnostic de son troisième enfant, atteint du syndrome de Down. Et de là, encore, une <em>nécessité</em> :</p>
+<blockquote><p>Quand j’ai entendu le mot « Down », il m’était complètement inconnu. C’était la dernière chose qui me serait passée par l’esprit. À la maison on se prenait pour intelligents, on résolvait les choses facilement et on avait le cerveau mathématique. En sortant de la clinique, la tête me tournait. Et j’ai eu besoin d’écrire. Mais pas sur des choses concrètes, sur mon enfant, plutôt sur la vie en général. Je l’ai fait comme ça sortait, sans contraintes, et alors oui, ça a bien sonné<a href="#_ftn24" name="_ftnref24">[24]</a> (Pujol 2013, 16).</p></blockquote>
+<p>Si l’événement déclencheur est ce diagnostic, les fondations de la voix poétique d’Abelló résultent d’une longue élaboration. On invoque fréquemment sa féminité pour expliquer sa poésie libérée et concrète. Sauf qu’en donnant uniquement cette explication, on minimise sa relation quotidienne avec l’anglais, lors de ses décennies d’enseignement – au Chili, puis en Catalogne jusqu’en 1983 – et lors de ses études en phonétique. Du reste, Abelló n’a jamais délaissé le métier de traductrice, toujours un complément à la création poétique, au point où les deux pratiques se confondent. Non seulement les formes de la poésie en anglais infiltrent sa poésie, mais ce contact maintenu avec la langue, sa grammaire, ses formalités, modifie la poésie et la rend plus matérielle – « concrète » dit Joan Oliver dans son prologue. Attardons-nous, pour terminer, sur ce que cela peut signifier.</p>
+<p>Ce que réalise Abelló en se débarrassant des structures formelles, c’est un retour à l’essentiel. Les mots (re)deviennent la matière première du poème. Un corps externe à manipuler, à façonner. Le motif des mains, d’ailleurs, est partout dans <em>Vida diària. </em>Les mots sont aussi des créatures à apprivoiser, des corps envahissants, tout au long de la carrière poétique. Ils s’emmêlent autour des doigts (Abelló 2002, 95), ils envahissent la gorge asséchée (<em>Ibid</em>., 90). Ils sont la matière première, donc la structure fondamentale. Les nombreux mots seuls sur leur ligne en sont le squelette apparent. Plus encore, ils soutiennent le poème par leurs sonorités et leur puissance intrinsèque de sens.</p>
+<p>La sonorité du mot est aussi importante qu’au premier contact avec une langue, lorsque l’apprenant·e se bute à la prononciation. Cette conscience du mot en lui-même, de la corporalité de la prononciation, est typique des gens qui changent de langue. Le mot paraît d’abord extérieur, séparé – doit ensuite être intégré, ingéré. Ce contact particulier avec les sons, ce regard neuf, est essentiel à la poésie vers laquelle tend Abelló – elle qui insiste sur l’importance de lire à voix haute et qui fait un grand nombre de lectures publiques. Les sonorités déclenchent, mais surtout lient, tiennent le poème. Comme le <em>soleil</em> / <em>sol-ntze </em>de l’<em>Enfance</em>, qu’on ne se lasse jamais de répéter. Comme les démarches exophones, de créatrices telles Alejandra Pizarnik ou Yoko Tawada. Tawada, qui se mesure à l’opacité des mots et des signes, construisant « sur la matérialité ou la corporalité du langage »<a href="#_ftn25" name="_ftnref25">[25]</a> (Masumoto 2020). Les mots sont matière, nourriture même, qui se doit d’être mâchée. « Words in a foreign language are, to me, in a particular way, words that I am consuming » (Brandt 2005, 4). Cela s’approche de ce que fait Abelló lorsqu’elle traduit les poètes anglo-saxonnes pour se bâtir un corpus-cadre. Elle ingère, assimile une autre langue.</p>
+<p>En restant <em>entre</em> les langues par la traduction et l’enseignement, Abelló cultive la richesse d’être frappée par leurs sonorités, jusqu’en 2014, avec <em>Fifty Love Poems. </em>Certaines libertés qu’elle prend par rapport à la version originale révèlent l’attention importante accordée aux sons. « Desenes de miratges » devient, plutôt que « Dozens of mirages » : « Scores of mirages ». Dans sa première strophe, l’eau qui tournoie s’entend dans les combinaisons de consonnes, même plus que dans la version catalane (Abelló 2014, 58-59) :</p>
+<blockquote><p>Scores of mirages,</p>
+<p>circles and more circles,</p>
+<p>water swirling wildly</p>
+<p>always swallowed.</p>
+<p></p>
+<p>//</p>
+<p>Desenes de miratges,</p>
+<p>cercles i més cercles,</p>
+<p>aigua que gira vertiginosa,</p>
+<p>sempre engolida.</p></blockquote>
+<p>« Desconec tot engany » devient en anglais plus bref et découpé : « I lack the wit » (<em>Ibid</em>., 12-13). Et pour évoquer l’allitération de « sols grocs exuberants i esplèndids », la splendeur devient « radiance » : « exhuberant and radiant yellow suns » (<em>Ibid</em>., 62-63). La poésie d’Abelló, faite pour être prononcée, concrète, est nourrie par un <em>entre-langues</em>, parcouru toute sa vie.</p>
+<p>Libérer le poème de ses formes, tout faire reposer sur les mots en eux-mêmes nécessite aussi des mots solides comme les pierres (Abelló 2002, 69). Des mots au pouvoir d’évocation si puissant que les êtres perdus se matérialisent. « J’écris ton nom / et te sais si proche / que, fermant les yeux / c’est comme si je te touchais / du bout des doigts » <a href="#_ftn26" name="_ftnref26">[26]</a> (<em>Ibid</em>. 2014, 106). Des mots vivants, car, comme le résume Ester Pou Jutglar : « Words, as she has often reminded us, have a heart and beat like life itself. » (2014). Le geste poétique est donc de magnifier une charge déjà présente. S’affranchissant des contraintes formelles et des traditions, Abelló retourne peut-être même plus loin dans le temps, à une époque mythique où les mots étaient sacrés, chargés. En retournant vers cet âge indéfini de sons et de sens, elle énergise son langage, à l’image de Tawada qui, d’abord grâce à la traduction, puis à l’exophonie, « libère le langage de son sens figé et le revitalise »<a href="#_ftn27" name="_ftnref27">[27]</a> (Masumoto 2020).</p>
+<p>La démarche d’Abelló, au départ isolée, s’inscrit dans une large mouvance lorsqu’on la considère à partir de la filiation littéraire qu’elle se crée. Encore plus vaste, en considérant qu’elle travaille à partir d’un langage qui se reforme et se réajuste, au courant du XXe siècle, pour englober les nécessités poétiques, les <em>vivències</em> singulières des créateur·ices oublié·es de la tradition littéraire ou incapables de s’y retrouver. Abelló est accompagnée dans cette voie par beaucoup d’autres : la Plath d’<em>Ariel</em>, l’Adrienne Rich de la fin des années 1960, jusqu’à Pizarnik et ses poèmes épurés d’<em>Árbol de Diana</em>. Et la lignée peut se poursuivre jusqu’à aujourd’hui, jusqu’à la poésie de Yoko Tawada, démarche créatrice bâtie sur mesure pour accommoder les expériences vécues. La poésie d’Abelló profite de cette même richesse : celle d’expérimenter avec une seconde langue, celle d’habiter un carrefour entre les langues, un lieu créatif privilégié, un mouvement.</p>
 
-----
-
-text: En 2014, la maison d’édition anglaise Francis Boutle, spécialisée en littératures de langues européennes minoritaires, inaugure sa collection d’œuvres catalanes avec <em>Fifty Love Poems, </em>premier passage vers l’anglais de Montserrat Abelló, ainsi qu’avec <em>The Body’s Reason</em>, première traduction vers cette langue de l’écrivaine féministe Maria Mercè Marçal. La première est une autotraduction, la seconde une traduction à deux mains, réalisée en partie par Abelló. Dans <em>Fifty Love Poems, </em>une des dernières œuvres publiées de son vivant, Abelló jette un regard rétrospectif sur cinquante ans de vie poétique et revitalise ses poèmes par un regard distancié.<a href="#_ftn1" name="_ftnref1">[1]</a> La distance qui regénère la poésie est celle des années, mais aussi, et c’est celle qui nous intéresse ici, celle de la langue. Ou plutôt, celle des allers-retours entre langues.
-
-Dès le départ, et jusqu’à <em>Fifty Love Poems</em>, la carrière de Montserrat Abelló est inséparable de la traduction – enjeu inévitable, pour tout milieu littéraire construit autour d’une langue nationale minoritaire et historiquement minorisée.<a href="#_ftn2" name="_ftnref2">[2]</a> Malgré ces obstacles, la littérature catalane vit un petit âge d’or, surtout depuis 2007 et la foire du livre de Francfort, où elle était l’invitée d’honneur. Pensons aux succès de traduction comme Mercè Rodoreda ou Quim Monzó, au romancier Jaume Cabré et son <em>Jo confesso</em>, traduit en plus de 20 langues, ou à <em>Canto jo i la muntanya balla</em> d’Irene Solà, représentant la plus jeune génération.<a href="#_ftn3" name="_ftnref3">[3]</a> Ce dynamisme reste cependant fragile, la diffusion à l’international étant totalement dépendante de la traduction et, plus largement, de la vitalité culturelle catalane, de la pérennité de ses institutions.<a href="#_ftn4" name="_ftnref4">[4]</a> En Catalogne, Abelló commence à être étudiée et commémorée officiellement à partir des années 1990, autant pour son œuvre poétique que pour la somme de ses traductions. Elle reçoit la Creu San Jordi en 1998 et le Prix d’Honneur des Lettres Catalanes en 2008. En 2018, quatre ans après son décès, le gouvernement choisit de la célébrer avec l’An Montserrat Abelló, puis, la même année, une journée d’étude est organisée à l’Institut d’Études catalanes. Abelló a travaillé à partir des années 1960 à la diffusion de la poésie anglo-saxonne dans sa langue natale et a traduit Iris Murdoch, Dylan Thomas, Sylvia Plath, Adrienne Rich, Alice Walker, dans plus d’une vingtaine d’ouvrages.
-
-Abelló est désormais reconnue pour son apport indéniable à l’histoire de la traduction catalane. Inversement, elle est encore peu traduite et diffusée hors Catalogne où, de surcroit, peu de recherches ont été effectuées sur son rapport à l’anglais, en ses termes « sa deuxième langue » (Abelló 2015, 48; Abelló 1998). Je propose ici de lire Montserrat Abelló avec comme point de départ son rapport libérateur à l’anglais, ne serait-ce que pour offrir une porte d’entrée à son œuvre et l’inscrire dans une mouvance poétique et politique plus vaste. Qu’est-ce que la poète trouve dans la langue anglaise? Qu’est-ce qui est modifié, ébranlé, ouvert par celle-ci? Comment l’anglais lui permet-il de se situer en poésie, de trouver lieu et voix?
-
-« Vivències » : entre anglais et catalan<a href="#_ftn5" name="_ftnref5">[5]</a>
-
-Après sa naissance à Tarragona en 1918, Montserrat Abelló mène très tôt une existence marquée par le mouvement – son père est ingénieur naval et la famille le suit à Cadiz, Carthage, Londres, où elle commence l’apprentissage de l’anglais. Adolescente et jeune adulte, elle vit en Catalogne, entre à l’université en lettres et pédagogie, mais y restera une seule année : en 1936 éclate la guerre civile, provoquée par le coup d’État franquiste. À vingt-et-un ans, après s’être engagée à titre de professeure d’anglais et d’interprète au sein des Brigades internationales, elle accompagne son père en exil. Père et fille s’arrêtent d’abord à Londres, y vivront le début de la Deuxième Guerre mondiale, puis émigrent vers le Chili. Abelló y demeurera vingt ans. Elle quittera Valparaíso en 1960, prendra le chemin du retour. C’est après ce retour en Catalogne que s’amorce officiellement sa carrière littéraire, car les années chiliennes – où elle enseigne, fréquente peintres et poètes comme Joan Oliver, Pablo Neruda et Roser Bru, et réalise ses premières traductions – peuvent être considérées comme ses années de formation. En 1963, Abelló publie un premier recueil, <em>Vida diària </em>(Vie quotidienne)<em>, </em>qu’elle clôt avec le poème « Retour », dont voici les derniers vers (Abelló 2002, 78) :
-<blockquote>I així, arrecerada,
-escolto el so de la paraula vostra i meva.
-Com l’aigua que traspua
-de la paret ombriva,
-verda de molsa, i lenta;
-es transforma en una sola gota clara.
-I ara, asseguda
-al llindar de casa meva,
-sóc amb vosaltres.
-
-//
-
-Et ainsi, abritée,
-
-j’écoute le son de votre parole et de la mienne.
-
-Comme l’eau qui perle
-
-du mur ombragé,
-
-vert de mousse, et lente;
-
-se transforme en une seule goutte claire.
-
-Et maintenant, assise
-
-au seuil de ma maison
-
-je suis avec vous.<a href="#_ftn6" name="_ftnref6">[6]</a>
-
-</blockquote>
-À travers tous ses séjours à l’étranger, voyages et exils, Abelló ne perd jamais son affection particulière pour la langue anglaise, développée pendant son enfance. Elle a un contact presque maternel avec l’anglais, qu’elle vient à <em>ingérer</em> très jeune – autour des six ou sept ans. La famille ne reste à Londres qu’entre une et deux années, ceci dit dans un contexte d’immersion. Si l’anglais prend très tôt une place importante dans la vie d’Abelló, il n’était pas garanti qu’il la conserverait : la famille retourne en Catalogne – où la deuxième langue est l’espagnol – puis l’exil la mène à Valparaíso. L’anglais comme deuxième langue est autant le résultat des circonstances que celui d’un choix. Choix qui deviendra poétique, politique, mais qui au départ n’en est qu’un d’affinité, de curiosité, de plaisir. Comme Nathalie Sarraute dans <em>Enfance</em>, son dialogue d’inspiration biographique, Abelló s’éveille à la musicalité et à la puissance des mots grâce à l’<em>étrangeté </em>de l’anglais. Sarraute, comme Abelló, se mesure très jeune aux sonorités neuves de l’allemand ou du français. Dans son récit, le russe et le français se côtoient :
-<blockquote>… venus sans doute des plaines ensoleillées que je voyais par la fenêtre… le mot français <em>soleil </em>et le même mot russe <em>solntze </em>où le <em>l </em>se prononce à peine, tantôt je dis sol-ntze, en ramassant et en avançant les lèvres, le bout de ma langue incurvée s’appuyant contre les dents de devant, tantôt so-leil en étirant les lèvres, la langue effleurant à peine les dents. Et de nouveau sol-ntze. Et de nouveau so-leil (Sarraute 1983, 107).</blockquote>
-Ce sont les sonorités des mots, mélodieuses ou dures, qui frappent la jeune Montserrat, à l’instar de la voix narrative mise en scène par Sarraute. Et cette distance, cette opacité à surmonter, exacerbe la musicalité des langues, la nouvelle comme la maternelle.
-
-Comme Sarraute qui évoque la joie de se faire happer par les livres (« un courant invisible m’entraîne » : <em>Ibid</em>., 266), la lecture est pour Abelló cruciale à l’entrée vers le nouveau monde langagier : « Déjà petite, j’en connaissais les <em>Nursery Rhymes </em>(des poèmes pour enfants), et ensuite, bien sûr, beaucoup de poésie : Shakespeare, Keats, Shelley, Rossetti. Lire était ma passion »<a href="#_ftn7" name="_ftnref7">[7]</a> (Abelló 1998). Après le séjour londonien, Abelló continue de lire en anglais. Puis elle l’étudiera et l’enseignera, avant et après l’exil. À son retour à Barcelone dans les années 1960, elle reprend les études de philologie commencées avant l’éclatement de la guerre civile un quart de siècle plus tôt, se spécialise en étude comparative de la phonétique anglaise et catalane.
-
-Fait intéressant : ni Abelló la poète, ni Montserrat enfant ne se butent à une altérité totale. Au contraire, la langue est assez <em>étrange</em> pour que l’enfant y dénote des frictions, mais aussi assez familière pour qu’elle puisse y plonger. À plusieurs reprises, Abelló souligne les rapprochements qui peuvent être faits entre l’anglais et le catalan : le rythme marqué par les toniques, qui allongent les sons, ou la grande quantité de mots monosyllabiques. Lorsqu’elle aborde sa pratique de la traduction, Abelló la décrit comme très fluide, instinctive, grâce à cette proximité des sons et des accentuations dans les deux langues (Carné 2007, 189). Le catalan est une langue plus coupante, tranchée, que le sont par exemple l’espagnol ou l’italien. Les mots sont courts, se terminent plus souvent sur des consonnes dures (comme [t], [d], [k]). Comme en anglais, particulièrement les accents plus découpés des îles britanniques, la plupart des consonnes se prononcent. Naturellement, la poésie syncopée et rythmée propre à la langue anglaise et le catalan, sec, ciselé, se rapprochent. Moins radical qu’on l’imaginerait, le déplacement vers l’anglais implique tout de même un repositionnement – l’espagnol devrait par la force des choses mériter ce titre. Le choix de l’anglais comme deuxième langue est politique tout autant que créatif, au diapason des revendications nationales catalanes et des luttes féministes.
-
-Certain·es poètes ou artistes se déplacent vers une langue étrangère pour y trouver de l’espace pour respirer, une liberté créative, un lieu où rebâtir. Ou pratiquer la fuite. La poète argentine Alejandra Pizarnik, par exemple, écrit en français pour poursuivre une quête impossible, pour aller toujours plus loin dans sa marche vers les limites du poème. « Whether in Spanish or in French, in Buenos Aires or in Paris, her voice remains that of the eternal émigré who searched for a home but failed to find it. Pizarnik wrote the way she lived: in a state of restless longing » (McNamara 2018). D’autres, j’argumenterais, y trouvent juste assez de confort et de familiarité. C’est le cas d’Abelló. Elle s’y installe, par passion pour la langue, d’abord, mais ensuite comme force créatrice. L’anglais nourrit la langue maternelle. Il la revitalise, comme l’autotraduction et son mouvement. Les allers et retours entre les langues, tout au long d’une carrière de poète et de traductrice, stimulent la création. Mais surtout, le rapport à l’anglais d’Abelló lui permet de changer ses frontières, ses cadres et contraintes : il est libérateur. Il lui permet de s’inscrire dans une lignée de poètes, de créer dans sa propre langue selon des modalités qui la satisfont, d’entrer dans un dialogue poétique riche.
-
-L’ancrage : filiation, féminisme et traductions
-
-L’œuvre d’Abelló s’insère naturellement dans une mouvance plus vaste de poésie féminine/féministe du xxe siècle, une appartenance qu’elle a elle-même choisie avec ses traductions, tant vers le catalan que vers l’anglais. L’écrivaine et chercheuse Lluïsa Julià, lui reconnaissant une trajectoire singulière, la résume ainsi : « Dès le départ la poésie de Montserrat Abelló s’est établie sur deux lignes de recherche : la volonté d’être, d’exister, de dire sa raison d’être, et la conscience collective d’être “femme” dans le monde »<a href="#_ftn8" name="_ftnref8">[8]</a> (2014, 1). Cette conscience collective, peut-être l’a-t-elle ressentie en tout premier lieu dans la nécessité d’exprimer ce <em>quelque chose</em> d’enfoui, confiné au silence. Dans son recueil <em>L’arrel de l’aigua</em> (La racine de l’eau), elle en décrit les fondements en un court poème (Abelló 2002, 250) :
-<blockquote>Je cherche mon
-
-identité
-
-soumise, cachée
-
-des milliers d’années sous
-
-le sexe.
-
-
-
-À peine éveillée
-
-et déjà en morceaux<a href="#_ftn9" name="_ftnref9">[9]</a></blockquote>
-La quête s’accompagne d’un repositionnement. À partir des années 1980, plusieurs événements et engagements précisent l’orientation féministe de la carrière d’Abelló, une orientation née avant tout d’une obligation, d’un manque à combler. « Je suis féministe par nécessité »<a href="#_ftn10" name="_ftnref10">[10]</a> (Pujol 2013, 18). Abelló s’implique à la revue <em>Dones en lluita </em>(Femmes en lutte), à <em>laSal</em>, maison d’édition et café-librairie, travaille pour la Foire Internationale du livre féministe à Barcelone, fait partie des créatrices du Comité d’Écrivaines du Centre Catalan du PEN Català. Lors de ces deux dernières occasions, l’implication consiste aussi en traductions d’œuvres catalanes et castillanes vers l’anglais, prélude à un travail de diffusion vers l’international. La lutte féministe et catalaniste pour Abelló, passe avant tout par l’acte de la traduction. Ces mêmes années, elle publie <em>Cares a la finestra </em>(Visages à la fenêtre), une anthologie sous-titrée « 20 femmes poètes de langue anglaise du XXe siècle ». Abelló fait pour ce travail, détaille Caterina Riba, une recherche imposante, dans les Instituts britannique et nord-américain de Barcelone, dans les librairies spécialisées de Londres et auprès de spécialistes et poètes. La publication de l’anthologie devient un acte d’« espionnage poétique », grâce auquel de nouveaux modèles sont importés en Catalogne (Riba 2015, 207). La poésie anglophone avait donc le potentiel de donner du souffle au milieu catalan.
-
-Ce souffle, Abelló l’a trouvé par elle-même au sein de la tradition anglo-saxonne, lorsqu’elle a lu Sylvia Plath. À Bristol, en 1971, un ami professeur et poète lui offre <em>Winter Trees</em>. Immédiatement, Abelló se sent interpellée. Elle fera ensuite constamment référence à cette rencontre en poésie avec Plath comme un moment clé, qu’elle décrit ainsi : « Je m’y suis tout de suite identifiée. Enfin j’avais trouvé une personne qui voyait la poésie comme je la voyais. Elle aussi <em>voulait</em> vivre la Vie en majuscules, avoir un mari, des enfants, être une grande poète, avoir tout ça… Mon sentiment était semblable. Comme un sentiment de rébellion. »<a href="#_ftn11" name="_ftnref11">[11]</a> (Torrents 2006, 100). Les écrits de Plath sont aujourd’hui reconnus comme ayant été l’un des catalyseurs du Women’s Lib. Ce qui peut être décelé derrière ses mots, une voix « seething, private, caustic » (Clark 2021, 57), stimule de nombreuses prises de parole. Abelló est de celles et ceux qui, en la rencontrant, sentent s’ouvrir une brèche. Elle nourrit déjà une sensibilité pour la prose anglophone durant des décennies, lorsqu’elle découvre Plath, mais la côtoyer en traduction (avec beaucoup d’autres) fonde un nouvel élan créateur. Si le recueil de 1963 est son entrée en poésie, le suivant marque un tournant. En 1981, avec <em>Vida diària. Paraules no dites</em> (Vie quotidienne. Les mots non-dits), elle brise un silence de presque vingt ans et publiera ensuite fréquemment. Le milieu féministe, qui s’est depuis structuré, lui donne aussi un lieu d’appartenance plus clair. Cette transition est apparente à travers les prologues de ses œuvres. À partir de <em>Paraules no dites, </em>les prologuistes sont des femmes de la nouvelle génération de poètes : Marta Pessarrodona ou Maria Mercè Marçal, entre autres.
-
-Les relations bâties avec le milieu féministe sont importantes, mais différentes de celles nouées par la traduction, qui bâtit une proximité particulière. Comme l’anglais est rythmiquement proche du catalan, Abelló se permet de traduire le plus souvent ligne par ligne. Elle parcourt un texte rapidement avant de se mettre au travail, mais se laisse <em>aller à la rencontre</em> du poème pour la première fois seulement au moment même de la traduction. Et ainsi, sans traduire seulement le sens, mais si possible la cadence et le son, elle se rapproche de l’original (Carné 2007, 189). La traduction, dit-elle, est une façon de lire plus en profondeur (<em>Ibid</em>., 187). De passer le texte à travers soi. Abelló en fait donc un mouvement initié par une rencontre textuelle, mais qui se déploie intérieurement.
-
-La traduction fidèle est aussi rendue possible par la proximité entre ce qui est traduit et ce qui est créé, entre les lectures et les mots neufs. Abelló développe un langage, bâti de ces lectures-traductions et de son écriture propre. Elle fait de ce langage un tout, où « poésie directe et poésie traduite sont une seule poésie »<a href="#_ftn12" name="_ftnref12">[12]</a> (Torrents 2006, 101). Un choix significatif est d’avoir inclus une sélection de traductions à son anthologie de 2002, <em>Al cor de les paraules </em>(Au cœur des mots), sous le titre d’« <em>Altres veus</em> ». Les traductions sont des dialogues avec d’« Autres voix », au travers desquels des relations, puis une filiation se dessinent. Ce qui fait de la traduction chez Abelló un repositionnement – un déplacement, un ancrage. Car au départ, comme elle l’affirme, aucun canon littéraire ne la définit : « J’ai terminé de me le construire en publiant <em>Cares a la finestra</em>. »<a href="#_ftn13" name="_ftnref13">[13]</a> (Riba 2015, 207). Ce qu’elle ne trouvait pas dans sa propre tradition littéraire, encore bien sûr très masculine et classique, elle se l’approprie par la traduction et se bâtit ainsi un nouveau cadre formé d’Adrienne Rich, de May Sarton, de Sylvia Plath et de l’incontournable Woolf. Dans le recueil fondateur <em>Paraules no dites </em>se trouve un des rares poèmes avec un titre, lequel est « À Virginia Woolf ». En reprenant dans ses propres mots un des célèbres textes de l’écrivaine, qu’elle vient d’étudier lors d’un séminaire<a href="#_ftn14" name="_ftnref14">[14]</a>, elle l’intègre aussi à son propre langage, le fait sien. « Chacun doit avoir / sa propre pièce. / Et un patio bleu / où promener ses doutes. »<a href="#_ftn15" name="_ftnref15">[15]</a> (Abelló 2002, 103). <em>A Room of One’s Own</em> n’était à ce moment pas encore traduit en catalan.
-
-Avec Plath, la complicité littéraire dure plusieurs décennies. Abelló la traduit encore en 2006, dans l’anthologie <em>Soc Vertical</em>, comprenant tous ses poèmes entre 1960 et 1963. La « symbiose » (Mur 2009, 100) entre les voix poétiques d’Abelló et Plath se révèle sous plusieurs aspects – une colère bouillonnant sous les lignes, une poésie construite sur la puissance et le poids des mots, un ton personnel, basé sur l’expérience, mais versant vers l’abstraction, aux accents oraculaires, mythiques. Le poème « Desenes de mirages » (Scores of mirages) présente une structure rythmée, mais surtout un mélange de dureté et de douceur, et un combat entre les couleurs (les dangers du bleu, la vivacité du rouge) qui rappelle Plath. On sent « sa voix comme une trame de fond qui discoure en parallèle »<a href="#_ftn16" name="_ftnref16">[16]</a> (<em>Ibid</em>., 100), encore plus dans l’autotraduction vers l’anglais (Abelló 2014, 59) :
-<blockquote>Scores of mirages,
-
-circles and more circles,
-
-water swirling wildly,
-
-always swallowed.
-
-
-
-In the middle, the strength
-
-of a look that plays
-
-with the sweetness of skin
-
-and searches the deep
-
-root of water.
-
-
-
-What I have is
-
-a pencil in my hand,
-
-a paper in front of me
-
-and the wish to write
-
-names full of tenderness.
-
-
-
-The colour is blue:
-
-dark blue in the afternoon,
-
-the azure blue of the sea at midday, blue
-
-– sky blue of the sky – and the ash
-
-blue of oblivion.
-
-
-
-I do not want it to be so
-
-and look for
-
-the red of blood
-
-within my skin.</blockquote>
-Les traductions vers le catalan de Montserrat Abelló naissent de la nécessité de faire découvrir de nouvelles voix en Catalogne (Carné 2007, 190). La <em>nécessité</em>, chez Abelló, revient à toutes les occasions. Tout comme être féministe, traduire est une nécessité, ainsi qu’écrire : « Je me demande si écrire est une passion ou une nécessité de survivre. »<a href="#_ftn17" name="_ftnref17">[17]</a> (<em>Ibid</em>. 2002, 84). Mais ces traductions qui s’imposent, ces poèmes qui s’extériorisent, ces combats à mener sont tout de même dépendants du choix, sans cesse reconduit, de la poète. Le choix de garder l’anglais vivant dans l’esprit, celui de convoquer certaines voix dans sa pratique, de même que de faire résonner sa voix propre. Le choix, plus encore, de cultiver des relations littéraires avec Virginia Woolf ou Sylvia Plath, ainsi qu’avec la vague de poètes féministes qui les suivront. Dans son prologue à <em>Foc a les mans </em>(Le feu dans les mains), Maria Mercè Marçal place Abelló dans une lignée de femmes poètes catalanes (1998, 12). Sauf qu’à mon sens, l’associer d’abord à une autre lignée, celle qu’elle se construit, est plus représentatif – sans pour autant diminuer les démarches poétiques de celles qui précédent, telles Rosa Leveroni ou Clementina Arderiu. Abelló a longtemps écrit dans la solitude, publié dans la solitude. La première communauté littéraire est celle construite par les lectures, puis les traductions; c’est ensuite que les institutions féministes l’ont rattrapée. En 1963, avec <em>Vida diària</em>, elle est une discrète pionnière.
-
-L’élan : prise de parole poétique
-
-Retournons donc vers les années 1960, la fin de l’exil et surtout à <em>Vida diària</em>, le « programme d’entrée dans une vie nouvelle, celle de la poésie et de l’activisme »<a href="#_ftn18" name="_ftnref18">[18]</a> (Torrents 2006, 100). <em>Vida diària </em>ne cadre pas avec la poésie de l’époque (Agado 1998, 18), d’abord car l’œuvre s’affranchit des structures classiques et emprunte le style du vers libre. Abelló donne de l’espace à ceux-ci, laissant souvent un mot seul sur la ligne. Ensuite, elle se détache des thèmes et des luttes à l’avant-plan de son époque, prenant encore dans l’ombre une voie alternative, celle d’une voix poétique existentielle, introspective : tournée vers soi, vers son expérience, composée d’instantanés intimes. Même si un public apparaît parfois, il s’agit majoritairement d’un seul <em>je</em>, d’une seule voix, celle de la poète devant la nuit vertigineuse. <em>Vida diària</em> est peuplé d’arbres et de jardins, de mains qui reprisent et écrivent, de nuages, de nuits d’été, d’angoisses et de tendresses. Le vers libre autorise plusieurs variations dans la forme – de longs poèmes avec beaucoup de souffle, comme des poèmes courts et ciselés, dépouillés parfois jusqu’à en devenir flous. Les mots restent simples. Il s’agit déjà d’une voix très moderne, dont voici deux courts poèmes (Abelló 2002. Ets tendre : 42; La tarda : 58) :
-<blockquote>Ets tendre,
-
-estàs malalt.
-
-Confons
-
-el negre amb el blanc.
-
-I em pregunto per què.
-
-Per què jo
-
-Tu es tendre,
-
-et tu es malade.
-
-Tu confonds
-
-le noir et le blanc.
-
-Et je me demande pourquoi.
-
-Pourquoi moi
-
-no et puc aclarir aquest enigma,
-
-si duus la meva sang.
-
-//
-
-je ne peux t’élucider cette énigme,
-
-si tu portes mon sang.
-
-//
-
-La tarda plena de presagis
-
-és la llanterna inútil
-
-sobre un món gras, ensopit,
-
-sense bellesa.
-
-I el plor s'ha fet amarg,
-
-cenyit com una mortalla.
-
-
-
-La soirée pleine de présages
-
-est la lanterne inutile
-
-d’un monde gras, assoupi,
-
-sans beauté.
-
-Et le pleur s’est fait amer,
-
-serré comme un linceul.</blockquote>
-<em>Vida diària</em> décrit les sensations douces-amères du retour (« Retorn »), mais aussi des instants volés, entre deux obligations de la vie quotidienne. « Aujourd’hui je suis orgueilleuse de mon temps »<a href="#_ftn19" name="_ftnref19">[19]</a>, écrit la poète, décrivant un personnage qui s’abreuve d’art abstrait, observe les vitrines, la mer, sans coudre ni repasser. Dans le recueil sont transmis des moments d’impuissance, comme « Tu es tendre », laissant parfois sous-entendre une révolte. Surtout, des moments de contemplation, lorsque tombe le soir et ses présages. La nuit y est inquiétante : « maintenant le calme me frappe » (<em>Ibid</em>., 65), douce, en compagnie des « Poètes aimés, aimées » (<em>Ibid</em>., 69) ou faite de vide et de silence (<em>Ibid</em>., 53) :
-<blockquote>Oh, quines ànsies tinc
-
-de veure nits obertes,
-
-plenes d’un blau seràfic,
-
-i aqueixes nits amargues que degoten
-
-sobre les pedres impassibles.
-
-
-
-Hi ha remor d’ales feixugues
-
-que passen fregant la terra.
-
-Però la nit és closa;
-
-no n’entenc la veu negra.
-
-
-
-Em cansa tanta espera.
-
-Les hores cauen com les fulles.
-
-
-
-
-
-Oh, j’ai de telles angoisses
-
-à voir les nuits ouvertes,
-
-pleines d’un bleu séraphique,
-
-et ces nuits amères qui dégoutent
-
-sur les pierres impassibles.
-
-
-
-Il y a une rumeur d’ailes lasses
-
-qui passent et frôlent le sol.
-
-Mais la nuit est close;
-
-je n’entends pas sa voix noire.
-
-
-
-Tant d’attente m’épuise.
-
-Les heures tombent comme les feuilles.</blockquote>
-Alors qu’Abelló ne l’avait pas encore lue, ce poème évoque l’imagerie de Sylvia Plath – ces instants d’attente mi-convaincue d’un présage, d’un éclat fugace. Comme le met en scène le poème « Black Rook in Rainy Weather », où un corbeau occupé à réarranger ses plumes a la capacité d’invoquer, par sa brillance, une éphémère satisfaction. Cet éclat subi, cette lumière, « rumeur d’ailes lasses » frôlant le sol, s’invite sous la forme d’un oiseau au cœur d’un paysage monotone et fatigué, mais peut aussi s’emparer des objets du quotidien, d’une table de cuisine, d’une chaise. « A certain minor light may still / Leap incandescent / Out of kitchen table or chair / As if a celestial burning took / Possession of the most obtuse objects now and then » (Plath 2008, 34). Plath s’imagine une longue marche, ponctuée d’instants chargés de sens, lumineux – de présages, qui élisent oiseaux ou tables de cuisine, indistinctement. Abelló met en scène des nuits amères d’attente, au cœur de la vie quotidienne, lorsque le monde se fait immobile et ceint d’un linceul, de longues soirées lourdes de messages, où une transcendance lointaine interrompt le cours des choses. Puis, « The wait’s begun again, / The long wait for the angel, / For that rare, random descent » (<em>Ibid</em>., 35).
-
-Le recueil d’Abelló est soutenu par Joan Oliver, un des célèbres poètes de l’époque, qu’elle avait côtoyé au Chili. Oliver lui écrit un prologue enthousiaste – il louange une poésie « transparente », austère, au style économe et rigoureux – mais aussi préventif, d’un ton qui semble aujourd’hui verser vers la condescendance. Oliver prévoit des réactions négatives, à l’image de la sienne en premier lieu. Il avoue que la seule raison de sa réelle attention au recueil, qu’il aurait pu considérer « juvénile », « vaniteux » ou « le loisir d’une dame oisive »<a href="#_ftn20" name="_ftnref20">[20]</a>, a été l’amitié qui le liait à Abelló (Oliver 1998, 8). Il affirme que les poèmes sont écrits dans un langage nouveau, qui secoue l’immobilisme de la tradition, mais qu’ils sont distincts « du petit concert de notre poésie féminine ». Oliver se sent donc obligé de défendre l’œuvre d’Abelló, insistant sur sa nouveauté : sans doute parce qu’en arrière-plan se tient la vie quotidienne si peu prisée, contée, qui plus est, par une voix féminine. Il défend une poésie « concrète », parcourue quand même par « trois ou quatre motifs de transcendance »<a href="#_ftn21" name="_ftnref21">[21]</a> (<em>Ibid</em>.). En contraste avec un immobilisme (non-défini), Abelló élèverait une voix poétique moderne. Sans avoir besoin d’affirmer son opposition avec la tendance littéraire, Abelló plonge effectivement dans une expressivité qui est totalement la sienne, ancrée dans ses préoccupations et ses désirs. Bien qu’elle publie toute sa vie durant en catalan et affirme son support à la cause catalane, elle situe le cœur de sa lutte ailleurs : féminisme, pluralité des voix, authenticité… Donc, elle ne penche ni vers le réalisme historique ni vers l’élégie classique, deux courants de l’époque.
-
-Le moment est forcément politique en Catalogne, au vu de la violence extrême de la dictature franquiste envers les peuples minoritaires d’Espagne et leurs langues. En 1963, alors que paraît <em>Vida diària</em>, une anthologie iconique de poésie catalane est publiée : <em>Poesía catalana del segle XX, </em>de Castellet et Molas. À partir de poèmes choisis entre 1900 et 1960, les éditeurs retracent l’évolution de la poésie catalane depuis le symbolisme et surréalisme jusqu’à l’acte de naissance du réalisme historique. Ce « réalisme historique », bien entendu moins homogène que décrit dans cette anthologie militante de 1963<a href="#_ftn22" name="_ftnref22">[22]</a>, est vanté comme la tendance poétique marquante du moment. Plusieurs poètes modèleront leurs voix à cette nécessité politique (Torrents 2006, 99). Proche du réalisme social, d’une conscience historique marquée, avec des voix « lucides et désolées » (Castellet 1978, 190), cette « poésie d’idée » (<em>Ibid</em>., 185) est aussi le reflet de la misère des années de dictature. Elle s’est construite en réaction à l’ancienne génération poétique, celle d’Abelló – bien que celle-ci n’y soit jamais associée, probablement à cause de l’exil et d’une carrière qui débute tardivement.
-
-Cette génération littéraire des années 1930 se mérite plusieurs noms, notamment : génération sacrifiée, génération perdue, génération de la république ou génération de 36 (Abrams 2016). Le groupe de « L’École des Bibliothécaires », entourant le célèbre classiciste et poète Carles Riba, possède une culture littéraire basée sur l’étude des classiques européens : les œuvres grecques et latines, mais aussi les œuvres catalanes médiévales. La poète Rosa Leveroni, formée par cette école, écrit des « chants », une poésie lyrique qui « appartient à la lignée des poètes élégiaques »<a href="#_ftn23" name="_ftnref23">[23]</a> (Mohino i Balet 2010, 10). En comparaison, la seconde langue et surtout langue d’étude d’Abelló est l’anglais, ce qui lui ouvre un nouvel espace. Affirmer et pratiquer l’anglais ainsi lui offre, en ces années d’effervescence politique et sociale, une distance vis-à-vis de l’espagnol associé à la dictature, ainsi que la liberté de ne pas se limiter à sa propre tradition linguistique ni aux modèles littéraires de sa génération. Elle est donc libérée du poids politique qui devrait conditionner le poème et de l’obligation d’appartenance à une école littéraire.
-
-Abelló exprime souvent la libération ressentie quand elle s’est enfin autorisée à faire de la poésie en abandonnant les modèles classiques et en revenant à la plus petite unité, un mouvement qui découle d’abord des circonstances. L’événement déclencheur immédiat est le diagnostic de son troisième enfant, atteint du syndrome de Down. Et de là, encore, une <em>nécessité</em> :
-<blockquote>Quand j’ai entendu le mot « Down », il m’était complètement inconnu. C’était la dernière chose qui me serait passée par l’esprit. À la maison on se prenait pour intelligents, on résolvait les choses facilement et on avait le cerveau mathématique. En sortant de la clinique, la tête me tournait. Et j’ai eu besoin d’écrire. Mais pas sur des choses concrètes, sur mon enfant, plutôt sur la vie en général. Je l’ai fait comme ça sortait, sans contraintes, et alors oui, ça a bien sonné<a href="#_ftn24" name="_ftnref24">[24]</a> (Pujol 2013, 16).</blockquote>
-Si l’événement déclencheur est ce diagnostic, les fondations de la voix poétique d’Abelló résultent d’une longue élaboration. On invoque fréquemment sa féminité pour expliquer sa poésie libérée et concrète. Sauf qu’en donnant uniquement cette explication, on minimise sa relation quotidienne avec l’anglais, lors de ses décennies d’enseignement – au Chili, puis en Catalogne jusqu’en 1983 – et lors de ses études en phonétique. Du reste, Abelló n’a jamais délaissé le métier de traductrice, toujours un complément à la création poétique, au point où les deux pratiques se confondent. Non seulement les formes de la poésie en anglais infiltrent sa poésie, mais ce contact maintenu avec la langue, sa grammaire, ses formalités, modifie la poésie et la rend plus matérielle – « concrète » dit Joan Oliver dans son prologue. Attardons-nous, pour terminer, sur ce que cela peut signifier.
-
-Ce que réalise Abelló en se débarrassant des structures formelles, c’est un retour à l’essentiel. Les mots (re)deviennent la matière première du poème. Un corps externe à manipuler, à façonner. Le motif des mains, d’ailleurs, est partout dans <em>Vida diària. </em>Les mots sont aussi des créatures à apprivoiser, des corps envahissants, tout au long de la carrière poétique. Ils s’emmêlent autour des doigts (Abelló 2002, 95), ils envahissent la gorge asséchée (<em>Ibid</em>., 90). Ils sont la matière première, donc la structure fondamentale. Les nombreux mots seuls sur leur ligne en sont le squelette apparent. Plus encore, ils soutiennent le poème par leurs sonorités et leur puissance intrinsèque de sens.
-
-La sonorité du mot est aussi importante qu’au premier contact avec une langue, lorsque l’apprenant·e se bute à la prononciation. Cette conscience du mot en lui-même, de la corporalité de la prononciation, est typique des gens qui changent de langue. Le mot paraît d’abord extérieur, séparé – doit ensuite être intégré, ingéré. Ce contact particulier avec les sons, ce regard neuf, est essentiel à la poésie vers laquelle tend Abelló – elle qui insiste sur l’importance de lire à voix haute et qui fait un grand nombre de lectures publiques. Les sonorités déclenchent, mais surtout lient, tiennent le poème. Comme le <em>soleil</em> / <em>sol-ntze </em>de l’<em>Enfance</em>, qu’on ne se lasse jamais de répéter. Comme les démarches exophones, de créatrices telles Alejandra Pizarnik ou Yoko Tawada. Tawada, qui se mesure à l’opacité des mots et des signes, construisant « sur la matérialité ou la corporalité du langage »<a href="#_ftn25" name="_ftnref25">[25]</a> (Masumoto 2020). Les mots sont matière, nourriture même, qui se doit d’être mâchée. « Words in a foreign language are, to me, in a particular way, words that I am consuming » (Brandt 2005, 4). Cela s’approche de ce que fait Abelló lorsqu’elle traduit les poètes anglo-saxonnes pour se bâtir un corpus-cadre. Elle ingère, assimile une autre langue.
-
-En restant <em>entre</em> les langues par la traduction et l’enseignement, Abelló cultive la richesse d’être frappée par leurs sonorités, jusqu’en 2014, avec <em>Fifty Love Poems. </em>Certaines libertés qu’elle prend par rapport à la version originale révèlent l’attention importante accordée aux sons. « Desenes de miratges » devient, plutôt que « Dozens of mirages » : « Scores of mirages ». Dans sa première strophe, l’eau qui tournoie s’entend dans les combinaisons de consonnes, même plus que dans la version catalane (Abelló 2014, 58-59) :
-<blockquote>Scores of mirages,
-
-circles and more circles,
-
-water swirling wildly
-
-always swallowed.
-
-
-
-//
-
-Desenes de miratges,
-
-cercles i més cercles,
-
-aigua que gira vertiginosa,
-
-sempre engolida.</blockquote>
-« Desconec tot engany » devient en anglais plus bref et découpé : « I lack the wit » (<em>Ibid</em>., 12-13). Et pour évoquer l’allitération de « sols grocs exuberants i esplèndids », la splendeur devient « radiance » : « exhuberant and radiant yellow suns » (<em>Ibid</em>., 62-63). La poésie d’Abelló, faite pour être prononcée, concrète, est nourrie par un <em>entre-langues</em>, parcouru toute sa vie.
-
-Libérer le poème de ses formes, tout faire reposer sur les mots en eux-mêmes nécessite aussi des mots solides comme les pierres (Abelló 2002, 69). Des mots au pouvoir d’évocation si puissant que les êtres perdus se matérialisent. « J’écris ton nom / et te sais si proche / que, fermant les yeux / c’est comme si je te touchais / du bout des doigts » <a href="#_ftn26" name="_ftnref26">[26]</a> (<em>Ibid</em>. 2014, 106). Des mots vivants, car, comme le résume Ester Pou Jutglar : « Words, as she has often reminded us, have a heart and beat like life itself. » (2014). Le geste poétique est donc de magnifier une charge déjà présente. S’affranchissant des contraintes formelles et des traditions, Abelló retourne peut-être même plus loin dans le temps, à une époque mythique où les mots étaient sacrés, chargés. En retournant vers cet âge indéfini de sons et de sens, elle énergise son langage, à l’image de Tawada qui, d’abord grâce à la traduction, puis à l’exophonie, « libère le langage de son sens figé et le revitalise »<a href="#_ftn27" name="_ftnref27">[27]</a> (Masumoto 2020).
-
-La démarche d’Abelló, au départ isolée, s’inscrit dans une large mouvance lorsqu’on la considère à partir de la filiation littéraire qu’elle se crée. Encore plus vaste, en considérant qu’elle travaille à partir d’un langage qui se reforme et se réajuste, au courant du XXe siècle, pour englober les nécessités poétiques, les <em>vivències</em> singulières des créateur·ices oublié·es de la tradition littéraire ou incapables de s’y retrouver. Abelló est accompagnée dans cette voie par beaucoup d’autres : la Plath d’<em>Ariel</em>, l’Adrienne Rich de la fin des années 1960, jusqu’à Pizarnik et ses poèmes épurés d’<em>Árbol de Diana</em>. Et la lignée peut se poursuivre jusqu’à aujourd’hui, jusqu’à la poésie de Yoko Tawada, démarche créatrice bâtie sur mesure pour accommoder les expériences vécues. La poésie d’Abelló profite de cette même richesse : celle d’expérimenter avec une seconde langue, celle d’habiter un carrefour entre les langues, un lieu créatif privilégié, un mouvement.
 
 ----
 
