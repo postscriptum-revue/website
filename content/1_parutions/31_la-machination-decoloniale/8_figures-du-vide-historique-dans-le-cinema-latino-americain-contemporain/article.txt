@@ -82,7 +82,7 @@ text: <p>Introduction</p>
 <p><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/01/Figure-10-300x169.png" alt="" srcset="http://localhost:8000/wp-content/uploads/2022/01/Figure-10-300x169.png 300w, http://localhost:8000/wp-content/uploads/2022/01/Figure-10-768x432.png 768w, http://localhost:8000/wp-content/uploads/2022/01/Figure-10.png 1024w" sizes="(max-width: 410px) 100vw, 410px" /></p>
 <p>Figure 10</p>
 <p>Ciro Guerra, <em>L&rsquo;Étreinte du Serpent</em>, 2015. Photogramme de film. Plan-séquence : Manduca, Theo et Karamakate-jeune rament de la droite à gauche, en fuite.</p>
-<p></p>
+
 <p><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2022/01/Figure-11-300x169.png" alt="" srcset="http://localhost:8000/wp-content/uploads/2022/01/Figure-11-300x169.png 300w, http://localhost:8000/wp-content/uploads/2022/01/Figure-11-768x432.png 768w, http://localhost:8000/wp-content/uploads/2022/01/Figure-11.png 1024w" sizes="(max-width: 410px) 100vw, 410px" /></p>
 <p>Figure 11</p>
 <p>Ciro Guerra, <em>L&rsquo;Étreinte du Serpent</em>, 2015. Photogramme de film. Plan-séquence : Le canoë tourne à droite et vers le fond du cadre, s&rsquo;éloignant de la caméra.</p>

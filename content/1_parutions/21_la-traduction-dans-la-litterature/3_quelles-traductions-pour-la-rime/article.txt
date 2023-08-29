@@ -16,7 +16,7 @@ abstract_fr: <p>L’oeuvre de M.Tsvetaieva (1895-1941), poète russe, qui vivait
 <p>Henri Meschonnic, poète et linguiste français, soulignait que les traductions en français des poèmes de Tsvétaïeva faites par Eve Malleret, avec les vers qui riment et les rimes qui se dévorent, <em>à la russe</em>, étaient la voie à suivre. Tandis que nombreux étaient les chercheurs qui affirmaient que E.Malleret n’écrivait pas en français et que son travail était peu compréhensible.</p>
 <p>Dès le début des années 1970, Н.Meschonnic se penche sur l’élaboration d’une poétique de la traduction(1) qui, au cours des années, devient la poétique du traduire(2). Sa poétique du traduire travaille non « dans l’information, mais dans la valeur »(3), elle est à l’écoute du texte, elle essaie de « se décentrer » au lieu d’« annexer »(4) l’autre.</p>
 <p>De ce point de vue, il existe une rime universelle, rhétorique, stylistique et une rime spécifique, poétique, propre à une manière(5) d’écrire. La rime de Tsvétaïeva, <em>en russe</em>, redécouvre, avec violence, toute la force poétique de la rime. C’est pourquoi, <em>en français</em>, avec les poèmes-traductions d’Eve Malleret, on entend cette altérité dérangeante qui est la voix de l’autre, la voix de la poète Marina Tsvétaïeva.</p>
-<p></p>
+
 
 
 ----
@@ -92,17 +92,17 @@ text: <p>Dans cet article, ma réflexion reposera sur deux appuis principaux : 
 <p>Moi je brille argentée.</p>
 <p>Mon affaire : je trahis et mon nom, Marina</p>
 <p>Je suis la mousse éphémère de la mer.</p>
-<p></p>
+
 <p>Qui est fait de glaise, qui de chair</p>
 <p>Pour eux les tombeaux et les stèles funèbres&#8230;</p>
 <p>Baptisée dans les fonds de la mer</p>
 <p>Et dans mon envol, sans cesse je me brise!</p>
-<p></p>
+
 <p>Ma volonté perce tous les filets</p>
 <p>Et tous les cœurs.</p>
 <p>Et moi, vois-tu ces boucles rebelles;</p>
 <p>Tu ne me transformeras pas en sel.</p>
-<p></p>
+
 <p>Brisée contre vos genoux de granit;</p>
 <p>A chaque vague, je ressuscite,</p>
 <p>Alors vive l’écume, la joyeuse écume,</p>

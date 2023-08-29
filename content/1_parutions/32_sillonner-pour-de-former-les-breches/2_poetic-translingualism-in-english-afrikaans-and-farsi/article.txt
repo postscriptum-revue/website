@@ -31,13 +31,13 @@ text: <p>Introduction</p>
 <p>across languages and landscapes /</p>
 <p><em>landskappe en tongskappe / </em></p>
 <p>vibrating at the frequency of speech</p>
-<p></p>
+
 <p>The thing about expansiveness</p>
 <p>is that it never comes to an end / <em>einder </em></p>
 <p>being a placeholder for the line of sight</p>
 <p>circling around continents / consonants</p>
 <p>thrill-seeking and trilling</p>
-<p></p>
+
 <p>Each word sinks beneath the horizon</p>
 <p>of its throat. Oral moon leaves one last ovum</p>
 <p>glimmering in the nighttime stratum</p>
@@ -45,7 +45,7 @@ text: <p>Introduction</p>
 <p>the egg / <em>eier</em> / <em>eie </em>/ <em>ei </em>/ staggers inside its own</p>
 <p>weight, the shell needling its decline</p>
 <p>with the technology of a crack</p>
-<p></p>
+
 <p>Crack the whip of vocab. <em>Eina, </em></p>
 <p><em>roep die sin </em>/ sinful / <em>sonde </em>/ <em>sondage. </em></p>
 <p>See, a survey of sounds</p>
@@ -54,17 +54,17 @@ text: <p>Introduction</p>
 <p>on a firm verbal handshake shivering</p>
 <p>across the surface of poems, loanwords,</p>
 <p>and dictionaries in all languages</p>
-<p></p>
+
 <p>Dipping in and out of relevance /</p>
 <p>reverb fricative / returns with daybreak / </p>
 <p>line break / crisps diction with gruff </p>
 <p>crackling of spikes, spittle, and frills</p>
-<p></p>
+
 <p>To separate a sound into functionality,</p>
 <p>then to reunite it with the gentle endlessness /</p>
 <p><em>langskap einders </em>/ of lungscapes</p>
 <p>___________________________________________</p>
-<p></p>
+
 <p><em>Landskappe (Afrikaans) landscapes</em></p>
 <p><em>En (Afrikaans) and</em></p>
 <p><em>Tongskappe (Afrikaans) tonguescapes (neologism)</em></p>
@@ -77,7 +77,7 @@ text: <p>Introduction</p>
 <p><em>Sondage (French) survey </em></p>
 <p><em>Langskap (Afrikaans) longscape (neologism)</em></p>
 <p><em>Einders (Afrikaans) horizons</em></p>
-<p></p>
+
 <p style="text-align: center;">Aarie</p>
 <p><em>vawhed</em> now <em>vawheh</em></p>
 <p>from <em>toheed </em>to <em>tohee</em></p>
@@ -117,7 +117,7 @@ text: <p>Introduction</p>
 <p>climb out </p>
 <p>of your laryngeal Tundra</p>
 <p>___________________________________________</p>
-<p></p>
+
 <p><em>tah (ته) Farsi for “end”</em></p>
 <p><em>tahi (تهی) Farsi, correct ancient pronunciation of “Tohi” colloquially meaning “empty” but literally “that without an end” or “endless”</em></p>
 <p><em>vawhed (واحد) Arabic for “Unit”, commonly used in Farsi</em></p>

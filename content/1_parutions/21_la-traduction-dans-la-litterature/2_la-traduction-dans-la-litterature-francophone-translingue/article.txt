@@ -17,7 +17,7 @@ abstract_fr: <p>Les écrivains « translingues » sont des écrivains qui ont 
 <p>Cette contribution, portant sur la littérature francophone translingue dans le champ littéraire français, vise à montrer la centralité de la réflexion sur la traduction et la variété des imaginaires de la traduction présents dans les textes. Nous analysons les positionnements discursifs face à la traduction d’un certain nombre d’écrivains francophones translingues, dont François Cheng, Vassilis Alexakis, Nancy Huston, Agota Kristof, Milan Kundera, Brina Svit.</p>
 <p>Sans prétendre à une typologie exhaustive, nous observons l’émergence de trois figures : le « passeur », pour qui l’écriture translingue est une forme de traduction ; l’écrivain pour qui l’autotraduction fait partie de son translinguisme ; l’écrivain qui minimise voire exclut l’apport de l’(auto)traduction à son translinguisme. À ces figures correspondent de différents imaginaires translingues de la traduction : la traduction comme équivalent de l’écriture ; la traduction comme moteur de l’écriture ; la traduction comme activité collatérale et inférieure par rapport à l’écriture, ou même incompatible avec celle-ci.</p>
 <p>À l’intérieur du cadre unitaire de la francophonie translingue, entendue comme expérience commune de la langue, la diversité des imaginaires de la traduction nous permet de mieux appréhender les poétiques translingues singulières.</p>
-<p></p>
+
 
 
 ----

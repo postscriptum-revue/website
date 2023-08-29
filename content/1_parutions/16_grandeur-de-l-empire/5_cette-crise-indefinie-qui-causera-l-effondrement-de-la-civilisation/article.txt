@@ -23,7 +23,7 @@ abstract_en: <p>In And Then There’s This, Bill Wasik describes what he calls t
 ----
 
 text: <iframe loading="lazy" id="fitvid761128" src="http://www.youtube.com/embed/qyeDQLgUi78" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-<p></p>
+
 <blockquote>
 This is the way the world ends
 Not with a bang but a whimper.
