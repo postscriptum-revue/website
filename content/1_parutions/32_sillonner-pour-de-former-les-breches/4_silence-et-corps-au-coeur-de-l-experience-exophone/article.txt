@@ -8,7 +8,7 @@ subtitle:
 
 authors: -
   name: Anna Bourges-Celaries
-  affiliation:  Université de Montréal et Université de Strasbourg
+  affiliation: Université de Montréal et Université de Strasbourg
 
 ----
 

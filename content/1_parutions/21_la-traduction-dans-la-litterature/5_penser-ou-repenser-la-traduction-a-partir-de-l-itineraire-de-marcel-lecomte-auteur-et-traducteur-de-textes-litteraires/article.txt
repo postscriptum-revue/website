@@ -8,7 +8,7 @@ subtitle:
 
 authors: -
   name: Linda DEWOLF
-  affiliation:  Vrije Universiteit Brussel
+  affiliation: Vrije Universiteit Brussel
 
 ----
 
