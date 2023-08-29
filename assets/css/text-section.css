@@ -18,8 +18,8 @@
 }
 
 .text-section p + p {
-	text-indent: 2rem;
-	/* margin-top: 1rem; */
+	/* text-indent: 2rem; */
+	margin-top: 1rem;
 }
 
 .text-section__blockquote {
