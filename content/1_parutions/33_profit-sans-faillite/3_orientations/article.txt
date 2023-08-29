@@ -1,26 +1,30 @@
-title: [33-03]Orientations
+Title: [33-03]Orientations
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Miriam Sbih
   affiliation: Université de Montréal
 
 ----
 
-abstract_fr: 
+Abstract-fr: 
 
 ----
 
-abstract_en: 
+Abstract-en: 
 
 ----
 
-text: <p><em>Ebru – la matière se tord et reprend ses cours</em></p>
+Text:
+
+<p><em>Ebru – la matière se tord et reprend ses cours</em></p>
 <p>À Üsküdar la bassine est sortie et les explications se déploient se font d’elles-mêmes s’imposent aphones entre les ondulations de l’eau-résidus et les soupirs rares du maître. La pratique consiste à laisser les pigments se déposer sur la solution aqueuse – gras végétal et eau composites ici.<br />
 Goutte à goutte les particules de couleurs extraites se démènent s’intervertissent se soudent se toisent. Les insolubles se déposent sur le liquide qui oriente la direction finale des couleurs et des formes.<br />
 La main du maître est tout de même là participe de la fusion et se soumet à la forme qui lui échappe.</p>
@@ -104,12 +108,12 @@ J’arrive ici, tu es minuscule et accroupie sur des graines cuisantes et en ter
 
 ----
 
-references: 
-- Levy, Deborah. <em>The Cost of Living</em>. London : Penguin Books, 2019.
+References: - Levy, Deborah. <em>The Cost of Living</em>. London : Penguin Books, 2019.
 
 ----
 
-number: 3
+Number: 3
 
 ----
 
+Uuid: 4nLskEiUt1pPp4Op

@@ -1,16 +1,18 @@
-title: Filigrane éditorial
+Title: Filigrane éditorial
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-number: 24
+Number: 24
 
 ----
 
-intro_text: <blockquote><p>Toute vie véritable est rencontre [&#8230;] Entre le <em>Je</em> et le <em>Tu</em> il n’y a ni buts, ni appétit, ni anticipation ; et les aspirations elles-mêmes changent quand elles passent de l’image rêvée à l’image apparue. Tout moyen est obstacle. Quand tous les moyens sont abolis, alors seulement se produit la rencontre. [&#8230;] Relation est réciprocité. Mon <em>Tu</em> agit en moi comme j’agis en lui. Nos élèves nous forment, nos œuvres nous édifient. Le “méchant” nous offre sa révélation dès que le mot fondamental a touché son être. Que de choses nous apprenons des enfants, des animaux ! Nous vivons dans le torrent de la réciprocité universelle, unis à lui par un lien ineffable.</p></blockquote>
+Intro-text:
+
+<blockquote><p>Toute vie véritable est rencontre [&#8230;] Entre le <em>Je</em> et le <em>Tu</em> il n’y a ni buts, ni appétit, ni anticipation ; et les aspirations elles-mêmes changent quand elles passent de l’image rêvée à l’image apparue. Tout moyen est obstacle. Quand tous les moyens sont abolis, alors seulement se produit la rencontre. [&#8230;] Relation est réciprocité. Mon <em>Tu</em> agit en moi comme j’agis en lui. Nos élèves nous forment, nos œuvres nous édifient. Le “méchant” nous offre sa révélation dès que le mot fondamental a touché son être. Que de choses nous apprenons des enfants, des animaux ! Nous vivons dans le torrent de la réciprocité universelle, unis à lui par un lien ineffable.</p></blockquote>
 <p style="text-align: right;">Buber, <em>Je et Tu.</em></p>
 <blockquote><p>Sans doute, l’amitié, l’amitié qui a égard aux individus, est une chose frivole, et la lecture est une amitié. Mais du moins c’est une amitié sincère, et le fait qu’elle s’adresse à un mort, à un absent, lui donne quelque chose de désintéressé, de presque touchant.</p></blockquote>
 <p style="text-align: right;">Proust, <em>Sur la lecture.</em></p>
@@ -22,17 +24,20 @@ intro_text: <blockquote><p>Toute vie véritable est rencontre [&#8230;] Entre le
 
 ----
 
-credits: <ul>
+Credits:
+
+<ul>
  	<li>Texte de présentation par l'équipe éditoriale</li>
 </ul>
 
 ----
 
-date: 2018-04-27 15:00:53
+Date: 2018-04-27 15:00:53
 
 ----
 
-references: 
+References: 
 
 ----
 
+Uuid: WOv69yqBmvAryhOB

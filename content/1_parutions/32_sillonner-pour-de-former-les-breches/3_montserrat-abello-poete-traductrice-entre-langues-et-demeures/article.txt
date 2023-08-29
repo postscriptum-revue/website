@@ -1,27 +1,33 @@
-title: Montserrat Abelló, poète traductrice, entre langues et demeures
+Title: Montserrat Abelló, poète traductrice, entre langues et demeures
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Sarah Labelle
   affiliation: Université de Montréal
 
 ----
 
-abstract_fr: <p>Cet article se veut une introduction, en français, à l’œuvre de la poète et traductrice catalane Montserrat Abelló. La porte d’entrée vers cette autrice sera ici son rapport à la langue anglaise, rapport qui s’est construit tout au long de sa carrière au fil de ses lectures, de son travail d’enseignante et de traductrice. Par son choix de l’anglais comme seconde langue, Abelló s’est échafaudé un langage propre, se situant dans une filiation littéraire bâtie sur mesure. Grâce à l’espace créé par les allers-retours entre catalan et anglais, elle a pu affirmer une voix poétique singulière, préfigurant les voix féministes ancrées dans l’intime et les expérimentations langagières de l’exophonie, basées sur la matérialité des mots, les frictions entre langues.</p>
+Abstract-fr:
+
+<p>Cet article se veut une introduction, en français, à l’œuvre de la poète et traductrice catalane Montserrat Abelló. La porte d’entrée vers cette autrice sera ici son rapport à la langue anglaise, rapport qui s’est construit tout au long de sa carrière au fil de ses lectures, de son travail d’enseignante et de traductrice. Par son choix de l’anglais comme seconde langue, Abelló s’est échafaudé un langage propre, se situant dans une filiation littéraire bâtie sur mesure. Grâce à l’espace créé par les allers-retours entre catalan et anglais, elle a pu affirmer une voix poétique singulière, préfigurant les voix féministes ancrées dans l’intime et les expérimentations langagières de l’exophonie, basées sur la matérialité des mots, les frictions entre langues.</p>
 <p>Mots-clés : traduction, poésie, filiation, féminisme, exophonie</p>
 
 ----
 
-abstract_en: <p>This article aims to give an introduction in French to the work of the poet and translator Montserrat Abelló. The main angle will be her relationship to the English language, a relation built throughout her career through her reading choices, her teaching work, and her translations. By choosing English as her second language, Abelló has built her own poetic language and installed it in a custom-made literary lineage. Thanks to the space opened by creating between Catalan and English, she asserted a singular poetic voice, announcing the intimist and feminist voices that would follow, as well as the linguistic experimentations of exophony, based upon words’ corporality and frictions.</p>
+Abstract-en: <p>This article aims to give an introduction in French to the work of the poet and translator Montserrat Abelló. The main angle will be her relationship to the English language, a relation built throughout her career through her reading choices, her teaching work, and her translations. By choosing English as her second language, Abelló has built her own poetic language and installed it in a custom-made literary lineage. Thanks to the space opened by creating between Catalan and English, she asserted a singular poetic voice, announcing the intimist and feminist voices that would follow, as well as the linguistic experimentations of exophony, based upon words’ corporality and frictions.</p>
 
 ----
 
-text: <p>En 2014, la maison d’édition anglaise Francis Boutle, spécialisée en littératures de langues européennes minoritaires, inaugure sa collection d’œuvres catalanes avec <em>Fifty Love Poems, </em>premier passage vers l’anglais de Montserrat Abelló, ainsi qu’avec <em>The Body’s Reason</em>, première traduction vers cette langue de l’écrivaine féministe Maria Mercè Marçal. La première est une autotraduction, la seconde une traduction à deux mains, réalisée en partie par Abelló. Dans <em>Fifty Love Poems, </em>une des dernières œuvres publiées de son vivant, Abelló jette un regard rétrospectif sur cinquante ans de vie poétique et revitalise ses poèmes par un regard distancié.<a href="#_ftn1" name="_ftnref1">[1]</a> La distance qui regénère la poésie est celle des années, mais aussi, et c’est celle qui nous intéresse ici, celle de la langue. Ou plutôt, celle des allers-retours entre langues.</p>
+Text:
+
+<p>En 2014, la maison d’édition anglaise Francis Boutle, spécialisée en littératures de langues européennes minoritaires, inaugure sa collection d’œuvres catalanes avec <em>Fifty Love Poems, </em>premier passage vers l’anglais de Montserrat Abelló, ainsi qu’avec <em>The Body’s Reason</em>, première traduction vers cette langue de l’écrivaine féministe Maria Mercè Marçal. La première est une autotraduction, la seconde une traduction à deux mains, réalisée en partie par Abelló. Dans <em>Fifty Love Poems, </em>une des dernières œuvres publiées de son vivant, Abelló jette un regard rétrospectif sur cinquante ans de vie poétique et revitalise ses poèmes par un regard distancié.<a href="#_ftn1" name="_ftnref1">[1]</a> La distance qui regénère la poésie est celle des années, mais aussi, et c’est celle qui nous intéresse ici, celle de la langue. Ou plutôt, celle des allers-retours entre langues.</p>
 <p>Dès le départ, et jusqu’à <em>Fifty Love Poems</em>, la carrière de Montserrat Abelló est inséparable de la traduction – enjeu inévitable, pour tout milieu littéraire construit autour d’une langue nationale minoritaire et historiquement minorisée.<a href="#_ftn2" name="_ftnref2">[2]</a> Malgré ces obstacles, la littérature catalane vit un petit âge d’or, surtout depuis 2007 et la foire du livre de Francfort, où elle était l’invitée d’honneur. Pensons aux succès de traduction comme Mercè Rodoreda ou Quim Monzó, au romancier Jaume Cabré et son <em>Jo confesso</em>, traduit en plus de 20 langues, ou à <em>Canto jo i la muntanya balla</em> d’Irene Solà, représentant la plus jeune génération.<a href="#_ftn3" name="_ftnref3">[3]</a> Ce dynamisme reste cependant fragile, la diffusion à l’international étant totalement dépendante de la traduction et, plus largement, de la vitalité culturelle catalane, de la pérennité de ses institutions.<a href="#_ftn4" name="_ftnref4">[4]</a> En Catalogne, Abelló commence à être étudiée et commémorée officiellement à partir des années 1990, autant pour son œuvre poétique que pour la somme de ses traductions. Elle reçoit la Creu San Jordi en 1998 et le Prix d’Honneur des Lettres Catalanes en 2008. En 2018, quatre ans après son décès, le gouvernement choisit de la célébrer avec l’An Montserrat Abelló, puis, la même année, une journée d’étude est organisée à l’Institut d’Études catalanes. Abelló a travaillé à partir des années 1960 à la diffusion de la poésie anglo-saxonne dans sa langue natale et a traduit Iris Murdoch, Dylan Thomas, Sylvia Plath, Adrienne Rich, Alice Walker, dans plus d’une vingtaine d’ouvrages.</p>
 <p>Abelló est désormais reconnue pour son apport indéniable à l’histoire de la traduction catalane. Inversement, elle est encore peu traduite et diffusée hors Catalogne où, de surcroit, peu de recherches ont été effectuées sur son rapport à l’anglais, en ses termes « sa deuxième langue » (Abelló 2015, 48; Abelló 1998). Je propose ici de lire Montserrat Abelló avec comme point de départ son rapport libérateur à l’anglais, ne serait-ce que pour offrir une porte d’entrée à son œuvre et l’inscrire dans une mouvance poétique et politique plus vaste. Qu’est-ce que la poète trouve dans la langue anglaise? Qu’est-ce qui est modifié, ébranlé, ouvert par celle-ci? Comment l’anglais lui permet-il de se situer en poésie, de trouver lieu et voix?</p>
 <p>« Vivències » : entre anglais et catalan<a href="#_ftn5" name="_ftnref5">[5]</a></p>
@@ -182,7 +188,8 @@ sóc amb vosaltres.</p>
 
 ----
 
-references: 
+References:
+
 - Bibliographie
 
 Abelló, Montserrat. <em>Al cor de les paraules : Obra poètica, 1963-2002</em>. Barcelone : Proa Edicions, 2002.
@@ -325,7 +332,8 @@ Notes
 
 ----
 
-number: 3
+Number: 3
 
 ----
 
+Uuid: g4Wx3dtZ5IPoksjs

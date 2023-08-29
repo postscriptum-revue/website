@@ -1,28 +1,36 @@
-title: La crise de la tonnellerie algéroise dans « Les Muets » d’Albert Camus 
+Title: La crise de la tonnellerie algéroise dans « Les Muets » d’Albert Camus 
 
 ----
 
-subtitle: ce que la fiction et l’histoire peuvent recevoir l’une de l’autre
+Subtitle: ce que la fiction et l’histoire peuvent recevoir l’une de l’autre
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Christian Phéline
-  affiliation: 
+  affiliation:
 
 ----
 
-abstract_fr: <p>« Les Muets » (1957) est le seul récit d’Albert Camus à se situer entièrement dans le monde ouvrier. Il relate la journée de reprise du travail des employés d’un atelier algérois de tonnellerie après l’échec d’une grève et décrit leur incapacité à rompre leur silence lorsqu’un mal subit frappe la petite fille de leur patron. L’écrivain a connu dans son enfance un tel atelier, lieu travaillant en sous-traitance des Chevallier, prospère famille d’entrepreneurs algérois, et où son oncle était tonnelier. Si journaux ou archives documentent amplement au niveau macrosocial la grave crise que l’essor des bateaux-citernes déclencha pour tout ce secteur lors des années 1930, la nouvelle se centre sur les rapports interindividuels au sein d’un petit collectif de travail. Le présent article souligne combien cette approche, plus que les documents d’archive ou une chronique d’ensemble des mobilisations sociales de l’époque, est propice à saisir un conflit collectif tel que ses acteurs le <em>vivent</em> et se le <em>représentent</em>, tout en dépeignant avec justesse une organisation des tâches restée proche de la manufacture, la typologie des ouvriers d’un tel atelier et l’autorité familialiste qui y prévaut encore. D’un grand intérêt dans la sociologie de l’Algérie d’alors, ces observations mettent également en lumière l’éthique sociale de l’écrivain, telle qu’elle est mise à l’épreuve de l’impuissance douloureuse de ses personnages à exprimer leur compassion devant le drame de la mort d’un enfant. L’auteur de <em>L’Homme révolté</em> (1951) y mesure toute la difficulté, dans une situation de revendication frustrée, à préserver la solidarité sociale sans s’enfermer dans le ressentiment. Ainsi, sous l’éclairage croisé de la mémoire autobiographique et de l’archive sociale, la nouvelle de 1957 illustre au mieux l’usage que la littérature peut faire de l’expérience du social, mais aussi ce que l’histoire gagne à croiser ses sources usuelles avec certaines œuvres de fiction.</p>
+Abstract-fr:
+
+<p>« Les Muets » (1957) est le seul récit d’Albert Camus à se situer entièrement dans le monde ouvrier. Il relate la journée de reprise du travail des employés d’un atelier algérois de tonnellerie après l’échec d’une grève et décrit leur incapacité à rompre leur silence lorsqu’un mal subit frappe la petite fille de leur patron. L’écrivain a connu dans son enfance un tel atelier, lieu travaillant en sous-traitance des Chevallier, prospère famille d’entrepreneurs algérois, et où son oncle était tonnelier. Si journaux ou archives documentent amplement au niveau macrosocial la grave crise que l’essor des bateaux-citernes déclencha pour tout ce secteur lors des années 1930, la nouvelle se centre sur les rapports interindividuels au sein d’un petit collectif de travail. Le présent article souligne combien cette approche, plus que les documents d’archive ou une chronique d’ensemble des mobilisations sociales de l’époque, est propice à saisir un conflit collectif tel que ses acteurs le <em>vivent</em> et se le <em>représentent</em>, tout en dépeignant avec justesse une organisation des tâches restée proche de la manufacture, la typologie des ouvriers d’un tel atelier et l’autorité familialiste qui y prévaut encore. D’un grand intérêt dans la sociologie de l’Algérie d’alors, ces observations mettent également en lumière l’éthique sociale de l’écrivain, telle qu’elle est mise à l’épreuve de l’impuissance douloureuse de ses personnages à exprimer leur compassion devant le drame de la mort d’un enfant. L’auteur de <em>L’Homme révolté</em> (1951) y mesure toute la difficulté, dans une situation de revendication frustrée, à préserver la solidarité sociale sans s’enfermer dans le ressentiment. Ainsi, sous l’éclairage croisé de la mémoire autobiographique et de l’archive sociale, la nouvelle de 1957 illustre au mieux l’usage que la littérature peut faire de l’expérience du social, mais aussi ce que l’histoire gagne à croiser ses sources usuelles avec certaines œuvres de fiction.</p>
 <p>Mots-clés : fiction, histoire sociale, crise économique, chômage, solidarité ouvrière, Albert Camus</p>
 
 ----
 
-abstract_en: <p>« Les Muets » (1957) is the only text by Albert Camus to be set entirely in the working-class world. It recounts the day when the employees of a small coopery in Algiers return to work after a failed strike and describes their inability to break their silence when a sudden attack hits their boss’ daughter. In his childhood, the author frequented such a workshop where his uncle was a cooper, and which was working for the Chevalliers, a wealthy family of entrepreneurs in Algeria. If daily papers or public records document widely, from a macrosocial standpoint, the acute crisis started in the 1930s for this sector by the tank vessels onset, this short story focuses on interindividual relations within a small work collective. This article underlines how such an approach, more than historical documents or a global narrative of the social mobilizations of this period, is conducive to capturing the<em> lived</em><em> experience</em> and the <em>representation </em>of a collective conflict, while accurately depicting an organization of tasks remaining akin to the old factory, the typology of workers in such a workshop and the familialist management still prevailing in it. Such sightings are of great value for a sociology of Algeria of this time and to learn of the writer’s social ethics as the protagonists’ failure to express their compassion when confronted with a child’s death. As author of <em>L’Homme révolté</em> (1951), Camus measures the difficulty, in a situation of rejected claims, of preserving workers’ solidarity without yielding to resentment. Thus, under the double light of autobiographical memory and social archive, the 1957 short story exemplifies best how literature may borrow from social experience, but also what history may gain from crossing its usual sources with works of fiction.</p>
+Abstract-en:
+
+<p>« Les Muets » (1957) is the only text by Albert Camus to be set entirely in the working-class world. It recounts the day when the employees of a small coopery in Algiers return to work after a failed strike and describes their inability to break their silence when a sudden attack hits their boss’ daughter. In his childhood, the author frequented such a workshop where his uncle was a cooper, and which was working for the Chevalliers, a wealthy family of entrepreneurs in Algeria. If daily papers or public records document widely, from a macrosocial standpoint, the acute crisis started in the 1930s for this sector by the tank vessels onset, this short story focuses on interindividual relations within a small work collective. This article underlines how such an approach, more than historical documents or a global narrative of the social mobilizations of this period, is conducive to capturing the<em> lived</em><em> experience</em> and the <em>representation </em>of a collective conflict, while accurately depicting an organization of tasks remaining akin to the old factory, the typology of workers in such a workshop and the familialist management still prevailing in it. Such sightings are of great value for a sociology of Algeria of this time and to learn of the writer’s social ethics as the protagonists’ failure to express their compassion when confronted with a child’s death. As author of <em>L’Homme révolté</em> (1951), Camus measures the difficulty, in a situation of rejected claims, of preserving workers’ solidarity without yielding to resentment. Thus, under the double light of autobiographical memory and social archive, the 1957 short story exemplifies best how literature may borrow from social experience, but also what history may gain from crossing its usual sources with works of fiction.</p>
 <p>Keywords: fiction, social history, economic crisis, unemployment, workers solidarity, Albert Camus</p>
 
 ----
 
-text: <blockquote>
+Text:
+
+<blockquote>
 <p style="text-align: right;"><em> </em><em>[Le] destin des pauvres […] est de disparaître de l’histoire sans laisser de traces. Les Muets.</em></p>
 <p style="text-align: right;"><em>Ils étaient et ils sont plus grands que moi.</em></p>
 <p style="text-align: right;">Albert Camus</p>
@@ -135,7 +143,8 @@ text: <blockquote>
 
 ----
 
-references: 
+References:
+
 - Les références faites dans l’article aux divers textes d’Albert Camus les identifient par leur date de première publication et renvoient, dans la plupart des cas, à la page du volume concerné des<em> Œuvres complètes.</em> Paris : Gallimard, « Bibliothèque de la Pléiade », I à 1V, 2006 à 2008. 
 
 Les cotes des documents consultés aux Archives nationales (AN) et aux Archives nationales d’outre-mer (ANOM), respectivement conservées à Pierrefitte et à Aix-en-Provence, sont données en note de bas de page ; les renvois aux articles d’actualité parus dans la presse de l’époque figurent dans le corps de l’article. 
@@ -210,7 +219,8 @@ Todd, Olivier. <em>Camus, une vie. </em>Paris : Gallimard, coll. « Folio »,
 
 ----
 
-number: 1
+Number: 1
 
 ----
 
+Uuid: cHhMFJ32M2gjjaed

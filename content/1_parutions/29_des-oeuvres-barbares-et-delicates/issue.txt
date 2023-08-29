@@ -1,16 +1,18 @@
-title: Des œuvres barbares et délicates
+Title: Des œuvres barbares et délicates
 
 ----
 
-subtitle: Autour d’une contre-esthétique de la laideur
+Subtitle: Autour d’une contre-esthétique de la laideur
 
 ----
 
-number: 29
+Number: 29
 
 ----
 
-intro_text: <h1 style="text-align: left;">Tableaux des laideurs : de la révulsion à la résistance</h1>
+Intro-text:
+
+<h1 style="text-align: left;">Tableaux des laideurs : de la révulsion à la résistance</h1>
 <blockquote>
 <p style="text-align: right;">Il y a, dans l’abjection, une de ces violentes et obscures révoltes de l’être contre ce qui le menace et qui lui paraît venir d’un dehors ou d’un dedans exorbitant, jeté à côté du possible, du tolérable, du pensable. C’est là, tout près mais inassimilable. Ça sollicite, inquiète, fascine le désir qui pourtant ne se laisse pas séduire. Apeuré, il se détourne. Écœuré, il rejette. Un absolu le protège de l’opprobre, il en est fier, il y tient. Mais en même temps, quand même, cet élan, ce spasme, ce saut, est attiré vers un ailleurs aussi tentant que condamné. Inlassablement, comme un boomerang indomptable, un pôle d’appel et de répulsion met celui qui en est habité littéralement hors de lui (Kristeva, 1980 : 9).</p>
 </blockquote>
@@ -32,7 +34,9 @@ intro_text: <h1 style="text-align: left;">Tableaux des laideurs : de la révuls
 
 ----
 
-credits: <ul>
+Credits:
+
+<ul>
  	<li>Illustration: <em>Onoe Matsusuke as the Ghost of the Murdered Wife Oiwa, </em>in "A Tale of Horror from the Yotsuya Station on the Tokaido Road", 1812, Woodblock print; ink and color on paper, 37.5 x 25.7 cm, © Utagawa Toyokuni I (image fournie par The Metropolitan Museum of Art NYC, licence CCO)</li>
  	<li>Texte de présentation par l’équipe de <i>Post-Scriptum</i></li>
  	<li><i></i>Édition du numéro : l’équipe de <i>Post-Scriptum</i></li>
@@ -40,11 +44,12 @@ credits: <ul>
 
 ----
 
-date: 2020-12-04 19:00:00
+Date: 2020-12-04 19:00:00
 
 ----
 
-references: 
+References: 
 
 ----
 
+Uuid: 0NZM3MmHSyYqUHHQ

@@ -1,27 +1,33 @@
-title: « Déconstruire cette colonisation pour reconstruire autrement »
+Title: « Déconstruire cette colonisation pour reconstruire autrement »
 
 ----
 
-subtitle: Parcours et points de vue de trois atikamekw iskwewok de Manawan
+Subtitle: Parcours et points de vue de trois atikamekw iskwewok de Manawan
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Jemmy Echaquan, Dubé Maïlys Flamand, Étienne Levac et Marie-Kristine Petiquay
   affiliation: Artistes pluridisciplinaires (Jemmy Echaquan, Dubé Maïlys Flamand et Marie-Kristine Petiquay), et Université du Québec à Montréal (Étienne Levac)
 
 ----
 
-abstract_fr: <p>Cet entretien est une collaboration entre <em>okwimesak</em> (ami.e.s) comprenant trois <em>atikamekw iskwewok</em> (femmes atikamekw nehirowisiwok) et un <em>emitcikociwic</em> (blanc) qui souhaite aborder le thème de la décolonisation dans le contexte actuel au Québec du point de vue de ces trois femmes fortement impliquées dans la transmission des savoirs atikamekw et des voix des membres de la communauté de Manawan. En effet, elles sont impliquées comme actrices, réalisatrices, artisanes, chanteuses et artistes. L’objectif de cette discussion prenant la forme d’une entrevue est de mettre à l’avant-plan leurs perspectives concernant leurs pratiques artistiques ancrées dans l’utilisation des médias sociaux et des caméras et des liens qu’elles y font avec un projet de décolonisation.</p>
+Abstract-fr:
+
+<p>Cet entretien est une collaboration entre <em>okwimesak</em> (ami.e.s) comprenant trois <em>atikamekw iskwewok</em> (femmes atikamekw nehirowisiwok) et un <em>emitcikociwic</em> (blanc) qui souhaite aborder le thème de la décolonisation dans le contexte actuel au Québec du point de vue de ces trois femmes fortement impliquées dans la transmission des savoirs atikamekw et des voix des membres de la communauté de Manawan. En effet, elles sont impliquées comme actrices, réalisatrices, artisanes, chanteuses et artistes. L’objectif de cette discussion prenant la forme d’une entrevue est de mettre à l’avant-plan leurs perspectives concernant leurs pratiques artistiques ancrées dans l’utilisation des médias sociaux et des caméras et des liens qu’elles y font avec un projet de décolonisation.</p>
 <p>Mots-clefs: Femmes autochtones, vécus, atikamekw nehirowisiw, décolonisation et expressions artistiques</p>
 
 ----
 
-abstract_en: <p>This interview is a collaboration between <em>okwimesak </em>(friends) including three <em>atikamekw iskwewok</em> (atikamekw nehirowisiwok women) and one <em>emitcikociwic</em> (white/settler) that aims to approach the theme of decolonization in the context of the province of Quebec from the point of view of those three women strongly involved in the transmission of Atikamekw knowledge and the voices of the members of the Manawan community. Indeed, they are involved as actresses, directors, craftswomen, singers, and artists. Through a discussion in the form of an interview, our goal is to put forward the outlook of those three women regarding their art practices through social media and the medium of the camera, as well as the links that they make with a decolonial project.</p>
+Abstract-en: <p>This interview is a collaboration between <em>okwimesak </em>(friends) including three <em>atikamekw iskwewok</em> (atikamekw nehirowisiwok women) and one <em>emitcikociwic</em> (white/settler) that aims to approach the theme of decolonization in the context of the province of Quebec from the point of view of those three women strongly involved in the transmission of Atikamekw knowledge and the voices of the members of the Manawan community. Indeed, they are involved as actresses, directors, craftswomen, singers, and artists. Through a discussion in the form of an interview, our goal is to put forward the outlook of those three women regarding their art practices through social media and the medium of the camera, as well as the links that they make with a decolonial project.</p>
 
 ----
 
-text: <p>Les théories relatives à la décolonisation et au postcolonialisme montrent que les instances de pouvoir colonial sont légitimées à travers la création de stéréotypes rendant l’altérité, particulièrement les corps des personnes forcées dans cette altérité, exploitable, jetable et à sauver (Coulthard, 2014; Guzmán, 2013; Spivak et Vidal, 2009). L’actuel Canada ne fait pas exception à cette mégalomanie destructive : les personnes autochtones ont été réduites à des stéréotypes répondant à un folklore multiculturel légitimant les violences à leur égard et la dépossession de leurs territoires. Pour les femmes autochtones, les conséquences de cet imaginaire colonial se concrétisent, entre autres, par un féminicide à l’échelle nationale (Anderson, 2016; CANADA, 2019; Bergeron &amp; Boileau, 2015; Walter, 2014).</p>
+Text:
+
+<p>Les théories relatives à la décolonisation et au postcolonialisme montrent que les instances de pouvoir colonial sont légitimées à travers la création de stéréotypes rendant l’altérité, particulièrement les corps des personnes forcées dans cette altérité, exploitable, jetable et à sauver (Coulthard, 2014; Guzmán, 2013; Spivak et Vidal, 2009). L’actuel Canada ne fait pas exception à cette mégalomanie destructive : les personnes autochtones ont été réduites à des stéréotypes répondant à un folklore multiculturel légitimant les violences à leur égard et la dépossession de leurs territoires. Pour les femmes autochtones, les conséquences de cet imaginaire colonial se concrétisent, entre autres, par un féminicide à l’échelle nationale (Anderson, 2016; CANADA, 2019; Bergeron &amp; Boileau, 2015; Walter, 2014).</p>
 <p>Cependant, les personnes autochtones – et plus précisément les femmes – n’ont jamais vécu le processus colonial de manière passive (Palmater, 2014) et ont toujours exprimé leurs voix par divers moyens (Gabriel, 2017; Gentelet, 2014; Kapesh, 1976; Koperqualuk, 2008) pour honorer leurs relations avec leurs communautés, leurs ancêtres, le territoire et les prochaines générations face au colonialisme (Simpson, 2011, 2017).</p>
 <p>Le présent entretien est une collaboration entre <em>okwimesak</em> (ami.e.s) comprenant trois <em>atikamekw iskwewok</em> (femmes atikamekw nehirowisiwok) et un <em>emitcikociwic</em> (blanc)<a href="#_ftn1" name="_ftnref1">[1]</a> qui souhaite aborder le thème de la décolonisation dans le contexte actuel du Québec du point de vue de ces trois femmes fortement impliquées dans la transmission des savoirs atikamekw et des voix des membres de la communauté de Manawan. Ces trois femmes sont Jemmy Echaquan Dubé<a href="#_ftn2" name="_ftnref2">[2]</a>, Maïlys Flamand<a href="#_ftn3" name="_ftnref3">[3]</a> et Marie-Kristine Petiquay<a href="#_ftn4" name="_ftnref4">[4]</a>. Elles sont impliquées comme actrices, réalisatrices, artisanes, chanteuses et artistes. L’objectif de cette discussion prenant la forme d’une entrevue est de mettre à l’avant-plan les perspectives de Jemmy, Maïlys et Marie-Kristine concernant leurs pratiques artistiques ancrées dans l’utilisation des médias sociaux et des caméras, ainsi que les liens qu’elles y font avec un projet de décolonisation. Tout au long du texte, des notes de bas de page réfèrent à des textes, des films, des balados et des œuvres artistiques, non pas dans l’optique de légitimer nos paroles, mais bien de montrer comment celles-ci s’inscrivent dans une réflexion collective bien présente dans les Amériques.</p>
 <p>Entrevue<a href="#_ftn5" name="_ftnref5">[5]</a></p>
@@ -100,7 +106,8 @@ text: <p>Les théories relatives à la décolonisation et au postcolonialisme mo
 
 ----
 
-references: 
+References:
+
 - Alfred, Taiaiake, et Jeff Corntassel. « Being Indigenous: Resurgences against Contemporary Colonialism », <em>Government and Opposition Ltd 2005</em>, vol. 1, no 1 (2013) : 1–18.
 
 Anderson, Kim. <em>A recognition of being: reconstructing native womanhood</em> (second edition). Toronto : Women’s Press Toronto, 2016.
@@ -251,7 +258,8 @@ Notes
 
 ----
 
-number: 5
+Number: 5
 
 ----
 
+Uuid: c0AXThJC4I39CdOt

@@ -1,16 +1,18 @@
-title: L'amitié aux heures de sa différence
+Title: L'amitié aux heures de sa différence
 
 ----
 
-subtitle: Politiques littéraires de la communauté
+Subtitle: Politiques littéraires de la communauté
 
 ----
 
-number: 30
+Number: 30
 
 ----
 
-intro_text: <h1 style="text-align: left;">Encore l&rsquo;amitié</h1>
+Intro-text:
+
+<h1 style="text-align: left;">Encore l&rsquo;amitié</h1>
 <p>Par où reprendre, pour une énième fois, le fil d’une thématique qui a été si influencée par le devenir-pandémique ? On croirait à une supercherie intellectuelle, tellement l’ironie est peu subtile, et tellement l’instant du colloque comme celui de la publication du numéro persistent à se synchroniser avec les rythmes du confinement. Hélas, ce n’est pas là l’œuvre d’une conjuration comparatiste pour redonner du lustre à un thème qui, du reste, n’en a pas besoin. L’appel à la communauté, dont on sait qu’il requiert plusieurs nuances pour ne pas reconduire une vision naïve de l’hospitalité comme de la proximité des corps, suscite en ces temps distancés des affects variés, qui ne peuvent être entièrement synthétisés tant ils se déploient au sein de réseaux et de mémoires locales. Ces différences, que je salue, ont été en partie celles qui ont inspiré le mot d’ouverture du colloque dont ce numéro est issu : sans m’adonner à un méta-commentaire, il suffit de savoir que les multiples textes publiés dans ce 30e numéro de la revue <em>Post-Scriptum </em>ont découlé des présentations et des discussions denses pendant lesquelles l’amitié flottait comme concept, sans qu’il rende faciles ni similaires les approches prises par les participant.e.s. Ces approches prennent les formes suivantes :</p>
 <p>La sororité entre femmes ayant vécu des violences sexuelles est la communauté vitale, d’une importance évidente, à laquelle Iris Delhoum consacre une réflexion où le littéraire reconnaît son engagement dans le contemporain. Face aux enjeux chargés qui requièrent autant un sens de la douceur que la nécessité de nommer la violence historique faite aux corps féminin, Delhoum conjugue pensées féministes et études philosophico-littéraires, dans une alliance qui rend plus de force encore aux résistances et ancrages présentes chez Lola Lafon. Dans un rejet sans ambivalence des structures misogynes et patriarcales, elle appelle à une amitié sororale, dont l’écoute et la possibilité de l’anonymat sont quelques-unes des caractéristiques les plus impressionnantes, à même de déjouer l’ombre des valeurs viriles.</p>
 <p>Ces mêmes valeurs, dans un contexte d’amitié entre des écrivains, ont une scène pour le moins impressionnante dans la relation entre Aragon et Breton : celle-ci donne à Sian Lucca un angle d’autant plus riche qu’il répond à une absence de considérations sur les effets de genre chez les surréalistes. En nuançant les types de masculinités, Lucca trouve, dans différents textes d’Aragon, un geste queer, subvertissant étonnamment les codes traditionnels sur lesquels reposent l’amitié masculine. La lecture de Lucca parvient à surpasser les pièges biographiques et l’individuation qu’ils encouragent, car elle lie les énoncés littéraires – épistolaires, narratifs, poétiques, etc. – au devenir-politique, brouillant une frontière qui garderait, autrement, le récit de l’amitié dans des balises bien rigides. Le queer travaille vraisemblablement les différents matériaux littéraires, qu’il assemble sans les fondre les uns dans les autres.</p>
@@ -24,7 +26,9 @@ intro_text: <h1 style="text-align: left;">Encore l&rsquo;amitié</h1>
 
 ----
 
-credits: <ul>
+Credits:
+
+<ul>
  	<li>Photograph, <em>Bathers (b) </em>, 1969, Dye-transfer on paper mounted onto board, 388 × 539 mm, © The estate of Richard Hamilton (image fournie par The Tate UK)</li>
  	<li>Texte de présentation par Renato Rodriguez-Lefebvre</li>
  	<li>Édition du numéro : l’équipe de <i>Post-Scriptum</i></li>
@@ -32,11 +36,12 @@ credits: <ul>
 
 ----
 
-date: 2021-05-12 22:44:43
+Date: 2021-05-12 22:44:43
 
 ----
 
-references: 
+References: 
 
 ----
 
+Uuid: Hv7djChTxqC2Ro2t

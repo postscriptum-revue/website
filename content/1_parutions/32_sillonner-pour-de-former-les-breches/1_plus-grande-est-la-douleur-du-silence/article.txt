@@ -1,30 +1,38 @@
-title: Plus grande est la douleur du silence
+Title: Plus grande est la douleur du silence
 
 ----
 
-subtitle: poétique de la remémoration dans "Dictee" de Theresa Hak Kyung Cha
+Subtitle: poétique de la remémoration dans "Dictee" de Theresa Hak Kyung Cha
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Maude Marcotte
-  affiliation: Université de Montréal 
+  affiliation: Université de Montréal
 
 ----
 
-abstract_fr: <p>Comment commencer le travail de déliaison entre la douleur et le langage? Theresa Hak Kyung Cha pose cette question à travers son œuvre, <em>Dictée</em>. Née à Busan durant la guerre de Corée, Cha déménage aux États-Unis une dizaine d’années plus tard. Il s’agit là du deuxième déracinement pour ses parents qui, après avoir grandi dans la Mandchourie, s’étaient relocalisés dans leur Corée natale où leur langue était alors bannie. Dans <em>Dictée</em>, Cha crée un mouvement de résistance contre l’assimilation, qu’elle soit politique ou esthétique. En produisant sa propre sémiotique, qui agence d’une voix multiple et désincarnée l’anglais et le français, la poésie, la prose, le documentaire et la photographie, l’autrice souligne cette intergénérationnalité de la plaie qu’ouvre la dimension langagière de l’exophone. <em>Dictée</em> consiste, en fait, en un important travail de remémoration. Cha allie portraits fragmentés de figures féminines mythologisées, passant de sa mère, à Yu Guan Soon et à Jeanne d’Arc. Les « histoires » du texte sont vaguement liées entre elles par des processus complexes de la signification et les thèmes de la souffrance et de la résistance dans la vie de femmes. L’autrice, en introduisant l’histoire de femmes souvent ignorées, parvient à perturber les notions de l’Histoire.</p>
+Abstract-fr:
+
+<p>Comment commencer le travail de déliaison entre la douleur et le langage? Theresa Hak Kyung Cha pose cette question à travers son œuvre, <em>Dictée</em>. Née à Busan durant la guerre de Corée, Cha déménage aux États-Unis une dizaine d’années plus tard. Il s’agit là du deuxième déracinement pour ses parents qui, après avoir grandi dans la Mandchourie, s’étaient relocalisés dans leur Corée natale où leur langue était alors bannie. Dans <em>Dictée</em>, Cha crée un mouvement de résistance contre l’assimilation, qu’elle soit politique ou esthétique. En produisant sa propre sémiotique, qui agence d’une voix multiple et désincarnée l’anglais et le français, la poésie, la prose, le documentaire et la photographie, l’autrice souligne cette intergénérationnalité de la plaie qu’ouvre la dimension langagière de l’exophone. <em>Dictée</em> consiste, en fait, en un important travail de remémoration. Cha allie portraits fragmentés de figures féminines mythologisées, passant de sa mère, à Yu Guan Soon et à Jeanne d’Arc. Les « histoires » du texte sont vaguement liées entre elles par des processus complexes de la signification et les thèmes de la souffrance et de la résistance dans la vie de femmes. L’autrice, en introduisant l’histoire de femmes souvent ignorées, parvient à perturber les notions de l’Histoire.</p>
 <p>Je m’intéresserai à la perméabilité des corps et de la mémoire. Cha constate une impossibilité de la remémoration puisqu’elle nie l’idée de la mémoire singulière. La mémoire de l’Autre formerait la nôtre. Quels sont alors les principes de la remémoration? Comment la mémoire prend-elle forme dans une langue qui n’est pas la nôtre? Je souhaite également mettre l’accent sur ce problème que pose la langue seconde. Je chercherai à m’interroger sur l’inconfort de l’immigrant·e dans une langue qui n’est pas la sienne. De quelle façon s’articule la résistance politique lorsqu’on s’exprime dans celle-ci? Et que confère l’émotion dans la mémoire polyglotte?</p>
 <p>Mots-clés : Theresa Hak Kyung Cha, mémoire, langage, identité</p>
 
 ----
 
-abstract_en: <p>How do we begin to sever the ties between pain and language? Theresa Hak Kyung Cha aims to address this question in <em>Dictée</em>. Born in Busan during the Korean War, Cha moved to the United States a decade later. This was the second uprooting for her parents who, after growing up in Manchuria, had relocated to their native Korea where their language was now banned. In <em>Dictée</em>, Cha creates a motion of resistance against assimilation, whether political or aesthetic. By producing her own semiotics, which combines English and French, poetry, prose, documentary, and photography in a plural and disembodied voice, the author underlines the intergenerational dimension of the wound caused by the language of the exophone. <em>Dictée</em> consists, in fact, in an important work of remembrance. Cha interlaces fragmented portraits of mythologized female figures, from her mother to Yu Guan Soon and Joan of Arc. The “stories” of the text are loosely connected by the themes of suffering and resistance in women’s lives and by the complex processes of (re)signification. The author, by introducing the stories of often ignored women, disrupts the notions of History.</p>
+Abstract-en:
+
+<p>How do we begin to sever the ties between pain and language? Theresa Hak Kyung Cha aims to address this question in <em>Dictée</em>. Born in Busan during the Korean War, Cha moved to the United States a decade later. This was the second uprooting for her parents who, after growing up in Manchuria, had relocated to their native Korea where their language was now banned. In <em>Dictée</em>, Cha creates a motion of resistance against assimilation, whether political or aesthetic. By producing her own semiotics, which combines English and French, poetry, prose, documentary, and photography in a plural and disembodied voice, the author underlines the intergenerational dimension of the wound caused by the language of the exophone. <em>Dictée</em> consists, in fact, in an important work of remembrance. Cha interlaces fragmented portraits of mythologized female figures, from her mother to Yu Guan Soon and Joan of Arc. The “stories” of the text are loosely connected by the themes of suffering and resistance in women’s lives and by the complex processes of (re)signification. The author, by introducing the stories of often ignored women, disrupts the notions of History.</p>
 <p>I will examine the permeability of bodies and memory. Cha notes the impossibility of remembrance, for she negates the notion of a singular memory. The memory of the Other forms our own. What then are the principles of remembering? How does memory take shape in a language that is not our own? I also wish to comment on the problem posed by the second, third, fourth language. I will seek to address the discomfort of the immigrant in a language that is not their own. How is political resistance articulated when one speaks in it? And what does emotion confer in polyglot memory?</p>
 <p>Keywords: Theresa Hak Kyung Cha, memory, language, identity</p>
 
 ----
 
-text: <p style="text-align: right;"><em>Clarity is a means of subjection, a quality both of official, taught language and of correct writing, two old mates of power: together they flow, together they flower, vertically, to impose an order. Let us not forget that writers who advocate the instrumentality of language are often those who cannot or choose not to see the suchness of things—a language as language—and therefore, continue to preach conformity to the norms of well-behaved writing: principles of composition, style, genre, correction, and improvement.</em></p>
+Text:
+
+<p style="text-align: right;"><em>Clarity is a means of subjection, a quality both of official, taught language and of correct writing, two old mates of power: together they flow, together they flower, vertically, to impose an order. Let us not forget that writers who advocate the instrumentality of language are often those who cannot or choose not to see the suchness of things—a language as language—and therefore, continue to preach conformity to the norms of well-behaved writing: principles of composition, style, genre, correction, and improvement.</em></p>
 <p style="text-align: right;">— Trinh T. Minh-ha</p>
 <p>Retranscrire l’h/Histoire</p>
 <p>Theresa Hak Kyung Cha était une artiste multidisciplinaire née en 1951 à Busan, en Corée du Sud, peu après l’éclosion de la guerre de Corée qui sévit de 1950 à 1953. Cha et sa famille émigrent aux États-Unis une dizaine d’années plus tard, où l’autrice apprend l’anglais et le français dans une école catholique. La famille s’établit d’abord à Hawaï, puis à San Francisco. Cha obtient un baccalauréat en littérature comparée à la University of California, Berkeley et poursuit ses études en arts. Elle retourne en Corée pour la première fois après dix-huit ans, au moment des manifestations étudiantes, et s’installe finalement à New York en 1980.</p>
@@ -74,7 +82,8 @@ text: <p style="text-align: right;"><em>Clarity is a means of subjection, a qual
 
 ----
 
-references: 
+References:
+
 - Assman, Jan. « Collective Memory and Cultural Identity ». Traduit par John Czaplicka. <em>New German Critique</em> 65, Spring-Summer (1995): 125–33.
 
 Benjamin, Walter. « Ibizan Sequence ». Dans <em>Selected Writings</em>, édité par Marcus Paul Bullock, Michael William Jennings, Howard Eiland, et Gary Smith, Vol. 2, partie 2 (1931–1934). Cambridge : Belknap Press of Harvard University Press, 2005.
@@ -133,7 +142,8 @@ Notes <a href="#_ftnref1" name="_ftn1"></a>
 
 ----
 
-number: 1
+Number: 1
 
 ----
 
+Uuid: bTA5Z7bF4cAUWRQs

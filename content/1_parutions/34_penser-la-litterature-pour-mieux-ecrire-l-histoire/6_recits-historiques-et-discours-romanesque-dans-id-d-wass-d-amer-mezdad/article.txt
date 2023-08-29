@@ -1,26 +1,30 @@
-title: Récits historiques et discours romanesque dans Iḍ d Wass d’Amer Mezdad
+Title: Récits historiques et discours romanesque dans Iḍ d Wass d’Amer Mezdad
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Salim Ayad
-  affiliation: 
+  affiliation:
 
 ----
 
-abstract_fr: <p>La présente contribution aborde la question de la réécriture de l’histoire dans <em>Iḍ d Wass </em>de l’écrivain d’expression kabyle Amer Mezdad. Il s’agira d’examiner le matériau historique inséré dans ce roman afin d’appréhender le sens que celui-ci confère au récit romanesque. En effet, à divers endroits, la dimension historique dans l’œuvre de Mezdad est fortement ressentie là où des moments charnières de l’histoire de la Kabylie sont représentés. Ainsi, notre interrogation est la suivante : comment la narration romanesque participe-t-elle à la relecture de l’histoire coloniale de la Kabylie? Afin d’y répondre, nous partons de l’hypothèse selon laquelle Mezdad redéploie le récit historique pour nous livrer sa propre lecture de l’histoire et propose par là un regard rétrospectif pouvant mener à une meilleure compréhension de l’histoire contemporaine de la Kabylie. Cette lecture vise non seulement à délivrer l’histoire des grilles d’analyse établies par les circuits officiels de l’État algérien, mais aussi à concilier la mémoire collective kabyle, nourrie par l’oralité, et l’Histoire. Par ailleurs, nous pensons que cette réflexion doit être inscrite dans un cadre théorique qui tient compte du rapport entre histoire et littérature ainsi que de l’apport de l’oralité dans l’écriture de l’histoire.</p>
+Abstract-fr: <p>La présente contribution aborde la question de la réécriture de l’histoire dans <em>Iḍ d Wass </em>de l’écrivain d’expression kabyle Amer Mezdad. Il s’agira d’examiner le matériau historique inséré dans ce roman afin d’appréhender le sens que celui-ci confère au récit romanesque. En effet, à divers endroits, la dimension historique dans l’œuvre de Mezdad est fortement ressentie là où des moments charnières de l’histoire de la Kabylie sont représentés. Ainsi, notre interrogation est la suivante : comment la narration romanesque participe-t-elle à la relecture de l’histoire coloniale de la Kabylie? Afin d’y répondre, nous partons de l’hypothèse selon laquelle Mezdad redéploie le récit historique pour nous livrer sa propre lecture de l’histoire et propose par là un regard rétrospectif pouvant mener à une meilleure compréhension de l’histoire contemporaine de la Kabylie. Cette lecture vise non seulement à délivrer l’histoire des grilles d’analyse établies par les circuits officiels de l’État algérien, mais aussi à concilier la mémoire collective kabyle, nourrie par l’oralité, et l’Histoire. Par ailleurs, nous pensons que cette réflexion doit être inscrite dans un cadre théorique qui tient compte du rapport entre histoire et littérature ainsi que de l’apport de l’oralité dans l’écriture de l’histoire.</p>
 
 ----
 
-abstract_en: <p>This contribution addresses the issue of the rewriting of history in <em>Iḍ d Wass</em> by the Kabyle-speaking writer Amer Mezdad. We will examine the historical material inserted in this novel to apprehend the meaning it gives to the novelistic narrative. Indeed, in various places, the historical dimension in Mezdad’s work is strongly felt where pivotal moments in the history of Kabylia are represented. Thus, our question is the following: how does novelistic narration participate in the rereading of the colonial history of Kabylia? In order to answer this, we start from the hypothesis according to which Mezdad redeploys the historical narrative to give us his own reading of history and proposes by the same token a retrospective look that can lead to a better understanding of the contemporary history of Kabylia. This reading is intended not only to free history from the reading grids established by the official circuits of the Algerian State, but also to reconcile it with the Kabyle collective memory, nourished by orality. Moreover, we think that this problem will only be clearer if we place it in a theoretical framework that is dealing with the relationship between history and literature as well as with the contribution of orality in the writing of history.</p>
+Abstract-en: <p>This contribution addresses the issue of the rewriting of history in <em>Iḍ d Wass</em> by the Kabyle-speaking writer Amer Mezdad. We will examine the historical material inserted in this novel to apprehend the meaning it gives to the novelistic narrative. Indeed, in various places, the historical dimension in Mezdad’s work is strongly felt where pivotal moments in the history of Kabylia are represented. Thus, our question is the following: how does novelistic narration participate in the rereading of the colonial history of Kabylia? In order to answer this, we start from the hypothesis according to which Mezdad redeploys the historical narrative to give us his own reading of history and proposes by the same token a retrospective look that can lead to a better understanding of the contemporary history of Kabylia. This reading is intended not only to free history from the reading grids established by the official circuits of the Algerian State, but also to reconcile it with the Kabyle collective memory, nourished by orality. Moreover, we think that this problem will only be clearer if we place it in a theoretical framework that is dealing with the relationship between history and literature as well as with the contribution of orality in the writing of history.</p>
 
 ----
 
-text: <p>Introduction</p>
+Text:
+
+<p>Introduction</p>
 <p>Les auteurs de la littérature d’expression kabyle puisent régulièrement l’inspiration de leurs œuvres dans des événements marquants de l’histoire. On rencontre dans les œuvres traditionnelles et contemporaines des textes qui font référence à l’histoire récente ou lointaine de l’Algérie. De ce point de vue, l’œuvre romanesque de l’écrivain Amer Mezdad<a href="#_ftn1" name="_ftnref1">[1]</a> ne déroge pas à la règle; elle est truffée de récits qui sont en relation étroite avec des évènements historiques d’une grande importance pour l’Algérie, et plus particulièrement pour la Kabylie. En effet, son œuvre compte des récits se focalisant sur l’occupation turque et la colonisation française. Nous avons également relevé des récits évoquant la guerre d’Algérie, à laquelle il consacre notamment son deuxième roman, <em>Tagrest urɣu<a href="#_ftn2" name="_ftnref2">[2]</a> </em>(2000). La présente contribution ne portera pas sur l’ensemble des récits historiques repris et réécrits par l’auteur étudié. Il s’agira plutôt de décrire la pratique de réécriture mise en œuvre par Mezdad dans le récit « Azaɣar n Taɛja »<a href="#_ftn3" name="_ftnref3">[3]</a> (1990, 39), qui se trouve dans le roman <em>Iḍ d wass</em><a href="#_ftn4" name="_ftnref4">[4]</a>, lui-même paru en 1990. Notre intérêt pour ce récit en particulier est motivé par le fait qu’il est en étroite relation avec les actions des personnages et les événements du roman; il est le noyau autour duquel se construit sa trame narrative. En effet, la plaine de Tadja représente le lieu dans lequel se jouent toutes les mutations que connaît l’Algérie d’alors, et où se nouent le passé et le présent. Introduit à un moment charnière de la narration romanesque, ce récit confère une dimension historique au roman, instaurant une alternance entre le discours romanesque et celui emprunté à l’histoire. Ainsi, le lecteur oscille entre deux types de narration et de temporalité.</p>
 
 <p>L’œuvre de Mezdad est enracinée dans la Kabylie de l’après-guerre d’indépendance. On y observe la prédominance d’un psychologisme dramatique qui prend, par moment, des formes obsessionnelles chez les deux personnages confrontés au changement sociopolitique que traverse la société kabyle d’alors. Le roman expose la réalité d’un changement social, et les histoires des personnages sont significatives parce qu’elles mettent en scène, dans la société nouvelle qu’est l’Algérie indépendante, le destin d’êtres <em>errants</em>. À travers le développement des deux personnages principaux, Malha et son fils Mohand Ameziane, l’écriture de Mezdad attire l’attention sur la réalité complexe de l’adaptation à une nouvelle situation politique et sociale. Les récits véhiculent des problématiques sociales et politiques réelles et matérialisent le phénomène du changement social. En ce sens, la problématique présentée dans le roman dépasse le simple cadre de la fiction. C’est un appel visant à mettre en lumière les bouleversements qui touchent la société kabyle. <em>Iḍ d wass</em> est donc un texte qui ne fait pas que représenter un contexte social et historique précis, mais qui le commente également.</p>
@@ -110,7 +114,8 @@ text: <p>Introduction</p>
 
 ----
 
-references: 
+References:
+
 - Abdou, Kamel. « Discours scientifique et discours de l’oralité ». In <em>Actes du colloque international sur l’oralité africaine : Alger du 12 au 14 mars 1989,</em> édité par Ahmed Ben Naoum, 69-72. Alger : Centre National d’Études Historiques, 1992.
 
 Abrous, Dahbia.<em> </em>« Eclatement et enracinement dans la production romanesque kabyle ». <em>Études littéraires africaines</em> no. 21 (2006) : 29-39. https://doi.org/10.7202/1041303ar
@@ -147,7 +152,8 @@ Tal, Shuval. « Remettre l'Algérie à l'heure ottomane. Questions d'historio
 
 ----
 
-number: 6
+Number: 6
 
 ----
 
+Uuid: f1PzYM7lWeZRRreY

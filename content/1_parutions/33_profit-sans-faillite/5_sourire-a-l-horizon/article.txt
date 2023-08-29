@@ -1,30 +1,38 @@
-title: Sourire à l’horizon 
+Title: Sourire à l’horizon 
 
 ----
 
-subtitle: le bonheur à l’épreuve de la finitude dans L’insoutenable légèreté de l’être
+Subtitle: le bonheur à l’épreuve de la finitude dans L’insoutenable légèreté de l’être
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Aglaé Boivin
   affiliation: Université du Québec à Montréal
 
 ----
 
-abstract_fr: <p style="text-align: justify; line-height: 150%;">Cet article discute de la mort du chien Karénine dans <em>L’insoutenable légèreté de l’être </em>(1984) de Milan Kundera dans une perspective philosophique et intertextuelle permettant d’interroger la possibilité de concilier bonheur et conscience de la finitude. En mettant en scène une relation affective complexe entre les espèces, ce roman brouille les frontières entre animalité et humanité, allant jusqu’à proposer un sourire canin comparable à celui qu’exécute un cadavre dans <em>Anna Karénine</em> de Tolstoï. C’est depuis cet impossible sourire qu’est analysé le chien comme incarnation du bonheur, dont la mort bouleverse la vie conjugale de Tereza et de Tomas, reposant jusqu’alors en grande partie sur la temporalité circulaire de l’animal. À terme, l’article reconnaît que le rapport au monde de l’animal offre une autre voie pour approcher le paradoxe d’une pensée de la finitude affranchie du monopole du <em>Dasein.</em></p>
+Abstract-fr:
+
+<p style="text-align: justify; line-height: 150%;">Cet article discute de la mort du chien Karénine dans <em>L’insoutenable légèreté de l’être </em>(1984) de Milan Kundera dans une perspective philosophique et intertextuelle permettant d’interroger la possibilité de concilier bonheur et conscience de la finitude. En mettant en scène une relation affective complexe entre les espèces, ce roman brouille les frontières entre animalité et humanité, allant jusqu’à proposer un sourire canin comparable à celui qu’exécute un cadavre dans <em>Anna Karénine</em> de Tolstoï. C’est depuis cet impossible sourire qu’est analysé le chien comme incarnation du bonheur, dont la mort bouleverse la vie conjugale de Tereza et de Tomas, reposant jusqu’alors en grande partie sur la temporalité circulaire de l’animal. À terme, l’article reconnaît que le rapport au monde de l’animal offre une autre voie pour approcher le paradoxe d’une pensée de la finitude affranchie du monopole du <em>Dasein.</em></p>
 <p style="text-align: justify; line-height: 150%;"><em> </em></p>
 <p style="text-align: justify; line-height: 150%;">Mots-clés : Kundera, chien, mort, bonheur</p>
 
 ----
 
-abstract_en: <p>This article discusses the death of the dog Karenina in <em>The Unbearable Lightness of Being </em>(1984) by Milan Kundera from a philosophical and intertextual perspective that questions the possibility of reconciling happiness and awareness of finitude. By staging a complex affective relationship between species, this novel blurs the boundaries between animality and humanity, going so far as to offer a canine smile comparable to the one executed by a corpse in Tolstoy’s <em>Anna Karenina</em>. From this impossible smile, the dog is analyzed as a figurehead of happiness, whose death disrupts the married life of Tereza and Tomas, which was largely dependent on the circular temporality of the animal. Ultimately, the article recognizes that the animal’s relationship to the world offers another way to approach the paradoxical thought of death freed from the monopoly of the <em>Dasein</em>.</p>
+Abstract-en:
+
+<p>This article discusses the death of the dog Karenina in <em>The Unbearable Lightness of Being </em>(1984) by Milan Kundera from a philosophical and intertextual perspective that questions the possibility of reconciling happiness and awareness of finitude. By staging a complex affective relationship between species, this novel blurs the boundaries between animality and humanity, going so far as to offer a canine smile comparable to the one executed by a corpse in Tolstoy’s <em>Anna Karenina</em>. From this impossible smile, the dog is analyzed as a figurehead of happiness, whose death disrupts the married life of Tereza and Tomas, which was largely dependent on the circular temporality of the animal. Ultimately, the article recognizes that the animal’s relationship to the world offers another way to approach the paradoxical thought of death freed from the monopoly of the <em>Dasein</em>.</p>
 <p><em> </em></p>
 <p>Key words : Kundera, dog, death, happiness</p>
 
 ----
 
-text: <p>Le sourire s’interprète souvent comme une manifestation de bonheur. Pourtant, il s’agit d’une mimique profondément ambiguë, susceptible d’exprimer un éventail d’émotions et de sentiments contradictoires : politesse, résignation, attendrissement, fatigue, pitié, sarcasme, dédain, malice, tromperie, voire méchanceté. À l’instar des personnages d’<em>Anna Karénine </em>(1878) qui sourient à tout propos, le sourire s’esquisse pour une variété de raisons n’ayant souvent rien à voir avec la joie authentique. Dans le roman de Tolstoï, la mimique s’étend même aux morts. En effet, Nicolas Lévine, qui a une vie tourmentée et rythmée par de nombreuses dépendances (alcool, jeux, etc.), succombe à la tuberculose sous les yeux de son frère, Constantin Lévine, un personnage obsédé par la mort, dont le trouble n’ira qu’en s’accentuant par la suite. Une minute après son décès, le visage de Nicolas « s’éclaircit [et] un sourire se [dessine] sous [sa] moustache » (Tolstoï 2012 [1878], 625). En adoptant une posture moqueuse qui évoque l’expression « rire dans sa barbe », le cadavre paraît ainsi narguer la mort.</p>
+Text:
+
+<p>Le sourire s’interprète souvent comme une manifestation de bonheur. Pourtant, il s’agit d’une mimique profondément ambiguë, susceptible d’exprimer un éventail d’émotions et de sentiments contradictoires : politesse, résignation, attendrissement, fatigue, pitié, sarcasme, dédain, malice, tromperie, voire méchanceté. À l’instar des personnages d’<em>Anna Karénine </em>(1878) qui sourient à tout propos, le sourire s’esquisse pour une variété de raisons n’ayant souvent rien à voir avec la joie authentique. Dans le roman de Tolstoï, la mimique s’étend même aux morts. En effet, Nicolas Lévine, qui a une vie tourmentée et rythmée par de nombreuses dépendances (alcool, jeux, etc.), succombe à la tuberculose sous les yeux de son frère, Constantin Lévine, un personnage obsédé par la mort, dont le trouble n’ira qu’en s’accentuant par la suite. Une minute après son décès, le visage de Nicolas « s’éclaircit [et] un sourire se [dessine] sous [sa] moustache » (Tolstoï 2012 [1878], 625). En adoptant une posture moqueuse qui évoque l’expression « rire dans sa barbe », le cadavre paraît ainsi narguer la mort.</p>
 
 <p>Une reprise de ce sourire ironique figure dans <em>L’insoutenable légèreté de l’être</em>, roman de Milan Kundera publié en 1984, mettant en scène la mort par euthanasie d’un chien nommé Karénine. L’événement est relaté dans le dernier chapitre intitulé « Le sourire de Karénine ». L’animal s’appelle ainsi en mémoire du jour où Tereza rejoint Tomas à Prague à l’improviste, munie d’une simple valise et du livre <em>Anna Karénine</em> sous le bras, plaçant déjà leur vie commune sous le signe de l’adultère. En offrant cet animal fidèle à sa compagne quelques années plus tard, Tomas espère compenser sa présence lacunaire, perturbée par ses infidélités. Si cela fonctionne pour un temps (Karénine s’attache effectivement à Tereza et lui apporte la stabilité d’un amour inconditionnel), l’animal finit tout de même par mourir, emportant avec lui le bonheur tant convoité. Le chien incarne en effet le bonheur, tranchant avec la défectuosité de la félicité conjugale, présentée comme illusoire.</p>
 
@@ -96,7 +104,8 @@ text: <p>Le sourire s’interprète souvent comme une manifestation de bonheur. 
 
 ----
 
-references: 
+References:
+
 - <p style="text-align: justify; line-height: 150%;">Bailly, Jean-Christophe. <em>Le parti pris des animaux</em>. Paris : Christian Bourgeois, 2013.</p>
 <p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">De Fontenay, Élizabeth. <em>Le silence des bêtes. La philosophie à l’épreuve de l’animalité</em>. Paris : Fayard, 1998.</p>
 <p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Derrida, Jacques. <em>Apories. Mourir – s’attendre aux « limites » de la vérité</em>. Paris : Galilée, 1996.</p>
@@ -126,7 +135,8 @@ references:
 
 ----
 
-number: 5
+Number: 5
 
 ----
 
+Uuid: bU2tnPJSGvit10G6

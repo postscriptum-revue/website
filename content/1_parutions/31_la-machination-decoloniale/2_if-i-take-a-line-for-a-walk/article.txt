@@ -1,28 +1,34 @@
-title: If I Take A Line For A Walk
+Title: If I Take A Line For A Walk
 
 ----
 
-subtitle: Archives, Gardens And The Everyday Gesture
+Subtitle: Archives, Gardens And The Everyday Gesture
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Ross Louis
   affiliation: Université Jean-Moulin Lyon 3
 
 ----
 
-abstract_fr: <p>Cet article documente deux performances <em>in situ</em> qui envisagent la présence et l’absence de jardins comme des remises en cause créatives de la logique coloniale à l’œuvre dans les archives de la traite négrière transatlantique française. La possibilité de réimaginer les archives dans le temps contemporain ainsi que l’espace quotidien suggèrent une interruption qui pourrait permettre d’entrevoir d’autres failles dans les documents historiques. </p>
+Abstract-fr:
+
+<p>Cet article documente deux performances <em>in situ</em> qui envisagent la présence et l’absence de jardins comme des remises en cause créatives de la logique coloniale à l’œuvre dans les archives de la traite négrière transatlantique française. La possibilité de réimaginer les archives dans le temps contemporain ainsi que l’espace quotidien suggèrent une interruption qui pourrait permettre d’entrevoir d’autres failles dans les documents historiques. </p>
 <p>La première performance, <em>Erratum </em>(France 2019), prend la forme d’un marque-page qui transpose les archives d’un voyage négrier de 1768 vers le récit d’une expédition planétaire de Louis Antoine de Bougainville, effectuée à la même époque. Le marque-page donne les instructions d’une visite performative au Jardin des explorateurs, le long de la rade de Brest, où les participants répondent aux archives des voyages par une série de gestes. </p>
 <p>La deuxième performance, <em>An (imaginary) inventory of (palimpsest) plants, gardens and other related objects in French colonial New Orleans </em>(États-Unis 2021), utilise un petit inventaire imprimé pour guider les participants dans divers sites de jardins datant du <em>xviii</em>e siècle en Nouvelle-Orléans, et leur donne la possibilité d’y créer des textes, images et gestes en réponse aux dossiers d’archives et à un voyage négrier de 1728. Organisé comme un assemblage d’archives, de travaux de terrain et de documentation sur les performances, l’article retrace les multiples chemins trouvés au cours de la recherche archivistique et du développement des performances.</p>
 
 ----
 
-abstract_en: <p>This essay documents two site-specific performances that use the presence and absence of gardens as creative disruptions to the colonial logic found in the trans-Atlantic French slave archive. The possibility of re-imagining the archive in contemporary time and everyday space suggests an interruption that might open other fissures in the historical record. The first performance, <em>Erratum </em>(France 2019), takes the form of a bookmark that transposes an archival record of a 1768 slave voyage onto accounts of a contemporaneous global expedition by Louis Antoine de Bougainville. The bookmark contains instructions for a performative visit to the <em>Jardin des Explorateurs</em> along the harbour in Brest, where participants respond to the voyages’ archives through a series of gestures. The second performance, <em>An (imaginary) inventory of (palimpsest) plants, gardens and other related objects in French colonial New Orleans </em>(United States 2021), uses a small, printed inventory to guide participants to various sites of eighteenth-century gardens in New Orleans, where they create texts, images and gestures in reaction to archival documents and a 1728 slave voyage. Organized as an assemblage of archival, fieldwork and performance documentation, the essay traces multiple paths uncovered during archival research and the development of the performances.</p>
+Abstract-en: <p>This essay documents two site-specific performances that use the presence and absence of gardens as creative disruptions to the colonial logic found in the trans-Atlantic French slave archive. The possibility of re-imagining the archive in contemporary time and everyday space suggests an interruption that might open other fissures in the historical record. The first performance, <em>Erratum </em>(France 2019), takes the form of a bookmark that transposes an archival record of a 1768 slave voyage onto accounts of a contemporaneous global expedition by Louis Antoine de Bougainville. The bookmark contains instructions for a performative visit to the <em>Jardin des Explorateurs</em> along the harbour in Brest, where participants respond to the voyages’ archives through a series of gestures. The second performance, <em>An (imaginary) inventory of (palimpsest) plants, gardens and other related objects in French colonial New Orleans </em>(United States 2021), uses a small, printed inventory to guide participants to various sites of eighteenth-century gardens in New Orleans, where they create texts, images and gestures in reaction to archival documents and a 1728 slave voyage. Organized as an assemblage of archival, fieldwork and performance documentation, the essay traces multiple paths uncovered during archival research and the development of the performances.</p>
 
 ----
 
-text: <p>A Line</p>
+Text:
+
+<p>A Line</p>
 <p>If I take a line for a walk, will I scratch the surface of the present? If I scratch the surface of the present, will I leave a trace? If I leave a trace, will I unearth sediment from the past? And then, will this (imaginary) palimpsest finally be made visible?</p>
 <p><em>L’Etourdy</em>, a ship found amidst the 3,343 trans-Atlantic voyages documented by Jean Mettas in <em>Répertoire des expéditions négrières françaises au xviiième siècle</em>, is also listed as <em>L’Étourdie</em>, a name that might also describe the voyage itself (Mettas 1984, 136-137).</p>
 <p style="text-align: center;">Étourdi, étourdie<em>, adjectif </em></p>
@@ -166,7 +172,8 @@ text: <p>A Line</p>
 
 ----
 
-references: 
+References:
+
 - Antony, Rachael, and Joel Henry. <em>Lonely Planet Guide to Experimental Travel</em>. London: Lonely Planet, 2005.
 
 Bastian, Jeannette A. “In a ‘House of Memory’: Discovering the Provenance of Place”. <em>Archival Issues</em>, 28, no. 1 (2003): 9-19.
@@ -267,7 +274,8 @@ Notes
 
 ----
 
-number: 2
+Number: 2
 
 ----
 
+Uuid: N5OOkgKC1dYftai5

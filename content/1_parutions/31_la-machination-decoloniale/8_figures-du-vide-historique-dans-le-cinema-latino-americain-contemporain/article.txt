@@ -1,26 +1,30 @@
-title: Figures du vide historique dans le cinéma latino-américain contemporain
+Title: Figures du vide historique dans le cinéma latino-américain contemporain
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Catarina Bassotti 
   affiliation: Université Paris I Panthéon-Sorbonne
 
 ----
 
-abstract_fr: <p>L&rsquo;écriture du passé, menée par les mains des colons et des vainqueurs de l&rsquo;Histoire, contient des vides qui ont récemment refait surface, comme il est le cas dans le cadre des témoignages des peuples saccagés et esclavagisés par la colonisation. Quelques-uns de ces récits, au contraire, sont à jamais perdus. Rendre sensible ce vide est à la fois un appel moral et un problème esthétique pour l&rsquo;historien et l&rsquo;artiste latino-américain. En se concentrant sur le cas du cinéma latino-américain contemporain, nous nous demanderons de quelle manière un film pourrait donner voix et faire image à partir de ces vides historiques – sans pour autant les remplacer grossièrement par une fiction historique alternative, ce qui allégerait le poids de ce silence. Cet article avance l&rsquo;hypothèse que certaines figures cinématographiques peuvent résoudre ce paradoxe. La première de ces figures est la <em>bouche</em>, travaillée par Daniela Thomas dans <em>Vazante</em> (2017), qui fait émerger la puissance du corps lorsque la parole manque. La deuxième figure, celle du <em>fleuve</em>, comme abordée par Ciro Guerra dans<em> L&rsquo;étreinte du serpent</em> (2015), opère une désorganisation de la temporalité linéaire moderne, en mettant en perspective la notion même de vide historique.</p>
+Abstract-fr: <p>L&rsquo;écriture du passé, menée par les mains des colons et des vainqueurs de l&rsquo;Histoire, contient des vides qui ont récemment refait surface, comme il est le cas dans le cadre des témoignages des peuples saccagés et esclavagisés par la colonisation. Quelques-uns de ces récits, au contraire, sont à jamais perdus. Rendre sensible ce vide est à la fois un appel moral et un problème esthétique pour l&rsquo;historien et l&rsquo;artiste latino-américain. En se concentrant sur le cas du cinéma latino-américain contemporain, nous nous demanderons de quelle manière un film pourrait donner voix et faire image à partir de ces vides historiques – sans pour autant les remplacer grossièrement par une fiction historique alternative, ce qui allégerait le poids de ce silence. Cet article avance l&rsquo;hypothèse que certaines figures cinématographiques peuvent résoudre ce paradoxe. La première de ces figures est la <em>bouche</em>, travaillée par Daniela Thomas dans <em>Vazante</em> (2017), qui fait émerger la puissance du corps lorsque la parole manque. La deuxième figure, celle du <em>fleuve</em>, comme abordée par Ciro Guerra dans<em> L&rsquo;étreinte du serpent</em> (2015), opère une désorganisation de la temporalité linéaire moderne, en mettant en perspective la notion même de vide historique.</p>
 
 ----
 
-abstract_en: <p>The writing of the past, carried out by the hands of the settlers and victors of History, contains significative blanks that have recently returned to the surface, as in the case of the testimony of peoples sacked and enslaved by colonization. However, some of these stories are gone forever. Making this void noticeable is both a moral appeal and an aesthetic problem for Latin American historians and artists. Focusing on the case of contemporary Latin American cinema, we ask ourselves how a film can give a voice and build an image from these historical voids – without, by doing so, trying to grossly replace them with an alternative historical fiction, which would lighten the weight of this silence. This article argues that certain cinematographic figures can solve the paradox. The first of these figures is the <em>mouth</em>, as developed by Daniela Thomas&rsquo; <em>Vazante</em> (2017), which brings out the power of the body over itself when speech is lacking. The second figure, that of the<em> river</em>, as approached by Ciro Guerra&rsquo;s <em>Embrace of the serpent</em> (2015), operates a disorganization of modern linear temporality, putting into perspective the very notion of historical void.</p>
+Abstract-en: <p>The writing of the past, carried out by the hands of the settlers and victors of History, contains significative blanks that have recently returned to the surface, as in the case of the testimony of peoples sacked and enslaved by colonization. However, some of these stories are gone forever. Making this void noticeable is both a moral appeal and an aesthetic problem for Latin American historians and artists. Focusing on the case of contemporary Latin American cinema, we ask ourselves how a film can give a voice and build an image from these historical voids – without, by doing so, trying to grossly replace them with an alternative historical fiction, which would lighten the weight of this silence. This article argues that certain cinematographic figures can solve the paradox. The first of these figures is the <em>mouth</em>, as developed by Daniela Thomas&rsquo; <em>Vazante</em> (2017), which brings out the power of the body over itself when speech is lacking. The second figure, that of the<em> river</em>, as approached by Ciro Guerra&rsquo;s <em>Embrace of the serpent</em> (2015), operates a disorganization of modern linear temporality, putting into perspective the very notion of historical void.</p>
 
 ----
 
-text: <p>Introduction</p>
+Text:
+
+<p>Introduction</p>
 <p>Il n&rsquo;est pas nécessaire d&rsquo;être partisan d&rsquo;une « option décoloniale<a href="#_ftn1" name="_ftnref1">[1]</a> » pour admettre que la notion de « découverte des Amériques » est aujourd&rsquo;hui remise en question, étant remplacée par une idée de <em>conquête</em> ou même d&rsquo;<em>invasion</em>. La commémoration de l&rsquo;événement, considéré dans ce contexte comme une forme de « début de l&rsquo;Histoire » en Amérique latine, provoque déjà le malaise entre les universitaires, les historiens et même le public non spécialisé (Mignolo 2005; Gomez 2014; Trouillot 2015; Verne 2016). Le cinéma suit ce mouvement, avec des films comme <em>La otra conquista<a href="#_ftn2" name="_ftnref2">[2]</a></em> (Carrasco 1999), par exemple, ou même avec l&rsquo;émergence du cinéma de résistance autochtone au Brésil<a href="#_ftn3" name="_ftnref3">[3]</a>. De cette manière, ce qui a été une fois compris comme le jalon d&rsquo;un imaginaire romantique de fondation nationale est resignifié comme un acte non légitime, et les mythes de l&rsquo;harmonie raciale tombent un à un, face à la révision des génocides des peuples autochtones et des horreurs de l&rsquo;esclavage. Dès lors, l&rsquo;historiographie latino-américaine reconnaît l&rsquo;ensemble des crimes silencieux, des traumatismes refoulés et des vides importants dans les récits qui composent le passé de la région. Cependant, dans le cas où c&rsquo;est la main des vainqueurs qui écrit l&rsquo;Histoire, force est de constater que plusieurs récits sont, à ce jour, irréparablement disparus. Une question <em>esthétique </em>se pose alors : quelle forme donner à cette absence? Quelle image pour les ethnocides, ou pour l&rsquo;esclavage? Comment faire parler ceux et celles qui ont été réduits au silence au fil des siècles?</p>
 <p>Ces questions sont pertinentes pour les réalisateurs et réalisatrices qui, comme Lucrecia Martel en Argentine, se proposent le défi de réaliser de nos jours un film de fiction historique. Ne pouvant plus feindre l&rsquo;ignorance face aux représentations du passé, et sachant que ce dernier est fondamentalement<em> troué</em>, la cinéaste a pris la voie de <em>l&rsquo;invention</em> pour combler les vides. Pour cela, elle opère un rapprochement entre la science-fiction et la fiction historique<a href="#_ftn4" name="_ftnref4">[4]</a> :</p>
 <p>Avec la science-fiction, vous disposez d’une très grande liberté pour imaginer des hypothèses. Avec un film historique, on croit pouvoir raconter comment les choses ont vraiment eu lieu, mais c’est une illusion. On pense connaître le passé à travers des registres, des sources historiques, mais quelle est leur valeur dans un continent qui s’est construit sur l’élimination des civilisations antérieures et l’appropriation illégitime de leurs terres? [&#8230;] Et à part quelques traces archéologiques, je n’ai rien trouvé sur les indigènes qui apparaissent dans le film, déjà tous exterminés au xviiie siècle. Si on accorde peu de crédit aux documents historiques, il faut s’en libérer et inventer, comme si on imaginait une autre planète (Martel 2018).</p>
@@ -107,7 +111,8 @@ text: <p>Introduction</p>
 
 ----
 
-references: 
+References:
+
 - Almeida, Carol. « Belíssima máquina de manutenção do status quo ». <em>Revista Continente</em>, 18 septembre 2017. https://revistacontinente.com.br/coberturas/festival-de-brasilia-2017/rbelissima-maquina-de-manutencao-do-status-quor (dernière consultation : 4 juin 2021)
 
 Aumont, Jacques. <em>Fictions filmiques : comment (et pourquoi) le cinéma raconte des histoires</em>. Paris : Librairie philosophique J. Vrin, 2018.
@@ -207,7 +212,8 @@ Notes
 
 ----
 
-number: 8
+Number: 8
 
 ----
 
+Uuid: puqD9XITcMCsof6d

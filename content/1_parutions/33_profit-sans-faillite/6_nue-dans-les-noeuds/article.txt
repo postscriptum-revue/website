@@ -1,26 +1,30 @@
-title: Nue dans les noeuds
+Title: Nue dans les noeuds
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Orane Thibaud
   affiliation: Autrice
 
 ----
 
-abstract_fr: 
+Abstract-fr: 
 
 ----
 
-abstract_en: 
+Abstract-en: 
 
 ----
 
-text: <p>I</p>
+Text:
+
+<p>I</p>
 
 <p>la journée est suppliante</p>
 <p>l’objet est beau</p>
@@ -187,14 +191,16 @@ text: <p>I</p>
 
 ----
 
-references: 
+References:
+
 - 
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> Nelly Sachs
 
 ----
 
-number: 6
+Number: 6
 
 ----
 
+Uuid: RRgwKuzKsNQQkVX2

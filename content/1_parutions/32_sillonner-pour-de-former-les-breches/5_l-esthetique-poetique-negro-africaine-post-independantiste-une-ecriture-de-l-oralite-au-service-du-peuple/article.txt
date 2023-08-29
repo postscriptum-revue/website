@@ -1,28 +1,36 @@
-title: L’esthétique poétique négro-africaine post-indépendantiste, une écriture de l’oralité au service du peuple
+Title: L’esthétique poétique négro-africaine post-indépendantiste, une écriture de l’oralité au service du peuple
 
 ----
 
-subtitle: cas de "Manka talèbo ou Chant rituel pour l’Afrique" de Konan Roger Langui
+Subtitle: cas de "Manka talèbo ou Chant rituel pour l’Afrique" de Konan Roger Langui
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Métou Kané
   affiliation: Université Félix Houphouët-Boigny d’Abidjan-Cocody
 
 ----
 
-abstract_fr: <p>La problématique de l’existence du peuple noir qui se posait avec acuité sous l’administration coloniale est restée d’actualité une fois les indépendances acquises. En raison de cette persistance, les écrivains, et particulièrement les poètes, s’érigeant en boucliers des populations meurtries, privilégient une littérature engagée où la dénonciation est le maître-mot. De cette manière, la littérature post-indépendantiste ne s’éloigne pas de la question raciale. Elle l’aborde désormais dans une approche interne à la race noire. À cet effet, les poètes dénoncent les agissements des dirigeants qui, par leur gestion, plongent les États dans le gouffre. La tradition négro-africaine fait alors office de référentiel pour la reconquête identitaire. Les écrivains, ne se limitant plus à la simple évocation de la tradition, se réapproprient la création poétique. Mieux, la poésie devient le lieu où se côtoient instruments traditionnels et rhétorique. <em>Makan talèbo ou Chant rituel pour l’Afrique</em> (Langui 2010) se situe dans cette tradition que nous avons qualifiée d’écriture de l’oralité. L’enjeu de ce travail est d’interroger le processus par lequel s’opère, sous la plume de Konan Roger Langui, l’intégration des éléments oraux africains et des dispositions exophoniques dans cet univers poétique pour aboutir à une finalité sociale. L’esthétique poétique mise en œuvre par Langui permet d’instaurer un dialogue interculturel à élan exophonique et en corrélation avec la problématique de l’existence du peuple noir dans une Afrique indépendante. Ainsi, la poésie languienne, partie intégrante du vaste champ poétique négro-africain, fait preuve d’originalité et d’authenticité au moyen d’une affirmation identitaire. Au-delà de l’ambition visant à rééduquer les dirigeants, bourreaux de leur peuple, Langui, par le biais de cette esthétique, revendique une identité et rêve d’une humanité paisible.</p>
+Abstract-fr:
+
+<p>La problématique de l’existence du peuple noir qui se posait avec acuité sous l’administration coloniale est restée d’actualité une fois les indépendances acquises. En raison de cette persistance, les écrivains, et particulièrement les poètes, s’érigeant en boucliers des populations meurtries, privilégient une littérature engagée où la dénonciation est le maître-mot. De cette manière, la littérature post-indépendantiste ne s’éloigne pas de la question raciale. Elle l’aborde désormais dans une approche interne à la race noire. À cet effet, les poètes dénoncent les agissements des dirigeants qui, par leur gestion, plongent les États dans le gouffre. La tradition négro-africaine fait alors office de référentiel pour la reconquête identitaire. Les écrivains, ne se limitant plus à la simple évocation de la tradition, se réapproprient la création poétique. Mieux, la poésie devient le lieu où se côtoient instruments traditionnels et rhétorique. <em>Makan talèbo ou Chant rituel pour l’Afrique</em> (Langui 2010) se situe dans cette tradition que nous avons qualifiée d’écriture de l’oralité. L’enjeu de ce travail est d’interroger le processus par lequel s’opère, sous la plume de Konan Roger Langui, l’intégration des éléments oraux africains et des dispositions exophoniques dans cet univers poétique pour aboutir à une finalité sociale. L’esthétique poétique mise en œuvre par Langui permet d’instaurer un dialogue interculturel à élan exophonique et en corrélation avec la problématique de l’existence du peuple noir dans une Afrique indépendante. Ainsi, la poésie languienne, partie intégrante du vaste champ poétique négro-africain, fait preuve d’originalité et d’authenticité au moyen d’une affirmation identitaire. Au-delà de l’ambition visant à rééduquer les dirigeants, bourreaux de leur peuple, Langui, par le biais de cette esthétique, revendique une identité et rêve d’une humanité paisible.</p>
 <p>Mots-clés : Poésie, Post-indépendantiste, Oralité, Humanité.</p>
 
 ----
 
-abstract_en: <p>The issue of the existence of the black people, which arose acutely under the colonial administration, remained relevant even after independences have been acquired. Due to this persistence, writers and poets especially, setting themselves up as shields for the masses, engage in a committed literature where denunciation is the key word. Post-independentist literature does not therefore get away from the racial question. However, it now approaches it in an internal approach to the black race. Thus, poets denounce the actions of leaders who, through their management, plunge States into the abyss. In this context, the Negro-African tradition serves as a reference for the reconquest of identity. Negro-African writers, in this case poets, no longer limited to the mere evocation of tradition, then reappropriate poetic creation. Furthermore, poetry becomes the place where traditional and rhetorical instruments go side by side. <em>Makan Talèbo</em> or <em>Ritual Song for Africa </em>is situated in this tradition that we have qualified as the writing of orality. On this basis, the challenge of this work was to question the process by which, from the pen of Konan Roger Langui, the integration of African oral elements and exophonic dispositions in this poetic universe take place to achieve a social finality. With this in mind, we notice that the poetic aesthetic implemented by Langui makes it possible to establish an intercultural dialogue with an exophonic impulse and in correlation with the issue of the existence of the black people in an independent Africa. As a result, Languian poetry, a fully integral part of the vast Negro-African poetic field, shows originality and authenticity by means of an affirmation of identity. Beyond the ambition to re-educate the rulers, executioners of their people, Langui, through this aesthetic, claims an identity and dreams of a peaceful humanity.</p>
+Abstract-en:
+
+<p>The issue of the existence of the black people, which arose acutely under the colonial administration, remained relevant even after independences have been acquired. Due to this persistence, writers and poets especially, setting themselves up as shields for the masses, engage in a committed literature where denunciation is the key word. Post-independentist literature does not therefore get away from the racial question. However, it now approaches it in an internal approach to the black race. Thus, poets denounce the actions of leaders who, through their management, plunge States into the abyss. In this context, the Negro-African tradition serves as a reference for the reconquest of identity. Negro-African writers, in this case poets, no longer limited to the mere evocation of tradition, then reappropriate poetic creation. Furthermore, poetry becomes the place where traditional and rhetorical instruments go side by side. <em>Makan Talèbo</em> or <em>Ritual Song for Africa </em>is situated in this tradition that we have qualified as the writing of orality. On this basis, the challenge of this work was to question the process by which, from the pen of Konan Roger Langui, the integration of African oral elements and exophonic dispositions in this poetic universe take place to achieve a social finality. With this in mind, we notice that the poetic aesthetic implemented by Langui makes it possible to establish an intercultural dialogue with an exophonic impulse and in correlation with the issue of the existence of the black people in an independent Africa. As a result, Languian poetry, a fully integral part of the vast Negro-African poetic field, shows originality and authenticity by means of an affirmation of identity. Beyond the ambition to re-educate the rulers, executioners of their people, Langui, through this aesthetic, claims an identity and dreams of a peaceful humanity.</p>
 <p>Keywords: Poetry, Post-independentist, Orality, Humanity.</p>
 
 ----
 
-text: <p>Introduction</p>
+Text:
+
+<p>Introduction</p>
 <p>La civilisation africaine, initialement orale, se mue en une civilisation écrite sous le poids de la colonisation et de l’impérialisme occidentaux. Cette métamorphose tire ses fondements de l’immixtion de l’école européenne dans l’univers africain. Le but recherché était l’instauration d’une base de communication homogène pour une exploitation des colonies. Ainsi, plusieurs langues européennes sont devenues des parlers quotidiens dans les territoires africains, notamment l’anglais, l’espagnol, le portugais, le français, selon la puissance colonisatrice. À l’accession des États africains à l’indépendance, nombreux sont ceux qui ont gardé la langue du colonisateur comme langue officielle. Par voie de fait, la langue, ainsi héritée du colon, s’avère un supra-dialecte dont usent les écrivains pour extérioriser leurs émotions, leurs sentiments et leurs ressentiments. L’usage africain de ladite langue donne naissance à une littérature dont la tradition orale négro-africaine<a href="#_ftn1" name="_ftnref1">[1]</a> est, esthétiquement, la principale pourvoyeuse. Une telle littérature, sans rompre linguistiquement avec l’ex-puissance colonisatrice, s’inscrit tout à la fois dans une posture contestataire fondée sur des apparats identitaires noirs. Écrivain ivoirien du XXIe siècle, Konan Roger Langui est un enseignant-chercheur, spécialiste de poésie africaine. Il est un poète engagé par la dimension critique de son discours poétique qui met à nu les travers des politiques nationales et continentales. Langui envisage ainsi l’avènement d’une société de paix et de quiétude à léguer à la postérité. <em>Manka talèbo ou Chant rituel pour l’Afrique</em>, sa première œuvre poétique est l’expression de cette vision. Nous nous intéresserons à l’esthétique poétique languienne en tant qu’elle opère un dispositif d’écriture orale auquel s’incorporent des éléments exophoniques afin de composer une visée sociale. En d’autres termes, nous aurons à interroger cette esthétisation poétique par laquelle le poète instaure un dialogue interculturel à élan exophonique, en corrélation avec la problématique de l’existence du peuple noir dans une Afrique indépendante. Au moyen de la critique stylistique et de la sociocritique, nous éluciderons cette écriture languienne qui, tout en se dressant contre le désastre de son peuple, prend l’exophonie comme moyen. Notre réflexion s’articulera autour de trois axes majeurs : d’abord une écriture poétique inspirée de l’oralité africaine ; ensuite l’expression du désastre africain, et enfin, une poésie à élan humaniste.</p>
 <ol>
 <li> Une écriture poétique inspirée de l’oralité africaine</li>
@@ -191,7 +199,8 @@ text: <p>Introduction</p>
 
 ----
 
-references: 
+References:
+
 - Ausoni, Alain. « Singulariser l’écriture translingue : une catégorie littéraire et ses usages ». <em>Interfrancophonies,</em> no 9 (2018) : 45-55.
 
 Bâ, Amadou Hampâté. <em>Aspects de la civilisation africaine</em>. Paris : Présence Africaine, 1972.
@@ -236,7 +245,8 @@ Notes 
 
 ----
 
-number: 5
+Number: 5
 
 ----
 
+Uuid: wjxt8LI0k6N0hXGo

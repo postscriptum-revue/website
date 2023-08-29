@@ -1,26 +1,30 @@
-title: Enquête romanesque 
+Title: Enquête romanesque 
 
 ----
 
-subtitle: la figure du terroriste Moudjahid dans <i>À quoi rêvent les loups</i> de Yasmina Khadra
+Subtitle: la figure du terroriste Moudjahid dans <i>À quoi rêvent les loups</i> de Yasmina Khadra
 
 ----
 
-authors: -
+Authors:
+
+-
   name: Amina Cheraiet
-  affiliation: 
+  affiliation:
 
 ----
 
-abstract_fr: <p><em>À quoi rêvent les loups</em> de Yasmina Khadra est un roman qui prend en charge les états et les effets de la violence ayant sévi en Algérie de 1992 à 2002. Il met en scène la trajectoire complexe du jeune Nafa Walid : celle du basculement vers la violence armée. Ce texte met en relation deux éléments phares qui sont d’une part la réalité des faits historiques de la dramatique décennie algérienne (1992-2002) et de l’autre l’imaginaire nécessaire à l’expression littéraire. Ainsi, il met en scène des personnages dotés d’une sensibilité singulière face aux événements tragiques et traumatisants, individuellement ou collectivement vécus. Cet état de conscience par le biais duquel la narration se développe instruit les lecteurs à propos d’une fracture singulière ayant entraîné une plaie que les Algériens, aujourd’hui encore, estiment ouverte. Le présent article propose d’analyser la représentation littéraire du personnage du terroriste dans le roman à la lumière de l’étude sociologique menée par Abderrahmane Moussaoui dans <em>La violence en Algérie, les lois du chaos</em>. Il questionne les limites et les contours du sujet terroriste en rapport avec la notion du djihad et son interprétation dans le contexte mémoriel de la dramatique décennie algérienne.</p>
+Abstract-fr: <p><em>À quoi rêvent les loups</em> de Yasmina Khadra est un roman qui prend en charge les états et les effets de la violence ayant sévi en Algérie de 1992 à 2002. Il met en scène la trajectoire complexe du jeune Nafa Walid : celle du basculement vers la violence armée. Ce texte met en relation deux éléments phares qui sont d’une part la réalité des faits historiques de la dramatique décennie algérienne (1992-2002) et de l’autre l’imaginaire nécessaire à l’expression littéraire. Ainsi, il met en scène des personnages dotés d’une sensibilité singulière face aux événements tragiques et traumatisants, individuellement ou collectivement vécus. Cet état de conscience par le biais duquel la narration se développe instruit les lecteurs à propos d’une fracture singulière ayant entraîné une plaie que les Algériens, aujourd’hui encore, estiment ouverte. Le présent article propose d’analyser la représentation littéraire du personnage du terroriste dans le roman à la lumière de l’étude sociologique menée par Abderrahmane Moussaoui dans <em>La violence en Algérie, les lois du chaos</em>. Il questionne les limites et les contours du sujet terroriste en rapport avec la notion du djihad et son interprétation dans le contexte mémoriel de la dramatique décennie algérienne.</p>
 
 ----
 
-abstract_en: <p><em>À quoi </em><em>rêvent</em><em> les loups</em> by Yasmina Khadra is a novel that takes on the states and effects of violence in Algeria from 1992 to 2002. It stages the complex trajectory of the young Nafa Walid; that of the swing towards armed violence. This text puts in relation two main elements which are, on the one hand, the reality of the historical facts of the dramatic Algerian decade (1992-2002) and on the other hand the imaginary necessary to the literary expression. Thus, it displays characters endowed with a singular sensitivity in front of the tragic and traumatic events, individually or collectively lived. This state of consciousness through which the narrative develops instructs about a singular fracture that has led to a wound that Algerians today still feel open. This article proposes to analyze the literary representation of the terrorist character in the novel considering the sociological study conducted by Abderrahmane Moussaoui in <em>La violence en Algérie, les lois du chaos</em>. It questions the limits and contours of the terrorist subject in relation to the notion of jihad and its interpretation in the memorial context of the dramatic Algerian decade.</p>
+Abstract-en: <p><em>À quoi </em><em>rêvent</em><em> les loups</em> by Yasmina Khadra is a novel that takes on the states and effects of violence in Algeria from 1992 to 2002. It stages the complex trajectory of the young Nafa Walid; that of the swing towards armed violence. This text puts in relation two main elements which are, on the one hand, the reality of the historical facts of the dramatic Algerian decade (1992-2002) and on the other hand the imaginary necessary to the literary expression. Thus, it displays characters endowed with a singular sensitivity in front of the tragic and traumatic events, individually or collectively lived. This state of consciousness through which the narrative develops instructs about a singular fracture that has led to a wound that Algerians today still feel open. This article proposes to analyze the literary representation of the terrorist character in the novel considering the sociological study conducted by Abderrahmane Moussaoui in <em>La violence en Algérie, les lois du chaos</em>. It questions the limits and contours of the terrorist subject in relation to the notion of jihad and its interpretation in the memorial context of the dramatic Algerian decade.</p>
 
 ----
 
-text: <p><em>À quoi rêvent les loups</em> de Yasmina Khadra est un roman qui prend en charge les états et les effets de la violence perpétrée en Algérie de 1992 à 2002. Il met en scène la mémoire personnelle complexe et significative d’un jeune homme nommé Nafa Walid et répond de ce fait à l’exigence de regarder le passé encore et toujours en face. Le roman fournit un espace où se transpose et se conteste le discours social par l’entremise de la figure du « témoin de l’actualité » et propose un contre-discours des valeurs autour « du danger de l’islamisme, et de l’héroïsme du témoin » (Leperlier 2018, 169). C’est un récit qui entre dans la compréhension de ce qu’est l’Autre par l’exploration de la figure du terroriste en multipliant les figurations littéraires des sujets témoins.</p>
+Text:
+
+<p><em>À quoi rêvent les loups</em> de Yasmina Khadra est un roman qui prend en charge les états et les effets de la violence perpétrée en Algérie de 1992 à 2002. Il met en scène la mémoire personnelle complexe et significative d’un jeune homme nommé Nafa Walid et répond de ce fait à l’exigence de regarder le passé encore et toujours en face. Le roman fournit un espace où se transpose et se conteste le discours social par l’entremise de la figure du « témoin de l’actualité » et propose un contre-discours des valeurs autour « du danger de l’islamisme, et de l’héroïsme du témoin » (Leperlier 2018, 169). C’est un récit qui entre dans la compréhension de ce qu’est l’Autre par l’exploration de la figure du terroriste en multipliant les figurations littéraires des sujets témoins.</p>
 <p>La construction narrative de ce récit traduit la façon dont la violence aurait transformé le rapport des Algériens au monde et aurait par conséquent affecté leurs relations au temps et à l’espace. C’est une conception de la littérature dans l’histoire qui, dans le cas d’<em>À quoi rêvent les loups, </em>remet en question deux éléments importants, à savoir : la place de l’« enquête » historique ou archivistique au sein de fictions contemporaines d’une part, et de l’autre le rapport entre la fiction et le réel dans la littérature.</p>
 
 <p><em>À quoi rêvent les loups</em> fait accéder le lecteur au contexte sociopolitique de l’Algérie des années 1990 et à la vérité polyphonique de ce contexte mémoriel. Il dénonce la violence intégriste dans l’espace énonciatif de l’« entre » – « entre le texte et le contexte » –, inscrivant la scène d’énonciation « entre l’espace de production et l’espace textuel » (Maingueneau 2004, 107). Centré sur la figuration littéraire du terroriste, <em>À quoi rêvent les loups</em> fonde son engagement sur la mise en scène « de l’intimité et de la complexité du narrateur-protagoniste » (Leperlier 2018, 169). Le présent article propose ainsi d’analyser la représentation littéraire du personnage du terroriste dans le roman à la lumière de l’étude sociologique menée par Abderrahmane Moussaoui qui, dans <em>La violence en Algérie, les lois du chaos,</em> questionne les limites et les contours du sujet du terroriste en rapport avec la notion du djihad et son interprétation dans le contexte mémoriel de la dramatique décennie algérienne.</p>
@@ -114,7 +118,8 @@ text: <p><em>À quoi rêvent les loups</em> de Yasmina Khadra est un roman qui p
 
 ----
 
-references: 
+References:
+
 - Bégorre-Bret, Cyrille. <em>Qu’est-ce que le terrorisme?</em> Paris : Librairie Philosophique J. Vrin, 2018.
 
 Bozarslan, Hamit. « Le phénomène milicien : Une composante de la violence politique en Turquie dans les années 1970 ». <em>Turcica</em> 31 (1999) : 185‑244. https://doi.org/10.2143/TURC.31.0.2004192.
@@ -151,7 +156,8 @@ Walzer, Michael. « Critique de “l’excuse” : le terrorisme et ses justif
 
 ----
 
-number: 2
+Number: 2
 
 ----
 
+Uuid: 2ZDTkkf4LQbE48oW
