@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Publié en 1987 aux États-Unis, Beloved de Toni Morrison met en scène une esclave en fuite qui croise sur sa route une jeune fille blanche. À travers cette scène, entre autres références, le roman de Morrison renvoie à celui de Mark Twain, Adventures of Huckleberry Finn (1885). Par le biais d’une analyse sémiotique, le présent article fait état des liens intertextuels s’établissant entre ces deux romans et souligne leurs difficultés de traduction. Comment les traductrices de Beloved sont-elles parvenues à réactualiser l’intertextualité inhérente au roman original et, si l’entreprise fut partiellement réalisée, quels sont les moyens auxquels elles auraient pu avoir recours pour réactiver ce réseau de signifiance (éléments narratifs, Black English, dialogues) faisant allusion à l’œuvre de Twain ? Si la cohérence intertextuelle opère lorsqu’elle se manifeste sur le plan implicite, ses renvois explicites trouvent peu d’échos en français. Une retraduction du roman de Twain où la parole noire serait présente aurait pu servir de point de départ aux traductrices de Morrison.</p>
 
-
 ----
 
 abstract_en: <p>Toni Morrison’s novel, Beloved (1987), is the story of a runaway slave who comes across a young white girl. This scene, as well as other allusions, makes Morrison’s novel an unmistakable reference to Mark Twain’s Adventures of Huckleberry Finn (1885). Using semiotic analysis, this article discusses the intertextual relations between the two novels and their difficulties of translating them. How have translators of Beloved foregrounded the intrinsic intertextuality of the original novel ? If they are able to do so, at least in part, what means were available to them for highlighting this signifying network (narrative elements, Black English, dialogues) that allude to Twain’s text ? If intertextual coherence works when it is implicitly manifest, these explicit references do not have the same resonance in French. For Morrison’s translators, a new translation of Twain’s novel in which Black English is present would prove an ideal starting point.</p>
-
 
 ----
 
@@ -80,8 +78,6 @@ text:
 <p>L’intertextualité en traduction permet de toucher du doigt ce que Barbara Folkart appelle la <em>marge traductionnelle.</em> En effet, là où le texte source de Morrison rappelait une œuvre forte à l’aide de procédés à la fois évidents (référence aux <em>huckleberries)</em> et subtils (inversion des rôles masculins-féminins, symbolique des termes, saupoudrage sociolectal), le texte cible ne parvient pas à faire mouche. Toute l’ampleur de l’écart traductionnel se trouve matérialisée dans ce non-transfert intertextuel. Le dialogue et la cohérence qui se tissaient entre les textes de Twain et de Morrison ne passent pas complètement l’épreuve de la traduction. Or, la réussite, sorte de passage parfait de cette intertextualité, est à l’avance impossible. Entreprise parsemée d’embûches, la traduction ouvre plutôt des possibles littéraires (liens entre le français créolisé et le <em>Black English,</em> allusions à des romans franco-antillais), permettant dès lors de créer des dialogues intertextuels imprévus.</p>
 <p>En définitive, cette brève analyse illustre bien le défi que pose la traduction de l’intertextualité, ainsi que les limites d’une telle entreprise. D’autres études seraient à entreprendre qui viseraient notamment à identifier l’intertextualité entre deux ou plusieurs œuvres, le passage de cette intertextualité une fois effectuée l’opération de traduction, et les stratégies déployées par les traducteurs pour réactiver les réseaux récurrents d’un roman à l’autre. Peut-être serions-nous surpris de constater que non seulement les textes originaux, mais aussi les traductions se parlent entre elles, qu’elles sont reliées les unes aux autres, qu’elles créent, à leur tour (et peut-être à leur façon), des renvois et des références de toutes sortes, permettant au lecteur de prendre plaisir autant à lire l’un que l’autre.</p>
 
-
-
 ----
 
 references: 
@@ -100,51 +96,23 @@ references:
  	<li>TWAIN, Mark, <em>Adventures of Huckleberry Finn,</em> dans Sculley BRADLEY <em>et al., A Norton Critical Edition. Samuel Langhorne Clemens, Adventures of Huckleberry Finn. An Authoritative Text Backgrounds and Sources Criticism,</em> second edition, New York et Londres, W. W. Norton &amp; Company, 1977 [1885], p. 1-229.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] L’auteure tient à remercier Jeanne Dancette, professeure au Département de linguistique et de traduction de l’Université de Montréal, d’avoir relu et commenté une version préliminaire de cet article.
 
-
-
-
 [2] En fait, Huck répète à trois reprises qu’il ne veut pas être <em>sivilized.</em>
-
-
-
 
 [3] James Fenimore Cooper, <em>The Spy</em> (1821) ; John Pendleton Kennedy, <em>Swallow Barn</em> (1832) ; William Gilmore Simms, <em>The Yemassee</em> (1835) ; Edgar Allan Poe, « The Gold Bug » (1843) ; Thomas Nelson Page, « Marse Chan », dans <em>In Ole Virginia</em> (1887).
 
-
-
-
 [4] Voici respectivement les deux extraits en question : « Well, the days went along [...] ; and about the first thing we done was to bait one of the big hooks with a skinned rabbit and set it and catch a cat-fish that was as big as a man [...], his meat’s as white as snow and makes a good fry » (<em>HF,</em> chap. X : 47) ; « I was fishing off the Beaver once. Catfish in Beaver River sweet as chicken » (<em>Beloved</em> : 34).
-
-
-
 
 [5] C’est ce qu’elle affirmait dans une entrevue personnelle accordée à Shelley Fisher Fishkin, une critique littéraire américaine (1993 : 139).
 
-
-
-
 [6] Qu’on pense à sa mise à l’index par certaines bibliothèques municipales ou scolaires américaines, par exemple. L’objet de cette censure s’est d’ailleurs déplacé au fil des ans, passant de la critique de la langue de Huck Finn, considérée comme un mauvais exemple pour la jeunesse de l’époque (fin XIXe siècle), à celle de l’occurrence du mot <em>nigger,</em> préjudiciable aux lecteurs noirs.
-
-
-
 
 [7] Et, quelques années plus tôt, Morrison affirmait que Huck grandit moralement grâce à son contact avec Jim : « [...] Huck grows up and becomes a moral person because of his association with Jim, a black slave who is called a boy, never a man. To Mark Twain’s credit, he provides the extraordinary scene where you realize that Jim has a wife and a child. He’s trying to get home to them. Huck’s trying to get out to the wild territory, while Jim is trying to get home. Jim tells Huck a terrible story about a time when he told his daughter to shut the door, and she didn’t do it. He told her again, and she didn’t do it. And he got annoyed and he hit her, and then later realized that while she had been sick recently, she had lost her hearing. And suddenly there’s this man who has a context » (entrevue accordée à Bill Moyers, 1989, publiée dans Taylor-Guthrie 1994 : 263).
 
-
-
-
 [8] Excepté la traduction de Suzanne Nétillard (1948), dont les trouvailles sont somme toute assez réduites, aucune version française du roman de Twain ne fait état d’un parler noir.
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>En 1994, un manuscrit inédit de Jules Verne dont la rédaction remonte à 1863 est retrouvé dans une caisse oubliée par les descendants du romancier. La découverte de Paris au XXe siècle remet en question la conception couramment acceptée du héros vernien, voire l’avenir du héros en général. Michel Dufrénoy semble à première vue être le parangon du héros romantique parti à la conquête d’un Paris projeté dans le futur. Or, ses tentatives de réussite parisienne avortées laissent peu à peu poindre une ambiguïté inhabituelle dans l’œuvre de l’auteur des Voyages extraordinaires, et le protagoniste du roman s’engage dans une lutte à mort avec la ville éponyme. Jules Verne, par le biais d’une projection dystopique, interroge dans Paris au XXe siècle la capacité de survie de l’individu dans la société urbaine moderne, telle qu’elle est en train de se développer au cours de la seconde moitié du XIXe siècle.</p>
 
-
 ----
 
 abstract_en: <p>In 1994, an unpublished manuscript by Jules Verne dating back to 1863 is found in a box forgotten by the novelist’s descendants. The discovery of Paris au XXe siècle challenges the commonly accepted conception of the hero vernien, or even the future of the hero in general. Michel Dufrénoy seems to be the paragon of the romantic hero out to conquer Paris. But his failed attempts to success in the French capital progressively uncover an unusual ambiguity in the work of the Voyages extraordinaires’s author. The protagonist of the novel refused by the publisher Hetzel engages in a fight to the death with the eponymous city. By the means of a dystopian projection, Jules Verne questions in Paris au XXe siècle the individual’s capacity to survive in modern urban society, as is being developed during the second half of the nineteenth century.</p>
-
 
 ----
 
@@ -61,7 +59,6 @@ text: <h3>La ville comme <em>alter héros</em></h3>
 <blockquote><p>[…] la peinture n’existe plus ; il n’y a plus de tableaux, même au Louvre ; on les a si savamment restaurés au siècle dernier, qu’ils s’en vont en écaille ; les Saintes Familles de Raphaël ne se composent plus guère que d’un bras de la Vierge et d’un œil de saint Jean ; ce qui est peu ; Les noces de Cana t’offrent au regard un archet aérien qui joue d’une viole volante ; c’est insuffisant ! Les Titien, les Corrège, les Giorgione, les Léonard, les Murillo, les Rubens ont une maladie de peau qu’ils ont gagnée au contact de leurs médecins, et ils en meurent ; nous n’avons plus que des ombres insaisissables, des lignes indéterminées, des couleurs rongées, noircies, mêlées, dans des cadres splendides ! (133-134)</p></blockquote>
 <p>Dans le Paris du XXe siècle, les bourgeois nouvellement mariés ne se cassent plus la tête pour trouver le sujet des Noces de Cana de Véronèse dont ils ne voient plus que « des ombres insaisissables », pas plus qu’ils ne s’inquiètent de la mémoire des siècles précédents, « oubliant, comme le rappelle Verne à maintes reprises, que les merveilles du vingtième siècle germaient déjà dans les projets du dix-neuvième » (33). De même, les écrivains du XXe siècle n’ont plus que quelques traits des héros d’autrefois — chevelure de soleil, yeux de mer, lyrisme effrité, écailles de volonté, traces de courage… — pour concevoir leurs ombres de personnages. La narration vernienne simule cet état de la création littéraire. L’effacement ultime de Michel pointe vers l’illisibilité, la disparition puis l’oubli qui menacent la littérature, mais surtout la société entière, dont il ne restera bientôt que les « cadres splendides », que les ruines des murs de ceinture pour témoigner de la ville qui y était jadis contenue.</p>
 
-
 ----
 
 references: 
@@ -84,76 +81,33 @@ references:
  	<li>VERNE, Jules, <em>Paris au XXe siècle</em>, Paris, Hachette, 1994 [1863].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Vraisemblablement rédigé au cours de l’année 1863, refusé par l’éditeur Hetzel puis probablement perdu, ce manuscrit n’a été retrouvé et publié qu’en 1994.
 
-
-
-
 [2] L’origine provinciale particulière de Michel pourrait en dire long sur sa personnalité et annoncer son destin funeste, son « insoumission » aux normes du XXe siècle ayant entraîné une succession de malheurs : « Vers 1835, d’Angeville décrit le Morbihan comme le département de France ayant la meilleure moralité (peu de bâtards, peu d’enfants trouvés, peu de crimes, levée facile des impôts, cependant nombre important d’insoumis), mais aussi comme l’un des plus pauvres (durée de vie courte, hygiène médiocre, alphabétisation très en retard) » (Jean Meyer, « Vannetais » dans <em>Encyclopaedia universalis </em> (DVD), version 10.2, Paris, 2004). Sans présumer du développement de ce département français au cours des trente années suivant l’affirmation de d’Angeville, il est loisible de penser que Jules Verne n’a pas choisi inconsidérément ce lieu natal. Cet auteur a plus d’une fois émis des commentaires à caractère imagologique à l’endroit de ses personnages (par exemple, le professeur Schultze des <em>500 millions de la Bégum</em> est un Allemand « robuste » aux « épaules carrées » et à la « voix raide encore plus que rude » qui déteste plus que tout les Français).
-
-
-
 
 [3] Désormais, les références à cet ouvrage ne seront indiquées que par le numéro de page, entre parenthèses.
 
-
-
-
 [4] Une rare scène où Michel évolue dans la ville, marchant « tout en réfléchissant, heurté et cahoté » (38) par la multitude, rappelle un passage de « Fusées » : « Perdu dans ce vilain monde, coudoyé par les foules, je suis comme un homme lassé dont l’œil ne voit en arrière, dans les années profondes, que désabusement et amertume, et, devant lui, qu’un orage où rien de neuf n’est contenu, ni enseignement ni douleur » (Baudelaire 1975 : 667). Il est à noter cependant que Verne n’a pu connaître ce texte de Baudelaire, faute de concordance temporelle : « Asselineau, on l’a dit, a publié quelques notes dans sa biographie de Baudelaire [1869]. De plus importants fragments furent mis au jour par Octave Uzanne (Le Figaro, 30 août 1880 ; Le Livre, 10 septembre 1884 ; Nos amis les livres, Quantin, 1886). » (Claude Pichois, « Publications. Établissement du texte » dans Baudelaire 1975 : 1471)
-
-
-
 
 [5] « Dans le langage pop., Niais, niaise, sot, sotte : C’est un serin, une serine. Quel serin ! Il faut être bien serin, bien serine pour croire, pour dire de pareilles choses » (Larousse 1876 : 595).
 
-
-
-
 [6] Ne connaissant rien du Paris du XXe siècle, Michel Dufrénoy se trouve dans une position similaire à celle du lecteur de 1863 qui aurait dû suivre son aventure demeurée inédite. C’est un trait typique du didactisme vernien d’exposer un monde inouï à son lecteur au fur et à mesure de sa découverte par le protagoniste. Il en est ainsi, par exemple, de l’univers sous-marin et de l’intérieur du <em>Nautilus</em> que le lecteur de <em>Vingt mille lieues sous les mers </em> découvre au rythme des notations du professeur Aronnax.
-
-
-
 
 [7] Michel Dufrénoy reçoit certes un prix de vers latin, mais, dans l’esprit des Français de 1960 imaginés par Verne, cette récompense est déshonorante. En témoigne l’absence du tuteur de Michel, son oncle Boutardin, qui, sachant que son protégé allait être primé pour ses talents de versification latine, « n’avait pas même jugé convenable d’assister à la distribution des prix ; il savait de quoi son neveu était “incapable”, disait-il, et il fût mort de honte à le voir couronner comme un nourrisson des Muses » (37). Le lecteur apprend plus loin dans le roman que Michel est le dernier étudiant à avoir reçu un tel prix, les cours de rhétorique latine ayant été rayés du programme de la Société de Crédit instructionnel. Au surplus, le jeune poète lauréat essuie une suprême insulte lors de la cérémonie de la collation des grades : alors que le récipiendaire du prix de mathématiques reçoit « une bibliothèque de trois mille volumes » (34), Michel reçoit « un volume unique : le <em>Manuel du bon usinier</em> » (34). Le message est clair.
 
-
-
-
 [8] Expression de Baudelaire à propos de l’ivresse que lui procure sa solitude dans la multitude. Cf. « Les Foules » (Baudelaire 1975 : 291).
-
-
-
 
 [9] David Platten propose une interprétation similaire du récit ambigu de Verne : « It is possible that by making his apparent mouthpiece so foppish Verne intended to undermine the thesis presented in Paris, thus disarming with irony those who foolishly protest at the advances of science » (Platten 2000 : 83).
 
-
-
-
 [10] Ces deux extraits de Verne sont cités dans Chesneaux 2001 : 61-62.
-
-
-
 
 [11] De nombreux spécialistes ont argué que la production de Verne se scindait en deux périodes : la première partie de l’œuvre de l’auteur serait marquée par un optimisme doublé de positivisme, alors que la seconde partie serait caractérisée par le désenchantement de tous les espoirs qui avaient animé les fictions des premiers temps (le triomphe de la science sur l’ignorance, l’idéal américain, etc.). Plusieurs critiques expliquent ce retournement idéologique par la disparition de Hetzel en 1886, qui aurait laissé libre cours aux pensées noires de Verne, corrigées jusqu’alors par l’éditeur tout au long de leur collaboration. La découverte du manuscrit de Paris au XXe siècle a bouleversé cette conception bipartite de l’œuvre vernienne.
 
-
-
-
 [12] Malgré l’avis généralement partagé par la critique vernienne selon lequel Jules Verne aurait été aveuglé, au début de sa carrière littéraire, par son optimisme pour la science, n’en ayant entrevu les inconvénient qu’après plusieurs romans, la rédaction de <em>Paris au XXe siècle</em> en 1863 donne à penser que l’auteur a toujours été conscient du double tranchant du progrès scientifique : « Le pessimisme à l’égard de la science ne doit donc pas être vu comme une caractéristique du dernier Verne, mais comme une constante de sa pensée qui alterne avec l’enthousiasme pour le progrès, dont les inconvénients contrebalancent les avantages » (Minerva 2001 : 78).
 
-
-
-
 [13] José Luis-Diaz décrit le suicide romantique comme un « “scénario auctorial” élégiaque, mélancolique, féminin aussi, qui veut que le poète, jeune ombre virginale, se retire par une mort voilée » (cité dans Popovic, 2008 : 66).
-
-
-
 
 ----
 

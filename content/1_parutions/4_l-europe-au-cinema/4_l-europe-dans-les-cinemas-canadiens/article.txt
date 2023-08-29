@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>À travers l’étude de phases importantes du développement d’un cinéma au Canada, cet article se propose de comparer l’influence de deux vecteurs culturels majeurs sur cette cinématographie. En effet, toute production culturelle canadienne se situe entre l’influence des cultures européennes (fondatrices, en quelque sorte) et de la culture américaine —en particulier, la posture impérialiste des États-Unis. L’objectif est d’analyser, à travers ces effets, les qualités d’un (éventuel) pôle esthétique européen. Afin d’éviter toute caricature, le cinéma y est envisagé tant en fonction d’approches économiques (questions de distribution et de production) que d’aspects esthétiques.</p>
 
-
 ----
 
 abstract_en: <p>By studying the main phases in the development of a cinematographic tradition in Canada, this article proposes to compare the influence of two major cultural vectors on Canadian cinematography. Canadian cultural production is essentially situated between the influence of (foundation) European cultures and American culture, and in particularly the imperialist posture of the United States. My objective is to discern the qualities of a (possibly) European aesthetic pole. In order to avoid oversimplification, film is conceived in terms of economic (questions of distribution and production) as well as aesthetic considerations.</p>
-
 
 ----
 
@@ -57,8 +55,6 @@ text:
 <p>Pour tirer des conclusions plus générales, il faudrait systématiser cette étude à toutes les périodes du cinéma au Canada. Il faudrait également la comparer avec d’autres régions cinématographiques. Malgré les évolutions (tant économiques, législatives qu’esthétiques) le rôle d’Hollywood sur les cinémas canadiens varie peu. D’un autre côté, il n’existe pas de pôle esthétique européen. Au niveau de la distribution, on ne peut pas définir une industrie du cinéma, en Europe, ayant une force de pénétration suffisante pour contrer la puissance hollywoodienne. Même les grands studios européens (UFA, Gaumont, etc.) ne s’organisent pas pour étendre leur marché. De plus, aucun pays européen ne cherche à mettre en place les mêmes stratégies économiques que les autorités états-uniennes. Personne ne tient le même rôle que le sénateur Hays dans la promotion économique du cinéma à l’étranger. L’exportation de films repose sur des stratégies locales (comme l’action de l’Église au Québec). En l’absence d’unité politique, les pays européens organisent seuls leur défense face à l’impérialisme américain. Cette situation évolue quelque peu depuis les mesures prises par la <em>Communauté européenne.</em> Il faut relativiser ces conclusions, au vu de l’évolution actuelle des cinémas européens vers une industrialisation et une standardisation. Par contre, il n’existe pas encore de structures de production pérennisées, comparables aux studios américains. De plus, cette évolution est freinée par une certaine idée du cinéma, qui repose sur une liberté de création. On ne peut absolument pas parler d’une industrie européenne, selon les mêmes critères que ceux d’Hollywood.</p>
 <p>Cette hétérogénéité des industries du cinéma en Europe ne nous empêche pas d’envisager des caractéristiques convergentes à d’autres niveaux. Les cinémas européens sont perçus au Canada comme des formes de productions culturelles indépendantes, proposant une conception ouverte du medium. Ces cinémas reposent généralement sur le travail d’artisans, hors de toutes structures industrielles. Ils peuvent alors favoriser une forme de recherche sur le medium cinématographique, plus difficile dans une production standardisée. S’il est possible d’opposer un cinéma regroupé autour de la notion <em>cinéma d</em>’<em>auteur</em> avec une vision industrielle, il est par contre complexe d’en définir les dénominateurs communs. Au vu des éléments analysés, il semble que le seul critère permettant de réunir les cinémas européens est leur diversité. La multiplicité culturelle et l’absence de creuset identitaire (rôle fondamental joué par le cinéma hollywoodien) rendent caduque toute uniformisation des cinémas en Europe. En conclusion, suivant cette étude, s’il existe un pôle esthétique du cinéma européen, c’est par défaut. Sa première caractéristique est la diversité tant au niveau des approches et des esthétiques que des financements.</p>
 
-
-
 ----
 
 references: 
@@ -82,46 +78,21 @@ references:
  	<li>VÉRONNEAU, Pierre, <em>Le rapport Grierson dans son contexte,</em> Montréal, Éditions de la Cinémathèque québécoise (<em>Les dossiers de la cinémathèque</em> n°1), 1978, p. 3-8.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Il faut relativiser cette ouverture. Dans les faits, le cinéma hollywoodien est moins censuré que le cinéma européen. Aux USA, le <em>code Hays</em> expurge au niveau du scénario toute scène ou image corruptrice. Les producteurs européens ne respectent pas un principe aussi efficace, laissant plus de libertés aux <em>folies de l</em>’<em>artiste.</em>
 
-
-
-
 [2] Soutien politique, financier, mais aussi promotion auprès des masses, publication de classifications morales des films, etc. Cette aide à la distribution concerne les films français, mais également d’autres productions européennes. Il y a, par exemple, un certain engouement pour les films de Carl Dreyer.
-
-
-
 
 [3] Grierson quitte officiellement l’Office pour relever de nouveaux défis dans d’autres pays du Commonwealth. En fait, son action est très critiquée au sein du gouvernement canadien. On lui reproche en particulier une idéologie trop à gauche. Plusieurs enquêtes sont déclenchées au sein de l’ONF pour y dépister d’éventuels communistes.
 
-
-
-
 [4] Il ne faut surtout pas déduire de cette anecdote que l’administration est clémente avec les réalisateurs ; la situation des cinéastes de l’unité B est très particulière ; les directeurs de productions sont beaucoup plus sévères avec les jeunes cinéastes francophones, voir l’exemple de Michel Brault (1980 : 10).
-
-
-
 
 [5] À cette liste, il faudrait ajouter beaucoup de cinéastes, en particulier de jeunes cinéastes français : Chris Marker, François Truffaut, Jean-Luc Godard, etc.
 
-
-
-
 [6] Claude Jutra reconnaît largement l’influence de Jean Rouch sur son cinéma. Son film <em>À tout prendre</em> est dédié à Jean Rouch et Norman McLaren.
 
-
-
-
 [7] D’après Marcel Martin, Michel Brault aurait travaillé avec Richard Leacock : « il a acquis son expérience en travaillant aux États-Unis avec Richard Leacock, ancien opérateur de Flaherty » (Martin 1968 : 76). C’est cependant la seule source indiquant cette expérience. Les deux cinéastes se sont vraisemblablement croisés au congrès organisé par Mme Flaherty (été 1959). Richard Leacock a collaboré avec d’autres cinéastes canadiens : Claude Fournier, Terence Macartney-Filgate, entre autres. Il y a donc bien un échange entre le pôle montréalais et le pôle new-yorkais.
-
-
-
 
 ----
 

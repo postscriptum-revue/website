@@ -25,7 +25,6 @@ text: <p><img decoding="async" loading="lazy" src="https://post-scriptum.org/wor
 <p style="text-align: left;"><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel3-scaled.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-scaled.jpg 1920w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-225x300.jpg 225w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-768x1024.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-1152x1536.jpg 1152w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-1536x2048.jpg 1536w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-900x1200.jpg 900w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
 <p><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel4-scaled.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-scaled.jpg 1920w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-225x300.jpg 225w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-768x1024.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-1152x1536.jpg 1152w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-1536x2048.jpg 1536w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-900x1200.jpg 900w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
 
-
 ----
 
 references: 

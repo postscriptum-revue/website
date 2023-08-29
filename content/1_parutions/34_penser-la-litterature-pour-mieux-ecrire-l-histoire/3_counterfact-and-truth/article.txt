@@ -18,7 +18,6 @@ abstract_fr: <p>Les écrits historiographiques présupposent que les vérités h
 <p> </p>
 <p>Mots-clés : littérature postcoloniale, imagination contrefactuelle, J.M. Coetzee, Amitav Ghosh, Peter Carey</p>
 
-
 ----
 
 abstract_en: <p>Historiographic writings presuppose that historical truths rely on the narrative rendering of factual information and that historical narratives necessarily engage in interpretive contests with each other over the proper meaning of those facts. In contrast, counterfactual writings challenge the primacy of fact in historiographic narratives. Both in the methods it uses and in the conclusions it renders, the counterfactual imagination challenges and subverts the conventional epistemological basis of historiography. At the same time, counterfactual writing is irreducible to the straightforward status of fiction: by writing <em>that which did not happen</em> into textual being, counterfactual narratives paradoxically seek to perform the usual work of historiography by explaining the past as it actually unfolded. Despite the apparent incongruities that emerge from such practices, the counterfactual imagination has become endemic within contemporary culture, proliferating in very different genres of fictional and non-fictional writing.</p>
@@ -26,7 +25,6 @@ abstract_en: <p>Historiographic writings presuppose that historical truths rely 
 <p>Although much criticism focusing on the counterfactual imagination exhibits a Western bias, the freedom from dominant narratives implicit within the counterfactual imagination has obvious resonance with postcolonial literature. Counterfactual renderings of history can be found in texts diverse in subject and genre. Indeed, counterfactual histories arguably constitute a developing subgenre within the field of postcolonial literatures. Published amidst the contemporary moment of counterfactual flourishing, novels such as Amitav Ghosh’s <em>The Calcutta Chromosome</em>, Peter Carey’s <em>True History of the Kelly Gang</em>, and J.M. Coetzee’s <em>Summertime</em> take on new meanings when read not simply as manifestations of local (national or regional) literatures but also as texts that exemplify the conflicted politics of counterfactual postcoloniality in a global postmodern marketplace.</p>
 
 <p>Keywords: postcolonial literature, counterfactual imagination, J.M. Coetzee, Amitav Ghosh, Peter Carey</p>
-
 
 ----
 
@@ -126,7 +124,6 @@ text: <p>Introduction</p>
 <p><a href="#_ftnref4" name="_ftn4">[4]</a> In “The Novel Today,” Coetzee explains that a novel that rivals history “operates in terms of its own procedures and issues its own conclusions,” rather than operating “in the terms of the procedures of history and eventuat[ing] in conclusions that are checkable by history” (Coetzee 1988, 3). While the <em>details</em> of any counterfactual novel, including <em>Summertime</em>, are certainly checkable, it is utterly unclear how one might check, for instance, the claim by a fictional (or fictionalized?) character named Julia “John Coetzee was not my prince…if you have been listening carefully you will see by now how very unlikely it was that he could have been a prince, a satisfactory prince, to any maiden on earth” (Coetzee, 2009, 80).</p>
 <p><a href="#_ftnref5" name="_ftn5">[5]</a> One reviewer of Carey’s novel laments “Hasn’t Kelly country been worn almost to death?” (Clancy 2004, 53).</p>
 <p><a href="#_ftnref6" name="_ftn6">[6]</a> Glenrowan was the site of the historical Kelly’s capture by colonial police forces.</p>
-
 
 ----
 

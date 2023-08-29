@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Il existe plusieurs traductions anglaises du roman épistolaire de Goethe, Die Leiden des jungen Werthers (1774). Toutefois, ce roman psychologique portant sur le thème du suicide noble est peu « théâtral » ou, du moins, peu propice à l’adaptation pour la scène. Ainsi, de toutes les adaptations théâtrales anglaises existantes, aucune n’est décrite comme « fidèle ». Cet article propose une analyse des obstacles à l’adaptation (une forme de traduction en soi). En se basant tant sur le modèle tripartite de la traduction de Goethe que sur « les trois modes d’adaptation » du théoricien en études cinématographiques Geoffrey Wagner, l’auteur a tenté de réaliser une transposition (traduction/adaptation) prosaïque et sans ajout. L’auteur cerne d’abord chacun des obstacles à une traduction/adaptation fidèle, puis aborde chaque problème individuellement Selon son hypothèse de départ, il est possible de créer une pièce de théâtre sémantiquement très proche de l’original, c’est-à-dire dont le résultat est fidèle au roman, si ces obstacles sont abordés de façon systématique.</p>
 
-
 ----
 
 abstract_en: <p>Although numerous different English translations of Goethe’s 1774 ‘nobility in suicide’-themed, epistolary, psychological and therefore “untheatrical” novel Die Leiden des jungen Werthers have been published, no English-language stage adaptation has ever been described as “faithful”. With reference to Goethe’s three-tiered model of translation and cinema theorist Geoffrey Wagner’s “Three modes of adaptation” the author has attempted to write a prosaic, transpositional and unaugmented translation/adaptation for the English-language stage. Each of the obstacles to faithful translation/adaptation were addressed, the hypothesis being that if the obstacles were systematically overcome, then an English-language stageplay closely corresponding in meaning to the principal themes of the novel —that is, a work arguably faithful to the novel— could be created.</p>
-
 
 ----
 
@@ -120,8 +118,6 @@ Well, it was not the wonderfully epic poetry of Klopstock !”
 <h3>Conclusion</h3>
 <p>The obstacles to faithful translation/adaptation of <em>Werther</em> to the English language stage are the proscribed theme of noble suicide, the differences in the various English translations, and the epistolary, psychological nature of the novel. By systematically addressing these obstacles an arguably faithful translation/adaptation can be created. This new work must, according to Goethe’s model, be a prosaic translation, and, according to Wagner’s model it should also be a transpositional adaptation. The productions of <em>The Diary of Anne Frank</em> and the East German movie <em>Die Leiden des jungen Werthers</em> suggested solutions to the problem of the “untheatricality” of this type of epistolary work. However, the unpopularity of the leitmotif of glorious, noble suicide cannot be sidestepped as previous stage adapters have done. I believe to do so would be a serious augmentation of Goethe’s original intention. Indeed, care must be taken lest a production of <em>The Sorrows and Sufferings of Young Werther ; a Stageplay</em> be so faithful to the original Goethe novel that a wave of Werther Effect suicides by contemporary English-speaking audience members actually results ! Were that to happen, however, it may well be the ultimate proof of this prosaic, transpositional and unaugmented translation/adaptation’s faithfulness to the original novel.</p>
 
-
-
 ----
 
 references: 
@@ -160,26 +156,13 @@ references:
  	<li>WAGNER, Geoffrey, <em>The Novel and the Cinema,</em> New Jersey, Associated University Presses Inc., 1975.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] The researcher/author’s resulting conception <em>The Sorrows and Sufferings of Young Werther ; a Stageplay</em> was submitted as the creative work component of the researcher/author’s thesis at the University of Melbourne in September 2003.
 
-
-
-
 [2] Of course, the very definition of “faithfulness” is problematic, with academic Patrice Pavis calling the notion “a cliché of critical discourse-” (Pavis 26). I understand the term to mean that the main themes and ideas of the original are preserved in the translation/adaptation, or as Steinhauer said : “[It provides] a version for the reader of today in our idiom and yet remain[s] faithful to the spirit of the original” (1774 : vii).
 
-
-
-
 [3] Even the titles differ ; <em>The Sorrows of Werter : a German Story</em> (Malthus 1779) ; <em>Werter and Charlotte ; a German Story</em> (Parsons 1786) ; <em>Sorrows of Werther</em> (Carlyle circa 1850 ; Carlyle and Boylan 1917) ; <em>The Sorrows of Werter/from the German of Goethe</em> (Unknown 1892) ; <em>The Sorrows of Young Werther</em> (Lange 1949 ; Hutter 1962 ; Bogan 1971 ; Hulse 1989 ; Carlyle and Boylan 2001) ; <em>The Sufferings of Young Werther</em> (Morgan 1957 ; Steinhauer 1970) ; <em>The Sorrows of Young Werter</em> (Ticknor 1966) and the 1991 reprint of Malthus’s translation <em>The Sorrows of Werter/Johann Wolfgang von Goethe.</em>
-
-
-
 
 [4] For example, the very first colloquy in the novel is between Werther and a young servant girl fetching water at the fountain. The German is : “ ‘Soll ich Ihr helfen, Jungfer ?’ sagte ich. —sie ward rot ueber und ueber— ‘O nein, Herr !’ sagte sie —‘Ohne Umstaende’— ” (Goethe 8). This has been variously translated as :
 
@@ -191,58 +174,25 @@ Apparently, even the least poetic of Goethe’s words can be interpreted differe
 
 Whilst there are many variations in translation of even this short passage, it must be readily conceded neither Malthus, Carlyle and Boylan, Hulse, Dahl, Lange, Steinhauer nor I have the definitive translation !
 
-
-
-
 [5] Translated by H. Grossman and W. Lyman in 1961.
-
-
-
 
 [6] I translated this as “Why have we Germans no national literature ? The English have one, the French, the Italian…”
 
-
-
-
 [7] I translated this as “The people have to cry over his death but he was far too quickly buried… Why did he kill himself ?”
-
-
-
 
 [8] I translated this as “How happy I am, that I am gone !”
 
-
-
-
 [9] I translated this as “crack-pot”.
-
-
-
 
 [10] Translated into English by B. M. Mooyaart and reprinted in 1995. First published posthumously and edited by Anne Frank’s father, then translated from the Dutch in 1952.
 
-
-
-
 [11] Produced by Frances Goodrich and Albert Hackett.
-
-
-
 
 [12] Produced and directed by George Stevens.
 
-
-
-
 [13] For this reason the scene involving the lengthy discussion between Werther and Albert about the ethics of suicide had to be condensed as was the prolix declamation by Werther of his own extended translation of Ossian.
 
-
-
-
 [14] “Sturm and Strang” is generally translated as “Storm and stress” ; a period which was characterised by a violent emotional reaction against the intellectualism of the “Aufklärung” (“Enlightenment”) period. Cool reason, self-control and good taste were overthrown in favour of emotion, individuality and freedom. This was the beginning of the age of Romanticism in Germany.
-
-
-
 
 ----
 

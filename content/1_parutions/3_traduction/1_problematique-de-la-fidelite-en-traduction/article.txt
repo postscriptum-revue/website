@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article sert à exposer l’ensemble des approches visant à cerner la fidélité en traduction. Depuis les années cinquante, au sein des études traductologiques, on voit apparaître des écoles de pensée qui mettent l’accent soit sur un élément particulier (la structure linguistique ou le message) soit sur un actant du processus traductif, comme la société réceptrice avec ses institutions littéraires ou le sujet traduisant qui devient autonome, créatif et responsable. La traduction peut être ainsi perçue comme une activité pluridimensionnelle exigeant des prises de décisions, des choix, selon le but visé.</p>
 
-
 ----
 
 abstract_en: <p>This article discusses a number of approaches that attempt to grasp faithfulness in translation. Since the 1950s, there have been schools of thought within translation studies that emphasize one particular element (the linguistic structure or the message), either an agent of the translation process, such as the target society and its literary institutions, or translating subject becoming autonomous, creative, and responsible. Translation can therefore be perceived as a multi-dimensional activity demanding decisionmaking, and choosing according to the goal in view.</p>
-
 
 ----
 
@@ -66,8 +64,6 @@ text:
 <h3>Le mot de la fin</h3>
 <p>En passant en revue différentes approches à la traduction, nous avons tenté d’exposer le problème de fidélité. Nous avons abordé, tout d’abord, l’équivalence structurale (méthode comparative), ensuite, l’équivalence communicationnelle (école interprétative ou théorie du sens), l’équivalence dictée par l’institution littéraire de la société réceptrice (théorie du polysystème) et, finalement, la traduction dialogique ou événementielle qui introduit au cœur de l’activité traduisante le problème de la rencontre avec l’altérité. Mais aucune école de pensée n’épuise, au fond, la complexité de la traduction, qu’elle soit l’objet, le processus ou le résultat, l’activité traduisante pouvant être traitée comme une reproduction de la structure linguistique, une saisie et une transmission du message, une soumission à l’ordre du discours dominant ou bien une créativité subjective et responsable qui ouvre l’original au grand dialogue entre les individus, les sociétés, les cultures et les époques.</p>
 
-
-
 ----
 
 references: 
@@ -99,16 +95,9 @@ references:
  	<li>SELESKOVITCH, Danica, « Préface », dans Jean DELISLE, <em>L</em>’<em>analyse du discours comme méthode de traduction. Théorie et pratique,</em> Ottawa, Éd. de l’Université d’Ottawa (Cahiers de traductologie 2), 1984, p. 9-11.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] Dans <em>Le Marxisme et la philosophie du langage,</em> Volochinov et Bakhtine définissent ainsi la compréhension responsive : « La compréhension se confond avec une prise de position active vis-à-vis de ce qui est dit et compris » (107), et plus loin, « comprendre l’énonciation d’autrui signifie s’orienter par rapport à elle, la replacer dans un contexte adéquat. À chaque mot de l’énonciation à décoder nous faisons correspondre une série de mots à nous, formant une réplique » (146).
-
-
-
 
 ----
 

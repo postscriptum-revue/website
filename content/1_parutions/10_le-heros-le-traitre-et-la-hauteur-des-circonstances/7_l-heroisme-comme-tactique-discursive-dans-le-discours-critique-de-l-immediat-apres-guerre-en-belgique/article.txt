@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le point de départ de cet article est un constat problématique. Après la Première Guerre mondiale, la Belgique est divisée en deux camps : les « jusqu’au-boutistes » s’opposent aux « défaitistes », les « héros » se distinguent des « traîtres ». Or, dans une constellation tellement polarisée, il est étonnant que le discours alternatif des cercles internationalistes et pacifistes emprunte des notions fortement connotées, tel l’« héroïsme », au discours officiel et dominant. À partir d’une lecture sociocritique de textes de Paul Colin, rédacteur en chef de la revue bruxelloise L’Art libre, il s’agira donc de déterminer la sémantique et le statut renouvelé de cette « vertu de l’héroïsme ».</p>
 
-
 ----
 
 abstract_en: <p>This article’s starting point consists in a problematical observation. Following World War I, Belgium was divided into two camps : the “jusqu’au-boutistes” were opposed to the “défaitistes”, the “heroes” contrasted sharply with the “traitors”. In such a polarised constellation, it is striking that the “secondary” discourse of pacifist and internationalist circles borrows highly connotated notions, such as “heroism”, from the official and dominant discourse. On the basis of a sociocritical lecture of texts by Paul Colin (the director of the periodical L’Art libre), we shall determine the semantics and the renewed status of this “virtue of heroism”.</p>
-
 
 ----
 
@@ -55,7 +53,6 @@ text: <h3>Introduction : L’héroïsme, une notion ambigüe</h3>
 <h3>Conclusion</h3>
 <p>Les différentes conceptions véhiculées par le discours officiel et par le discours alternatif sont à première vue irréconciliables. Il paraît dès lors problématique qu’une des valeurs clés du discours officiel, l’héroïsme, soit reprise dans le discours alternatif de <em>L</em>’<em>Art libre.</em> Nous avons démontré qu’il s’agit en fait d’une <em>tactique</em> discursive qui consiste à se frayer un chemin à l’intérieur d’un espace déjà circonscrit. La redéfinition de l’héroïsme n’équivaut donc pas en premier lieu à une négation de son acception première, dominante, mais à une généralisation, à une extension sémantique qui propose une signification nouvelle (renouvelée) tout en respectant la signification première.</p>
 
-
 ----
 
 references: 
@@ -79,26 +76,13 @@ references:
  	<li>VAN YPERSEELE, Laurence, « Marche-les-Dames. Het land in verbijstering en ontreddering gedompeld » dans Tollebeek, Jo (dir.), <em>België. Een parcours van herinnering. Tome 2</em> <em>: plaatsen van tweedracht, crisis en nostalgie,</em> Amsterdam, Bert Bakker, 2008, p. 209-219.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Pour plus d’informations sur la notion de croyance, voir F. Mus (2008).
 
-
-
-
 [2] Il s’agit d’une citation tirée de la préface de son livre <em>Allemagne,</em> dont des fragments ont été publiés dans <em>L</em>’<em>Art libre.</em> La citation de Nietzsche en exergue va dans le même sens : « On méconnaît, on déforme mensongèrement et arbitrairement les signes indéniables que l’Europe veut devenir une. »
 
-
-
-
 [3] Citons, par exemple, « cette religion de l’héroïsme, ce culte du génie », (Colin 1918 : 6) ou le « culte de l’héroïsme et du génie » (9, 11).
-
-
-
 
 ----
 

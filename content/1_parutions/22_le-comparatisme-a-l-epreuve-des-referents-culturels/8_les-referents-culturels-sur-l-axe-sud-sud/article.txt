@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Les référents culturels jouent un rôle décisif dans la traduction de la littérature africaine de langue française au Brésil. Leur enjeu n’est pas seulement de plonger le lecteur dans l’espace africain « traditionnel », mais surtout d’ouvrir cet espace à des rapports dialogiques de l’Afrique avec l’autre. Les œuvres <em>Pelourinho</em> (1995), du Guinéen Tierno Monénembo et <em>Verre Cassé</em> (2005), du Congolais Alain Mabanckou modalisent des référents (inter)culturels qui renvoient aux rapports de l’Afrique contemporaine à la colonisation, à sa diaspora ou, plus précisément, au sujet afro-descendent brésilien. Les référents culturels et, particulièrement, l’anthroponymie, entraînent, entre outres, des effets postcoloniaux qui peuvent aller dans le sens d’un renforcement d’une Afrique carte postale, stéréotypée par le regard occidental, ou bien dans le sens de l’insertion d’une culture occidentale rappelant la colonisation en Afrique. Les circulations littéraires entre des auteurs et des lecteurs du sud seraient donc profondément marquées par un cadre de lecture-écriture « nord-sud » (ou « sud-nord ») qui vient briser la traduction sud-sud. Notre article se propose de repenser en profondeur la signification des référents culturels au-delà de leur valeur strictement référentielle. À partir de différents effets de « post-colonial » qu’ils dégagent selon le style d’écriture et l’ancrage socio-culturel des récits, nous analyserons les enjeux du « transfert » de ces deux romans de la littérature africaine subsaharienne dans l’espace littéraire brésilien.</p>
 
-
 ----
 
 abstract_en: <p>The cultural references have a decisive role in the translation of french african literature for Brazil. Their purpose is not just to immerse the reader into the traditional african environment, but mainly to make this space available for a dialog between Africa and the others. The works Pelourinho (1995), by the Guinean Tierno Monenembo, and Verre Cassé (2005), by the Congolese Alain Mabanckou globalize intercultural references which point to the relationship between contemporary Africa and its colonization, to its diaspora or, more precisely, to the subject of african descendancy in Brazil. The cultural references and, in particular the anthroponomy entail, among others, post-colonial effects which can in a sense go towards the reinforcement of a post-card Africa, stereotyped through the eyes of the Occident, or in the sense of the insertion of an occidental culture which reminiscent of Africa’s colonization. The literary exchanges between authors and readers from the south would be profoundly marked by a “north-south” read-write environment (or “south-north”) which breaks the “south-south” translation. Our article proposes an in-depth re-thinking of the cultural references, beyond their referential meaning. Starting from different “post-colonial” effects that they give-off from the writing style and from set-in socio-cultural ideas, we will analyze the intercultural roles of the “transfer” of these two sub-Saharan literature novels in the Brazilian literary space.</p>
-
 
 ----
 
@@ -102,7 +100,6 @@ text: <h3>Introduction</h3>
 <p>Dans l’œuvre de Mabanckou, par ailleurs, le français est une langue qui n’est pas seulement commune à l’espace francophone ; elle porte une histoire coloniale, néo- et postcoloniale. C’est pourquoi les questions de traduction soulevées par les référents sont très différentes de celles rencontrés dans le récit guinéen. Si Monénembo renonce au partage des bagages culturels avec le public francophone, Mabanckou joue et déjoue avec ceux-ci dans des subversions langagières. De ce fait, les référents s’avèrent être plus opaques que ceux de <em>Pelourinho</em>, pour la plupart déjà dé-codifiés en portugais.</p>
 <p>Les circulations littéraires entre des auteurs et des lecteurs du sud semblent profondément marquées par un cadre de lecture-écriture « nord-sud » (ou « sud-nord ») qui vient briser la traduction sud-sud. Celle-ci se trouve avoir affaire à des référents culturels chargés d’effets de « post-colonial » qui résonnent différemment dans le texte d’arrivée. Ces effets ne peuvent « subsister » dans la traduction, qu’à partir d’un travail de création qui s’efforce de récupérer les référents et de les reproduire sous de nouvelles formes. De sorte que le lecteur brésilien puisse se mettre à table, lui aussi, pour savourer le <em>frango-motoboy</em> et le <em>frango-fonctionnaire</em> du roman congolais traduit en portugais.</p>
 
-
 ----
 
 references: 
@@ -155,8 +152,6 @@ references:
 [11] D’origine bantoue, le mot <em>quilombo</em> désigne dans le contexte brésilien les communautés d’esclaves qui se sont organisées pour résister à l’esclavage, justement à l’intérieur des forêts, dans la « brousse ».
 
 <hr />
-
-
 
 Mirella do Carmo Botaro est doctorante en Littérature Comparée à l’Université de Poitiers, boursière de la Fondation CAPES (organisme du gouvernement brésilien) et membre du laboratoire Centre de Recherches Latino-Américaines-Archivos. Le sujet de sa thèse porte sur les enjeux interculturels de la traduction de la littérature africaine de langue française vers le portugais au Brésil. Ses intérêts de recherche incluent la littérature francophone, le postcolonialisme, la traduction et les questions de transfert et de réception.
 

@@ -18,7 +18,6 @@ abstract_fr: <p>En 2002, Édouard Levé publie chez P.O.L. son premier ouvrage d
 <p>Toutefois, le passage à l’écriture dépasse le simple changement de médium pour devenir un piédestal. Il permet un changement du statut de l’artiste et de son rapport social, en passant à une figure d’intellectuel. Le rôle social de l’artiste se voit alors complètement transformé, mais il vient également teinter l’interprétation de son travail artistique, y ajoutant une partie plus théorique, brute, philosophique, intellectuelle, s’inscrivant plus directement dans la lignée de l’art conceptuel.</p>
 <p>Ces considérations mettent alors de l’avant le second point de tension, celui de l’expérience du lecteur face à l’œuvre d’art. Cette expérience se voit elle aussi intellectualisée puisque la lecture comme forme de contact avec l’image fictive nécessite la participation du public. Le lecteur se voit lui aussi mis sur un piédestal puisque son imagination est suscitée pour la création de l’œuvre d’art, dont l’expérience par la lecture, contrairement à celle plus contemplative suggérée par les institutions muséales, engendre une appropriation et une relation intime face à la pensée de l’artiste.</p>
 
-
 ----
 
 abstract_en: 
@@ -26,7 +25,6 @@ abstract_en:
 ----
 
 text: <p><iframe loading="lazy" id="fitvid509948" src="//www.youtube.com/embed/UpUVEPyOy2c?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-
 
 ----
 

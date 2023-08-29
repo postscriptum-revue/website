@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le doublage est une forme de traduction très présente en France et au Québec, surtout au petit écran. Toutefois, de par sa nature même, le doublage uniformise la langue parlée et laisse plus de place à la manipulation du discours. En France et au Québec, le doublage est un moyen de défense contre l’incursion de l’étranger dans la culture ; par contre, les éléments auxquels s’applique la stratégie défensive varient selon la culture traduisante. Les stratégies les plus courantes sont celles de la reterritorialisation, de la neutralisation ou de la mitigisation du discours. Au Québec, le français québécois dans le doublage sert principalement à cantonner le dialecte dans une seule couche sociale.</p>
 
-
 ----
 
 abstract_en: <p>Dubbing is a very common type of translation in France and especially in Quebec, where it literally dominates the small screen. However, because of its very nature, dubbing standardizes spoken language and leaves more opportunity to discourse manipulation. In France and Québec dubbing is a defensive strategy against the incursion of foreign elements in the culture, but the elements on which the strategy applies vary according to the translating culture. The most common strategies are reterritorialization, neutralization and discourse mitigation. In Quebec, the very few dubbings with Quebecois French are mainly those which restrict the dialect in a specific social class.</p>
-
 
 ----
 
@@ -170,8 +168,6 @@ Bart
 <h3>Quel rôle pour le doublage ?</h3>
 <p>Si on considère l’adaptation la plus achevée d’un film, le <em>remake,</em> comme une preuve d’impérialisme, que le <em>remake</em> possède ses propres codes, le doublage devient une tentative de nationalisme. La manipulation du texte dans le doublage, si elle va moins loin que le <em>remake</em> et peut-être parfois aussi loin que le sous-titrage, fait en sorte que l’original soit en quelque sorte opaque pour les spectateurs de la culture réceptrice. Les acteurs-doubleurs [22] ou les consommateurs de doublage eux-mêmes considèrent le doublage comme un outil d’appropriation culturelle au Québec, comme un outil pour diffuser la culture des États-Unis en France. La France, lorsqu’elle double ses films, protège sa culture de l’hégémonie des Etats-Unis, mais protège surtout sa langue des « régionalismes » en faisant appel à une langue standardisée (Whitman-Linsen 1992 : 50) [23] destinée aux « populations des régions et des banlieues ». De plus la langue artificielle créée par et pour le doublage serait aussi l’apanage du doublage québécois. Les français standard et régionaux utilisés dans le doublage laissent sous-entendre une idéologie où le français québécois est réservé à une certaine classe sociale, un français québécois aussi construction artificielle puisqu’il ne comprend pas les variantes du français québécois lui-même. Et que dire des autres variantes du français parlé par les Franco-américains, totalement absentes dans le doublage des Simpson, ainsi que dans le reste des doublages. Cela équivaut aussi, en tenant compte de l’effet uniformisateur du doublage français, à ne pas permettre aux langues minoritaires de se faire entendre. Au-delà des différences plutôt superficielles, le doublage demeure une tentative d’uniformisation du langage oral dans un contexte de diminution constante de la production locale malgré la multiplication des chaînes de télévision et des salles de cinéma.</p>
 
-
-
 ----
 
 references: 
@@ -202,126 +198,53 @@ references:
  	<li>YVANE, Jean, « Le doublage filmique : fondements et effets », dans <em>Transferts Linguistiques dans les Médias Audio</em>-<em>visuels,</em> Villeneuve d’Ascq, Presses universitaires du Septentrion, 1996, p. 133-143.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Si on peut considérer une catégorie « intermédiaire » entre le doublage et le sous-titrage, le <em>voice</em>-<em>over</em> est le remplacement partiel du signal sonore, souvent par une seule voix, qu’on entend en sourdine. Cette technique est utilisée au Québec et en France pour les nouvelles et d’entrevues, parfois les docufictions.)
 
-
-
-
 [2] À titre d’exemple, pour illustrer ce propos, mentionnons que les personnes qui ne sont pas sourdes-muettes et qui regardent les débats de la Chambre des Communes sont en général quelque peu indisposées par la présence, en médaillon, de l’interprète qui traduit en simultané les interventions des députés.
-
-
-
 
 [3] Deux commentaires cités de cinéphiles québécois à la sortie d’un film suédois sous-titré en anglais.
 
-
-
-
 [4] Dans son article <em>Dubbing As An Expression Of Nationalism</em> (1991), M. Danan tente d’établir un lien entre doublage comme forme de traduction cinématographique privilégiée et passé national-socialiste/fasciste. Nous soulignerons quand même le fait que l’italien moderne doit son apparition au cinéma d’après-guerre.
-
-
-
 
 [5] Les Français eux-mêmes « trichent » en faisant doubler leurs films en Belgique à moindre coût…
 
-
-
-
 [6] Ce « débat » implique en réalité surtout l’Union des artistes, qui milite en faveur de doublages effectués au Québec au lieu de doublages exécutés en France et achetés au Québec. Quelques dizaines d’individus appuient la démarche de l’Union des artistes, par exemple les responsables du site Web doublage.qc.ca.
-
-
-
 
 [7] Défini par A. Brisset (1990) (pour la traduction) comme l’analyse du sens par rapport aux contextes discursif et culturel ambiants.
 
-
-
-
 [8] Tout discours, scientifique, économique, ou autre, (re)produit ses propres frontières et donc définit sa propre particularité en fonction des autres discours.
-
-
-
 
 [9] C’est un critère pour un jury qui décidera à qui accorder le prix de la meilleure adaptation cinématographique.
 
-
-
-
 [10] Le film de Michel Poulette, <em>Louis 19, le roi du câble,</em> est devenu en France <em>Reality Show,</em> et le polar <em>Liste Noire</em> a quant à lui reçu dans l’Hexagone le titre de <em>Black List.</em>
-
-
-
 
 [11] Source : http://www.doublage.qc.ca/statistiques.html (pour la semaine du 14 au 21 septembre 2000).
 
-
-
-
 [12] Les téléséries doublées au Québec, en 1999, étaient <em>North of 60, King of the Hill, The Simpsons</em> et <em>Ally McBeal.</em> (http://www.doublage.qc.ca/)
-
-
-
 
 [13] Cet accent rappelle vaguement le stéréotype du Français véhiculé par le personnage du cuisinier dans la télésérie québécoise <em>Chez Denise,</em> diffusée au Québec dans les années 1970.
 
-
-
-
 [14] L’acteur-doubleur qui fait la voix d’Homer Simpson se trouve à faire aussi celles de Mel Gibson et de Nick Nolte.
-
-
-
 
 [15] Fille d’un dialoguiste et adaptateur pour le cinéma.
 
-
-
-
 [16] À ce sujet, très peu de Québécois savent que le film <em>Les Lavigueur déménagent</em> est en réalité néérlandais.
-
-
-
 
 [17] C. Tellier (<em>ICI,</em> 6 mai 1999) exprime son désaccord face à une langue (le français québécois) qui n’est sûrement pas parlée dans les cabinets d’avocats, en parlant du doublage d’Ally <em>McBeal,</em> une télésérie tragicomique ayant pour cadre une firme d’avocats.
 
-
-
-
 [18] Source : entrevue Cinélume, http://www.films.qc.ca/adaptateur.html
-
-
-
 
 [19] Toutes les transcriptions ont été effectuées par l’auteur.
 
-
-
-
 [20] Par exemple, la diffusion de la version française de la série <em>Sex In The City</em> pendant la saison 2001-2002 a été amputée de 5 minutes pour laisser plus de place à la pub.
-
-
-
 
 [21] Matt Groening, créateur du dessin animé, a lui-même dit en entrevue que <em>The Simpsons</em> était une série à contenu adulte, mais qui plaisait aussi aux enfants.
 
-
-
-
 [22] E. Chouvalidzé, lors d’une entrevue télévisée, mentionnait « la menace de l’anglais qui nous guette » et de la « protection » qu’offre le doublage.
 
-
-
-
 [23] Selon le même auteur, citant un des membres de l’industrie de la télévision, l’italien moderne s’est affirmé grâce au doublage. En effet, toutes les séries italiennes, même celles avec des acteurs italiens, étaient « doublées » en utilisant une forme standardisée basée sur le dialecte romain.
-
-
-
 
 ----
 

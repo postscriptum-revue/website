@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p><em>Dans son roman <u>Mes bien chères sœurs</u>, Chloé Delaume appelle à une restructuration du féminisme et de l’amitié féminine, autour du terme de sororité. Cette notion occupe une place très spécifique, et a un impact très particulier, dans un contexte d’échanges entre femmes violées. C’est le cas dans <u>Nous sommes les oiseaux de la tempête qui s’annonce</u>, où Lola Lafon concrétise le lien sororal. Nous verrons que l’affection que ces femmes se portent leur permet de faire face à un imaginaire misogyne, qui imbibe notre société, nos systèmes discursifs et juridiques. Cette notion permet de conceptualiser de façon innovante l’amitié entre les femmes, dans le cadre de notre rapport au langage, et du rôle du littéraire dans la création de nouvelles visions sociétales. </em></p>
 
-
 ----
 
 abstract_en: <p><em>In <u>Mes bien chères sœurs</u>, Chloé Delaume urges women to take into account the notion of sorority to (re)conceptualize feminism and friendship between women. The impact of this terminology is particularly interesting in a context of a friendship between women victims of rape. Lola Lafon, in <u>Nous sommes les oiseaux de la tempête qui s’annonce</u>, illustrates the specificity of the relationship implied by the word “sorority”. In this essay, we will analyze how their affection allows them to face a misogynist imaginary, which has deep roots in our western society, in our discursive and juridical systems. With this work, we will be able to analyze the female friendship through an original angle, which includes our relationship to language, and the role of literature in creating new social visions. </em></p>
-
 
 ----
 
@@ -59,7 +57,6 @@ text: <p>Le viol est central dans <em>Nous sommes les oiseaux de la tempête qui
 <h3>Conclusion</h3>
 <p>Les liens sororaux sont une forme différente d’amitié, qui se développent dans un entre-soi féminin, et qui sont un outil de réappropriation du langage pour les femmes victimes de violence sexuelle, une première étape de libération de la parole qui, en libérant l’écoute, peut donner une force hors des circuits juridiques, parfois défaillants, toujours émotionnellement lourds. Ces liens sororaux ne sont pas utopiques, ils fleurissent depuis quelques années, à travers un nombre grandissant de productions culturelles : des podcasts, des livres, des pièces de théâtre, mais également dans les discussions de la vie quotidienne. La littérature a donc également un grand rôle à jouer, en tant que lieu de création et de consolidation de nouveaux mythes, et surtout en tant que lieu par excellence de l’utilisation du langage. Grâce à ces productions, le langage masculin, le silence et les formulations policées peuvent, tranquillement, être envoyés dans la marge. Nous le voyons de manière très concrète : la tempête annoncée par le titre du roman de Lola Lafon, mise en scène dans les dernières pages, aura lieu six ans plus tard, avec le mouvement #MeToo. Plus qu’un simple médium prophétique, le livre s’est inscrit dans la chaîne des productions culturelles ayant permis l’émergence de ce mouvement. La honte imposée par une logique n’a de sens que dans une société dominée par une gestion patriarcale, et c’est bien une autre logique que nous proposent ces autrices. Il a toujours été essentiel d’utiliser les bons mots, mais notre époque et notre situation géographiques nous offrent, peut-être pour la première fois, le contexte global nécessaire pour le faire. Alors disons-le, un viol est un viol, une amie peut-être une sœur, et je laisserai les mots de la fin à C. Delaume, en me permettant de mettre sa formule au pluriel : « Utiliser ce[s] mot[s], c’est modifier l’avenir » (Delaume 2019, 104).</p>
 
-
 ----
 
 references: 
@@ -87,23 +84,13 @@ Rey-Robert, Valérie. <em>Une culture du viol à la française: du « troussage
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Le nom est choisi en référence à Voltairine de Cleyre, militante, théoricienne, et écrivaine anarchiste féministe (1866-1912).</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Notons bien que les conséquences sont loin d’être absurdes, elles sont enclenchées par des systèmes qui relèvent de l’absurde.</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> “<em>imagined orders</em>” (Harari 2015)</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Notons que si toutes les femmes ne croient évidemment pas par essence le récit des autres, je m’autorise à généraliser au vu de la part de croyance – féminine - et de remise en question – masculine – des récits lors de #MeToo (et lors des affaires d’agressions sexuelles en règles générales), qui laissent peu de place au doute.</p>
 
-
 <p><a href="#sdfootnote5anc" name="sdfootnote1sym">[5]</a> Phrase extraite de l’appel à communication du colloque sur l’amitié de Post-Scriptum</p>
-
-
-
-
-
-
 
 ----
 

@@ -16,14 +16,12 @@ abstract_fr: <p>Françoise Vergès, philosophe et militante féministe décol
 <p>C’est le concept d’« autodéfense », qui se retrouve au cœur de la réflexion de Dorlin, qui nous permettra de problématiser l’expérience vécue de la peur dans un monde patriarcal où sexisme, racisme et colonialisme reconduisent une violence dont les femmes sont les principales victimes. À cette fin, nous mettrons en scène le corps féminin armé d’un sifflet de protection pour introduire un dialogue entre étude phénoménologique, essai philosophique et fiction, à travers le prisme du féminisme décolonial. L’autodéfense est ici présentée comme philosophie et politique pour une solidarité globale, ainsi que comme invitation à la résistance devant toutes les formes de violence systémique.</p>
 <p>Mots-clés : Violences, autodéfense, femmes, décolonialisme</p>
 
-
 ----
 
 abstract_en: <p>This paper considers the recent feminist and decolonial philosophies of violence to formulate a critical approach to the concept of “self-defense” – <em>autodéfense</em> – as termed by thinker Elsa Dorlin in <em>Se défendre: une philosophie de la violence </em>(2017). Like feminist philosopher Françoise Vergès, Dorlin takes on the decolonial work of French psychiatrist and revolutionary Frantz Fanon to articulate a feminist theory of violence by mobilizing phenomenology, political science, sociology and, to some extent, fiction.</p>
 <p>To the question asked by Vergès in her latest essay <em>Une théorie féministe de la violence </em>(2020); concerning how we can imagine a world in which violence is not the central feature of the dominant narrative, we will attempt to answer, writing through the intersections between phenomenology, fiction, and political science. Our point is that a critical conceptualization of self-defense for marginalized bodies such as female ones who experiment and channel daily forms of violence – sexual, physical, structural – through a decolonial and feminist approach can do more than give an understanding of those lived experiences. It can help us imagine a post-colonial, post-patriarchal and, ultimately, post-violent world organized and based on global solidarities.</p>
 <p>Starting with the personal experience of the female body “armed” with a protective whistle, we will navigate the different ways in which this body apprehends the world, lives through fear and daily violence, and can ultimately find power in self-defense. A dialogue between the personal and the political will lead us to a decolonial feminist theory and praxis to actively fight patriarchal violence.</p>
 <p>Keywords: Violence, self-defense, women, decolonialism</p>
-
 
 ----
 
@@ -67,8 +65,6 @@ text: <p>Dans <em>Chicas Muertas</em><a href="#_ftnref1" name="_ftn1">[1]</a>, l
 <p>Pour toutes les survivantes, pour celles dont le corps n’habitera plus jamais le monde de la même manière, pour celles qui sont mortes, et pour celles dont les récits de violences quotidiennes alimentent la rage dans le ventre, Elsa Dorlin reprend les mots de la poétesse africaine-américaine June Jordan, victime de viols ayant elle aussi puisé dans son expérience pour théoriser la défense de soi. Pour Jordan, c’est une forme de conscience politique bien particulière qui peut paver la voie à la « restauration de la puissance d’agir » des femmes (Dorlin 2017, 171) : </p>
 <p>[la] question n’est pas d’être en sécurité dans un entre-soi fantasmatique, mais de construire et de créer des territoires depuis lesquels politiser, capitaliser, de la rage pour déclarer et mener la lutte […]. June Jordan en appelle à créer d’autres formes de communauté, coalisées non pas sur le fondement d’un sujet rassuré, mais sur un <em>engagement enragé au combat</em> (<em>Ibid., </em>173)<a href="#_ftnref10" name="_ftn10">[10]</a>. </p>
 <p>Pour que des fictions inspirées de faits vécus comme <em>Chicas Muertas </em>n’aient pas besoin d’être écrites, c’est le récit qui doit changer. On ne peut plus nous présenter exclusivement des femmes qui meurent, et dont les corps ne sont plus que les derniers témoignages des ravages qu’une société sexiste peut causer, ou encore la pellicule sur laquelle apparaît le type de « résistance » auquel nous avons été socialisées en tant que femmes, c’est-à-dire une résistance non-violente « dans la forme d’une endurance sans fin » qui ne fait qu’user les communautés (<em>Ibid., </em>149). Il nous faut des modèles d’autodéfense, des corps-sujets qui ne s’arment pas contre eux-mêmes, des images et des mots de lutte communautaire et décoloniale, ainsi que des fictions mettant en scène des femmes qui se battent pour ne plus avoir peur. Alors je cesserai d’avoir des rêves d’inaction dans lesquels je ne réussis pas à crier, fuir ou à me battre contre un agresseur imaginaire; alors je cesserai de crisper les doigts autour d’un sifflet qui ne me protège pas, mais me dépouille d’une confiance en mon corps, d’une puissance d’agir et d’une conscience politique; alors je lutterai aux côtés de toutes celles qui n’ont plus rien à perdre et la peur changera de camp.</p>
-
-
 
 ----
 
@@ -124,43 +120,23 @@ Zahavi, Helen. <em>Dirty Weekend. </em>New York : Macmillan, 1991.
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Fiction journalistique publiée en espagnol en 2014 par Selva Almada et traduite en anglais sous le titre Dead girls en 2020. C’est l’édition anglaise que nous utilisons dans cet article.</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Voir le dernier état des lieux d’ONU Femmes pour des statistiques à jour sur ce phénomène mondial (novembre 2019, en ligne).</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Voir <em> Phénoménologie de la perception </em>de Maurice Merleau-Ponty (1945) pour une description des étapes de l’appréhension du monde par l’intermédiaire des sens et du contact entre le corps et son environnement (stimuli externes, présence des autres, expériences physiques, etc.)</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Dans sa thèse de doctorat portant sur les héritages du fanonisme dans la pensée postcoloniale d’aujourd’hui, Mathieu Renault offre une analyse détaillée de la dialectique fanonienne de la violence coloniale qui se transpose entre les corps et les espaces pour suggérer la forme « énergétique ».</p>
-
 
 <p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a>Les textes réunis dans l’ouvrage <em>Pour la révolution africaine, </em>publié une première fois aux éditions François Maspero en 1964 à titre posthume – Fanon est décédé en 1961 – furent écrits de 1952 à 1961, les années les plus actives du psychiatre martiniquais. Le concept de « mort quotidienne » apparait pour la première fois dans l’article <em>Le « syndrôme nord-africain »</em> publié en 1952 dans la revue <em>Esprit.</em></p>
 
-
 <p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Dans le texte <em>Nécropolitiques, </em>Achille Mbembe interroge, à la suite de la pensée décoloniale de Fanon, les rapports entre violence coloniale, souveraineté et politiques mortifères pour dégager un type de pouvoir sur la vie propre à la colonialité. Les nécropolitiques contraignent certains corps à n’être souverains que dans la lutte contre la mort, et libres que dans la mort elle-même.</p>
-
 
 <p><a href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> Dans <em>Les Damnés de la terre, </em>le psychiatre créé le parallèle entre les conditions de vie asphyxiantes du colonisé et sa vie psychique : « la première chose que l’indigène apprend, c’est à rester à sa place, à ne pas dépasser les limites. C’est pourquoi les rêves de l’indigène sont des rêves musculaires, des rêves d’action, des rêves agressifs. […] Pendant la colonisation, le colonisé n’arrête pas de se libérer entre neuf heures du soir et six heures du matin » (53).</p>
 
-
 <p><a href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> Théorisé par la penseuse noire américaine Kimberlé Crenshaw en 1989, l’intersectionnalité est un concept devenu approche critique qui prend en compte les différentes formes et strates d’oppression subies par certains individus et certains groupes, oppressions qui contribuent à la construction d’une identité sociale et politique qui déterminent une place dans le monde.</p>
-
 
 <p><a href="#sdfootnote9anc" name="sdfootnote9sym">[9]</a> Mon emphase.</p>
 
-
 <p><a href="#sdfootnote10anc" name="sdfootnote10sym">[10]</a>Mon emphase. Voir aussi le dernier ouvrage de Judith Butler <em> The Force of Nonviolence</em> (2020), pour une théorisation d’une politique et d’une éthique de la non-violence fondée sur une forme similaire d’engagement « agressif » au combat, mais sans user des mêmes armes que l’oppresseur. Butler utilise le terme « aggressive nonviolence » pour conceptualiser un engagement actif et non passif envers la pratique de la non-violence en société.</p>
-
-
-
-
-
-
-
-
-
-
-
 
 ----
 

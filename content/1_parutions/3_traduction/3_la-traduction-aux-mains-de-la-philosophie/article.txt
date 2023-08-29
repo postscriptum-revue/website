@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’objet de cet article est de poser les bases d’une théorie généralisée ou non-philosophique de la traduction, susceptible non seulement de saisir le jeu complexe des manipulations auquel le philosopher soumet le traduire, mais aussi de s’y soustraire radicalement. En effet, sous couvert de réfléchir le donné de la traduction, la philosophie en opère une ré-interprétation dont il convient de montrer les limites. C’est donc à définir le « système des déformations » (Berman) qu’un certain nombre d’entreprises philosophiques (les herméneutiques philosophiques de Schleiermacher et de Gadamer, la théorie benjaminienne et sa re-traduction derridienne) imposent à ce donné que nous nous emploierons. Deux grandes tendances se dessineront alors : 1) une idéalisation du traduire qui se trouve inclus dans l’interpréter ; 2) une matérialisation du traduire qui, s’il acquiert de fait une certaine autonomie par rapport à l’Être, retombe dans une inquiétante proximité avec l’Autre.</p>
 
-
 ----
 
 abstract_en: <p>The purpose of the present article is to lay the foundations of a generalised or non-philosophical theory of translation which describes the way philosophy manipulates translation yet does not participate in its complex game of manipulation. In the guise of reflecting translation, philosophy proceeds instead to a peculiar re-interpretation whose limits have to be clearly delineated. Therefore, characterising the “system of deformations” (Berman) that a certain number of philosophical enterprises (Schleiermacher and Gadamer’s philosophical hermeneutics, Benjamin’s theory of translation and its re-translation by Derrida) imposed on translation will be our main concern. Two main tendencies will come through : 1) an idealisation of translation which happens to be included within interpretation ; 2) a materialisation of translation which sinks back into a strange proximity with Otherness while gaining a certain autonomy vis-à-vis Being.</p>
-
 
 ----
 
@@ -40,8 +38,6 @@ text:
 <p>Enveloppant l’ensemble du commentaire derridien, la métaphore maritale (« contrat de mariage », « hymen », « robe de mariage », etc.) recouvre le(s) couplet(s) de terme (Corps/Manteau, Signifié/Signifiant, Original/Traduction, etc.) sans toutefois les totaliser ni les opposer. Produit de (synthèse de) l’activité déconstructrice de traduction, cette métaphore prolonge ou fait croître la perspective de l’unification dans la différence en renforçant, mieux en « re-marquant » le motif naturaliste de la « généalogie et de l’héritage ». En outre, le schème « scholastico-phénoménologique » de la « visée intentionnelle » permet de mettre entre parenthèses l’unité ou le visé en les faisant justement « flotter » dans le fil de leur propre intention, en maintenant la diversité des langues dans une unité-signifiant (« <em>les</em> langues », l’« être-langue de la langue ») suffisamment immanente et dispersive pour ne pas reconstituer un sens transcendant. En somme, l’œuvre traductrice de la déconstruction derridienne s’insinue par la brèche de l’incomplétude de la tour de Babel, de la traduction, de l’original, etc., qu’elle aggrave en la faisant proliférer jusqu’à l’équivoque généralisée (Derrida 1987 : 203-204). Ce faisant, elle tisse sa propre œuvre d’unification-traduction dans l’entre-deux de la différence qu’elle enveloppe du voile diaphane de ses noces. Ayant la particularité d’être <em>flottant,</em> ce voile non seulement réunit sous lui les couplets de termes sans les contraindre ni à l’opposition ni à la totalisation, mais trouve, par là même, les conditions de sa propre originalité.</p>
 <p>Au regard des analyses précédentes, il est possible de généraliser les catégories de l’IRT et du MRT en insistant sur ce qu’elles oublient. En effet, tout l’intérêt de la distinction entre auto-traduction et hétéro-traduction par rapport aux doublets philosophiques traditionnels (Verres transparents/Verres colorés, Sourcier/Cibliste, Traduction restreinte/Traduction généralisée, etc.) réside dans le fait qu’elle prend en compte le continuum de ses altérations. Ainsi, sous sa forme généralisée, l’idéalisme de la traduction désigne non seulement l’inclusion totale de l’altérité du traduire dans l’idéalité du sens mais également les figures de son inclusion réduction partielle dont celles, déjà entrevues, de la capitalisation et de l’aggravation. De même, sous sa forme généralisée, le matérialisme de la traduction ne décrit plus uniquement l’exclusion totale de la traduction de l’horizon du philosopher. Il regroupe également les figures de l’oubli partiel du traduire par le philosopher à l’image du rapport de parenté dans la nostalgie de la langue parfaite et de son accroissement dans le <em>double lien</em> derridien. Accroissement singulier dont nous avons montré qu’elle consistait à accentuer le défaut ou la dette de l’original au point de compliquer la traduction à sa limite. En outre, IGT et MGT déploient, chacun sur son registre, une temporalité et une spatialité philosophiques spécifiques. Tandis que le premier opère sur le mode de l’anticipation et envisage le langage sur un plan essentiellement conceptuel, la seconde pratique plus volontiers le geste de la remémoration [7] et reconnaît une immanence au langage qui se voit ainsi doté d’une « matérialité », d’une « épaisseur » ou d’une « profondeur ». Précisons qu’à cette double détermination il faudra désormais ajouter toutes les nuances que rend possible notre nouvelle distinction. Systématisant l’ensemble des aspects de la manipulation philosophique de la traduction, l’IGT et le MGT, loin d’être antinomiques, constituent les deux faces d’un même retournement, autant dire qu’ils sont traductibles l’un dans l’autre. Les notions de <em>Schwankung, Wendung, double lien</em> ou même de <em>Kehre</em> [8] disent la tension structurelle qui traverse toute philosophie (de la traduction).</p>
 <p>Plus fondamentalement, l’IGT et le MGT masquent (ou hallucinent) de toute leur imperfection les termes de ce que nous poserons comme étant une théorie généralisée ou non-philosophique du traduire philosophique. Restreignant le traduire à la technologie de son effet sur l’original (Dédoublement, Potentialisation, Embellissement, Accroissement, etc.), l’IGT n’est jamais en mesure de lui accorder une autonomie réelle encore moins de lui conférer le bénéfice d’une activité transcendantale. Une théorie généralisée du traduire philosophique commencera donc par distinguer les effets de l’auto-traduction de l’original par rapport à l’identité transcendantale du traduire. Dès lors, il s’agira de penser sans confusion d’un côté l’autonomie radicale de l’original en évitant de le livrer aux effets de sa prétention philosophique (Hypostase platonicienne, Essentialisme, Sacralisation, etc.) et, de l’autre, l’autonomie relative de la traduction en lui conférant une identité à part entière. Celle-ci ne sera donc ni un effet de l’auto-traduction de l’original, ni d’ailleurs un symptôme de l’autre-traduction. Pour sa part, le MGT se signale par son incapacité à saisir l’étrangeté radicale de la traduction sans la rapporter à son manque et aux figures de sa symptomatologie (Oubli, Symptôme, Aventure, Proximité, etc.). Figures qui portent et même font progresser le mystère de l’Autre transcendant dans la finitude de leur corps littéral (Croissance, Continuité, Endettement). Une théorie généralisée du traduire philosophique fera ainsi l’hypothèse éminemment éthique d’une altérité du traduire tellement radicale qu’elle finira par échapper à la dialectique historico-philosophique de son oubli et de sa remémoration.</p>
-
-
 
 ----
 
@@ -67,51 +63,23 @@ references:
  	<li>___, <em>Des différentes méthodes du traduire,</em> traduction de l’allemand par Antoine Berman et Christian Berner, Paris, Éditions du Seuil (Points édition bilingue), 1999.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Docteur en philosophie, Sathya Rao est affilié au Département de philosophie ainsi qu’au Centre de Recherche et d’Études sur la Traduction (CERT) de l’Université de Paris X Nanterre.
 
-
-
-
 [2] Ce terme renvoie aux travaux de François Laruelle auxquels nous nous rattachons, mais que nous ne réquisitionnerons ici que de façon restreinte.
-
-
-
 
 [3] Insistant sur le parallèle relevé précédemment, nous pourrions ici tout aussi bien dire en l’« organisant », au sens aristotélicien de « transformer en instrument » où l’entend Schleiermacher.
 
-
-
-
 [4] Sur ce point, nous nous rapprochons de l’analyse de Jean Grondin établissant l’existence d’un « tournant » (<em>Wendung)</em> linguistique dans l’herméneutique gadamérienne (<em>cf.</em> Grondin 1999 : 190-191). Distinct de la <em>Kehre</em> heideggérienne, ce tournant opère le passage d’une conception transcendante de la langue à une conception quasi immanente du langage. C’est sous cette seconde détermination que la traduction prend un relief particulier.
-
-
-
 
 [5] Il est possible de trouver les bases d’une théorie lévinassienne de la traduction dès la <em>Préface aux quatre lectures talmudiques.</em> Dans cet ouvrage, le propos est de « traduire en grec la sagesse du Talmud », c’est-à-dire de sortir le juif de son particularisme territorial en lui conférant une « universalité concrète » qui, tout en l’affectant dans sa corporéité, ne le perde pas dans son abstraction. S’agissant du motif de la « traduction », dont nous prétendons qu’il a une importance centrale dans l’œuvre de Lévinas, nous renvoyons à l’ouvrage de Robert Gibbs (1992).
 
-
-
-
 [6] À ce propos, il y aurait à formuler les bases d’une « linguistique négative de la traduction » dont l’objet serait de décrire les différentes façons qu’une certaine philosophie judaïque de la traduction (et plus généralement du langage) a de faire signifier l’Autre par son manque (Défaut, Symptôme, Milieu, Continuité, Trace, etc.).
-
-
-
 
 [7] On évoquera ici le souvenir emblématique du regretté Antoine Berman qui, rappelant le très « vieux lien » entre le philosopher et le traduire dans la <em>Traduction et la lettre ou l</em>’<em>auberge du lointain,</em> prenait Benjamin et Heidegger à témoin.
 
-
-
-
 [8] S’agissant du rapport d’intimité entre traduction et <em>Kehre</em> heideggérienne, la remarque d’Éliane Escoubas s’avère particulièrement éclairante : « Il est essentiel que la “traduction” trouve une seconde mise en œuvre dans la question posée au début des années 50 : “Qu’appelle-t-on penser ?” (qui en outre rassemble Parménide et Nietzsche) —et peut être son ultime déploiement dans “Le principe de raison” (1956) au sein de l’articulation “traduction-tradition”— (<em>Übersetzung</em>-<em>Überlieferung)</em> ; aussi poserons-nous que la thématique de la traduction constitue la relève de la thématique de l’herméneutique dont la disparition, ou la transformation, après <em>Sein und Zeit,</em> est soulignée par Heidegger lui-même […] » (Escoubas 1989 : 99-100).
-
-
-
 
 ----
 

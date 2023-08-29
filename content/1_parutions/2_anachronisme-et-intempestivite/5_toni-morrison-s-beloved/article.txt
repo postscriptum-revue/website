@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans Beloved l’auteure afro-américaine Toni Morrison explore encore une fois la problématique qui définit et caractérise son œuvre, notamment la relation entre la représentation des Afro-Américains dans des récits historiques et leur inscription dans l’historiographie traditionnelle. Les histoires et l’acte de narration en soi deviennent des outils créateurs d’espaces imaginaires qui contiennent, assurent et nourrissent l’existence de Beloved en tant que texte porteur d’un sens élusif et cristallisant la mémoire d’une communauté. Beloved, l’enfant-fantôme, est en effet une présence anachronique et intempestive qui actualise un passé n’ayant jamais été dissipé par des notions linéaires du temps.</p>
 
-
 ----
 
 abstract_en: <p>Beloved definitely makes patent Morrison’s concern with issues connected with historical writing—particularly the relation between fact/history and fiction—and the representation of African Americans in historical accounts. Storytelling becomes in this novel the tool used to build an environment that “contains,” secures and nurtures her existence as a text carrying an elusive meaning and crystallising the community’s silenced memory. Beloved, the anachronistic ghost child now a mysterious adult woman, presents herself as embodying “untimeliness” for she is the actualisation of a past that refuses to be encapsulated by linear notions of time.</p>
-
 
 ----
 
@@ -47,8 +45,6 @@ partake of both African and European traditions that in America have been transf
 <p>In <em>Beloved,</em> each storyteller has an audience at two narrative levels : the various characters at the textual level and the reader/listener at the extratextual level. Each character takes turns to perform the roles of storyteller and audience ; in narratological terms, each performs alternatively the functions of narrator and narratee. The reader can be considered as the recipient of the “macrostory” that encapsulates all the “microstories”. The narrative levels are nevertheless not clearly divided. Whenever there is no identifiable audience at the textual level for a given act of storytelling, the reader becomes an active auditor/listener. The text thus evinces a typically postmodern multiplication of narrative instances and a multiplicity of narrators and narratees that exchange roles. As Philip Page states, the novel’s concern with the past as revealed through storytelling shows “the lingering internal problems of recreating a self in the shadow of the horrors of the past. The process of self-recovery requires the telling of one’s story, the listening to one’s telling, and the listening to other’s similar tellings. The fragments are fused in the process” (154). Actually, fragmentation and indeterminacy in the narrative thread call for an active and creative participation on the part of the reader/audience, and the interaction between the storyteller and audience are fused in the process. The fusion of fragments is brought about by the interaction between the storyteller and the audience. In a very postmodern way, the audience must fill in the gaps, holes, silences, elucidate the many absences, and cope with the unstable, fragmented, indeterminate and sometimes chaotic fictional cosmos. Indeed, the audience cooperates in the joint enterprise of re-constructing meaning and it becomes a sort of chorus that participates in the call-and-response songs, in dances and in making sense out of the story told. In <em>The African Continuum and Contemporary African American Women Writers,</em> Marion Kraft rightly states that “the traditional African chorus in contemporary Black women’s novels and other writings is formed by the narrative voice, the voices of the characters and the community (within and outside the text) for all of whom the author acts as a medium in the actual performance” (27).</p>
 <p><em>Beloved</em> definitely makes patent Morrison’s concern with issues connected with historical writing — particularly the relation between fact/history and fiction— and the representation of African Americans in historical accounts. As a ghost Beloved is silence and absence. Once she makes her existence visible as an anachronistic presence —a presence that adopts “une attitude intempestive”— she elicits an alternative way of legitimating and voicing the eccentric stories left out by official historical accounts. Storytelling then becomes the tool used to build an environment that “contains,” secures and nurtures her existence as a text carrying an elusive meaning and crystallising the community’s silenced memory. Beloved, the anachronistic ghost child now a mysterious adult woman presents herself as embodying “l’intempestivité” for she is the actualisation of a past that refuses to be encapsulated by linear notions of time.</p>
 
-
-
 ----
 
 references: 
@@ -69,16 +65,9 @@ references:
  	<li>PAGE, Philip, <em>Dangerous Freedom : Fusion and Fragmentation in Toni Morrison</em>’<em>s Novels,</em> Jackson, University Press of Mississippi, 1995.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] <em>Beloved</em> is set in 1873, ten years after Emancipation. Margaret Garner/Sethe’s murder of Beloved is set eighteen years before the present of narration, i.e., around 1855 ; five years before the “Fugitive Slave Law” had been passed by Congress.
-
-
-
 
 ----
 

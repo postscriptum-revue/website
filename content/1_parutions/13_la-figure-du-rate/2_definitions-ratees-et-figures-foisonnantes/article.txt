@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La figure du geek, qui se spécialise dans un créneau pointu dans un but de contrôle totalisant, est propice à la constitution de listes. Que ce soit par le désir collectionneur de connaître tous les noms des Pokemons, ou par la certitude obsessive de ne jamais être surpris par une nouvelle carte Magic, le geek compile un savoir en maîtrisant l’énumération de ses catégories. Il ne s’agit que de parcourir les Simpsons Archives pour comprendre l’ampleur que peut prendre le projet de tout répertorier. Wikipédia en soi, n’est qu’une gigantesque méta-liste, un rappel direct au projet de Diderot et d’Alembert. Mais c’est en étudiant la définition possible de la figure du geek que j’ai constaté l’importance primordiale que prend la liste à même la constitution de la figure. Emmêlé à un vocabulaire stéréotypique, le mot « geek » est en manque d’une définition consacrée. D’un dictionnaire à l’autre, d’une encyclopédie à la suivante, les définitions s’accumulent. Pour ajouter à la confusion, la popularité du terme couplée avec le flou sémantique qui l’entoure ont engendré toute une catégorie de tests et de quiz, sous forme de listes de questions, qui tentent de quantifier à quel point le lecteur est geek. Que ce soit sous la forme du Geek Test et du Geek Code, deux institutions responsables en partie d’avoir rescapé l’appellation geek du domaine de l’insulte, ou sous la forme de Are You a Geek ?, un livre qui brille par son usage abusif des stéréotypes qui ont donné au geek sa mauvaise réputation, la liste est au premier plan de l’effort de définition. Le geek, à la fois par et pour la liste, permet de réfléchir le rapport qu’entretient la totalisation avec la figure. La liste peut-elle agir en guise de définition ? Ne serait-elle pas plutôt le symptôme de l’échec de constitution d’une figure ? Sa prolifération n’est-elle pas l’inverse de la concision offerte par le recourt à la figure ? Peut-être que le stéréotype, cette réduction à quelques aspects exagérés, serait, à la base, une figure ratée.</p>
 
-
 ----
 
 abstract_en: <p>Specialising in well-defined niches towards a totalising goal, the geek figure is often linked to the process of list creation. From the collector’s desire to know all of the Pokemon names to the obsessive certainty of never being surprised by a new Magic card, the geek compiles knowledge through the mastery of its categories’ enumeration. A mere glance at the Simpsons Archives obviates the scope of projects aiming at complete itemization. Wikipedia in itself is nothing other than a gigantic meta-list, a contemporary mirror of Diderot and Alembert’s project. But it is while studying the possible definition of the geek figure that I realised the primordial importance that the list takes at the very heart of the figure’s constitution. Enmeshed in a stereotypical vocabulary the word « geek » lacks a consecrated definition. From dictionary to dictionary, encyclopaedia to encyclopaedia, the definitions accumulate. To add to the confusion, the popularity of the term, coupled with its fuzzy semantics have bred a litany to tests and quizzes, themselves composed of lists of questions, each trying to quantify the level of geekness of the reader. From the Geek Test and the Geek Code, two institution responsible for saving the geek appellation from the realm of the insult, to Are You Geek ?, a book that repeatedly uses the stereotypes that have given the geek its damaged reputation, the list is found in the front lines of the definition effort. The geek, both by and for the list, allows for reflections on the relationship between the figure and totalisation. Can a list act as a definition ? Is it not rather the symptom of a figure’s failed creation ? Is not its proliferation the inverse of the concision offered by the use of the figure ? Perhaps it is that the stereotype, this reduction to a few exaggerated aspects is, at its core, a failed figure.</p>
-
 
 ----
 
@@ -74,7 +72,6 @@ Sam [frappe Neil]
 <p>Le <em>geek code</em> et le <em>geek test</em> ne sont pas les seules tentatives de définition du geek qui mènent à une liste foisonnante. Le bédéiste Scott Johnson propose un dessin intitulé <em>The 56 Geeks</em>, qui peut être consulté sur son compte flickr [7]. Cette typologie dessinée aborde le geek d’un angle ressemblant celui des premières lettres du <em>geek code</em>. Elle offre une liste de types, et l’article « the » du titre de l’œuvre suggère une sorte d’exhaustivité, comme si Johnson disait « voici LES 56 geeks ». Ce qui saute d’abord aux yeux est que l’ensemble de certaines catégories implicites aux deux autres listes est maintenant explicitement présenté ; les jeux vidéo, les <em>comics</em>, la science-fiction et les jeux de rôles sont maintenant illustrés par une ou plusieurs caricatures. Mais au-delà de ces catégories plutôt typiques, on retrouve d’autres divisions plus générales. Le « photo geek », le « food geek », le « drama geek », le « book geek », le « film geek » et le « tv geek » pointent vers des passe-temps divers, n’ayant pas nécessairement été associés au stéréotype du geek. Lorsque se joignent à eux le « sports geek », le « travel geek », le « outdoor geek » et le « fitness geek », il devient tout à coup évident que n’importe quelle activité, même associée au pendant plus actif de la vie humaine, peut devenir geek. Le dessin de Johnson est plutôt un exercice de style qu’une étude rigoureuse et le registre saute de l’extrêmement particulier (les catégories « indy geek » et « potter geek ») au ridiculement général (les films et les livres). Mais ce dessin démontre, de façon plus nette que le foisonnement du <em>geek test</em>, que la figure du geek est en expansion et que le champ d’intérêt particulier devient secondaire à une seconde qualité, plus indéfinissable, qui concerne l’approche. Johnson s’inclut lui-même à la fin du dessin, un pinceau à la main, l’air épuisé, au-dessus de l’étiquette « geek geek ». Ainsi, il semble dire que n’importe quel individu qui approfondit un intérêt, avec un souci pour les moindres détails, tombe lui-même du côté des geeks. Le « beautiful all along » devient le « geek after all ».</p>
 <p>Y a-t-il donc quelque chose de profondément geek dans toute entreprise visant à définir le geek ? Peut-être est-ce là qu’on retrouve le ratage profond au sein même de cette figure. En tentant de se distancier du stéréotype voulant que le geek soit un raté <em>a priori</em>, le geek se bute à l’autoréférentialité de sa propre entreprise. Ainsi, la figure du geek est une figure ratée par le fait qu’elle ne permet aucune distance entre le sujet la constituant et l’objet qu’elle tente de définir. La liste est le symptôme de cet échec ; soit elle tombe dans la désuétude, comme pour le <em>geek code</em>, soit elle vit une expansion sans fin, renvoyant toujours à elle-même. Le seul point initialement accordé par le <em>geek test</em> est celui associé au fait d’aimer le <em>geek test</em>. Cette blague de la part de Beaudoin dépasse le simple clin d’œil pour devenir emblématique d’un retour sur soi inhérent à l’identité geek. Si le geek des années 90s était caractérisé par un manque de conscience de soi-même, la définition d’une figure du geek aurait inversé ce rapport vers une prise de conscience qui éclipse toute entreprise de définition. La publication tardive de livres comme <em>Are You a Geek ?</em> de Tim Collins apparaît donc comme la répétition de ce procédé. Ce livre, que j’ai acheté dans la boutique de souvenir du <em>MIT Museum</em>, répète la formule du <em>geek test</em>, accordant des points pour une série de caractéristiques censées définir si le lecteur est un geek. Jouant sur le stéréotype des années 1980 et 1990, Collins considère que chaque tache trouvée sur les vêtements que porte la personne répondant à son questionnaire vaut un point, que chaque gigaoctet de son lecteur mp3 en vaut un autre, qu’être vierge à 30 ans vaut 5 points. Cette liste de <em>non sequitur</em> mêlant l’offensant à l’étrange, démontre que même sans lunettes épaisses et sans avoir le livre de <em>Donjons et Dragon</em> à la main, le geek ne réussit pas à se défaire des stigmates de son passé par le biais d’un travail de définition. Pire encore, l’existence d’un tel livre et sa présence dans un lieu de fierté geek confirme que la liste appelle la liste, et que la figure du geek ratera toujours sa synthèse par le biais du sériel au sein de l’autoréférentiel.</p>
 
-
 ----
 
 references: 
@@ -97,46 +94,21 @@ references:
  	<li>SEÑOR BUEBO, <em>OrgulloFriki.com – La Web Friki Oficial del Día del Orgullo Friki</em> [En ligne], http://www.elmarginado.com/orgullofriki/index.htm, Page consultée le 25 août.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Je mets le mot en italiques pour souligner sa provenance anglaise, chose que je cesserai ensuite en but d’alléger la mise en page du texte. J’en profite pour souligner que ce mot manque à la langue de Molière et qu’il serait de mise d’inventer un terme en écho aux origines bas-allemandes du mot (geck) suivant les règles phonétiques de l’alphabet français, de la même façon que <em>nerd</em> deviens <em>nörd</em> en Suédois et <em>nørd</em> en Danois. Je propose « guique ».
 
-
-
-
 [2] Ce que j’ai fait ailleurs, voir (Faucher, 2010a). Je me suis également prêté à l’exercice pour le mot tronche dans (Faucher, 2010b).
-
-
-
 
 [3] http://www.imdb.com/title/tt0193676/. Étant donné que la majeure partie des œuvres traitées sont en ligne, les hyperliens seront inclus dans les notes en vue de faciliter la consultation des sources.
 
-
-
-
 [4] http://www.geekcode.com/geek.html
-
-
-
 
 [5] Le « y » à la fin du code signifie qu’on a affaire à un geek masculin.
 
-
-
-
 [6] http://www.innergeek.us/geek.html
 
-
-
-
 [7] http://www.flickr.com/photos/scottjohnson/2086153791/sizes/o/
-
-
-
 
 ----
 

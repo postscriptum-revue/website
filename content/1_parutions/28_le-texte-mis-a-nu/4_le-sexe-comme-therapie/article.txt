@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>C’est un je/u subversif d’écriture qui s’am/use du voyeurisme. Déployant une sexualité thérapeutique, l’écriture de et dans <em>Schoßgebete</em> de Charlotte Roche navigue entre confession, érotisme et violence. Incorporant le concept de corpographèse de Marie-Anne Paveau et Pierre Zobermann, vous analyserez cette écriture pour déterminer si la nudité corporelle du texte ne dissimule pas un conflit psychologique que l’écriture cherche à dépasser. Cette nudité érotique se dévêt en effet de diverses couches du sexe comme défouloir psychique, confession sensuelle et compromis féministe. L’écriture propose alors une conciliation voire une réconciliation de ces habits du sexe.</p>
 
-
 ----
 
 abstract_en: <p>It is a subversive I/eye writing and am/using /itself from/ voyeurism. The act of writing of and in Charlotte Roche’s <em>Schoßgebete</em>, deploying a therapeutic sexuality, steers between confession, eroticism, and violence. Incorporating the concept of Marie-Anne Paveau’s and Pierre Zobermann’s corpographesis, you will analyze this act of writing to ascertain if the corporeal nudity of the text is not concealing a psychological conflict that this act aims to exceed. In fact, this erotic nudity strips various layers of sex as psychic release, sensual confession, and feminist concession. The act of writing thus suggests reconciling, perhaps again, these sex’s clothes.</p>
-
 
 ----
 
@@ -62,7 +60,6 @@ text: <h3>Introduction</h3>
 <p>Ainsi, le texte ne s’interprète pas, il se dit ; le sexe ne se décrit pas, il se lit. Cette mise à nu du texte, cette mise en texte du sexe fait de <em>Schoßgebete</em> un roman d’un violent érotisme aux effets thérapeutiques. Loin d’une dualité texte-sexe irréductible, l’écriture travaille à récuser tout effet de binarité puisque, comme l’affirme la protagoniste: « C’est terrible, la prison de la monogamie! » (Roche, 2013 : 254; Roche, 2013 [2011] : 213).</p>
 <p>À la dernière page, vous, oui, vous devant le papier, ne froncez plus les sourcils, n’écarquillez plus les yeux : quelle fin! C’est un je/u de…sur les rôles.</p>
 <p>Depuis la dernière page, vous, oui, vous devant l’écran, ne froncez plus les sourcils, n’écarquillez plus les yeux : quel subterfuge! C’est un je/u du regard. Vo/i/eux/is/me. Voyeurisme érotique écrit.</p>
-
 
 ----
 

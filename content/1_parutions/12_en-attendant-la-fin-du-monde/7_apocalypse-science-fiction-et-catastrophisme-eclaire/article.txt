@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Au cours de son essai La Marque du sacré, Jean-Pierre Dupuy se donne pour tâche de penser l’Apocalypse, en particulier lorsqu’elle a partie liée avec les domaines climatique et énergétique. Pour ce faire, le philosophe interroge les fondements métaphysiques de notre rapport au temps et postule que le « temps du projet », réflexif, devrait se substituer au « temps de l’histoire », prospectif. Donnant suite à cette méditation, ma communication se propose d’étudier la proximité axiomatique qui s’établit entre la pensée dupuyenne et certains textes de science-fiction dits « apocalyptiques » d’une part, et d’autre part, les avantages existentiels éprouvés par le lecteur lorsqu’il se plonge dans ces fictions. Il m’a en effet semblé évident que la méditation de Dupuy ne pouvait éviter d’exhiber son talon d’Achille ; la réforme métaphysique tant attendue a pour vertu d’« obliger » l’individu à croire ce qui sous ses yeux, pour l’instant, ne relève que du savoir. Or, le philosophe passe sous silence ce que la réflexion de Jean-Marie Schaeffer n’a eu de cesse de démontrer ; lors de l’immersion fictionnelle, le lecteur croit, justement, à ce qu’il expérimente par le biais du récit. Finalement, j’aimerais montrer qu’en choisissant de projeter des individus fictionnellement « immergés » dans un avenir pré-apocalyptique conjecturé, certains romans de science-fiction peuvent conduire leur lectorat non plus à penser abstraitement ce « temps du projet », mais à le vivre pratiquement.</p>
 
-
 ----
 
 abstract_en: <p>In his essay, La Marque du sacré, Jean-Pierre Dupuy undertakes the task of thinking the notion of the Apocalypse, especially when it pertains to climate and energy concerns. In order to do this, the philosopher questions the metaphysical underpinnings of our relation to time and postulates that the reflexive “project time,” must replace the prospective “historical time.” Following this thought, my communication aims, on the one hand, to study the axiomatic proximity between the Dupuy’s philosophy and some science-fiction texts said to be “apocalyptic,” while on the other hand, to show the existential advantages felt by the reader when absorbed by these types of fictions. Indeed, it seemed obvious to me that Dupuy’s musing poorly hides its Achilles’ heel ; the waited upon metaphysical reform has the virtue of “forcing” the individual to believe in what he or she, for the moment, only knows. But the philosopher foregoes to mention what Jean-Marie Schaeffer has continually proven ; while enthralled by fiction, the reader believes, rightly, in the plot’s elements. Finally, I would like to show that by choosing to project individuals immersed through fiction into a conjured pre-apocalyptic future, some science-fiction novels can lead their readership not only to abstract the “project time,” but also to live it in a practical way.</p>
-
 
 ----
 
@@ -52,7 +50,6 @@ Inédit. C’est tout à fait inédit. Nous ne voulons pas croire ce que nous sa
 <blockquote><p>Afin de nous inciter à <em>veiller</em>, le catastrophisme éclairé, […], consiste à se projeter par la pensée dans le moment de l’après-catastrophe et, regardant en arrière en direction de notre présent, à voir dans la catastrophe un <em>destin</em> – mais un destin que nous pouvions choisir d’écarter lorsqu’il en était encore temps. (Dupuy 2009 : 46)</p></blockquote>
 <p>Faire un détour, conjecturé, vers demain pour revenir, réflexivement, à aujourd’hui – et ce, pour éviter que ce qui n’est pas encore un destin le devienne : voilà en somme ce que devrait être l’écologie politique pour le philosophe… Quant à moi, j’affirme à propos de toutes ces propriétés du catastrophisme éclairé, que la science-fiction, en particulier celle d’Eschbach, en a fait son cheval de bataille – structurel – depuis longtemps : elle nous a de tout temps révélé la folie scientifique, technologique et économique, des hommes. Et cette folie, cette violence, nous sommes tous invités, avant de la réprouver par nos actes, à l’exercer grâce aux vertus de l’immersion fictionnelle ou de l’enquête littéraire – par exemple en observant que si le champ pétrolifère Ghawar, prononcé « <em>Rawar</em> » (Eschbach 2009 : 437), venait à s’épuiser, c’est avant tout l’autoréférentialité, intelligemment illustrée par ce palindrome, de nos actions quotidiennes, qui s’effondrerait. Mais cette folie, justifiant la dimension toujours quelque peu apocalyptique de la science-fiction, n’est-elle pas due au fait que nos intentions, au départ, « <em>para[issent] petit[es] et inoffensi[ves]</em> » (Eschbach 2009 : 763) ?</p>
 
-
 ----
 
 references: 
@@ -75,61 +72,27 @@ references:
  	<li>TODOROV, Tzvetan, <em>La Littérature en péril</em>, Paris, Flammarion (Café Voltaire), 2007.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Et l’argumentaire complet y aboutissant pourra être consulté dans ma thèse de doctorat (cf. Atallah 2008).
 
-
-
-
 [2] Je rappelle que la conjecture est un processus logique complexe qui a pour propriété essentielle d’unir un état actuel de choses avec un autre, extrapolé rationnellement et réalistement (cf. Atallah 2008 : 270 – 277).
-
-
-
 
 [3] Il est à noter que le concept de « distanciation » conduit ontologiquement à cette fonction cognitivo-critique, tout en la légitimant ; le lecteur se référera par exemple à : (Atallah 2008 : 285 – 290).
 
-
-
-
 [4] La structure analogique qui unit mondes fictionnels à monde réel se comprend facilement, car tout récit imaginé suppose nécessairement d’être construit autour de ce qu’Esquenazi, à la suite de Thomas Pavel, désigne par la notion de « base réelle » (pour de plus amples précisions, voir : Esquenazi 2009 : 116).
-
-
-
 
 [5] À la suite d’Esquenazi, j’entends le concept de « paraphrase » comme la classe des jugements, opérés par le destinataire, qui consiste à considérer « <em>l’univers fictionnel [comme] une exemplification juste de [l’]univers réel [du lecteur] dans certains de ses aspects</em> » (Esquenazi 2009 : 158).
 
-
-
-
 [6] Une vérité fictionnelle est « <em>une proposition (i) concernant une situation de la réalité du destinataire, (ii) exemplifié (sic.) justement par un univers fictionnel, […] (v), médiatisée par un personnage fictionnel et (vi) énoncée par le destinataire du récit</em> » (Esquenazi 2009 : 174).
-
-
-
 
 [7] La « littérature écologique » étant pléthorique, je ne citerai ici que deux titres, particulièrement synthétiques, centrés autour de la fin du pétrole : (Jancovici &amp; Grandjean 2007) ; (Lefèvre-Balleydier 2009).
 
-
-
-
 [8] Que le lecteur m’autorise à ne proposer ici que trois pistes de lecture, choisies parmi l’immensité de ce que l’on pourrait appeler les « éco-fictions » : (Spinrad 2004) ; (Ecken 2008) ; (Eschbach 2009).
-
-
-
 
 [9] Afin d’être tout à fait rigoureux, il faudrait préciser que les récits de science-fiction ne situent pas tous leur intrigue dans un monde <em>futur</em> : certains, nommés « uchroniques », présentent des mondes possibles <em>passés</em> ou <em>présents</em> – l’origine temporelle de la conjecture se situant alors nécessairement dans un passé plus ou moins lointain par rapport à l’époque d’écriture. Je n’inclurai cependant pas cette catégorie de récits dans ma réflexion, car l’uchronie me semble devoir constituer un genre littéraire spécifique – tout comme l’utopie et la dystopie (cf. Atallah 2008).
 
-
-
-
 [10] Je rappelle que l’utilisation de tels segments participe d’une des multiples stratégies préconisées par les auteurs de science-fiction, grâce à laquelle ils incitent leurs lecteurs à saisir la conjecture – souvent exprimée sous forme de néologismes – à la fois de manière intelligible et dans les relations qu’elle tisse avec le monde réel. Pour de plus amples précisions, je renvoie l’intéressé à : (Saint-Gelais 1999).
-
-
-
 
 ----
 

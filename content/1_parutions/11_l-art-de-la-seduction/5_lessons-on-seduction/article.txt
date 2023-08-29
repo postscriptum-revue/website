@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article est censé trouver les convergences et divergences entre les figures de séductrices des récits du XXe siècle et celles des siècles précédents (XVIIIe et XIXe). L’article étudie ce genre de figure dans des conte et des romans contemporains écrits par José Saramago (Portugal), Milan Kundera (République Tchèque/ France) et Guillermo Samperio (Mexique). Le texte de Lydia Vázquez (Espagne) sur la séduction est la source principale de cette étude, afin de présenter une proposition différente des celles canoniques de Baudrillard ou de Kierkergaard.</p>
 
-
 ----
 
 abstract_en: <p>This article is meant to find the convergences and divergences between seductress figures in XXth century narratives and those of former centuries (XVIIIth and XIXth). It studies this kind of figure in a contemporary short story and a novel by José Saramago (Portugal), in Milan Kundera (Czech Republic/ France) and in Guillermo Samperio (Mexico). Our main source for this study, will be Lydia Vázquez’s (Spain) work on seduction, in order to present a different proposal from the canonic ones offered by Baudrillard or Kierkergaard.</p>
-
 
 ----
 
@@ -92,8 +90,6 @@ text:
 <p>Maria Sara (Saramago) may not fit into this kind of seductress, but she certainly seduces Raimundo Silva, whose imagination is to blame. This could be another way to approach the theme of seduction in literature, studying its relation with imagination.</p>
 <p>Divergences with former seductress models were also found, as the fact that self-seduction or a narcissistic form of seduction noted in Nana, is not present in the contemporary narrative figures.</p>
 
-
-
 ----
 
 references: 
@@ -109,71 +105,31 @@ references:
  	<li>VÁSQUEZ, Lydia, <em>Elogio de la seducción y el libertinaje,</em> Alegia, Ediciones Oria, 1996.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] This work is based on her PhD dissertation at the Basque Country University (Spain). Vázquez’s work is an interesting approach to seduction, which we consider in order to present a different proposal from the canonic ones offered by Baudrillard or Kierkergaard and because the author focuses on literature.
 
-
-
-
 [2] According to Lydia Vázquez’s summary : “[…] el arte de la seducción es un sistema filosófico, complejo, de espíritu enciclopedista, de compilación de saberes. Hay que seducir razonablemente, con la mirada ardiente y el corazón frío, la seducción es la filosofía de los sentidos. Los placeres buscados con la cabeza. No puede haber fallos. […]” (Vázquez 1996 : 63). Our translation.
-
-
-
 
 [3] Vázquez points out that seduction’s power is “esencialmente femenina”/‘<em>essentially feminine</em>’ (67). This point of view echoes Marguerite Yourcenar’s : “ce divertissement féminin par excellence” in <em>Quoi ? L</em>’<em>éternité</em> (Yourcenar 1988 : 102)
 
-
-
-
 [4] Samperio’s short story isn’t translated into English.
-
-
-
 
 [5] It would be inaccurate to understand a “Mamazota” as a woman with extraordinary beauty. Samperio defines his character as a woman who seeks to be flattered with the Mexican compliment “par excellence" : “¡Adiós, mamazota !” (23). In Mexico this compliment could be used to recognize a woman’s beauty but also to remark that a woman seeks male attention by the way she dresses or moves. Samperio’s heroine “Sería infeliz si […] no escuchara la voz que le da sentido a su cuerpo y a su manera de vestir.” (23) <em>/</em> “<em>would be unhappy if</em> […] <em>she didn</em>’<em>t hear the voice which gives some meaning to her body and the way she dresses</em>”.
 
-
-
-
 [6] Vázquez’s model is based on female and male characters, but for this study we’ll focus on the former.
-
-
-
 
 [7] We propose to translate “sensiblilizar” by making somebody aware of something. Someone “sensibilizado” is someone who is aware of something, as proposed in the <em>Oxford Study Dictionary</em>.
 
-
-
-
 [8] At this point we can find another similarity between Eva and Nana. In <em>Le livre du rire et de l</em>’<em>oubli,</em> Mme Nora, a friend of Karel’s mom has fascinated him as he saw her naked once (Kundera 2003 : 83), Mme. Nora’s naked body seduced Karel before that of Eva. In <em>Nana,</em> writes Benoît, there’s the character of Irma D’Anglars, Nana’s seductress model, her <em>demi</em>-<em>mondaine</em> paradigm (37). Both novels include the seductress predecessor, which contribute to viewing seduction as continuity.
-
-
-
 
 [9] Only then Silva will interrupt her to say : “Maria Sara, je vous aime […]” (234)./ “<em>Maria Sara, I love you</em>”<em>.</em>
 
-
-
-
 [10] It isn’t possible to translate this expression precisely, but we may understand it as something nameless or indescribable.
-
-
-
 
 [11] “sensual […] 2. Pertaining to the body or the physical senses ; also fleshly ; carnal : opposed to <em>spiritual</em> […].” (1146).
 
-
-
-
 [12] Silva can be labeled an anti-seducer, as his acts contradict the seducer strategies described by Vázquez and Benoît : Silva plans but never carries out his plan, communicates seldom and is not an exhibitionist. He has no women <em>catalogue,</em> he’s not seeking to multiply his adventures as Don Juan does.
-
-
-
 
 ----
 

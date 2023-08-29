@@ -25,7 +25,6 @@ intro_text: <p><!-- wp:heading {"level":5} --></p>
 <p>***</p>
 <p>Comme l’écrit l’historien Ivan Jablonka, « concilier sciences sociales et création littéraire, c’est tenter d’écrire de manière plus libre, plus juste, plus originale, plus réflexive, non pour relâcher la scientificité de la recherche, mais au contraire pour la renforcer. » (2017, 13) Or, plutôt que renforcer la discipline historique, cette conciliation peut-elle mettre en danger sa rigueur scientifique, comme le pensent les chercheurs Élie Haddad et Vincent Meyzie (2015, 133)? Les articles de ce numéro, en abordant de manière productive une variété d’éléments relevant à la fois du littéraire et des sciences sociales, pourront sans aucun doute apporter des nuances à ces deux prises de position.</p>
 
-
 ----
 
 credits: <ul>

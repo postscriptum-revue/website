@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p>Le cannibalisme, qu’il s’exprime comme une manifestation réelle, tel que le conçoivent les anthropologues, ou dans un registre fantasmatique, tel que le formulent, pour leur part, les psychanalystes, a partie liée avec la question de l’incorporation, au sens où la psychanalyse l’entend, c’est-à-dire avec l’idée de conserver en soi la relique d’un être qui n’est plus, d’un sujet littéralement dévoré. Cette idée de la dévoration de l’autre, nous l’avons entrevue, dans le cadre du colloque Amoureuses figures, à partir de la problématique suggérée par ce dernier, à savoir celle de la figuration amoureuse. Partant plutôt de l’idée de la défiguration amoureuse, donc de l’effondrement de l’amour et des frontières symboliques qui le sous-tendent, cet article interroge l’idée d’un fantasme cannibalique, tel qu’il se déploie dans les récits de l’écrivaine Emma Santos. De la même manière, le propos tenu ici vise à postuler l’hypothèse d’un cannibalisme-agit dans et par l’écriture.</p>
 
-
 ----
 
 abstract_en: 
@@ -46,7 +45,6 @@ text: <p>Dévorer, ingurgiter, mordre, se nourrir d’un autre, cannibaliser un 
 <p>Parler d’autocannibalisme-agit, plutôt que de la forme plus traditionnelle, si l’on peut employer une telle expression dans un discours sur l’anthropophagie, du cannibalisme, c’est saisir de manière encore plus précise les nuances de l’écriture santosienne. À cet égard, Irène Pages écrit : « Chez Santos, l’écriture revient au corps, non par un acte d’exorcisme, mais plutôt comme un acte d’autoparasitisme. Santos se crée le fantasme de la loméchuse absorbée dans sa dévoration de larves : écrire, et écrire de soi, c’est se nourrir de cette activité même, c’est ne plus pouvoir sans passer, c’est faire du <em>symphilisme</em>, et c’est se détruire en fin de compte » (Pages, 1983, p.56. L’auteur souligne.). Cet idée d’un autoparasitisme se traduit certainement dans un certain nombre de passages de l’œuvre de Santos que nous avons vus dans cet article, pensons à l’urine conservée dans le vagin, ou encore aux menstrues qu’il s’agissait de lécher pour les absorber. De plus, si le corps et les mots sont inextricablement liés, l’écriture peut être pensée comme une tentative de contrer l’aspect pathologique de l’incorporation et de formuler les termes d’une véritable introjection (rappelons-nous la distinction de Green quant à ces deux concepts) de l’objet d’amour. « Apprendre à remplir de mots le vide de la bouche, voilà un premier paradigme de l’introjection » (Abraham, Torok, 1972, p. 113), écrivaient Nicolas Abraham et Maria Torok dans « Introjecter-Incorporer. Deuil ou mélancolie ».</p>
 <p>En somme, la dévoration de l’autre est tout autant à penser comme le lieu de la dévoration de soi, mais d’une dévoration qui toujours se fait par le biais des mots. C’est eux, c’est le langage lui-même qui est dévorant, qui est auto-dévorant. Ainsi, la littérature, à tout le moins telle qu’elle est pratiquée par Emma Santos est, peut-être bien, un espace langagier dans lequel la psychanalyse et l’anthropologie, en ce qui concerne leur approche de l’anthropophagie, peuvent trouver un espace de compromis, un lieu dans lequel l’échange est possible, sinon permettre d’ouvrir, voire de ré-ouvrir la réflexion sur ce phénomène que représente le cannibalisme.</p>
 
-
 ----
 
 references: 
@@ -64,21 +62,11 @@ references:
  	<li>TELLIER, Arnaud. « Posture anthropophage et fusion identitaire », dans <em>Le Coq-héron</em>, 2008/1 - n° 192 pp. 35-43.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Bien que certains anthropologues posent une distinction entre l’anthropophagie et le cannibalisme, distinction qui suggère, entre autres, que le cannibalisme relèverait de l’acte de manger de la chair, alors que l’anthropophagie se donne à penser comme le phénomène culturel que représente cet acte, en ce qui nous concerne, nous ne tiendrons pas compte de cette nuance.
 
-
-
-
 [2] Le terme de fantasme étant, notamment dans la psychanalyse freudienne, des plus connoté, il nous semble qu’il faille le définir afin de permettre au lecteur de mieux cerner ce que nous entendons lorsque nous utilisons cette expression. En fait, le terme de fantasme, chez Freud, concerne une formation psychique, par exemple le rêve, qui agit, chez le sujet, comme l’accomplissement d’un désir. Pour notre part, bien que le domaine psychanalytique ait grandement influencé notre réflexion, notre définition du fantasme est un peu plus large. Lorsque cette expression est employée, dans le cadre du propos que nous tenons dans cet article, le fantasme n’est pas à penser comme l’accomplissement d’un désir, mais plutôt comme sa formulation. C’est donc dans le registre fantasmatique, par lui que se formule la trame du désir cannibalique, que nous nommons fantasme cannibalique. De la même manière, on pourrait tout aussi bien choisir de parler de pulsion cannibalique, ou encore d’un imaginaire cannibale.
-
-
-
 
 ----
 

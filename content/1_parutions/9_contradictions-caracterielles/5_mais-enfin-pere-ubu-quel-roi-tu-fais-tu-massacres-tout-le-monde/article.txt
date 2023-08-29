@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cette contribution vise à réfléchir sur les contradictions caractérielles du Père Ubu d’Alfred Jarry, personnage grotesque apparu de façon abrupte sur la scène française en 1896 pour ridiculiser la bourgeoisie dominante et positiv(ist)e de la fin du siècle. À travers l’analyse de la pièce, on veut souligner et approfondir le retournement complet de valeurs chez Ubu et, de façon marginale, chez les autres personnages. Seront mis à jour les mécanismes complexes de la duplicité humaine, à travers la sotte duplicité ubuesque et la suspension de toute éthique en faveur d’une aberration des non-valeurs et d’une altération de la norme sociale/individuelle. Dans les contradictions du Père Ubu, il y a toutes les contradictions de l’époque jarryque et sa contestation. Cette œuvre n’est en effet que le miroir déformé et déformant de la société de la Belle époque, la révélation cathartique de ses maux et de ses erreurs, le triomphe de l’obscur Dieu Sauvage, la prémonition des catastrophes du XXe siècle…</p>
 
-
 ----
 
 abstract_en: <p>This contribution aims at reflecting upon the contradictions in character of Alfred Jarry’s Père Ubu, a grotesque theatre figure created in 1896 in order to hold the dominant and positivist bourgeoisie up to ridicule. The play’s analysis will emphasise the complete reversal of values in Ubu and, marginally, in the other characters. Will be shown human duplicity’s complex mechanisms, through the idiotic “ubuesque” duplicity and the play’s ethical suspension, resulting in an aberrant absence of values and an alteration of the social/individual norm. In Père Ubu’s contradictions lie those of the time, and its contestation. The work is nothing but the deformed and deforming mirror of the Belle Époque society, the cathartic revelation of its illnesses and its mistakes, the obscure “Dieu Sauvage”’s triumph, the premonition of twentieth century’s catastrophes…</p>
-
 
 ----
 
@@ -160,8 +158,6 @@ VIOLENCE
 <h3>IV. Conclusion</h3>
 <p>Les oscillations (hu)morales et décisionnelles font d’Ubu l’un des protagonistes les plus controversés du panorama théâtral moderne et contemporain : jusqu’à l’épilogue de la pièce, le public ne comprend pas s’il a assisté à la divagation comique d’un jeune auteur enragé envers sa société du faux bonheur ou s’il doit croire à cette représentation de la violence gratuite qui devient presque comique, ou encore s’il doit se perdre à l’intérieur de cette (sur)réalité où la méchanceté semble être la valeur la plus positive à chercher et à imiter. La farce humaine se transforme non seulement en satire et critique sociale, mais surtout en cauchemar… ce cauchemar de la conscience collective que Jarry porte sur la scène et déploie sans nuances ou hésitations, ce cauchemar qui s’appelle Ubu et qui conduit le spectateur vers cet âge « of the Extremes » (Hobsbawm 1994) que sera le XXe siècle.</p>
 
-
-
 ----
 
 references: 
@@ -182,66 +178,29 @@ references:
  	<li>WELLWARTH, George, <em>The Theatre of Protest and Paradox. Developments in the Avant-garde Drama</em>, New York, New York University Press, 1971.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Le Dieu Sauvage est le dieu Pan, personnage de la mythologie grecque qui symbolise la Totalité, la nature tout entière. Il est représenté de façon moins humaine que les satyres et se caractérise souvent par sa laideur et sa sauvagerie. Il est aussi le dieu de la foule hystérique, en raison de la capacité qui lui était attribuée de faire perdre son humanité à l’individu « paniqué ». Paraphrasant le commentaire de William Butler Yeats à la première d’<em>Ubu roi</em>, on se réfère ici au Dieu Sauvage en tant qu’à la manifestation de la violence de l’es freudien dans la société du début du XXe siècle qui amènera aux atrocités de la Première Guerre Mondiale.
 
-
-
-
 [2] Dans sa phase primitive d’élaboration, la pièce n’est qu’un divertissement de potaches du Lycée de Rennes se moquant de leur professeur de physique, individu bizarre, assez maladroit et distrait. Les gestes de ce personnage ridicule étaient représentés par une série de marionnettes : Jarry leur donna le nom d’Ubu et, une fois à Paris, développa la matière pour la métamorphoser en une des pièces les plus révolutionnaires du théâtre français.
-
-
-
 
 [3] À partir du concept philosophique d’ontologie, on pourrait supposer qu’Ubu n’est pas véritablement méchant, du fait que sa méchanceté étant la substance profonde de son être ne devrait pas être assujettie à la doxa, ne devrait pas être donc changeable et/ou confuse. Toutefois, Ubu est souvent proie de contradictions et de changements qui ne permettent pas de confirmer in toto notre supposition : il faut penser, par exemple, à l’incertitude qui le prend lorsqu’il doit décider si tuer ou ne pas tuer le tsar, ou encore, à la peur dont il est toujours envahi et qui le rend une bouffe caricature des aspects les plus négatifs des individus. Sa nature est, donc, ontologique dans son essence et humaine dans son existence quotidienne.
 
-
-
-
 [4] L’adjectif ‘mythique’ est ici emprunté à la signification offerte par Ian Watt lorsqu’il parle des mythes de l’individualisme moderne (Watt 1996).
-
-
-
 
 [5] Voilà la définition de « Nulle Part » dans la Présentation d’Ubu roi : « […] le rideau dévoile un décor qui voudrait représenter Nulle Part, […] de même que l’action se passe en Pologne, pays assez légendaire et démembré pour être ce Nulle Part, ou tout au moins, selon une vraisemblable étymologie franco-grecque, bien loin un quelque part interrogatif. » (Jarry 1972 : 401)
 
-
-
-
 [6] La description qu’Ubu en donne dans « l’Acte terrestre » de <em>César-Antéchrist</em> (1895) est à ce propos intéressante : « Nos palotins sont aussi d’une grande importance, mais point si beaux que quand j’étais roi d’Aragon. Pareils à des écorchés ou au schéma du sang veineux et du sang artériel, la bile financière leur sortait par des trous et rampait en varicocèles d’or ou de cuivre. Ils étaient numérotés aussi et je les menais combattre avec un licou d’où pendaient des plombs funéraires. Les femmes avortaient devant eux heureuses, car les enfants nés leur seraient devenus semblables. » (Jarry 1972 : 312)
-
-
-
 
 [7] Cependant, Bordure pourrait être une sorte de figure tragique (janséniste) qui expie les erreurs de ses passions négatives à travers le sacrifice de la mort.
 
-
-
-
 [8] L’italique est de nous.
-
-
-
 
 [9] Tous les numéros des pages suivantes se réfèrent à l’édition susdite.
 
-
-
-
 [10] L’interjection « ventrebleu » renvoie à l’énorme ventre d’Ubu, tandis que la « chandelle verte » a une valeur métaphorique de type érotique. Ces interjections apparaissent plusieurs fois dans le texte : on en donne alors seulement la première occurrence.
 
-
-
-
 [11] Voici la liste de quelques armes ‘externes’ les plus importantes : le voiturin à phynances, la cuirasse, le petit bout de bois, le sabre à merdre, le croc à finances, le ciseau à oneilles, le casque à finances, le croc à merdre, le couteau à figure, le cheval à phynance, le ciseau à merdre, le bâton-à-physique. Il faut aussi ajouter les armes ‘internes’ : la poche, la canne (« enfoncée dans la poche droite », Jarry 1972 : 403), la gidouille et la corne (souvent en relation avec la gidouille dans l’interjection « cornegidouille »).
-
-
-
 
 ----
 

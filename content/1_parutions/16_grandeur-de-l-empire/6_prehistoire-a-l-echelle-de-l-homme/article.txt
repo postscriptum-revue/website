@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p>En consultant la série de livres pour enfants Sur les traces des géants du passé, publiée aux éditions Atlas, qui désignent la figure de l’ « homme » comme point de comparaison essentiel permettant de vulgariser le savoir paléontologique, une réflexion comparative s’est inscrite en relation avec la mise en scène particulière des monuments historiques de l’exposition Grandeur de l’empire. À partir d’une analyse des concepts de proportion et d’échelle, que ces deux sources mettent en valeur de façon distincte, je retrace d’abord comment la figure de l’ « homme » s’est elle-même constituée comme mesure de toutes choses, au fil de sa relation avec le savoir. Ensuite, à travers l’interprétation de certains traits spécifiques à la représentation des dinosaures dans la littérature jeunesse, où nous découvrons l’omniprésence de la figure de l’ « homme » au chevet de ces reptiles préhistoriques, dans les différentes méthodes littéraires chargées de susciter la curiosité intellectuelle de l’enfant, je propose finalement une compréhension de deux logiques de construction d’un « empire » au sein de la représentation, soit en établissant une échelle universelle, ou en superposant plusieurs échelles à travers un espace virtuel. L’exercice de comparatisme qui est véhiculé par cet essai se veut un rempart critique pour comprendre comment envisager l’ « homme » en tant que figure située au cœur des luttes pour la maîtrise de la représentation et du savoir.</p>
 
-
 ----
 
 abstract_en: 
@@ -66,7 +65,6 @@ Maturité de l’homme : retrouver le sérieux qu’il mettait au jeu, étant e
 <p>Ainsi, il ne s’agit plus seulement de mesurer, car il faut encore ordonner ces mesures. Leur donner un nom, une valeur. Apparaît alors le duo de notions exposé par Foucault dans <em>Les Mots et les Choses,</em> cette imbrication de la <em>mathesis</em> et de la <em>taxinomia.</em> Le rapport entre la proportion et son échelle recoupe la trajectoire de ces réflexions. À la manière de la mesure et de l’ordre, l’échelle englobe la proportion et vient s’y greffer de l’extérieur. Le propre de l’« échelle humaine », selon l’analyse articulée ici, est sa flexibilité et son caractère enveloppant. Le problème entre ce qui représente et ce qui est représenté devient particulièrement complexe, surtout en constatant que l’ « homme » se retrouve des deux côtés de cette limite. La vulgarisation joue avec cette ambiguïté conceptuelle proprement humaine, dont l’échelle ne peut être unique. Cette échelle se caractérise justement par la pluralité de ses valeurs. Or, lorsque nous nous imposons l’utilisation d’une seule échelle de mesure, de plus en plus grande (par souci de tout englober), nous provoquons du même coup l’effacement de la figure de l’ « homme ». Sa figure n’est plus au cœur de la comparaison ; elle n’est plus considérée comme point de référence dans les représentations. Pensons par exemple à juxtaposer cette figure de l’« homme » au sein du dispositif visuel dont il était question au début de l’article : à savoir la représentation des deux tours avec les autres monuments. Juxtaposer la figure de l’« homme » à l’échelle déjà en place nous donnerait un homme pas plus grand qu’un tout petit point, minuscule, à peine visible. L’impression de la personne au sommet des tours, qui regarderait un homme en bas, ne serait pas différente. Plus l’échelle grandit, plus l’« homme » s’efface. Pour le ramener à sa visibilité, il faudrait changer d’échelle. C’est précisément en augmentant, en accumulant les échelles, que les perspectives se modèlent à la figure de l’« homme ». Et réciproquement : que la figure de l’« homme » s’agence et se rend proportionnelle aux choses et aux êtres représentés.</p>
 <p>Nous avons donc deux logiques de construction d’un empire. Critiquée par l’exposition dont il est question, la première suppose l’utilisation d’une échelle unique, sur laquelle toute mesure devrait être lisible, tandis que la seconde, exposée dans l’analyse des livres de dinosaures pour enfant, s’articule à travers la juxtaposition d’échelles irréductibles les unes dans les autres, mais représentées néanmoins sur le même espace fini. Dans les deux cas, l’exercice de la comparaison permet de rendre compte, de rendre visible les changements d’échelle. L’usage de ce « comparatisme » dépiste justement les méthodes de construction impériales. La question de l’échelle, une fois qu’elle est posée, surtout lorsqu’elle s’adresse à la figure de l’« homme », nous révèle les anthropomorphismes et les anachronismes qui animent notre imagination. Ces problèmes articulés du <em>dehors,</em> à partir d’une extériorité, nous exposent à la fois les failles des systèmes que nous supposons clos et les ouvertures possibles. Ils envisagent l’homme à la fois en tant que figure proportionnelle et disproportionnelle à toutes choses. Ils illustrent les fictions de l’ « homme », à une époque où tout semble tendre vers son effacement.</p>
 
-
 ----
 
 references: 
@@ -96,30 +94,15 @@ references:
  	<li>Fig. 4 : <em>Dinosaures : sur les traces des géants de la préhistoire,</em> Paris, Éditions Atlas, vol. 3 1993-1994, p.26.</li>
 </ul>
 
-
 <hr />
-
-
 
 [1] Cette image est tirée du livre <em>Dinosaur</em> de William Diller Matthew. Il se trouve en accès libre sur le <em>Gutenberg Project.</em> La référence complète est à la fin de la bibliographie.
 
-
-
-
 [2] Les figures 1, 2 et 3 sont tirées de Wikipedia. On peut trouver la référence complète à la fin de la bibliographie.
-
-
-
 
 [3] Dans les exemples présentés plus bas, la silhouette est plutôt celle d’une personne debout, la main levée. Ces figures ne sont pas tirées du corpus étudié, mais de Wikipedia.
 
-
-
-
 [4] La figure 4 est tirée directement de la page que je commente ici. La référence complète est à la fin de la bibliographie
-
-
-
 
 ----
 

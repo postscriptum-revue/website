@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p><em>The “leitmotif of doubling [1]” is central to the poetics of Giovannino Guareschi (1908-1968), journalist and creator of the Don Camillo saga, and most translated Italian author of the past century. This article analyses chosen pieces from the magazinesCandido and Oggi, in which Guareschi’s doubled persona becomes an emblem of the transformation of postwar Italy. The goal is to understand how the humorous split self is used as a tool to discuss delicate social and political issues and to relate Guareschi’s use of the double self to Freud’s canonical theory of humour. I look at two main configurations of the double in Guareschi’s work : the selves that evolve in parallel and the synecdochical selves. The first case is illustrated by an analysis of the piece “Addio, Giovannino,” published in Candido in 1946, in the wake of the Italian constitutional referendum. To discuss the second configuration, I look at a recurring image of Guareschi’s postwar production : the moustache. A symbolic intrusion of wartime Giovannino in postwar bourgeois Guareschi, the moustache serves as a reminder of his experience in German camps (1943-45) that led to his discovery of humour. By looking at these two connected though contrasted configurations, I point out at some problematic aspects of Freud’s theory, especially the hierarchical positioning of the instances of the self and the past-oriented temporal framework.</em></p>
 
-
 ----
 
 abstract_en: <p><em>Le “motif du dédoublement” [2] est au cœur de la poétique de Giovannino Guareschi (1908-1968), journaliste et père des aventures de Don Camillo, et auteur italien le plus traduit du vingtième siècle. Cet article analyse des textes publiés dans les magazinesCandido et Oggi, dans lesquels la double persona de Guareschi devient un emblème de la transformation de l’Italie d’après-guerre. Mon but est de comprendre comment le dédoublement humoristique sert d’outil pour traiter de délicates questions sociales et politiques, ainsi que de mettre en lien l’utilisation du motif du double par Guareschi avec la théorie de l’humour de Freud. Je considère plus particulièrement deux configurations du double dans l’œuvre guareschienne : les “sois” qui évoluent en parallèles, et les “sois” synecdochaux. Le premier cas est illustré par l’analyse du texte “Addio, Giovannino”, publié dans Candido en 1946, dans la foulée du référendum constitutionnel italien. Dans le cas de la deuxième configuration, j’étudie une image récurrente de la fiction guareschienne d’après-guerre : la moustache. Intrusion symbolique du “Giovannino” prisonnier de guerre chez le Guareschi bourgeois d’après-guerre, la moustache sert de rappel de l’expérience des camps (1943-45) qui a permis la découverte de l’humour. En étudiant ces deux configurations à la fois apparentées et contrastantes, je souhaite éclairer certains aspects problématiques de la théorie freudienne, soit le positionnement hiérarchique des instances du soi et l’orientation vers le passé.</em></p>
-
 
 ----
 
@@ -90,7 +88,6 @@ text: <h3>Humour Doubles : On the Role of the Two Selves in Giovannino Guaresch
 <p>First, as I have underlined in the initial analysis, the relationship between the split selves is one of complicity rather than domination. In <em>The Ego and the Id</em>, the super-ego is described as a “tyrant,” giving “dictatorial” imperatives, a severe and aggressive master to the ego (Freud, 1923 : 43 ; 45 ; 46). This relationship of power gives rise to the ego’s sense of guilt (Freud, 1923 : 41). It is true that the super-ego has a more comforting role in “Der Humor,” something that indeed puzzles Freud : “If it is really the super-ego which, in humour, speaks such kindly words of comfort to the intimidated ego, this will teach us that we have still a great deal to learn about the nature of the super-ego.” (433) The relationship between the Guareschian doubles retains a form of hierarchy in that the figure of “Giovannino” and the image of the moustache are given moral supremacy. This supremacy, however, does not come with a diminishing of the other part of the double. The persona Guareschi is not a representation of an “intimidated ego” (Freud, 1927 : 433). The Guareschian dynamic thus removes the guilt or intimidation present in the Freudian system. The role of Guareschi’s Catholic faith in his literary creation can explain the positioning of the super-ego figure as a form of internal guide. [31] Freud also points to the connection between the super-ego and religion (Freud, 1962 : 27), but once again, the development of religion is put into relation with the role of authority figures and not that of a moral guide as is the case for Guareschi. By giving the role of collaborator to the thematized “super-ego,” Guareschi gives a positive value to this psychic instance, transforming the negative image of the “dictator,” “master,” or controlling ventriloquist into one of a non-paternalistic, internal beacon that works <em>with</em> the bodily self to survive hardships through humour.</p>
 <p>The different quality of the relationship in Guareschi is intimately related to the second major difference with the Freudian theory : the shift in temporal framework. For Freud, the super-ego is a memorial trace of the past, an ideal image of the ego (the “ego ideal” or “ideal ego” is the other name of the super-ego) formed before the constitution of the ego as a definite entity (Freud, 1923 : 38). In temporal terms, the humorous process is thus the intrusion of the past, ideal self in the present life of the ego. The weight of the past explains the weight of the authority of the super-ego, always associated with past figures of authorities in the Freudian framework. For Guareschi, “Giovannino” is also, as I have made clear, a trace of the past, a memorial, as well as a guide. The moustache can be read, as does Torelli, as a “vade mecum” (Torelli, 2006 : 10). However, the weight of the past does not make of “Giovannino” a master figure. Contrarily to Freud’s, the temporal framework of Guareschian humour gives a prominent place to another component : the future. Both the “children of flesh” of “Addio, Giovannino” and the “new generation,” incarnated in the character of Gio’ of “Era giovane, bellissimo,” propel the figure of the past into the future. [32] One of Guareschi’s definitions of a humorist, that we find in “Umorismo razionato,” is indeed : “chi sa retrodatare le sue azioni e le sue sensazioni” ; “one who can backdate his actions and his sensations” (Guareschi 1989 : 64, my translation), that is, one who is able to relativize one’s present self by imagining a future self looking at it. The impact of the split part of the self that represents the past in Guareschi is thus given a new dimension thanks to this intrusion of the future. Seen under this new light, Guareschi’s humour transforms the father-son dyad of Freud’s theory into a new, triadic relationship. The figure of the son (ego) has to be considered, in turn, as a father figure. The new relation is one of father-son(father)-son. Yet, the extension of the past into the future is not a smooth process that erases the particularities of the past. On the contrary, Guareschi’s work stresses the importance of the materiality of the body of the present self, which constitutes the link between the past and the future. Guareschi’s past self and Giovannino’s moustache that shines through him refuse to be fully integrated and overtaken. The materialization of the past in the moustache shows the resistance against a notion of the passing of time as a smooth linear progression. The process of humour and the coexistence of divided selves that it necessitates thus make possible a reconfiguration of the temporal framework that leads to the juxtaposition of temporal periods within the humorist’s body and work.</p>
 
-
 ----
 
 references: 
@@ -98,162 +95,67 @@ references:
 
 [1] Alan R Perry. <em>The Don Camillo Stories of Giovannino Guareschi. A Humorist Portrays the Sacred</em>. Toronto : University of Toronto Press, 2007. x.
 
-
-
-
 [2] L’expression est d’Alan R. Perry. <em>The Don Camillo Stories of Giovannino Guareschi. A Humorist Portrays the Sacred</em>. Toronto : University of Toronto Press, 2007. x.
-
-
-
 
 [3] I want to thank Alberto Guareschi and the late Carlotta Guareschi for their warm welcome and their invaluable help during my visit at the Archivio Guareschi in September 2014 and in all our correspondence. I thank Natasha Hay and Élise Couture-Grondin for their comments on drafts of this article, and Christina Vani for her help with the translations from Italian (all remaining mistranslations are mine). My gratitude goes to the Social Sciences and Humanities Council of Canada, the Jackman Humanities Institute, the Centre for Comparative Literature and the Government of Ontario for fellowships and grants that made this research possible. The material presented in this article is the subject of a section of my PhD thesis in preparation at the University of Toronto under the co-direction of Pascal Michelucci and Luca Somigli.
 
-
-
-
 [4] Perry refers to Giorgio Bocca. “Trapezisti e mentitori,” <em>La Repubblica</em>, 6 March 1991 : 34 and Giorgio Dossena. “Oggi sono i giovani a scoprire Guareschi e Mosca,” <em>La Stampa</em>, 22 March 1986 : 25.
-
-
-
 
 [5] Collected in Giovannino Guareschi. <em>Vita con Gio’. Vita in famigli e altri racconti</em>. Milano : BUR Rizzoli. 2011.
 
-
-
-
 [6] Giovannino Guareschi. “Addio, Giovannino,” <em>Candido</em>, no.23, 8 June 1946 : 1. The front page of this edition of <em>Candido</em> is reproduced by Guareschi on page 89 of <em>Italia provvisoria</em>. Part of “Addio, Giovannino” can also be found on page 256 of <em>Chi sogna nuovi gerani ? autobiographia</em>, an “autobiography” of the author constituted of writings of the author compiled and completed by Alberto and Carlotta Guareschi. In this article, I will be quoting the text as it appears in <em>Italia provvisoria</em>. All translations of “Addio” are mine.
-
-
-
 
 [7] “Humour is the most easily satisfied among the species of the comic. It completes its course within a single person ; another person’s participation adds nothing new to it.” (Freud, 1905 : 229)
 
-
-
-
 [8] The role of the split self in relation to the development of humour or the comic was present in Baudelaire’s seminal essay <em>De l’essence du rire et généralement du comique dans les arts plastiques</em> (first published in 1855 in <em>Le Portefeuille</em>) : “Le comique, la puissance du rire est dans le rieur et nullement dans l’objet du rire. Ce n’est point l’homme qui tombe qui rit de sa propre chute, à moins qu’il ne soit un philosophe, un homme qui ait acquis, par habitude, la force de se dédoubler rapidement et d’assister comme spectateur désintéressé aux phénomènes de son <em>moi</em>. Mais le cas est rare.”(Baudelaire, 1962 : 251) Baudelaire returns to this aspect in his conclusion : “[…] pour qu’il y ait comique […] il faut qu’il y ait deux êtres en présence ; […] cependant, relativement à cette loi d’ignorance, il faut faire une exception pour les hommes qui ont fait métier de développer en eux le sentiment du comique et de le tirer d’eux-mêmes pour le divertissement de leurs semblables, lequel phénomène rentre dans la classe de tous les phénomènes artistiques qui dénotent dans l’être humain l’existence d’une dualité permanente, la puissance d’être à la fois soi et un autre.” (262). On that, see also Newmark 246-47.
-
-
-
 
 [9] There have been five movie adaptations, starring Fernandel as the priest Don Camillo and Gino Cervi as the communist mayor Peppone : Julien Duvivier’s <em>Don Camillo</em> (1952) and <em>Il ritorno di don Camillo</em> (1953), Carmino Gallone’s <em>Don Camillo e l’onorevole Peppone</em> (1955) and <em>Don Camillo, Monsignore… ma non troppo</em> (1961) and Luigi Comencini’s <em>Il compagno don Camillo</em> (1965).
 
-
-
-
 [10] In the Lagers, Guareschi writes : “l’umorismo non è un genere letterario ma un modo particolare d’intendere la vita”–“humour is not a literary genre but a way of understanding life” (“Umorismo razionato” in <em>Ritorno alla base</em>, 62). See also Perry, 2002, especially p.42.
-
-
-
 
 [11] In <em>Jokes</em>, Freud notes that humour does not make us laugh when our admiration is too great. Giving an example of a passage from Victor Hugo’s <em>Hernani</em> where a character who will have his head cut off exclaims “Nos têtes ont le droit / De tomber couvertes devant de toi,” he explains that : “This is humour on the grand scale, and if when we hear it we do not laugh, that is because our admiration covers the humorous pleasure.” (230) Here, laughter is an unnecessary aspect of humour, that might be present or not. In “Der Humor,” Freud goes further and adds that “humorous pleasure never reaches the intensity of the pleasure in the comic or in jokes”. (166)
 
-
-
-
 [12] Since the writing of this article, L’ora d’oro has published a collection of Guareschi’s writings on humour. See Guareschi, Giovannino. <em>L’umorismo</em>. Ed. Andrea Paganini. Poschiavo : L’ora d’oro, 2015.
-
-
-
 
 [13] On this concept, see “Istruzioni per l’uso,” Guareschi’s introduction to <em>Diario clandestino 1943-1945</em>.
 
-
-
-
 [14] <em>Candido</em> is created in December 1945, with Guareschi as editor-in-chief. He will remain in this position until 1957, and continue to collaborate until 1961. The newspaper will close almost immediately after Guareschi announces his resignation. See Conti, 2008 : 320-40 ; 510-20.
-
-
-
 
 [15] All quotes from “Addio, Giovannino” refer to this page.
 
-
-
-
 [16] It was written by Guareschi.
-
-
-
 
 [17] In pieces written during the Second World War or about it, Guareschi uses feminine personifications of Italy and Germany on several occasions, such as “Signora Germania,” <em>Diario clandestino</em>. 45-6 ; “L’Italia,” <em>Ritorno alla base</em>. 105-6 ; “Arrivederci, signorina Germania,” <em>Ritorno alla base</em>. 278-87.<br />I would argue that this fictional practice is likely to stem from the common use of personifications to illustrate nations in political cartoons. This is most striking in Guareschi’s visual production for <em>Candido</em>. For instance, we find a dozen of personifications of Italy in the first volume of the collection <em>Mondo Candido</em>. 1946-1948. 30 ; 126 ; 127 ; 137 ; 138 ; 143 ; 147 ; 158 ; 216 ; 217 ; 286 ; 442. This practice continues well into the 1950s, as clearly appears in the other volumes of <em>Mondo Candido</em>.
 
-
-
-
 [18] Mosca uses the collective “noi” through his whole piece, from “Dunque, siamo stati battuti” (“So, we have been defeated”) through “E abbiamo perduto” (“And we have lost”) until “la nostra rabbia” (“our anger”). Only the last sentence reverts to Mosca’s personal point of view : “Almeno a me, che ci sono rimasto veramente male” (“At least for me, who was really upset about it”).
-
-
-
 
 [19] For example in “Colloquio nel bagno,” first published in <em>Candido</em> in 1955 and collected by Alberto and Carlotta Guareschi in <em>Ritorno alla base</em> : 206-13.
 
-
-
-
 [20] As in “Colloquio nel bagno,” for example. See note 15.
-
-
-
 
 [21] Gio’ (short for Gioconda), is the Guareschis’ hired help.
 
-
-
-
 [22] The text is illustrated in the anthology by a self-portrait of an angry-looking Guareschi displaying an enormous, ruffled moustache (<em>Vita con Gio’</em> : 428).
-
-
-
 
 [23] Gio’ ungrammatically uses “Lui” instead of the formal, gender-neutral “Lei” when addressing her male boss.
 
-
-
-
 [24] Originally published in <em>Oggi 30</em>, 1967.
-
-
-
 
 [25] Guareschi’s use of a singular character to stand in for a whole generation is frequent and at times explicit. In the stories of <em>Ritorno alla base</em>, the narrator (again, Guareschi’s <em>persona</em>), nicknames his son Albertino “la nuova generazione” (See for example <em>Ritorno alla base</em> : 221, 225, 243, 244).
 
-
-
-
 [26] This expression has now become a common way to indicate the prewar period of Guareschi’s life and works. See for example Torelli, 2006 : 8 or the collected new volume <em>L’umorismo di Giovannino senza baffi</em>. Milan : Rizzoli, 2013.
-
-
-
 
 [27] Originally published in <em>Oggi</em> 28, 1965, p.72.
 
-
-
-
 [28] Guareschi refers to Octave Feuillet’s 1858 <em>Le Roman d’un jeune homme pauvre</em>or, possibly, to one of its movie adaptations, more likely Guido Brignone’s 1942 film.
-
-
-
 
 [29] Originally in <em>Candido</em> 3, 1945 : 4. Quoted in <em>Chi sogna nuovi gerani ? Autobiografia</em> : 231 and Torelli : 7.
 
-
-
-
 [30] As Perry remarks in his analysis of the piece “No, niente appello,” “Guareschi relies on his personal mystique of the prisoner-of-war camp as a font of strength” (Perry, 2007 : 45).
-
-
-
 
 [31] Others have extensively worked on the place of religion in Guareschian poetics (see particularly the works of Perry and Gnocchi).
 
-
-
-
 [32] The importance of archiving and the insistence on the process of memorialization by Guareschi paradoxically reveal the importance he gives to the future. As Krzysztof Pomian has rightly noted, the process of archiving is primarily “future-oriented” : “Aujourd’hui, les archives conservent, trient, classent et inventorient les documents du présent pour pouvoir, le moment venu, les communiquer aux historiens de demain, d’après-demain et d’un temps aussi éloigné que l’on veut. […] [L]es archives ne sont nullement une institution constitutivement passéiste. Le lien qu’elles maintiennent avec le passé est subordonné à leur orientation vers l’avenir. Contrairement aux apparences, les archives modernes sont, comme les musées, <em>une institution futurocentrique</em>.” (Pomian 225 ; emphasis added)<br />On the importance of the archive for Guareschi, see 100 <em>Anni Di Guareschi : Letteratura, Cinema, Giornalismo, Grafica : Atti Del Convegno Internazionale 100 Anni Di Guareschi, Parma, 21-22 Novembre 2008</em>. Parma : Monte Università Parma, 2009.
-
-
 
 ----
 

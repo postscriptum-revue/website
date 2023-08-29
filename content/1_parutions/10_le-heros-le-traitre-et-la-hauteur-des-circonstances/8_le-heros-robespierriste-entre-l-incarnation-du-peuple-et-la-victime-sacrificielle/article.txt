@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La période de la Révolution française voit se succéder deux figures héroïques complémentaires, soit celle du héros collectif associée à l’imaginaire égalitaire et celle de la victime sacrificielle. Dans les premières années de la Révolution, l’héroïsme individuel est rejeté sous prétexte qu’il s’oppose à l’égalité nouvellement acquise : c’est alors la force du peuple réuni qui est exaltée par les discours. Le vent tourne à mesure que la Révolution se radicalise. À partir de 1793, l’on voit apparaître des figures héroïques individualisées célébrées à titre posthume en tant que martyrs de la Révolution : on établit alors une sainte « Trinité des martyrs de la liberté » composée de Le Pelletier, de Marat et de Chalier. Robespierre, qui prend les rênes de la Révolution entre 1793 et 1794 et qui la conduit sur la voie de la Terreur, tente également de s’instituer en héros de la nation. Pour ce faire, il reprend à son compte les deux facettes de l’imaginaire héroïque, à savoir l’héroïsme collectif et l’héroïsme sacrificiel. Combinant ces deux aspects a priori contradictoires, le héros robespierriste innove par son rapport inédit au langage, auquel il fait porter les principaux acquis de la Révolution.</p>
 
-
 ----
 
 abstract_en: <p>The period of the French Revolution saw two heroic figures succeed to one another : the collective hero, associated with the egalitarian imaginary, and the sacrificial victim. In the early years of the Revolution, individual heroism is rejected because it is considered as opposed to the newly acquired equality : it is the strength of the people together that is exalted in speeches. The tide is turning as the Revolution gets more radical. From 1793, some individualized heroic figures are celebrated posthumously as martyrs of the Revolution : a holy « Trinity of the martyrs of freedom » is established, composed of Le Pelletier, Marat and Chalier. Robespierre, who takes the Revolution’s lead between 1793 and 1794 and who opens the way to the Terror, is also trying to define himself as a hero of the nation. To do so, he takes up both sides of the heroic imaginary, that is collective heroism and sacrificial heroism. Combining these two seemingly contradictory aspects, the robespierrist hero innovates through his original relation to language, to which he attributes Revolution’s main achievements.</p>
-
 
 ----
 
@@ -57,7 +55,6 @@ Voilà le vrai bonheur.
 <p>Pour éviter qu’un tel brouillage ne survienne à nouveau, Petit propose de charger le Comité d’instruction publique de redonner aux mots de la langue française leur « véritable » sens. Il pose ainsi l’hypothèse d’un langage qui serait propre à la Terreur et qui agirait comme un talisman. Qu’elle soit connotée positivement ou non, l’idée que les robespierristes ont été des génies du langage (bons ou mauvais) est fortement ancrée dans l’esprit des contemporains.</p>
 <p>Après la chute de l’Incorruptible, l’héroïsme individuel, trop étroitement associé à la dictature, est mis en veilleuse pendant quelques années. On revient alors brièvement au héros collectif, qui avait marqué la première phase de la Révolution, mais les révolutionnaires se cherchent rapidement des icônes capables d’incarner la grandeur de leur histoire. C’est Bonaparte qui s’impose alors comme sauveur de la France et héros du républicanisme. L’on prend toutefois soin de faire de lui un portrait diamétralement opposé au héros robespierriste qui continue à hanter de son ombre la sphère politique. Si, comme Robespierre, on le rapproche de l’héroïsme collectif, on le présente non pas comme une incarnation du peuple dans son ensemble, mais comme le représentant des soldats, ces glorieux défenseurs de la souveraineté nationale. On glorifie ainsi les attributs guerriers de cet « Achille français », ce « conquérant de l’Italie » (Mercier 1994 [1798] : 910, 86) qui ressuscite l’esprit républicain à travers l’Europe. On insiste également sur son air grave, que l’on associe au républicanisme antique, de même que sur son peu de goût pour la parole : « Moins de parole, assure Mercier, annoncera plus de réflexion, et le calme de la physionomie plus de grandeur et de raison » (Mercier 1994 [1798] : 911). Dans le discours du Directoire, la figure héroïque de Bonaparte prend ainsi le contre-pied du héros robespierriste. Autour d’elle se développera dans les décennies suivantes un mythe durable de même qu’une série de représentations centrées sur l’éloquence de l’action.</p>
 
-
 ----
 
 references: 
@@ -80,41 +77,19 @@ references:
  	<li><em>Éloge funèbre de Jean</em>-<em>Paul Marat,</em> 26 brumaire an II.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Cette cérémonie reprend, en en inversant les affects, les pratiques que les autorités pénales mettent en œuvre jusqu’à la fin du XVIIIe siècle : les meurtriers sont souvent condamnés à périr par l’arme même qui leur a servi à commettre leur crime. Tout se passe comme si la symétrie entre les deux mises à mort permettait de compenser ou de racheter le crime par sa punition. C’est un peu le même effet qui est recherché dans le cas de la cérémonie funèbre de Marat : le cortège, en rejouant le meurtre, en intensifie la portée, mais symboliquement, il en annule l’effet puisque Marat, promu au rang de saint martyr révolutionnaire, est immortalisé.
 
-
-
-
 [2] À peine un an plus tard, Marat est dépanthéonisé. Sa chute est aussi brutale que sa gloire a été grande : non seulement ses cendres sont retirées du temple des grands hommes, mais elles sont jetées dans les égouts parisiens.
-
-
-
 
 [3] <em>Éloge funèbre de Jean</em>-<em>Paul Marat,</em> 26 brumaire an II.
 
-
-
-
 [4] Il va de soi que cette « vérité » est loin d’être absolue. L’argumentation des robespierristes consiste précisément à faire passer pour <em>la</em> vérité ce qui n’est en somme que <em>leur</em> vérité.
-
-
-
 
 [5] Le culte de Marat comportait déjà cette dimension langagière, car c’est surtout le journaliste, l’ami du peuple, la parole vive que l’on regrette et que l’on divinise.
 
-
-
-
 [6] Edme Petit, discours à la Convention, 28 fructidor an II ; cité par Baczko 1989 : 171, n. 1.
-
-
-
 
 ----
 

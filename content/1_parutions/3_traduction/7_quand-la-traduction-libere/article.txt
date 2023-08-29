@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le récit autobiographique al-Khubz al-hâfî de l’écrivain marocain Mohamed Choukri présente un cas intéressant du rôle libérateur que peut jouer la traduction dans l’émergence d’une écriture subversive. Grâce aux services infaillibles de Paul Bowles et Ben Jelloun, deux écrivains-traducteurs connus, ce texte put être lu. Leurs traductions respectives, For Bread Alone et Le Pain nu, sont publiées en 1973 et 1980, tandis que la version arabe ne sortira qu’en 1982. Elle est interdite par la suite (jusqu’à l’an 2000). Raison : le roman aborde des sujets tabous. Les traducteurs entendent aider l’auteur à se faire entendre et connaître. Mais, l’étude de leurs versions du texte en question montre que la voix de l’auteur est empruntée plusieurs fois par eux pour exprimer des points de vue plutôt personnels. La libération, il faut le dire, a un prix.</p>
 
-
 ----
 
 abstract_en: <p>Mohamed Choukri’s autobiographical work Al-Khubz al-Hafi is an interesting case of the liberating role that translation can play in the emergence of subversive writing. Thanks to the unfailing translation services of Paul Bowles and Tahar Ben Jelloun, two prominent writers, the Moroccan novelist’s text could be read. Their respective translations For Bread Alone and Le Pain Nu were published in 1973 and 1980. The Arabic version appeared in 1982, only to be banned some time later (until 2000). The book deals with taboo subjects. Bowles and Ben Jelloun maintain that their initiatives were meant to make Choukri be heard and known. Yet, the actual analysis of their versions shows that they used his text a few times to express their personal viewpoints. Liberation, one must admit, has a price.</p>
-
 
 ----
 
@@ -109,8 +107,6 @@ text:
 <h3>Conclusion</h3>
 <p>Paul Bowles et Tahar Ben Jelloun rendent la critique sociale de l’œuvre de Choukri de manières à la fois similaires et différentes. Ils radicalisent davantage la critique de l’autorité parentale et patriarcale dans la société marocaine et aggravent la misère de la famille de Choukri. Par contre, ils ont tendance à représenter la situation de la femme marocaine de façons relativement opposées : Bowles victimise la femme et la réduit à un objet, tandis que Ben Jelloun embellit parfois son image. S’agissant de la sexualité, les deux traducteurs amplifient les aspects intéressants : pour Bowles, l’étrange et l’exotique et pour Ben Jelloun, le sensuel, donc le jouissable. Quant à la religion, ils ont tendance à aggraver et, parfois, expliciter la critique des valeurs islamiques. Donc, on peut dire que leurs traductions à la fois libèrent la voix de Choukri qui critique plusieurs valeurs de la culture marocaine, mais ils s’en servent aussi pour exprimer des idées et des attitudes plutôt personnelles. Les passages discutés ici ne représentent qu’une partie de l’intervention de ces deux traducteurs dans le texte et leur manipulation du sens et de la forme du récit de Choukri.</p>
 
-
-
 ----
 
 references: 
@@ -130,16 +126,9 @@ references:
  	<li>SPEAR, Thomas « Politics and Literature : An Interview with Tahar Ben Jelloun », trad. Caren Litherland, <em>Yale French Studies,</em> vol. 2, n° 83 (1993), p. 30-43.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] Cet article est la version remaniée d’une communication présentée au colloque <em>Odyssée de la traductologie,</em> tenu le 21 mars 2003 à la Bibliothèque nationale du Québec, à Montréal.
-
-
-
 
 ----
 

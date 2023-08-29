@@ -15,11 +15,9 @@ authors: -
 abstract_fr: <p>Cet entretien est une collaboration entre <em>okwimesak</em> (ami.e.s) comprenant trois <em>atikamekw iskwewok</em> (femmes atikamekw nehirowisiwok) et un <em>emitcikociwic</em> (blanc) qui souhaite aborder le thème de la décolonisation dans le contexte actuel au Québec du point de vue de ces trois femmes fortement impliquées dans la transmission des savoirs atikamekw et des voix des membres de la communauté de Manawan. En effet, elles sont impliquées comme actrices, réalisatrices, artisanes, chanteuses et artistes. L’objectif de cette discussion prenant la forme d’une entrevue est de mettre à l’avant-plan leurs perspectives concernant leurs pratiques artistiques ancrées dans l’utilisation des médias sociaux et des caméras et des liens qu’elles y font avec un projet de décolonisation.</p>
 <p>Mots-clefs: Femmes autochtones, vécus, atikamekw nehirowisiw, décolonisation et expressions artistiques</p>
 
-
 ----
 
 abstract_en: <p>This interview is a collaboration between <em>okwimesak </em>(friends) including three <em>atikamekw iskwewok</em> (atikamekw nehirowisiwok women) and one <em>emitcikociwic</em> (white/settler) that aims to approach the theme of decolonization in the context of the province of Quebec from the point of view of those three women strongly involved in the transmission of Atikamekw knowledge and the voices of the members of the Manawan community. Indeed, they are involved as actresses, directors, craftswomen, singers, and artists. Through a discussion in the form of an interview, our goal is to put forward the outlook of those three women regarding their art practices through social media and the medium of the camera, as well as the links that they make with a decolonial project.</p>
-
 
 ----
 
@@ -100,7 +98,6 @@ text: <p>Les théories relatives à la décolonisation et au postcolonialisme mo
 <p>ÉL : Est-ce que vous avez un mot de la fin ?</p>
 <p>JED : Baby yoda est Atikamekw (<em>rires</em>)<a href="#_ftn23" name="_ftnref23">[23]</a>.</p>
 
-
 ----
 
 references: 
@@ -132,8 +129,6 @@ Deloria, Vine Jr. <em>Custer died for your sins</em>. University of Oklahoma Pre
 D’Orsi, Annalisa. « Conservation et innovation », <em>Recherches amérindiennes au Québec</em>, vol. 43, no1 (2014) : 69–85.
 
 Dufour, Emmanuelle. « Du Collège Manitou de La Macaza à l’Institution Kiuna d’Odanak : La genèse des établissements postsecondaires par et pour les Premières Nations au Québec ». <em>Revue d’Histoire de l’Amerique Francaise</em>, vol. 70, no 4 (2017) : 5–33.
-
-
 
 Echaquan DUBÉ. Jemmy, « Deux pocahontas en ville ». Film réalisé avec la Wapikoni Mobile, 2015. <a href="http://www.wapikoni.ca/films/deux-pocahontas-en-ville">http://www.wapikoni.ca/films/deux-pocahontas-en-ville</a> (consulté le 11 juillet 2021)
 <ul>

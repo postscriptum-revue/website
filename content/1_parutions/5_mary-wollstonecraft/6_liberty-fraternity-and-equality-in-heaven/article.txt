@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article montre comment, dans Mary : A Fiction, Wollstonecraft défie les modèles de la subjectivité féminine en décrivant une héroïne chrétienne capable d’une nouvelle sensibilité. Contrairement aux critiques qui affirment que Mary est une tentative ratée d’une héroïne rationnelle esquissée dans A Vindication of the Rights of Woman (1792), je mettrai l’accent sur la redéfinition wollstonecraftienne de la sensibilité féminine dans le but de démentir l’idée selon laquelle les femmes ont naturellement une tendance pour le sentimentalisme. Pour y arriver, Wollstonecraft adopte les théories de l’éducation de Rousseau contenues dans L’Émile (1762) en intégrant les idées plus égalitaires des non-conformistes Rational Dissenters dont elle partageait les principes éducationnels et politiques.</p>
 
-
 ----
 
 abstract_en: <p>This paper describes how in Mary : A Fiction Wollstonecraft challenges contemporary models of female subjectivity by describing a Christian heroine capable of a new sensibility. Unlike critics who believe Mary to be a failed attempt to construct the rational heroine drawn out in A Vindication of the Rights of Woman (1792), I will focus on Wollstonecraft’s redefinition of female sensibility as a means to tackle the idea that women are born with a natural tendency towards the sentimental. In order to do this, Wollstonecraft adopted as well as contested Rousseau’s educational theories in L’Émile (1762) by embracing the more egalitarian educational theories of the non-conformist Rational Dissenters of North London, with whom she shared educational as well as political views before and after the French Revolution.</p>
-
 
 ----
 
@@ -60,8 +58,6 @@ To settle on Herself, our Point supreme ! [3]
 <h3>IV</h3>
 <p>By foregrounding the religious element, I have tried to show how Wollstonecraft’s analysis of female education, crucial for her subsequent <em>Rights of Woman,</em> can already be traced in previous works such as <em>Mary : A Fiction.</em> Her radical political discourse evolves from the egalitarian positions held in her previous literary production rather than as a result of the intellectual upheaval following the Fall of the Bastille. Her egalitarian proto-feminism, born out of her educational theories, is based upon a criticism of Rousseau and her approach to the Dissenting school, rather than from irreligious political radicalism, that is to say, Wollstonecraft’s egalitarian proto-feminism was of Christian origin. Thus, the “religious reveries” found in <em>A Vindication,</em> which have been generally ignored by critics, far from being part of her contradictory character, continue her previous discourse of education towards more radical positions. In her educational discourse the construction of the female subject becomes a crucial factor in understanding and following the progress of her discourse towards the more radical positions held in <em>A Vindication.</em></p>
 
-
-
 ----
 
 references: 
@@ -91,41 +87,19 @@ references:
  	<li>WOLLSTONECRAFT, Mary, <em>Thoughts on the Education of Daughters,</em> Ed. Jonathan Wordsworth, Oxford &amp; New York, Woodstock Books, 1994 [1787].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] The 1662 <em>Act of Uniformity</em> and the 1665 <em>Five Mile Act,</em> which were part of the Clarendon Code, prevented religious dissenters from teaching in schools and universities, forcing them to create their own schools (Altick 1967 : 42-44).
 
-
-
-
 [2] As Thomson argues “dissent is a misleading term” for “it covers so many sects, so many conflicting intellectual and theological tendencies” (Thomson 1986 : 28) that it is necessary to specify the branch which Wollstonecraft had a connection with in order to understand the nature of their influence upon her thinking.
-
-
-
 
 [3] As quoted in Botting 1997 from <em>Night Thoughts,</em> V, 128-30, in <em>Night Thoughts</em> (Cambridge University Press, 1989).
 
-
-
-
 [4] The fictional Mary is here quoting “The Messiah” by Handel, with words by Charles Jennens (1762), (Todd 1991 : 212n).
-
-
-
 
 [5] Wollstonecraft quotes in italics Matthew 22:30 (Todd 1991 : 212n).
 
-
-
-
 [6] As quoted in Taylor 2003 from <em>Paradise Lost.,</em> Bk 8:586-94, in <em>Poetical Works</em> (Oxford University Press, 1992), p. 368.
-
-
-
 
 ----
 

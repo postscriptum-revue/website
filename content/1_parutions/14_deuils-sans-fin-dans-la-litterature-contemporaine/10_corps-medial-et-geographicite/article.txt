@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Auteur contemporain italien, Mario Rigoni Stern a écrit la perte. Toute forme de perte. L’écriture rigonienne rappelle que l’homme est soudé au cosmos, et s’imprime dans un registre de valeurs sociales, mémorielles et symboliques. De fait, nous nous sommes penchée sur une relation d’ordre phénoménologique existant entre l’Homme et la Terre en nous inspirant de théories empruntées à des géographes comme Éric Dardel, qui ont dénoncé un oubli de l’originaire et se sont intéressés à une forme d’humanisation de l’environnement. L’écriture de Rigoni Stern semble proposer une illustration parfaite de certaines visions que ces géographes développent et notamment pour ce qui est du rapport avec la mort et le deuil. Le deuil est alors sans fin car la mort fait partie de la vie, il ne se « travaille » pas, il se « vit ».</p>
 
-
 ----
 
 abstract_en: <p>Mario Rigoni Stern, a contemporary Italian author, writes about loss, all forms of loss. The Rigonian style of writing reminds one that human beings are bound to the cosmos and are engraved in a register of social values, memorial and symbolic. This paper examines the relation of a phenomenological order which exists between Man and Earth by way of theories of geographers, like Éric Dardel, who are critical of a loss of ties with an origin and have been interested with a form of humanization of the environment. The writing of Rigoni Stern seems to propose a perfect illustration of certain visions which they develop, namely in regards to the relation between death and mourning. Mourning is thus without an end because death is part of life ; therefore, mourning cannot be “worked through,” it must be lived.</p>
-
 
 ----
 
@@ -87,7 +85,6 @@ text: <p>Deux temps sont à discerner dans le parcours d’homme et d’écrivai
 <p>La <em>géographicité</em> de Mario Rigoni Stern, intensément éprouvée de son vivant, le fait survivre, et lui survit.</p>
 <p>Ainsi, grâce à la littérature de cet écrivain italien contemporain et grâce à une géographie moins académique et plus diversifiée, une géographie qui n’a pas honte de sa subjectivité et qui comporte dans son expression individuelle, savoir et mythe, nous avons pu observer une vision de la mort et du deuil. Ce dernier ne se « travaille » pas, il concerne donc un état infini dans la mesure où il est question d’une forme de continuation de la vie. La forte <em>géographicité</em> de Rigoni Stern en est une illustration. Pourtant, à l’heure actuelle, des répercussions sociétales et territoriales interfèrent largement sur <em>l’être-ensemble</em> et <em>l’être-au-monde</em>. Victime en premier lieu de la modernité et de l’urbanisation qui creusent un abîme entre l’être humain et la nature, la relation en question est en train de s’effriter. Mario Rigoni Stern, avec sa capacité de s’ancrer dans un imaginaire, observe la triste métamorphose et prouve sa propre intelligence des lieux.</p>
 
-
 ----
 
 references: 
@@ -114,86 +111,37 @@ references:
  	<li>WATSUJI, Tetsurô, <em>Fûdo. Ningengakuteki kôsatsu</em> (<em>Milieux. Étude humanologique</em>), Tokyo, Iwanami, 1979 [1935].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Citons par exemple Paul Claval (<em>Épistémologie de la géographie</em>, 2001), Bernard Debarbieux (<em>Le Lieu, fragment et symbole du territoire</em>, 1995), Guy Di Méo (<em>Géographie sociale et territoire</em>, 1998).
 
-
-
-
 [2] Cette notion répond en réalité à celle d’<em>historicité</em> (empruntée à une tradition philosophique illustrée en particulier par Martin Heidegger), elle représente pour l’espace ce que l’historicité représente pour le rapport de l’homme au temps (soit la conscience de sa situation irrémédiablement temporelle).
-
-
-
 
 [3] « La géographie est, véritable lieu commun, une science de synthèse ; c’est peut-être pour certains une raison de la disqualifier comme science […] ; mais c’est aussi la manifestation, sur le terrain même de la science objective, de ce fait que la géographie demeure une “vue d’ensemble” c’est-à-dire une vue humaine sur la Terre. » (Dardel 1990 : 121).
 
-
-
-
 [4] La preuve en est qu’une quarantaine d’années plus tard, il connaît un nouveau succès, une réédition voit le jour (Paris, CTHS, 1990). Les Italiens aussi en reconnaissent la portée puisqu’une traduction paraît en 1986 : <em>L’Uomo e la Terra</em>, sous la direction de C. Copeta, Milan, Unicopli.
-
-
-
 
 [5] Éric Dardel s’inspire abondamment du philosophe allemand. Remarquons d’ailleurs que Henry Corbin, premier traducteur français de Martin Heidegger, n’est autre que le beau-frère de Dardel.
 
-
-
-
 [6] Les traductions de cet article sont de nous.
-
-
-
 
 [7] Tönle porte en lui l’héritage des « cimbres », peuple mythique dont la langue était aussi appelée « cimbre » et était parlée dans les « Sept Communes de Vicence » et les « Treize Communes de Vérone ».
 
-
-
-
 [8] Notamment dans <em>Être et temps</em> (1927).
-
-
-
 
 [9] La <em>médiance</em> est surtout traitée dans son ouvrage éponyme. Elle représente le « sens d’un milieu ; à la fois tendance objective, sensation/perception et signification de cette relation médiale » (Berque 1990 : 48).
 
-
-
-
 [10] Il est toutefois à noter que Berque conçoit un rapport entre l’Homme et la Terre qui se veut plus axé vers le côté social de l’être et par contre moins empreint de phénoménal.
-
-
-
 
 [11] C’est d’ailleurs lui qui inspirera Berque avec son concept de « <em>fûdosei</em> », très proche de celui de médiance. <em>Fûdo. Ningengakuteki kôsatsu</em> (<em>Milieux. Étude humanologique</em>), Tokyo, Iwanami, 1979 [1935].
 
-
-
-
 [12] Remarquons que pour Heidegger par contre, la mort marque la limite : « La mort comme fin du <em>Dasein</em> est la possibilité la plus propre, non relative, certaine et comme telle indéterminée, indépassable du <em>Dasein</em> ». (Heidegger 1993 : 258-259)
-
-
-
 
 [13] Le terme « <em>trajection</em> » provient du latin <em>trajectio</em>, « traversée ». « Du point de vue de la médiance, le monde fait sens et les choses nous émeuvent parce que nous les existons : notre être y est trajecté, les intégrant avec notre chair dans une même structure ontologique » (Berque 2000 : 134).
 
-
-
-
 [14] Dans <em>L’homme et la mort</em> (1970), le philosophe et anthropo-sociologue Edgar Morin écrit : « Avec cette fixation au sol s’imposera la magie de la terre natale […]. Tous les ans, une formidable cargaison de cercueils entre dans le port de Shangaï. Elle apporte les corps des chinois émigrés dans le vaste monde (en Amérique notamment) qui veulent être enterrés dans leur terre mère. Certains cimetières sacrés, comme la lamasserie des Cinq Tours en Mongolie, reçoivent des cercueils qui ont effectué jusqu’à un an de voyage » (Morin 1970 : 137).
 
-
-
-
 [15] Edgar Morin remarque justement : « la force attractive de la terre natale se fait de plus en plus insistante à mesure que l’on approche de la mort. Le vieillard répugne à quitter ses horizons de toujours et celui qui a émigré dans sa jeunesse ressent l’appel des lieux de sa naissance. » (Morin 1970 : 137).
-
-
-
 
 ----
 

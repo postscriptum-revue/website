@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans cet article, l’auteur propose quelques pistes de réflexions inspirées par les ruines au cinéma. En insistant tout particulièrement sur « le temps des ruines », il s’intéresse à leur « hétérochronie » fondamentale et, de là, à l’anachronisme que représente, en tout sens, à la fois les images des ruines (les ruines de Berlin par exemple) et la ruine de l’image (sa dégradation biochimique). Ce « moderne art de la ruine » est analysé à partir d’une certaine pratique du fragment filmique que la muséification du cinéma (depuis les années 1950) a permis, non seulement de faire revenir et re-monter pour l’histoire, mais de faire valoir, à rebours, esthétiquement (c’est cette valeur esthétique du détruit que reprendront à leur compte bon nombre de cinéastes comme Delpeut, Morrison, Deutsch, Brakhage). Dans un second temps, l’auteur s’interroge sur la temporalité propre aux ruines filmées, au type de temps débordé, présent-passé et passé-présent, qu’elles mobilisent et le rôle que, entre autres, les ruines de la seconde guerre mondiale a pu jouer dans l’émergence du cinéma moderne (du néo-réalisme à la nouvelle vague). Enfin, il sera question de localiser, à partir de la constellation conceptuelle et historique qui aura été tracée, l’actualité intempestive de tous ces restes filmés.</p>
 
-
 ----
 
 abstract_en: <p>In this article, the author proposes a number of inquiries inspired by ruins portrayed in film. The insistence on “the time of ruins” is revealing of an interest in their fundamental “hetero-chronicity”, hence anachronism, which their images of ruins represent, truly in every sense of the word : they are at the same time images of ruins (such as the ruins of Berlin) and ruins of the image (its biochemical breakdown). This “modern art of ruins” is analysed based on the practice of cinematic fragment made possible by the archiving of film since the 1950s, which not only allows for bringing back and representing it for history, but to enable an aesthetic appreciation of these films that goes against the grain (the aesthetic value of the spoils has been taken up by a number of experimental filmmakers such as Delpeut, Morrison, Deutsch, and Brakhage). The author is also interested in the temporality particular to filmed ruins, in the transgressive temporality, past present and present past, which such ruins call up, and in the role played by, the Second World War in the emergence of modern cinema (from neorealism to la nouvelle vague). Finally, this article pursues the localisation of these cinematic ruins within the conceptual framework and the historical trajectory that has been put forth.</p>
-
 
 ----
 
@@ -27,7 +25,6 @@ text:
 <em>Toute vie est bien entendu un processus de démolition</em>
 &#8211;William Faulkner, cité par Gilles Deleuze (1969 : 180)
 </blockquote>
-
 
 <h3>1</h3>
 <p><br /> La ruine est à tout prendre ce qu’il y a de plus inactuel aujourd’hui, et ceci, sans doute, rend sa question d’autant plus pertinente.<br /> <br /> Marc Augé, à la suite de plusieurs autres, reconnaît sans peine que le XXe siècle, qui a connu toutes les destructions et les déchaînements de violences imaginables, aura accompli, sur le plan de la production culturelle et de l’imaginaire, une étrange et paradoxale liquidation des ruines. À la place, on retrouverait des œuvres, des objets, qui n’ont pas d’autres horizons qu’un présent, infiniment renouvelable (Augé 2003 : 83-85). Les bâtiments architecturaux, les nouveaux médias, notre conception même de l’histoire, tendent à ne plus être pensés en fonction des traces laissées, mais plutôt comme des figures qui disparaissent une fois qu’elles ont perdu le lustre de leur fonctionnalité, et qu’elles ne sont bonnes qu’à être remplacées ou restaurées (c’est vrai des faits historiques, des films, des programmes télés, des appareils électroniques, des centres commerciaux, etc.). Là où le temps ou la violence de l’homme sévit (les carcasses des tours du WTC, par exemple, ou les décombres laissés par les désastres naturels), on s’empresse de faire disparaître leurs traces, afin que rien ne <em>reste.</em> Cette exigence d’immédiateté<em>,</em> de <em>netteté,</em> rend caduque un certain rapport avec le passé. Le passé est d’une part parfaitement saisissable sur le plan de l’information, <em>via</em> les réseaux, les archives de toutes sortes qui prolifèrent ; d’autre part, une certaine inscription du temps sur la matière est en train de se perdre, au profit de consciences ou de supports indifférenciés. Les nouveaux médias restituent le passé mais en annulant ce qui en lui était distance temporelle, différence fondamentale. Il n’y a aucune différence matérielle entre un CD-Rom contenant les œuvres complètes de Cervantès, un jeu virtuel ou la collection du musée de l’Hermitage. D’autre part, on fait régulièrement subir aux bâtiments et aux monuments des cures de rajeunissement, non seulement pour restaurer leur lustre d’antan, mais bien plus, il semble, pour les « remettre à jour », comme on le dit d’un programme informatique (avec tous les mérites, pratiques et esthétiques, que cette chose peut avoir).<br /> <br /> Le cinéma, bien entendu, est en train lui aussi d’y passer. Un nombre impressionnant de restaurations ont eu lieu depuis quelques années en vue expressément d’une commercialisation sur support numérique (DVD, DVD-ROM, etc.). Certains artistes qui tenaient farouchement à distinguer pellicule et médium électronique ont commencé à accepter l’idée de voir leurs œuvres circuler en DVD (Stan Brakhage, Michael Snow, etc.). Or, la question que je poserais serait la suivante : si on fait l’économie de la pellicule, à quelle autre histoire vouons-nous le cinéma ? La pellicule, dans la mesure où elle subit et réagit aux affres du temps, rend le temps concrètement sensible, à quoi ne peut pas prétendre le numérique (ce n’est simplement pas la même chose). Les objets que produit la culture digitale, en cinéma entre autres, ne peuvent produire, à première vue du moins, une véritable trace matérielle du passé qui s’inscrirait à même le support. On le réalise si on constate qu’un DVD ne peut pas tomber en ruines. Au pire, il devient technologiquement obsolète, inutilisable, illisible. C’est ainsi qu’on assiste, depuis quelques années, à une véritable crise des traces cinématographiques (qui déborde de beaucoup le cadre de cet exposé).<br /> <br /> C’est, plutôt indirectement, dans le sillon de ces questions que je voudrais présenter un certain nombre de pistes qui informent, pour l’instant de façon intuitive et fragmentaire, une recherche sur les ruines au cinéma et sur la temporalité diffractée et anachronique qu’elles mobilisent. Ce parcours <em>intempestif</em> à travers les ruines et ses multiples sens partira donc de la ruine du film, du principe qui veut que, de façon inhérente, l’image cinématographique, à l’origine, <em>pense</em> sa propre ruine, puisqu’elle repose sur une pellicule qui fatalement se détériore, brûle, disparaît, en laissant des <em>traces.</em> Il s’agira de se demander quel est le sens, durement acquis, de la valorisation esthétique et historique de la ruine filmique : d’abord dans la constitution des archives faites à partir de fragments de films sauvés et dans la production de films (expérimentaux) qui travaillent directement sur la détérioration de la pellicule ou à partir de bobines de films endommagés.<br /> <br /> Partant de ça, de ce qui remonte de l’histoire pour former une conscience actuelle du cinéma, j’aimerais retracer, à rebours, un fil qui cercle les ruines que le cinéma a filmées dans sa propre contemporanéité. Mon hypothèse ici étant que la « <em>nouvelle image</em> » dont parle Deleuze dans <em>L</em>’<em>image</em>&#8211;<em>temps</em> (1985), le cinéma la trouve, paradoxalement, mais pas innocemment, dans les ruines laissées par la guerre. Le « nouveau cinéma » et tout un tracé de la modernité du film (de Rossellini à des productions plus récentes comme celles de Bela Tarr), pourrait être lu en y suivant, à la trace, la forme littérale ou la présence figurée de ces ruines.<br /> <br /> Cette question du temps des ruines au cinéma, je la mets donc volontairement au singulier et au pluriel, puisqu’il sera question de montage et de démontage de temps, de compositions anachroniques qui font le propre de la ruine ; mais il sera également question d’excès de temps, d’une inscription du temps sur les choses qui s’en trouvent excédées, ou des choses sur le temps qui produit sa ruine et qui en fonde l’événement. Mais n’est-ce pas la présentation même de l’événement, sa venue même, qui est toujours déjà d’emblée fragment, fracture, ruine ? La ruine nous permet-elle de voir, en retour, ce que le cinéma a en propre et que la révolution numérique est graduellement en train de faire disparaître ? Où n’est-ce pas plutôt cette révolution numérique qui nous permet de nous en rendre compte ? C’est à ces questions que ce texte tentera de répondre.</p>
@@ -69,8 +66,6 @@ text:
 <h3>9</h3>
 <p><br /> La constellation conceptuelle que je voudrais éclairer, la sorte de spirale que je voudrais tenter de dénouer pourrait se formuler dans ces termes : Quelle est la relation entre la valorisation des esthétiques fragmentées, elliptiques, et la « ruine réelle », physique, matérielle ? L’hypothèse, je la redonne, serait celle-ci : les traits de la nouvelle image (situation dispersive, liaisons faibles, forme-balade, errance, conscience des clichés, dénonciation du complot) seraient tous pensables à partir des ruines, des situations optiques et sonores pures qu’elles instaurent, d’un nouveau régime de signes qu’elle mobilise et, surtout, d’une nouvelle perception du temps (une image directe du temps, qui ne se substitue plus au mouvement).<br /> <br /> Or, à partir du moment où l’on démontre que l’histoire du cinéma s’est pensée et ne devient pensable qu’à partir de sa ruine (de la conscience de sa perte biochimique, de la disparition des copies, du morcellement des films, etc.), c’est en remontant à rebours ou à rebrousse-poil (en faisant défiler la pellicule à l’envers, comme le souhaitait Marc Bloch) ce fil effiloché de la ruine, ces « blocs de latence », que nous pouvons faire jouer une série de gestes, de moments, d’événements, de survivances, dans les films qui ont été faits, et qui éclairerait, en partie bien entendu, les partis pris méthodologiques de cette nouvelle archéologie du film qui, anachroniquement, nous a permis de voir les œuvres du passé (comme si on ne les voyait pas avant), qu’on s’est mis à accorder une valeur « muséale » au fragment filmique. Au bout du compte, cela nous forcerait à écrire l’histoire en tenant compte de ses survivances, qui ne sont autres que celles de sa propre mémoire conservée comme symptômes de son temps.<br /> <br /> La ruine au cinéma, au fond, n’est autre qu’une réalisation de sa « solidité éphémère ». Stan Brakhage avait intitulé ainsi un de ses films peints à la main, contemporain, à la fois esthétiquement et anachroniquement, du film de Peter Delpeut. En tant que solidité éphémère, la ruine peut apparaître comme un des modes de l’apparaître au cinéma. Si nous ne la concevons plus comme un débris négligeable, la ruine, en télescopant dans un même présent, toujours-débordé, un présent du passé et un présent de l’avenir, rendrait en quelque sorte tangible le mouvement même de l’histoire et de sa propre histoire.</p>
 
-
-
 ----
 
 references: 
@@ -95,56 +90,25 @@ references:
  	<li>VIRILIO, Paul, <em>Bunker archéologie,</em> Paris, Les Éditions du demi-cercle, 1991.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] J’emprunte cette idée à Eduardo Cadava, qui la développe dans un article récemment paru : Cadava, Eduardo, « <em>Lapsus imaginis</em> :The Image in Ruins », <em>October</em> (no 96, 2001), p.35-60.
 
-
-
-
 [2] Selon Godard, le cinéma porterait, dès l’origine, les couleurs du deuil, le noir et le blanc, et le Technicolor portera les mêmes couleurs que les couronnes mortuaires (<em>Histoire(s) du cinéma,</em> épisode 2a). En somme, il y aurait, pour Godard, dès l’origine un rapport entre le cinéma, la mort et sa propre finitude, incrustée à même sa fragilité, sa pellicule, à la lettre : sa peau.
-
-
-
 
 [3] On pourrait citer les <em>found footages films</em> de Bruce Connor, Ken Jacobs, Martin Arnold, ou encore ces films d’archivistes qui se situent à mi-chemin entre l’entreprise historienne et le film expérimental, <em>Film Ist</em> (2002) de Deutsch, <em>Decasia</em> (2003) ou <em>Film of her</em> (1997) de Bill Morrisson, en plus d’autres films de Delpeut, comme <em>Diva Dolorosa</em> (1997).
 
-
-
-
 [4] Deleuze rappelle, dans <em>Logique du sens,</em> cette phrase de Jean Bousquet : « ma blessure existait avant moi, je suis né pour l’incarner » (1969 : 174).
-
-
-
 
 [5] Ceci, bien entendu, ne nous empêche de lui rapporter des films qui ont été réalisés avant le néoréalisme. Je pense entre autres à <em>La Chute de la Maison Usher</em> d’Epstein, où la mise en scène furieuse du temps emporte dans son mouvement ce que Scheffer a appelé « la ruine poétique d’un monde » : sorte d’année zéro qui <em>termine</em> le règne du livre et met un terme à un <em>certain</em> ordre du monde, du mouvement et du temps.
 
-
-
-
 [6] <em>Voyage en Italie,</em> dont l’importance pour tout le cinéma moderne a été maintes fois soulignée (voir Bergala, <em>Voyage en Italie,</em> 1990), pourrait également être vu comme la réactivation des tropes du <em>Voyage en Italie,</em> et surtout dans les ruines, qui nous a valu des pages décisives pour toute l’esthétique ruiniste et cette délectation mélancolique pour l’inachevé, de Du Bellay à Chateaubriand, de Goethe à Jensen, de Stendhal à Ruskin.
-
-
-
 
 [7] Incidemment, un autre événement avait, avant la guerre, produit un mouvement réflexif similaire : l’arrivée du parlant. C’est en 1930 qu’on organisera les premières expositions sur l’histoire du cinéma et qu’on commencera à recenser de façon systématique les films qui ont été réalisés. La Cinémathèque française est créée, rappelons-le, en 1936. Il serait sans doute possible de retracer un ensemble de films dans ces années (d’Epstein, de l’avant-garde française et allemande) qui traitent réflexivement de la ruine du film comme prise de conscience de son historicité, mais ce ne saurait être dans l’horizon de cet article.
 
-
-
-
 [8] « Ruines vrai refuge enfin vers lequel d’aussi loin par tant de faux » (Beckett 1972 : 69).
 
-
-
-
 [9] Évidemment, ce genre de division est somme toute assez canonique, et il y a d’autres modèles de totalité au cinéma : la différence peut-être est que cette totalité repensée a été pensée et, en particulier, reçue dans un autre horizon, celui d’un certain modèle esthétique classique, avec clôture narrative, avec une régularité des enchaînements. Il existe toujours des exceptions.
-
-
-
 
 ----
 

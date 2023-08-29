@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p>À partir de réflexions faites suivant ma visite de l’exposition Grandeur de l’Empire : essai de comparatisme visuel à l’Université de Montréal, je tente avec cet article de questionner l’esthétique (ou l’anesthétique) de l’Empire dans lequel nous vivons, soit celui du capitalisme tardif. Contrairement aux empires du passé qui manifestaient l’absolutisation du pouvoir par des monuments toujours plus grands, l’Empire du capital se développe dans la relativisation de toute expérience humaine concrète avec pour degré zéro l’argent. Cette abstraction monétaire de nos rapports sociaux a pour conséquence l’endettement qui n’apparaît justement pas, et se vit toujours dans l’invisibilité. Si les formes esthétiques des puissances du passé commémoraient le pouvoir de manière spectaculaire, le capitalisme s’inscrit pour sa part dans un travail du négatif, celui des profondeurs des désirs pour ce qui manque. Réfléchir à ces éléments théoriques nous force à repenser l’usage narratif de la destruction des tours jumelles du World Trade Center. Ainsi, l’image spectrale de ces bâtiments avant les attentats du 11 septembre 2001, telle qu’utilisée par les organisateurs de l’exposition, devient la métaphore de cette revenance circulatoire propre à l’économie de marché, mais aussi la métonymie de son moteur, le récit eschatologique de la crise toujours-déjà à venir.</p>
 
-
 ----
 
 abstract_en: 
@@ -62,7 +61,6 @@ The lone and level sands stretch far away (Shelley, 1819, p. 92).
 </blockquote>
 <p>Les mots du piédestal disent la grandeur de l’empire, sa construction et sa splendeur, et les paroles du voyageur qui les rapporte rappellent l’orgueil de l’empire et sa finitude. Aux puissants du monde répondront toujours, en se les appropriant, les récits de leur déchéance. La mémoire de la grandeur est toujours plus pérenne que son envers matériel qui, lui, s’efface dans ses ruines.</p>
 
-
 ----
 
 references: 
@@ -76,20 +74,11 @@ references:
  	<li>ŽIŽEK, Slavoj. <em>Bienvenue dans le désert du réel,</em> Paris, Flammarion, 2005.</li>
 </ul>
 
-
 <hr />
-
-
 
 [1] La première partie du <em>Manifeste du Parti communiste</em> intitulée « Bourgeois et prolétaires » fait le récit de la puissance inégalée du capitalisme par le truchement de la classe bourgeoise. Pour ne donner qu’un court exemple : « Elle [la bourgeoisie] a été la première à montrer ce dont est capable l’activité des hommes. Elle a accompli de tout autres merveilles que les pyramides d’Égypte, les aqueducs romains et les cathédrales gothiques, elle a réalisé de tout autres expéditions que les grandes invasions et les croisades. […] Pressée par le besoin de débouchés toujours plus étendus pour ses produits, la bourgeoisie se répand sur la terre entière. Il faut qu’elle s’implante partout, s’installe partout, établisse partout des relations. » Karl Marx et Friedrich Engels, <em>Manifeste du parti communiste</em> [1848], trad. Émile Bottigelli, éd. Gérard Raulet, Paris, GF Flammarion, 1998, p. 77-78.
 
-
-
-
 [2] Voir le <em>Manifeste du parti communiste.</em>
-
-
-
 
 ----
 

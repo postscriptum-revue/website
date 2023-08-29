@@ -69,7 +69,6 @@ text: <p><img decoding="async" loading="lazy" src="http://www.post-scriptum.org/
 <p>Je ne peux ni ne veux décider à la place de Kawthar ! (Rires).</p>
 <p style="text-align: right;"><em>Entretien traduit de l’arabe par Waël Rabadi.</em></p>
 
-
 ----
 
 references: 

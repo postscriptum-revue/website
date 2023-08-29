@@ -17,8 +17,6 @@ abstract_fr: <p>L’oeuvre de M.Tsvetaieva (1895-1941), poète russe, qui vivait
 <p>Dès le début des années 1970, Н.Meschonnic se penche sur l’élaboration d’une poétique de la traduction(1) qui, au cours des années, devient la poétique du traduire(2). Sa poétique du traduire travaille non « dans l’information, mais dans la valeur »(3), elle est à l’écoute du texte, elle essaie de « se décentrer » au lieu d’« annexer »(4) l’autre.</p>
 <p>De ce point de vue, il existe une rime universelle, rhétorique, stylistique et une rime spécifique, poétique, propre à une manière(5) d’écrire. La rime de Tsvétaïeva, <em>en russe</em>, redécouvre, avec violence, toute la force poétique de la rime. C’est pourquoi, <em>en français</em>, avec les poèmes-traductions d’Eve Malleret, on entend cette altérité dérangeante qui est la voix de l’autre, la voix de la poète Marina Tsvétaïeva.</p>
 
-
-
 ----
 
 abstract_en: <p>The work of Marina Tsvetaeva arouses great interest in Russia and in France. Translators and literary critics keep on asking the same question: what is the way of translating her poetry?</p>
@@ -28,7 +26,6 @@ abstract_en: <p>The work of Marina Tsvetaeva arouses great interest in Russia an
 <p>Since 1970 Henri Meschonnic had been working up the poetics translation (<em>poétique de la traduction</em>) which over time became the poetics of the translation process itself (<em>poétique du traduire</em>).</p>
 <p>His poetics deals not with information but with significance, it listens attentively to the text, tries to decentralize itself, not to annex the otherness.</p>
 <p>If we adopt this point of view, it is possible to talk about universal rhyme belonging to stylistic field and about specific poetic rhyme which is a distinguishing feature of one’s manner of writing. Russian rhyme of M.Tsvetaeva rediscovers all the poetic power of the rhyme. That is why in Eve Malleret`s poems-translations we can hear an exciting voice of the Other, the voice of M.Tsvetaeva.</p>
-
 
 ----
 
@@ -119,7 +116,6 @@ text: <p>Dans cet article, ma réflexion reposera sur deux appuis principaux : 
 <p>L’approche rhétorique et universelle, qui produit une traduction-annexion, ne reconnaît pas la spécificité de l’autre et essaie de l’annexer à son identité. Tandis que l’approche poétique, qui invente une traduction-décentrement, tend à mettre en valeur la spécificité de l’autre ainsi que la poétique du poème.</p>
 <p>C’est pour cette raison que Meschonnic affirme : « le poème français de Marina Tsvetaeva, “La neige”, est un vrai poème de Tsvetaeva. Toute sa poétique y est » (Meschonnic, 2006). Ce qui est singulier dans le cas de Tsvetaeva, c’est le fait que ce n’est pas « une libération de la traduction par rejet », comme c’était le cas pour la poésie française, « c’est un débordement de la tradition par outrance » (<em>Ibid</em>. : 266). La traduction-décentrement pratiquée par Ève Malleret essaie de mettre en lumière cette inventivité. Pour Meschonnic, c’est la rime menée « à l’extrême » que Tsvetaeva « apporte, Russe, à la poésie française. Ou plutôt à la poésie, à l’idée qu’on en a, et à la pratique qu’on en a, quelle que soit la langue » (<em>Ibid</em>. : 273).</p>
 <p>C’est aussi pour la traduction une source véritable d’inspiration.</p>
-
 
 ----
 

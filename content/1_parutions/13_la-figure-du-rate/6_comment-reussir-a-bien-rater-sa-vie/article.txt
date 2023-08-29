@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>En marge du héros, dans la seconde moitié du XIXe siècle, surgit la figure du raté, qui cultive nombre d’analogies avec celle du bohème. Cependant, les deux types de personnages ne se recoupent pas complètement. Les romanciers de cette période, tels Goncourt, Daudet, Gyp ou Zola, ont en effet accordé une place particulière à ces êtres médiocres venus parfois d’horizons très divers. L’étude menée de façon chronologique essaiera de mettre en lumière la façon dont les romanciers utilisent le terme de raté en tant qu’élément de caractérisation qui confine au type universel. Comment reconnaître un raté ? Comment réussir à rater sa vie ? Comment demeurer un éternel raté ? Telles sont les trois questions auxquelles nous tenterons de répondre dans cet article.</p>
 
-
 ----
 
 abstract_en: <p>During the second half of the 19th century, in the margins of the heroic, comes the figure of the failure, resonating in many ways with the one of the bohemian. However, these two types of characters are not completely superimposed. Indeed, the novelists of this period, such as Goncourt, Daudet, Gyp or Zola, allowed for a definitive place to these mediocre beings often coming from very diverse horizons. This chronological study will attempt to shed a light on the ways that the novelists use the term « failure » as an element of characterisation that confines to the universal type. How can one recognize a failure ? How can one succeed in failing his live ? How can one remain an eternal failure ? These are the three questions we will attempt to answer in this article.</p>
-
 
 ----
 
@@ -53,7 +51,6 @@ text: <p>En marge du héros dont on célèbre souvent les hauts faits et la brav
 <p>La seule trajectoire positive concerne l’un des personnages de Goncourt. En effet, Anatole Bazoche devient grâce à l’aide d’un ami employé dans un zoo, où il s’occupe de nourrir les animaux. Il trouve une forme d’éternité dans ce paradis végétal, ainsi que le manifestent les dernières lignes du roman : « L’ancien Bohème revit des joies d’Eden, et il s’élève en lui, presque célestement, comme un peu de la félicité du premier homme en face de la Nature vierge » (Goncourt <em>Manette Salomon</em> 1877 : 444).<br /> <br /> B. Mort du raté<br /> Le raté peut mourir dans la fleur de l’âge et rejoint en ce sens encore la figure du bohème, qui disparaît relativement jeune. Les Goncourt commentent ainsi la mort de Murger, décédé à 38 ans : « Murger, sans le sou, a vécu comme il a pu. […] Amusant et drôle, il s’est laissé aller à mordre au parasitisme, aux dîners, aux soupers, aux parties de bordel, aux petits verres qu’il ne payait pas et ne pouvait rendre » (Goncourt <em>Journal</em> 1959 : 879). Dans la fiction, Claude Lantier se suicide en raison de son impuissance à créer et ce malgré « la jeunesse rayonnante » que lui offre une dernière fois Christine (Zola <em>L’Œuvre</em> 1928 : 396).</p>
 <p>Toutefois, la plupart du temps « le vivotement minable se substitue à l’éclat d’un destin tragique » pour le personnage médiocre (Dufief 1997 : 346). En effet, les ratés n’ont pas souvent le courage d’en finir ou de s’avouer vaincus. Les personnages zoliens semblent les plus entreprenants en ce domaine : qualifié de raté par La Faloise, Vandeuvres, ruiné par Nana, se suicide avec panache, en se faisant brûler dans ses écuries en compagnie de ses chevaux. Mais si Claude Lantier, dans son incapacité à réaliser sa grande œuvre, se pend dans son atelier, tel n’est pas le cas du raté daudétien. Rarement chez lui d’acte désespéré qui donnerait un certain relief à son existence médiocre, mais plutôt le calcul pusillanime qui permet d’économiser ses forces et de garder ses illusions. Même constat dans le récit de Gyp : Gaston, après avoir tué froidement sa maîtresse Madame Myre, se blesse bénignement avec un revolver, ratant intentionnellement son suicide. Il faudra l’intervention de la marraine justicière pour que le raté malfaisant périsse. Non content de continuer à végéter, le raté peut aussi contaminer les autres personnages. Ainsi, le groupe des Ratés fait du héros éponyme Jack un « raté de l’enclume et du marteau » (Daudet <em>Jack</em> 1990 : 295).</p>
 <p>Dans la seconde moitié du XIXe siècle, ratés et bohèmes romanesques se retrouvent à travers un certain nombre de comportements similaires : flâne, débauche, existence indigente et décousue. Mais la manière de traiter la bohème par les romanciers de cette époque n’a plus rien à voir avec l’image idéalisée qu’en a donnée Murger dans les <em>Scènes de la vie de bohème</em>, comme en témoignent les satires particulièrement violentes de Zola et des Goncourt. De son côté, Daudet sort le type du raté du cercle étroit des hommes de lettres et des artistes, mais le règlement de comptes est encore plus virulent de la part de Léon Bloy. Le raté-bohème constitue ainsi une figure repoussoir pour ces écrivains forçats des lettres. <em>Nulla dies sine linea</em> : telle est l’antienne martelée par Zola. Il n’est donc pas étonnant que les deux derniers mots de <em>L’Œuvre</em>, prononcés par Sandoz les yeux encore embués de larmes après les funérailles de Lantier, soient ceux-ci : « Allons travailler » (Zola <em>L’Œuvre</em> 1928 : 397).</p>
-
 
 ----
 
@@ -98,21 +95,11 @@ references:
  	<li>SEIGEL, Jerrold E., <em>Paris bohème</em>, traduit de l’anglais par Odette GUITARD, Paris, Gallimard, 1991.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] L’étymologie de « raté » renvoie au verbe « rater », lui-même dérivé démotivé du substantif « rat ». Le développement sémantique du verbe passe dans la seconde moitié du XVIIe siècle par l’expression « prendre rat, prendre un rat » signifiant « ne pas partir » à propos d’une arme enrayée, puis par extension « échouer, ne pas réussir » en parlant d’une personne. Voir Alain REY, <em>Dictionnaire historique de la langue française</em>, Le Robert, Paris, 2004, Tome 3, p. 3095.
 
-
-
-
 [2] Nous avons déjà consacré un article spécifique aux ratés dans <em>Jack</em>. Le but de cette contribution consiste à élargir la perspective à travers un corpus formé de romans de la seconde moitié du XIXe siècle.
-
-
-
 
 ----
 

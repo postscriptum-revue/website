@@ -16,12 +16,9 @@ abstract_fr: <p>Depuis plusieurs années, le collectif d’art et recherche NOMA
 <p><u>Mots-clés : </u>Chamanisme/Décolonisation/Plurivers/Performance</p>
 <p><a href="#_ftnref1" name="_ftn1">[1]</a> <em>Abya Yala</em> veut dire « Terre de vie », « terre de pleine maturité », « terre de sang ».Les organisations indigènes latino-américaines ont ainsi renommé le continent « Amérique », lors du cinquième anniversaire de la « Découverte », par un terme Kuna.</p>
 
-
-
 ----
 
 abstract_en: <p>For a few years, the art and research collective NOMASMETAFORAS composed of artists and researchers is in conversation with the Misak, Yanakuna, Nasa, Kokonuko indigenous communities in department of Cauca in Colombia through the organization of the Autonomous Intercultural Indigenous University of the indigenous regional council of Cauca. The collective has been working on several projects within the context of the Autonomous Intercultural Indigenous University in order to knit a creolizing practice between decolonial philosophy, contemporary art, ancestral thought and traditional Amerindian medicine. In the context of its dialogues and encounters with the shamans of the department of Cauca, the collective reflects on the place of Indigenous thought within the current debates on decolonization, relationship to the living and otherness.</p>
-
 
 ----
 
@@ -77,7 +74,6 @@ text: <p><u>Introduction</u></p>
 <p>Photo et image extraite-vidéo.</p>
 <p>© « Avec la permission de NOMASMETAFORAS»</p>
 
-
 ----
 
 references: 
@@ -118,8 +114,6 @@ Severi, Carlo. <em>Le Principe de la chimère : une anthropologie de la mémoir
 Session 2: Conférence et débat de Seloua Luste Boulina et Françoise Vergès pour le programme : Université Décolonisons les arts et pour l’antenne : Décoloniser les arts. Enregistré à <a href="http://www.lacolonie.paris">La Colonie</a> le 12 novembre 2018 par Victor Donati et Simon Marini. Mixage: Victor Donati. URL : <a href="https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n2-seloua-luste-boulbina-les-miroirs-vagabonds-ou-la-decolonisation-des-savoirs">https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n2-seloua-luste-boulbina-les-miroirs-vagabonds-ou-la-decolonisation-des-savoirs</a>
 
 Session 1 : <a href="https://www.r22.fr/recherche?c=Conf%8Erence">Conférence</a> &amp; <a href="https://www.r22.fr/recherche?c=D%8Ebat">Débat</a> de <a href="https://www.r22.fr/auteurices/V/francoise-verges">Françoise Vergès</a> pour le programme : <a href="https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts">Université Décolonisons les arts</a> et pour l'antenne : <a href="https://www.r22.fr/antennes/decoloniser-les-arts">Décoloniser les arts</a>. Enregistré à <a href="http://www.lacolonie.paris">La Colonie</a> le 8 octobre 2018 par Victor Donati et Simon Marini. Mixage : Victor Donati. URL : https://www.r22.fr/antennes/decoloniser-les-arts/universite-decolonisons-les-arts/session-n1-francoise-verges-pourquoi-une-universite-notions-concepts-histoire-memoires
-
-
 
 Lien des sites internets/ travaux performatifs :
 

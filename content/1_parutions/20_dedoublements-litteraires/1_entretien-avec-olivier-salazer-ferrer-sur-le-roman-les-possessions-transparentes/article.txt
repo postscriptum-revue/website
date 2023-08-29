@@ -46,7 +46,6 @@ text: <p><img decoding="async" loading="lazy" src="http://post-scriptum.org/word
 <p>Dans mon roman, plusieurs personnages sont occupés à discuter de cette question, par exemple lorsqu’ils évoquent les hologrammes. Mon narrateur se déplace dans un labyrinthe herméneutique dont il ne parvient pas à sortir. En ce sens la création humaine de la littérature fabrique des mondes polymorphes et polyphoniques. Mais au fond, l’idée de création divine ne fascine pas mes personnages par sa puissance sacrée, ni par ses aspects absolus, tel que la création <em>ex nihilo</em>, mais plutôt par le fait qu’elle est continuée, qu’elle ne cesse pas de se produire. Le rapport en miroir entre la création divine et la création artistique dépendait étroitement d’une théologie médiévale. Il n’existe pas vraiment non plus un conflit entre l’œuvre artistique et l’œuvre divine où la première rectifierait la seconde. Cette rivalité a pu exister, au moins virtuellement, par exemple chez Balzac qui oppose à la Divine comédie de Dante une comédie humaine. <br />Cependant, dans <em>Les Possessions transparentes</em>, mon narrateur est fasciné par la création comme acte pur. Le créateur divin dans les monothéismes n’est pas un démiurge qui imiterait une forme, comme chez Platon. Il crée un monde singulier. La création est une singularité. Je veux dire par là que tout acte est une création unique, évanescente, une trace absolument singulière. C’est l’art qui accepte cette singularité. Nous réduisons rapidement cette singularité, il est vrai, par la reproduction mécanique. C’est pourquoi la création artistique est hantée aujourd’hui par cette singularité inaccessible et originelle. Car tout, la mémoire psychologique, les supports baroques de la culture, d’infinies figures de la répétition, des copies, des mimétismes, des doubles nous séduisent. Nous possédons des images électroniques, des idoles, des réitérations parfaites en haute définition. La culture s’offre comme une gigantesque folie de réitération. Nous avons l’obsession de refaire un itinéraire, goûter à nouveau, réécouter, revoir une œuvre, revivre les vertiges d’une rencontre ou l’étonnement primordial de l’enfance.</p>
 <p>Mais créer, cela est un événement singulier qui échappe aux processus de standardisation, une forme de rupture et de résistance. Accéder au créé, de même, ce serait se joindre et épouser une singularité. C’est pourquoi la reprise n’est pas l’imitation, elle s’oppose à toute imitation, à toute idolâtrie. Toute création authentique se mesure à son degré de solitude.</p>
 
-
 ----
 
 references: 
@@ -54,27 +53,13 @@ references:
 
 [1] Kierkegaard, <em>La répétition</em>, p.27.
 
-
-
-
 [2] Levinas, Emmanuel, <em>En découvrant l’existence avec Husserl et Heidegger</em>, p. 263.
-
-
-
 
 [3] Salazar-Ferrer, Olivier, <em>Les possessions transparentes</em>, p.34-35.
 
-
-
-
 [4] Ibid, p.113.
 
-
-
-
 [5] Ibid, p.65.
-
-
 
 ----
 

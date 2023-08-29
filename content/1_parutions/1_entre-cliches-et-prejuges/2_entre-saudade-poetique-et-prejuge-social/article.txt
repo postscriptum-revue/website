@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Lorsqu’on évoque le Portugal et les Portugais en France, une série de clichés apparaissent, du plus grossier au plus sophistiqué. Face à l’image très socialement connotée du Portugais gentil esclave intégré par le silence, en existent d’autres presque à l’opposé, celles du peuple de poètes qui s’adonnent à une langoureuse « saudade », d’où émergent les emblématiques Fernando Pessoa pour la rime et Amália Rodrigues pour la voix… À partir d’articles parus en France de 1998 à nos jours, on tentera une mise en perspective de ces clichés dans le temps, de leur apparition à leur potentielle évolution. Entre image perçue et image émise, comment le cliché se constitue-t-il ? Comment délimiter l’origine et l’aboutissement du préjugé ? En quoi la « victime » du cliché est responsable de sa création ? Le cliché est-il immuable ou évolue-t-il ?</p>
 
-
 ----
 
 abstract_en: <p>When Portugal or the Portuguese are spoken of in France, a series of clichés come to mind, ranging from the coarse to the sophisticated. Faced with the many social connotations of the amiable slave tacitly integrated in France, there are others such as of the people of poets and singers of « saudades », whence the emblematic Fernando Pessoa and Amália Rodrigues. Based on articles appearing in France from 1998 to the present, this study aims to order these clichés in time, from their appearance to their eventual evolution. How does one discern the origin and the end of a stereotype ? To what extent may the « victim » of the cliché be responsible for its creation ? Is the cliché immutable or does it change ?</p>
-
 
 ----
 
@@ -45,8 +43,6 @@ text:
 <p>« […] On a voulu continuer de donner du « Portugal pépère » l’image d’un pays, petit et si joli, de poètes et de nostalgiques ! », critique Michel Cahen au sujet du Salon du livre de mars 2000. Le chercheur s’insurge également, à l’instar d’Antonio Tabucchi [4] contre « la langue littéraire faite « patrie » et par ce biais, de la lusophonie faite dilatation de la lusitanité » (terminologie rappelant effectivement les brochures du SNI des années cinquante !). « Pourquoi se conformer toujours, en quelque sorte, à cette belle publicité du Porto Cruz – une femme toute de noir vêtue se détachant sur un fond mural éclatant de couleur – et illustrant le signifiant :« Portugal, le pays où le noir est couleur », à savoir la vision archaïsante des années cinquante », martèle encore Michel Cahen (2000 : 763). L’auteur n’aura sans doute pas apprécié la revue parisienne <em>Zurban</em> de juin dernier qui arborait précisément en couverture, sous le titre « Le Portugal s’emballe », une des versions de la publicité qu’il critiquait justement. À l’intérieur, le court article, qui veut montrer que les Portugais de Paris veulent fuir les vieux clichés, évoque quand même le foot programmé sur le parvis de l’hôtel de ville, une messe à Notre-Dame et du fado : les trois « F », en somme Foot/Fado/Fatima (requis par le salazarisme !). Les poncifs sont collants ! Et que dire du nouveau terme usité pour qualifier les fils d’immigrés ? Ils ne ont plus « d’origine portugaise » ou appartenant à telle ou telle génération issue de l’immigration portugaise ; ils sont « lusodescendants », descendants de Viriathe, chef des Lusitaniens, en somme… Quelle promotion ! Mais est-ce là la bonne façon de se défaire du cliché des parents femmes de ménage et maçons ? Du reste c’était effectivement en France le premier gagne pain de la première génération. Ce qu’il manque, sans doute, ce sont des évocations de ces années-là autrement que par des <em>Valise en carton</em> [5] ; des récits réhabilitant une réalité faite du vécu d’une génération que l’on veut jeter à la trappe sous prétexte d’éviter les clichés. Il manque à l’immigration portugaise un traitement noble de son histoire comme la saga que Cavanna a consacré aux Italiens, <em>Les ritals</em>, par exemple.</p>
 <p>Méfions-nous en tout cas de terminologies véhiculant à notre insu un passé funeste pour le Portugal et pour l’histoire culturelle européenne. L’image d’une culture, d’une nation, d’un peuple, pour éviter le cliché, ne peut être que complexe et ouverte sur un horizon de propositions, telle celle proposée par le romancier Jacinto Lucas Pires pour définir la « portugalité » : « C’est un sujet inépuisable. D’après moi, un peuple est un corps avec un miroir en son centre. Eh bien, si ce corps se met à se regarder dans le miroir, le miroir qu’il porte en son centre va lui renvoyer des images d’autres corps qui eux aussi partent d’autres corps en leur centre, et ainsi de suite, jusqu’à l’infini. Bien que « jusqu’à » et « infini » soient des termes assez contradictoires… Bon, excusez-moi » (Pires 2000 : 42).</p>
 
-
-
 ----
 
 references: 
@@ -72,36 +68,17 @@ references:
  	<li><em>Zurban</em>, n° 93, 5-11 juin 2002.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Lors d’un colloque international, consacré aux relations franco-portugaises réalisées en 1982 à Paris par la Fondation Calouste Gulbenkian.
 
-
-
-
 [2] <em>L’Illustration</em>
-
-
-
 
 [3] Paroles de Roger Lucchesi, musique d’André Popp.
 
-
-
-
 [4] Dans <em>Le Monde</em> du 18 mars 2000.
 
-
-
-
 [5] Autobiographie de Linda de Suza ayant défrayé la chronique en France, durant les années quatre-vingt.
-
-
-
 
 ----
 

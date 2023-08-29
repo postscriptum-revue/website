@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Ce texte a été écrit pour écrire et ne cache pas sa vanité. Il porte sur les terrains plus ou moins minés qui empêchent d’attendre. C’est une réflexion sur la solitude et ses clichés, ainsi qu’une auto-provocation simple.</p>
 
-
 ----
 
 abstract_en: <p>This text was written in order to write and does not deny its vanity. It focuses on the more or less safe grounds that keep one from waiting. It is a reflexion on solitude and its clichés, as well as a simple auto-provocation.</p>
-
 
 ----
 
@@ -51,7 +49,6 @@ text: <blockquote><p>Comme toutes les femmes, je me suis ennuyée, fatiguée, pr
 <h3>Une joie</h3>
 <p>Les femmes qui un jour comme un autre se mettent à écrire sur le comptoir de la cuisine sont les plus accueillantes et les moins polies. Elles oublient d’enfourner le rôti et, du coup, de faire tenir leur destin dans une cuillère. Par négligence autant que par entêtement elles laissent une place vacante à leurs côtés pour un étranger ou une passante à qui elles ne feront pas la conversation. Le couvert est peut-être dressé, il n’y a que des biscuits secs à manger, l’Inconnu est invité à se poser tout près aussi légèrement qu’un cheveu sur la soupe. Aimer le vide enlève de la gravité à l’absence, c’est une grâce profane et elle descend rarement sur moi. Et puis je me suis trompée quand je me suis mise à écrire, cette fois-ci encore, heureusement. Cesser d’espérer n’est pas la condition de l’écriture, c’en est la conséquence la plus étonnante, ce moment – il est court sans être fulgurant – où je n’attends plus personne. Miracle à hauteur de femme : je suis accordée à des ondes qui se jouent de moi, solidement sotte, drôlement confiante, toute fondue dans ma torpeur. Je n’arrive plus à formuler un souhait ni à fantasmer un amant en cavale. Je les veux tous et dans mon joyeux bordel de désir je suis le rythme qui me porte et me brise. Cette joie s’explique mal. Elle est simple et solitaire. C’est une maladie qui allège à mesure qu’elle grignote les nerfs. Quand j’écris, j’écris que je n’attends plus personne, quand bien même ce ne serait pas vrai.</p>
 
-
 ----
 
 references: 
@@ -66,11 +63,7 @@ references:
 
 <hr />
 
-
-
 [1] J’ai relevé ce passage du journal de Marie Uguay à la p. 145 de l’essai de Catherine Morency <em>Poétique de l’émergence et des commencements</em>. <em>Les premiers écrits de Miron</em>, <em>Lefrançois</em>, <em>Gauvreau</em>, <em>Giguère et Hébert</em> auquel je renvoie le lecteur puisqu’il y est abordé de manière sensible et perspicace la question de l’amorce du geste poétique, ainsi que ses enracinements et ses répercussions dans la vie matérielle.
-
-
 
 ----
 

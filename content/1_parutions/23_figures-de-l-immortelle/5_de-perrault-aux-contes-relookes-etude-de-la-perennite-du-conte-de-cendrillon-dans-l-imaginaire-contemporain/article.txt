@@ -16,13 +16,11 @@ abstract_fr: <p>Classique de la littérature et du patrimoine folklorique mondia
 <p>C’est à partir de <em>Cendrillon</em> que je me propose d’aborder l’immortalité du conte, comme patrimoine et comme imaginaire, celle-ci préconisant selon moi un double mouvement parallèle de transmission. En effet, les versions écrites et cinématographiques de Perrault et Disney, par leur forme fixe, ont joué un rôle majeur dans la pérennité et la postérité du conte, et dans sa diffusion jusqu’à nous, mais également, la capacité du conte à se multiplier et à s’adapter au fil des siècles a nécessairement contribué à sa pérennité et à sa popularité renouvelée.</p>
 <p>Pour commencer, j’aborderai la question de la transmission du conte, et ferai un survol de la manière dont il s’est perpétué de siècle en siècle, à la fois de manière fixe et dans une constante transformation. Ensuite, j’étudierai la capacité d’adaptation que possède le conte, ainsi que son caractère multiple qui fait qu’il n’est jamais « passé de mode ». Je m’attacherai au phénomène récent du détournement des contes en littérature jeunesse, qui me permettra d’exemplifier de quelle manière ces réécritures permettent le renouvellement du conte et sa survivance. Finalement, je me concentrerai sur la façon dont certaines œuvres contemporaines, telles <em>Cendrillon</em> de Chris Robertson et <em>Cinder</em> de Marissa Meyer, exploitent la caractéristique de l’immortalité du conte au point où celle-ci se retrouve mise en scène ou en abyme à l’intérieur même de leurs œuvres, et verrai de quelle manière cette caractéristique est alors représentée.</p>
 
-
 ----
 
 abstract_en: <p>As a literature classic and as part of world folklore, the fairy tale story <em>Cinderella</em> still inhabits the mind of children and adults of today. The tale, with its overwhelming presence in youth literature, as confirm the abundant versions and transformations, is also well represented in adult fiction, where we find numerous cultural re-enactments. This clearly expresses the everlasting desire of the tale’s representation. Cinderella thus becomes this being that never grows old, out of time, unmovable and multifaceted, as an immortal soul always on the move to inhabit new bodies and forms, always reborn from its own ashes.</p>
 <p>It is by the <em>Cinderella</em> story that I propose to argue the fairytale as an immortal being, both as a heritage and as an imaginary. This immortality shows, according to my research, a parallel double movement of transmission. Indeed, the different written versions and cinematographic representations of Perrault and Disney, by their fixed form, have played a major role in the continued existence and the tale’s posterity, whether it concerns the tale’s outreach or its ability to endlessly multiply and evolve through time, leading to Cinderella’s renewed popularity.</p>
 <p>I will start by answering the question of transmission of the tale and will thus explore a few of the many ways it has perpetuated itself throughout history, as a canon and as a pastiche. Then, I will analyze the tale’s survivability and its adaptability to show how <em>Cinderella</em> is still relevant today. I will study the particular usage of fairy tales in children&rsquo;s literature to give examples of the many ways these rewritings and reimaginings renew the tale and ultimately lead it to survival. This will let me explain how contemporary cultural works as Chris Robertson’s <em>Cendrillon</em> and Marissa Meyer’s <em>Cinder</em> use the tale’s immortality component to the point where it becomes either an integrate part of the narrative or a <em>mise en abyme</em>.</p>
-
 
 ----
 
@@ -76,7 +74,6 @@ text: <p>Peuplant nos imaginaires depuis la nuit des temps, le conte est manifes
 <p>Consacrée dans l’imaginaire, Cendrillon est cet être qui ne vieillit pas. Elle est à la fois intemporelle, immuable et multiple, comme une âme immortelle qui se porte d’un corps à l’autre : certaines de ses formes nous ont plus marqués que d’autres, mais elle continue de se réincarner, renaissant continuellement de ses cendres depuis 2000 ans.</p>
 <p><a href="#_ftnref1" name="_ftn1"></a></p>
 <p><a href="#_ftnref1" name="_ftn1"></a></p>
-
 
 ----
 

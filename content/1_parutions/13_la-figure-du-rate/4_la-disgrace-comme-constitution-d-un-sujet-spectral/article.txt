@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans les trois romans que nous avons retenus, Lauve le Pur de Millet, Raffut de Strauss et Disgrâce de Coetzee, les auteurs nous ont paru expérimenter de manière convergente une forme intransigeante et totale de soustraction, parce qu’ils suivent d’abord le processus de ratage, de déchéance totale qui affecte chacun des protagonistes, radicalement marginalisé, puis entraîné sur des lignes de déterritorialisation absolue, jusqu’au point zéro de sa subjectivité. Cet effeuillage du moi n’est pas seulement une ultime étape dans l’interminable mise à mort du personnage romanesque, mais la condition impérative pour accéder aux discordances majeures, de l’époque. Réduit à la condition de mort-vivant ou de spectre, le personnage devient le siège de forces qui le dépassent, d’événements et de visions, du heurt assourdissant entre passé et présent. Témoin ou révélateur de son temps, il apparaît enfin comme le dépositaire d’une langue épuisée et agonisante, qu’il ne peut qu’accompagner dans son naufrage.</p>
 
-
 ----
 
 abstract_en: <p>In the three novels studied, Millet’s Lauve the Pure, Strauss’ Rumor and Coetzee’s Disgrace, the authors seemed to experiment in a convergent manner with an intransigent and total form of subtraction, since they first follow the process of failure, of total decay affecting each of the radically marginalised protagonists, then lead them along lines of absolute deterritorialisation to the point zero of their subjectivity. This thinning out of the self is not only the ultimate step in an interminable death sentence imputed upon the novelistic character, but the imperative condition to access the era’s major discordances. Reduced to the condition of the walking-dead or the spectre, the character becomes the siege of forces beyond him, of events and visions, of the deafening clash between the past and the present. Witness or revelation of its time, it appears finally as the depository of a tired and agonising tongue that he can only follow in its wreck.</p>
-
 
 ----
 
@@ -49,7 +47,6 @@ text: <p>Quelques années après la chute du mur de Berlin, en 1993, Botho Strau
 <h3>***</h3>
 <p>Dans cette petite étude, nous n’avons fait qu’effleurer un sujet comparatiste beaucoup plus vaste. L’échec, ou pour mieux dire, avec Coetzee dont le mot résume si parfaitement le processus que nous avons évoqué : la « disgrâce » nous est apparue, non comme le contraire de la réussite ou du succès, mais comme le prolongement d’une mélancolie soudain vertigineuse, l’ascèse violente mais nécessaire, pour qui veut s’arracher au monde autant qu’à lui-même. Ainsi, le succès, s’il en est encore un, consiste « uniquement dans le fait d’assumer héroïquement la dimension de l’échec même, de « répéter » l’échec en se l’appropriant » (Žižek, 2006 trans. 2008 : 352). Surenchérir dans l’avilissement et l’abjection, non pour prétendre à une quelconque sainteté dans la transgression et dans le Mal, mais pour être tout simplement <em>disponible</em>, pour être en mesure de voir, entendre et dire cet excès de vérité évoqué par Coetzee : « de la vérité à plein seaux, qui submerge et inonde tout acte d’imagination » (Coetzee, 1992, trans. 2007 : 64).</p>
 
-
 ----
 
 references: 
@@ -79,46 +76,21 @@ references:
  	<li>___, <em>La Parallaxe</em>, Paris, Fayard, 2008.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Sur ce point : lire Jean Genet, « Violence et brutalité, in <em>L’Ennemi déclaré</em>, Paris, Gallimard, 1991, p. 200.
 
-
-
-
 [2] On parle de Parallaxe, lorsque, en termes hégéliens « un changement « épistémologique » dans le point de vue du sujet traduit (…) un changement « ontologique » dans l’objet », ou, en termes lacaniens, dans la mesure où « le regard du sujet est toujours-déjà inscrit dans l’objet perçu comme son « point aveugle », comme ce qui est « dans l’objet plus que l’objet lui-même. » (Žižek, 2006 ; trad. 2008 : 22).
-
-
-
 
 [3] Derrière la loi : le maître obscène, « le surmoi [qui] vous ordonne de jouir de ce que vous <em>devez</em> faire » (Žižek, 2004, trans 2006 : 35).
 
-
-
-
 [4] Žižek parle de « ça-mal » : « violence qui n’est fondée sur aucune raison utilitaire ou idéologique », ou encore de « violence ultrasubjective », laquelle constitue le supplément monstrueux de la « violence ultraobjective inhérente aux conditions sociales du capitalisme mondial » (Žižek, 1999, trans 2007 : 272-273).
-
-
-
 
 [5] Lucy : « …Il n’y a pas de vie d’un ordre supérieur. Cette vie-ci est la seule que nous ayons. Et c’est la vie que nous partageons avec les animaux. (Coetzee, 2001 : 95)
 
-
-
-
 [6] Au point que Lurie envisage un instant d’inclure la complainte du chien dans son opéra : « Pourquoi pas ? Tour est permis, sûrement, dans une œuvre qui ne sera jamais produite. » (Coetzee, 2001 : 268)
 
-
-
-
 [7] Lire sur ce point : « Richard Millet, un manifeste antimoderne ? » de C. Lapeyre-Desmaison, in <em>Richard Millet : La langue du roman</em>, Artois Presses Université, Arras, 2008.
-
-
-
 
 ----
 

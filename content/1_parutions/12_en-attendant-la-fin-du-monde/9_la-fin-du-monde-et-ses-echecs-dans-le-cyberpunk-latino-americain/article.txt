@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article se penche sur le chemin que doit faire la conception apocalyptique à l’intérieur d’une double contrainte littéraire et critique. D’une part, on abordera brièvement le cyberpunk, un sous-genre de la science-fiction où l’idée du futur paraît obsolète. D’autre part, on passera en revue quelques dispositifs critiques qui conditionnent un texte en provenance d’un contexte dit postcolonial. Entre l’imaginaire d’un présent hypermédiatisé dans les pays postindustriels et un présent atemporel de l’identité nationale et moderne des pays en voie de développement, l’apocalypse oblige à potentialiser l’appareil herméneutique vers de nouvelles conceptions du collectif.</p>
 
-
 ----
 
 abstract_en: <p>This paper looks into the way apocalypse must deal with a literary and critical double bind. On the one hand, we will discuss briefly cyberpunk, a science fiction subgenre in which the idea of the future seems to be obsolete. On the other hand, we will study some critical devices which determine a text as a postcolonial product. Between a hypermediatised present operating in post-industrial societies and a timeless present creating the modern national identity of developing countries, the apocalypse imposes a broadening of the hermeneutical apparatus towards new conceptualizations of the collectivity.</p>
-
 
 ----
 
@@ -65,7 +63,6 @@ Investissement utopique (le texte)
 </blockquote>
 <p>Jameson place dans les trois aspects supérieurs—le corps, la temporalité et le collectif—les niveaux de l’allégorie contemporaine (6), alors qu’il emprunte des termes techniques et la manière de les diviser à la <em>lectio divina</em>, une méthode provenant de l’exégèse biblique. Ainsi, les niveaux qu’il propose correspondent aux quatre sens des Saintes Écritures. Tandis que l’allégorique, le moral et l’anagogique font partie du sens spirituel, le texte resterait dans le niveau historique, dans lequel se trouvent les formes conventionnelles d’analyse : interprétation parabolique (intention de l’auteur), étiologique (étude de l’énonciation), et analogique (étude des parties du texte). La nation, comme on l’a vu, ainsi que ses implications pour le corps et la temporalité, ont été subsumées dans ce premier niveau, laissant les autres trois dépourvus d’un sens du signe apocalyptique, et se privant également d’un nouveau sens du collectif plus prometteur. Ainsi, la faille magnétique dans <em>Santa Clara Poltergeist</em>, malgré tout le roman et les dispositifs critiques qui le conditionnent, devra se voir comme le seuil d’une nouvelle modalité de pensée.</p>
 
-
 ----
 
 references: 
@@ -90,21 +87,11 @@ references:
  	<li>STERLING, Bruce, « Letter from Bruce Sterling », <em>REM 7</em>, Avril, 1987, 4-7 pp.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Figure rhétorique consistant dans un éloignement abusif du sens originaire d’un mot ou d’une idée.
 
-
-
-
 [2] Pour Roberto Schwartz, le <em>tropicalismo</em> produit une « idée atemporelle du Brésil » (Dunn, Ibid.).
-
-
-
 
 ----
 

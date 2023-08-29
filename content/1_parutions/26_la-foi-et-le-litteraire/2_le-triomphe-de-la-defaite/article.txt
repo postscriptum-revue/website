@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>De <em>Perte et gain</em> de John Henry Newman (1848) à <em>La Fin d’une liaison</em> (1951) de Graham Greene, la conversion à la foi catholique se trouve, en Angleterre, au cœur d’un corpus de textes qui s’avère avoir une histoire. En dépit de disparités de forme (autobiographie spirituelle, roman de conversion) ou de fond (la conversion au catholicisme d’un agnostique, d’un athée ou d’un protestant ne rencontre pas le même type de résistance ni ne suit les mêmes étapes), ces récits présentent tous la transformation du sujet à chaque fois défait par la foi après une lutte intérieure (intellectuelle ou spirituelle). Néanmoins, bien qu’il ait pour but principal de laisser l’objet de la foi se manifester et de le représenter, ce type de récit a suivi trois étapes différentes entre 1850 et 1950 : à l’origine, récits et romans de conversion donnaient à lire la défense d’un sujet attaqué (voir l’<em>Apologia Pro Vita Sua</em> de Newman), puis ces récits se sont révélés être des occasions d’attaquer le monde moderne (voir les romans de Robert Hugh Benson) avant que, dans un troisième temps, les romans de conversion se trouvent finalement dépourvus de toute apologétique (voir les romans d’Evelyn Waugh ou de Graham Greene). La présence de la foi catholique dans ces textes littéraires a ainsi permis de revitaliser la littérature anglaise (qui, selon Greene, se « dévitalis[ait] ») à une époque où la question de la foi en Dieu en devenait progressivement absente.</p>
 
-
 ----
 
 abstract_en: <p>From John Henry Newman&rsquo;s <em>Loss and Gain</em> (1848) to Graham Greene&rsquo;s <em>The End of the Affair</em> (1951), conversion to the Catholic faith is at the heart of a corpus of texts in England which has a history. In spite of certain disparities of form (the spiritual autobiography, the conversion novel) or of substance (the conversion to Catholicism of an agnostic or an atheist or a Protestant does not meet with the same type of resistance nor follows the same stages), these narratives have all something in common: they all present the transformation of the subject who is always defeated by faith after inner (intellectual or spiritual) struggle. Nevertheless, although it has the primary purpose of letting the object of faith manifest itself and of representing it, this type of narrative followed three different stages between 1850 and 1950: at first, conversion narratives and novels presented a defense of a subject under attack (see Newman’s <em>Apologia Pro Vita Sua</em>), then these narratives turned out to be opportunities to attack the modern world (see Robert Hugh Benson’s novels), and eventually conversion novels were written without any apologetics (see Evelyn Waugh’s or Graham Greene’s novels). English literature, which according to Greene had been « devitalized » since the modernists, can thus be said to be revitalized by the presence of the Catholic faith in these texts.</p>
-
 
 ----
 
@@ -65,7 +63,6 @@ text: <h3>Introduction</h3>
 <p>– a/ on passe d’une époque où le récit de conversion est premier et le roman de conversion secondaire, à une époque où le roman de conversion est premier et où le récit de conversion disparaît quasiment, et</p>
 <p>– b/ on passe d’un roman de conversion où le théologique et le philosophique priment sur le littéraire, à un roman de conversion où c’est le littéraire qui vient en premier et le théologique et philosophique en second.</p>
 <p>En d’autres termes, en commençant avec Newman et en se terminant quasiment avec Graham Greene, le récit et le roman de conversion au catholicisme en Angleterre, ont une histoire qui se situe à la fois à l’intérieur de l’histoire de la littérature anglaise et à l’intérieur de l’histoire de l’écriture de la foi catholique.</p>
-
 
 ----
 

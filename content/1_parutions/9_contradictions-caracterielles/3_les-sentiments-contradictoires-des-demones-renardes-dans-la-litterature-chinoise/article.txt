@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le renard occupe une place bien particulière dans la culture chinoise. D’animal, il est devenu démon, puis personnage de récits littéraires attenant au domaine de l’étrange. Cette longue évolution s’est faite au fil des dynasties, sur plus de deux millénaires, sous l’influence conjointe des courants de pensée (confucianisme, taoïsme, bouddhisme) et des écrivains. Les différentes croyances à l’égard de cet animal ont donné naissance à « l’esprit-renard », un être aux frontières entre le monde naturel, le monde des démons et le monde des hommes, qui évolue sans cesse entre animalité et humanité, entre démoniaque et bienveillance. Cette appartenance problématique à l’une ou l’autre catégorie se révèle particulièrement marquante dans deux contes de la fin des Ming, où des renardes démoniaques vont brusquement se montrer sentimentales et émouvantes.</p>
 
-
 ----
 
 abstract_en: <p>Chinese culture has given the fox a peculiar role. At first an animal, he became a demon, and then a literary character in tales pertaining to the strange. This long evolution took place throughout the dynasties, over more than two millennia, and is traceable to both the influence of philosophical traditions (Confucianism, Taoism, Buddhism) and individual writers. The different beliefs towards this animal have birthed the « fox-spirit, » a liminal being that straddles the distinctions between the natural world, the world of demons, and the world of humans. This spirit continually shifts from animalistic to humanity, from demonic to benevolent. This ambivalence is particularly striking in two tales from the end of the Ming dynasty, where demonic she-foxes can suddenly become emotional and moving.</p>
-
 
 ----
 
@@ -46,8 +44,6 @@ sa longue queue se change en robe cramoisie et traînante. [2]
 <p>Si le renard possède des facettes multiples dans la culture chinoise, se révélant tour à tour animal, démon, vampire sexuel ou maîtresse aimante, il a tendance au fil des siècles à s’humaniser, sous la plume des écrivains des dernières dynasties impériales. Les récits présentent alors des personnages de femmes-renardes démoniaques pleines de contradictions caractérielles, qui se montrent encore plus sentimentales et touchantes que de vraies humaines. C’est cette ambivalence que semblent vouloir mettre en avant certains auteurs de contes vulpins, comme Ling Mengchu ou Zhou Qingyuan, qui prennent le parti de montrer qu’en chaque être mauvais il y a du bon, qu’en chaque démon il y a de l’humain. Nous l’avons vu dans les deux histoires présentées plus haut, les démones renardes, au-delà de leur charme et de leur grande maîtrise des arts sexuels, peuvent en effet se révéler parfois plus aimantes que de véritables humaines. Comme l’écrit Pu Songling : « Cela nous apprend que les sentiments d’une créature surnaturelle sont bien plus profonds que ceux du monde vulgaire. » (Pu Songling, 2005 : 1122). On rejoint alors la théorie de Ling Mengchu qui écrit dans le poème d’introduction de son conte : « Tous les êtres ont le pouvoir d’aimer, qu’il s’agisse de fantômes ou de démons. » Ainsi, un être à priori démoniaque porte forcément en lui la capacité de ressentir des sentiments : même s’il faut s’en méfier, il faut également savoir lui donner une chance (celle de l’épargner ou de l’aimer), un déclic nécessaire à la manifestation de sa bienveillance et de sa part humaine.</p>
 <p><em>Solange Cruveillé, doctorante en littérature chinoise, Université de Provence, Membre associé de l’équipe de recherche « Littérature d’Extrême-Orient : textes et traduction », Aix-en-Provence.</em></p>
 
-
-
 ----
 
 references: 
@@ -70,26 +66,13 @@ references:
  	<li>ZHOU Qingyuan 周清原, <em>Xihu erji 西湖二集 (Deuxième collection du Lac de l’Ouest)</em>, Beijing, Renmin Wenxue, 1999.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Adjectif relatif au renard, utilisé notamment dans le domaine de la traduction de contes chinois sur le renard (voir les traductions de Jacques Dars et d’André Lévy).
 
-
-
-
 [2] Pour une traduction similaire, voir Van Gulik, 2001 : 267-269.
 
-
-
-
 [3] Pour une présentation de cette histoire, voir Chang Fu-Jui, 1981 : 1256-1260. Pour une traduction intégrale, voir Lévy, 1988 : 265-285
-
-
-
 
 ----
 

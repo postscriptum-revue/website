@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article souhaite mettre en lumière les enjeux politiques de la laideur qui sont la trame du grotesque dans le film <u>Joker</u> de Todd Philipps (2019). Relié à ses origines picturales, le grotesque est avant tout un affranchissement des points de vue prédominants sur le monde. Que ce soit dans les ornementations retrouvées sous la Renaissance à Rome, dans le bestiaire médiéval ou au sein des carnavals, le laid représenté dans le grotesque est signe d’une a-normalité qui défie les lois de la nature et met en avant les défauts de l’humanité. La caricature politique, qui tire ses sources de cette histoire picturale et carnavalesque, pointe aussi du doigt la laideur du monde et propose une morale. Mais, selon Mikhaïl Bakhtine, le grotesque produit aussi une ambiguïté et n’aboutit pas forcément à un discours fixe. Les figures du carnaval ne produisent pas toujours une moralité clairement définie. De même, dans le film <u>Joker</u>, tandis que le laid se focalise dans le rire pathologique du personnage, au fur et à mesure de la narration, la laideur se détourne de ce rire vers la société corrompue qui laisse les plus démunis dans le besoin et méprise les plus faibles. Le rire pathologique devient un rire salvateur et cristallise les espoirs d’une révolte politique contre l’oppression. Cependant, la violence portée contre les privilégiés arrogants par le Joker et ses adeptes est source de laideur (meurtres) et peut-être une illusion (la scène finale induit le-la lecteur-trice vers une lecture du film issue d’un narrateur fou). Ainsi, le laid grotesque, tout à la fois comique et tragique, tout à la fois moral et a-moral, est politique en ce qu’il ne propose rien. C’est ce vide de sens, ou plutôt cette multiplication des sens, qui propose une véritable utopisation du monde, où le changement politique devient possible.</p>
 
-
 ----
 
 abstract_en: <p>This article aims to highlight the political issues of the ugliness that are weaving within the grotesque in the movie <u>Joker</u> by Todd Philipps released in 2019. Related to its pictorial origins, the grotesque is above all a liberation from predominant points of view in the world. Whether in the ornaments found during the Renaissance in the Palace of Nero in Rome, in the medieval bestiary or within carnivals, the ugly represented in the grotesque is a sign of a-normality, which defies the laws of nature and encounters the shortcomings of humanity. The political caricature, which draws its sources from this pictorial and carnival history, also points to the ugliness of the world and proposes a moral. But, according to Mikhaïl Bakhtine, the grotesque also produces an ambiguity and does not necessarily lead to a unilateral speech. Carnival figures do not always produce a clearly defined morality. Similarly, in the film <u>Joker</u>, while the ugly focuses on the pathological laughter of the character, as the narration progresses, ugliness turns away from this laughter towards the corrupt society, which leaves the poorest in need and disregards the weakest. Pathological laughter becomes saving laughter and crystallizes hopes for a political revolt against oppression. However, the violence brought against the arrogant privileged by the Joker and his followers is, at the same time, source of ugliness (murders) and perhaps an illusion (the final scene leads the reader to a reading of the film from an insane narrator). Thus, the grotesque ugliness, at the same time comic and tragic, at the same time moral and a-moral, is political in that it offers nothing. It is this emptiness of meaning, or rather this multiplication of meaning, which offers a real utopianization of the world, where political change becomes possible.</p>
-
 
 ----
 
@@ -87,7 +85,6 @@ Son ventre plein d’exhalaisons.</p>
 
 <h3>Conclusion: la vérité des gueux et des fous</h3>
 <p>Le film <em>Joker </em>nous amène à porter un regard critique sur notre société. Le grotesque et la laideur présents dans le film sont d’abord la manifestation d’une déshumanisation des êtres par un pouvoir aliénant et coercitif. L’ordre dominant produit des monstres, rabaisse les anormaux, rend difforme les corps et les êtres. Paradoxalement, la laideur contenue dans le grotesque peut contester l’ordre établi. Il s’agit de montrer aux yeux du monde le masque mortifère imposé par une société aliénante. Les gueu-se-x, les démuni-e-s, les incompris-e-s, les laissé-e-s pour compte peuvent, en forçant les traits de leur propre caricature hideuse enclencher un mouvement de révolte, tourner en dérision la norme dévalorisante. Dans le film<em> Joker</em>, le caractère subversif du grotesque ne peut s’exprimer que dans la destruction et la mort. C’est une mise en abîme de la déshumanisation des êtres. Cette laideur du grotesque produit aussi un sentiment d’inattendu, d’incongruité, de non-sens, explosant le ronron sécurisant de la raison. L’ambivalence et l’amoralité de cette esthétique nous oblige à reconstruire par nos propres moyens les chemins qui mèneraient à une logique. La pensée se carnavalise avant d’entamer une révolution. Le monde, pendant un temps, s’utopise. Le grotesque est ainsi la vérité des fous qui rient de leur propre folie. Todd Phillips porte un regard critique sur cette révolution en marche. Signe d’une crise sacrificielle, le bouffon du roi est sanctifié pour annoncer un nouvel ordre dominant qui, à son tour, produira des lois, des normes et des monstres. C’est l’éternel retour d’une altérité sous le signe de la violence, c’est le cycle sans fin du carnaval.</p>
-
 
 ----
 
@@ -168,47 +165,25 @@ TODD, Phillips. <em>Joker</em>, DC Films, 2019.
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Les origines ont déjà été plusieurs fois évoquées dans les nombreuses représentations de ce personnage mais de façon succinctes et toujours différentes. Elles s’accordent cependant sur un fait : le Joker serait devenu fou en raison d’un traumatisme (chute dans une cuve de produits chimiques et dangereux qui le défigure, scarification du visage par son père ou par lui-même, etc.). « Le film Joker de 2019, porté par Joaquin Phoenix a réécrit les origines du personnage tout en occultant le personnage de Batman. La lutte n’est plus avec un héros incarnant le Bien, mais avec une société impitoyable et à bout de souffle. » (Leger, 2020 : 105)</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> La cosmogonie médiévale scinde l’humain en deux. Le Haut-corporel est le lieu de l’esprit et du Verbe tandis que le Bas-corporel est le lieu de la matière (manger, boire, digestion, excréments) et de la sexualité (accouplement, fécondité, grossesse, accouchement). Dans le carnaval médiéval et sous la Renaissance, selon M. Bakhtine, l’esthétique grotesque, appelée aussi réalisme grotesque, se manifeste dans le rabaissement de soi et de l’autre au Bas-corporel, à l’immanence de la matière. Ce rabaissement se manifeste dans la souillure, le barbouillage (jeter sur l’autre des œufs pourris, le contenu d’un pot de chambre, de la farine, de la cendre, etc.), dans l’ivresse, l’orgie (boire et manger jusqu’à plus soif, jusqu’à en vomir), dans la grivoiserie des gestes et des propos (chansons mettant en scène la sexualité du peuple, jeux carnavalesques obligeant le rapprochement des corps, sexualité débridée manifeste), dans des déguisements et jeux de scène qui évoquent le Bas-corporel (homme en femme enceinte accouchant sur le parvis, corps bedonnant, etc.).</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Le CNRTL définit la mascarade comme étant principalement un « [d]divertissement dont les participants sont déguisés et masqués » et par métonymie le rassemblement et le « défilé de personnes déguisés et masquées », ainsi que le déguisement lui-même.</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Le choix musical est ici tout à fait intéressant. Le ragtime, initialement cake-walk, est une musique noire-américaine qui porte le masque du syncrétisme culturel pour mieux en déjouer les pièges. Danse des communautés noires, apparue aux alentours des années 1870, imitant avec ironie et dérision les maîtres blancs se rendant au bal, contient en elle une dynamique de subversion. Il s’agit de se déguiser, de parader et de caracoler, à la manière d’une fête carnavalesque, afin de se moquer des maîtres blancs en leur faisant croire à un simple spectacle, une simple bouffonnerie. Par ailleurs, selon Geneviève Fabre, dans son ouvrage consacré au théâtre noir aux États-Unis, beaucoup de chants et mimes des esclaves noirs apparurent dans le but de mettre en place une satire des maîtres blancs. Elle écrit qu’il « était cependant rare que les Blancs qui en faisaient les frais en prissent ombrage ; le plus souvent, la caricature ne leur apparaissait que comme l’expression de la maladresse des Noirs, de leur inaptitude à imiter les bonnes manières de leurs maîtres. Or, pour les Noirs, la naïveté et la méprise du Blanc donnaient précisément du piment au spectacle. » (Fabre, 1982 : 23)</p>
-
 
 <p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> Le parallélisme entre <em>Les Temps modernes</em> et le <em>Joker </em>peut aller plus loin encore. Il ne s’agit pas seulement d’une mise en évidence de la déshumanisation que provoque la modernité et système économique, c’est aussi la manifestation d’un besoin de révolte. Charlie Chaplin comme Arthur Fleck devient un symbole de révolution malgré lui. Après avoir été interné en hôpital psychiatrique car le fordisme, le travail à la chaîne, l’avait rendu fou, il sort et se retrouve dans une société qui subit la Grande Dépression. Il trouve par hasard un drapeau rouge et l’agite pour s’amuser. Une manifestation massive se fait alors autour de lui et l’entraîne vers une révolution communiste.</p>
 
-
 <p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Voir le portail septentrional de la Cathédrale de Rouen datant du XIIIe siècle.</p>
-
 
 <p><a href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> « Nous entendons par existentialisme une doctrine qui rend la vie humaine possible et qui par ailleurs déclare que toute vérité et toute action impliquent un milieu et une subjectivité humaine » (Sartre, 1996 : 83).</p>
 
-
 <p><a href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> Ce jugement est à comprendre d’un point de vue bourdieusien. Les éléments dits kitsch constituent une « esthétique populaire » (décoration intérieure, mode) impliquant une « subordination de la forme à la fonction » (Bourdieu, 1979 : 33) et participant au jeu de distinction entre classes dominantes se considérant au goût « pur », au capital culturel riche, et classes populaires jugées au goût « barbare », au capital culturel pauvre. De même, le côté délabré de l’espace urbain autant extérieur (rues, métro) qu'intérieur (appartement) est le signe d’une pauvreté involontaire et une composante majeure dans la distinction sociale et le jugement esthétique.</p>
 
-
 <p><a href="#sdfootnote9anc" name="sdfootnote9sym">[9]</a> Le traitement visuel de la ville de Gotham City crépusculaire et brumeuse est récurrent dans l’histoire de la série Batman. Ce super-héros justicier combattant la pègre principalement la nuit, une esthétique commune se retrouve dans les représentations cinématographiques et <em>comics</em> de cette série. Cependant, la particularité de Todd Phillips est d’enrichir cette atmosphère de teintes colorées contrastées.</p>
-
-
 
 <a href="#sdfootnote10anc" name="sdfootnote10sym">[10]</a> <a href="#sdfootnote11anc" name="sdfootnote11sym"></a>Les individus, en contact les uns avec les autres au sein d’un groupe, s’imitent continuellement afin d’accéder au même objet de désir depuis longtemps indéfini, rendu à l’état de <em>stimuli </em>virtuel. L’autre qui m’imite trop devient un ennemi puisqu’il risque d’accéder avant moi à l’objet virtuel tant aimé. Dans ce jeu de mimétisme, l’objet haïssable autant que l’objet aimé est un objet à avoir en commun. Jusqu’à ce que le groupe entier se tourne contre un même bouc émissaire, qu’il devient nécessaire de sacrifier, afin que les individus ne s’entre-tuent pas et retrouvent la paix née des différences qui séparent les uns des autres. Le sacrifice fondateur est essentiel à la survie du groupe. Dès lors, le bouc émissaire devient un dieu à respecter et à honorer régulièrement pour ne pas retourner au dérèglement originel de la crise mimétique et sacrificielle. Le culte, dans cette perspective, devient une remémoration consciente ou inconsciente de ces deux crises.
 
 <p><a href="#sdfootnote11anc" name="sdfootnote11sym">[11]</a> Les paroles de la chansons de Jackson C. Frank font écho à l’histoire d’Arthur Fleck : « Here there is no law / But the arcade’s penny claw / Hanging empty / The painted laughing smile ».</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 ----
 

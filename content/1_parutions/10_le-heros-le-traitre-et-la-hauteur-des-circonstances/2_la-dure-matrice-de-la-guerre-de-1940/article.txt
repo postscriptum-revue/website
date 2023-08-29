@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article porte sur les modulations du schéma de l’initiation dans trois romans qui racontent la guerre franco-allemande de 1940 : Un balcon en forêt de Julien Gracq (1958), Suite française d’Irène Némirovsky (2004 [1942]) et Le Train de Georges Simenon (1961). La structure tripartite et les symboles de l’initiation hantent l’expérience que les personnages des trois œuvres font de la « drôle de guerre » et de la débâcle, sans que leur trajectoire s’y conforme totalement. Ces initiations ratées, incomplètes ou inexploitées éclairent la conception de la guerre et de l’héroïsme qu’élabore chaque roman. Globalement, le recours à l’initiation répond au besoin de donner sens à l’étrangeté et au chaos de cette guerre, en même temps qu’il embrasse ceux-ci. L’absence de sa dernière phase, la réintégration, met en évidence la part d’inconciliable entre cette guerre et la suite des événements ainsi qu’entre les expériences individuelles et les récits collectifs.</p>
 
-
 ----
 
 abstract_en: <p>This article focuses on the modulations of the initiation pattern in three novels that take place during the Franco-German war of 1940 : Julien Gracq’s Un balcon en forêt (1958), Irène Némirovsky’s Suite Francaise (2004 [1942]) and Georges Simenon’s Le Train (1961). In all three works, the tripartite structure and symbols of initiation haunt the characters’ experience of the « phoney war » and the débâcle, without their trajectories fully conform to the pattern. These failed, incomplete or untapped initiations reveal the concept of war and of heroism elaborated by each novel. Overall, initation answers the need to give meaning to the strangeness and chaos of this war, while embracing them. The lack of its final phase, reintegration, highlights the share of incompatibility between this war and subsequent events as well as between individual experiences of the conflict and collective narrations of it.</p>
-
 
 ----
 
@@ -76,7 +74,6 @@ text: <p>Huit mois d’attente le long de la ligne Maginot, l’arme au pied ; 
 <p>En faisant de la guerre l’élément déclencheur et le cadre d’un parcours possiblement initiatique, les trois romans interrogent le rôle joué par le conflit armé dans les histoires individuelles. Il est à cet égard assez remarquable que Némirovsky et Simenon soumettent des civils à une trajectoire au potentiel d’initiation, ce qui souligne que nul n’échappe à la guerre moderne et, en retour, que ses héros potentiels se trouvent aussi parmi les civils.</p>
 <p>Le passage sous silence de la phase de réincorporation qu’ont en commun la plupart de ces parcours met en évidence la part d’inconciliable entre cette guerre étrange et la suite des événements — l’Occupation, la reconstruction — de même qu’entre les expériences individuelles du conflit et les récits collectifs qui tâchent de les intégrer. Leurs références à l’initiation contribuent ainsi à ériger ces romans en gardiens de l’incohérence de la drôle de guerre.</p>
 
-
 ----
 
 references: 
@@ -98,21 +95,11 @@ references:
  	<li>____, « Le mythe du Graal et la quête du sacré », dans <em>Julien Gracq</em> <em>: Actes du colloque international d</em>’<em>Angers (21,22,23 mai 1981),</em> 2e édition revue et corrigée, Angers, Presses de l’Université, 1982.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Le terme « schéma » est ici préféré à celui de « rite » (plus courant en anthropologie) parce qu’il rend compte d’un éventail plus large de phénomènes et de références initiatiques, lesquels peuvent être plus ou moins ritualisés. En ce qui concerne les trois récits considérés, bien que tous tendent à figer en rituels certaines habitudes bien ancrées de leurs personnages, l’exceptionnalité et l’imprévisibilité relatives de la guerre moderne en général et celle de 1939-1940 en particulier, avec la phase de latence qui lui a valu son surnom et l’exode des civils pendant la débâcle, tendent à soustraire celle-ci à la ritualisation.
 
-
-
-
 [2] Au sujet de l’avenir de la France qui se profile dans <em>Suite française,</em> voir Dupont (2008 : 103-126).
-
-
-
 
 [3] Ce schéma a été mis en lumière par Jacques Dubois (1972), qui en résume les six étapes essentielles en ces termes :
 <ul>
@@ -124,12 +111,7 @@ references:
  	<li>f) toutefois, le héros a conquis, en cours d’expérience, une sorte de lucidité et il a dressé un bilan de soi (Dubois 1972 : 64).</li>
 </ul>
 
-
-
 [4] « Je n’étais pas révolté contre mon mode de vie. Je l’avais choisi. J’avais réalisé patiemment un idéal qui, jusqu’à la veille [de l’évacuation], je le répète en toute sincérité, m’avait donné satisfaction » (Simenon 1961 : 857).
-
-
-
 
 ----
 

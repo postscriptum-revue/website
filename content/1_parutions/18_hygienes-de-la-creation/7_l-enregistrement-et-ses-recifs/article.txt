@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet essai s’intéresse, par l’entremise de deux penseurs, Theodor W. Adorno (lui-même poursuivant un long dialogue avec les théories de Walter Benjamin) et Glenn Gould, à la reproduction technique de la musique et, plus particulièrement, aux récifs de sa mise en image sonore et de sa projection, fût-ce par l’enregistrement ou par sa radio-électrocution, à ce qui dans cette façon d’expérimenter la musique comme image peut empêcher d’en faire l’expérience effective, authentique. Il s’agit, parallèlement à ces préoccupations théoriques, d’y penser, je veux dire dans cet essai, la façon dont ces deux cas, le cas Gould et le cas Adorno, permettant une sorte de dialectique entre théorie et praxis, posent la question de la création comme déchirement entre le moment conservateur — lucide — de la pensée et une certaine irrémédiable irresponsabilité, à l’atteinte du nouveau inhérente.</p>
 
-
 ----
 
 abstract_en: <p>Drawing on the works of Theodor W. Adorno and Glenn Gould, this essay deals with the mechanical reproduction of music and, more specifically, with the reefs (or drifts) of its translation into an image and its projection, either by recording or radio-electrocution. This way of experiencing music as an image might impair the listening experience and render it ineffective, inauthentic. In tandem with these theoretical preoccupations, this essay considers how the two cases of Gould and Adorno can give rise to a sort of dialectic between theory and praxis (two very different accentuations indeed, although neither is made at the expense of the other, as the two are already cases of dialectical thinking) which brings creation into question : creation as a polarity between lucidity, which Adorno calls the conservative moment of thinking, and a sort of intrinsic irresponsibility inherent to the pursuit of novelty.</p>
-
 
 ----
 
@@ -46,7 +44,6 @@ text: <blockquote><p><em>Faute d’aura</em>, <em>au moins éparpillons nos effl
 <p>Qu’est-ce à dire (ou à redire) ? Que si la <em>corrélation entre la neutralité de la musique de fond et le fait que son médium soit l’enregistrement indique qu’ils sont en fait deux aspects complémentaires d’un même phénomène</em>(Gould, 1990 : 347), et qu’inhérent à l’enregistrement, quoiqu’à des degrés variables, s’avère alors un tel phénomène : une telle aseptisation-expérience-environnementale-de-la-musique par l’industrie à dessein exploitée et à dessein d’exploitation, — il faut donc sauver l’enregistrement de lui-même, de ses propres impulsions. Non seulement de l’idéalisme de la philosophie de l’enregistrement, mais de ce que cette philosophie a souligné et favorisé en lui de plus malsain, c’est-à-dire sa domestication, qui entraîne et celle de l’œuvre et la nôtre. Ce qui ne veut pas dire que c’est la proximité <em>physique</em> avec l’œuvre qui doit être mise à distance, cette proximité qu’a permise son existence en série et qui, comme l’ont souligné Gould et Adorno, s’apparente à celle de la lecture de la partition, mais que cette proximité ne devrait pas servir de prétexte à ce que le phénomène même de l’enregistrement neutralise et environnementalise l’enregistré jusqu’à le rendre invisible — <em>les images omniprésentes n’en sont pas</em> —, ce que l’environnement est.</p>
 <p>Abolir ce que l’enregistré a d’aboli. Rétablir au sein de l’environnement une distance entre soi et l’image sonore : introduire un peu d’étranger dans la maison. S’opposer ainsi au narcissisme esthétique auquel contribue l’enregistrement sous la tutelle de l’industrie et de la domination. Voilà des exigences plus que pressantes et toujours à refaire. Car si, d’événementielle qu’elle était jadis à cette existence environnementale, la musique a appris à se fondre dans le décor, puis à le masquer, et ce, si bien que tout enregistrement est potentiellement musique de fond, que, la différence fondamentale entre musique sérieuse et populaire disparaissant, toute existence musicale se résorbe jusqu’à n’être plus qu’un aboli bibelot d’inanité sonore (extension, intensification de l’ensemble des <em>œuvres blanches</em> en série), eh bien ! cet aboli bibelot d’inanité ambiante, il faut employer toutes nos forces à le saccager, à fracturer — de façon à le désigner — le miroir qu’est sa pseudo-absence, à faire apparaître ce que l’accoutumance et sa trop grande tactilité ont fait du réel s’évanouir et ont accru à la fois, à savoir l’immonde.</p>
 <p>Fracturer la surface sans aspérité de l’apocryphe. C’est en fait tout le combat de la musique d’avant-garde qui se dessine ici : celui de la Seconde école de Vienne (dont Gould ne semble comprendre que l’architectonique rationnelle, mais pas du tout l’horreur dont elle se fait le dépositaire), de Stockhausen, de Xenakis, de Berio. Tout le combat de la composition à coups de marteau. Cherchant à éviter les récifs de l’obsolescence et entendant opposer la philosophie de l’enregistrement à elle-même, la musique d’avant-garde a livré et continue de livrer un tel combat contre cet aboli bibelot environnemental au sein duquel elle n’a d’autre choix, pour le faire apparaître tel qu’il est, pour en montrer l’intolérable, que de réinjecter de l’événementiel, c’est-à-dire de se refuser à y passer inaperçue, d’en briser la monotonie, de s’opposer au caractère de marchandise qu’il veut lui faire prendre, au rôle d’antidépresseur qu’il lui impartit, de l’agresser sans masque — cet environnement qui de son côté nous agresse sous couvert de neutralité —, et ce, en se servant de tout ce que le studio peut offrir comme technique radicale de modification et de défamiliarisation des sons, comme registre allant de l’insoutenable à l’inaudible. L’échec commercial était inévitablement le lot de ce pari de l’inauthenticité événementielle visant à rétablir une expérience authentique de l’œuvre et la connaissance esthétique, et ce fut, cet échec, en quelque sorte un succès, qui, comme il ne fut pas ou que peu entériné par l’industrie à laquelle, pari, il s’opposait, nuisit à son succès. Un succès-échec à sans cesse refaire, succès de penser sans lendemain et appelant négativement ce lendemain. Succès de penser sans lendemain jusqu’à ce qu’il y ait, un jour peut-être, à la domination un lendemain.</p>
-
 
 ----
 
@@ -77,166 +74,69 @@ references:
  	<li>NIETZSCHE, Friedrich. <em>La généalogie de la morale</em>, traduit de l’allemand par Patrick Wotling, Paris, Librairie Générale Française, coll. « Livre de poche », 2000, 311 p.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Je pense notamment aux quinze pièces formant le cycle <em>Aus den sieben Tagen</em> (écrites en 1968 et enregistrées au mois de mai 1968 et d’août 1969), dont le desideratum, pour le dire de façon adornienne, est de créer, de façon à ce qu’elle mette à distance son propre caractère de reproduction — et tente de le remettre en question —, une performance spontanée, directe, qui ne puisse non seulement jamais coïncider (puisque c’est impossible ici comme ailleurs), mais jamais même s’approcher d’aucune autre performance-reproduction de la même « partition », laquelle ne contient aucune notation musicale symbolique, ce qui était encore le cas dans la musique aléatoire de Stockhausen, notamment dans sa <em>Klavierstück XI</em>, mais consiste simplement en un texte : série de prescriptions musicales et méditatives imposant aux musiciens une atmosphère, un état spirituel, une série d’actes musicaux à exécuter <em>intuitivement</em>, voire des conditions matérielles assez extrêmes. Tentant ainsi d’atteindre à une forme de spontanéité musicale et de communion par la médiation-méditation d’un texte par les musiciens, Stockhausen, dans <em>Goldstaub</em>, quatorzième pièce de ce cycle, les soumet (et s’y soumet lui-même) à une discipline de fer rituelle ; de sorte que cette spontanéité et cette communion musicales naissent d’une contrainte plus grande encore que celle à laquelle la partition classique nous avait habitués, sont dictées par des exigences radicales, expérience-limite où l’individualité s’abîme en soi-même — tout en faisant fi de soi-même — au sein du rituel avant de témoigner, dans la musique ritualisée, d’une plus grande liberté d’exécution, dont je ne sais, en vertu de cela même, si l’on peut encore affirmer à son propos, je veux dire : de cette liberté-intuition, qu’elle est subjective, quoique l’on ne puisse, en contrepartie, lui attribuer un caractère (pleinement) objectif : « Vis complètement seul durant quatre jours / sans nourriture / dans le silence complet, bougeant le moins possible / dors aussi peu que cela t’est nécessaire / pense aussi peu que possible / après quatre jours, tard dans la nuit / sans conversation préliminaire / joue des notes simples / SANS PENSER aux notes auxquelles tu joues / ferme tes yeux / écoute ».
 
-
-
-
 [2] Si j’ai tenu à maintenir jusqu’ici une certaine ambiguïté entre transmission radiophonique instantanée et enregistrement sonore, c’est à ce dernier que je me rapporte tout particulièrement dans ce passage (avant de rétablir l’ambiguïté par la suite), puisque, en s’attaquant à la <em>pseudo-immédiateté</em>, comme l’appelle Adorno, il représente la quintessence de la <em>destruction de l’aura</em>.
-
-
-
 
 [3] L’idée de la disparité entre l’original et sa reproduction — dont nous ne prenons pas suffisamment conscience, et dont la retransmission d’une simple voix au téléphone et notre hésitation plus ou moins fréquente quant à l’identité de l’interlocuteur ont dû nous donner une certaine habitude, si ce n’est que l’habitude endort la conscience — ou, plus précisément, l’idée que, dans la confusion entre les deux, la reproduction technique, plus indépendante, et dont la puissance sonore fantomatique submerge l’individu, prenne le dessus et aille à l’encontre du <em>réel</em>, cette idée même est à la base du <em>Testament du docteur Mabuse</em> (1933) de Fritz Lang, son deuxième film parlant, et le premier à aborder le problème de la voix médiatisée, de son autorité, etc., et ce, à un moment où la voix de Hitler rendue surpuissante et ubiquitaire par le dispositif microphonique et radiophonique lui permet de noyer de paroles les foules venues l’écouter, de s’introduire par effraction là où de prime abord elle n’était pas invitée, violant l’intimité de chacun. Et c’est bien la reproduction technique d’une voix, qui par une sorte de mécanisme radiophonique, qui par le biais du téléphone, qui par l’entremise du disque, voix d’un directeur d’asile possédé par l’esprit du docteur Mabuse (criminel notoire devenu fou auquel Lang attribue sous une forme modifiée : <em>Herrschaft des Verbrechens</em>, les desseins terroristes du nazisme), c’est-à-dire déjà en elle-même reproduction, — c’est la reproduction technique de cette voix, disais-je, que le gang de Mabuse reconnaît comme <em>la</em> voix de son chef, gang auquel celui-ci n’est jamais apparu en chair et en os, mais toujours, à l’insu des membres, dans une mise en scène acoustico-théâtrale où sa voix reproduite, et je devrais même plutôt dire : la puissance de cette voix reproduite suffit à donner corps à son image, à donner vie à son image-corps, ombre de forme humaine contre un rideau projetée. Que dis-je : non seulement à lui insuffler la vie, mais surtout à la doter d’une grande autorité. Intrusion de cette voix au caractère tactile qui vient détruire la sphère privée de chaque criminel — c’est dans cette optique que l’on peut comprendre, je crois, le rôle que joue l’histoire d’amour (et son impossibilité) dans le film — et, sapant en eux l’espace nécessaire au penser, les transforme en instruments au service d’un dessein qu’ils ne comprennent pas et auquel ils obéissent aveuglément ; je pense ici à l’affirmation d’Adorno, dans <em>Physiognomonie de la radio</em>, selon laquelle <em>la voix de la radio</em> (et ses accents criards — Adorno écrit cet essai en 1940 et, quoique la radio ait bien évolué depuis, le son criard de sa voix, il est encore possible de l’entendre sous une forme modifiée et améliorée dans certaine transmission directe effectuée hors des studios, comme celle faite par un animateur-réclame « en direct du Marché au puce Saint-Eustache ») ressemblerait à s’y méprendre à celle d’un dictateur en ce qu’elle figure « le mécanisme social sous-jacent au mécanisme technique qui mène à [la] disproportion [entre la sphère privée et cette force sociale totalitaire qui la dynamite] » (Adorno, 2010 : 101-102), et pourrait « se dispenser de passer par les stades intermédiaires d’impression — stades d’objectivisation — qui contribuent à clarifier la distinction entre fiction et réalité » (<em>Ibid.</em>, 68). La voix reproduite de « Mabuse » lui donnant « plus de présence qu’un événement réel » (<em>Ibid.</em>, 107) et, par conséquent, une autorité plus grande, plus grande encore que ne le permet une voix véritable — et cela, Lang le donne à voir lorsqu’un membre du gang de Mabuse, l’entendant parler <em>en personne</em>, ne reconnaît pas du tout à sa voix le directeur d’asile comme son patron, mais n’arrive à l’identifier comme tel qu’au moment où il l’entend <em>en enregistrement</em> —, Lang dépeint le pouvoir pernicieux de la reproduction technique sur des gens croyant se trouver devant la chose même, des gens à qui la disparité échappe et qui, aveuglément, obéissent aux ordres transmis par ce qui s’avère un fantôme, se soumettent, sans même se questionner sur sa nature, à une image sonore cherchant à les contrôler, les confinant à sa propre irrationalité destructrice, et qui veut tenir cachée — c’est le rôle du rideau dans le film — sa médiatisation et, de cette manière, comme l’affirme Anders dans <em>L’Obsolescence de l’homme</em>, « recouvrir le réel » (Anders, <em>L’obsolescence de l’homme. Sur l’âme à l’époque de la deuxième révolution industrielle</em>, Paris, Éditions de l’encyclopédie des nuisances, 2002, p. 176), se faire passer pour lui, empêcher à la fois la vision exacte du monde et cette impossibilité, elle aussi exacte, de se le bien représenter. Caractère trompeur de l’image, danger de l’illusion de proximité, ce sont là <em>les récifs</em> de la reproduction technique imitative.
 
-
-
-
 [4] Un (autre) exemple cinématographique de ce régime illusoire de l’image pourrait être celui, parodique, où, dans <em>Les Carabiniers</em>, deux idiots, Ulysse et Michel-Ange — la grandeur de l’art et du monde réduite à l’idiotie —, partis à la guerre piller, violer, tuer et faire fortune rapportent finalement à leur femme tout ce qu’ils ont possédé / croient posséder, c’est-à-dire reviennent avec, pour toute richesse, des images : cartes postales et photos touristiques de partout dans le monde, de toutes les époques, classées avec <em>de l</em>’<em>ordre et de la méthode</em> comme si c’était une sorte d’encyclopédie, non pas tant de la connaissance par l’image, mais de la méconnaissance du réel par sa possession <em>dans</em> l’image (une encyclopédie de soi-disant expériences interdisant la connaissance, comparable à la compote-muzak chez Gould), réel réifié où tout s’équivaut : <em>les monuments</em>, <em>les moyens de transport</em>, <em>les magasins</em>, <em>les œuvres d’art</em>, <em>l’industrie</em>, <em>richesses de la nature</em>, etc., chaque catégorie classée en sous-catégories, énumération évoquant à dessein Borges, en en détournant le sens. Godard dans ce film interdit toute identification du spectateur à ce qui est représenté (là où, chez Lang, il était encore possible d’être <em>diverti</em> par le mystère, l’intrigue policière), cette méprise entre réalité et fiction, méprise-idiotie incarnée dans la célèbre scène où Michel-Ange à sa première visite au cinéma, d’abord épeuré, ensuite attiré par elle, tentant de la caresser et d’y entrer, se heurte à l’image cinématographique, qui, dans le cas de ce film, celui de Godard et non plus du film dans le film, est composée d’images d’archives, comme l’avait fait Rossellini dans <em>Paisà</em>, et de fragments fictionnels à l’apparence volontairement enlaidie et documentaire se signalant sans cesse comme grotesques, signalant sans cesse leur imposture — <em>à la Jarry rencontre Brecht</em>. Ainsi, Godard donne à voir la manière dont les frontières quoique visibles entre fiction et documentaire s’abolissent à l’écran — « c’est la même chose, je ne fais pas la différence » (Godard, Jean-Luc, cité dans Didi-Huberman, 2003 : 174), — et tout particulièrement dans ce film baptisé un <em>conte de faits</em>, où la juxtaposition attaque les faits tout autant que le conte. Les faits étant à l’écran ce qu’y sont les fées, je veux dire : inauthentiques, le conte en question, conte de guerre redonnant aux faits <em>par les fées du montage et de la fiction mise à distance</em> une idée de l’horreur guerrière, voire de la banalité de l’horreur, laquelle s’était émoussée dans l’image documentaire montée comme une fiction, ne tire pas sa validité d’une imitation du monde, mais simplement, par sa négativité, son caractère fragmentaire, artificiel, entre-deux, <em>malaisant</em>, se contente d’en montrer toute la brutalité, l’absurdité. Renoncer aux images et films documentaires en vertu de leur insuffisance serait futile, mieux vaut, tout en étant conscient de cette insuffisance, les utiliser comme <em>pièces à conviction pour le procès de l’histoire</em>, et c’est ce que fait, à cet égard, Godard dont la technique atteint des sommets dans <em>Histoire(s) du cinéma</em>, juxtaposant — sorte de <em>Nebeneinander</em> où l’entre-espace se forme à même l’écran —, et par la mise en relation du collage-montage et par l’interpénétration et par la surimpression, des images d’archives avec des reproductions d’œuvres d’art, des scènes de cinéma, des citations, des jeux d’écriture, de la musique, des paroles, et ce, dans un mouvement qui les dénature pour leur être plus fidèle encore, qui crée du sens à force de le faire fuir et empêche le culte de l’image par le brouillage, le déplacement qu’il leur fait subir : il crée des images esthétiques-historiques <em>ne faisant</em> ainsi <em>pas image</em>. Didi-Huberman résume ceci en écrivant que l’image, chez Godard, « permet de mieux <em>en parler</em> sans avoir à <em>le dire</em> » (<em>Ibid.</em>, 168).
-
-
-
 
 [5] Le montage, les collages, la surimpression donnent, chez Godard, un caractère abstrait à tout ce qui pourrait faire image.
 
-
-
-
 [6] Et, conséquemment, son avis quant à l’effet pernicieux de la radio sur l’écoute et sur la standardisation des goûts ne changera guère jusqu’à sa mort. Car si le disque radiodiffusé demeure selon lui un événement d’ordre radiophonique, avec tous les défauts que cela comporte, et même s’il contribue à débarrasser la radio de l’illusion de proximité, du direct qu’elle favorise, il ne change pas essentiellement ce fait : que la radio institue une relation entre original et reproduction. Le disque s’apparente maintenant à l’<em>original</em>, et sa radiodiffusion, qui en apparaît comme l’image et affecte du coup sa qualité, participe du culte de l’original, n’est que l’existence-réclame de cet original <em>en série</em> que l’on cherche à nous vendre et dont on peut avoir la certitude que l’ambivalence de son <em>hic et nunc</em> est facilement accessible au magasin le plus près.
-
-
-
 
 [7] Parce que celle de Bruno Monsaingeon (voir bibliographie), qui m’a en quelque sorte servi de repoussoir, en travestit souvent des aspects essentiels, va jusqu’à leur ajouter des éléments étrangers puis à en élaguer d’autres, parfois même des paragraphes entiers — ce en quoi elle n’est que trop française —, je donnerai ici ma propre traduction des essais de Gould, traduction accompagnée de l’original anglais.
 
-
-
-
 [8] « <em>I had learned the first lesson of technology ; I had learned to be creatively dishonest. »</em>
-
-
-
 
 [9] Plus de quarante années se sont écoulées entre l’un des premiers articles d’Adorno sur le gramophone, <em>Nadelkurven</em> (1927), et celui-ci (1969). Tout ce temps lui aura été nécessaire pour ratifier les potentialités de l’enregistrement (et encore, il faut le remarquer : c’est au conditionnel qu’il le fait) par rapport à la transmission radiophonique qui lui apparaît encore comme « pâle cliché » (Ibid., 151), potentialités dont seul le disque longue durée, ayant lui-même été introduit en 1949 par Columbia Records, et la stéréophonie, inventée en 1931 pour n’être commercialisée avec succès qu’en 1958, auront pu le convaincre ; de même, tout ce temps lui aura été nécessaire à penser la particularité formelle du disque — comme « perception de l’ordre de la lecture […] ici mise à l’honneur en tant que forme de figures sonores » (Ibid., 151) —, à considérer dans toute son ampleur cette hypothèse déjà ébauchée dans <em>La forme du disque</em> (1934). <em>Indexées sur l’histoire</em>, comme il aime à le dire lui-même, ses études sur la reproduction musicale montrent sa pensée en constante évolution, pensée dont la négativité, attendu qu’elle réfléchit les lacunes d’un médium lui aussi en constante évolution, ne relève pas tant de la condamnation que d’une incitation « au développement de ses possibilités, qui devraient s’effectuer avec l’aide du criticisme » (Adorno, 2010 : 84). Comprendre l’évolution de la pensée adornienne — qui n’est pas sans contradictions —, faire une juste synthèse entre son criticisme et le moment où la réification musicale (et l’intimité qu’elle permet) est devenue, ou peut devenir promesse d’authenticité (sans toutefois aplanir les contradictions insolubles en présence desquelles m’ont mis la pensée adornienne, la société et la technique), c’est-à-dire se faire une idée du chemin que peut emprunter la réification qu’est la reproduction musicale de façon à ce qu’elle s’assimile, je veux dire : sans empêcher l’expérience authentique de la musique, et sans perdre de vue que la technique n’est pas sans nous affecter directement, à ladite voie révolutionnaire, c’est là la tâche exigée par cet essai, lequel s’intéresse au passé de la pensée sur l’enregistrement — à ce que d’aucuns pourraient appeler <em>le dépassé</em> — comme à une prémisse nécessaire ne serait-ce que pour penser la réification musicale contemporaine et le voile d’immatérialité dont la couvre le médium numérique, bien plus à risque de nous chosifier que, chose à tout faire (son, image, texte, vidéo), il n’a lui-même, quand on ne lui donne pas la forme artificielle d’un livre au sein d’un appareil fourre-tout, presque plus l’air d’une chose. Notons toutefois que si la réification musicale est susceptible de favoriser celle de l’homme, celle-ci n’est pas le seul fait de celle-là, qui ne fait qu’accentuer (que risquer d’accentuer), mais quelle accentuation ! un potentiel déjà présent dans la musique bien avant que d’être reproduite, potentiel de domestication de la musique domestiquée (réduite à sa plus simple expression plutôt que souveraine) dont il nous est permis de voir les effets ancestraux par l’usage qu’entre autres en faisait pour <em>uniformiser les hommes</em> la Chine : <em>les empereurs de Chine d’autrefois</em> — écrit Michaux dans <em>Un certain phénomène qu’on appelle la musique</em> — <em>donnaient le Jour de l’An</em> la note <em>sur laquelle</em>, <em>pendant toute l’année à venir</em>, <em>l’Empire devait être accordé</em>, <em>harmonisé</em>, <em>tenu dans l’union</em>. <em>Seule avec les rites</em>, <em>la musique pouvait</em>, <em>pensaient-ils</em>, <em>retenir la masse des gouvernés</em>.
 
-
-
-
 [10] « <em>I have always tried to elevate the argument to the level of abstract speculation</em>. <em>Indeed, I still think that a reasoned exegesis is the proper gentleman’s response. »</em> (Gould, 1990 : 359).
-
-
-
 
 [11] Et par conséquent ne vient jamais à l’esprit de Gould — et même face à cet incessant progrès historico-technique dont il se fait le chantre, tout en dénonçant le conformisme historique — qu’un enregistrement donné soit à la merci de la péremption. Il a même plutôt tendance à penser l’enregistrement telle une immortalisation de l’enregistré qui l’extraie totalement du temps, et pas seulement de celui de la performance en direct ou de celui, fragmentaire et étalé, de l’enregistrement en studio, ce qui ne peut se faire que s’il ignore la matérialité même du médium sur lequel se trouve inscrit l’enregistré, c’est-à-dire la vie de ce médium. Celui-ci et sa sonorité (et surtout cette sonorité, dirais-je, puisqu’elle-même peut être transférée à un autre médium) rendent possible pour une oreille expérimentée la datation approximative de l’enregistrement et montrent bien que, s’il peut en transcender en quelque sorte les limites, disons naturelles, l’enregistrement ne peut lui-même se soustraire au temps, que lui-même peut être <em>daté</em>, et que s’il liquide une tradition, c’est seulement celle de l’interprétation en direct, de la datation exacte <em>hic</em> et <em>nunc</em>. L’immortalisation qu’est l’enregistrement s’associe étroitement à la péremption, tout comme c’est « au cinéma que l’œuvre d’art est la plus susceptible de devenir obsolète [<em>worn out</em>] » (Benjamin, 2002 : 141).
 
-
-
-
 [12] L’expression exacte utilisée par Gould est « <em>disengagement from biological limitations</em> ».
-
-
-
 
 [13] Que cette compréhension n’en soit pas une au sens univoque où on l’entend habituellement, mais soit causée en partie par une méprise : une projection des aspirations puritaines de Gould sur le médium qu’il abstrait de son <em>nexus social</em>, comme l’appelle Adorno, médium dont le principal mérite, bien réel celui-là et par Gould chéri, est de tenir à distance l’auditeur avec lequel l’artiste qui crée ne veut surtout pas entretenir de relation directe, mais souhaite plutôt, comme il est dit dans <em>Let</em>’<em>s Ban Applause</em>, rompre totalement, et de permettre une relation individualisée à la musique— l’<em>auditeur participant</em> peut bien participer, devenir créateur, mais loin de l’artiste, de son côté, chez lui, dans ses bébelles —, c’est bien ce que montre la religiosité dont Gould pare le studio d’enregistrement, qu’il l’appelle un « cloître » (1985 : 316) ou affirme à son égard, dans un entretien accordé à Alfred Bester : « <em>Monastic seclusion works for me</em>. » Pureté et solitude de l’acte créateur, comme de l’écoute ; l’interprète s’éloigne de l’auditeur à proportion que celui-ci se rapproche de l’œuvre.
 
-
-
-
 [14] Résultat d’une analyse serrée, produit d’une raison quasi-totalitaire et d’une mémorisation quasi-photographique de la partition ainsi analysée et rationalisée, les interprétations de Gould sont claires, presque trop claires. Aussi génial soit son jeu — et il l’est assurément—, il y a quelque chose en lui de machinal que l’on comprend mieux à la lumière d’une telle affirmation, à savoir que l’artiste doit être capable d’ « évoquer sur commande la teneur émotionnelle de n’importe quel passage, dans n’importe quelle partition, à n’importe quel moment [<em>to summon, on command</em>, <em>the emotional tenor of any moment, in any score, at any time</em>] » (Gould, 1990 : 359). L’artiste se fait machine à musique, juke-box, et il répond en cela aux exigences du studio, de la soudure-montage.
-
-
-
 
 [15] « Le Vrai est le Tout. Chaque instrument isolé n’est qu’une <em>partie</em> d’instrument. » (Anders, 2002 : 16). Cette conception d’Anders, si elle a l’avantage de prendre en compte l’inscription de la technologie au sein de ce tout — contrairement à Gould dont les perspectives tendent à l’abstraction —, a le désavantage de subsumer tous les usages technologiques sous ceux de la société totalitaire, de la propagande de l’industrie culturelle et de la technique des techniques : l’arme atomique. L’on ne peut cependant récuser que la technique moderne s’assujettit l’homme et que son caractère incommensurable fait que celui-ci n’arrive plus à imaginer ni à concevoir l’ampleur même des gestes qu’il pose : le bourreau actionnant la chaise électrique pouvait encore se figurer ce qu’il faisait ; Eatherly soumettant son rapport aux ondes radiophoniques et prononçant son célèbre <em>O.K.</em>, non.
 
-
-
-
 [16] Cette dépendance, Gould — le Gould de chair, le Gould impur, l’homme d’affaires, et non le Gould des <em>Prospects</em>, le prêtre-artiste — en était très conscient, qui, en 1971, alors qu’il renégociait son contrat et envisageait de peut-être signer avec D.G.G., à qui il a d’ailleurs proposé le reste de l’intégralité des sonates de Beethoven, affirmait à son agent « [jouir] d’une autonomie remarquable chez C.B.S. […] autonomie à laquelle […] il [lui] serait bien difficile de renoncer » (Gould, 1992 : 296). Réconfortante à mon sens, l’inadéquation entre ce Gould de chair et ce Gould des idées me rappelle ce que, dans <em>Sur les confins de la vie</em>, Chestov écrit à propos des idéalistes, à savoir qu’ils <em>sont gens calculateurs et prudents et nullement aussi bêtes qu’on serait tenter de le croire à n’en juger que d’après leurs idées</em>.
-
-
-
 
 [17] « <em>It is less likely that the recording industry will always concern itself primarily with an archival representation of the past</em> […] <em>but for a long time to come some portion of the industry will be devoted to merchandising the celebrated masterworks which form our musical tradition</em> ».
 
-
-
-
 [18] L’expression exacte est : « <em>at the service of that spiritual good that ultimately will serve to banish art itself</em> ».
-
-
-
 
 [19] Dotant la technique d’une science jusque-là réservée à l’homme, Gould parle de « <em>total acceptance of the recording ethic</em> ».
 
-
-
-
 [20] « <em>After all, if one buys a new car, it doesn’t really matter how many assembly-line hands are involved in its production. The more the better, really, insofar as they can help to ensure the security of its operation.</em> »
-
-
-
 
 [21] Gould écrit : « <em>its existence</em> [du produit achevé] <em>is what matters, not the means by which it is effected</em> » (1990 : 338). Primant sur la nôtre, cette existence, impensée, ne peut-elle pas nous réduire à la simple existence, à l’existence obsolescente et dépourvue de penser.
 
-
-
-
 [22] Cette expression d’Anders indique qu’avec la radio, le phonographe et la télévision, la <em>réception collective simultanée</em> n’est plus aussi collective que dans la théorie cinématographique benjaminienne, plus le lieu d’une quelconque spontanéité ou réaction de masse, mais se voit scindée en d’innombrables auditions, en d’innombrables visions individuelles. Sorte de retour du stéréoscope, d’une version améliorée du stéréoscope, d’une pléthore de stéréoscopes propres à satisfaire les exigences de l’industrie culturelle tout en maintenant artificiellement en vie le désir d’individualité des ermites de masse, le culte de l’image avec laquelle ils veulent entretenir une relation similaire à celle du <em>prêtre dans la cella</em>, seul avec Dieu.
-
-
-
 
 [23] « <em>Through the ministrations of the radio and the phonograph we are rapidly and quite properly learning to appreciate the elements of aesthetic narcissism</em> ».
 
-
-
-
 [24] « Derrière les inventions technico-industrielles et les inventions artistiques, c’est le même procès historique qui est à l’œuvre, la même force productive des hommes ; voilà pourquoi les deux phénomènes sont conjoints. » (Adorno, 1995 : 149)
-
-
-
 
 [25] Cela se décline aussi dans le fait que voulant composer Gould ne puisse concevoir que « selon cette dernière [la connaissance de la loi cinétique du matériau] tout n’est pas possible à tout moment […] [ et qu’] « en aucun cas, le compositeur ne dispose aujourd’hui indifféremment de toutes les combinaisons sonores qui ont été utilisées jusqu’à présent » (Adorno, 1979 : 45). Sa volonté de se libérer de l’histoire, lui qui voudrait bien être inventif sans avoir à se soucier de celle-ci — « <em>chronicles of universal knowledge can be consigned to computer repositories that file away the memories of mankind and leave us free to be inventive in spite of them</em> » (Gould, 1990 : 332) —, car il ne s’agit pas chez lui que d’en finir avec une conception historique telle que celle du <em>Ou bien vainqueur, ou bien vaincu</em>, — elle est la marque d’une incapacité à affronter artistiquement l’histoire, la terreur de l’histoire, et à concevoir la création autrement que de manière romantique, c’est-à-dire à concevoir que l’individualité ne suffit pas pour créer du nouveau et que l’artiste n’est pas libre comme il aime à le croire — <em>esthétique idéaliste</em>, dirait Adorno — dans son combat avec ce qui ne consent pas à sa liberté, avec le matériau-société.
 
-
-
-
 [26] L’expression utilisée est : « <em>harmonize with as many environmental situations as possible</em> ».
-
-
-
 
 [27] Ce désir sur lequel s’appuie, que favorise et qu’interdit l’industrie, ce désir sur lequel elle joue jusqu’à le renverser, le faire servir à une domestication plus grande encore, Adorno, déjà en 1927, l’avait noté : « l’auditeur du gramophone désire en fait s’entendre soi-même [<em>Der Grammophonhörer wünscht eigentlich sich selbst zu hören</em>] » (Adorno, 1984 : 528), et de fait il s’entend soi-même : comme un chien aphone — sans voix propre puisque réduit au silence — en arrive à s’identifier à <em>la voix de son maître</em>, à l’introjecter.
 
-
-
-
 [28] « [<em>T</em>]<em>he listener is able to indulge preferences and, through the electronic modifications with which he endows the listening experience, impose his own personality upon the work</em> ».
-
-
-
 
 [29] « [La] musique, sous les auspices actuels de la radio [et de la philosophie gouldienne de l’enregistrement, me dois-je d’ajouter], sert à empêcher les auditeurs de critiquer les réalités sociales […] elle a sur la conscience sociale un effet de soporifique. […] [L]a musique radiodiffusée présente une <em>nouvelle fonction</em> [je souligne], qui n’est pas inhérente à la musique comprise comme un art : […] créer de la suffisance et de l’autosatisfaction » (Adorno, 2010 : 188)
 
-
-
-
 [30] L’expression exacte se donne à lire comme suit : « <em>music plays so extensive a part in the regulation of our environment</em> » (Ibid., 352).
 
-
-
-
 [31] Ni le <em>babil enfantin</em> dont la domination dote le dominé ni ce que lui-même Gould désigne comme un vocabulaire intuitif auquel nous accoutume une encyclopédie de clichés ne préparent à la complexité d’une langue mature, n’en peuvent former le berceau. Pas plus qu’ils ne mènent à la liberté ou à l’individualité. <em>Le langage fait l’être</em>, et l’être se fait ainsi mutiler jusque dans son intuition (ce qui aide à comprendre les précautions avec lesquelles, dans <em>Goldstaub</em>, Stockhausen manie celle-ci). Il devient, du moins risque de devenir aussi servile que <em>la langue qui le fait</em> se montre utilitaire. La familiarité castratrice d’une telle langue mutilée ne ferme que plus sûrement la voie au nouveau, au n’être-pas-toujours-identique. Et je puis l’affirmer sur un ton péremptoire : la connaissance n’est pas un cliché, ne passe pas par les clichés, et les chefs-d’œuvre de la littérature ne sont pas, comme Gould a eu l’audace — cette naïveté qui passe pour de l’audace — de l’affirmer, écrits dans cette langue utilitaire, cette sous-langue que <em>nous, hommes de la rue, parlons</em>. Non. Ils sont écrits <em>dans une sorte de langue étrangère</em> qui nécessite une grande maîtrise linguistique de la part et de l’écrivain et du lecteur. <em>Le soleil ni la mort ne se peuvent regarder fixement</em>, et ainsi, bien que Gould veuille préserver la coexistence des chefs-d’œuvre et de ce tronc, ce moignon de langage qu’est la <em>langue</em> environnementale, il en nie la possibilité dès lors que, dans la conclusion de son essai, il dit l’insuffisance de l’art, son caractère <em>obsolète</em> devant cette relation environnementale appelée à le bannir, appelant ultimement au bien-être dans le <em>meilleur des mondes possibles</em>.
-
-
-
 
 ----
 

@@ -14,12 +14,10 @@ authors: -
 
 abstract_fr: <p>Le roman de l’auteure suisse alémanique d’origine roumaine Aglaja Veteranyi (1962-2002), <em>Das Regal der letzten Atemzüge</em> fut publié à titre posthume quelques mois après le décès de l’auteure en 2002, et le compuscrit original de sa première version (ainsi que celui des versions ultérieures) est conservé aux archives littéraires de Suisse à Berne (Schweizerische Literaturarchiv). La publication posthume de l’œuvre et le compuscript original conservé aux archives arborent tous deux des caractéristiques post-scriptiques. Nous nous concentrerons sur celles que propose le compuscrit qui nous apparait à nous, lectrices et lecteurs, comme un complément venant s’ajouter à l’œuvre publiée, et ce, malgré le fait qu’il en soit chronologiquement la première étape. Dans ses utilisations les plus usuelles, le terme post-scriptum est employé pour définir un élément qui s’ajoute à un tout ; à une œuvre littéraire ; à une lettre, dont il ferait à la fois partie, mais dont l’entièreté et l’autonomie restent indépendantes du post-scriptum. Cependant, le compuscrit d’une œuvre littéraire, dont l’écriture, au contraire d’un post-scriptum usuel, est l’étape originelle de la création de l’œuvre, peut se doter de tendances post-scriptiques selon le rôle qu’il occupe dans le processus d’interprétation. Dans le cas du roman de Veteranyi, le compuscrit devient un post-scriptum de circonstance par la situation de conservation archivistique dans laquelle il se trouve et par le point de vue selon lequel on l’observe ; celui d’un lectorat dont le premier contact avec l’œuvre fut la lecture de la version publiée. Observé sous cet œil, il renferme des informations permettant de nuancer notre interprétation de l’œuvre.</p>
 
-
 ----
 
 abstract_en: <p>The novel by German-speaking Swiss author Aglaja Veteranyi (1962–2002), <em>Das Regal der letzten Atemzüge,</em> was published posthumously a few months after her death in 2002. Her original compuscrit (and the others that followed) is kept in the Swiss Literary Archives of Berne (Schweizerische Literaturarchiv). Both the posthumous publishing of the work and the original compuscript kept in the archives bear strong post-scriptic caracteristics. We concentrate on those of the compuscript that appears to us, as readers, like a complement that adds to the published piece even though it is the chronological first step.</p>
 <p>The temporality of the creation steps can be read conversely to the point of view of the readers. In its usual meanings, the word post-scriptum is used to define an element that is added to a previous object; to a piece of literature, to a letter, which he would both be part of, but whose wholeness and autonomy remain independent of the postscript. Contrary to a usual post-scriptum, the compuscript of a literary work, which constitutes the first step of the creation process, can have post-scriptics tendencies depending on their roles in the interpretation process. Regarding Veteranyis novel, the compuscript becomes an occasional post-scriptum following the surrounding context of its conservation in archives and the point of view from which it is perceived, being the readers whose first contact to the work was with the published version. Seen from this perspective, it holds information that enables us to put nuances in our interpretation of the work.</p>
-
 
 ----
 
@@ -117,7 +115,6 @@ text: <p>Lorsque, sans préavis, on m’invite à m’imaginer des archives litt
 <p>L’époque d’écriture du roman a beau m’échapper par moments, elle revient alors au galop et s’embobine autour de mon crayon pour me rappeler ceci : bien qu’Aglaja Veteranyi soit notre contemporaine, bien que l’époque et la société dans lesquelles elle a créé soient, pour ainsi dire, les nôtres, les matériaux de création et outils d’écriture qu’elle avait à sa disposition entre les années 1980 et 2000 étaient autres, et ont sans aucun doute influé sur ses techniques d’écriture. En 1990, il était impossible d’aller s’asseoir dans un café, un ordinateur portable devant les yeux et d’y écrire ses pensées spontanées. Il fallait un cahier de notes. En 1990, il était fort probable qu’on ait une machine à écrire à la maison, et qu’on y tape ses textes. Dans les archives, on retrouve effectivement plusieurs courts textes tapés à la machine à écrire et pliés entre deux pages de l’un de ses quatre-vingts cahiers de notes, dont cette version est, fort probablement, la seule à exister.</p>
 <p>C’est ainsi que le compuscrit de l’œuvre acquiert à son insu, par le travail du temps et de l’institution des archives, par l’utilisation que l’on en fait, un caractère post-scriptique qui transforme ce premier jet en un matériau de recherche qui, insciemment, conduit vers une réinterprétation du roman publié et devient un outil d’analyse bien aiguisé. Dans l’unique objectif d’encourager le roman dans sa qualité de post-scriptum sachant qu’en plus d’être une œuvre posthume, l’entièreté de ses versions compuscrites sont conservées aux archives et en deviennent ainsi, eux-aussi, des écrits post-scriptiques, j’ai l’objectif de procéder, dans les temps à venir, à une traduction du roman d’Aglaja Veteranyi vers le français québécois. À la frontière entre traduction et adaptation, la réécriture que j’en ferai se lira à la fois comme une version supplémentaire qui s’additionne aux versions précédentes, mais elle se lira aussi, dans le monde francophone, comme une première version, comme une version introductive au monde multicolore d’Aglaja Veteranyi.</p>
 
-
 ----
 
 references: 
@@ -142,10 +139,6 @@ references:
 [1] C’est-à-dire la version originale d’une œuvre écrite à l’ordinateur.
 
 [2] Toutes les traductions en français sont les nôtres.
-
-
-
-
 
 ----
 

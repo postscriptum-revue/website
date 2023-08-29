@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’analyse du rap burkinabè et en l’occurrence les textes (les paroles), mais surtout les clips-vidéos des rappeurs Faso Kombat et Smockey, met en évidence l’esthétique négro-africaine dont les traits spécifiques, selon Senghor, sont l’image et le rythme. Toutefois, force est de noter qu’une fouille plus approfondie laisse transparaitre, au-delà des traits susévoqués, des éléments qui caractérisent davantage le rap burkinabè. De fait, les rappeurs s’avèrent être de véritables concepteurs d’un art représentatif d’une culture, d’une identité, celle burkinabè. Par ailleurs, les rappeurs, au-delà d’une frugale jonction entre tradition et modernité font de la réutilisation culturelle (esthétique de la réutilisation). En somme le principe de création des rappeurs respecterait trois strates : une présence des canons esthétiques négro-africains communs aux valeureux produits artistiques négro-africains, une présence des référents culturels burkinabè et enfin, une réutilisation desdits référents.</p>
 
-
 ----
 
 abstract_en: <p>Analyzing rap music of Burkina Faso and in the circumstances the texts (the speeches), but more importantly the video clips of rap makers such as Faso Kombat and Smockey underlines negro African aesthetics which specific traits are according to Senghor, the image and the rhythm. Nevertheless, if we go deeply into understanding rap music of Burkina, we discover, apart from the traits mentioned above, other elements characterizing rap music of Burkina Faso. Indeed, the rap makers are known as designers of an art, reflecting a culture, an identity, which is indeed the art of Burkina. Furthermore, the rap makers, apart from combining tradition and modernity make a culture re-use (another use of culture). In a nutshell, the Principe of creation of rap makers would obey three strata: a presence of Negro African aesthetics belonging to useful Negro African products, a presence of cultural referents of our country Burkina, and at last, a re-use of these cultural referents.</p>
-
 
 ----
 
@@ -133,7 +131,6 @@ text: <h3>Introduction</h3>
 <p>Cet usage des référents culturels assorti d’une réutilisation témoigne d’un intérêt à plusieurs égards. De fait, les rappeurs burkinabè s’érigent non seulement en poètes à travers la littérarité de leurs textes, mais aussi en acteurs de films par le truchement de leurs clips. En tout état de cause, les clips ne seraient donc pas seulement de simples instruments de promotion ; ils constitueraient également et surtout, des moyens d’affirmation de soi.</p>
 <p>Toutefois, en jetant davantage un regard critique sur les procédés de création des rappeurs burkinabè, l’on pourrait se demander si à l’instar des Brésiliens (Mario de Andrade et compagnie), les rappeurs ne font-ils pas de « anthropophagie culturelle » ou encore du recyclage culturel ? Cette interrogation s’impose dans la mesure où nous pensons bien que l’âme nègre est d’une manière ou d’une autre, prise par le courant de la mondialisation, et cela, au point que ladite âme soit transformée. Or, si tel est le cas, <em>l’âme artistique nègre,</em> – ce que Senghor appellerait l’esprit de l’art nègre serait bien touché, même si s’« agissant d’Art, nous n’avons pas de leçons à recevoir de l’Europe » (SENGHOR, 1964: 285).</p>
 
-
 ----
 
 references: 
@@ -165,8 +162,6 @@ references:
 </ul>
 
 <hr />
-
-
 
 Wendmy Désiré GARBA est professeur certifié des Lycées et Collèges au Burkina Faso. Il est titulaire d’une Maitrise et d’un DEA ès Lettres, sur le rap burkinabè et l’esthétique négro-africaine. Il est présentement Doctorant à l’Université Ouaga I Pr Joseph KI-ZERBO au Département de Lettres Modernes (Laboratoire Littératures, Espaces et Sociétés). Par ailleurs, il est auteur d’un ouvrage intitulé Le commentaire composé et la Dissertation (Éditions Sankofa Gurli, 2016).
 

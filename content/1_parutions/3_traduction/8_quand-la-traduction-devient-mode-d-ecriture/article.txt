@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Traduire en Égypte vers la fin du 19e siècle et durant la première moitié du vingtième répondait sans nul doute au besoin de s’ouvrir sur l’autre. Mais, cet élan vers l’autre s’est mué rapidement en un acte d’appropriation, voire d’expropriation de l’écrit de l’Autre. Et parce que la traduction des œuvres étrangères s’est attelée à des enjeux culturels, politiques et identitaires qui dépassaient la simple médiation interlinguistique, la plupart des œuvres transposées en arabe à l’époque n’ont gardé des originaux que la silhouette difforme d’une trame évènementielle. Ainsi, un Bernardin de Saint-Pierre, un Rostand ou un Faulkner se déguisaient sciemment en un Manfalouti. Cette aphonie stylistique et ces métamorphoses génériques sont pour certains les avatars d’une quête culturelle et identitaire qui ne peut se frayer un chemin à travers l’expérimentation, le métissage des genres et des styles. Néanmoins, ces transgressions ont sérieusement ébranlé la crédibilité des principes et des critères sur lesquels s’établit le pacte traductionnel.</p>
 
-
 ----
 
 abstract_en: <p>In late 19th century Egypt, translation doubtless responded to the need for opening oneself to the Other. This striving toward the Other however soon became an act of appropriation of the Other’s writing. Further, because the translation of foreign texts was tied to cultural, political, and identitarian stakes, going beyond simple linguistic mediation, most works transposed into Arabic at the time only retained a vague resemblance to the plot of the original. Bernardin de Saint-Pierre, Rostand and later, Faulkner, were therefore knowingly disguised as Manfalouti. This stylistic aphonia and modifications of genre are for some the embodiment of a culture’s quest for identity necessarily making its way by experimentation, métissage of genre and styles. These transgressions nonetheless seriously question the credibility of the principles of which the translator’s covenant is based.</p>
-
 
 ----
 
@@ -91,8 +89,6 @@ L’Espagnol ira mal, dans les Flandres !
 <p>En conclusion, le travail qui a démarré sous forme d’initiatives de groupes ou d’associations du monde des lettres et de l’édition a participé à la mise en place d’un modèle d’écriture romanesque arabe et a favorisé la vulgarisation d’une véritable éthique de la traduction et de l’adaptation. Sans doute, les grands classiques du roman arabe (<em>Majnoun al hokm</em> de S. Himmich, <em>Ezzini Barakat</em> de Jamal El-Ghitani<em>, Cités de sel</em> de A. Mounif…<em>)</em> n’auraient pu voir le jour sans ces tâtonnements, ces métissages, ces adaptations qui ont marqué l’activité littéraire et traduisante de la fin du 19e et du début du 20e siècle.</p>
 <p>La traduction cesse d’être un mode d’écriture dès que les romanciers arabes ont mis en place leurs propres techniques narratives et leurs propres schèmes narratifs. La traduction et la traduction-adaptation en particulier ont ainsi constitué une étape incontournable dans l’itinéraire de la littérature arabe contemporaine ; elle a aidé à l’appropriation des genres littéraires occidentaux et au renouvellement des genres déjà existants, tels que la poésie.</p>
 
-
-
 ----
 
 references: 
@@ -106,16 +102,9 @@ references:
  	<li>STEINER, George, <em>Après Babel,</em> trad. Lotrimer, Paris, Éditions Albin Michel, 1978.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] Toutes les traductions françaises (placées entre crochets) des passages en arabe translittéré sont de l’auteure.
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Mi-roman, mi-essai critique sur la littérature qui n’a jamais été créée, Bartleby et compagnie d’Enrique Vila-Matas est en même temps une encyclopédie des œuvres ratées et une réflexion sur la condition de la littérature contemporaine et le sens même de l’activité littéraire. En étudiant les œuvres qui sont restées à l’état d’une simple ébauche voire même dans la phase des projets, le narrateur fait en quelque sorte une histoire critique de la Littérature Négative qui n’existe qu’à travers des notes, des idées et des commentaires des écrivains. Littérature de l’épuisement créatif par excellence, cette Littérature Négative n’est point une littérature épuisée : fondée sur l’expérience du refus et de la négation, elle semble s’inscrire parfaitement dans l’esthétique (post)moderne qui exploite le fragment, l’inachevé, l’échec &#8211; phénomènes méprisés par la conception traditionnelle de l’art harmonieux et parfait. Texte sur la littérature échouée, Bartleby et compagnie donne lui-même l’impression d’être un roman raté qui, par sa forme atypique, s’assimile autant que possible aux textes dont il traite : dépourvu presque entièrement d’intrigue, il s’anéantit progressivement pour devenir un exemple de plus de la littérature de l’épuisement.</p>
 
-
 ----
 
 abstract_en: <p>Enrique Vila-Matas’s half-novel/half-essay, Bartleby &amp; Co. is simultaneously an encyclopaedia of failed literary texts and a reflection on the condition of contemporary literature as well as the sense of literary creation as such. By analysing texts which did not go beyond the stage of a draft or a project, the narrator develops a kind of a critical history of Negative Literature, which exists only as writers’ notes, ideas or commentaries. Negative Literature is a perfect literature of exhaustion, yet it is not an exhausted literature : relying on the experience of rejection and negation, it seems to fit perfectly well into a (post-)modern aesthetic, which cherishes the fragmented, the unfinished, the failed – the elements rejected in the traditional conception of harmonious and perfect art. Bartleby &amp; Co., the text about failed literature, seems itself to be a failed novel, which – on account of its unusual structure – is just like the texts it describes : deprived almost completely of the plot, it gradually destroys itself, thus becoming yet another instance of literature of exhaustion.</p>
-
 
 ----
 
@@ -58,7 +56,6 @@ Et devenir ainsi le meilleur lecteur du monde (Vila-Matas, 2002 : 190).
 </blockquote>
 <p>Roman sur les livres inexistants, <em>Bartleby et compagnie</em> n’est pourtant pas une simple encyclopédie de textes ratés : c’est en quelque sorte une histoire critique de la Littérature Négative qui existe sous forme de projets abandonnés, ouvrages inachevés, notes ou idées qui ne se sont jamais concrétisées. Le texte d’Enrique Vila-Matas remet en question une forme classique d’histoire littéraire. C’est en même temps une réflexion philosophique à la fois sur l’acte de création et la condition de la littérature en général, réflexion bien moderne qui s’appuie sur les notions fondamentales de l’esthétique contemporaine. Par sa forme atypique, le roman de Vila-Matas s’assimile autant que possible aux textes dont il traite : dépourvu presque entièrement d’intrigue, il s’anéantit progressivement pour devenir un roman invisible, un Texte Négatif, un exemple en plus de la littérature du silence. Or, comme le constate Barthes, « l’agraphie [&#8230;], ce sabordage bouleversant de la Littérature, enseigne que, pour certains écrivains, le langage, première et dernière issue du mythe littéraire, recompose finalement ce qu’il prétendait fuir, qu’il n’y a pas d’écriture qui se soutienne révolutionnaire, et que tout silence de la forme n’échappe à l’imposture que par un mutisme complet » (Barthes, 1972 : 55). Érudit littéraire, Vila-Matas est sans aucun doute parfaitement conscient qu’avec son texte, il ne préfigure en aucun cas ce dernier Écrivain dont il croit entrevoir le reflet dans un lustre de cristal, cet auteur ultime avec qui le mot mourra à jamais, en donnant une fin définitive à la littérature. Tout au contraire : à travers l’esthétique de la négation et l’écriture du silence, Vila-Matas réussit à réaliser l’enjeu principal de la littérature qui consiste à sauver de l’oubli les débris du réel s’éclipsant dans le flux du temps. De plus, en accumulant dans son roman une pluralité de discours sur la littérature sous forme de notes dont l’ordre se prête à une déconstruction facile, il parvient à toucher ce langage mythique dont rêvait Mallarmé, langage non-linéaire donnant « le spectacle du mot simultané » (Vila-Matas 2002 : 70). Paradoxalement, le texte de Vila-Matas sur le phénomène du renoncement dans la littérature prouve que peut-être « écrire est sans importance, mais on ne peut pas faire autrement » (Vila-Matas 2002 : 38).</p>
 
-
 ----
 
 references: 
@@ -82,36 +79,17 @@ references:
  	<li>VILA-MATAS, Enrique, <em>Bartleby et compagnie</em>, Paris, Christian Bourgois éditeur, 2002.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Évitant toute l’action par une constatation courtoise « I would prefer not to », le protagoniste de la nouvelle de Melville est devenu la figure symbolique du refus et du renoncement. Cf. Herman Melville, <em>Bartleby le scribe</em>, Paris, Gallimard, 1996.
 
-
-
-
 [2] Cf. à ce titre l’explication de la notion d’auteur et son évolution par Antoine Compagnon dans « Qu’est-ce qu’un auteur ? 10. La disparition élocutoire du poète », article sous forme électronique paru sur le site <em>Fabula</em>, les références complètes sont indiquées dans la bibliographie.
-
-
-
 
 [3] Eymar souligne le fait que sa thèse est inspirée par la théorie de la grammaire universelle de Chomsky. Cet article sous forme électronique est dépourvu de pagination.
 
-
-
-
 [4] Cf. <em>Recherches en Esthétique : Le fragment</em>, revue du CEREAP, no 14, 2008.
 
-
-
-
 [5] Cf. À ce titre les textes de Marc Escola, Sophie Rabau, Pierre Bayard, Fernando Pessoa et autres, bibliographie à consulter sur le site Fabula http://www.fabula.org/atelier.php?Textes_possibles
-
-
-
 
 ----
 

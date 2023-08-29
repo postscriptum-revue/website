@@ -15,12 +15,10 @@ authors: -
 abstract_fr: <p>Édouard Glissant prend à partie toutes les formes d’uniformisation et s’applique à faire barrage à toute standardisation qui modélise les cultures, auxquelles il propose plutôt une pensée excentrée. C’est justement dans cette perspective que notre investigation rhétorique a repris la question de la stratégie rhétorique anti-prédatrice glissantienne, en la rattachant aux genres oratoires et la traitant à la lueur de leurs visées respectives. L’intentionnalité argumentative se trouve en effet enrichie de l’impulsion judicaire, de l’éloquence épidictique et de la visée délibérative pour pouvoir embrasser le passé, le présent et l’avenir des Antillais. Le romancier-orateur, en cherchant à docere (enseigner) son auditoire, s’emploie souvent à faire preuve de sagesse (phronèsis), de sincérité (arétè) et de sympathie (eunoia). Ce sont là les modalités qui, entre autres, sont mises à contribution par l’écrivain dans l’intention de garantir l’efficacité pragmatique de son logos romanesque, c’est-à-dire de remporter l’adhésion de ses auditeurs qu’il entend persuader par son projet heuristique, culturel et poétique, en somme politique.</p>
 <p>Mots-clés : Édouard Glissant — ethos romanesque — projet sociétal antillais — romancier-orateur — stratégie rhétorique anti-prédatrice</p>
 
-
 ----
 
 abstract_en: <p>Edouard Glissant criticizes and prevents all forms of standardization that model cultures, to which he rather proposes an eccentric thought. It is precisely in that context that our rhetorical investigation reexamined the question of Glissant’s anti-predatory rhetorical strategy by relating it to the oratorical genres and by treating it in the light of their respective aims. Indeed, the argumentative intentionality is enriched by the judicial impulse, the epidictic eloquence and the deliberative aim in order to be able to embrace the past, the present ant the future of Caribbean thought and culture. In seeking to<em> teach</em> (<em>docere</em>) his readers, the novelist-orator often employs wisdom (<em>phronèsis</em>), sincerity (<em>arétè</em>) and sympathy (<em>eunoia</em>). These are the modalities which have been used, among others, to guarantee pragmatic efficiency of his novelistic <em>logos</em>. In other terms, the writer tries to gain the widespread adherence of his readers that he intends to convince by his heuristic, cultural, poetic and political project.</p>
 <p>Key words : anti-predatory rhetorical strategy – Caribbean societal project – Edouard Glissant – novelist-orator – romantic <em>ethos</em> </p>
-
 
 ----
 
@@ -109,7 +107,6 @@ text: <p>Introduction </p>
 <p>Pour ce qui est de la rhétorique anti-prédatrice, articulée autour des genres oratoires, elle exhorte les Antillais à s’affranchir des jougs de la dépendance pour prendre en charge leur devenir. Traitant du vrai et du faux, du juste et de l’injuste, domaine de l’impulsion judiciaire, débattant de la question du noble et du vil, question relevant essentiellement de l’éloquence épidictique, et portant sur le nuisible et l’utile, champ propre de la visée délibérative, l’<em>ethos</em> glissantien met à contribution le <em>logos</em> romanesque dans l’intention d’interpeller le <em>pathos </em>insulaire pour le sortir de sa désinvolture et le placer devant ses responsabilités existentielles.</p>
 <p>D’autre part, s’agissant du projet politique que l’œuvre romanesque glissantienne promeut, il fonctionne pleinement dans la droite ligne de la dynamique à la fois argumentative, pragmatique et agonistique dont s’enrichit l’« antirhétorique méditée » (Glissant 2005, 111) sous-jacente à la contre-épopée de Glissant. Autant dire que ce projet politique, bien qu’il se propose de mettre à mal la systématisation colonisatrice, ne cède pour autant, ni à la violence ni à la haine. Et si l’orateur caribéen fustige l’incurie de ses compatriotes, c’est qu’il veut agir dans son entour primordialement par le biais de l’écriture et de la parole. Rappelons, dans ce contexte, la formule pertinente de Joëlle Gardes-Tamine : « Refuser la violence, mais agir. La rhétorique prend sa source dans la volonté pratique de l’emporter sur un adversaire qu’il faut vaincre » (2011, 13). Dans cette joute rhétorique agonistique, l’écrivain antillais mise beaucoup sur la dimension argumentative ainsi que sur la force persuasive pour éveiller la conscience de ses concitoyens caribéens et les inciter à « commencer de prendre pied, de connaître vraiment le pays réel » (Glissant 1993, 603), au lieu de sombrer dans les illusions de la modélisation occidentale. </p>
 
-
 ----
 
 references: 
@@ -183,20 +180,11 @@ Notes 
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> « <em>Think globally, act locally</em>.<em> </em>», Édouard Glissant &amp; François Noudelmann, <em>L’entretien du monde</em>, Paris, PUV, 2018, p. 36.</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> M. Meyer, <em>in</em> « Préface » de <em>Traité de l’argumentation</em>, Chaïm Perelman &amp; Lucie Olbrechts-Tyteca, <em>Traité de l’argumentation : La nouvelle rhétorique</em>, Bruxelles, Éditions de l’Université de Bruxelles, 1970, p. 2.</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Il s’agit de la loi no 46-451 du 19 mars, en vertu de laquelle la Guadeloupe, la Martinique, La Réunion et la Guyane sont devenues des départements français. Cette loi a été adoptée à l’unanimité sur la proposition d’Aimé Césaire, qui était l’un des députés d’Outre-Mer. Quant à Glissant, il rejette en bloc cette loi, comme il le signale en ces termes : « La départementalisation de 1946. <em>Concrétisation la plus achevée de la peur et du déni de soi, elle marque la limite extrême de l’aliénation, la limite aussi de son expression.</em> », É. Glissant, <em>Le Discours antillais</em>, Paris, Éditions du Seuil, 198, p. 154. Les italiques sont le fait de l’auteur.</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> « Comme l’argumentation vise à obtenir l’adhésion de ceux auxquels elle s’adresse, elle est, tout entière, relative à l’auditoire qu’elle cherche à influencer. », Chaïm Perelman &amp; Lucie Olbrechts-Tyteca,<em> op. cit</em>., p. 24.</p>
-
-
-
-
-
-
 
 ----
 

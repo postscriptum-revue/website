@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans cet article, nous étudierons la représentation de la femme comme énigme dans la peinture et la littérature de la fin du XIXe siècle, en prenant pour exemple trois tableaux de Gustave Moreau, Œdipe et le Sphinx, Le Sphinx vainqueur, Œdipe voyageur ainsi qu’une pièce de Maurice Maeterlinck, Pelléas et Mélisande. Nous tenterons de montrer comment cette représentation fait surgir le sacré et répond à la quête de spiritualité des deux artistes. Notre analyse mettra en évidence les rapports entre cette représentation de la femme et la conception d’un art énigmatique. Nous verrons que toute tentative de résolution de l’énigme, et par conséquent de compréhension des œuvres étudiées, conduit le spectateur à un travail de dévoilement. Or, c’est par le regard, à la fois des protagonistes et des spectateurs, que l’œuvre et son mystère pourront être dévoilés, quand ce regard fait surgir l’invisible du visible.</p>
 
-
 ----
 
 abstract_en: <p>In this article we study the representation of women as an enigma in late 19th century painting and literature. We use the example of three paintings by Gustave Moreau, Œdipe et le Sphinx, Le Sphinx vainqueur, Œdipe voyageur and Maurice Maeterlinck’s play Pelléas et Mélisande. We aim to show how this type of representation of women illustrates the concept of sacredness and the spiritual quest of the two artists. Our analysis identifies the links between this representation and enigmatic art. We observe that the attempt to solve the enigma – and in consequence to understand the works – requires that the spectator removes himself or herself, the veil. Indeed, it is through the protagonists and the spectator’s eyes that the work and its mystery can be unveiled, in that the invisible appears through the visible.</p>
-
 
 ----
 
@@ -60,7 +58,6 @@ text: <p>« Le premier caractère de l’énigme est sacré », écrit René A
 <p>L’« éloquence muette » des silences du texte dramatique rejoint celle de la peinture, elle définit l’attitude que devrait adopter le spectateur devant une œuvre symboliste. Pour juger des œuvres, de l’art, dit Gustave Moreau, « Il s’agit de savoir et de connaître, d’avoir les yeux de l’âme et de l’esprit et aussi les yeux du corps. » (Moreau 1984 : 137). Savoir regarder (une peinture, une pièce de théâtre) ce n’est donc pas seulement, et prioritairement (« les yeux du corps » constitue le troisième terme de l’énumération, et un ajout – « aussi » – aux termes principaux) utiliser ses organes visuels. Dans le silence de la contemplation, dans les silences du texte, « les yeux de l’âme et de l’esprit » s’ouvrent, à l’écoute. « L’œil écoute » dirait Paul Claudel.</p>
 <p>Mélisande est un personnage énigmatique, insaisissable, presque fantomatique ; elle est passée dans le château comme un rêve mystérieux. Seul celui dont l’âme est ouverte a su la retenir un instant, car avec les yeux de l’âme, il a vu vraiment qui elle était. Pelléas est comme le poète, ouvert à l’inconnu, au rêve et à l’étrange, il serait dans la pièce une figure de l’« idéaliste » opposée à la figure du « matérialiste » Golaud. Mélisande figurerait l’œuvre d’art dont les origines comme la fin sont mystérieuses : d’où vient-elle ? où va-t-elle ? nul ne le sait. Une fois le rêve évanoui, il reste l’œuvre du poète ou la petite fille de Mélisande, qui devront trouver leur place dans le monde réel.</p>
 
-
 ----
 
 references: 
@@ -85,136 +82,57 @@ references:
  	<li>SOURIAU, Étienne, <em>La correspondance des arts : Éléments d’esthétique comparée</em>, Paris, Flammarion, 1969.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Cité par Alain Delaunay dans l’article « Énigme » de l’<em>Encyclopoedia Universalis</em>, version 9.
 
-
-
-
 [2] Définitions du dictionnaire Robert 2007 ; remarque : nous utiliserons la majuscule pour les mots « sphinx » et « sphinge » lorsqu’ils désignent explicitement le « personnage » du mythe.
-
-
-
 
 [3] Expression qui renvoie à un essai de Georges Bataille, <em>L’expérience intérieure</em> ; Wassily Kandinsky parle, quant à lui, de « nécessité intérieure » comme moteur de la création artistique.
 
-
-
-
 [4] Nous pensons à leur pouvoir sur le corps, étudié par Didi-Huberman au chapitre VI de <em>L’image ouverte</em>.
-
-
-
 
 [5] « Moreau tirait gloire de ce qu’il appelait “ce caractère indécis et mystérieux” » de ses œuvres, dans Peter Cooke, « Gustave Moreau entre dessin et couleur, entre décoration et évocation ».
 
-
-
-
 [6] Préface de Philippe Sers à Kandinsky, <em>Du spirituel dans l’art et dans la peinture en particulier</em>, p. 16.
-
-
-
 
 [7] Cette fascination se retrouve dans d’autres toiles de Moreau, par exemple dans certaines versions de Salomé, dont deux ont été décrites par Huysmans dans <em>À rebours</em>.
 
-
-
-
 [8] Nous verrons dans l’étude de la pièce de Maeterlinck que le regard est une des caractéristiques qui fait de Mélisande un personnage « autre », surgi d’un « autre monde ».
-
-
-
 
 [9] Interdit qui relèverait du mystère, ici synonyme de « secret », selon le sens étymologique latin du mysterium (« chose tenue cachée, secrète »), voire du Mystère, celui du Verbe divin ; ainsi Marie-Madeleine ne peut toucher le Christ après sa Résurrection (« Noli me tangere »).
 
-
-
-
 [10] Pour une analyse détaillée, lire Jean-David Jumeau-Lafond, « Gustave Moreau et Œdipe : Une image de l’artiste face à son destin ».
-
-
-
 
 [11] Interprétation de Jumeau-Lafond dans son article « Gustave Moreau et Œdipe : Une image de l’artiste face à son destin ».
 
-
-
-
 [12] Lire ci-dessous la citation complète de Moreau. La « pensée éternelle » serait une pensée qui transcende l’histoire, dans la mesure où elle ne s’arrête pas aux faits chronologiques ; selon Moreau, le tableau peut être « anachronique », son contenu peut renvoyer à différents moments historiques (dans <em>L’assembleur des rêves</em>, il donne l’exemple d’un tableau de Poussin, p. 134).
-
-
-
 
 [13] C’est nous qui soulignons. Ce secret serait celui des origines et de la fin de l’œuvre d’art, qui resteront, sans doute, à jamais, mystérieuses.
 
-
-
-
 [14] Préface de Philippe Sers à Kandinsky, Du spirituel dans l’art et dans la peinture en particulier, p. 12.
-
-
-
 
 [15] C’est-à-dire celle de l’existence d’un autre monde, d’une autre réalité (qui peut prendre différents noms : réalité intérieure, surnaturelle ou divine, voire inconsciente) dont l’œuvre d’art aura fait prendre conscience.
 
-
-
-
 [16] À la fin de la pièce, Arkël dit à Golaud : « Vous ne savez pas ce que c’est que l’âme… » (p. 69).
-
-
-
 
 [17] Le philosophe et historien de l’art développe une théorie de « l’image ouverte », une image dont « l’ouverture » (qui peut être le détail d’un tableau, par exemple) permet de faire passer de ce que l’on voit – le visible – à ce que l’on ne voit pas – le visuel. Il prend l’exemple de « l’art visuel chrétien », dans lequel c’est le divin qui permet le passage du visible au visuel, de l’imitation à l’incarnation, car l’image ouverte est celle qui dépasse la mimésis pour s’incarner, comme le Verbe divin s’est incarné dans le corps du Christ (Didi-Huberman, 2007).
 
-
-
-
 [18] Expression de Maeterlinck, titre du chapitre XIII du <em>Trésor des humbles</em>.
-
-
-
 
 [19] Chapitre I du <em>Trésor des humbles</em> intitulé « Le silence », dans lequel le mot « âme » est employé 26 fois.
 
-
-
-
 [20] Maurice Maeterlinck, <em>Pelléas et Mélisande</em>, I, 4 p. 21 ; II, 1 p. 23 et III, 1 p. 34.
-
-
-
 
 [21] <em>Idem</em>, III, 5 p. 46.
 
-
-
-
 [22] <em>Idem</em>, III, 3 p. 39 et 40.
-
-
-
 
 [23] <em>Idem</em>, IV, 4, p. 59.
 
-
-
-
 [24] <em>Idem</em>, V, 1 p. 63 et V, 2 p. 68, 69 et 70.
 
-
-
-
 [25] Arnaud Rykner définit la fonction « historique » du silence, qui est d’ébranler le mécanisme du dialogue dramatique et d’ouvrir la scène à l’appréhension d’autres forces, rebelles à toutes formes de « communication » ; chez Maeterlinck, ce sont les « forces invisibles » qui entrent sur la scène.
-
-
-
 
 ----
 

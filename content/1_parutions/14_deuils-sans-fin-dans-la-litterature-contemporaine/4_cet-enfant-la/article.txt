@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Depuis le récit de deuil qu’est Philippe, le fils mort ponctue l’œuvre de Camille Laurens et fait signe à un réel dont la douleur ne peut être prise en charge par l’écriture qui, dès lors, se fait translation, cortège funèbre, comme s’il lui appartenait de différer le deuil plutôt que de le clore. La mère conjugue incessamment au futur l’ombre de son passé et engage à penser le retour du fils comme la relance d’un deuil toujours en devenir. Après avoir étudié les formes de ce retour, l’on s’attachera à montrer en quoi l’espace livresque incarne l’un des derniers bastions contemporains où il serait encore possible de faire advenir par les mots quelque chose du désastre de survivre au disparu.</p>
 
-
 ----
 
 abstract_en: <p>Since the publication of Philippe, Camille Laurens’ work has incessantly drawn upon the presence of the dead son so as to bear witness to the inherent impossibility of appeasing the reality of this undeniable pain, which cannot be seized by the act of writing. By investing the crux of such an impossible scriptural endeavor, Laurens’ work nonetheless demonstrates the presence of the son through multiple tropes, which operate by relentlessly reviving him like an everlasting funeral procession. In doing so, the mother unites the future with the shadow of the past and questions the son’s return as a mourning process in progress. After examining the various forms of this return, we will strive to shed light on the idea of the book as one of the last remaining contemporary spaces wherein words allow for something to befall in the aftermath of surviving a loved one’s death.</p>
-
 
 ----
 
@@ -52,7 +50,6 @@ Marcel Proust
 <p>Cela étant dit, il serait sans doute possible d’imaginer le récit de deuil comme un lieu contemporain qui accueillerait en son sein une parole bâillonnée, interdite par la doxa. Héritier des genres de l’élégie et de l’oraison funèbre, le récit de deuil serait l’un des derniers bastions qui tente de faire advenir par les mots quelque chose du désastre de survivre au disparu. À lire une certaine littérature contemporaine où se trouve inscrite l’expérience du deuil, l’on constate que ce qui fleurissait jadis dans le cercle restreint des intimes (amis, cercle familial immédiat et élargi, etc.) et ce qui est aujourd’hui tu (dans les mêmes cercles), trouve refuge dans un témoignage qui, lyrique ou sobre, déploie une gamme d’affects intrinsèquement liée à la parole du survivant. Reliquat de la mort, le livre comme lieu de la purge contemporaine du deuil serait une forme de résistance où le vivant insiste auprès du mort afin de répéter ce qu’ailleurs on lui interdit : le regret de ce qui a été, de ce qui n’est plus. C’est cette résistance que l’on peut lire chez Laurens. C’est cette survie, vie de la mort, vie <em>par delà</em> la mort, par delà les mots, que l’on a tenté d’éclairer.</p>
 <p>Car le retour du fils a pour unique motif, pour seule explication, cette chose qui, s’entêtant envers et contre tous, persiste et signe : la primauté de la vie sur l’écriture, celle de la chair sur les mots. S’il s’agit d’écrire à partir du lieu de la perte, de tenter de donner une forme à l’informe qu’est le deuil du fils, ce sera toujours dans le but d’avouer la souveraineté d’une douleur insurmontable. S’appropriant la parole sartrienne qui érige la vie au-dessus de l’œuvre d’art [10], Forest écrit de sa fille Pauline morte d’un cancer à l’âge de quatre ans ce qui, chez Laurens, se lit avec insistance depuis la mort de Philippe : « Pour ma part, entre l’enfant et le livre, si le choix m’avait été laissé, j’aurais voulu pouvoir garder l’enfant » (Forest 2007 : 74).</p>
 
-
 ----
 
 references: 
@@ -80,61 +77,27 @@ references:
  	<li>PONTALIS, J.B., « Mélancolie du langage », dans <em>Perdre de vue</em>, Paris, Gallimard, coll. « Folio essais », 1999 [1988].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] « Si encore vous aviez crié ! […] C’est vrai, quoi : il y en a qui hurlent, d’autres qui n’ouvrent pas la bouche, alors on ne peut pas savoir… » (Laurens 2008 : 78).
 
-
-
-
 [2] Une idée similaire traverse l’œuvre de Philippe Forest : « Il y a une beauté et une douceur, certainement, à se dire qu’avec vous, après vous, des dizaines de milliers de lecteurs pleurent à travers le monde l’agonie d’une enfant. Car que vaudrait un livre sec et sans larmes ? » (Forest 2007 : 160). Si l’auteur de <em>L’Enfant éternel</em> remarque toutefois que cette « douceur » ne changera rien à la mort de sa fille, on ne peut s’empêcher de penser que le retour de l’enfant, la reprise du récit du deuil chez Forest, tout comme chez Laurens, témoigne d’une écriture qui en appelle à une forme de résistance du deuil ; on s’y attardera dans la conclusion de ce texte.
-
-
-
 
 [3] Lectrice aguerrie de Barthes, Laurens mentionne l’homme et ses écrits dans plusieurs de ses livres, plus particulièrement dans <em>Cet absent-là</em> où la réflexion autour de la photographie et des liens que cette icône entretient avec la mort et l’absence est puisée dans <em>La Chambre claire</em>.
 
-
-
-
 [4] Dans ses premiers écrits, Freud insiste sur la part curative, voire cathartique, qu’engendre tout travail du deuil et évoque le rôle décisif qu’entraîne la substitution en tant que son corollaire positif, le sujet parvenant à « remplacer ses objets perdus par des objets nouveaux, si possible tout aussi précieux ou plus précieux » (Freud 1988 : 324). Le psychanalyste révisera ses positions tout au long de sa carrière. Dans une lettre à Ludwig Binswanger, il écrit au sujet de Sophie, sa fille décédée : « C’est aujourd’hui que ma défunte fille aurait eu trente-six ans […] On sait que le deuil aigu que cause une telle perte trouvera toujours une fin, mais qu’on restera inconsolable, sans trouver jamais un substitut. Tout ce qui prendra cette place, même en l’occupant entièrement, restera toujours quelque chose d’autre. Et, à vrai dire, c’est bien ainsi. C’est le seul moyen que nous avons de perpétuer un amour auquel nous ne voulons pas renoncer » (Freud 1966 : 421-422), cité par Lévesque 2005 : 76-77.
-
-
-
 
 [5] Si ce sont les larmes des lecteurs qui tireront Philippe du néant, comme il a été dit précédemment, l’on s’aperçoit ici que les mots ne détiennent pas le même pouvoir.
 
-
-
-
 [6] « […] rien à dire de la mort de qui j’aime le plus, rien à dire de sa photo, que je contemple sans jamais pouvoir l’approfondir, la transformer. La seule pensée que je puisse avoir, c’est qu’au bout de cette première mort, ma propre mort est inscrite ; entre les deux, plus rien, qu’attendre ; je n’ai d’autre ressource que cette <em>ironie</em> : parler du "rien à dire" » (Barthes 1980 : 145).
-
-
-
 
 [7] On retrouve la même idée chez J.B. Pontalis pour qui « dans l’opération de langage même, est inscrite l’impossibilité de satisfaire son exigence. En se portant là où il défaille, le langage réalise son échec. Il est à la fois un deuil qui se fait et un deuil qui ne s’achève pas » (Pontalis 1999 : 252).
 
-
-
-
 [8] Je souligne.
-
-
-
 
 [9] « Au XVIIIe siècle naquit le mélodrame, forme de théâtre alliant texte et musique, où les larmes n’étaient point tabou : car on pleurait alors, dans les salons et à la tribune de l’Assemblée, hommes comme femmes, dans la vie privée comme dans l’espace public. Les pleurs prouvaient la sincérité, et la rétention des émotions était suspecte.  En deux cents ans, le signe de la sensibilité est devenu marque de sensiblerie et l’individu moderne, s’il s’épanche au téléphone, dans des blogs ou sur Facebook, ne pleure plus en public. La tentation des larmes perdure cependant, mais une sorte d’effroi devant l’émotion brute nous a incités à la reléguer dans le roman ou le cinéma, où elle est programmée » (Fix 2011 : quatrième de couverture).
 
-
-
-
 [10] « Au début des années 60, Jean-Paul Sartre a déclaré à une journaliste qu’il considérait qu’aucun de ses romans ne faisait le poids devant la mort d’un seul des enfants affamés d’Afrique. Cette phrase a beaucoup fait sourire certains des jeunes écrivains d’alors qui ont eu beau jeu de répondre que la littérature, justement, et elle seule, permettait de donner une valeur à la vie – fût-elle celle d’un enfant – et d’en apprécier le prix » (Forest 2007 : 74).
-
-
-
 
 ----
 

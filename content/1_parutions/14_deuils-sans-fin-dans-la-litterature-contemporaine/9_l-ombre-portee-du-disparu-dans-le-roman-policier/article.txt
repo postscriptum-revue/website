@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Observer les utilisations de la mort par le genre policier est un prisme éclairant pour saisir la spécificité d’un roman dont l’incipit promet la découverte d’un cadavre. La description macabre semble actuellement indissociable du succès du genre, les auteurs rivalisant dans l’horrible. Mais l’évolution de ce motif, cliché réactivé, entraîne celle du genre. Le roman policier à son origine prenait le mort comme l’inconnue d’une équation dans des termes si mathématiques que la mort perdait tout pouvoir de sidération, la victime suscitant peu d’affects ; cependant la modernité perturbe en profondeur la portée consolatrice du genre en redonnant à la mort sa puissance : le disparu redevient une personne, sa mort, une tragédie. D’ailleurs l’enfant, absent du roman de type anglais, rejoint le groupe des victimes, révélant la barbarie de nos civilisations. Le roman n’a plus alors une structure bien close question/réponse, il peut résonner de l’irrémédiable deuil sans fin.</p>
 
-
 ----
 
 abstract_en: <p>To examine the uses of death in detective novels enlightens one’s grasp of a specific novel whose incipit promises the discovery of a corpse. Presently, macabre descriptions seem inseparable of the genre’s success, as authors compete in horridness. However, the evolution of this motif, a reactivated cliché, entails that of the genre. The detective novel in its origin presented the corpse as the unknown of an equation so mathematical in its terms that death lost any power of sideration, the victim arousing few affects. However, modernity deeply disrupts the comforting impact of the genre by restoring to death its subjectifying power : the missing person becomes a person once more ; his death, a tragedy. Moreover the child, absent in the English detective novels, joins the group of victims, revealing the inhumanity of civilization. The novel no longer retains a closed structure of question and answer, and thereby resonates with an unending irreparable mourning.</p>
-
 
 ----
 
@@ -65,7 +63,6 @@ text: <p>La mort, dans le roman policier, est placée comme l’objet même de l
 <p>Le corps manque à l’<em>incipit</em>, comme dans <em>Disparitions</em>, vide impossible à combler. Symboliquement, le roman de Woodrell montre l’impossibilité du deuil sans corps : Ree se trouve dans l’obligation absolue de retrouver ce corps, parce que sans lui elle perdra sa maison, hypothéquée par son père : attester la mort du père par l’exhibition de son corps, c’est se libérer d’une obligation susceptible de compromettre son propre accomplissement. Le chemin vers ce cadavre est long et périlleux, jusqu’au sacrifice : Ree se fait passer à tabac par sa communauté. Elle vit des jours durant dans une douleur atroce ; une femme lui donne ses propres médicaments pour la soulager – un traitement pour hystérectomie. Cette castration symbolique faite, les mêmes sorcières qui l’avaient brutalisée vont l’acheminer vers le mort ; mais il est pris dans les glaces d’un marécage, et l’ultime épreuve consistera pour Ree, après avoir vainement tenté d’arracher le corps aimé à l’eau gelée, à couper les mains de son père, dont elle ne devra pas connaître l’assassin, sous peine de mort. Elle paie ainsi une ultime dette, son père ayant été tué pour avoir enfreint les règles de sa communauté. À travers le motif de la dette et de la castration se perçoit ce que la mort d’un proche requiert. Le chemin vers le deuil n’amène pas une libération (l’<em>excipit</em> décrit l’étreinte finale entre Ree en larmes et son oncle) ni une révélation (savoir serait mourir) ; peut-être simplement, à défaut d’une renaissance, une reconnaissance : « T’es quelqu’un, petite » (181). Mais il faudra alors avoir tout affronté, y compris l’ignorance.</p>
 <p>À travers ces exemples, une évidence s’impose : le poids du mort provient d’un carré herméneutique déterminé par les liens familiaux. La composante autobiographique brouille définitivement le jeu et promet l’inconnu dans l’équation policière, comme le démontre à l’envie l’œuvre de James Ellroy, qui s’est emparé du genre pour manifester le deuil impossible de sa mère assassinée, son <em>Dahlia noir</em>.</p>
 <p>La question du deuil constitue donc un prisme éclairant pour observer les modifications génériques du roman policier ; il est clair que cette mise en texte de la mort a d’abord eu pour mission de la nier en tant que telle et dans ses implications affectives. La raison menait l’enquête, garantissant au principe de plaisir un jeu plus ou moins cruel avec la mort d’autrui. Sur la même partition, l’interprétation moderne va bousculer le genre : <em>exit</em> la raison, <em>exit</em> l’enquête, <em>exit</em> l’enquêteur. La structure en boucle laisse la place au non-dit du deuil infini, à l’ambiguïté de la mort. Pour reprendre les mots de Philippe Forest, l’écrivain « fossoyeur » est devenu « nécromancier » (2010 : 121). Car le roman moderne veut se souvenir de ce que le roman policier classique renvoyait dans l’oubli, il dresse des individus contre le groupe, leur faisant affronter leurs responsabilités et la brutalité de leur condition humaine.</p>
-
 
 ----
 
@@ -115,86 +112,37 @@ references:
  	<li>WOODRELL, Daniel, <em>Un Hiver de glace</em>, Paris, Rivages/Thriller, 2007[2006].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] « Les armes utilisées dans le roman noir (colt, fusil, poignard, couteau) n’ont pas d’action différée mais parlent un langage direct et immédiat. Ils deviennent les instruments mythiques de la fatalité qui frappe les mortels. » (Evrard 1996 : 121)
 
-
-
-
 [2] Le romancier S.S. Van Dine publia en septembre 1928 dans L’<em>American magazine</em> vingt règles censées garantir la loyauté du combat entre auteur et lecteur et la pureté intellectuelle du jeu proposé.
-
-
-
 
 [3] « L’obscur sentiment de culpabilité qui écrase l’humanité depuis les origines et qui dans maintes religions s’est condensé en l’hypothèse d’une faute originelle, d’un péché héréditaire, est vraisemblablement l’expression d’un crime de sang, dont s’est chargée l’humanité originaire. » Ce crime consisterait en un « parricide, le meurtre du père originaire de la horde humaine primitive, père dont l’image mnésique a été transfigurée en divinité. » (Freud 1981 : 30-31)
 
-
-
-
 [4] « Mais ce qui est vrai dans toutes les métaphysiques œdipiennes, au-delà de leurs mythologèmes, c’est que, même si elles ne reflètent pas quelque crime produit par l’imagination, elles reflètent pourtant un point sombre, un <em>incognito</em> du commencement. De ce point de vue toute recherche de causes reste apparentée à la forme œdipienne qui ne se contente d’ailleurs pas de traiter d’une simple inconnue de nature logique, mais aussi de quelque chose de suspect qui inquiète, qui peut même s’ignorer soi-même. » (Bloch 1983 : 278)
-
-
-
 
 [5] « La victime émissaire meurt, semble-t-il, pour que la communauté, menacée tout entière de mourir avec elle, renaisse à la fécondité d’un ordre culturel nouveau ou renouvelé. » (Girard 1972 : 381)
 
-
-
-
 [6] « L’en-deçà des mots par rapport aux choses, stéréotype populaire, trouve ici son accomplissement dans le retard normal du récit par rapport à l’antériorité fulgurante du déjà fait, du mort bien mort, donc d’une action essentiellement et largement préexistante à tout texte consommé ou publié. » (Colin 1989 : 55-56)
-
-
-
 
 [7] « Déclenchant le mouvement de la substitution, la mort ou le meurtre figure la case vide qui fait fonctionner le système du récit : le récit n’est dès lors lui-même qu’une dynamique de la substitution qui essaie de comprendre - au sens spatial, c’est-à-dire d’arrêter, de totaliser, de <em>dire</em> le mouvement de la substitution. » (Felman 1983 : 34)
 
-
-
-
 [8] Ariès (1977 : 58) évoque le « malaise provoqué par la persistance de la mort dans un monde qui élimine le mal : le mal moral, l’enfer et le péché au XIXe siècle, le mal physique, la souffrance et la maladie, au XXe [ou XXIe] siècle. La mort devrait suivre le mal auquel elle avait toujours été liée dans les croyances, et disparaître à son tour : or elle persiste, et même ne recule plus. »
-
-
-
 
 [9] « Peut-être l’art exige-t-il de jouer avec la mort, peut-être introduit-il un jeu, un peu de jeu, là où il n’y a plus de recours ni de maîtrise. » (Blanchot 1955 : 109)
 
-
-
-
 [10] « S’il nous est permis d’admettre comme un fait d’expérience ne souffrant pas d’exception que tout être vivant meurt, fait retour à l’anorganique pour des raisons internes, alors nous ne pouvons que dire : <em>le but de toute vie est la mort</em> et, en remontant en arrière, <em>le non-vivant était là avant le vivant</em>. » (Freud 1981 : 82)
-
-
-
 
 [11] « Nous nous sommes révoltés devant une littérature subjective et nous souhaitons la bienvenue à une littérature objective ; nous fuyons devant l’émotion pour écouter l’appel de l’intellect. » (Nicholson, <em>in</em> Narcejac 1975 : 242)
 
-
-
-
 [12] « Pendant ces années, le monde a été traversé par un sentiment omniprésent de culpabilité et par la peur d’un désastre menaçant qu’il semblait inutile de vouloir écarter, parce qu’il ne paraissait jamais vraiment possible d’en fixer les responsabilités. Qui avait commis le crime originel, qui allait commettre le prochain ? » (Wilson 1983 : 89)
-
-
-
 
 [13] L’instinct de mort est responsable de la structure même d’un certain roman noir. « On appelle cette fascination et cette fuite devant l’inéluctable le suspense. » (Demure 1997 : 163)
 
-
-
-
 [14] En parlant des personnages de Dickens, Belletto (1994 : 86) a cette phrase qui semble faite pour son œuvre : « L’illusion consiste à se persuader, à force de fausseté et de mauvaise foi, que l’autre existe, à se dissimuler qu’il est une projection de soi et de ses désirs coupables. [...] la chaîne des doubles est sans fin, le bien et le mal sont constamment interchangeables, tout est illusion d’optique, ce qu’on croyait être le motif diabolique d’une tapisserie est aussi le fond d’une autre tapisserie, ou de la même [...] ».
 
-
-
-
 [15] « Le livre, par l’envoûtement de ses répétitions obsédantes, de ses ondes de sonorités et de sens sans cesse prolongées, des visions suscitées de diverses manières, et parfois par l’aspect même des mots et des lettres, nous “embobine” littéralement, nous ligote et nous endort, et fait surgir en nous l’idée et les mots du meurtre, un meurtre dont Dickens nous fait les complices et même se décharge sur nous. » (Belletto 1994 : 88-89)
-
-
-
 
 ----
 

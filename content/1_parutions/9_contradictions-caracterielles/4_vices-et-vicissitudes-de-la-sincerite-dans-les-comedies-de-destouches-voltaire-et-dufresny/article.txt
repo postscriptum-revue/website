@@ -15,12 +15,10 @@ authors: -
 abstract_fr: <p>Selon son étymologie, la sincérité serait le type même de la vertu pure et sans alliages. Les comédies françaises de 1715 à 1731 perturbent cependant la sérénité de cette idéalisation naïve. Sensibles à sa « valeur latente » (Dromard 1910 : IV), elles orchestrent la confrontation de deux conceptions antagonistes de la sincérité qui ne s’équivalent que par les vices déguisés qu’elles recèlent. Fleuron de la valorisation classique de l’honnêteté et de la délicatesse, la sincérité curiale induirait dissimulation et hypocrisie. Fruit d’une exigence de purisme moral, la sincérité absolue impliquerait la médisance, l’indiscrétion, voire l’éclatement social par exacerbation des misanthropies.</p>
 <p>Le Faux Sincère de Dufresny décuple la complexité du problème, déjà inextricable, des franchises concurrentes. L’adepte du purisme sincère s’y avère un praticien de la sincérité de cour. Hypocrite en franchise, son être se dissout dans ses apparences pour finir par lui conférer une sincérité paradoxale, celle d’un acteur de bonne foi.</p>
 
-
 ----
 
 abstract_en: <p>According to etymological accounts, sincerity would be the very definition of pure, untarnished virtue. French comedies from 1715 to 1731, however, disturb the sincerity of this naïve idealization. Very self-conscious with regard to their « latent value » (Dromard 1910 : IV), they orchestrate the confrontation between two opposed conceptions of sincerity that nowhere achieve equal footing except at the level of the disguised vices they contain. Emanating from the classic valorization of honesty and delicacy, courtly sincerity leads to dissimulation and hypocrisy. Emerging as the ripe fruit of the requirements of moral purism, absolute sincerity would imply slander, indiscretion and even social breakdown through sharpening the many edges of misanthropy.</p>
 <p>Dufresny’s Le Faux Sincère multiplies the intricacies of the already complex problem of rivalling sincerities. The adept of sincere purism is revealed to be a practitioner of courtly sincerity. Hypocrite in frankness, his self dissolves through appearances, ultimately imbuing him with a paradoxical sincerity, that of acting in good faith.</p>
-
 
 ----
 
@@ -182,8 +180,6 @@ C’est comme un rideau noir qu’on tire…
 <p>Au terme de cette pérégrination dans la comédie française à l’aube des Lumières, les vices des sincérités concurrentes paraissent décidément receler de multiples vicissitudes. Plus qu’un état figé, la franchise serait une exigence, voire un idéal susceptible de générer le malheur de son adepte. Toujours menacée de dissolution sur le théâtre du monde, elle n’éclate jamais mieux que là où on ne l’attend guère : au cœur de l’inauthenticité fondamentale du personnage protéique, l’homme de cour, précurseur de nos politiques modernes.</p>
 <p>Résultant de « leur faculté d’apercevoir dans les objets de l’entendement ce que n’y aperçoit pas le commun des hommes » (Marmontel 2005 : 579), la finesse de Destouches et Dufresny ébranle ainsi nos certitudes sur nos valeurs. Subvertissant l’image lénifiante de l’univers véhiculée par le répertoire moliéresque, leurs comédies déroutantes dévoilent l’aliénation de la morale par le langage et la perspective, par la rhétorique et le système. Sans doute leur clairvoyance torturante n’est-elle d’ailleurs pas étrangère à leur refoulement dans l’oubli. Ce que révèle notre réception de ces prospecteurs hardis dans les méandres de la sincérité, c’est peut-être, en définitive, notre besoin vital de mauvaise foi.</p>
 
-
-
 ----
 
 references: 
@@ -208,16 +204,9 @@ references:
  	<li>PAPASOGLI, Benedetta, <em>Le « fond du cœur » : Figures de l’espace intérieur au XVIIe siècle</em>, Paris, Honoré Champion, 2000, 310 p.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] L’affirmation même de la nécessité de distinguer entre deux présentations possibles des faits constitue un leitmotiv du discours du Chevalier. Voir, notamment, acte II scène 4, p. 336 : « distinguons » ; acte IV, scène 2, p. 375 : « Car il faut distinguer ».
-
-
-
 
 ----
 

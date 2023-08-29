@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p><em>Notre-Dame-des-Fleurs</em> présente un narrateur incarcéré qui se raconte des histoires fantasmatiques pour alimenter ses pratiques onanistes, et ces histoires constituent le livre que nous lisons, de sorte que ce que Genet montre c’est une narration qui permet la jouissance du narrateur. Raconter une histoire, c’est prendre le contrôle de son personnel romanesque et le plier à ses désirs, c’est donc jouir d’eux ou jouir au travers d’eux. L’écriture du sexuel devient en elle-même élément de sexualité. Nous nous intéressons ici aux stratégies permettant à Genet de présenter son texte comme outil de jouissance au service de son narrateur.</p>
 
-
 ----
 
 abstract_en: <p>In Jean Genet’s <em>Notre-Dame-des-Fleurs</em>, an imprisoned narrator fantasizes while masturbating, and the erotic stories he invents in order to fuel his desire are the book we are reading: Genet shows that a narration can have the function of serving the sexual pleasure of the narrator. In this paper, I try to explain how Jean Genet moves from writing sexuality to making his very writing a sexual act. I focus on the various strategies which allow Genet to present his own text as a means of sexual pleasure for the narrator.</p>
-
 
 ----
 
@@ -74,7 +72,6 @@ text: <p>Jacques Brenner, auteur un peu oublié mais bon observateur de la vie l
 <p>Jean-Paul Sartre dit avec raison que Genet n’écrit l’histoire des personnages de <em>Notre-Dame-des-Fleurs</em> que dans le but de s’exciter sexuellement, c’est l’effet sur lui-même qu’il recherche : « Genet raconte leur histoire [aux personnages], décrit leurs traits, montre leurs gestes. Il se guide sur une seule évidence : son trouble. Il faut que ces fantasmes provoquent l’érection et l’orgasme ; sinon il les rejette : leur vérité, leur densité, se mesure uniquement à l’effet qu’ils produisent sur lui » (Sartre, 1952 : 500). C’est tout à fait juste, mais il faut noter que c’est l’attitude du <em>narrateur</em> Genet, qui, dans sa cellule, rêve avec délectation à ses histoires d’amour entre hommes. L’attitude de l’<em>auteur</em> Genet est cependant plus complexe. Que le Genet auteur se plaise à ses descriptions sulfureuses, sans doute, mais sa démarche ne consiste pas simplement en l’onanisme de son narrateur : l’auteur montre comment le désir devient matière de la création, il montre comment on passe du fantasme à l’œuvre – d’une certaine manière il démystifie la création littéraire en nous révélant que l’atelier mental de l’auteur est un lieu de stupre<a href="#sdfootnote21sym" name="sdfootnote21anc">[21]</a>.</p>
 <p>Nous voudrions achever cette étude en soulignant que si nous avons choisi un titre qui fait explicitement référence à la catégorie linguistique du performatif telle que l’a décrite John L. Austin, c’est parce que Genet nous montre que dans l’écriture érotique se joue toujours quelque chose qui est de l’ordre du performatif en cela que l’écriture érotique, tout à la fois, décrit des pratiques sexuelles et en même temps constitue une pratique sexuelle. Puisque Genet nous révèle que le langage peut être une pratique érotique, nous sommes amenés à nous demander, comme Shoshana Felman le faisait dans un ouvrage qui, précisément, portait sur la notion de performatif (1980 : 157), si « l’acte sexuel, chez l’être parlant <em>pourrait</em> n’être qu’un acte de langage […] ? » Nous achèverons sur l’idée d’un parallèle entre le langage et la sexualité, et ce parallèle, c’est Jean-Luc Nancy qui nous le fournit en menant, dans <em>Sexistence</em>, une longue réflexion sur la jouissance du langage et la jouissance sexuelle. Pour Nancy, la jouissance du langage est toujours un dire qui veut devenir un faire (c’est l’idéal du <em>fiat lux</em>) et la jouissance sexuelle est un faire qui appelle un dire, de sorte que le texte érotique est par excellence le lieu de croisement de ce dire et de ce faire : « Parole qui en disant agit – car un texte n’est pas érotique par son “objet” sans l’être aussi par son action » (Nancy, 2017 : 171). En cela, dire et jouir peuvent bien être des synonymes.</p>
 
-
 ----
 
 references: 
@@ -110,87 +107,45 @@ references:
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> Madeleine Gobeil, lors de son entretien avec l’auteur, décrit le livre comme « le récit poétique d’une longue masturbation dans une cellule » (Genet, 1991 : 17).</p>
 
-
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Quoiqu’il ne le soit qu’à demi : le narrateur est en dehors du niveau diégétique de Divine, mais il est lui-même un personnage de l’auteur Jean Genet.</p>
-
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> La métalepse désigne pour Gérard Genette « toute intrusion du narrateur ou du narrataire extradiégétique dans l’univers diégétique (ou de personnages diégétiques dans un univers métadiégétique, etc.), ou inversement » (Genette, 1972 : 244).</p>
 
-
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> Nous emploierons l’abréviation <em>NDF</em> pour renvoyer à cette édition.</p>
-
-
 
 <p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> Mais on se rappelle que déjà, chez Balzac, Vautrin, avant de s’échapper du bagne, s’était amouraché de son compagnon de chaîne, le jeune Théodor.</p>
 
-
-
 <p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> En juin 1938, un décret-loi met fin à la transportation et amorce le processus qui mènera à la disparition du bagne de Guyane. Le dernier convoi de prisonniers partit le 22 novembre 1938 (v. Donet-Vincent<em>,</em> 2003 : 365-366 et Pierre, 1982 : 287-288).</p>
-
-
 
 <p><a href="#sdfootnote7anc" name="sdfootnote7sym">[7]</a> Sur la notion de point de vue, nous renvoyons aux travaux d’Alain Rabatel, notamment au premier tome de son <em>Homo narrans. Pour une analyse énonciative et interactionnelle du récit</em> mais on pourra aussi se reporter à son article « Le point de vue, une catégorie transversale », où l’on peut lire : « Un P[oint ]D[e ]V[ue] correspond à un contenu propositionnel renvoyant à un énonciateur auquel le locuteur “s’assimile” ou au contraire dont il se distancie » (Rabatel, 2005 : 58). De manière plus technique, mais aussi plus précise, Rabatel écrit, dans <em>Une Histoire de point de vue</em> : « notre approche consiste à rechercher les traces linguistiques d’un P[oint ]D[e ]V[ue] dans le mode de donation du référent de… l’objet perçu, c’est-à-dire, pour paraphraser Genette, ce qui “est vu, ou ce qui est su”. <em>Ce qui apparaît déterminant, ce n’est plus, dès lors, </em>“<em>qui</em>”<em> voit, ou </em>“<em>qui</em>”<em> sait, c’est l’analyse concrète de la référentialisation du repéré, et, à partir d’elle, le repérage de l’énonciateur responsable des choix de référentialisation.</em> […] Problématiser le P[oint ]D[e ]V[ue], c’est donc d’abord rechercher les traces construisant un focalisateur ou sujet de conscience, grâce aux <em>composantes perceptive, cognitive et axiologique</em>, etc., qui le constituent comme tel. » (Rabatel, 1997 : 286-287).</p>
 
-
-
 <p><a href="#sdfootnote8anc" name="sdfootnote8sym">[8]</a> Le passage devrait correspondre aux pages 72 et 73 dans l’édition des <em>Œuvres complètes</em>.</p>
-
-
 
 <p><a href="#sdfootnote9anc" name="sdfootnote9sym">[9]</a> Nous emploierons l’abréviation <em>NDF</em> L’Arbalète pour renvoyer à cette édition.</p>
 
-
-
 <p><a href="#sdfootnote10anc" name="sdfootnote10sym">[10]</a> Il s’agit bien entendu de Genet en tant que narrateur, non pas en tant qu’auteur.</p>
-
-
 
 <p><a href="#sdfootnote11anc" name="sdfootnote11sym">[11]</a> « Divine se parle en secret » (<em>NDF</em> L’Arbalète : 80). On retrouve cela dans les <em>Œuvres complètes</em> (<em>NDF</em> : 72), mais la scène érotique n’est plus décrite, la scène s’arrête à « L’amour commence » (<em>ibid</em>.).</p>
 
-
-
 <p><a href="#sdfootnote12anc" name="sdfootnote12sym">[12]</a> « [L’onanisme] élèv[e] l’objet sexuel à un degré d’excellence qu’il n’est pas facile de retrouver dans la réalité. Un écrivain spirituel (Karl Kraus dans le journal viennois “Fackel”) a pu même, en renversant l’argument, exprimer cyniquement la vérité en ces termes : le coït n’est qu’un succédané insuffisant de la masturbation ! » (Freud, 1969 : 43)</p>
-
-
 
 <p><a href="#sdfootnote13anc" name="sdfootnote13sym">[13]</a> Clément Village est un assassin noir. On notera que dans <em>Les Nègres</em>, l’assassin s’appelle également Village. Mais si le personnage des <em>Nègres</em> est africain, le Village de <em>Notre-Dame-des-Fleurs</em> est guadeloupéen.</p>
 
-
-
 <p><a href="#sdfootnote14anc" name="sdfootnote14sym">[14]</a> « Un peu plus tôt, le nègre Ange Soleil avait tué sa maîtresse. » (<em>NDF</em> : 9)</p>
-
-
 
 <p><a href="#sdfootnote15anc" name="sdfootnote15sym">[15]</a> Il s’agit du numéro 331 du magazine <em>Détective</em>, paru le 28 février 1935. Nous pourrions ajouter que <em>Police magazine</em> consacrait également à l’assassin une partie de son n° 443, paru le 21 mai 1939.</p>
 
-
-
 <p><a href="#sdfootnote16anc" name="sdfootnote16sym">[16]</a> « [Village] était Guadeloupéen et danseur nu au <em>Caprice viennois.</em> » (<em>NDF</em> : 107)</p>
-
-
 
 <p><a href="#sdfootnote17anc" name="sdfootnote17sym">[17]</a> « [M]es livres seront-ils jamais autre chose qu’un prétexte à montrer un soldat vêtu d’azur, un ange et un nègre fraternels jouant aux dés ou aux osselets dans une prison sombre ou claire ? » (<em>NDF</em> : 17)</p>
 
-
-
 <p><a href="#sdfootnote18anc" name="sdfootnote18sym">[18]</a> Par ailleurs, ce « Faites ce qu’il vous plaira » a de quoi surprendre après tant d’impératifs. En réalité, cette liberté que le narrateur prétend laisser au lecteur est bien mince : il ne s’agit pas tant de nous laisser choisir ce qui arrive que de nous laisser sélectionner l’un des divers scénarios qu’a esquissés le narrateur sans pouvoir se résigner à en valider un au détriment des autres qui le ravissent tout autant. Il nous semble que ce passage a surtout pour intérêt, du point de vue d’un narrateur qui veut s’enchanter par ses fantasmes, de donner en bloc les diverses possibilités qu’il aime, de lui permettre de ne pas choisir, de ne pas se séparer de l’une d’entre elles.</p>
-
-
 
 <p><a href="#sdfootnote19anc" name="sdfootnote19sym">[19]</a> On observe un épisode assez similaire dans <em>Miracle de la rose</em>. Genet raconte comment Villeroy, voulant prendre en charge l’éducation virile du narrateur, décide que Genet tiendra le rôle actif avec un autre colon lors d’un rendez-vous fixé par Villeroy lui-même. La scène est laissée à l’imagination du lecteur (Genet, 1951 : 393) : « Ici devrait suivre la description d’un jeu d’enfant que je vous invite à compléter » (nous emploierons l’abréviation <em>MR</em> pour renvoyer à cette édition). Il est à noter que c’est une variante de l’édition Gallimard. Dans l’édition publiée par L’Arbalète (aussi bien l’édition <em>princeps</em> de 1946 que le texte retouché de 1956), la scène érotique n’est pas passée sous silence.</p>
 
-
-
 <p><a href="#sdfootnote20anc" name="sdfootnote20sym">[20]</a> Il faut noter que si Genet présentait dans <em>Notre-Dame-des-Fleurs</em> un lecteur fictif faussement hétérosexuel, il n’en est pas de même dans <em>Querelle de Brest</em> dont le « drame », dit Genet, « s’adresse aux invertis » (Genet, 1953 : 204).</p>
 
-
-
 <p><a href="#sdfootnote21anc" name="sdfootnote21sym">[21]</a> On pourrait penser que la démarche de Genet consiste à rappeler ce que Freud avait déjà dit au travers de la notion de sublimation, mais ce n’est pas tout à fait le cas, car si la sublimation freudienne permet effectivement de passer de la pulsion à la création, elle repose sur un processus de redirection de la pulsion : la pulsion est déviée vers un autre but, la sublimation est donc une sorte de désexualisation de la pulsion initiale, et il n’y a rien de tel chez Genet (Freud, 1962 : 156-157).</p>
-
-
 
 ----
 

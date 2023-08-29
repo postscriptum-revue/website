@@ -15,11 +15,9 @@ authors: -
 abstract_fr: <p>Cet article se veut une introduction, en français, à l’œuvre de la poète et traductrice catalane Montserrat Abelló. La porte d’entrée vers cette autrice sera ici son rapport à la langue anglaise, rapport qui s’est construit tout au long de sa carrière au fil de ses lectures, de son travail d’enseignante et de traductrice. Par son choix de l’anglais comme seconde langue, Abelló s’est échafaudé un langage propre, se situant dans une filiation littéraire bâtie sur mesure. Grâce à l’espace créé par les allers-retours entre catalan et anglais, elle a pu affirmer une voix poétique singulière, préfigurant les voix féministes ancrées dans l’intime et les expérimentations langagières de l’exophonie, basées sur la matérialité des mots, les frictions entre langues.</p>
 <p>Mots-clés : traduction, poésie, filiation, féminisme, exophonie</p>
 
-
 ----
 
 abstract_en: <p>This article aims to give an introduction in French to the work of the poet and translator Montserrat Abelló. The main angle will be her relationship to the English language, a relation built throughout her career through her reading choices, her teaching work, and her translations. By choosing English as her second language, Abelló has built her own poetic language and installed it in a custom-made literary lineage. Thanks to the space opened by creating between Catalan and English, she asserted a singular poetic voice, announcing the intimist and feminist voices that would follow, as well as the linguistic experimentations of exophony, based upon words’ corporality and frictions.</p>
-
 
 ----
 
@@ -145,7 +143,6 @@ sóc amb vosaltres.</p>
 <p>Em cansa tanta espera.</p>
 <p>Les hores cauen com les fulles.</p>
 
-
 <p>Oh, j’ai de telles angoisses</p>
 <p>à voir les nuits ouvertes,</p>
 <p>pleines d’un bleu séraphique,</p>
@@ -182,7 +179,6 @@ sóc amb vosaltres.</p>
 <p>« Desconec tot engany » devient en anglais plus bref et découpé : « I lack the wit » (<em>Ibid</em>., 12-13). Et pour évoquer l’allitération de « sols grocs exuberants i esplèndids », la splendeur devient « radiance » : « exhuberant and radiant yellow suns » (<em>Ibid</em>., 62-63). La poésie d’Abelló, faite pour être prononcée, concrète, est nourrie par un <em>entre-langues</em>, parcouru toute sa vie.</p>
 <p>Libérer le poème de ses formes, tout faire reposer sur les mots en eux-mêmes nécessite aussi des mots solides comme les pierres (Abelló 2002, 69). Des mots au pouvoir d’évocation si puissant que les êtres perdus se matérialisent. « J’écris ton nom / et te sais si proche / que, fermant les yeux / c’est comme si je te touchais / du bout des doigts » <a href="#_ftn26" name="_ftnref26">[26]</a> (<em>Ibid</em>. 2014, 106). Des mots vivants, car, comme le résume Ester Pou Jutglar : « Words, as she has often reminded us, have a heart and beat like life itself. » (2014). Le geste poétique est donc de magnifier une charge déjà présente. S’affranchissant des contraintes formelles et des traditions, Abelló retourne peut-être même plus loin dans le temps, à une époque mythique où les mots étaient sacrés, chargés. En retournant vers cet âge indéfini de sons et de sens, elle énergise son langage, à l’image de Tawada qui, d’abord grâce à la traduction, puis à l’exophonie, « libère le langage de son sens figé et le revitalise »<a href="#_ftn27" name="_ftnref27">[27]</a> (Masumoto 2020).</p>
 <p>La démarche d’Abelló, au départ isolée, s’inscrit dans une large mouvance lorsqu’on la considère à partir de la filiation littéraire qu’elle se crée. Encore plus vaste, en considérant qu’elle travaille à partir d’un langage qui se reforme et se réajuste, au courant du XXe siècle, pour englober les nécessités poétiques, les <em>vivències</em> singulières des créateur·ices oublié·es de la tradition littéraire ou incapables de s’y retrouver. Abelló est accompagnée dans cette voie par beaucoup d’autres : la Plath d’<em>Ariel</em>, l’Adrienne Rich de la fin des années 1960, jusqu’à Pizarnik et ses poèmes épurés d’<em>Árbol de Diana</em>. Et la lignée peut se poursuivre jusqu’à aujourd’hui, jusqu’à la poésie de Yoko Tawada, démarche créatrice bâtie sur mesure pour accommoder les expériences vécues. La poésie d’Abelló profite de cette même richesse : celle d’expérimenter avec une seconde langue, celle d’habiter un carrefour entre les langues, un lieu créatif privilégié, un mouvement.</p>
-
 
 ----
 

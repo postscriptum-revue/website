@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article aborde des questions de masculinités et de pratiques BDSM dans une optique de recherche-création et selon une perspective lesbienne butch blanche. Il explore, à travers un ton tantôt familier tantôt soutenu, et à partir d’un langage teinté d’oralité, le genre, la sexualité, la classe sociale et la race en situation de marginalisation. Cet article mise particulièrement sur la politisation du consentement, de la bienveillance, ainsi que de l’intimité, pour dire le monde, bousculer le réel et enfin bâtir de nouveaux récits.</p>
 
-
 ----
 
 abstract_en: <p>This article is a creative research about masculinities and BDSM practises from a white butch lesbian standpoint. It explores, with both a familiar and academic tone, and a language strongly marked by orality, gender, sexuality, social class, and race, in a marginalized existence. This article is especially politicizing consent, kindness, and even intimacy, to utter the world, shatter reality, and finally build new narratives.</p>
-
 
 ----
 
@@ -171,8 +169,6 @@ Chère Nina,</p>
 <p>Mariève</p>
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym"></a></p>
-
-
 
 ----
 

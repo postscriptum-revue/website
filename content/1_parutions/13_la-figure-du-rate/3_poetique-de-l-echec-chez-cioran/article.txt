@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le thème de l’échec est omniprésent chez Cioran. Cette omniprésence a une double singularité : philosophique et littéraire. Si le ratage est, pour Kafka, une question essentiellement personnelle, il prend dans l’œuvre cioranienne une dimension universelle. De l’Être jusqu’aux détails les plus banals de la vie quotidienne, tout est ratage. Le fiasco est érigé en métaphysique. La toute-puissance de l’échec n’est pas en harmonie avec l’acte d’écrire et de publier. Cioran semble conscient de cette contradiction. D’où sa conception du fragment comme production inachevée et avortée. Dictée par l’orgueil de notre nihiliste, cette poétique vise à protéger l’image de l’iconoclaste. Mais, elle est incapable de cacher la richesse du thème de l’échec en tant que source de création littéraire. En faire l’éloge permet à l’écrivain de créer des jugements et des images insolites. Par ailleurs, grâce au schème du renversement qui lui est inhérent, il est une source du comique.</p>
 
-
 ----
 
 abstract_en: <p>The theme of failure is omnipresent in the works of Emile Cioran. Such omnipresence has two features : one is philosophical, the other is literary. If failure for Kafka is essentially a personal question, it adopts in Cioran’s oeuvre a universal dimension. From being to the tiniest trivialities of everyday life, all is failure. This fiasco is embedded in metaphysics. The omnipotence of failure is at odds with the act of writing and publishing. Cioran seems to be aware of this contradiction, whence comes his conception of the fragment as an incomplete and aborted production. Being dictated by his nihilist’s ego, this poetics aims at protecting the image of iconoclast. However, it cannot eclipse the richness of the theme of failure as a source of literary creation. Adopting it allows the writer to create unfamiliar judgements and images. Besides, thanks to its inherent subversive nature, the fragment is a source of the comical.</p>
-
 
 ----
 
@@ -64,7 +62,6 @@ text: <p>Nombreuses sont les œuvres littéraires dont les protagonistes passent
 <p>De même, extraire la quintessence de l’idée de l’échec pour en faire une œuvre littéraire ne met pas en doute la croyance de l’écrivain en la toute-puissance du ratage. La contradiction ne rend pas nécessairement la coexistence impossible. La croyance et la praxis peuvent s’opposer et cohabiter ensemble. Elles relèvent de deux domaines différents. Le rapport entre ces deux éléments ne se réduit pas à une simple coexistence. L’idée de l’échec universel et la création littéraire qui en émane ont une même origine : la volonté de puissance. Cette volonté a une soif destructrice inassouvie sur le plan théorique. Pour Cioran, la pensée est essentiellement iconoclaste. Mais vouloir dominer peut être constructeur. La volonté de l’écrivain exerce sa force sur le langage pour en extraire la quintessence. Elle contemple sa création et y trouve satisfaction et jouissance. C’est probablement de cette volonté qu’il est question dans ces assertions de Cioran :</p>
 <blockquote><p>Il est évident que si l’on a la conscience du néant, il est absurde d’écrire un livre, c’est ridicule même. Pourquoi écrire et pour qui ? Mais il y a des nécessités intérieures qui échappent à cette vision, elles sont d’une autre nature, plus intimes et plus mystérieuses, irrationnelles. […] Mais il y a quand même cette vitalité mystérieuse qui vous pousse à faire quelque chose. Et peut-être c’est ça la vie, sans vouloir employer de grands mots, c’est que l’on fait des choses auxquelles on adhère sans y croire, oui, c’est à peu près ça (Cioran 2004 : 318-319).</p></blockquote>
 
-
 ----
 
 references: 
@@ -82,81 +79,35 @@ references:
  	<li>WARREN, Austin &amp; WELLEK, René, <em>La Théorie littéraire</em>, Paris, Éditions du Seuil (Poétique), 1971.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] L’adjectif n’a pas de valeur absolue. Il est relatif aux sociétés où ont vécu ces écrivains.
 
-
-
-
 [2] Philosophie signifie ici vision du monde.
-
-
-
 
 [3] L’ordre est logique et chronologique. Logique parce que déterminer l’extension d’un phénomène est indispensable pour sa compréhension. Cette étape ne doit être précédée que de la définition. Celle-ci, on l’a précisée dans l’introduction. Cet ordre est également chronologique parce qu’il retrace l’émergence de ces spécificités dans la conscience du lecteur.
 
-
-
-
 [4] Voici un passage où la réussite est au service du ratage : « Seul mérite confiance celui qui s’astreint à perdre la partie : s’il y réussit, il aura tué le monstre qu’il était tant qu’il s’employait à agir, à triompher » (Cioran 2003 : 955).
-
-
-
 
 [5] Voici un des rares passages où Schopenhauer parle d’échec : « ce vouloir-vivre est une aspiration destinée à se faire échec à elle-même. « Ce que tu as voulu, y est-il dit, aboutit à ce résultat : tâche de vouloir quelque chose de meilleur. » - Voilà donc, en somme, l’enseignement que chacun retire de sa vie, etc. » (Schopenhauer 2004 : 1336).
 
-
-
-
 [6] C’est-à-dire la fiction comme énonciation non-sérieuse ou feinte.
-
-
-
 
 [7] Cette diversité modale est due à la forme essayistique et fragmentaire des écrits cioraniens. Cette forme flexible est capable de contenir plusieurs sous-genres tels que le portrait, l’aphorisme, la note, l’anecdote, la confession, la réflexion, etc.
 
-
-
-
 [8] Voir aussi « Physionomie d’un échec » (Cioran 2003 : 735).
-
-
-
 
 [9] Fictionnelle et journalistique. Ce qui nous intéresse ce sont les fragments du <em>Journal</em> où l’auteur s’exprime sans la médiation des personnages et de l’action.
 
-
-
-
 [10] Cioran a refusé le prix Combat, le prix Roger Nimier et le Grand Prix Paul Morand de l’Académie Française (1988). Mais il a accepté en 1951 le prix Rivarol pour <em>Précis de décomposition</em>.
-
-
-
 
 [11] Kafka attribue, parfois, la même fonction psychologique à l’écriture comme dans ce fragment du <em>Journal</em> : « J’ai en ce moment, et je l’ai déjà eu cet après-midi, un grand besoin d’extirper mon anxiété en la décrivant entièrement et, de même qu’elle vient des profondeurs de mon être, de la faire passer dans la profondeur du papier ou de la décrire de telle sorte que ce que j’aurais écrit pût être entièrement compris dans mes limites. Ce n’est pas un besoin artistique. » (Kafka 2002 : 161).
 
-
-
-
 [12] C’est moi qui souligne.
-
-
-
 
 [13] Que plusieurs verbes soient conjugués au futur n’affecte pas le schème du renversement.
 
-
-
-
 [14] Citer la même « thèse » sous deux formules cioraniennes différentes vise à montrer son omniprésence.
-
-
-
 
 ----
 

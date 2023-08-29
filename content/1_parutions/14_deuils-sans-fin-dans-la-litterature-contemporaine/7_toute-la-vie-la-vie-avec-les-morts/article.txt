@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Les récits d’Hélène Cixous se situent au-delà d’une écriture autobiographique soucieuse de retranscrire fidèlement les souvenirs d’un passé douloureux puisqu’ils engagent une parole avec les morts. Les événements, tout comme les personnages et les mondes qui peuplent ses récits, semblent toujours être à la lisière de la vie et de la mort tant les récits qui les constituent les font renaître, revivre, et « remourir ». Car, plus que la mémoire, c’est la volonté de partager et de raconter à des figures fantomatiques qui modèle l’œuvre de Cixous. Ainsi, tout en étant consciente de leur départ, Cixous refuse de faire le deuil (au sens freudien) de ces figures puisqu’elle amplifie leur présence par l’entremise d’un passé imminent et d’un futur déjà fuyant. Chez Cixous, plus spécifiquement, l’écriture transmet une mémoire endeuillée par la mort de ses proches. C’est bien cet entrelacement entre mémoire, parole et deuil que Cixous met en scène, interrogeant ainsi l’expérience de la perte de Jacques Derrida. Or, comment appréhender la possibilité du deuil dans ce travail soucieux de préserver le mort dans la vie ?</p>
 
-
 ----
 
 abstract_en: <p>Hélène Cixous’s works are less engaged in developing an autobiographical voice, which faithfully and diligently transcribes painful memories, than they are fascinated with the idea of having a discussion with the dead. Whether it is through the description of events, characters or imaginary worlds, her writing is at the threshold of life and death. More that memory, Cixous is motivated by a genuine need to share and to tell her stories to the phantoms that occupied her world and still do. She is therefore resistant at the idea that mourning can come to an end and prefers to amplify the presence of the dead by way of an imminent past and an ever-escaping future. More specifically, it is through this cohabitation with the dead that her writing bestows a memory in mourning. It is this intertwined idea of memory, speech and mourning, which I would like to shed light on through the figure of the ghost of Jacques Derrida so as to ask : How can one apprehend the possibility of an end to mourning in a work faithful in keeping death in the very midst of life ?</p>
-
 
 ----
 
@@ -56,7 +54,6 @@ Chaque fois uniques. (Derrida, 2002a : 9)
 <p>Chez Cixous nous sommes d’emblée transportés dans les lieux fermés et étouffants d’une demeure où la mémoire endeuillée est habitée au seuil de la vie. Toujours début et fin, le seuil surpasse les espaces censurés et oblige le côtoiement de la vie et de la mort par l’entremise d’une fin anticipée. Dans cette perspective, l’entretien avec le fantôme est une trace, et le seuil sa durée et sa demeure. En nous donnant à lire ce souhait fuyant, Cixous inscrit son écriture à la lisière d’un seuil instable et muable où se côtoient la vie et la mort, comme deux pigeons inséparables. Il faut insister aussi sur la nécessité de garder le secret du deuil inconnu. Cette construction double du deuil, qui instaure le doute et la crainte au sein de sa configuration, marque le désir de rompre avec toute sincérité mémorielle afin de dire sans le dire l’interdit qui hante toute forme de deuil. Ainsi, l’entretien posthume chez Cixous est une forme de crypte puisqu’elle permet la réémergence du mort qui restera insituable dans le temps ordinaire de la vie. Si la crypte rend possible le lieu de la sépulture, elle se donne à lire dans l’ambivalence temporelle en cela qu’elle tient les morts dans un entre-deux. Ni morts ni vivants, les morts de Cixous sont des êtres nomades qui peuvent voyager dans le continent étrange de l’écriture, et c’est là, dans ce lieu non-lieu, que le deuil devient possible. Ainsi, si « le deuil n’est pas un crime parfait : il laisse des marques et des empreintes » (Lévesque, 2005 : 32), la survivance serait alors cette autre figure gémellaire du deuil qui, grâce à l’entretien [11] (dans les deux sens du mot, c’est-à-dire s’entretenir dans une parole à deux, mais aussi se tenir ensemble), ne serait pas opposée à la vie, mais <em>entre</em>tenue au seuil, sur la rive de celle-ci. Chez Cixous, il n’y a pas un deuil, il y a des deuils tout comme il n’y a pas une vie, mais des façons de vivre ensemble par-delà et au-delà de la mort. Le deuil serait donc palindromique : il ne peut pas commencer, car commencer serait déjà dévoiler sa fin [12].</p>
 <p>Le deuil serait une scène primitive tombante et tombale. En tant que scène primitive, le deuil aurait été est là dès le début pour exposer (à la manière d’un cercueil exposant un cadavre) une image, un souvenir mortifère simultanément prophétique et posthume. Cette image double du deuil se donne à lire tel un événement, à la fois appartenant au passé et au futur, au souvenir et à la prophétie. C’est une scène orageuse et foudroyante dont on ne saura trop comment prévoir le coup de génie, cette force qui nous frappe et dont les voix – car il s’agit toujours de plus d’une voix [13] – portent et nous emportent vers les rives de rêves qui « tombent devant nous comme si nous avions manqué le commencement, le premier acte de parole qui se sera passé on ne sait comment et où, pendant notre sommeil peut-être, quelqu’un aura parlé et nous n’étions pas là. » C’est une scène d’absence qui arrive sans arriver vraiment, entièrement. Ainsi, « [i]l s’agit d’une ouverture folle, d’une violence divine [&#8230;] en vue d’ouïr, et accompagner en voix ces récitatifs qui retiennent au secret les secrets qu’ils célèbrent. » (Cixous, 2006a : 838) Le deuil résiderait dans cette folie de l’ouverture, véritable puissance magique et effrayante qui commence à peine de prendre acte, qui a à peine fini de prendre acte et qui commence à peine à arriver. Ainsi, saura-t-on jamais par où commence le deuil ? Saura-t-on trouver son lieu de surgissement originaire ? Saura-t-on entendre le bruissement de sa voix qui nous murmure : « Je commence » ?</p>
 
-
 ----
 
 references: 
@@ -86,76 +83,33 @@ references:
  	<li>OUAKNIN, Marc-Alain, <em>Invitation au Talmud</em>, Paris, Flammarion, coll. « Champs essais », 2008 [2001].</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Nicolas Lévesque s’est également interrogé sur l’idée d’une fin du deuil : « On supporte mal, en général, ce qui est sans fin, inabouti. Quel est ce désir d’en finir avec la fin, cette impatience d’en finir une fois pour toutes, sinon désir de la fin du désir, désir d’un ultime repos – désir de mort. » (2005 : 24).
 
-
-
-
 [2] « [...] les pigeons on ne peut pas les séparer. Ce sont des couples qui vivent ensemble et meurent ensemble. » (Cixous 2000 : 141)
-
-
-
 
 [3] « Tu rêves pour deux dit mon frère. » (Cixous 2000 : 68) En ce qui concerne le caractère inséparable du vivant et du mort, il faudrait lire le travail remarquable de Ginette Michaud. Quelques textes viennent à l’esprit : « “Comme après la vie” : Derrida et Cixous, ou apprendre à lire enfin. (Jacques Derrida)(Hélène Cixous) », Mosaic, Winnipeg, vol. 39, n˚ 3, septembre 2006, pp. 133-150 ; « Circonfections. Les lire en secret », dans Marta Segarra (dir.), <em>L’événement comme écriture. Cixous et Derrida se lisant</em>, Paris, Éditions Campagne Première, « Recherche », 2007, pp. 231-258 ; « Derrida &amp; Cixous : Scenes of Hyperreading …<em>and something else</em>) », <em>Parallax</em> (Leeds, G.-B.), vol. 13, n° 3, juillet-septembre 2007, coll. « Before the book – Hélène Cixous », pp. 61-82.
 
-
-
-
 [4] Le passage est un lieu de transit ; il est aussi le fait de traverser, d’aller au-delà de quelque chose ; quelqu’un peut-être de passage et quelqu’un peut agir au passage de quelqu’un d’autre, donc il s’agit là toujours d’une question de temps, d’une traversée temporaire.
-
-
-
 
 [5] La question n’est pas de déterminer la véridicité de l’acte étant donné qu’il est rêvé, ni de psychanalyser Cixous par l’entremise du récit de rêve, mais plutôt de prendre le rêve comme lieu où la vie et la mort se côtoient, où les extrémités se rejoignent afin de brouiller la ligne de frontière face à la loi qui nous dit qu’on est soit coupable ou innocent ; jamais les deux. Le rêve comme la littérature serait le lieu où tout est possible quoique non plausible.
 
-
-
-
 [6] Notons que l’étymologie de sincérité est sinceritas, soit « pureté » et « intégrité ».
-
-
-
 
 [7] Jacques Derrida est décédé le 8 octobre 2004.
 
-
-
-
 [8] « Cependant ce tu qui insiste c’est bien lui, celui qui me parle dans le tuyau de l’oreille si intérieure qu’aussitôt je lui dis tu, je fais écho intérieurement, – Io ! – c’est le tu jeune et vert et perpétuel, que j’entends clairement, et oui, se lever d’entre les tu qui se sont tus ou ne savent pas qui tu est qui tait. » (Cixous 2006 : 41)
-
-
-
 
 [9] Nous pensons, par exemple, à la première phrase de <em>L’Ange au secret</em>, lorsque Cixous écrit : « Nous y arrivons in extremis, lourde et vive et avec le nom sale, c’est dans cet état que toujours nous arrivons à la vieille maison. » (1991 : 9)
 
-
-
-
 [10] En utilisant le substantif « turbulence » nous espérons mieux faire ressortir le champ lexical de la météorologie, de la géologie et de la topologie géographique dans <em>Double Oubli de l’Orang-Outang</em>.
-
-
-
 
 [11] Il serait intéressant de se demander quels liens se tissent entre la stratégie herméneutique de l’hyperdialectique talmudiste (c’est-à-dire le <em>malhoquèt</em>) et la modalité particulière de l’entretien posthume chez Cixous. Le <em>malhoquèt</em> selon Ouaknin est « un enchevêtrement noué à l’intérieur d’un réseau infiniment complexe, toujours soumis au tournoiement. [...] Le <em>malhoquèt</em>, c’est l’impossibilité de penser seul, ce qui évite de transformer une parole propositionnelle en parole impositionnelle, laquelle peut être source des pires violences. [...] Le <em>malhoquèt</em> n’est pas une dialectique au sens courant du terme, où deux thèses opposées sont résorbées dans une synthèse ou quand l’une d’elles est effacée dans le choix de l’autre. » (Ouaknin 2008 : 101-165)
 
-
-
-
 [12] Je m’inspire de cet phrase de Maurice Blanchot : « Si le livre pouvait pour une fois vraiment débuter, il aurait pour une dernière fois depuis longtemps pris fin (1980 : 62). »
 
-
-
-
 [13] À ce sujet, nous nous référons à Cixous citant Jacques Derrida dans <em>Politiques de l’amitié</em> : « Il est vrai qu’au beau milieu de cette série de questions, entre celle de l’être ou l’être-tel de l’amitié et celle de la plurivocité possible d’un dire de l’amitié, il y a la question elle-même terriblement équivoque : <em>kai tís o philos</em>. Elle demande <em>ce qu</em>’est l’ami mais elle demande aussi <em>qui</em> est l’ami (1994 : 22-23). »
-
-
-
 
 ----
 

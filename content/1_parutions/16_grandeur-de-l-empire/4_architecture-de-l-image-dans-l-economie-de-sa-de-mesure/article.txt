@@ -14,7 +14,6 @@ authors: -
 
 abstract_fr: <p>En soulignant un conflit référentiel interne au sein des photomontages de Grandeur de l’Empire, mon article cherche à comprendre le rôle spécifiquement architectural que joue l’image dans la constitution d’un pouvoir mondialisant, qui ne repose plus sur des figures de légitimation traditionnelles, mais sur la performativité d’opérations technologiques et économiques que véhicule l’image. Plus précisément, j’analyse les rapports complexes que cette dernière institue entre mesure théorique et dé-mesure subjective dans l’espace performatif des non-lieux contemporains. À partir de la valeur iconographique de présence/absence du World Trade Center dans l’exposition, je me tourne du côté d’un autre édifice, le New Century Global Center de Chengdu, qui pense la grandeur non comme une hauteur architecturale, faisant angle droit avec l’horizon, mais comme un dispositif médiatique qui le recrée littéralement sur un écran, s’y suppléant dans la volonté d’une splendeur immanente. J’observe donc cette propension à une mégalomanie s’affichant dans les techniques de reproduction plus que de construction, via une analyse du film The World de Jia Zhangke, où l’on voit à l’œuvre le processus de subjectivation interpassive que cela sous-tend, qui implique, plus qu’un assujettissement, une délégation du « croire » dans une image qui le performe à la place du croyant, et où le « monde » en vient à fonctionner de lui-même dans un régime de communication naturalisée.</p>
 
-
 ----
 
 abstract_en: 
@@ -74,7 +73,6 @@ une intense autodécomposition, morale, corporelle, spirituelle de l’homme, vo
 <p><center> <img decoding="async" loading="lazy" src="http://post-scriptum.org/local/cache-vignettes/L300xH170/bedard_img5-62653.jpg" alt="" /></center>En ce sens, les films de Tsai Ming-liang et Jia Zhangke proposent la sortie de cette prison intérieure de l’image par leur traitement de la durée, impliquant de nombreux plans-séquences tout à fait à l’opposé de nos montages filmiques – et, par rapport aux montages photographiques de l’exposition, dont la temporalité n’est aucunement homogène, pour reprendre ce que Benjamin dit du progrès dans « Thèses sur le concept d’histoire ». Dans cette conception propre du temps qui est la leur, la sortie de cette fragmentation qui massifie se présente. Jia, en effet, explique qu’il ne coupe pas une scène d’une durée de 6 ou 7 minutes en plusieurs plans parce que « then you lose that sense of deadlock. The deadlock that exists between humans and time, the camera and its subject. (Bordeleau, 2010, p.218). » Le « deadlock » enferme le sujet filmé dans le plan, dans le temps, mais implique également un conflit entre les deux, une mise en différence, le découpage ne se recentrant pas sur une individualité mais sur une question de relation. Le cinéma spectaculaire, quant à lui, brise constamment cette relation, par le rythme soutenu qu’il propose pour éviter l’aliénation du spectateur ; non pas nécessairement pour le saturer d’images « de propagande », mais pour le ramener en boucle au régime de son désir privé plutôt et, dans son identification à l’image, l’empêcher de voir.</p>
 <p>Or, dans l’épreuve du temps que le « deadlock » renferme, je suis enfin forcé, au contraire, de regarder mon dehors. Je suis mis hors de moi, sans échappée possible par où réapparaître pour me sauver de ce que je regarde. C’est une épreuve du regard, en effet, qui s’oppose à l’esthétisation de ce regard lui-même dans le spectacle ambiant, semblable à l’esthétisation de la politique que Benjamin voyait naître dans le fascisme. Dans de tels films, la passivité franchit plutôt un cap, et devient une persistance qui résiste, <em>me</em> résiste. Je deviens moi-même un hors champ ; je ne <em>compte</em> plus du tout, par rapport à un autre qui, lui, ne s’en va pas : pour une fois plutôt que le contraire…</p>
 
-
 ----
 
 references: 
@@ -100,56 +98,25 @@ references:
  	<li>ŽIŽEK, Slavoj, « Fétichisme et subjectivité interpassive », dans <em>Actuel Marx</em> (PUF), no 34, 2003, pages 99-109.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] « [À partir de la Révolution française] la figure du possesseur du globe - démiurge, empereur, roi - semble s’effacer. Désormais on représente la sphère comme une unité autonome et autosuffisante dont les sources de pouvoir se trouvent en elles-mêmes. » (Chukhovich, « Les globes : REFOULEMENT », album photo de la page Facebook de l’exposition). Source de l’image : Jean-Jacques Lequeu, <em>Temple de la Terre</em>.
 
-
-
-
 [2] <em>Cf.</em> Lyotard, 1979, p. 16 : « Admettons qu’une firme comme IBM soit autorisée à occuper une bande du champ orbital de la Terre pour y placer des satellites de communication et/ou de banque de données. Qui y aura accès ? Sera-ce l’État ? ou bien celui-ci sera-t-il un usager parmi d’autres ? […] La transformation de la nature du savoir peut donc avoir sur les pouvoirs publics établis un effet de retour tel qu’elle les oblige à reconsidérer leurs rapports de droit et de fait avec les grandes entreprises et plus généralement avec la société civile. »
-
-
-
 
 [3] Je me dois de remercier Erik Bordeleau et son article « La scène comme enfermement dans <em>The World</em> de Jia Zhangke », qui a attiré mon attention sur cette citation en particulier.
 
-
-
-
 [4] <em>Cf.</em> thèses 13-14 : « Le caractère fondamentalement tautologique du spectacle découle du simple fait que ses moyens sont en même temps son but. Il est le soleil qui ne se couche jamais sur l’empire de la passivité moderne. […] La société qui repose sur l’industrie moderne n’est pas superficiellement spectaculaire, elle est fondamentalement spectacliste. Dans le spectacle, image de l’économie régnante, le but n’est rien, le développement est tout. » (Debord, 1992, p.21)
-
-
-
 
 [5] Dans l’informatique actuelle « grand public », en effet, il ne s’agit plus tant d’un apprentissage que d’une reconnaissance, pour ainsi dire cognitive, de la référentialité du système de représentation de l’interface – ce fameux problème où l’on ne parvenait pas toujours, par exemple, à expliquer aux personnes âgées ou novices en la matière que la flèche à l’écran suivait tout simplement le déplacement réel de la souris dans leur main !
 
-
-
-
 [6] Paradoxalement, la rhétorique écrasante des « armes de destruction massive » à dénicher, légitimant la guerre au terrorisme, a surgi en réponse à une attaque hautement conceptuelle, qui s’était rendue justement nécessaire en l’absence de leur possession du côté des terroristes – l’arme de destruction massive n’ayant été, en tout et pour tout, qu’un avion. Cette rhétorique apparaît alors comme une tentative de masquer le danger propre au développement technique lui-même, refoulement troublant et spectaculaire du discours, qui a pour objet de renforcer la massification mortifère de la technologie. Par rapport à ce que l’on disait sur l’interface, d’ailleurs, la réponse américaine à ce sujet est éloquente, où l’on a développé des systèmes de combat aérien sans pilote, les drones, optimisant les performances de la guerre, son degré de précision et d’automatisation.
-
-
-
 
 [7] Monsanto, par exemple, apparaît comme la figure par excellence de ce bio-empire, et son slogan, « Feeding the world », a de quoi faire frémir, à plus d’un égard.
 
-
-
-
 [8] Cette idée s’aperçoit d’ailleurs, dans le collage filmique que Benoît Faucher, Boris Chukhovich et moi-même avons créé pour l’exposition, par la qualité intérieurement extensible de son univers mimétique, où l’espace n’est pas tant conquis que la substance de sa réalité apparaît indéfiniment transformée, les structures poussant littéralement du sol ou s’affaissant d’une manière élastique, n’étant jamais détruites complètement, jamais achevées non plus. Elle fait courir tout le monde, pour le dire ainsi, c’est-à-dire tous les personnages, de manière interchangeable entre eux, leur substitution répondant principalement à une série de rappels formels permettant une transition lisse à l’écran au profit de cette morphologie libre, voire « magique » de l’espace.
 
-
-
-
 [9] C’est une différence de solidarité des foules entre le cinéma et le théâtre souvent mentionnée dans la théorie critique, par ailleurs, du fait de l’écran où se projette l’inconscient individuel, pour Christian Metz par exemple.
-
-
-
 
 [10] Erik Bordeleau en donne par ailleurs une idée frappante en analysant le site web de la compagnie Coca-Cola qui offrait, en 2008, un exemple particulièrement évocateur, du point de vue de l’image, de ce processus de gestion par « scission unifiée ». Coke, dans son site aux consommateurs, affichait alors le slogan : « le monde est petit », le montrant uni globalement dans une bulle de gaz, « embouteillé dans un signifiant maître » ; or, un clic vers sa section corporative et la rhétorique changeait toutefois de ton, énonçant la mission de l’entreprise : « faire que chaque goutte compte ». Pour qu’il n’y ait qu’un seul monde, ainsi – cet espèce de leitmotiv de la totalité questionné par l’exposition – il faut traiter séparément chaque goutte ; la totalité est affaire de gestion, un calcul dé-nombrant sur un mode cumulatif qui s’oppose à la rencontre : « il n’y a pas <em>de l</em>’<em>eau,</em> ce qui renverrait à un commun indéterminé, mais des gouttes qui hydratent […] (Bordeleau, 2010, p.200) ».
 
@@ -163,23 +130,11 @@ Lorsqu’on en cherche la version actualisée, ce slogan publicitaire prend la f
 
 Notons, pour mon propos, la forme impérative que prend cette union, de même que le recours à l’anglais, qui s’adjoint d’une image de ce qu’il faut faire pour se faire comprendre. Pour revenir au sujet initial de cette note, inutile de dire finalement que cette connectivité entre Indiens et Pakistanais a un prix : on sait que Coke fait des ravages en Inde, par exemple, dans le cadre de ses activités industrielles. Une étude financée par Coca-Cola même le révélait : « Réalisée par le TERI (The Energy and Resources Institute), l’étude indique en particulier que l’usine située à Kaladera, au Rajasthan, participe à "la détérioration de la situation de l’eau, et aux tensions avec les communautés avoisinantes." » (Bouissou, 2011, en ligne)
 
-
-
-
 [11] Je pense ici à cette scène de notre montage, qui a d’ailleurs paru cocasse pour plusieurs, où des personnages regardaient l’image d’une construction élevée, qui changeait de nature d’un individu à l’autre comme s’ils s’échangeaient leur hallucination, le point commun qui les unissait étant cette « indifférenciation cognitive et psychique » par laquelle Harel qualifie l’attaque du percept (Harel, 2004, p.15).
-
-
-
 
 [12] Dans l’hypothèse où on <em>croirait</em> à ces séquences, bien sûr ; autrement, elles montrent tout à fait qu’il n’y a « plus rien à voir », dans cette même idée du sans-image que formule Agamben – ce n’est certainement pas une exposition apolitique ou non-éthique !
 
-
-
-
 [13] Merci à Erik Bordeleau encore une fois de me l’avoir rappelé grâce à « Lee Kang-Sheng et Tsai Ming-Liang : une relation idiorythmique ? », dans <em>Hors champ,</em> sept. 2011 (je me rappelais bien de cette scène, mais pas qu’il remplaçait un mannequin !). Bordeleau cite par ailleurs Jean-Pierre Rehm commentant cette scène de manière très significative : « Cette performance-là, aux limites d’une terrible inconsistance, lui interdit de faire la preuve d’un autre talent que celui d’être un corps qui peut retenir son souffle le temps d’une flottaison. » (cf. Jean-Pierre Rehm, « Chantiers sous la pluie », dans <em>Tsai Ming</em>-<em>Liang,</em> Dis Voir, Paris, 1999, p. 14)
-
-
-
 
 ----
 

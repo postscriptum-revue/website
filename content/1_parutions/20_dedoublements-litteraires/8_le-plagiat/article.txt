@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p><em>À partir de l’exemple de</em> La carte et le territoire <em>de Michel Houellebecq, cet article propose d’étudier les réactions critiques face aux accusations de plagiat. Il est pertinent de se demander pourquoi fait-on du plagiat un crime littéraire alors qu’en même temps, on reconnaît généralement que les pratiques plagiaires font partie du geste créateur. En analysant les textes publiés sur l’affaire Houellebecq, on comprend que le scandale repose au moins autant sur le statut problématique du texte copié par l’écrivain que sur le plagiat en tant que tel.</em></p>
 
-
 ----
 
 abstract_en: <p><em>Taking as its starting point Michel Houellebecq’s</em> The Map and the Territory<em>, this article aims to study various critical reactions pertaining to plagiarism accusations. It is pertinent to think about why plagiarism is perceived as being a literary crime when it is also generally recognized that plagiarism practices are an inherent part of the creative process. Through an analysis of several texts concerning the Houellebecq controversy, it is made clear that the scandal deals with both the problematic status of a text being copied by the author and the concept of plagiarism itself.</em></p>
-
 
 ----
 
@@ -44,7 +42,6 @@ text: <p>Le plagiat, grand impensé de la création littéraire, repose sur une 
 <p>La majorité des commentateurs, à commencer par Glad qui a lancé l’histoire, s’entendent pour dire que les actes d’appropriation textuelle font partie de la littérature depuis longtemps. Pourquoi le cas de <em>La Carte et le Territoire</em> a-t-il tant intéressé la presse alors ? Après tout, il n’est pas si étonnant que le roman soit constitué de quelques emprunts puisque le personnage principal, Jed Martin, d’une certaine manière le double de l’auteur, est lui-même un artiste qui devient célèbre grâce à sa manière de découper et de créer des œuvres à partir des cartes routières Michelin. Le plagiat est donc une thématique essentielle de la diégèse. Une partie de la réponse se trouve chez Marie Darrieussecq qui montre dans son essai <em>Rapport de police. Accusations de plagiat et autres modes de surveillance de la fiction</em> le réflexe « policier » qui anime toutes les accusations de plagiat. Pour contrôler la fiction, il faut lui trouver un crime et le plagiat est le délit parfait pour pouvoir garder à l’œil les écrivains. À la suite de Darrieussecq, j’ajouterais qu’un réflexe similaire entre en jeu lorsqu’il s’agit de Wikipédia. Hors des cercles habituels de légitimité scientifique, l’encyclopédie doit être bien surveillée afin qu’elle ne bouscule trop la « Read only culture », pour reprendre le concept de Lawrence Lessig. Cette culture coexiste, selon le juriste américain, avec la « Read/Write culture » à laquelle appartient Wikipédia. Le scandale autour du plagiat de Houellebecq arrivait à point pour exprimer un inconfort face à la place grandissante qu’occupe l’encyclopédie collaborative.</p>
 <p>Il est possible de trouver avec l’essai <em>Le Plagiat par anticipation</em> de Pierre Bayard un autre angle pour lire cette affaire. Dans ce livre, l’essayiste s’amuse avec l’hypothèse farfelue que les grandes œuvres d’autrefois auraient peut-être plagié les textes du futur. Il affirme, par l’exemple, que c’est sans doute Sophocle qui a plagié Freud et non le contraire. L’idée de Bayard n’est pas si saugrenue qu’elle peut paraître au premier abord. Il explique que le plagiat sert à « relire les textes du passé pour y exhumer des inventions, dont les auteurs n’avaient pas mesuré toute l’ampleur » (Bayard, 2009 : p.17). Sophocle a discuté du complexe d’Œdipe dans son <em>Œdipe Roi</em> sans comprendre l’importance de la vérité qu’il énonçait. Freud, à son tour, réalise avec son œuvre théorique une potentialité laissée en plan par le dramaturge. Dans cette mesure, Sophocle a plagié Freud puisqu’il a « copié » une idée qu’il n’a pas inventée, parce que c’est grâce à l’éclairage de Freud que celle-ci va émerger. À partir de cette proposition, Bayard constate que l’histoire littéraire accorde trop peu d’importance au fait que les écrivains veuillent parler avec d’autres époques que la leur. En copiant quelques passages de Wikipédia dans son roman, Houellebecq cherche d’une certaine manière à discuter avec l’écrivain du futur : l’écrivain collaboratif, frère ennemi de l’auteur.</p>
 <p>Le plagiat de Houellebecq peut être lu comme un hommage et une attaque tout à la fois de Wikipédia. Il permet aussi de relever les dispositifs de surveillance dénoncés par Darrieussecq qui entourent la fiction. Il constitue finalement une manière pour Houellebecq de s’adresser à un certain écrivain futur que représente l’encyclopédie en ligne. En étudiant cette affaire, à partir d’une revue de presse, il est évident que le dédoublement dans la littérature n’a perdu en rien de sa charge explosive. Bien que les actes d’appropriation jalonnent l’histoire littéraire, une nouvelle histoire de plagiat soulève encore les passions puisque la technique permet de relever certaines contradictions de notre époque autour de la littérature. Le plagiat permet à la littérature d’entendre la voix critique de son double. L’acte d’appropriation textuelle octroie une place à ce corps à la fois étranger et familier, qu’est le texte plagié, et préserve la vitalité du texte littéraire en lui octroyant des possibilités de fuite et de résistance aux diktats de son époque.</p>
-
 
 ----
 
@@ -100,16 +97,9 @@ references:
  	<li>VEBRET, Joseph, « Exclusif : la réponse de Michel Houellebecq aux accusations de plagiat », <em>L’Obs</em>, 6 septembre 2010, consulté le 1 septembre 2015,<a href="http://bibliobs.nouvelobs.com/romans/20100906.BIB5594/exclusif-la-reponse-de-michel-houellebecq-aux-accusations-de-plagiat.html" rel="external">http://bibliobs.nouvelobs.com/romans/20100906.BIB5594/exclusif-la-reponse-de-michel-houellebecq-aux-accusations-de-plagiat.html</a></li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] Pour alléger l’article, je n’ajouterai pas de notes de bas de page pour tous les articles de la revue de presse sur l’affaire Houellebecq. Les références complètes de ces articles se trouvent dans la bibliographie.
-
-
-
 
 ----
 

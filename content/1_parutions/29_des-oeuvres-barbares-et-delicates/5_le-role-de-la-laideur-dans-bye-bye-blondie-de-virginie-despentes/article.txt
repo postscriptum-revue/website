@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Dans cet article, l’autrice analyse le rôle que la laideur joue dans la construction de genre de Gloria, protagoniste du roman de Virginie Despentes <u>Bye Bye Blondie</u>. Après une analyse théorique féministe qui montre les liens étroits entre beauté et féminité, l’auteure étudie le processus d’exclusion de Gloria adolescente, internée dans un hôpital psychiatrique, et adulte, renvoyée aux marges de la société. Dans les deux cas, la laideur est perçue comme un rejet de la féminité et une forme de rébellion, laideur qui permet justement à Gloria de remettre en question les attributs de la féminité traditionnelle. Gloria transgresse activement les lois du genre : la laideur que l’on va lui renvoyer est à la fois un stigmate, une menace sous-jacente pour toutes les femmes hétérosexuelles et un rappel à l’ordre.</p>
 
-
 ----
 
 abstract_en: <p>In this paper, the author analyzes the role that ugliness plays in the gender construction of Gloria, main character of Virginie Despentes’s novel <u>Bye Bye Blondie</u>. After a brief feminist analysis, which shows the connection between beauty and femininity, the author studies Gloria’s process of exclusion as a teenager, committed to a psychiatric hospital, and as an adult, sent in the margins of society. In both cases, ugliness is perceived as a reject of femininity and as a form of rebellion – ugliness that precisely allows Gloria to question the features of traditional femininity. Gloria actively transgresses gender laws: the ugliness that is thrown back to her, is at the same time a stigma, an implicit threat for all heterosexual women and a call for order.</p>
-
 
 ----
 
@@ -73,7 +71,6 @@ text: <p>« J’écris de chez les moches, pour les moches » (Despentes, 2006
 <p>En somme, la laideur joue un rôle différent selon l’âge de Gloria dans <em>Bye Bye Blondie </em>: à l’adolescence, elle est associée au parcours volontairement en dehors des normes de la protagoniste qui, à travers le punk-rock, interroge certains stéréotypes de genre ainsi que le canon de la féminité traditionnelle. Elle constitue une forme de transgression et est perçue par ses parents et par les autres adultes comme une rébellion qui mérite une punition exemplaire. Cette assignation à la laideur ou, pour mieux le dire, à l’enlaidissement, de la part du médecin-psychiatre garant de l’institution psychiatrique, cache une série d’attitudes excessives qui sont considérées comme masculines et qui sont inacceptables précisément car Gloria est une fille, dont la violence et l’agentivité sexuelle sont activement revendiquées. En ce sens, le séjour prolongé dans un service de psychiatrie se veut, entre autres, un moyen de dressage du caractère rebelle, ainsi qu’une pathologisation d’une féminité non conforme aux normes de genre.</p>
 <p>À l’âge adulte, la laideur dont Gloria fait preuve résulte davantage de nombreuses années de souffrance : rongée par la colère et le désespoir, Gloria se sent elle-même moche et à l’écart des autres femmes, sans pour autant aspirer à leur ressembler. L’arrivée d’Éric dans sa vie va marquer un tournant, dans la mesure où elle retrouvera le désir et le plaisir dont son statut de femme marginalisée l’avait en quelque sorte privée. Cette relation aura également pour effet de la confronter à un nouveau milieu jusque-là inconnu par lequel elle sera jugée avec dureté; encore une fois, son aspect physique sera pointé du doigt et sa féminité sera questionnée, tout comme son droit à désirer et à être désirée.</p>
 <p>Bien que la féminité de Gloria soit sans cesse remise en question par les autres personnages, tant à l’adolescence qu’à l’âge adulte, l’amour et l’attraction qu’Éric éprouve à son égard vont fonctionner comme un bouclier pour se protéger des jugements extérieurs. Leur relation est néanmoins loin d’être idyllique, les enjeux de pouvoir économiques et symboliques ne cessant pas d’apparaître et de créer des conflits. Dans tous les cas, la simple présence de Gloria fait désordre où qu’elle aille, mais elle fait aussi désordre dans le système binaire de genre et dans la définition de féminité. La beauté étant la condition <em>sine qua non</em> de la féminité, au point que les deux termes peuvent presque devenir des synonymes, Gloria transgresse activement les lois du genre : la laideur que l’on va lui renvoyer est à la fois un stigmate, une menace sous-jacente pour toutes les femmes hétérosexuelles et un rappel à l’ordre. Elle peut aussi être revendiquée comme une identité en dehors des normes riches en potentialités, mais qui n’empêche pas Gloria d’avoir des relations avec des hommes et de se penser en tant que sujet libre. Dans <em>Bye Bye Blondie</em>, le prix à payer est l’exclusion de la normalité, d’abord par l’internement et ensuite par la précarité et le rejet des autres; cependant, c’est à partir de cette place de « moche » que Despentes décide d’écrire, ce qui lui permet de porter un regard lucide sur les enjeux de domination que la beauté féminine dissimule.</p>
-
 
 ----
 
@@ -146,31 +143,17 @@ WOLF, Naomi. <em>The Beauty Myth : How Images of Beauty Are Used Against Women<
 
 <p><a href="#sdfootnote1anc" name="sdfootnote1sym">[1]</a> La question de la subversion des genres dans l’œuvre de Despentes a déjà été étudiée en dehors de <em>Bye Bye Blondie</em>. À ce sujet, Mercédès Baillargeon (2018) a analysé le personnage de Louise des <em>Chiennes savantes</em>, tandis que Nicole Fayard (2016) s’est intéressée au corps féminin rebelle comme une forme de parodie dans <em>Baise-moi</em>. De façon générale, la transgression et la violence des personnages féminins sont des thèmes prédominants dans la réception critique de l’œuvre des Despentes. Voir Shirley Jordan (2004), Natalie Edwards (2012) et Michèle A. Schaal (2013).</p>
 
-
 <p><a href="#sdfootnote2anc" name="sdfootnote2sym">[2]</a> Selon le <em>Trésor de la Langue Française</em>, l’adjectif « féminin » est souvent associé aux substantifs « grâce » et « charme ». Est également cité, à titre d’exemple, un passage des <em>Bestiaires</em> d’Henry de Montherlant concernant une femme : « Est-elle jolie? elle a une certaine perfection de l'espèce qui donne le même plaisir, qui donne le même bonheur qu'à rencontrer un chien parfait, un cheval parfait : elle est parfaitement féminine. Montherl., <em>Bestiaires</em>,1926, p. 444 » (2012 : en ligne).</p>
-
 
 <p><a href="#sdfootnote3anc" name="sdfootnote3sym">[3]</a> Toujours selon le <em>Trésor de la Langue Française</em>, être féminine revient à « Correspondre à l’image physique, sexuelle, psychologique [...] que l'homme ou la société se fait de la femme et de la féminité » (2012 : en ligne).</p>
 
-
 <p><a href="#sdfootnote4anc" name="sdfootnote4sym">[4]</a> L’Association Pour la Santé Publique du Québec (APSQ) a récemment publié un guide pour « Porter plainte contre la promotion du modèle unique de beauté ». Entre autres, ce guide analyse plusieurs images diffusées par les médias en montrant à quel point la minceur constitue une norme de beauté unique (2014 : en ligne). Le rapport entre beauté, féminité et blanchité est analysé par Patricia Hill Collins dans <em>La pensée féministe noire</em> (Montréal, Remue-ménage, 2016), notamment dans le chapitre « La politique sexuelle de la féminité noire » (209-244).</p>
-
 
 <p><a href="#sdfootnote5anc" name="sdfootnote5sym">[5]</a> Pour toutes les citations tirées de <em>Female Masculinity</em>, je traduis.</p>
 
-
 <p><a href="#sdfootnote6anc" name="sdfootnote6sym">[6]</a> Pour en savoir plus sur la notion <em>female gaze</em>, voir Iris Brey (2020).</p>
 
-
 <p><a href="#sdfootnote1anc" name="sdfootnote7sym">[7]</a> Labry rappelle toutefois que « le punk ne constitue bien évidemment pas un îlot antisexiste et égalitaire, loin s’en faut. Même au sein du tout premier réseau américain, de nombreuses paroles de chansons peuvent, par exemple, témoigner d’un machisme encore fort prégnant. Néanmoins, par rapport aux formes de rock précédentes, cette tendance laisse davantage d’interstices aux femmes au moment où elle est encore en germination. Suite à la surexposition de la vague punk anglaise, notamment dans les années 1980, le genre prendra à son tour une forme ultra-codifiée, et à nouveau essentiellement masculine. Mais les courants musicaux épigones plus confidentiels que le punk aura initiés, et les quelques modèles féminins […] qui auront su s’imposer pendant les années précédentes, offrent à toute une nouvelle génération de jeunes femmes un tremplin et une source d’inspiration considérables » (2011 : 81).</p>
-
-
-
-
-
-
-
-
 
 ----
 

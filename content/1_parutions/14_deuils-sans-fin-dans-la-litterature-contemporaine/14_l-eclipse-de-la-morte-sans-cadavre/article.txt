@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le 11 août 1999 se produit pour Serge Rezvani une double éclipse : disparition temporaire du soleil mais surtout diagnostic d’Alzheimer posé sur sa femme Danièle. Le poète, lié pendant quarante ans d’un amour total à sa muse solaire « Lula », livre un texte autobiographique explorant les conditions de sa survie auprès de sa « morte sans cadavre ». Paradoxalement, l’auteur doit renoncer à faire son deuil de la femme aimée. Les marques extérieures et les étapes intérieures du deuil sont repoussées à un instant ultérieur. Le cadavre inhumé sera alors celui d’une quasi-inconnue dont la personnalité n’aura plus laissé affleurer que le pire de l’originale. Journal intime, chroniques d’un accompagnant, ultime déclaration d’amour, le texte traduit la volonté farouche de garder malgré tout un lien avec le souvenir de la femme aimée. Le blason hésite entre la plainte, l’oraison funèbre et l’évocation vivante de « l’âme neuronale » de Lula. Plusieurs réseaux antonymiques tissent ainsi une écriture « schizophrène » dont l’un des buts est pourtant de retrouver une forme d’unité.</p>
 
-
 ----
 
 abstract_en: <p>A solar eclipse occurred at 12.30pm on the 11th of August 1999. At that very moment, Serge Rezvani, writer, painter and music composer, is told by a neuropsychiatric doctor that Lula, his beloved wife of 40 years, suffers form Alzheimer. His solar muse is thus bound to slowly disappear and drift away from him. L’Éclipse is an intimate, autobiographical text that explores the paradoxical mourning process of not being able to grieve a not yet dead loved one and at the same time not being able to love a half-alive body, with a long-gone personality, that only bears some physical resemblance to the past. It is through a schizophrenic kind of writing that Serge Rezvani tries to find unity in fragments and, like a modern Orpheus, hopes to call back to him his Eurydice from the limbo of her disease.</p>
-
 
 ----
 
@@ -48,7 +46,6 @@ text: <p><em>L’Éclipse</em> explore la « mort-vivante », la mort alors qu
 Comment l’amour – ce qu’il y a entre nous – est-il si puissant, si occupant et vivant ? Comme si on courait – dansait – d’un jour à l’autre dans notre propre lumière, sans se retourner, sans nostalgie, trop occupés par le présent – si ce n’est pour trouver dans le passé un socle, et dans les souvenirs un surcroît de complicité et d’émotion. Ce qui n’exclut pas la […] hantise […] du danger de n’importe quel désastre imminent possible (193).
 </blockquote>
 
-
 ----
 
 references: 
@@ -61,21 +58,11 @@ references:
  	<li><em>Le Trésor de la Langue Française informatisé</em>, dictionnaire en ligne consulté le 9 décembre 2010 : <a href="http://atilf.atilf.fr" rel="nofollow external">http://atilf.atilf.fr</a>.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] « Chez le monstre omphalocéphale […], les tissus de l’intestin et le cœur sont extérieurs » (Ancet 2006 : 153). Chez le monstre double parasitaire, « l’un des jumeaux est régressé et greffé en parasite sur son frère ou sa sœur » (157). Enfin, l’épignathe possède une tête accessoire très incomplète, attachée au palais ou à la mâchoire supérieure de la tête principale, donnant l’impression d’un « double mouvement d’avalage et de régurgitation » (151).
 
-
-
-
 [2] Notons que l’auteur spécifie à la fin du texte qu’il a choisi la crémation pour sa femme et qu’il n’aurait pas pu supporter l’idée de son pourrissement sous terre.
-
-
-
 
 ----
 

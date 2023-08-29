@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article s’intéresse au vécu de la maladie dans le texte Le froid de Thomas Bernhard. Il explore et analyse les réactions contradictoires et oppositionnelles du narrateur par rapport à son état de santé, à la vie et à la médecine. Il tente également de comprendre comment le retournement de santé du narrateur devient un facteur qui lui permettra de se forger une nouvelle identité afin de pouvoir vivre et penser comme il le veut.</p>
 
-
 ----
 
 abstract_en: <p>This text deals with the way that sickness is lived in Thomas Bernhard’s book, The Cold. It explores and analyzes the contradictory and oppositional reactions of the narrator when faced with the reality of his sickness, his life and medicine. It also tries to understand how the narrator’s physical remission becomes a way of forging a new identity that will authorize him to live and to think in his own terms.</p>
-
 
 ----
 
@@ -60,7 +58,6 @@ text: <p>La maladie, qu’elle soit physique ou mentale, est un monde autre, ave
 <blockquote><p>À présent je fréquentais déjà la classe où était enseignée la mathématique supérieure de la maladie et de la mort. Cette science, j’en conviens, m’avait toujours attiré, à présent je découvrais que je l’étudiais avec une passion obsédante. Depuis très longtemps, j’avais tout subordonné uniquement à cette science, c’était entièrement de moi-même que j’en étais arrivé à cette science, les circonstances avaient nécessairement dû m’amener à nulle autre science qu’à celle-ci, qui renferme tout le reste des sciences. J’avais été absorbé par cette science, c’est pourquoi, de victime sans défense je m’étais fait de moi-même le plus naturellement du monde observateur de cette victime et en même temps observateur de toutes les autres. Cette distance que je prenais était tout simplement d’une nécessité vitale, c’était seulement ainsi que j’avais la possibilité de sauver mon existence. (Bernhard 2007 : 298-299)</p></blockquote>
 <p>Le sanatorium devient ainsi une classe où est enseignée une science abstraite et réputée difficile. Le narrateur pense être allé aux niveaux inférieurs de cette école auparavant. Il nomme cette science la mathématique de la maladie et de la mort. Un point important de la description de cette science est qu’il pense y être arrivé par lui-même et non pas en se détournant de ce qui lui était proposé ni en suivant les conseils de son défunt grand-père, mais plutôt par ce qu’il vivait. C’est ainsi par l’étude, et la mise à distance et la compréhension d’une situation qu’elle permet, qu’il arrive à dépasser son état de malade condamné à mort.</p>
 <p>Le roman <em>Le froid</em> de Thomas Bernhard montre comment l’esprit de contradiction peut tout enrayer, jusqu’à la maladie mortelle, s’il est bien dirigé. Le narrateur arrive à se rétablir partiellement en faisant le contraire de ce qui lui est conseillé par les médecins. Il s’était mis au défi de recouvrer la santé et l’a fait. Il est parvenu, en même temps, à créer une pensée qui lui soit propre. Tout ce qui lui reste après est de se trouver une occupation dans la vie, hors de la communauté de la mort.</p>
-
 
 ----
 

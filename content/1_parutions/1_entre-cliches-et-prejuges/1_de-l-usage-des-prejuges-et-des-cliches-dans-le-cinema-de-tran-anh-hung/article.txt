@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Tran Anh Hung a réalisé jusqu’à aujourd’hui trois longs métrages : L’Odeur de la papaye verte (1993), Cyclo (1995) et À la verticale de l’été (2000), films qui reflètent sa vision personnelle du Vietnam d’un point de vue double, nourri par ses racines vietnamiennes, mais aussi par son éducation occidentale. La construction qu’il nous propose de son pays natal est donc un espace de dialogue et de discussion entre ces deux positions opposées. Paradoxe supplémentaire, son succès en Occident couplé au peu de diffusion qui lui est accordée dans son pays d’origine font que, depuis son premier long métrage, seuls des créanciers européens financent ses productions artistiques, essentiellement destinées à un public européen ou, du moins, occidental. Dans un tel cas de figure, comment Tran Ahn Hung réussit-il à se jouer des préjugés d’un public occidental et parfois même de sa critique ? Comment utilise-t-il sciemment les clichés et stéréotypes d’autres cinémas que le sien, qu’ils soient occidentaux ou orientaux ? On aura pour ambition de démontrer comment ces trois films établissent une relation assumée et consciente entre Orient et Occident et comment ils jouent sur les lieux communs de chacune des cultures.</p>
 
-
 ----
 
 abstract_en: <p>How does an intercultural director, who is familiar with stereotypes and clichés from a variety of cinematic traditions, present his/her work to a primarily western audience ? This paper examines the work of Tran Anh Hung, the director of L’Odeur de la papaye verte (1993), Cyclo (1995) and À la verticale de l’été (2000). His personal construction of Vietnam in these films reflects the contrasting influences of his Vietnamese roots and his European experience and education. However, only À la verticale de l’été has been released in Vietnam, and all three films were financed by European creditors and producers. An analysis of the use of cliché in these films reveals how the director has adapted and subverted the traditions of both Western and Eastern cinema to present his personal vision of Vietnam to a mainly Western audience.</p>
-
 
 ----
 
@@ -101,8 +99,6 @@ text:
 <p>La seconde image reproduite ci-dessus montre comment l’extrême gros plan, par exemple, modifie aussi les paramètres de lecture et donc le rapport que le spectateur entretient avec le film. Les lunettes grossissantes de l’expert en poterie braquées sur un vase restent dans le flou interprétatif, durant les quelques secondes où le réalisateur nous refuse une mise au point. Le spectateur qui tente d’appréhender le monde au travers du médium cinématographique peut se raccrocher aux clichés génériques mais ne peut plus s’appuyer constamment sur les catégories classiques qui dessinaient les contours solidement hermétiques des concepts d’auteur, de personnage, de regard et d’action par exemple. C’est cette constatation qui nous fait conclure que le cinéma interculturel de Tran Anh Hung offre un stimulant modèle de dialogue entre cultures occidentale et orientale et une présentation du monde selon des catégories plurielles et hybrides</p>
 <p>Pour conclure, on espère qu’au travers de cette analyse, on sera parvenu à montrer comment les notions de cliché et de préjugé peuvent être pertinentes et instructives dans le champ des études cinématographiques, en dépit du relatif cloisonnement de leur analyse dans le domaine littéraire. <em>L’Odeur de la papaye verte</em>, <em>Cyclo</em> et <em>À la verticale de l’été</em> furent souvent catalogués et considérés comme des films esthétiquement exotiques, il semblait essentiel de remettre en question ce type d’affirmation somme toute réductrice et péremptoire, en déconstruisant et en examinant un certain nombre de leurs éléments constitutifs. Si cette étude a au moins réussi à éclairer la proposition séduisante, mais aussi réfléchie, que nous fait le cinéaste, je considérerai ce résultat comme une modeste contribution à la reconsidération du lieu commun qui veut que tout film à l’esthétique visuelle marquée ne soit qu’un « film de décorateur » qui n’interroge que la surface des choses et n’explore pas toutes les capacités du médium cinématographique.</p>
 
-
-
 ----
 
 references: 
@@ -130,45 +126,21 @@ references:
 
 <hr />
 
-
 [1] Pour une étude détaillée de ces deux films dans une perspective postcoloniale, voir Norindr 1996.
-
-
 
 [2] En effet, <em>L’Odeur de la papaye verte</em> ne fut pas tourné au Vietnam, faute d’autorisation officielle, mais dans un studio de la région parisienne.
 
-
-
-
 [3] Sur les cinéastes de cette période, on pourra consulter Marie 1998.
-
-
-
 
 [4] Le terme <em>cyclo</em> désignera indifféremment le conducteur du vélo/cyclo et l’outil de travail qui est dérobé au début du film, puisque le réalisateur a lui-même fait le choix manifeste (du moins il me semble) de ne donner aucun nom propre à ses personnages.
 
-
-
-
 [5] Les images de cet article sont tirées des films de Hung, sont utilisées avec la permission de l’auteur et des productions Lazennec pour le cadre de cet article seulement. Toute autre forme de reproduction est strictement interdite.
-
-
-
 
 [6] L’intermédialité est un concept qui vise à étudier les interactions, les transformations réciproques et les convergences entre différents médias et entre leurs discours respectifs dans un contexte donné. Pour une discussion plus avancée de cette notion, voir Mariniello, 2000.
 
-
-
-
 [7] On utilisera ce néologisme/anglicisme pour faire la distinction entre le terme de visibilité, caractéristique de ce qui est perceptible par la vue, et ce à quoi on fera référence par le terme visualité, c’est-à-dire le caractère éminemment visuel d’une production artistique ou culturelle.
 
-
-
-
 [8] C’est par exemple l’interprétation de Barthes qui déclare : « Avec la photographie nous entrons dans la <em>Mort plate</em> » (1980 : 145).
-
-
-
 
 ----
 

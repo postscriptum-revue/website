@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>L’ouvrage Mille Plateaux (1980) de Deleuze et Guattari occupe aujourd’hui une place de choix au sein des sciences humaines, tout en restant assez peu abordé par les études traductologiques ; le présent article évalue son apport potentiel au domaine. L’auteure y soutient notamment que le modèle rhizomatique, en insistant sur le mouvement, la multiplicité et l’organisation spatiale, entraîne la traduction dans une dynamique d’interrelations et de connexions, au lieu de la limiter à l’incontournable généalogie des modèles arborescents dominants, lesquels dépendent du maintien du binarisme étroit qui oppose source et cible. Le concept de la traduction intermédiale, pour lequel ce modèle est particulièrement utile, est également présenté.</p>
 
-
 ----
 
 abstract_en: <p>Deleuze and Guattari’s Mille Plateaux (1980) has by now gained influence throughout the humanities, though it remains largely undiscussed in Translation Studies ; this paper considers its potential in the field. In particular, it argues that the rhizome model, in its emphasis on movement, multiplicity and spatial organisation, dynamically engages translation in a context of interrelations and connections, rather than fixing it in the inevitable genealogy of the dominant arborescent models, which depend on maintaining a strict source/target binary. The concept of intermedia translation, for which this model is particularly useful, is introduced.</p>
-
 
 ----
 
@@ -65,8 +63,6 @@ translation in a minor culture, where [these features] take on historically spec
 <p><em>SorrowfulEcho</em> beautifully and resonantly illustrates possibilities afforded by the rhizome model : its motion is triggered by a reader whose very vibrations provoke activity in one area or another of this complex multiplicity ; though all parts are connected they variously emerge as active according to chance, to the reader’s attentions, to reflections. Indeed the notions of reflection and echo, necessarily stigmatised in arborescent thinking, here take on an active role as the very architecture and music of the piece itself : the becoming-symphony of a moment and its echo.</p>
 <p>Is not translation as much ?</p>
 
-
-
 ----
 
 references: 
@@ -84,41 +80,19 @@ references:
  	<li>VENUTI, Lawrence, “Introduction”, <em>The Translator,</em> 4, 1998, p. 2.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] A version of this text was first presented in the context of the 2003 Concordia University Graduate Student conference <em>Odyssée de la traductologie.</em>
 
-
-
-
 [2] Available in English as <em>A Thousand Plateaus : Capitalism And Schizophrenia,</em> Brian Massumi, trans., Minneapolis, University of Minnesota Press, 1987.
-
-
-
 
 [3] I should like to expand briefly on two important terms, the translation of which into English may inform our understanding. Firstly, lines of flight, or <em>lignes de fuite,</em> as Massumi explains, this term suggests “not only the act of fleeing or eluding, but also flowing, leaking, and disappearing into the distance (as in the vanishing point in drawing)” (Deleuze and Guattari 1987 : xvi). One understands then that in a rhizome, movement is immanent and rupture constant. Secondly, <em>agencement collectif,</em> or collective assemblage. In his application of the term, David Kropf prefers the translation “adjustment”. He argues that an adjustment is a process : a multiplicity of things are adjusted and brought into alignment ; it is a result —as in <em>having adjusted ;</em> and it connotes instability “there is always the chance things will go out of whack” (1994 : 5<em>).</em> I call attention to Kropf’s translation as it underlines the instability and state of becoming of the multiplicity.
 
-
-
-
 [4] For a discussion of this project, see David L. Sweet, “Plastic Language : John Ashbery’s Europe,” <em>Word and Image,</em> vol. 18, no. 2, April-June 2002.
-
-
-
 
 [5] In her course description for <em>Modern Art in Canada : The Work of Michael Snow</em> (ARTH 617A) at McGill University (2002-2003), Professor Martha Langford writes : “The work of Michael Snow spans over forty years of intense production, including paintings, sculptures, photographs, films, books, musical recordings, performances, assemblages, slide projections, sound, holography, and essays…More than Snow addresses the differences between media, in terms of their nature and spectatorial response. As he has said, ‘my paintings are done by a filmmaker, sculpture by a musician, films by a painter, music by a filmmaker, paintings by a sculptor, sculpture by a filmmaker, films by a musician, music by a sculptor ... sometimes they all work together.’”
 
-
-
-
 [6] Choreographer Édouard Lock is known for his experimental, hybrid language. In <em>Infante, c</em>’<em>est destroy</em> (premiered 1991), Lock began film incorporating in his work. He explains, “The film…acts as a destabilizer filter between the public and the dancer, it varies their relationship, destabilizes it”. Likewise, in <em>2</em> (1995), a cinema-scale screen is lowered on to the stage during a solo performance of his powerful lead dancer Louise Lecavalier ; a film is projected showing a diptych of her as a young woman and an old woman, thereby creating provocative multiplicity of this legendary figure. See <em>www.lalalahumansteps.com.</em>
-
-
-
 
 ----
 

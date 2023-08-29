@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>La popularité des figures du double dans les textes romantiques, souvent associée &#8211; à juste titre &#8211; aux questionnements identitaires des auteurs du temps, fut largement explorée dans la recherche à l’aide des outils de la psychanalyse et de la mythocritique. Or, les études récentes sur l’archéologie des médias et sur l’évolution des rapports intermédiaux, du crépuscule du XVIIIe siècle jusqu’à l’ère moderne, nous apportent un éclairage nouveau et précieux qui permet de repenser ces mêmes thématiques. S’adossant à ces études, notre article propose d’analyser l’intérêt romantique pour le double comme l’un des résultats de la transformation profonde des rapports entre la littérature et les divers médias qui advient au seuil du XIXe siècle. Supports co-responsables de la reproduction de plus en plus massive des fictions, mais aussi instruments actifs de leurs transpositions, adaptations et autres recréations, les médias conditionnent d’une manière de plus en plus sensible autant les thèmes que les formes de réflexion qu’un romantisme ironique &#8211; celui d’un Hoffmann, d’un Gautier et d’un Heine &#8211; explore avec lucidité. Il en résulte une reconfiguration particulière des rapports entre l’original et la copie, le modèle et l’imitation, la répétition et l’originalité enfin, dont seules les variations romantiques réussiront à saisir toute la complexité dialectique.</p>
 
-
 ----
 
 abstract_en: <p>The enthusiasm concerning the figuration of the concept of the double in texts of the Romantic period has often been rightly associated with the authors’ identity issues. Prior research on this particular topic often resorted to psychoanalysis and myth studies. However, recent studies on media archeology and the evolution of intermediality from the 18th century to today provide new angles of study and thus allow a critical rethinking of these particular concepts. Using these studies as a theoretical anchor, this article aims to analyze the Romantic interest for the concept of the double as one of the results of the transformation of the connections between literature and various media which occurred in the 19th century. Literature and media go hand in hand when it comes to the ever-growing reproduction of fictions, but they are also active implements of their own transpositions, adaptations and other recreations. In a way that is becoming more and more sensible, mass media condition both the themes and the ways of thinking which an ironic Romanticism ¬– Hoffamann’s, Gautier’s and Heine’s, for instance – coherently explores. From this emerges a particular reconfiguration of the correlations be-tween the original and the copy, the model and the imitation, repetition and originality, and only Romantic variations will succeed in grasping the dialectic complexity of this reconfiguration.</p>
-
 
 ----
 
@@ -66,7 +64,6 @@ text: <p>Parler de la problématique du double à l’époque romantique est une
 <p>Heine ne nous contredira pas. Dans un article écrit pour <em>Lutetia</em> (Heine, 1972/VI : 309-317 ; Müller, 1987 : 16-17) il attribue à l’un des principaux rivaux du compositeur de<em>Robert le Diable</em>, Spontini, l’invention d’un personnage de postier-musicien, Gouin qui, fonction-nant comme le double de Meyerbeer, révèle, chez ce dernier, une duplicité censée expliquer la popularité de son œuvre. Baptisé <em>auteur véritable</em> des opéras de Meyerbeer, mais sans possi-bilité de se faire connaître du public de l’opéra en raison de sa profession et de son statut, le Gouin de Heine dénonce l’hypocrisie et la mesquinerie d’une société qui réduit les individus à leur fonction en les soumettant à des objectifs pragmatiques. Bien qu’il soit le bienvenu au théâtre et que la musique soit son mode d’expression, le fonctionnaire ne peut se présenter comme l’auteur de ses propres œuvres et ne peut les présenter au public qu’au nom du com-positeur officiel et connu Meyerbeer. La fiction est totale et, à dire vrai, d’une mauvaise foi consommée. Mais sous le masque, et en sa méchanceté même, Heine révèle deux choses propres à (r)animer l’image qu’on se fait de l’original en le déplaçant : en mauvaise part, la complaisance coupable envers le public embourgeoisé que l’ironiste, critique et démystifica-teur qu’il est esthétiquement entend dans le souci consensuel de l’œuvre de Meyerbeer, qui donne à la fois dans le bel canto, la richesse orchestrale et la dramaturgie pathétique ; en bonne part, la symbolique des dissonances harmoniques où il voit une expression du conflit social sous-jacent. Singulière démultiplication du diabolisme, de fait, dont son étrange postier se fait le messager.</p>
 <p>Fondée sur une tension entre la contrainte relative de se tenir à un modèle choisi et la liberté bien large d’inventer le mode et l’effet de la remédiation, la transposition choisit en réalité essentiellement le chemin d’une réinvention <em>qui n’a pas de sens</em> en ce sens qu’elle n’en privilégie aucun. Ainsi cristallise-t-elle la triple énergie que toute création assumant sa temporalité porte avec elle : celle qui fait voir toute réalité originale comme déjà perdue, toute pratique actuelle comme matrice génératrice, et tout rapport possible entre ces dernières comme avenir. En guise de témoin capital, nous citerons les célèbres <em>Variations sur le carnaval de Venise</em> de Théophile Gautier, que Francis Claudon a déjà commentées comme révélatrices de la stratégie du poète (Claudon, 1986 : 217). On a longtemps cherché à définir la « source musicale » de cette œuvre. Mais le mot de <em>sources</em>, aux résonances critiques certaines, est-il le bon ? S’agit-il d’une seule œuvre, qui nous ramènerait au mythe d’un original à copier ? S’agit-il d’une <em>contamination de sources musicales</em> qui se référeraient au thème vénitien ? Ni l’un ni l’autre en vérité. Si l’on peut voir dans cette œuvre des réminiscences de l’op. 10 de Paganini, de l’air du <em>Carnaval de Venise</em> ou même – comme le voulait Claudon – de la<em>Bar-carolle</em> de Chopin, aucune de ces « sources » ne devient réellement un « thème » des <em>varia-tions</em> de Gautier au sens classique du mot. Et par là, toute sa puissance créatrice est laissée à la pratique des <em>variations</em>. En elles se déploie et se développe un modèle de transposition d’art essentiellement romantique, où le geste d’évoquer importe plus que l’objet de l’évocation – comme l’inventivité de la « copie » prévaut sur l’originalité des « modèles » sans que ceux-ci soient oubliés.</p>
 
-
 ----
 
 references: 
@@ -108,31 +105,15 @@ references:
  	<li>WOLF, Werner, <em>The Musicalization of the Fiction. A Study in the Theory and History of Intermediality</em>, Amsterdam - Atlanta, Rodopi, 1999.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Doppeltgänger : So heißen Leute, die sich selbst sehen (Jean Paul, 1971 : 66-67) - Ainsi s’appellent les per-sonnes qui se voient elles-mêmes (trad. A.W.).
 
-
-
-
 [2] Dans le numéro 49 du <em>Dix-Huitième</em> intitulé <em>Une Société de spectacle</em> (à paraître), les rédacteurs de la revue proposent d’explorer les aspects transhistoriques de cette même notion, auxquels nous nous référons ici également.
-
-
-
 
 [3] Nous savons néanmoins que Heine considérait la théorie de Lessing comme un point de repère fondamental pour toute l’esthétique romantique ; nous savons aussi que les convergences entre la pensée de Lessing et de Hoffmann sont probablement dues à l’intermédiaire des frères Schlegel qui connaissaient bien les écrits de l’auteur de<em>Laokoon</em> et qui se sont largement inspirés de ce traité en élaborant leur propre théorie esthétique (Riou, 2004 : 45).
 
-
-
-
 [4] Signalons ici que la question des discordances entre l’opéra de Mozart et l’image de <em>Don Giovanni</em> qui appa-raît dans la nouvelle d’Hoffmann, à laquelle nous apportons ici notre réponse, constitue depuis longtemps un objet de polémiques parmi les chercheurs, soucieux d’éclairer les raisons pour lesquelles l’auteur de la nouvelle, pourtant compétent, se serait permis de parler de l’oeuvre mozartienne avec autant d’inexactitude. Résumant brièvement l’essentiel de cette polémique, Ricarda Schmidt a cherché récemment à y apporter un éclairage histo-rique en faisant appel aux représentations de l’oeuvre auxquelles Hoffmann aurait pu assister (Schmidt, 2006 : 56-89).
-
-
-
 
 ----
 

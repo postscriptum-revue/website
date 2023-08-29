@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Cet article démontre comment les romans philosophiques de Rousseau, et plus particulièrement Julie ou la nouvelle Héloïse, stimulent la pensée wollstonecraftienne. Il présente Wollstonecraft comme une lectrice critique des textes de Rousseau et montre qu’une lecture conjointe des deux auteurs peut mener à un vif débat. L’article expose cette lecture en montrant que la pensée de Wollstonecraft est souvent éclairée par celle de Rousseau, alors que le rapport inverse n’a pas lieu. Lorsque considérés comme compagnons de lecture aux textes de Wollstonecraft, les textes de Rousseau acquièrent une dimension supplémentaire.</p>
 
-
 ----
 
 abstract_en: <p>This article discusses how Rousseau’s philosophical novels, and in particular Julie ou la Nouvelle Héloïse stimulated Wollstonecraft’s thought. It reveals her to be a critical reader of his texts, and demonstrates that the texts of the two when read together, make for a lively debate. It also argues for joint reading of the two, for while Wollstonecraft’s ideas are often elucidated with the help of Rousseauvian thought, the converse is not true. Rousseau’s work, when read as a companion piece to Wollstonecraft’s thought, gains an added dimension.</p>
-
 
 ----
 
@@ -80,8 +78,6 @@ text:
 <p><em>Feminist Interpretations of Mary Wollstonecraft</em> met en scène une conversation fictive entre Wollstonecraft et Rousseau, reconstituée à partir de leurs écrits. Le long échange qui en résulte montre combien ils auraient eu à se dire s’ils avaient pu se rencontrer. Comme l’expliquent Sapiro et Weiss, « Rousseau served as a leitmotif in Wollstonecraft’s life ; he reappears regularly not just as a canonical father but as a representative of certain ideas and struggle in her thinking » (Sapiro et Weiss : 206). Dans cet article, j’ai tenté de mettre au jour certaines de ces conversations fictives, tout en me limitant à la lecture que Wollstonecraft propose de <em>La Nouvelle Héloïse.</em> Alors que les spécialistes de Wollstonecraft se plongent inévitablement dans la pensée de Rousseau, on ne peut affirmer la même chose de ceux qui étudient Rousseau. Cet article doit être perçu comme un argument en faveur d’une lecture empruntant aussi le chemin inverse.</p>
 <p><em>Article inédit traduit de l</em>’<em>allemand par Sébastien Côté</em></p>
 
-
-
 ----
 
 references: 
@@ -95,41 +91,19 @@ references:
  	<li>WOLLSTONECRAFT, Mary. <em>The Vindications. The Rights of Men. The Rights of Woman.</em> Macdonald, D. L. and Scherf, Kathleen. Peterborough, 1997.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Rousseau conçut <em>La nouvelle Héloïse</em> dès l’automne 1756 et en acheva la rédaction au printemps 1758. Le roman fut mis en vente en janvier 1761. Quant à <em>L</em>’<em>Émile,</em> Rousseau en traça les linéaments en 1757 et l’écrivit en 1758. Après la version primitive de 1759, deux autres suivirent jusqu’à la version finale de 1761. L’œuvre fut publiée en 1762.
 
-
-
-
 [2] Elle le cite en anglais, à partir de <em>Emilius and Sophia ; or, A New System of Education</em> (1763), traduit par William Kenrick.
-
-
-
 
 [3] Par exemple : « lovely weakness » (149), « fair defects » et « amiable weakness » (144).
 
-
-
-
 [4] « Il n’y a nulle parité entre les sexes quant à la conséquence du sexe. Le mâle n’est que mâle qu’en certains instants, la femelle est femelle toute sa vie » (<em>L</em>’<em>Émile</em> : 470).
-
-
-
 
 [5] « Dans l’union des sexes chacun concourt également à l’objet commun, mais non de la même manière » (<em>L</em>’<em>Émile</em> : 466).
 
-
-
-
 [6] L’argumentation se poursuit au niveau du peuple : la place de choix accordée aux légumes dans l’alimentation serait à l’origine de la féminisation et de la faiblesse des Italiens.
-
-
-
 
 ----
 

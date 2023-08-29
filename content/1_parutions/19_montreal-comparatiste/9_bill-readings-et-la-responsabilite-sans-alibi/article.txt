@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Les thèses de The « University in Ruins, l’ouvrage posthume de Bill Readings, n’ont pas toutes suscité une attention égale. En renonçant à l’idéologie de l’émancipation du sujet caractéristique de la modernité, Readings envisageait la scène de l’enseignement selon un mode éthique hétéronome, et caractérisait la pédagogie comme relation asymétrique et infinie à autrui. Comme pour toutes les communautés inavouables, la communauté du dissensus préserve comme aporie la question de l’identité autant que celle de la nature du lien social à/dans l’université. En mobilisant ces idées, cet article entend amorcer un dialogue autour de l’interprétation de la responsabilité « sans alibi » à laquelle appelait Readings dans son livre. Pour ce faire, l’auteur pose la question à travers les premiers travaux de Mikhail Bakhtine et la lecture qu’en a fait Readings.</p>
 
-
 ----
 
 abstract_en: <p>Not every major argument comprised in Bill Readings’ posthumous work, The University in Ruins, have met a satisfactory response from critics. While renouncing the emancipatory ideals of Modernity, Readings sought to posit education as a locus of heteronomous ethics, and pedagogy as an infinite relation to others. Just like any other unavowable community, the community of dissensus maintains as a permanent question the aporetic nature of its identity as well as of the social bond within the university. This article aims to initiate, within that frame, a dialogue upon our understanding of Readings’ call for a responsibility “without alibi”. To do so, the author turns toward Mikhail Bakhtin’s early writings, and how Readings may have read them.</p>
-
 
 ----
 
@@ -43,7 +41,6 @@ text: <p>Je voudrais avec vous remonter il y a vingt ans, et réfléchir sur l�
 <p>Cela fait plus de cinquante ans que nous avons arrêté de penser l’université et sa communauté comme la (con)fusion idéaliste d’une unité organique de savants visant un savoir universel. L’université, écrit Readings au futur, « doit plutôt devenir un lieu parmi d’autres où l’on tente de penser le lien social sans recourir à une idée unificatrice, qu’il s’agisse de celle de la culture ou de celle de l’État. » (<em>Ibid</em>. : 191). La <em>dialogique</em> de la pensée, le fait que nous pensons « les uns à côté des autres » plutôt qu’« ensemble », que la pensée « côtoie d’autres pensées » sans créer de l’identité, résisterait donc à la pression d’unifier ces pensées hétérogènes, et reconnaîtrait que tout énonciateur est d’abord un destinataire.</p>
 <p>Permettez-moi une dernière phrase de Readings joignant sa lecture de Bakhtine : « Dans les ruines de l’université, la nature inachevée et permanente de la relation pédagogique peut nous rappeler que « penser ensemble » est un processus dissensuel, lequel relève davantage du dialogisme que du dialogue » (<em>Ibid</em>. : 299). C’est sous ce rapport d’attention irrésoluble face à autrui que Readings envisageait le dissensus comme moyen de lutter contre la notion d’excellence et contre la bêtise bureaucratique dans l’université. Je préfère le lire, personnellement, non pas comme une sorte de prophète, ni un champion de l’institution, ni encore moins comme un héros local de notre département, mais plutôt : le lire pour ses lectures attentives, et parce qu’il pose des questions difficiles et intéressantes. Finalement, si habiter les ruines de l’université requiert, comme il l’affirme, de se ménager un lieu où penser n’est pas fondé sur quelque chose de plus fondamental que ma capacité de rendre mon propos intéressant à autrui, j’espère ne pas avoir trop manqué à cette exigence.</p>
 
-
 ----
 
 references: 
@@ -52,16 +49,9 @@ references:
  	<li>READINGS, Bill Dans les ruines de l’université, trad. Nicolas Calvé, Montréal, Lux éditeurs, 2013. Éd. originale The University in Ruins, Cambridge (MA), Harvard University Press, 1996.</li>
 </ul>
 
-
-
 <hr />
 
-
-
 [1] William John Readings (1960-1994) a été professeur agrégé de littérature comparée à l’Université de Montréal de 1989 jusqu’à son décès tragique dans un accident aérien, le 31 octobre 1994. Formé en Angleterre, il obtient son doctorat à l’Université d’Oxford, en 1985, avec une thèse sur la poésie de John Milton. Ses passages à Genève, puis à l’université privée de Syracuse aux États-Unis et enfin dans la province québécoise, lui permettent d’apprécier les importants écarts dans les fonctions sociales attribuées aux universités occidentales. Profondément influencé à la fois par la rupture de Mai 68, la Theory et les débats littéraires américains autour des curricula et des Culture wars, il publie en langue anglaise la première introduction intellectuelle à la pensée de Jean-François Lyotard. Durant sa brève et fulgurante carrière universitaire, il s’intéresse entre autres sujets aux canons littéraires, à la Renaissance, à la déconstruction, à l’histoire de l’art, à la Culture, au concept d’oikos, au féminisme, au postmodernisme et au paganisme.
-
-
-
 
 ----
 

@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p><em>Le roman de William Gaddis, The Recognitions, publié en 1955, gravite autour de l’art, la philosophie et la religion. La problématique du double, très présente dans le roman, n’a jamais encore fait l’objet d’un travail de recherche approfondi. Analyser l’esthétique du double dans The Recognitions c’est s’intéresser inévitablement aux stratégies de l’écriture qui s’y rapportent. L’objectif de cet article est d’examiner l’esthétique originale du double chez William Gaddis à travers trois types de personnages : le queer, le faussaire et le faux-écrivain devenu schizophrène. Le thème du double sera articulé autour de ces trois personnages qui constitueront trois axes de réflexion. Nous démontrerons que l’esthétique du double dans The Recognitions, à travers ces trois personnages, ouvre la voie à une théorie de l’écriture sexuelle et intertextuelle, une théorie esthétique et une théorie philosophique.</em></p>
 
-
 ----
 
 abstract_en: <p><em>Published in 1955, William Gaddis’ novel The Recognitions explores ideas pertaining to art, philosophy and religion. The concept of the double, which is highly present in the text, has never been dealt with in depth. Analyzing the aesthetics of the double in The Recognitions also means that one must inevitably be interested by the inherent writing strategies used by the author. The goal of this article is to study the original aesthetics of the double in William Gaddis’ work by analyzing three types of characters : the queer character, the liar and the schizophrenic false writer. The concept of the double will be articulated through these three characters and will therefore offer three lines of research. It will be demonstrated that the aesthetics of the double which are illustrated in these three characters in The Recognitions, also paves the way to a theorization of sexual and intertextual writings, in addition to aesthetic and philosophical theories.</em></p>
-
 
 ----
 
@@ -67,7 +65,6 @@ text: <p>Nous allons voir que le <em>queer</em>, plus qu’un personnage, est un
 <p>Dans ce monde de l’origine, Esme invente un système où l’artiste inopérant se verrait récompensé pour son impossibilité, son absence de création. L’origine serait un espace où le double parodique de l’artiste serait valorisé, glorifié par son absence de création. L’origine serait un espace de <em>simplification</em> : la création poétique serait un acte de transcription, le poème qu’Esme n’arrive pas à écrire existerait déjà dans cette figure phantasmatique de l’origine : “where the poem she knew but could not write existed, ready-formed”(<em>Idem</em>). La figure du faux-poète Esme n’est envisageable uniquement que sous cette figure phantasmatique de l’origine. Dans la réalité fictionnelle, comme le texte l’indique, Esme ne peut pas véritablement créer, car elle est elle-même « la création », où du moins se persuade-t-elle de l’être : “the writing of it was impossible : because she was the poem”(<em>Idem</em>). Le nominalisme irrationnel esméien est donc inefficace en ce qu’il gomme toute trace de langage et toute trace de l’artiste. Outre la mort de l’être-sujet et du sujet, William Gaddis expose la dépossession allégorique et psychique de l’artiste. Le nominalisme irrationnel conduit alors pleinement à la réification allégorique de l’artiste en<em>poème</em>.</p>
 <p>L’esthétique du double dans <em>The Recognitions</em> est originale. Le double est pensé comme écriture (sexuelle et intertextuelle) et comme figure de créations littéraires et esthétiques. Les trois angles d’approche proposés mettent en lumière l’allégorie et la philosophie du double dans <em>The Recognitions</em>. Le <em>queer</em>, véritable procédé d’écriture, établit un lien entre l’homosexualité et la rhétorique du secret. Le faussaire incarne, par son esthétique du faux et son travail de restauration, aussi bien le double créateur que le double destructeur de l’artiste. Le faux-poète représente le double parodique de l’écrivain. Le plagiat littéraire (théorie de l’écriture) et le nominalisme irrationnel (singulière philosophie des mots) conduisent à la dépossession de l’être-sujet et le sujet-artiste. Le double dans <em>The Recognitions</em> est bien triple. Il est à la fois une théorie de l’écriture, une théorie de l’esthétique et une théorie philosophique. Il permet un renouvellement constant de la narration.</p>
 
-
 ----
 
 references: 
@@ -91,31 +88,15 @@ references:
  	<li>[1] Nous reprenons l’expression de Jean-Pierre Saidah.</li>
 </ul>
 
-
-
 [2] Le terme de <em>production</em> en lieu et place de <em>création</em> est révélateur. Esme est un personnage qui produit de l’art mais n’en crée pas – à l’exception de son autoportrait qui est mentionné mais non décrit dans le roman.
-
-
-
 
 [3] L’auteur de <em>The Recognitions</em> n’utilise pas de guillemets. A ce stade de la narration, seul le lecteur lettré peut reconnaître ce plagiat. Ce n’est qu’à la fin de la deuxième partie du roman que le plagiat est révélé. Le critique d’art et apprenti poète Max publie à son nom le poème qu’il a subtilisé à Esme et qui est en fait celui de Rilke.
 
-
-
-
 [4] « Il nous reste la route d’hier et la fidélité d’une habitude que nous avons choyée pour qu’elle se plaise chez nous et nous ne quitte plus » (<em>Ibid</em>, 2015 : p.11).
-
-
-
 
 [5] « Oui, les printemps avaient besoin de toi. Tant d’étoiles t’invitaient à les découvrir. Du fond de ta mémoire, une vague accourait vers toi, ou bien, quand tu passais devant une fenêtre ouverte, le chant d’un violon t’appelait. Tout cela était mission pour toi. Mais as-tu pu l’accomplir ? N’étais-tu pas toujours distrait par l’attente comme si toute chose t’annonçait une bien-aimée ? » (<em>Ibid</em> : p. 12).
 
-
-
-
 [6] Le prénom d’Esme a certainement de nombreuses références dans différentes langues. Dans la langue arabe, cela signifie le nom pour une femme. Toutefois, il semble incontestable que William Gaddis instaure un jeu de mots entre la langue française et la langue anglaise. Le prénom Esme devient une question d’identité : est-ce « me », est-ce moi ? Le lien intertextuel que William Gaddis établit entre son héroïne et celle du dramaturge italien Luigi Pirandello va dans ce sens. Dans la pièce de théâtre <em>Vestire gli Inudi</em> (<em>Vêtir ceux qui sont nus</em>), l’héroïne de Pirandello, Ersilia, est également à la recherche de son identité. Dans une lettre adressée à l’écrivaine Katherine Ann Porter, William Gaddis souligne ce parallèle. cf. <em>The Letters of William Gaddis</em>, edited by Steven Moore, Dalkey Archive Press, Champaign, 2013, p. 94.
-
-
 
 ----
 

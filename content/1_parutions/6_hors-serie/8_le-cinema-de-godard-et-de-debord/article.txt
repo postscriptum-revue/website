@@ -14,11 +14,9 @@ authors: -
 
 abstract_fr: <p>Le cinéma, en tant que nouvelle technique artistique et que nouvelle pensée, a passablement modifié notre vision de l’Histoire et de la mémoire au XXe siècle. Cela se constate facilement dans les torsions que fait subir au temps un certain cinéma dit « expérimental » (non narratif). Cet essai se penche en particulier sur les films « extrêmes » de Guy Debord et de Jean-Luc Godard (le montage vidéo des Histoire(s) du cinéma, 1999). L’analyse expose par quels procédés formels ces réalisateurs parviennent à proposer une nouvelle compréhension « à rebrousse-poil » de l’histoire et une pratique intempestive de la mémoire. Les films de Godard et de Debord, principalement construits à partir des rébus de l’histoire du cinéma, présentent en effet une nouvelle vision du temps basée sur la discontinuité et sur l’anachronisme. À l’aide de certains travaux théoriques récents (Jacques Rancière, Giorgio Agamben, Gilles Deleuze, etc.), cette analyse comparative vise à montrer comment l’image cinématographique est potentiellement porteuse, via les possibilités du montage, d’une vision fortement critique de l’histoire « officielle ». En cela, et dans leur technique filmique même, les films de Godard et de Debord sont d’emblée des œuvres politiques qui résistent à l’ordre policier des temps présents.</p>
 
-
 ----
 
 abstract_en: <p>As a new artistic medium and as a new thought, cinema has permanently modified our vision of history and memory during the XXth century. This can easily be seen in the time torsions that are shown in a specific kind of “experimental” or non-narrative cinema. On this matter, this essay deals with some “extreme” movies by French and Swiss directors Guy Debord and Jean-Luc Godard (with his video montage Histoires(s) du cinema, 1999), and analyses the ways in which these directors propose a new “reversed” understanding of history and an untimely practice of memory. Godard and Debord’s movies, principally built from cinema history’s ruins, present a novel outlook on time based on discontinuity and anachronism. With the help of some recent cultural theories (Jacques Rancière, Giorgio Agamben, Gilles Deleuze, etc.), this comparative study explains how, through the possibilities of montage, the cinematographic picture can carry a truly critical vision of the “official history”. In this way, Debord and Godard’s works, in the very fibre of their filmic techniques, are directly political and act as a resistance towards the police order of our times.</p>
-
 
 ----
 
@@ -60,8 +58,6 @@ la tendance, en cette fin de XXe siècle, à identifier histoire et mémoire est
 <blockquote><p>Le monde est devenu mémoire, cerveau, superposition des âges et des lobes, mais le cerveau lui-même est devenu conscience, continuation des âges, création ou poussée de lobes toujours nouveaux, recréation de matière à la façon du styrène. L’écran même est la membrane cérébrale où s’affrontent immédiatement, directement, le passé et le futur, l’intérieur et l’extérieur, sans distance assignable, indépendamment de tout point fixe […]. L’image n’a plus pour caractères premiers l’espace et le mouvement, mais la topologie et le temps (1985 : 164).</p></blockquote>
 <p>L’évolution d’un cinéma du mouvement vers un cinéma du temps correspond à un certain procédé de <em>dématérialisation</em> du cinéma : un saut de l’action corporelle vers une exploration de la topologie cérébrale. Ce type de cinéma passe de nouveau à un stade supplémentaire lorsqu’il s’émancipe des conditions matérielles du tournage, de la lourdeur technique et technologique qui encombre la production cinématographique. Le type de cinéma pratiqué par Debord et Godard (et très peu imité, il faut bien le dire) est l’exemple le plus accompli d’un film-cerveau, d’un film qui n’a d’existence concrète que dans la fabulation et dans la recréation intérieures du monde par un cerveau qui devient écran, images projetées. La traditionnelle opposition entre la mémoire (ensemble matériel) et le souvenir (spirituel) évoquée précédemment s’en trouve déplacée : l’objet-film n’est plus qu’écoulement spirituel, puissance immatérielle du pur souvenir, énergie cérébrale en action. Et la mémoire et le souvenir se confondent alors, quand l’histoire « officielle » se trouve déchiquetée et recomposée sur une pellicule qui n’est plus qu’une membrane enregistrant les chocs temporels d’un monde en crise.</p>
 
-
-
 ----
 
 references: 
@@ -85,21 +81,11 @@ references:
  	<li>PROUST, Françoise. (1994). <em>L</em>’<em>histoire à contretemps</em>. Paris : Cerf.</li>
 </ul>
 
-
-
 <hr />
-
-
 
 [1] Le dispositif sera légèrement différent avec l’image cinématographique qui, selon Deleuze, implique déjà le mouvement. On dira alors que le cinéma produit peut-être une sorte de « dialectique en mouvement », qu’il expose directement, et non pas de façon figurée, le mouvement de cette dialectique historique hétérodoxe et subversive défendue par Benjamin. Pour Deleuze, le mouvement du cinéma « provoque » immédiatement le mouvement de la pensée : le cinéma constitue un « automate spirituel ».
 
-
-
-
 [2] Dans le prolongement de Marx, Benjamin rappelle comment la révolution française s’est rêvée comme une « seconde Rome », comme une répétition des images de la Rome antique, surtout de la révolte spartakiste. Le mode de passage à la vie des images du passé, leur mode d’influence sur nous, comme le souligne Jacques Derrida dans <em>Spectres de Marx</em>, est donc essentiellement <em>spectrale, fantomatique, hantologique</em> : tel un symptôme qui émerge de l’inconscient.
-
-
-
 
 ----
 
