@@ -9,7 +9,6 @@ return function () {
 		$articles->add($parution_articles);
 	}
 
-
 	return [
 		"articles" => $articles
 	];

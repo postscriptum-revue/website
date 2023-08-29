@@ -1,36 +1,52 @@
-title: L’acteur sur un piédestal lumineux
+Title: L’acteur sur un piédestal lumineux
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
-  name: Jean-François BOISVENUE
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"url":"https://youtube.com/watch?v=TRYdnllmPes","caption":""},"id":"bb463fe3-0a2d-43a1-bad6-859f25b048ae","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Jean-François Boisvenue
   affiliation: Université de Montréal
 
 ----
 
-abstract_fr: <p>Un nombre important de critiques et théoriciens du théâtre ont longtemps considéré l’intégration de projections d’images animées sur scène presque comme un sacrilège. Le média vidéo serait un envahisseur à bannir, car il menacerait l’essence performative du théâtre qui consiste en l’apparition d’une boucle rétroactive (feedback loop) qui se forme dans le rapport direct entre l’acteur et le spectateur.</p>
+Keywords: 
+
+----
+
+Abstract-fr:
+
+<p>Un nombre important de critiques et théoriciens du théâtre ont longtemps considéré l’intégration de projections d’images animées sur scène presque comme un sacrilège. Le média vidéo serait un envahisseur à bannir, car il menacerait l’essence performative du théâtre qui consiste en l’apparition d’une boucle rétroactive (feedback loop) qui se forme dans le rapport direct entre l’acteur et le spectateur.</p>
 <p>Nous voulons montrer par cette communication comment les projections vidéo peuvent au contraire poser l’acteur sur un piédestal et rehausser sa présence scénique plutôt que d’effacer celle-ci, et par le fait même offrir une expérience performative augmentée.</p>
 
 ----
 
-abstract_en: 
+Abstract-en: 
 
 ----
 
-text: <p><iframe loading="lazy" id="fitvid912528" src="http://www.youtube.com/embed/TRYdnllmPes?rel=0" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+References: -
 
 ----
 
-references: 
-- 
-
-----
-
-number: 1
-
-----
-
+Number: 1

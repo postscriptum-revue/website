@@ -1,39 +1,49 @@
-title: Se figurer l’éternité
+Title: Se figurer l’éternité
 
 ----
 
-subtitle: Limites épistémologiques (et parfois apocalyptiques) de la réflexion sur l’infini temporel
+Subtitle: Limites épistémologiques (et parfois apocalyptiques) de la réflexion sur l’infini temporel
 
 ----
 
-authors: -
-  name: Benoît FAUCHER
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"url":"https://youtube.com/watch?v=g5RqfePFnr4","caption":""},"id":"65865a07-07b9-4f04-aaff-746eb4322acf","isHidden":false,"type":"video"},{"content":{"text":"<p><br> <em>Discussion</em></p>"},"id":"ad9ae1ee-0ead-4388-b7c5-daccbdf6272f","isHidden":false,"type":"text"},{"content":{"url":"https://youtube.com/watch?v=vT5NRWJSJts","caption":""},"id":"3fbb3d89-84c1-4057-a6e8-408ca0d8f9e6","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Benoît Faucher
   affiliation: Université de Montréal
 
 ----
 
-abstract_fr: 
+Keywords: 
 
 ----
 
-abstract_en: 
+Abstract-fr: 
 
 ----
 
-text: 
-
-<iframe loading="lazy" id="fitvid392494" src="//www.youtube.com/embed/g5RqfePFnr4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<p><br /> <em>Discussion</em></p>
-<iframe loading="lazy" id="fitvid717643" src="//www.youtube.com/embed/vT5NRWJSJts" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+Abstract-en: 
 
 ----
 
-references: 
-- 
+References: -
 
 ----
 
-number: 2
-
-----
-
+Number: 2

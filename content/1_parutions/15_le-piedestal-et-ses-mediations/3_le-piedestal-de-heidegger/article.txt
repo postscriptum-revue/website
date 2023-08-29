@@ -1,36 +1,52 @@
-title: Le piédestal de Heidegger
+Title: Le piédestal de Heidegger
 
 ----
 
-subtitle: Du kitsch philosophique dans Maîtres anciens de Thomas Bernhard
+Subtitle: Du kitsch philosophique dans Maîtres anciens de Thomas Bernhard
 
 ----
 
-authors: -
-  name: Catherine LEMIEUX
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"url":"https://youtube.com/watch?v=sXf3A1f5asg","caption":""},"id":"db785765-173f-482c-8009-b2c035d2466a","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Catherine Lemieux
   affiliation: Université de Montréal
 
 ----
 
-abstract_fr: <p>S’occuper du philosophique, c’est d’abord se pencher sur des textes, parfois rébarbatifs, parfois séducteurs, qui sait, peut-être séducteurs parce que rébarbatifs. Que la philosophie soit affaire de discours, de débat, de connaissance, personne n’en doute. Mais qu’elle soit affaire de séduction, de goût, d’affects, on en parle peu. C’est l’avenue que j’ai prise dans le cadre de cette communication. J’ai conséquemment décidé de situer mon propos aux confins du philosophique, dans ses marges. Je me suis intéressée à son emballage et à son cadre, ceci afin d’en juger esthétiquement. Et c’est via le littéraire que je me suis permise cette digression. Digression moins inoffensive qu’il n’y paraît, car elle vise à rendre compte des prétextes aux discours philosophiques, en quelque sorte à ses fondements.</p>
+Keywords: 
+
+----
+
+Abstract-fr:
+
+<p>S’occuper du philosophique, c’est d’abord se pencher sur des textes, parfois rébarbatifs, parfois séducteurs, qui sait, peut-être séducteurs parce que rébarbatifs. Que la philosophie soit affaire de discours, de débat, de connaissance, personne n’en doute. Mais qu’elle soit affaire de séduction, de goût, d’affects, on en parle peu. C’est l’avenue que j’ai prise dans le cadre de cette communication. J’ai conséquemment décidé de situer mon propos aux confins du philosophique, dans ses marges. Je me suis intéressée à son emballage et à son cadre, ceci afin d’en juger esthétiquement. Et c’est via le littéraire que je me suis permise cette digression. Digression moins inoffensive qu’il n’y paraît, car elle vise à rendre compte des prétextes aux discours philosophiques, en quelque sorte à ses fondements.</p>
 <p>Je me suis attardée à l’étude du roman Maîtres anciens de Thomas Bernhard, qui met en scène un personnage, Reger, sorte de police du bon goût, qui se présente lui-même, sans ambage, comme un Privatphilosoph. En sa qualité d’éclaireur de conscience, Reger, dans le passage qui m’a intéressée plus particulièrement, fait le point une bonne fois pour toute sur le cas Heidegger. C’est à partir de cette « loghorrée personnelle » de Reger que j’ai montré ce que juger esthétiquement du philosophique implique et suppose.</p>
 
 ----
 
-abstract_en: 
+Abstract-en: 
 
 ----
 
-text: <p><iframe loading="lazy" id="fitvid583411" src="//www.youtube.com/embed/sXf3A1f5asg?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+References: -
 
 ----
 
-references: 
-- 
-
-----
-
-number: 3
-
-----
-
+Number: 3
