@@ -17,7 +17,7 @@ $color = $issue_color ??  $page->color();
 			echo "Post-Scriptum";
 		} else {
 			// TODO: Display "PS12" when in an issue or an article.
-			echo "PS";
+			echo "PS" . $page->num();
 		}
 		?>
 	</title>
@@ -33,6 +33,7 @@ $color = $issue_color ??  $page->color();
 	<main>
 		<?= $slots->main() ?>
 	</main>
+	<footer class="site-footer"></footer>
 </body>
 
 </html>
