@@ -1,39 +1,49 @@
-title: Littérature et politique au XXe siècle
+Title: Littérature et politique au XXe siècle
 
 ----
 
-subtitle: À l’aune de la catastrophe totalitaire
+Subtitle: À l’aune de la catastrophe totalitaire
 
 ----
 
-authors: -
-  name: Frédérik DETUE
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"url":"https://youtube.com/watch?v=Jul5BPuBHQA","caption":""},"id":"650ee2ad-fcf6-4be6-bebb-43ed0185687b","isHidden":false,"type":"video"},{"content":{"text":"<p><br> <em>Discussion</em></p>"},"id":"10b349b8-6888-4655-a1ea-b74aed43040d","isHidden":false,"type":"text"},{"content":{"url":"https://youtube.com/watch?v=C6rOlltFAus","caption":""},"id":"95a6629f-3e4e-468e-b2d7-7c1b5cff8658","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Frédérik Detue
   affiliation: Université Paris 8
 
 ----
 
-abstract_fr: 
+Keywords: 
 
 ----
 
-abstract_en: 
+Abstract-fr: 
 
 ----
 
-text: 
-
-<iframe loading="lazy" id="fitvid323119" src="//www.youtube.com/embed/Jul5BPuBHQA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<p><br /> <em>Discussion</em></p>
-<iframe loading="lazy" id="fitvid32924" src="//www.youtube.com/embed/C6rOlltFAus" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+Abstract-en: 
 
 ----
 
-references: 
-- 
+References: -
 
 ----
 
-number: 4
-
-----
-
+Number: 4

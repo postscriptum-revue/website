@@ -1,57 +1,49 @@
-title: Ratio.
+Title: Ratio.
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
-  name: Tassia TRIFIATIS
-  affiliation: 
+Summary-fr: 
 
 ----
 
-abstract_fr: 
+Summary-en: 
 
 ----
 
-abstract_en: 
+Text: [{"content":{"text":"<p>En novembre, les gens attrapent souvent froid pendant la pluie. C’est aussi le cas de D., qui attend déjà que les heures d’ensoleillement augmentent, même si elles viennent tout juste de diminuer.</p>\n<p>– Il est vrai que H. est mort il n’y a pas très longtemps… Ton corps te parle peut-être de ton chagrin.</p>\n<p>– Non-non, ce n’est qu’un petit rhume, répond D. à ses proches.</p>\n<p>Et pour ce qui est de H., ils n’avaient jamais été des intimes. Qu’aurait donc eu à dire le corps ?</p>\n*En décembre, les gens marchent devant les lumières en attendant une nostalgie festive. D. ne voudrait pas donner son mauvais virus à la famille pendant les réjouissances cette année, alors elle a décidé de lire dans son bain.\n<p>– Il est vrai que ton anniversaire de mariage tombait un 23 décembre jadis… Ton corps te parle peut-être de ton chagrin.</p>\n<p>– Non-non, ce n’est qu’un mauvais virus, répond D. à ses proches.</p>\n<p>Pour revenir à H., elle ne le voyait qu’une fois par semaine. Quant à son ex-mari lui, il avait disparu temporairement. Qu’aurait donc à voir le corps dans cette histoire ?</p>\n*En janvier, il y a parfois des infections pulmonaires qui font rage dans l’hiver. En février aussi. Parce que le vent n’est pas simple. Tant mieux : la toux fait fuir les hypocondriaques. D. n’attend pas encore le printemps, mais seulement l’heure du sommeil, chaque soir.\n<p>– Il est vrai que tu viens d’apprendre que ton père était en phase terminale… Ton corps te parle peut-être de ton chagrin.</p>\n<p>– Non-non, ce n’est qu’une infection pulmonaire, répond D. à ses proches.</p>\n<p>Pour revenir H., elle ne le connaissait que depuis neuf ans. Quant à son ex-mari lui, il avait toujours suscité des doutes. Son père, elle l’aimerait toujours. Même malade. Le corps n’avait rien à ajouter.</p>\n*En mars, les gens veulent être en mouvement. Il s’agit d’un assez bon moment pour rêver d’un chez soi ailleurs. Bien qu’alitée, D. était d’accord pour dire qu’il était temps de tout quitter et de tout vendre : elle n’avait plus d’argent.\n<p>– Il est vrai que tu viens d’apprendre que tu n’aurais plus les moyens de garder ta maison… Ton corps te parle peut-être de ton chagrin.</p>\n<p>– Non-non, c’est l’air du temps qui me donne des rhumatismes aux jambes, répond D. à ses proches.</p>\n<p>Pour revenir à H., il n’était que son professeur. Quant à son ex-mari lui, il n’avait pas tout pris en partant. Son père, il lui restait du temps. Sa maison était du passé. Les jambes qui n’avancent plus ne sont qu’un hasard immobile.</p>\n*Début avril, les gens croient que D. doit être heureuse de la fonte, du haut de sa nouvelle fenêtre. Mais D. est à l’hôpital. Pour tenir la main de la Vieille. Fin avril, celle-ci s’éteint devant D. après vingt années d’amour combatif. « Enfin le printemps », pense-t-elle au cimetière.\n<p>– Il est vrai que tu as été victime de nombreux deuils en peu de temps.</p>\n<p>– Non-non, ce n’est que ma vie, répond D. en pleurant enfin.</p>\n<p>Pour revenir à H., il était un phare éteint. Quant à son ex-mari lui, il était venu en amour de sa vie pour s’éclipser en trahison d’une vie. Son père, il mourrait. Sa maison était celle d’autres gens.</p>\n*Il n’est pas faux que, cette année-là, la disparition de la Vieille avait tué toute rationalisation. C’est grâce à ses obsèques que ceux, morts avant elle, l’ont suivi. Les illusions de présence ont accepté de devenir fantômes.\n<p>La Vieille avait réussi à achever tous les mourants.</p>\n<p>Elle avait dit : Corps ! Parle-nous de notre chagrin.</p>"},"id":"a5b0757d-69e3-473e-8dae-8fdd7466410f","isHidden":false,"type":"text"}]
 
 ----
 
-text: <p>En novembre, les gens attrapent souvent froid pendant la pluie. C’est aussi le cas de D., qui attend déjà que les heures d’ensoleillement augmentent, même si elles viennent tout juste de diminuer.</p>
-<p>&#8211; Il est vrai que H. est mort il n’y a pas très longtemps… Ton corps te parle peut-être de ton chagrin.</p>
-<p>&#8211; Non-non, ce n’est qu’un petit rhume, répond D. à ses proches.</p>
-<p>Et pour ce qui est de H., ils n’avaient jamais été des intimes. Qu’aurait donc eu à dire le corps ?</p>
-<p><center>*</center>En décembre, les gens marchent devant les lumières en attendant une nostalgie festive. D. ne voudrait pas donner son mauvais virus à la famille pendant les réjouissances cette année, alors elle a décidé de lire dans son bain.</p>
-<p>&#8211; Il est vrai que ton anniversaire de mariage tombait un 23 décembre jadis… Ton corps te parle peut-être de ton chagrin.</p>
-<p>&#8211; Non-non, ce n’est qu’un mauvais virus, répond D. à ses proches.</p>
-<p>Pour revenir à H., elle ne le voyait qu’une fois par semaine. Quant à son ex-mari lui, il avait disparu temporairement. Qu’aurait donc à voir le corps dans cette histoire ?</p>
-<p><center>*</center>En janvier, il y a parfois des infections pulmonaires qui font rage dans l’hiver. En février aussi. Parce que le vent n’est pas simple. Tant mieux : la toux fait fuir les hypocondriaques. D. n’attend pas encore le printemps, mais seulement l’heure du sommeil, chaque soir.</p>
-<p>&#8211; Il est vrai que tu viens d’apprendre que ton père était en phase terminale… Ton corps te parle peut-être de ton chagrin.</p>
-<p>&#8211; Non-non, ce n’est qu’une infection pulmonaire, répond D. à ses proches.</p>
-<p>Pour revenir H., elle ne le connaissait que depuis neuf ans. Quant à son ex-mari lui, il avait toujours suscité des doutes. Son père, elle l’aimerait toujours. Même malade. Le corps n’avait rien à ajouter.</p>
-<p><center>*</center>En mars, les gens veulent être en mouvement. Il s’agit d’un assez bon moment pour rêver d’un chez soi ailleurs. Bien qu’alitée, D. était d’accord pour dire qu’il était temps de tout quitter et de tout vendre : elle n’avait plus d’argent.</p>
-<p>&#8211; Il est vrai que tu viens d’apprendre que tu n’aurais plus les moyens de garder ta maison… Ton corps te parle peut-être de ton chagrin.</p>
-<p>&#8211; Non-non, c’est l’air du temps qui me donne des rhumatismes aux jambes, répond D. à ses proches.</p>
-<p>Pour revenir à H., il n’était que son professeur. Quant à son ex-mari lui, il n’avait pas tout pris en partant. Son père, il lui restait du temps. Sa maison était du passé. Les jambes qui n’avancent plus ne sont qu’un hasard immobile.</p>
-<p><center>*</center>Début avril, les gens croient que D. doit être heureuse de la fonte, du haut de sa nouvelle fenêtre. Mais D. est à l’hôpital. Pour tenir la main de la Vieille. Fin avril, celle-ci s’éteint devant D. après vingt années d’amour combatif. « Enfin le printemps », pense-t-elle au cimetière.</p>
-<p>&#8211; Il est vrai que tu as été victime de nombreux deuils en peu de temps.</p>
-<p>&#8211; Non-non, ce n’est que ma vie, répond D. en pleurant enfin.</p>
-<p>Pour revenir à H., il était un phare éteint. Quant à son ex-mari lui, il était venu en amour de sa vie pour s’éclipser en trahison d’une vie. Son père, il mourrait. Sa maison était celle d’autres gens.</p>
-<p><center>*</center>Il n’est pas faux que, cette année-là, la disparition de la Vieille avait tué toute rationalisation. C’est grâce à ses obsèques que ceux, morts avant elle, l’ont suivi. Les illusions de présence ont accepté de devenir fantômes.</p>
-<p>La Vieille avait réussi à achever tous les mourants.</p>
-<p>Elle avait dit : Corps ! Parle-nous de notre chagrin.</p>
+Bibliography: 
 
 ----
 
-references: 
+Authors:
+
 - 
+  name: Tassia Trifiatis
+  affiliation: ""
 
 ----
 
-number: 1
+Keywords: 
 
 ----
 
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+References: -
+
+----
+
+Number: 1

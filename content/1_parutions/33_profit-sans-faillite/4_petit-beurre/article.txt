@@ -6,11 +6,31 @@ Subtitle:
 
 ----
 
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"location":"web","image":[],"src":"https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel1.jpeg","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8d0263e0-6a38-4db0-86b9-dc2f262909e7","isHidden":false,"type":"image"},{"content":{"location":"web","image":[],"src":"https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel2.jpeg","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0e89bb9a-e0e4-4e4a-b9be-24ca6ab82ed3","isHidden":false,"type":"image"},{"content":{"location":"web","image":[],"src":"https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel3-scaled.jpg","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"24c375e5-f88e-4837-9632-ccdf3791916e","isHidden":false,"type":"image"},{"content":{"location":"web","image":[],"src":"https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel4-scaled.jpg","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f564fd4c-137f-41b6-9a60-b9a04c4c7399","isHidden":false,"type":"image"}]
+
+----
+
+Bibliography: 
+
+----
+
 Authors:
 
--
+- 
   name: Caroline Kinkead
-  affiliation:
+  affiliation: ""
+
+----
+
+Keywords: 
 
 ----
 
@@ -19,15 +39,6 @@ Abstract-fr:
 ----
 
 Abstract-en: 
-
-----
-
-Text:
-
-<p><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel1.jpeg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel1.jpeg 767w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel1-277x300.jpeg 277w" sizes="(max-width: 767px) 100vw, 767px" /></p>
-<p style="text-align: left;"><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel2.jpeg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel2.jpeg 828w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel2-249x300.jpeg 249w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel2-768x925.jpeg 768w" sizes="(max-width: 828px) 100vw, 828px" /></p>
-<p style="text-align: left;"><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel3-scaled.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-scaled.jpg 1920w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-225x300.jpg 225w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-768x1024.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-1152x1536.jpg 1152w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-1536x2048.jpg 1536w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel3-900x1200.jpg 900w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
-<p><img decoding="async" loading="lazy" src="https://post-scriptum.org/wordpress/wp-content/uploads/2023/02/4_artvisuel4-scaled.jpg" alt="" srcset="http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-scaled.jpg 1920w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-225x300.jpg 225w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-768x1024.jpg 768w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-1152x1536.jpg 1152w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-1536x2048.jpg 1536w, http://localhost:8000/wp-content/uploads/2023/02/4_artvisuel4-900x1200.jpg 900w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
 
 ----
 

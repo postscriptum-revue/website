@@ -1,42 +1,49 @@
-title: Le paysage spirituel de nos apocalypses
+Title: Le paysage spirituel de nos apocalypses
 
 ----
 
-subtitle: 
+Subtitle: 
 
 ----
 
-authors: -
-  name: Terry COCHRAN
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"text":"<p><em>Introduction à l’atelier « L’Apocalypse perpétuelle : l’effondrement du savoir et autres cataclysmes », Université de Montréal, 20 avril 2009</em></p>"},"id":"a9e75c94-e23b-43f6-8c36-62754c47f047","isHidden":false,"type":"text"},{"content":{"url":"https://youtube.com/watch?v=J7BExtfmsHg","caption":""},"id":"1872a170-420e-45a9-855c-037a84a57ea9","isHidden":false,"type":"video"},{"content":{"text":"<p><br>Terry COCHRAN, « Le paysage spirituel de nos apocalypses »</p>"},"id":"a570fdd5-8f33-4679-b5c2-2009dd5755c8","isHidden":false,"type":"text"},{"content":{"url":"https://youtube.com/watch?v=FV0m2D1E5zc","caption":""},"id":"1d39c5fb-8e89-4246-b918-e6f6454ec9ad","isHidden":false,"type":"video"},{"content":{"text":"<p><br><em>Discussion</em></p>"},"id":"84968bfd-1db0-447a-a863-be057fa5647d","isHidden":false,"type":"text"},{"content":{"url":"https://youtube.com/watch?v=3Kh11Sa77IE","caption":""},"id":"1eabcee2-53f8-453f-bc49-8e49204d193a","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Terry Cochran
   affiliation: Université de Montréal
 
 ----
 
-abstract_fr: 
+Keywords: 
 
 ----
 
-abstract_en: 
+Abstract-fr: 
 
 ----
 
-text: 
-
-<p><em>Introduction à l’atelier « L’Apocalypse perpétuelle : l’effondrement du savoir et autres cataclysmes », Université de Montréal, 20 avril 2009</em></p>
-<iframe loading="lazy" id="fitvid146102" src="//www.youtube.com/embed/J7BExtfmsHg" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<p><br />Terry COCHRAN, « Le paysage spirituel de nos apocalypses »</p>
-<iframe loading="lazy" id="fitvid505963" src="//www.youtube.com/embed/FV0m2D1E5zc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<p><br /><em>Discussion</em></p>
-<iframe loading="lazy" id="fitvid923192" src="//www.youtube.com/embed/3Kh11Sa77IE" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+Abstract-en: 
 
 ----
 
-references: 
-- 
+References: -
 
 ----
 
-number: 1
-
-----
-
+Number: 1
