@@ -74,7 +74,7 @@ references:
 - <ul>
  	<li>ASHCROFT, Bill, GRIFFITHS, Gareth, TIFFIN, Helen, <em>The Empire Writes Back, Theory and Practice in Post-Colonial Literatures, </em>London &amp; New York, Routledge, 1989</li>
  	<li>BHABHA, Homi K., <em>Les lieux de la culture, une théorie postcoloniale, </em>Paris, Payot et Rivages, 2007</li>
- 	<li>BERMAN, Antoine, « La retraduction comme espace de la traduction », in <em>Palimpsestes</em> <em>n°4, « Retraduire »,</em> Paris, Presses de la Sorbonne nouvelle, 1990</li>
+ 	<li>BERMAN, Antoine, « La retraduction comme espace de la traduction », in <em>Palimpsestes n°4, « Retraduire »,</em> Paris, Presses de la Sorbonne nouvelle, 1990</li>
  	<li>CÔTÉ, Sébastien, « <em>Le monde de Barney </em>ou Comment ne pas traduire pour la francophonie », in <em>Spirale : arts.lettres.sciences humaines, n°197, </em>2004, p. 15-16</li>
  	<li>CÔTÉ, Sébastien, « Centre, périphérie et ethnocentrisme : la traduction française de <em>Barney’s Version</em>, de Mordecai Richler »<em>, </em>in <em>Post-Scriptum, n°3, </em>2014</li>
  	<li>DELEUZE, Gilles, GUATTARI, Félix, <em>Kafka, Pour une littérature mineure</em>, Paris, Minuit, 1975</li>

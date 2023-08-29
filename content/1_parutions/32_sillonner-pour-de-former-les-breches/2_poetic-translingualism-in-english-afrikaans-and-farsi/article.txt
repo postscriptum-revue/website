@@ -132,7 +132,7 @@ text: <p>Introduction</p>
 ----
 
 references: 
-- Arsanios, Mirene. <em>Notes on Mother Tongues: Colonialism, Class, and Giving What You Don’t </em> <em>Have. </em>New York City: Ugly Duckling Presse, 2020.
+- Arsanios, Mirene. <em>Notes on Mother Tongues: Colonialism, Class, and Giving What You Don’t  Have. </em>New York City: Ugly Duckling Presse, 2020.
 
 Dowling, Sarah. <em>Translingual Poetics: Writing Personhood Under Settler Colonialism. </em>Iowa  City: University of Iowa Press, 2018.
 

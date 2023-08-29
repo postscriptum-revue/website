@@ -57,9 +57,9 @@ text: <blockquote><p>Comme toutes les femmes, je me suis ennuyée, fatiguée, pr
 references: 
 - <ul>
  	<li>DURAS, Marguerite, <em>Écrire</em>, Paris : Gallimard, 1993.</li>
- 	<li>JELINEK, Elfriede, « Les amantes » ds <em>Œuvres</em> <em>romanesques</em>, traduit par Yasmin Hoffmann et Maryvonne Litaize, Paris : Actes Sud, 2008 (1975), p. 589 à 713.</li>
- 	<li>LISPECTOR, Clarice, <em>La</em> <em>découverte</em> <em>du</em> <em>monde</em> <em>1967</em>-<em>1973</em>, chroniques traduites par Jacques et Teresa Thiériot, Paris : Des Femmes, 1995.</li>
- 	<li>MORENCY, Catherine, <em>Poétique</em> <em>de</em> <em>l’émergence</em> <em>et</em> <em>des</em> <em>commencements</em>. <em>Les</em> <em>premiers</em> <em>écrits</em> <em>de</em> <em>Miron, Lefrançois, Gauvreau, Giguère et Hébert</em>, Montréal : Nota Bene, 2014.</li>
+ 	<li>JELINEK, Elfriede, « Les amantes » ds <em>Œuvres romanesques</em>, traduit par Yasmin Hoffmann et Maryvonne Litaize, Paris : Actes Sud, 2008 (1975), p. 589 à 713.</li>
+ 	<li>LISPECTOR, Clarice, <em>La découverte du monde 1967</em>-<em>1973</em>, chroniques traduites par Jacques et Teresa Thiériot, Paris : Des Femmes, 1995.</li>
+ 	<li>MORENCY, Catherine, <em>Poétique de l’émergence et des commencements</em>. <em>Les premiers écrits de Miron, Lefrançois, Gauvreau, Giguère et Hébert</em>, Montréal : Nota Bene, 2014.</li>
  	<li>UGUAY, Marie, <em>Journal</em>, Montréal : Boréal, 2005.</li>
  	<li>YOURCENAR, Marguerite, « Clytemnestre ou le crime » ds <em>Feux</em>, Paris : Gallimard, 1974 (1957), p. 119 à 130.</li>
 </ul>
@@ -68,7 +68,7 @@ references:
 
 
 
-[1] J’ai relevé ce passage du journal de Marie Uguay à la p. 145 de l’essai de Catherine Morency <em>Poétique</em> <em>de</em> <em>l’émergence</em> <em>et</em> <em>des</em> <em>commencements</em>. <em>Les</em> <em>premiers</em> <em>écrits</em> <em>de</em> <em>Miron</em>, <em>Lefrançois</em>, <em>Gauvreau</em>, <em>Giguère</em> <em>et</em> <em>Hébert</em> auquel je renvoie le lecteur puisqu’il y est abordé de manière sensible et perspicace la question de l’amorce du geste poétique, ainsi que ses enracinements et ses répercussions dans la vie matérielle.
+[1] J’ai relevé ce passage du journal de Marie Uguay à la p. 145 de l’essai de Catherine Morency <em>Poétique de l’émergence et des commencements</em>. <em>Les premiers écrits de Miron</em>, <em>Lefrançois</em>, <em>Gauvreau</em>, <em>Giguère et Hébert</em> auquel je renvoie le lecteur puisqu’il y est abordé de manière sensible et perspicace la question de l’amorce du geste poétique, ainsi que ses enracinements et ses répercussions dans la vie matérielle.
 
 
 

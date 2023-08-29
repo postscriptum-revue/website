@@ -111,7 +111,7 @@ references:
 - <h4>Corpus</h4>
 <ul>
  	<li>ETIEMBLE René, <em>L'Orient philosophique au XVIIIesiècle</em>, Paris, Centre de Documentation Universitaire, 1961.</li>
- 	<li>GALLAND Antoine <em>Les</em> <em>Mille et Une Nuits</em>, Paris, Garnier Flammarion, 2000.</li>
+ 	<li>GALLAND Antoine <em>Les Mille et Une Nuits</em>, Paris, Garnier Flammarion, 2000.</li>
  	<li>GAUTIER Théophile, <em>La Péri </em>in<em> Œuvres complètes</em>, section III, Paris, Honoré Champion, 2003.</li>
  	<li>GAUTIER Théophile,<em> La Mille et Deuxième Nuit</em> in <em>Romans, contes et nouvelles </em>I, Paris, Gallimard, 2002.</li>
  	<li>GAUTIER Théophile, <em>L'Œuvre fantastique. Tome I - Nouvelles</em>, Paris, Classiques Garnier, coll. "Bibliothèque du XIXe siècle", 2015.</li>

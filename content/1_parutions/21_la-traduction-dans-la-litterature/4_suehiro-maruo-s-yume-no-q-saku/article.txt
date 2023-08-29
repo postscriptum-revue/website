@@ -76,7 +76,7 @@ text: <p>Currently, the theory of Translation Studies constitutes a prolific fie
 
 references: 
 - <ul>
- 	<li>ARROJO, Rosimary. <em>Oficina de tradução:</em> <em>a oficina na prática</em>, São Paulo, Ática, 2007.</li>
+ 	<li>ARROJO, Rosimary. <em>Oficina de tradução: a oficina na prática</em>, São Paulo, Ática, 2007.</li>
  	<li>BAIOCCHI, Maura. <em>Butoh</em>: <em>dança veredas d’alma</em>, São Paulo, Palas Athena, 1995.</li>
  	<li>BATTAILE, Georges. <em>Story of the Eye</em>, Trad. Joachim Neugroscha, London, Penguin books, 2001</li>
  	<li>____. <em>L'Érotisme</em>, Paris, Les Éditions de Minuit, 2004.</li>
