@@ -1,6 +1,7 @@
 <?php snippet("site/layout", slots: true) ?>
 
 <?php slot("aside") ?>
+<!-- Boutons : télécharger en format PDF, Retour en haut de la page -->
 <section class="site-aside__section article-summary">
 	<h2 class="site-aside__title">Résumé (fr)</h2>
 	<?= $page->summary_fr() ?>

@@ -6,3 +6,8 @@
 .article__authors {
 	font-size: var(--font-size-small);
 }
+
+.article__title,
+.article__subtitle {
+	display: inline;
+}

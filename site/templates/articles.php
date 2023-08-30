@@ -12,7 +12,7 @@
 				<li><?= $author->name() ?></li>
 			<?php endforeach ?>
 		</ul>
-		<hgroup>
+		<hgroup class="article__hgroup">
 			<h2 class="article__title"><?= $article->title() ?></h2>
 			<p class="article__subtitle"><?= $article->subtitle() ?></p>
 		</hgroup>
