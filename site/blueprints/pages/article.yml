@@ -29,7 +29,8 @@ columns:
                     name:
                         type: text
                         label: Nom
-                        help: Ne pas transcrire le nom de famille en majuscule.
+                        help: |
+                            Ne pas transcrire le nom de famille en majuscule. Entrez « Franz Kafka » et non « Franz KAFKA ».
                     affiliation:
                         type: text
                         label: Affiliation
