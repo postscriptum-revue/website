@@ -30,7 +30,7 @@ $color = $issue_color ??  $page->color();
 		</div>
 	</aside>
 	<?php snippet("site/header") ?>
-	<main>
+	<main class="<?= $page->template() . "-template-main" ?>">
 		<?= $slots->main() ?>
 	</main>
 	<footer class="site-footer"></footer>

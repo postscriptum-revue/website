@@ -7,15 +7,15 @@
 <?php slot("main") ?>
 <?php snippet("issue/header") ?>
 <section class="text-section issue-text">
-	<hgroup class="text-section__hgroup">
+	<hgroup class="text-section-hgroup">
 		<?php if ($page->intro_title()->isNotEmpty()) : ?>
 			<p>Texte de présentation</p>
-			<h2 class="text-section__hgroup-title"><?= $page->intro_title() ?></h2>
+			<h2 class="text-section-hgroup__title"><?= $page->intro_title() ?></h2>
 			<?php if ($page->intro_subtitle()) : ?>
 				<p><?= $page->intro_subtitle() ?></p>
 			<?php endif ?>
 		<?php else : ?>
-			<h2 class="text-section__hgroup-title">Texte de présentation</h2>
+			<h2 class="text-section-hgroup__title">Texte de présentation</h2>
 		<?php endif ?>
 	</hgroup>
 	<?= $page->intro_text()->toBlocks() ?>

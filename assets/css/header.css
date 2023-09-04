@@ -4,10 +4,8 @@
 	display: grid;
 	grid-template-columns: repeat(8, 1fr);
 	gap: 2rem;
-	align-items: start;
 
-	padding-bottom: 2rem;
-	border-bottom: 1px solid;
+	align-items: start;
 }
 
 .site-header__logo {
@@ -20,6 +18,7 @@
 
 .site-header__nav {
 	grid-column: span 4;
+
 	text-transform: lowercase;
 }
 
@@ -27,4 +26,8 @@
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	column-gap: 2rem;
+}
+
+.site-header__nav-list-item:hover {
+	text-decoration: underline;
 }

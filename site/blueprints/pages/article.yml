@@ -7,10 +7,10 @@ columns:
             subtitle:
                 type: text
                 label: Sous-titre
-            summary_fr:
+            abstract_fr:
                 type: writer
                 label: Résumé (fr)
-            summary_en:
+            abstract_en:
                 type: writer
                 label: Résumé (en)
             text:
