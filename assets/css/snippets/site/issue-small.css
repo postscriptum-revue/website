@@ -1,0 +1,51 @@
+.latest-issues__issue-cover {
+	height: 27vw;
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: start;
+	border: 1px solid gainsboro;
+}
+
+.latest-issues__issue-card {
+	margin: 3rem 2rem 0 2rem;
+	padding: 1.25rem 2rem;
+	background-color: white;
+	text-align: center;
+	position: relative;
+}
+
+.latest-issues__issue-card::after {
+	content: "";
+	position: absolute;
+	top: 0.75rem;
+	right: 0.75rem;
+	bottom: 0.75rem;
+	left: 0.75rem;
+	border: 1px solid var(--issue-color);
+}
+
+.latest-issues__issue-card::before {
+	content: "";
+	position: absolute;
+	top: 0.5rem;
+	right: 0.5rem;
+	bottom: 0.5rem;
+	left: 0.5rem;
+	border: 2px solid var(--issue-color);
+}
+
+.latest-issues__issue-card-number {
+	font-size: var(--font-size-large);
+	font-family: "Mercure Transcript";
+}
+
+.latest-issues__issue-hgroup {
+	text-align: center;
+	margin-top: 0.5rem;
+}
+
+.latest-issues__issue-date {
+	font-size: var(--font-size-small);
+}
