@@ -1,3 +1,8 @@
+.home-template-main {
+	border-top: none;
+	padding-top: 0;
+}
+
 .home-section {
 	grid-column: 1 / -1;
 	border-top: 1px solid;
