@@ -111,3 +111,7 @@ SEVERINI, Gino. <em>Écrits sur l’art</em>, Paris, Éditions Cercle d’Art, 1
 ----
 
 Number: 4
+
+----
+
+Uuid: 5p4I3GMHcBnmWZnD

@@ -6,17 +6,43 @@ Subtitle:
 
 ----
 
-Number: 23
+Cover: - file://DmKtBlZzN92bzXSB
 
 ----
 
-Intro-text:
+Date: 2017-12-13
 
-<p>La vie humaine est éphémère. La finitude qui caractérise le destin de l’homme est non seulement intrigante et nous donne le sentiment d’immédiateté nécessaire à l’accomplissement de nos vies, mais elle peut également être une source d’angoisse. La littérature gothique, par exemple, suscite chez les lecteurs un sentiment de frayeur constant, sentiment qui est souvent animé par la peur de la mort. Cependant, la finitude humaine ne peut, de manière rationnelle, s’effacer ; nous nous devons de l’accepter.</p>
-<p>L’immortalité, quant à elle, déjoue et redéfinit la fixité inhérente à la mortalité humaine. En se plaçant dans un entre-deux infini, soit entre la vie et la mort, l’immortel(le) fait surgir un rapport au réel entre la mort et l’immortalité. Bien que Georges Bataille ait qualifié la mort comme étant conditionnelle à la vie, l’immortalité, elle, brouille indéniablement les pistes de cette condition. L’immortalité, de par son statut d’entre-deux, se place même dans le domaine de la neutralité. Le neutre, au sens de Roland Barthes, est ce qui déjoue et/ou brouille les paradigmes. L’immortel(le), donc, tente de se placer dans cet espace neutre et de le faire sien. Parallèlement, de par sa nature non-conforme, ce thème soulève de nombreux questionnements éthiques, que ce soit dans un univers fictif ou dans l’avancement fulgurant de la médecine moderne. Le vacillement de l’immortel(le) — et de l’immortalité — entre le réel et l’imaginaire, entre la vie et la mort, nous porte à nous interroger sur la nature humaine et sur la fixité (ou la non-fixité) des concepts et des normes établies.</p>
-<p>La littérature comparée, de par son ouverture sur le monde et la pensée littéraire s’y rattachant — la pensée véhiculée dans et par un texte, mais également la pensée véhiculée par les lecteurs dans l’acte de lecture et par l’analyse critique —, permet non seulement de s’interroger sur les éléments et concepts qui régissent la vie humaine, mais elle offre aussi l’espace nécessaire à la critique de ceux-ci. En faisant de la littérature et de la culture un espace malléable dans lequel tous et chacun peuvent laisser leur trace, leur marque, nous devenons tous immortel(e)s à notre manière.</p>
-<p>Les textes présentés dans ce numéro, que j’ai eu l’honneur de diriger, se placent dans différentes sphères de la problématique inhérente à l’immortel(le) et à l’immortalité. Certains articles offrent une perspective intermédiale (de la télésérie à la littérature, en passant par l’art), ce qui nous permet de concevoir l’immortalité — et la mortalité — comme étant un concept multiple, ce qui représente bien les différentes facettes de l’être humain. De par ces approches, l’immortalité devient synonyme de pluralité et de diversité. L’immortalité peut être également modélisée à partir de reprises de textes phares de la culture occidentale. La reprise, non au sens de Kierkegaard, mais bien comme une certaine modernisation d’une œuvre littéraire, élève le texte et ses personnages récurrents à un statut que l’on pourrait qualifier d’immortel. Dans une optique similaire, certains personnages deviennent des figures immortelles qui font partie intégrante de l’imaginaire populaire. Leur statut, qui, au fil du temps, devient en quelque sorte fixé, se trouve ré-archivé et redéfini par l’analyse critique et littéraire. Enfin, les pensées littéraire et critique s’inscrivent toutes deux dans un dispositif qui sous-tend non seulement les domaines académiques, mais également la vie au quotidien. L’immortalité, donc, n’est pas seulement fictive ou éthique : elle fait partie intégrante des processus de pensée.</p>
-<p>Ce numéro propose une incursion dans les différentes sphères inhérentes à l’immortel(le) et à l’immortalité afin de penser ces derniers comme des dispositifs de pensée littéraire et critique qui ouvre non seulement la voie sur les définitions possibles de la nature humaine, mais aussi sur le pouvoir infini de la littérature et de la culture comme véhicules de compréhension du monde.</p>
+----
+
+Credit-editors: <ul><li>L'équipe de <em>Post-Scriptum</em></li></ul>
+
+----
+
+Credit-revision: <ul><li>L'équipe de <em>Post-Scriptum</em></li></ul>
+
+----
+
+Credit-webmaster: Laurence Sylvain
+
+----
+
+Intro-text: [{"content":{"text":"<p>La vie humaine est éphémère. La finitude qui caractérise le destin de l’homme est non seulement intrigante et nous donne le sentiment d’immédiateté nécessaire à l’accomplissement de nos vies, mais elle peut également être une source d’angoisse. La littérature gothique, par exemple, suscite chez les lecteurs un sentiment de frayeur constant, sentiment qui est souvent animé par la peur de la mort. Cependant, la finitude humaine ne peut, de manière rationnelle, s’effacer ; nous nous devons de l’accepter.</p>\r\n<p>L’immortalité, quant à elle, déjoue et redéfinit la fixité inhérente à la mortalité humaine. En se plaçant dans un entre-deux infini, soit entre la vie et la mort, l’immortel(le) fait surgir un rapport au réel entre la mort et l’immortalité. Bien que Georges Bataille ait qualifié la mort comme étant conditionnelle à la vie, l’immortalité, elle, brouille indéniablement les pistes de cette condition. L’immortalité, de par son statut d’entre-deux, se place même dans le domaine de la neutralité. Le neutre, au sens de Roland Barthes, est ce qui déjoue et/ou brouille les paradigmes. L’immortel(le), donc, tente de se placer dans cet espace neutre et de le faire sien. Parallèlement, de par sa nature non-conforme, ce thème soulève de nombreux questionnements éthiques, que ce soit dans un univers fictif ou dans l’avancement fulgurant de la médecine moderne. Le vacillement de l’immortel(le) — et de l’immortalité — entre le réel et l’imaginaire, entre la vie et la mort, nous porte à nous interroger sur la nature humaine et sur la fixité (ou la non-fixité) des concepts et des normes établies.</p>\r\n<p>La littérature comparée, de par son ouverture sur le monde et la pensée littéraire s’y rattachant — la pensée véhiculée dans et par un texte, mais également la pensée véhiculée par les lecteurs dans l’acte de lecture et par l’analyse critique —, permet non seulement de s’interroger sur les éléments et concepts qui régissent la vie humaine, mais elle offre aussi l’espace nécessaire à la critique de ceux-ci. En faisant de la littérature et de la culture un espace malléable dans lequel tous et chacun peuvent laisser leur trace, leur marque, nous devenons tous immortel(e)s à notre manière.</p>\r\n<p>Les textes présentés dans ce numéro, que j’ai eu l’honneur de diriger, se placent dans différentes sphères de la problématique inhérente à l’immortel(le) et à l’immortalité. Certains articles offrent une perspective intermédiale (de la télésérie à la littérature, en passant par l’art), ce qui nous permet de concevoir l’immortalité — et la mortalité — comme étant un concept multiple, ce qui représente bien les différentes facettes de l’être humain. De par ces approches, l’immortalité devient synonyme de pluralité et de diversité. L’immortalité peut être également modélisée à partir de reprises de textes phares de la culture occidentale. La reprise, non au sens de Kierkegaard, mais bien comme une certaine modernisation d’une œuvre littéraire, élève le texte et ses personnages récurrents à un statut que l’on pourrait qualifier d’immortel. Dans une optique similaire, certains personnages deviennent des figures immortelles qui font partie intégrante de l’imaginaire populaire. Leur statut, qui, au fil du temps, devient en quelque sorte fixé, se trouve ré-archivé et redéfini par l’analyse critique et littéraire. Enfin, les pensées littéraire et critique s’inscrivent toutes deux dans un dispositif qui sous-tend non seulement les domaines académiques, mais également la vie au quotidien. L’immortalité, donc, n’est pas seulement fictive ou éthique : elle fait partie intégrante des processus de pensée.</p>\r\n<p>Ce numéro propose une incursion dans les différentes sphères inhérentes à l’immortel(le) et à l’immortalité afin de penser ces derniers comme des dispositifs de pensée littéraire et critique qui ouvre non seulement la voie sur les définitions possibles de la nature humaine, mais aussi sur le pouvoir infini de la littérature et de la culture comme véhicules de compréhension du monde.</p>"},"id":"83641b42-fa8f-4cba-8987-4329a789f57e","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: Mors vincit omnia
+
+----
+
+Intro-subtitle: l’immortel(le) comme dispositif de pensée littéraire
+
+----
+
+Intro-authors: <ul><li>Marie Levesque</li></ul>
+
+----
+
+Number: 23
 
 ----
 
@@ -25,10 +51,6 @@ Credits:
 <ul>
  	<li>Texte de présentation de Marie Levesque (Université de Montréal)</li>
 </ul>
-
-----
-
-Date: 2017-12-13 09:00:01
 
 ----
 
