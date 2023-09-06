@@ -22,10 +22,12 @@
 </section>
 <dl class="issue-credits">
 	<!-- TODO: Normalize terms. -->
-	<dt class="issue-credits__term">Image de couverture</dt>
-	<dd class="issue-credits__description"><? if ($page->cover()) echo $page->cover()->toFile()->credit() ?></dd>
-	<dt class="issue-credits__term">Texte de présentation</dt>
-	<dd class="issue-credits__description"><?= $page->credit_intro() ?></dd>
+	<?php if ($credits_cover = $page->cover()->toFile()->credit()->isNotEmpty() )
+		echo '<dt class="issue-credits__term">Image de couverture</dt>
+			  <dd class="issue-credits__description">' .  $credits_cover . '</dd>'?>
+	<?php if ($credits_intro = $page->credit_intro()->isNotEmpty() )
+		echo '<dt class="issue-credits__term">Texte de présentation</dt>
+			  <dd class="issue-credits__description">' . $credits_intro . '</dd>'?>
 	<dt class="issue-credits__term">Éditeur·rice(s)</dt>
 	<dd class="issue-credits__description"><?= $page->credit_editors() ?></dd>
 	<dt class="issue-credits__term">Révision</dt>
