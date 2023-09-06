@@ -6,15 +6,43 @@ Subtitle: Quêtes et défaites spirituelles dans les littératures
 
 ----
 
-Number: 26
+Cover: - file://tzVb0W9QZC0euRzT
 
 ----
 
-Intro-text:
+Date: 2019-04-27
 
-<p>En tant que littéraires, intellectuelles et intellectuels, universitaires ou non, la question de la foi s’adresse directement à nous. Les liens entre le littéraire et la foi ne datent pas d’hier. Nous pouvons penser notamment aux nombreux textes fondateurs et sacrés, dont la Bible représente l’exemple le plus frappant et joue toujours un rôle décisif dans notre imaginaire. Toute littérature a à sa manière — de façon explicite ou non — à composer avec l’existence ou non de la foi. La distinction entre les domaines du savoir et de la foi (notamment depuis la pensée du<em> Traité théologico-politique</em> de Spinoza) a laissé le champ libre à la littérature, qui relève à la fois du philosophique et du spirituel. On peut constater, à la lecture de textes de traditions et d’origines diverses, que les quêtes littéraires sont souvent imbriquées dans des quêtes spirituelles, laïques ou non, individuelles et collectives.</p>
-<p>Benjamin Fondane formulait en 1939 cette affirmation percutante et des plus actuelle : « Il se peut que le suprême héroïsme, je veux dire la chose la plus malaisée à l’homme, ne soit pas le sacrifice de sa vie, mais l’aveu de sa défaite spirituelle ». Nous osons affirmer — pour alimenter le débat — que nous partageons tous et toutes cette défaite, croyantes, croyants ou non. Sommes-nous en mesure d’exprimer cette défaite de notre présent ? Est-ce que le littéraire et la littérature peuvent encore dire quelque chose sur la foi ? Les articles que nous vous proposons dans ce numéro témoignent de l’intérêt soulevé par ces questions, de leur actualité jamais détruite par la succession des présents. Car les défaites persistent.</p>
-<p>Ainsi, le premier article qui vous est proposé dans le cadre de ce numéro reprend le discours d’ouverture présenté par Gabriel Tétrault lors du colloque <em>La foi et le littéraire. Quêtes et défaites spirituelles</em>, dans lequel celui-ci articule conceptuellement la défaite telle que conçue par Fondane. Le second article, de Frédéric Slaby, fait état des tribulations littéraires propres aux mouvements de conversions en Angleterre au cours des xixe et xxe siècles. L’article de Carole Trévise articule quant à lui les diverses manières à partir desquelles le discours scientifique reprend le discours religieux, et ce principalement à partir de l’écriture de Barbey d’Aurevilly. Ensuite, l’article de Anaïs Savignac s’intéresse aux manifestations de la foi catholique dans l’écriture d’Angéline de Montbrun, considérant la foi comme constitutive du sujet féminin que celle-ci incarne. L’article de Tess Grousson propose une lecture de la conception du Doute chez Jouve, qui se présente chez celui-ci toujours en tant que certitude. Puis, l’article de Regis Mikail analyse quant à lui les modalités propres aux romans de Bloy et Huysmans pour questionner la sainteté. Enfin, l’article de Laurence Sylvain cherche à articuler la suspension en tant qu’instant de transcendance.</p>
+----
+
+Credit-editors: <ul><li>L'équipe de <em>Post-Scriptum</em></li></ul>
+
+----
+
+Credit-revision: <ul><li>L'équipe de <em>Post-Scriptum</em></li></ul>
+
+----
+
+Credit-webmaster: David Valentine
+
+----
+
+Intro-text: [{"content":{"text":"<p>En tant que littéraires, intellectuelles et intellectuels, universitaires ou non, la question de la foi s’adresse directement à nous. Les liens entre le littéraire et la foi ne datent pas d’hier. Nous pouvons penser notamment aux nombreux textes fondateurs et sacrés, dont la Bible représente l’exemple le plus frappant et joue toujours un rôle décisif dans notre imaginaire. Toute littérature a à sa manière — de façon explicite ou non — à composer avec l’existence ou non de la foi. La distinction entre les domaines du savoir et de la foi (notamment depuis la pensée du<em> Traité théologico-politique</em> de Spinoza) a laissé le champ libre à la littérature, qui relève à la fois du philosophique et du spirituel. On peut constater, à la lecture de textes de traditions et d’origines diverses, que les quêtes littéraires sont souvent imbriquées dans des quêtes spirituelles, laïques ou non, individuelles et collectives.</p>\r\n<p>Benjamin Fondane formulait en 1939 cette affirmation percutante et des plus actuelle : « Il se peut que le suprême héroïsme, je veux dire la chose la plus malaisée à l’homme, ne soit pas le sacrifice de sa vie, mais l’aveu de sa défaite spirituelle ». Nous osons affirmer — pour alimenter le débat — que nous partageons tous et toutes cette défaite, croyantes, croyants ou non. Sommes-nous en mesure d’exprimer cette défaite de notre présent ? Est-ce que le littéraire et la littérature peuvent encore dire quelque chose sur la foi ? Les articles que nous vous proposons dans ce numéro témoignent de l’intérêt soulevé par ces questions, de leur actualité jamais détruite par la succession des présents. Car les défaites persistent.</p>\r\n<p>Ainsi, le premier article qui vous est proposé dans le cadre de ce numéro reprend le discours d’ouverture présenté par Gabriel Tétrault lors du colloque <em>La foi et le littéraire. Quêtes et défaites spirituelles</em>, dans lequel celui-ci articule conceptuellement la défaite telle que conçue par Fondane. Le second article, de Frédéric Slaby, fait état des tribulations littéraires propres aux mouvements de conversions en Angleterre au cours des xixe et xxe siècles. L’article de Carole Trévise articule quant à lui les diverses manières à partir desquelles le discours scientifique reprend le discours religieux, et ce principalement à partir de l’écriture de Barbey d’Aurevilly. Ensuite, l’article de Anaïs Savignac s’intéresse aux manifestations de la foi catholique dans l’écriture d’Angéline de Montbrun, considérant la foi comme constitutive du sujet féminin que celle-ci incarne. L’article de Tess Grousson propose une lecture de la conception du Doute chez Jouve, qui se présente chez celui-ci toujours en tant que certitude. Puis, l’article de Regis Mikail analyse quant à lui les modalités propres aux romans de Bloy et Huysmans pour questionner la sainteté. Enfin, l’article de Laurence Sylvain cherche à articuler la suspension en tant qu’instant de transcendance.</p>"},"id":"8d66d702-569b-41e1-8853-fa021c44c83c","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: 
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: <ul><li>Gabriel Tétrault</li><li>Laurence Sylvain</li><li>Louis-Thomas Leguerrier</li></ul>
+
+----
+
+Number: 26
 
 ----
 
@@ -25,10 +53,6 @@ Credits:
 © Succession Yves Klein c/o ADAGP, Paris</li>
  	<li>Texte de présentation par Gabriel Tétrault, Laurence Sylvain et Louis-Thomas Leguerrier</li>
 </ul>
-
-----
-
-Date: 2019-04-26 15:00:27
 
 ----
 
