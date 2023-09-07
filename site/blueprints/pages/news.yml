@@ -13,9 +13,15 @@ columns:
     right:
         width: 2/3
         sections:
-            pages:
-                label: Pages
-                templates:
-                    - call-paper
-                    - call-talk
-                    - conference
+            call-paper:
+                label: Appels de textes
+                type: pages
+                template: call-paper
+            call-talk:
+                label: Appels à communications
+                type: pages
+                template: call-talk
+            conference:
+                label: Colloques
+                type: pages
+                template: conference
