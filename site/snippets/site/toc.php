@@ -10,14 +10,7 @@
 							<li><?= $author->name() ?></li>
 						<?php endforeach ?>
 					</ul>
-					<p class="toc__item-title">
-						<?= $toc_page->title() ?>
-					</p>
-					<?php if ($toc_page->subtitle() != "") : ?>
-						<p class="toc__item-subtitle">
-							<?= $toc_page->subtitle() ?>
-						</p>
-					<?php endif ?>
+					<p class="toc__item-title"><?= $toc_page->title() ?><?php ($subtitle = $toc_page->subtitle())->isNotEmpty() ? ' : ' . $subtitle : '' ?></p>
 				</article>
 			</a>
 		</li>
