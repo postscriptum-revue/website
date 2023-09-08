@@ -2,32 +2,38 @@
 
 <?php slot("aside") ?>
 
+<?php snippet("article/toc") ?>
+
 <!-- Boutons : télécharger en format PDF, Retour en haut de la page -->
-
-<?php if ($page->keywords() != "") : ?>
-	<section class="site-aside__section">
-		<h2 class="site-aside__title">Mots-clés</h2>
-		<ul class="site-aside__list">
-			<?php foreach ($page->keywords()->split() as $kw) : ?>
-				<li class="site-aside__list-item"><?= $kw ?></li>
-			<?php endforeach ?>
-		</ul>
-	</section>
-<?php endif ?>
-
-<section class="site-aside__section article-summary">
-	<h2 class="site-aside__title">Résumé (fr)</h2>
-	<?= $page->abstract_fr() ?>
-</section>
-
-<section class="site-aside__section article-summary">
-	<h2 class="site-aside__title">Résumé (en)</h2>
-	<?= $page->abstract_en() ?>
-</section>
-
-<section class="site-aside__section article-bibliography">
-	<h2 class="site-aside__title">Bibliographie</h2>
-	<?= $page->bibliography() ?>
+<?php if (($keywords = $page->keywords())->isNotEmpty()) {
+	echo '<section class="site-aside__section">
+	<h2 class="site-aside__title">Mots-clés</h2>
+	<ul class="site-aside__list">';
+	foreach ($keywords->split() as $kw)
+		echo '<li class="site-aside__list-item">'
+			. $kw
+			. '</li>';
+	echo '</ul>
+	</section>';
+} ?>
+<?php if (($resume_fr = $page->abstract_fr())->isNotEmpty())
+	echo '<section class="site-aside__section article-summary">
+	<h2 class="site-aside__title">Résumé (fr)</h2>'
+		. $resume_fr
+		. '</section>';
+?>
+<?php if (($abstract_en = $page->abstract_en())->isNotEmpty())
+	echo '<section class="site-aside__section article-summary">
+	<h2 class="site-aside__title">Résumé (en)</h2>'
+		. $abstract_en
+		. '</section>';
+?>
+<?php if (($bibliography = $page->bibliography())->isNotEmpty())
+	echo '<section class="site-aside__section article-bibliography">
+	<h2 class="site-aside__title">Bibliographie</h2>'
+		. $bibliography
+		. '</section>';
+?>
 </section>
 
 <?php endslot() ?>
