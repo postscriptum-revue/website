@@ -27,6 +27,20 @@
 	margin: 0 0 2rem 4rem;
 }
 
+.text-section__h2 {
+	margin: 4rem auto 0 auto;
+	text-align: center;
+	max-width: 50%;
+}
+
+.text-section__h2 + * {
+	margin-top: 2rem;
+}
+
+.text-section__blockquote:not(:first-child) {
+	margin-top: 2rem;
+}
+
 .text-section__kblockquote-footer {
 	margin-top: 1rem;
 }

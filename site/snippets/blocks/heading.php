@@ -1,0 +1,1 @@
+<<?= $level = $block->level()->or('h2') ?> class="text-section__<?= $block->level() ?>"><?= $block->text() ?></<?= $level ?>>

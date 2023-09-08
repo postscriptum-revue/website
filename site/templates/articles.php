@@ -6,7 +6,11 @@
 	<ul class="site-aside__list">
 		<?php foreach ($keywords as $kw) : ?>
 			<li class="site-aside__list-item">
-				<a href="<?= $page->url(['params' => ['keyword' => $kw]]) ?>"><?= $kw ?></a>
+				<a href="
+					<?= $page->url(['params' => ['keyword' => $kw]]) ?>
+				">
+					<?= $kw ?>
+				</a>
 			</li>
 		<?php endforeach ?>
 	</ul>
@@ -18,13 +22,20 @@
 	<a href="<?= $article->url() ?>" class="article">
 		<article>
 			<ul class="article__authors">
-				<?php foreach ($article->authors()->toStructure() as $author) : ?>
+				<?php
+				foreach ($article->authors()->toStructure()
+					as $author) :
+				?>
 					<li><?= $author->name() ?></li>
 				<?php endforeach ?>
 			</ul>
 			<hgroup class="article__hgroup">
-				<h2 class="article__title"><?= $article->title() ?></h2>
-				<p class="article__subtitle"><?= $article->subtitle() ?></p>
+				<h2 class="article__title">
+					<?= $article->title() ?>
+				</h2>
+				<p class="article__subtitle">
+					<?= $article->subtitle() ?>
+				</p>
 			</hgroup>
 		</article>
 	</a>
