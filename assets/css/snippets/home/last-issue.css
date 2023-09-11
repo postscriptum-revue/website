@@ -1,0 +1,55 @@
+.last-issue {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 2rem;
+}
+
+.last-issue__cover {
+	background-position: center;
+	background-size: cover;
+	height: 43vw;
+	border: 1px solid gainsboro;
+}
+
+.last-issue__cover-card {
+	background-color: white;
+	padding: 2rem;
+	margin: 4rem 2rem 0 2rem;
+	text-align: center;
+	position: relative;
+}
+
+.last-issue__cover-card::after {
+	content: "";
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+	bottom: 1rem;
+	left: 1rem;
+	border: 1px solid var(--issue-color);
+}
+
+.last-issue__cover-card::before {
+	content: "";
+	position: absolute;
+	top: 0.75rem;
+	right: 0.75rem;
+	bottom: 0.75rem;
+	left: 0.75rem;
+	border: 2px solid var(--issue-color);
+}
+
+.last-issue__cover-card-date {
+	font-size: var(--font-size-small);
+}
+
+.last-issue__cover-card-title {
+	margin-top: 1rem;
+	text-transform: uppercase;
+	letter-spacing: var(--letterspacing-uppercase);
+}
+
+.last-issue__cover-card-subtitle {
+	margin-top: 1rem;
+	font-size: var(--font-size-small);
+}

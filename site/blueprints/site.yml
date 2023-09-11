@@ -14,9 +14,9 @@ columns:
     right:
         width: 2/3
         sections:
-            pages:
+            issues:
                 type: pages
                 label: Sections
-                status: listed
                 templates:
                     - issues
+                    - news

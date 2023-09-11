@@ -4,7 +4,9 @@
 			<a href="<?= $toc_page->url() ?>">
 				<article>
 					<ul class="toc__item-authors">
-						<?php foreach ($toc_page->authors()->toStructure() as $author) : ?>
+						<?php
+						foreach ($toc_page->authors()->toStructure()
+							as $author) : ?>
 							<li><?= $author->name() ?></li>
 						<?php endforeach ?>
 					</ul>
