@@ -1,5 +1,5 @@
 <ul class="toc">
-	<?php foreach ($toc_pages as $toc_page)  ?>
+	<?php foreach ($toc_pages as $toc_page) : ?>
 		<li class="toc__item">
 			<a href="<?= $toc_page->url() ?>">
 				<article>
@@ -10,10 +10,12 @@
 							<li><?= $author->name() ?></li>
 						<?php endforeach ?>
 					</ul>
-					<hgroup class="toc__item-title">
-						<span><?= $toc_page->title() ?></span>
-						<span><?= ($subtitle = $toc_page->subtitle())->isNotEmpty() ? ' : ' . $subtitle : '' ?></span>
-					</hgroup>
+					<p class="toc__item-title"><?= $toc_page->title() ?></p>
+					<?php if ($toc_page->subtitle() != "") : ?>
+						<p class="toc__item-subtitle">
+							<?= $toc_page->subtitle() ?>
+						</p>
+					<?php endif ?>
 				</article>
 			</a>
 		</li>
