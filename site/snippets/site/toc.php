@@ -1,5 +1,5 @@
 <ul class="toc">
-	<?php foreach ($toc_pages as $toc_page) : ?>
+	<?php foreach ($toc_pages as $toc_page)  ?>
 		<li class="toc__item">
 			<a href="<?= $toc_page->url() ?>">
 				<article>
