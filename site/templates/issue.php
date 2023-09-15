@@ -29,16 +29,18 @@
 
 <dl class="issue-credits">
 	<!-- TODO: Normalize terms. -->
-	<?php
-	$credits_cover = $page->cover()->toFile()->credit();
-	if ($credits_cover->isNotEmpty())
-		echo '<dt class="issue-credits__term">Image de couverture</dt>
-			  <dd class="issue-credits__description">' .  $credits_cover . '</dd>';
-	$credits_intro = $page->credit_intro();
-	if ($credits_intro->isNotEmpty())
-		echo '<dt class="issue-credits__term">Texte de présentation</dt>
-			  <dd class="issue-credits__description">' . $credits_intro . '</dd>';
-	?>
+	<?php if ($page->cover()->toFile()->credit()->isNotEmpty()) : ?>
+		<dt class="issue-credits__term">Image de couverture</dt>
+		<dd class="issue-credits__description">
+			<?= $page->cover()->toFile()->credit() ?>
+		</dd>
+	<?php endif ?>
+	<?php if ($page->credit_intro()->isNotEmpty()) : ?>
+		<dt class="issue-credits__term">Texte de présentation</dt>
+		<dd class="issue-credits__description">
+			<?= $page->credit_intro() ?>
+		</dd>
+	<?php endif ?>
 	<dt class="issue-credits__term">Éditeur·rice(s)</dt>
 	<dd class="issue-credits__description">
 		<?= $page->credit_editors() ?>
