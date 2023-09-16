@@ -29,10 +29,10 @@
 
 <dl class="issue-credits">
 	<!-- TODO: Normalize terms. -->
-	<?php if ($page->cover()->toFile()->credit()->isNotEmpty()) : ?>
+	<?php if ($cover->credit()->isNotEmpty()) : ?>
 		<dt class="issue-credits__term">Image de couverture</dt>
 		<dd class="issue-credits__description">
-			<?= $page->cover()->toFile()->credit() ?>
+			<?= $cover->credit() ?>
 		</dd>
 	<?php endif ?>
 	<?php if ($page->credit_intro()->isNotEmpty()) : ?>
