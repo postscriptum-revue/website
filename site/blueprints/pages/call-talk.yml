@@ -1,1 +1,5 @@
 title: Appel à communications
+
+fields:
+    test:
+        type: text
