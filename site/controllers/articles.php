@@ -1,5 +1,7 @@
 <?php
 
+use Kirby\Cms\Pages;
+
 return function () {
 	$authors = [];
 	$keywords = [];
