@@ -7,13 +7,11 @@ columns:
             issue_title:
                 label: Titre de la parution
                 type: text
-                width: 1/2
                 required: true
             issue_subtitle:
                 label: Sous-titre de la parution
                 help: La première lettre doit être en majuscule.
                 type: text
-                width: 1/2
             intro_text:
                 label: Texte de présentation
                 type: blocks
@@ -27,6 +25,10 @@ columns:
             issue_cover:
                 label: Image de couverture
                 type: files
+                required: true
+            issue_number:
+                label: Numéro de la parution
+                type: number
                 required: true
             issue_date:
                 label: Date de parution
