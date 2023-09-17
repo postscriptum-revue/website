@@ -1,5 +1,7 @@
 <?php
 
+use Kirby\Cms\Pages;
+
 return function () {
 
 	$news_page = page("actualites");
@@ -10,7 +12,8 @@ return function () {
 	}
 
 	$last_issue = page("parutions")->children()->last();
-	$latest_issues = page("parutions")->children()->listed()->flip()->slice(1, 3);
+	$latest_issues = page("parutions")
+		->children()->listed()->flip()->slice(1, 3);
 
 	return [
 		"last_issue" => $last_issue,
