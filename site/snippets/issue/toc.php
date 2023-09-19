@@ -15,10 +15,15 @@ $templates = [
 
 <section class="issue-toc">
 	<?php foreach ($templates as $template) : ?>
-		<?php $pages_with_template = $page->children()->filterBy("template", $template["name"]) ?>
+		<?php
+		$pages_with_template = $page
+			->children()->filterBy("template", $template["name"])
+		?>
 		<?php if (count($pages_with_template) > 0) : ?>
 			<h3 class="site-aside__title"><?= $template["label"] ?></h3>
-			<?php snippet("site/toc", ["toc_pages" => $pages_with_template]) ?>
+			<?php
+			snippet("site/toc", ["toc_pages" => $pages_with_template])
+			?>
 		<?php endif ?>
 	<?php endforeach ?>
 </section>
