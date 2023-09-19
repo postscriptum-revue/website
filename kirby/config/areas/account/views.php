@@ -2,7 +2,6 @@
 
 use Kirby\Cms\App;
 use Kirby\Cms\Find;
-use Kirby\Toolkit\I18n;
 
 return [
 	'account' => [
@@ -20,13 +19,6 @@ return [
 	],
 	'account.password' => [
 		'pattern' => 'reset-password',
-		'action'  => fn () => [
-			'component' => 'k-reset-password-view',
-			'breadcrumb' => [
-				[
-					'label' => I18n::translate('view.resetPassword')
-				]
-			]
-		]
+		'action'  => fn () => ['component' => 'k-reset-password-view']
 	]
 ];

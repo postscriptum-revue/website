@@ -23,13 +23,15 @@ class Fieldsets extends Items
 
 	/**
 	 * All registered fieldsets methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 
-	protected static function createFieldsets(array $params): array
+	protected static function createFieldsets($params)
 	{
 		$fieldsets = [];
-		$groups    = [];
+		$groups = [];
 
 		foreach ($params as $type => $fieldset) {
 			if (is_int($type) === true && is_string($fieldset)) {
@@ -73,10 +75,8 @@ class Fieldsets extends Items
 		];
 	}
 
-	public static function factory(
-		array $items = null,
-		array $params = []
-	): static {
+	public static function factory(array $items = null, array $params = [])
+	{
 		$items ??= App::instance()->option('blocks.fieldsets', [
 			'code'     => 'blocks/code',
 			'gallery'  => 'blocks/gallery',
@@ -92,10 +92,7 @@ class Fieldsets extends Items
 
 		$result = static::createFieldsets($items);
 
-		return parent::factory(
-			$result['fieldsets'],
-			['groups' => $result['groups']] + $params
-		);
+		return parent::factory($result['fieldsets'], ['groups' => $result['groups']] + $params);
 	}
 
 	public function groups(): array

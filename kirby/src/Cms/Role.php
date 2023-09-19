@@ -17,38 +17,41 @@ use Kirby\Toolkit\I18n;
  * @copyright Bastian Allgeier
  * @license   https://getkirby.com/license
  */
-class Role
+class Role extends Model
 {
-	protected string|null $description;
-	protected string $name;
-	protected Permissions $permissions;
-	protected string|null $title;
+	protected $description;
+	protected $name;
+	protected $permissions;
+	protected $title;
 
 	public function __construct(array $props)
 	{
-		$this->name        = $props['name'];
-		$this->permissions = new Permissions($props['permissions'] ?? null);
-		$title             = $props['title'] ?? null;
-		$this->title       = I18n::translate($title) ?? $title;
-		$description       = $props['description'] ?? null;
-		$this->description = I18n::translate($description) ?? $description;
+		$this->setProperties($props);
 	}
 
 	/**
 	 * Improved `var_dump` output
-	 * @codeCoverageIgnore
+	 *
+	 * @return array
 	 */
 	public function __debugInfo(): array
 	{
 		return $this->toArray();
 	}
 
+	/**
+	 * @return string
+	 */
 	public function __toString(): string
 	{
 		return $this->name();
 	}
 
-	public static function admin(array $inject = []): static
+	/**
+	 * @param array $inject
+	 * @return static
+	 */
+	public static function admin(array $inject = [])
 	{
 		try {
 			return static::load('admin');
@@ -57,6 +60,9 @@ class Role
 		}
 	}
 
+	/**
+	 * @return array
+	 */
 	protected static function defaults(): array
 	{
 		return [
@@ -75,32 +81,54 @@ class Role
 		];
 	}
 
-	public function description(): string|null
+	/**
+	 * @return mixed
+	 */
+	public function description()
 	{
 		return $this->description;
 	}
 
-	public static function factory(array $props, array $inject = []): static
+	/**
+	 * @param array $props
+	 * @param array $inject
+	 * @return static
+	 */
+	public static function factory(array $props, array $inject = [])
 	{
 		return new static($props + $inject);
 	}
 
+	/**
+	 * @return string
+	 */
 	public function id(): string
 	{
 		return $this->name();
 	}
 
+	/**
+	 * @return bool
+	 */
 	public function isAdmin(): bool
 	{
 		return $this->name() === 'admin';
 	}
 
+	/**
+	 * @return bool
+	 */
 	public function isNobody(): bool
 	{
 		return $this->name() === 'nobody';
 	}
 
-	public static function load(string $file, array $inject = []): static
+	/**
+	 * @param string $file
+	 * @param array $inject
+	 * @return static
+	 */
+	public static function load(string $file, array $inject = [])
 	{
 		$data = Data::read($file);
 		$data['name'] = F::name($file);
@@ -108,12 +136,19 @@ class Role
 		return static::factory($data, $inject);
 	}
 
+	/**
+	 * @return string
+	 */
 	public function name(): string
 	{
 		return $this->name;
 	}
 
-	public static function nobody(array $inject = []): static
+	/**
+	 * @param array $inject
+	 * @return static
+	 */
+	public static function nobody(array $inject = [])
 	{
 		try {
 			return static::load('nobody');
@@ -122,11 +157,57 @@ class Role
 		}
 	}
 
-	public function permissions(): Permissions
+	/**
+	 * @return \Kirby\Cms\Permissions
+	 */
+	public function permissions()
 	{
 		return $this->permissions;
 	}
 
+	/**
+	 * @param mixed $description
+	 * @return $this
+	 */
+	protected function setDescription($description = null)
+	{
+		$this->description = I18n::translate($description, $description);
+		return $this;
+	}
+
+	/**
+	 * @param string $name
+	 * @return $this
+	 */
+	protected function setName(string $name)
+	{
+		$this->name = $name;
+		return $this;
+	}
+
+	/**
+	 * @param mixed $permissions
+	 * @return $this
+	 */
+	protected function setPermissions($permissions = null)
+	{
+		$this->permissions = new Permissions($permissions);
+		return $this;
+	}
+
+	/**
+	 * @param mixed $title
+	 * @return $this
+	 */
+	protected function setTitle($title = null)
+	{
+		$this->title = I18n::translate($title, $title);
+		return $this;
+	}
+
+	/**
+	 * @return string
+	 */
 	public function title(): string
 	{
 		return $this->title ??= ucfirst($this->name());
@@ -135,6 +216,8 @@ class Role
 	/**
 	 * Converts the most important role
 	 * properties to an array
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{

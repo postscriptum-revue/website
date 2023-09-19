@@ -14,6 +14,13 @@ return [
 		'icon'        => null,
 		'placeholder' => null,
 		'required'    => null,
-		'translate'   => null
+		'translate'   => null,
+
+		/**
+		 * If `false`, the prepended number will be hidden
+		 */
+		'numbered' => function (bool $numbered = true) {
+			return $numbered;
+		}
 	]
 ];

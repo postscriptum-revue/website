@@ -17,12 +17,15 @@ use Kirby\Exception\InvalidArgumentException;
  */
 trait AppCaches
 {
-	protected array $caches = [];
+	protected $caches = [];
 
 	/**
 	 * Returns a cache instance by key
+	 *
+	 * @param string $key
+	 * @return \Kirby\Cache\Cache
 	 */
-	public function cache(string $key): Cache
+	public function cache(string $key)
 	{
 		if (isset($this->caches[$key]) === true) {
 			return $this->caches[$key];
@@ -64,6 +67,9 @@ trait AppCaches
 
 	/**
 	 * Returns the cache options by key
+	 *
+	 * @param string $key
+	 * @return array
 	 */
 	protected function cacheOptions(string $key): array
 	{
@@ -100,6 +106,9 @@ trait AppCaches
 	 * Takes care of converting prefixed plugin cache setups
 	 * to the right cache key, while leaving regular cache
 	 * setups untouched.
+	 *
+	 * @param string $key
+	 * @return string
 	 */
 	protected function cacheOptionsKey(string $key): string
 	{

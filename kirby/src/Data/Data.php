@@ -38,11 +38,11 @@ class Data
 	 * All registered handlers
 	 */
 	public static array $handlers = [
-		'json' => Json::class,
-		'php'  => PHP::class,
-		'txt'  => Txt::class,
-		'xml'  => Xml::class,
-		'yaml' => Yaml::class
+		'json' => 'Kirby\Data\Json',
+		'php'  => 'Kirby\Data\PHP',
+		'txt'  => 'Kirby\Data\Txt',
+		'xml'  => 'Kirby\Data\Xml',
+		'yaml' => 'Kirby\Data\Yaml',
 	];
 
 	/**
@@ -54,11 +54,10 @@ class Data
 		$type = strtolower($type);
 
 		// find a handler or alias
-		$handler = static::$handlers[$type] ?? null;
-
-		if ($alias = static::$aliases[$type] ?? null) {
-			$handler ??= static::$handlers[$alias] ?? null;
-		}
+		$alias   = static::$aliases[$type] ?? null;
+		$handler =
+			static::$handlers[$type] ??
+			($alias ? static::$handlers[$alias] ?? null : null);
 
 		if ($handler === null || class_exists($handler) === false) {
 			throw new Exception('Missing handler for type: "' . $type . '"');
@@ -96,9 +95,7 @@ class Data
 	 */
 	public static function read(string $file, string|null $type = null): array
 	{
-		$type  ??= F::extension($file);
-		$handler = static::handler($type);
-		return $handler->read($file);
+		return static::handler($type ?? F::extension($file))->read($file);
 	}
 
 	/**
@@ -111,8 +108,6 @@ class Data
 		$data = [],
 		string|null $type = null
 	): bool {
-		$type  ??= F::extension($file);
-		$handler = static::handler($type);
-		return $handler->write($file, $data);
+		return static::handler($type ?? F::extension($file))->write($file, $data);
 	}
 }

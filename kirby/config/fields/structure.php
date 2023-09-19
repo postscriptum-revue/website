@@ -1,11 +1,8 @@
 <?php
 
 use Kirby\Data\Data;
-use Kirby\Exception\InvalidArgumentException;
 use Kirby\Form\Form;
-use Kirby\Toolkit\A;
 use Kirby\Toolkit\I18n;
-use Kirby\Toolkit\Str;
 
 return [
 	'mixins' => ['min'],
@@ -52,7 +49,7 @@ return [
 		/**
 		 * Fields setup for the structure form. Works just like fields in regular forms.
 		 */
-		'fields' => function (array $fields = []) {
+		'fields' => function (array $fields) {
 			return $fields;
 		},
 		/**
@@ -102,54 +99,57 @@ return [
 		},
 		'fields' => function () {
 			if (empty($this->fields) === true) {
-				return [];
+				throw new Exception('Please provide some fields for the structure');
 			}
 
 			return $this->form()->fields()->toArray();
 		},
 		'columns' => function () {
-			$columns   = [];
-			$blueprint = $this->columns;
+			$columns = [];
+			$mobile  = 0;
 
-			// if no custom columns have been defined,
-			// gather all fields as columns
-			if (empty($blueprint) === true) {
-				// skip hidden fields
-				$fields    = array_filter(
-					$this->fields,
-					fn ($field) =>
-						$field['type'] !== 'hidden' && $field['hidden'] !== true
-				);
-				$fields    = array_column($fields, 'name');
-				$blueprint = array_fill_keys($fields, true);
-			}
+			if (empty($this->columns) === true) {
+				foreach ($this->fields as $field) {
+					// Skip hidden and unsaveable fields
+					// They should never be included as column
+					if ($field['type'] === 'hidden' || $field['saveable'] === false) {
+						continue;
+					}
 
-			foreach ($blueprint as $name => $column) {
-				$field = $this->fields[$name] ?? null;
-
-				// Skip empty and unsaveable fields
-				// They should never be included as column
-				if (
-					empty($field) === true ||
-					$field['saveable'] === false
-				) {
-					continue;
+					$columns[$field['name']] = [
+						'type'  => $field['type'],
+						'label' => $field['label'] ?? $field['name']
+					];
 				}
+			} else {
+				foreach ($this->columns as $columnName => $columnProps) {
+					if (is_array($columnProps) === false) {
+						$columnProps = [];
+					}
 
-				if (is_array($column) === false) {
-					$column = [];
+					$field = $this->fields[$columnName] ?? null;
+
+					if (
+						empty($field) === true ||
+						$field['saveable'] === false
+					) {
+						continue;
+					}
+
+					if (($columnProps['mobile'] ?? false) === true) {
+						$mobile++;
+					}
+
+					$columns[$columnName] = array_merge([
+						'type'  => $field['type'],
+						'label' => $field['label'] ?? $field['name']
+					], $columnProps);
 				}
-
-				$column['type']  ??= $field['type'];
-				$column['label'] ??= $field['label'] ?? $name;
-				$column['label']   = I18n::translate($column['label'], $column['label']);
-
-				$columns[$name] = $column;
 			}
 
 			// make the first column visible on mobile
 			// if no other mobile columns are defined
-			if (in_array(true, array_column($columns, 'mobile')) === false) {
+			if ($mobile === 0) {
 				$columns[array_key_first($columns)]['mobile'] = true;
 			}
 
@@ -179,47 +179,28 @@ return [
 			]);
 		},
 	],
+	'api' => function () {
+		return [
+			[
+				'pattern' => 'validate',
+				'method'  => 'ALL',
+				'action'  => function () {
+					return array_values($this->field()->form($this->requestBody())->errors());
+				}
+			]
+		];
+	},
 	'save' => function ($value) {
 		$data = [];
 
 		foreach ($value as $row) {
-			$row = $this->form($row)->content();
-
-			// remove frontend helper id
-			unset($row['_id']);
-
-			$data[] = $row;
+			$data[] = $this->form($row)->content();
 		}
 
 		return $data;
 	},
 	'validations' => [
 		'min',
-		'max',
-		'structure' => function ($value) {
-			if (empty($value) === true) {
-				return true;
-			}
-
-			$values = A::wrap($value);
-
-			foreach ($values as $index => $value) {
-				$form = $this->form($value);
-
-				foreach ($form->fields() as $field) {
-					$errors = $field->errors();
-
-					if (empty($errors) === false) {
-						throw new InvalidArgumentException([
-							'key'  => 'structure.validation',
-							'data' => [
-								'field' => $field->label() ?? Str::ucfirst($field->name()),
-								'index' => $index + 1
-							]
-						]);
-					}
-				}
-			}
-		}
+		'max'
 	]
 ];

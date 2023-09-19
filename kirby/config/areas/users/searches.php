@@ -8,22 +8,20 @@ return [
 	'users' => [
 		'label' => I18n::translate('users'),
 		'icon'  => 'users',
-		'query' => function (string $query = null, int $limit, int $page) {
-			$kirby = App::instance();
-			$users = $kirby->users()
-				->search($query)
-				->paginate($limit, $page);
+		'query' => function (string $query = null) {
+			$users   = App::instance()->users()->search($query)->limit(10);
+			$results = [];
 
-			return [
-				'results' => $users->values(fn ($user) => [
+			foreach ($users as $user) {
+				$results[] = [
 					'image' => $user->panel()->image(),
 					'text'  => Escape::html($user->username()),
 					'link'  => $user->panel()->url(true),
-					'info'  => Escape::html($user->role()->title()),
-					'uuid'  => $user->uuid()->toString(),
-				]),
-				'pagination' => $users->pagination()->toArray()
-			];
+					'info'  => Escape::html($user->role()->title())
+				];
+			}
+
+			return $results;
 		}
 	]
 ];

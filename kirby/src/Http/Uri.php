@@ -4,6 +4,7 @@ namespace Kirby\Http;
 
 use Kirby\Cms\App;
 use Kirby\Exception\InvalidArgumentException;
+use Kirby\Toolkit\Properties;
 use SensitiveParameter;
 use Throwable;
 
@@ -18,6 +19,8 @@ use Throwable;
  */
 class Uri
 {
+	use Properties;
+
 	/**
 	 * Cache for the current Uri object
 	 */
@@ -26,32 +29,32 @@ class Uri
 	/**
 	 * The fragment after the hash
 	 */
-	protected string|false|null $fragment;
+	protected string|false|null $fragment = null;
 
 	/**
 	 * The host address
 	 */
-	protected string|null $host;
+	protected string|null $host = null;
 
 	/**
 	 * The optional password for basic authentication
 	 */
-	protected string|false|null $password;
+	protected string|false|null $password = null;
 
 	/**
 	 * The optional list of params
 	 */
-	protected Params $params;
+	protected Params|null $params = null;
 
 	/**
 	 * The optional path
 	 */
-	protected Path $path;
+	protected Path|null $path = null;
 
 	/**
 	 * The optional port number
 	 */
-	protected int|false|null $port;
+	protected int|false|null $port = null;
 
 	/**
 	 * All original properties
@@ -61,24 +64,43 @@ class Uri
 	/**
 	 * The optional query string without leading ?
 	 */
-	protected Query $query;
+	protected Query|null $query = null;
 
 	/**
 	 * https or http
 	 */
-	protected string|null $scheme;
+	protected string|null $scheme = 'http';
 
 	/**
 	 * Supported schemes
 	 */
 	protected static array $schemes = ['http', 'https', 'ftp'];
 
-	protected bool $slash;
+	protected bool $slash = false;
 
 	/**
 	 * The optional username for basic authentication
 	 */
 	protected string|false|null $username = null;
+
+	/**
+	 * Magic caller to access all properties
+	 */
+	public function __call(string $property, array $arguments = [])
+	{
+		return $this->$property ?? null;
+	}
+
+	/**
+	 * Make sure that cloning also clones
+	 * the path and query objects
+	 */
+	public function __clone()
+	{
+		$this->path   = clone $this->path;
+		$this->query  = clone $this->query;
+		$this->params = clone $this->params;
+	}
 
 	/**
 	 * Creates a new URI object
@@ -100,36 +122,7 @@ class Uri
 			$props = static::parsePath($props);
 		}
 
-		$this->props = $props;
-		$this->setFragment($props['fragment'] ?? null);
-		$this->setHost($props['host'] ?? null);
-		$this->setParams($props['params'] ?? null);
-		$this->setPassword($props['password'] ?? null);
-		$this->setPath($props['path'] ?? null);
-		$this->setPort($props['port'] ?? null);
-		$this->setQuery($props['query'] ?? null);
-		$this->setScheme($props['scheme'] ?? 'http');
-		$this->setSlash($props['slash'] ?? false);
-		$this->setUsername($props['username'] ?? null);
-	}
-
-	/**
-	 * Magic caller to access all properties
-	 */
-	public function __call(string $property, array $arguments = [])
-	{
-		return $this->$property ?? null;
-	}
-
-	/**
-	 * Make sure that cloning also clones
-	 * the path and query objects
-	 */
-	public function __clone()
-	{
-		$this->path   = clone $this->path;
-		$this->query  = clone $this->query;
-		$this->params = clone $this->params;
+		$this->setProperties($this->props = $props);
 	}
 
 	/**
@@ -423,7 +416,7 @@ class Uri
 	{
 		$array = [];
 
-		foreach ($this->props as $key => $value) {
+		foreach ($this->propertyData as $key => $value) {
 			$value = $this->$key;
 
 			if (is_object($value) === true) {

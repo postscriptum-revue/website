@@ -38,13 +38,9 @@ class Url
 	 * Url Builder
 	 * Actually just a factory for `new Uri($parts)`
 	 */
-	public static function build(
-		array $parts = [],
-		string|null $url = null
-	): string {
-		$url ??= static::current();
-		$uri   = new Uri($url);
-		return $uri->clone($parts)->toString();
+	public static function build(array $parts = [], string|null $url = null): string
+	{
+		return (string)(new Uri($url ?? static::current()))->clone($parts);
 	}
 
 	/**
@@ -143,9 +139,7 @@ class Url
 		bool $leadingSlash = false,
 		bool $trailingSlash = false
 	): string {
-		return Url::toObject($url)
-			->path()
-			->toString($leadingSlash, $trailingSlash);
+		return Url::toObject($url)->path()->toString($leadingSlash, $trailingSlash);
 	}
 
 	/**
@@ -218,10 +212,8 @@ class Url
 	/**
 	 * Smart resolver for internal and external urls
 	 */
-	public static function to(
-		string|null $path = null,
-		array $options = null
-	): string {
+	public static function to(string|null $path = null, array $options = null): string
+	{
 		// make sure $path is string
 		$path ??= '';
 

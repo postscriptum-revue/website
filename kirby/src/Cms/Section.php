@@ -18,15 +18,24 @@ class Section extends Component
 {
 	/**
 	 * Registry for all component mixins
+	 *
+	 * @var array
 	 */
-	public static array $mixins = [];
+	public static $mixins = [];
 
 	/**
 	 * Registry for all component types
+	 *
+	 * @var array
 	 */
-	public static array $types = [];
+	public static $types = [];
+
 
 	/**
+	 * Section constructor.
+	 *
+	 * @param string $type
+	 * @param array $attrs
 	 * @throws \Kirby\Exception\InvalidArgumentException
 	 */
 	public function __construct(string $type, array $attrs = [])
@@ -35,7 +44,7 @@ class Section extends Component
 			throw new InvalidArgumentException('Undefined section model');
 		}
 
-		if ($attrs['model'] instanceof ModelWithContent === false) {
+		if ($attrs['model'] instanceof Model === false) {
 			throw new InvalidArgumentException('Invalid section model');
 		}
 
@@ -55,16 +64,25 @@ class Section extends Component
 		return $this->errors ?? [];
 	}
 
-	public function kirby(): App
+	/**
+	 * @return \Kirby\Cms\App
+	 */
+	public function kirby()
 	{
 		return $this->model()->kirby();
 	}
 
-	public function model(): ModelWithContent
+	/**
+	 * @return \Kirby\Cms\Model
+	 */
+	public function model()
 	{
 		return $this->model;
 	}
 
+	/**
+	 * @return array
+	 */
 	public function toArray(): array
 	{
 		$array = parent::toArray();
@@ -74,6 +92,9 @@ class Section extends Component
 		return $array;
 	}
 
+	/**
+	 * @return array
+	 */
 	public function toResponse(): array
 	{
 		return array_merge([

@@ -3,8 +3,7 @@
 namespace Kirby\Cms;
 
 use Closure;
-use Kirby\Content\Field;
-use Kirby\Exception\InvalidArgumentException;
+use Exception;
 
 /**
  * A collection of items
@@ -24,16 +23,27 @@ class Items extends Collection
 
 	/**
 	 * All registered items methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 
-	protected array $options;
+	/**
+	 * @var array
+	 */
+	protected $options;
 
 	/**
 	 * @var \Kirby\Cms\ModelWithContent
 	 */
 	protected $parent;
 
+	/**
+	 * Constructor
+	 *
+	 * @param array $objects
+	 * @param array $options
+	 */
 	public function __construct($objects = [], array $options = [])
 	{
 		$this->options = $options;
@@ -46,36 +56,41 @@ class Items extends Collection
 	/**
 	 * Creates a new item collection from a
 	 * an array of item props
+	 *
+	 * @param array $items
+	 * @param array $params
+	 * @return \Kirby\Cms\Items
 	 */
-	public static function factory(
-		array $items = null,
-		array $params = []
-	): static {
+	public static function factory(array $items = null, array $params = [])
+	{
+		$options = array_merge([
+			'field'   => null,
+			'options' => [],
+			'parent'  => App::instance()->site(),
+		], $params);
+
 		if (empty($items) === true || is_array($items) === false) {
 			return new static();
 		}
 
-		if (is_array($params) === false) {
-			throw new InvalidArgumentException('Invalid item options');
+		if (is_array($options) === false) {
+			throw new Exception('Invalid item options');
 		}
 
 		// create a new collection of blocks
-		$collection = new static([], $params);
+		$collection = new static([], $options);
 
-		foreach ($items as $item) {
-			if (is_array($item) === false) {
-				throw new InvalidArgumentException('Invalid data for ' . static::ITEM_CLASS);
+		foreach ($items as $params) {
+			if (is_array($params) === false) {
+				continue;
 			}
 
-			// inject properties from the parent
-			$item['field']    = $collection->field();
-			$item['options']  = $params['options'] ?? [];
-			$item['parent']   = $collection->parent();
-			$item['siblings'] = $collection;
-			$item['params']   = $item;
-
+			$params['field']    = $options['field'];
+			$params['options']  = $options['options'];
+			$params['parent']   = $options['parent'];
+			$params['siblings'] = $collection;
 			$class = static::ITEM_CLASS;
-			$item  = $class::factory($item);
+			$item  = $class::factory($params);
 			$collection->append($item->id(), $item);
 		}
 
@@ -92,6 +107,8 @@ class Items extends Collection
 
 	/**
 	 * Convert the items to an array
+	 *
+	 * @return array
 	 */
 	public function toArray(Closure $map = null): array
 	{

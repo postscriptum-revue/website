@@ -21,7 +21,9 @@ class Fields extends Collection
 	 * This takes care of validation and of setting
 	 * the collection prop on each object correctly.
 	 *
+	 * @param string $name
 	 * @param object|array $field
+	 * @return void
 	 */
 	public function __set(string $name, $field): void
 	{
@@ -38,6 +40,9 @@ class Fields extends Collection
 	 * Converts the fields collection to an
 	 * array and also does that for every
 	 * included field.
+	 *
+	 * @param \Closure|null $map
+	 * @return array
 	 */
 	public function toArray(Closure $map = null): array
 	{

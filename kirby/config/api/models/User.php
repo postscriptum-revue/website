@@ -27,7 +27,7 @@ return [
 		'username'    => fn (User $user) => $user->username(),
 		'uuid'        => fn (User $user) => $user->uuid()?->toString()
 	],
-	'type'  => User::class,
+	'type'  => 'Kirby\Cms\User',
 	'views' => [
 		'default' => [
 			'avatar',

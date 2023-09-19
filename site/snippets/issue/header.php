@@ -1,6 +1,6 @@
 <header class="issue-header">
 	<figure class="issue-header__cover">
-		<img class="issue-header__cover-image" src="<?= $page->cover()->toFile()->url() ?>" alt="<?= $page->cover()->toFile()->alt_text() ?>">
+		<img class="issue-header__cover-image" src="<?= ($img_cover = $page->cover()->toFile()->url()) ? $img_cover : '' ?>" alt="<?= ($alt_text = $page->cover()->toFile()->alt_text()) -> isNotEmpty() ? $alt_text : '' ?>">
 		<figcaption><!-- TODO: Add figcaption field --></figcaption>
 	</figure>
 	<div class="issue-header__card-wrapper">

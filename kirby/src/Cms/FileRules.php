@@ -4,7 +4,6 @@ namespace Kirby\Cms;
 
 use Kirby\Exception\DuplicateException;
 use Kirby\Exception\InvalidArgumentException;
-use Kirby\Exception\LogicException;
 use Kirby\Exception\PermissionException;
 use Kirby\Filesystem\File as BaseFile;
 use Kirby\Toolkit\Str;
@@ -24,6 +23,9 @@ class FileRules
 	/**
 	 * Validates if the filename can be changed
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param string $name
+	 * @return bool
 	 * @throws \Kirby\Exception\DuplicateException If a file with this name exists
 	 * @throws \Kirby\Exception\PermissionException If the user is not allowed to rename the file
 	 */
@@ -57,6 +59,10 @@ class FileRules
 
 	/**
 	 * Validates if the file can be sorted
+	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param int $sort
+	 * @return bool
 	 */
 	public static function changeSort(File $file, int $sort): bool
 	{
@@ -64,44 +70,11 @@ class FileRules
 	}
 
 	/**
-	 * Validates if the template of the file can be changed
-	 *
-	 * @throws \Kirby\Exception\LogicException If the template of the page cannot be changed at all
-	 * @throws \Kirby\Exception\PermissionException If the user is not allowed to change the template
-	 */
-	public static function changeTemplate(File $file, string $template): bool
-	{
-		if ($file->permissions()->changeTemplate() !== true) {
-			throw new PermissionException([
-				'key'  => 'file.changeTemplate.permission',
-				'data' => ['id' => $file->id()]
-			]);
-		}
-
-		$blueprints = $file->blueprints();
-
-		// ensure that the $template is a valid blueprint
-		// option for this file
-		if (
-			count($blueprints) <= 1 ||
-			in_array($template, array_column($blueprints, 'name')) === false
-		) {
-			throw new LogicException([
-				'key'  => 'file.changeTemplate.invalid',
-				'data' => [
-					'id' 		 => $file->id(),
-					'template'   => $template,
-					'blueprints' => implode(', ', array_column($blueprints, 'name'))
-				]
-			]);
-		}
-
-		return true;
-	}
-
-	/**
 	 * Validates if the file can be created
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param \Kirby\Filesystem\File $upload
+	 * @return bool
 	 * @throws \Kirby\Exception\DuplicateException If a file with the same name exists
 	 * @throws \Kirby\Exception\PermissionException If the user is not allowed to create the file
 	 */
@@ -148,6 +121,8 @@ class FileRules
 	/**
 	 * Validates if the file can be deleted
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @return bool
 	 * @throws \Kirby\Exception\PermissionException If the user is not allowed to delete the file
 	 */
 	public static function delete(File $file): bool
@@ -162,6 +137,9 @@ class FileRules
 	/**
 	 * Validates if the file can be replaced
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param \Kirby\Filesystem\File $upload
+	 * @return bool
 	 * @throws \Kirby\Exception\PermissionException If the user is not allowed to replace the file
 	 * @throws \Kirby\Exception\InvalidArgumentException If the file type of the new file is different
 	 */
@@ -192,6 +170,9 @@ class FileRules
 	/**
 	 * Validates if the file can be updated
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param array $content
+	 * @return bool
 	 * @throws \Kirby\Exception\PermissionException If the user is not allowed to update the file
 	 */
 	public static function update(File $file, array $content = []): bool
@@ -206,6 +187,9 @@ class FileRules
 	/**
 	 * Validates the file extension
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param string $extension
+	 * @return bool
 	 * @throws \Kirby\Exception\InvalidArgumentException If the extension is missing or forbidden
 	 */
 	public static function validExtension(File $file, string $extension): bool
@@ -251,19 +235,20 @@ class FileRules
 	/**
 	 * Validates the extension, MIME type and filename
 	 *
-	 * @param $mime If not passed, the MIME type is detected from the file,
-	 *              if `false`, the MIME type is not validated for performance reasons
+	 * @param \Kirby\Cms\File $file
+	 * @param string|null|false $mime If not passed, the MIME type is detected from the file,
+	 *                                if `false`, the MIME type is not validated for performance reasons
+	 * @return bool
 	 * @throws \Kirby\Exception\InvalidArgumentException If the extension, MIME type or filename is missing or forbidden
 	 */
-	public static function validFile(
-		File $file,
-		string|false|null $mime = null
-	): bool {
-		$validMime = match ($mime) {
+	public static function validFile(File $file, $mime = null): bool
+	{
+		if ($mime === false) {
 			// request to skip the MIME check for performance reasons
-			false   => true,
-			default => static::validMime($file, $mime ?? $file->mime())
-		};
+			$validMime = true;
+		} else {
+			$validMime = static::validMime($file, $mime ?? $file->mime());
+		}
 
 		return
 			$validMime &&
@@ -274,6 +259,9 @@ class FileRules
 	/**
 	 * Validates the filename
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param string $filename
+	 * @return bool
 	 * @throws \Kirby\Exception\InvalidArgumentException If the filename is missing or forbidden
 	 */
 	public static function validFilename(File $file, string $filename): bool
@@ -310,6 +298,9 @@ class FileRules
 	/**
 	 * Validates the MIME type
 	 *
+	 * @param \Kirby\Cms\File $file
+	 * @param string|null $mime
+	 * @return bool
 	 * @throws \Kirby\Exception\InvalidArgumentException If the MIME type is missing or forbidden
 	 */
 	public static function validMime(File $file, string $mime = null): bool

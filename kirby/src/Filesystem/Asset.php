@@ -27,19 +27,18 @@ class Asset
 	/**
 	 * Relative file path
 	 */
-	protected string|null $path;
-
+	protected string|null $path = null;
 
 	/**
 	 * Creates a new Asset object for the given path.
 	 */
 	public function __construct(string $path)
 	{
-		$this->root = $this->kirby()->root('index') . '/' . $path;
-		$this->url  = $this->kirby()->url('base') . '/' . $path;
-
-		$path = dirname($path);
-		$this->path = $path === '.' ? '' : $path;
+		$this->setProperties([
+			'path' => dirname($path),
+			'root' => $this->kirby()->root('index') . '/' . $path,
+			'url'  => $this->kirby()->url('base') . '/' . $path
+		]);
 	}
 
 	/**
@@ -47,7 +46,7 @@ class Asset
 	 *
 	 * @throws \Kirby\Exception\BadMethodCallException
 	 */
-	public function __call(string $method, array $arguments = []): mixed
+	public function __call(string $method, array $arguments = [])
 	{
 		// public property access
 		if (isset($this->$method) === true) {
@@ -114,5 +113,16 @@ class Asset
 	public function path(): string
 	{
 		return $this->path;
+	}
+
+	/**
+	 * Setter for the path
+	 *
+	 * @return $this
+	 */
+	protected function setPath(string $path): static
+	{
+		$this->path = $path === '.' ? '' : $path;
+		return $this;
 	}
 }

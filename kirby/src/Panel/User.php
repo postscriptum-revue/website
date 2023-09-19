@@ -3,7 +3,6 @@
 namespace Kirby\Panel;
 
 use Kirby\Cms\File as CmsFile;
-use Kirby\Cms\ModelWithContent;
 use Kirby\Cms\Translation;
 use Kirby\Cms\Url;
 use Kirby\Filesystem\Asset;
@@ -21,11 +20,6 @@ use Kirby\Toolkit\I18n;
  */
 class User extends Model
 {
-	/**
-	 * @var \Kirby\Cms\User
-	 */
-	protected ModelWithContent $model;
-
 	/**
 	 * Breadcrumb array
 	 */
@@ -82,7 +76,7 @@ class User extends Model
 
 		$result[] = [
 			'dialog'   => $url . '/changeLanguage',
-			'icon'     => 'translate',
+			'icon'     => 'globe',
 			'text'     => I18n::translate('user.changeLanguage'),
 			'disabled' => $this->isDisabledDropdownOption('changeLanguage', $options, $permissions)
 		];
@@ -200,6 +194,7 @@ class User extends Model
 	{
 		$user    = $this->model;
 		$account = $user->isLoggedIn();
+		$avatar  = $user->avatar();
 
 		return array_merge(
 			parent::props(),
@@ -208,7 +203,7 @@ class User extends Model
 				'blueprint' => $this->model->role()->name(),
 				'model' => [
 					'account'  => $account,
-					'avatar'   => $user->avatar()?->url(),
+					'avatar'   => $avatar ? $avatar->url() : null,
 					'content'  => $this->content(),
 					'email'    => $user->email(),
 					'id'       => $user->id(),

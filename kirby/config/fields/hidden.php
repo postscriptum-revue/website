@@ -1,5 +1,3 @@
 <?php
 
-return [
-	'hidden' => true
-];
+return [];

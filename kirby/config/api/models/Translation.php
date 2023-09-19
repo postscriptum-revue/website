@@ -13,7 +13,7 @@ return [
 		'id'        => fn (Translation $translation) => $translation->id(),
 		'name'      => fn (Translation $translation) => $translation->name(),
 	],
-	'type'  => Translation::class,
+	'type'  => 'Kirby\Cms\Translation',
 	'views' => [
 		'compact' => [
 			'direction',

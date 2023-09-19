@@ -14,21 +14,19 @@ use Throwable;
 
 class LayoutField extends BlocksField
 {
-	protected array|null $layouts;
-	protected array|null $selector;
-	protected Fieldset|null $settings;
+	protected $layouts;
+	protected $settings;
 
 	public function __construct(array $params)
 	{
 		$this->setModel($params['model'] ?? App::instance()->site());
 		$this->setLayouts($params['layouts'] ?? ['1/1']);
-		$this->setSelector($params['selector'] ?? null);
 		$this->setSettings($params['settings'] ?? null);
 
 		parent::__construct($params);
 	}
 
-	public function fill(mixed $value = null): void
+	public function fill($value = null)
 	{
 		$value   = $this->valueFromJson($value);
 		$layouts = Layouts::factory($value, ['parent' => $this->model])->toArray();
@@ -46,7 +44,7 @@ class LayoutField extends BlocksField
 		$this->value = $layouts;
 	}
 
-	public function attrsForm(array $input = []): Form
+	public function attrsForm(array $input = [])
 	{
 		$settings = $this->settings();
 
@@ -63,71 +61,13 @@ class LayoutField extends BlocksField
 		return $this->layouts;
 	}
 
-	/**
-	 * Creates form values for each layout
-	 */
-	public function layoutsToValues(array $layouts): array
-	{
-		foreach ($layouts as &$layout) {
-			$layout['id'] 	   ??= Str::uuid();
-			$layout['columns'] ??= [];
-
-			array_walk($layout['columns'], function (&$column) {
-				$column['id']   ??= Str::uuid();
-				$column['blocks'] = $this->blocksToValues($column['blocks'] ?? []);
-			});
-		}
-
-		return $layouts;
-	}
-
-	/**
-	 * Paste action for layouts:
-	 *  - generates new uuids for layout, column and blocks
-	 *  - filters only supported layouts
-	 *  - filters only supported fieldsets
-	 */
-	public function pasteLayouts(array $layouts): array
-	{
-		$layouts = $this->layoutsToValues($layouts);
-
-		foreach ($layouts as $layoutIndex => &$layout) {
-			$layout['id'] = Str::uuid();
-
-			// remove the row if layout not available for the pasted layout field
-			$columns = array_column($layout['columns'], 'width');
-			if (in_array($columns, $this->layouts()) === false) {
-				unset($layouts[$layoutIndex]);
-				continue;
-			}
-
-			array_walk($layout['columns'], function (&$column) {
-				$column['id'] = Str::uuid();
-
-				array_walk($column['blocks'], function (&$block, $index) use ($column) {
-					$block['id'] = Str::uuid();
-
-					// remove the block if it's not available
-					try {
-						$this->fieldset($block['type']);
-					} catch (Throwable) {
-						unset($column['blocks'][$index]);
-					}
-				});
-			});
-		}
-
-		return $layouts;
-	}
-
 	public function props(): array
 	{
 		$settings = $this->settings();
 
 		return array_merge(parent::props(), [
-			'layouts'  => $this->layouts(),
-			'selector' => $this->selector(),
-			'settings' => $settings?->toArray()
+			'settings' => $settings?->toArray(),
+			'layouts'  => $this->layouts()
 		]);
 	}
 
@@ -135,11 +75,10 @@ class LayoutField extends BlocksField
 	{
 		$field  = $this;
 		$routes = parent::routes();
-
 		$routes[] = [
 			'pattern' => 'layout',
 			'method'  => 'POST',
-			'action'  => function () use ($field): array {
+			'action'  => function () use ($field) {
 				$request = App::instance()->request();
 
 				$defaults = $field->attrsForm([])->data(true);
@@ -158,52 +97,25 @@ class LayoutField extends BlocksField
 		];
 
 		$routes[] = [
-			'pattern' => 'layout/paste',
-			'method'  => 'POST',
-			'action'  => function () use ($field): array {
-				$request = App::instance()->request();
-				$value   = Layouts::parse($request->get('json'));
-				$layouts = Layouts::factory($value);
-
-				return $field->pasteLayouts($layouts->toArray());
-			}
-		];
-
-		$routes[] = [
 			'pattern' => 'fields/(:any)/(:all?)',
 			'method'  => 'ALL',
-			'action'  => function (
-				string $fieldName,
-				string $path = null
-			) use ($field): array {
+			'action'  => function (string $fieldName, string $path = null) use ($field) {
 				$form  = $field->attrsForm();
 				$field = $form->field($fieldName);
 
 				$fieldApi = $this->clone([
 					'routes' => $field->api(),
-					'data'   => array_merge(
-						$this->data(),
-						['field' => $field]
-					)
+					'data'   => array_merge($this->data(), ['field' => $field])
 				]);
 
-				return $fieldApi->call(
-					$path,
-					$this->requestMethod(),
-					$this->requestData()
-				);
+				return $fieldApi->call($path, $this->requestMethod(), $this->requestData());
 			}
 		];
 
 		return $routes;
 	}
 
-	public function selector(): array|null
-	{
-		return $this->selector;
-	}
-
-	protected function setDefault(mixed $default = null): void
+	protected function setDefault($default = null)
 	{
 		// set id for layouts, columns and blocks within layout if not exists
 		if (is_array($default) === true) {
@@ -229,7 +141,7 @@ class LayoutField extends BlocksField
 		parent::setDefault($default);
 	}
 
-	protected function setLayouts(array $layouts = []): void
+	protected function setLayouts(array $layouts = [])
 	{
 		$this->layouts = array_map(
 			fn ($layout) => Str::split($layout),
@@ -237,15 +149,7 @@ class LayoutField extends BlocksField
 		);
 	}
 
-	/**
-	 * Layout selector's styles such as size (`small`, `medium`, `large` or `huge`) and columns
-	 */
-	protected function setSelector(array|null $selector = null): void
-	{
-		$this->selector = $selector;
-	}
-
-	protected function setSettings(array|string|null $settings = null): void
+	protected function setSettings($settings = null)
 	{
 		if (empty($settings) === true) {
 			$this->settings = null;
@@ -261,12 +165,12 @@ class LayoutField extends BlocksField
 		$this->settings = Fieldset::factory($settings);
 	}
 
-	public function settings(): Fieldset|null
+	public function settings()
 	{
 		return $this->settings;
 	}
 
-	public function store(mixed $value): mixed
+	public function store($value)
 	{
 		$value = Layouts::factory($value, ['parent' => $this->model])->toArray();
 
@@ -300,9 +204,7 @@ class LayoutField extends BlocksField
 					$layoutIndex++;
 
 					// validate settings form
-					$form = $this->attrsForm($layout['attrs'] ?? []);
-
-					foreach ($form->fields() as $field) {
+					foreach ($this->attrsForm($layout['attrs'] ?? [])->fields() as $field) {
 						$errors = $field->errors();
 
 						if (empty($errors) === false) {
@@ -335,9 +237,7 @@ class LayoutField extends BlocksField
 							$fields[$blockType] = $blockFields;
 
 							// overwrite the content with the serialized form
-							$form = $this->form($blockFields, $block['content']);
-
-							foreach ($form->fields() as $field) {
+							foreach ($this->form($blockFields, $block['content'])->fields() as $field) {
 								$errors = $field->errors();
 
 								// rough first validation

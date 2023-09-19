@@ -49,7 +49,7 @@ return [
 			return null;
 		}
 	],
-	'type'   => System::class,
+	'type'   => 'Kirby\Cms\System',
 	'views'  => [
 		'login' => [
 			'authStatus',

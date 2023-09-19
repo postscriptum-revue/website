@@ -5,6 +5,7 @@ namespace Kirby\Filesystem;
 use Kirby\Cms\App;
 use Kirby\Exception\BadMethodCallException;
 use Kirby\Image\Image;
+use Kirby\Toolkit\Properties;
 
 /**
  * Trait for all objects that represent an asset file.
@@ -21,6 +22,8 @@ use Kirby\Image\Image;
  */
 trait IsFile
 {
+	use Properties;
+
 	/**
 	 * File asset object
 	 */
@@ -29,20 +32,19 @@ trait IsFile
 	/**
 	 * Absolute file path
 	 */
-	protected string|null $root;
+	protected string|null $root = null;
 
 	/**
 	 * Absolute file URL
 	 */
-	protected string|null $url;
+	protected string|null $url = null;
 
 	/**
 	 * Constructor sets all file properties
 	 */
 	public function __construct(array $props)
 	{
-		$this->root = $props['root'] ?? null;
-		$this->url  = $props['url'] ?? null;
+		$this->setProperties($props);
 	}
 
 	/**
@@ -50,7 +52,7 @@ trait IsFile
 	 *
 	 * @throws \Kirby\Exception\BadMethodCallException
 	 */
-	public function __call(string $method, array $arguments = []): mixed
+	public function __call(string $method, array $arguments = [])
 	{
 		// public property access
 		if (isset($this->$method) === true) {
@@ -132,6 +134,28 @@ trait IsFile
 	public function root(): string|null
 	{
 		return $this->root;
+	}
+
+	/**
+	 * Setter for the root
+	 *
+	 * @return $this
+	 */
+	protected function setRoot(string|null $root = null): static
+	{
+		$this->root = $root;
+		return $this;
+	}
+
+	/**
+	 * Setter for the file url
+	 *
+	 * @return $this
+	 */
+	protected function setUrl(string|null $url = null): static
+	{
+		$this->url = $url;
+		return $this;
 	}
 
 	/**

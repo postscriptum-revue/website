@@ -25,9 +25,12 @@ trait FileActions
 	 * Renames the file without touching the extension
 	 * The store is used to actually execute this.
 	 *
+	 * @param string $name
+	 * @param bool $sanitize
+	 * @return $this|static
 	 * @throws \Kirby\Exception\LogicException
 	 */
-	public function changeName(string $name, bool $sanitize = true): static
+	public function changeName(string $name, bool $sanitize = true)
 	{
 		if ($sanitize === true) {
 			$name = F::safeName($name);
@@ -57,11 +60,16 @@ trait FileActions
 			// rename the main file
 			F::move($oldFile->root(), $newFile->root());
 
-			// move the content storage versions
-			foreach ($oldFile->storage()->all() as $version => $lang) {
-				$content = $oldFile->storage()->read($version, $lang);
-				$oldFile->storage()->delete($version, $lang);
-				$newFile->storage()->create($version, $lang, $content);
+			if ($newFile->kirby()->multilang() === true) {
+				foreach ($newFile->translations() as $translation) {
+					$translationCode = $translation->code();
+
+					// rename the content file
+					F::move($oldFile->contentFile($translationCode), $newFile->contentFile($translationCode));
+				}
+			} else {
+				// rename the content file
+				F::move($oldFile->contentFile(), $newFile->contentFile());
 			}
 
 			// update collections
@@ -74,46 +82,17 @@ trait FileActions
 
 	/**
 	 * Changes the file's sorting number in the meta file
+	 *
+	 * @param int $sort
+	 * @return static
 	 */
-	public function changeSort(int $sort): static
+	public function changeSort(int $sort)
 	{
 		return $this->commit(
 			'changeSort',
 			['file' => $this, 'position' => $sort],
 			fn ($file, $sort) => $file->save(['sort' => $sort])
 		);
-	}
-
-	/**
-	 * @return $this|static
-	 */
-	public function changeTemplate(string|null $template): static
-	{
-		if ($template === $this->template()) {
-			return $this;
-		}
-
-		$arguments = [
-			'file'     => $this,
-			'template' => $template ?? 'default'
-		];
-
-		return $this->commit('changeTemplate', $arguments, function ($oldFile, $template) {
-			// convert to new template/blueprint incl. content
-			$file = $oldFile->convertTo($template);
-
-			// update template, prefer unset over writing `default`
-			if ($template === 'default') {
-				$file = $file->update(['template' => null]);
-			} else {
-				$file = $file->update(['template' => $template]);
-			}
-
-			// resize the file if configured by new blueprint
-			$file->manipulate($file->blueprint()->create());
-
-			return $file;
-		});
 	}
 
 	/**
@@ -124,12 +103,14 @@ trait FileActions
 	 * 3. commits the store action
 	 * 4. sends the after hook
 	 * 5. returns the result
+	 *
+	 * @param string $action
+	 * @param array $arguments
+	 * @param Closure $callback
+	 * @return mixed
 	 */
-	protected function commit(
-		string $action,
-		array $arguments,
-		Closure $callback
-	): mixed {
+	protected function commit(string $action, array $arguments, Closure $callback)
+	{
 		$old            = $this->hardcopy();
 		$kirby          = $this->kirby();
 		$argumentValues = array_values($arguments);
@@ -153,19 +134,24 @@ trait FileActions
 
 	/**
 	 * Copy the file to the given page
+	 *
+	 * @param \Kirby\Cms\Page $page
+	 * @return \Kirby\Cms\File
 	 */
-	public function copy(Page $page): static
+	public function copy(Page $page)
 	{
 		F::copy($this->root(), $page->root() . '/' . $this->filename());
-		$copy = $page->clone()->file($this->filename());
 
-		foreach ($this->storage()->all() as $version => $lang) {
-			$content = $this->storage()->read($version, $lang);
-			$copy->storage()->create($version, $lang, $content);
+		if ($this->kirby()->multilang() === true) {
+			foreach ($this->kirby()->languages() as $language) {
+				$contentFile = $this->contentFile($language->code());
+				F::copy($contentFile, $page->root() . '/' . basename($contentFile));
+			}
+		} else {
+			$contentFile = $this->contentFile();
+			F::copy($contentFile, $page->root() . '/' . basename($contentFile));
 		}
 
-		// ensure the content is re-read after copying it
-		// @todo find a more elegant way
 		$copy = $page->clone()->file($this->filename());
 
 		// overwrite with new UUID (remove old, add new)
@@ -182,11 +168,13 @@ trait FileActions
 	 * writing, so it can be replaced by any other
 	 * way of generating files.
 	 *
+	 * @param array $props
 	 * @param bool $move If set to `true`, the source will be deleted
+	 * @return static
 	 * @throws \Kirby\Exception\InvalidArgumentException
 	 * @throws \Kirby\Exception\LogicException
 	 */
-	public static function create(array $props, bool $move = false): static
+	public static function create(array $props, bool $move = false)
 	{
 		if (isset($props['source'], $props['parent']) === false) {
 			throw new InvalidArgumentException('Please provide the "source" and "parent" props for the File');
@@ -230,18 +218,18 @@ trait FileActions
 				throw new LogicException('The file could not be created');
 			}
 
+			// always create pages in the default language
+			if ($file->kirby()->multilang() === true) {
+				$languageCode = $file->kirby()->defaultLanguage()->code();
+			} else {
+				$languageCode = null;
+			}
+
 			// store the content if necessary
-			// (always create files in the default language)
-			$file->save(
-				$file->content()->toArray(),
-				$file->kirby()->defaultLanguage()?->code()
-			);
+			$file->save($file->content()->toArray(), $languageCode);
 
 			// add the file to the list of siblings
 			$file->siblings()->append($file->id(), $file);
-
-			// resize the file on upload if configured
-			$file->manipulate($file->blueprint()->create());
 
 			// return a fresh clone
 			return $file->clone();
@@ -251,6 +239,8 @@ trait FileActions
 	/**
 	 * Deletes the file. The store is used to
 	 * manipulate the filesystem or whatever you prefer.
+	 *
+	 * @return bool
 	 */
 	public function delete(): bool
 	{
@@ -258,8 +248,12 @@ trait FileActions
 			// remove all public versions, lock and clear UUID cache
 			$file->unpublish();
 
-			foreach ($file->storage()->all() as $version => $lang) {
-				$file->storage()->delete($version, $lang);
+			if ($file->kirby()->multilang() === true) {
+				foreach ($file->translations() as $translation) {
+					F::remove($file->contentFile($translation->code()));
+				}
+			} else {
+				F::remove($file->contentFile());
 			}
 
 			F::remove($file->root());
@@ -272,28 +266,12 @@ trait FileActions
 	}
 
 	/**
-	 * Resizes/crops the original file with Kirby's thumb handler
-	 */
-	public function manipulate(array|null $options = []): static
-	{
-		// nothing to process
-		if (empty($options) === true || $this->isResizable() === false) {
-			return $this;
-		}
-
-		$this->kirby()->thumb($this->root(), $this->root(), $options);
-
-		// returns a cloned version of the file
-		return $this->clone();
-	}
-
-	/**
 	 * Move the file to the public media folder
 	 * if it's not already there.
 	 *
 	 * @return $this
 	 */
-	public function publish(): static
+	public function publish()
 	{
 		Media::publish($this, $this->mediaRoot());
 		return $this;
@@ -306,10 +284,12 @@ trait FileActions
 	 * finally decides what it will support as
 	 * source.
 	 *
+	 * @param string $source
 	 * @param bool $move If set to `true`, the source will be deleted
+	 * @return static
 	 * @throws \Kirby\Exception\LogicException
 	 */
-	public function replace(string $source, bool $move = false): static
+	public function replace(string $source, bool $move = false)
 	{
 		$file = $this->clone();
 
@@ -330,9 +310,6 @@ trait FileActions
 				throw new LogicException('The file could not be created');
 			}
 
-			// apply the resizing/crop options from the blueprint
-			$file->manipulate($file->blueprint()->create());
-
 			// return a fresh clone
 			return $file->clone();
 		});
@@ -340,13 +317,15 @@ trait FileActions
 
 	/**
 	 * Stores the content on disk
+	 *
 	 * @internal
+	 * @param array|null $data
+	 * @param string|null $languageCode
+	 * @param bool $overwrite
+	 * @return static
 	 */
-	public function save(
-		array $data = null,
-		string $languageCode = null,
-		bool $overwrite = false
-	): static {
+	public function save(array $data = null, string $languageCode = null, bool $overwrite = false)
+	{
 		$file = parent::save($data, $languageCode, $overwrite);
 
 		// update model in siblings collection
@@ -360,7 +339,7 @@ trait FileActions
 	 *
 	 * @return $this
 	 */
-	public function unpublish(bool $onlyMedia = false): static
+	public function unpublish(bool $onlyMedia = false)
 	{
 		// unpublish media files
 		Media::unpublish($this->parent()->mediaRoot(), $this);
@@ -374,24 +353,5 @@ trait FileActions
 		}
 
 		return $this;
-	}
-
-	/**
-	 * Updates the file's data and ensures that
-	 * media files get wiped if `focus` changed
-	 *
-	 * @throws \Kirby\Exception\InvalidArgumentException If the input array contains invalid values
-	 */
-	public function update(
-		array $input = null,
-		string $languageCode = null,
-		bool $validate = false
-	): static {
-		// delete all public media versions when focus field gets changed
-		if ($input !== null && array_key_exists('focus', $input) === true) {
-			$this->unpublish(true);
-		}
-
-		return parent::update($input, $languageCode, $validate);
 	}
 }

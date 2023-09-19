@@ -32,7 +32,6 @@ use Throwable;
 class System
 {
 	// cache
-	protected array|bool|null $license = null;
 	protected UpdateStatus|null $updateStatus = null;
 
 	public function __construct(protected App $app)
@@ -80,10 +79,7 @@ class System
 
 		switch ($folder) {
 			case 'content':
-				return $url . '/' . basename($this->app->site()->storage()->contentFile(
-					'published',
-					'default'
-				));
+				return $url . '/' . basename($this->app->site()->contentFile());
 			case 'git':
 				return $url . '/config';
 			case 'kirby':
@@ -249,16 +245,12 @@ class System
 	 *                     permissions for access.settings, otherwise just a
 	 *                     boolean that tells whether a valid license is active
 	 */
-	public function license(): string|bool
+	public function license()
 	{
-		if ($this->license !== null) {
-			return $this->license;
-		}
-
 		try {
 			$license = Json::read($this->app->root('license'));
 		} catch (Throwable) {
-			return $this->license = false;
+			return false;
 		}
 
 		// check for all required fields for the validation
@@ -270,7 +262,7 @@ class System
 			$license['domain'],
 			$license['signature']
 		) !== true) {
-			return $this->license = false;
+			return false;
 		}
 
 		// build the license verification data
@@ -290,21 +282,21 @@ class System
 		$data      = json_encode($data);
 		$signature = hex2bin($license['signature']);
 		if (openssl_verify($data, $signature, $pubKey, 'RSA-SHA256') !== 1) {
-			return $this->license = false;
+			return false;
 		}
 
 		// verify the URL
 		if ($this->licenseUrl() !== $this->licenseUrl($license['domain'])) {
-			return $this->license = false;
+			return false;
 		}
 
 		// only return the actual license key if the
 		// current user has appropriate permissions
 		if ($this->app->user()?->isAdmin() === true) {
-			return $this->license = $license['license'];
+			return $license['license'];
 		}
 
-		return $this->license = true;
+		return true;
 	}
 
 	/**
@@ -482,9 +474,6 @@ class System
 		// save the license information
 		Json::write($file, $json);
 
-		// clear the license cache
-		$this->license = null;
-
 		if ($this->license() === false) {
 			throw new InvalidArgumentException([
 				'key' => 'license.verification'
@@ -618,7 +607,6 @@ class System
 
 	/**
 	 * Improved `var_dump` output
-	 * @codeCoverageIgnore
 	 */
 	public function __debugInfo(): array
 	{

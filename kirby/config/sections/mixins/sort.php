@@ -39,10 +39,6 @@ return [
 				return false;
 			}
 
-			if ($this->query !== null) {
-				return false;
-			}
-
 			if ($this->sortBy !== null) {
 				return false;
 			}

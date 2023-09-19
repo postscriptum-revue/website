@@ -5,7 +5,7 @@ namespace Kirby\Cms;
 use Kirby\Toolkit\Properties;
 
 /**
- * @deprecated 4.0.0 will be removed in Kirby 5.0
+ * Foundation for Page, Site, File and User models.
  *
  * @package   Kirby Cms
  * @author    Bastian Allgeier <bastian@getkirby.com>

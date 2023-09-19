@@ -32,37 +32,55 @@ class Auth
 	/**
 	 * Available auth challenge classes
 	 * from the core and plugins
+	 *
+	 * @var array
 	 */
-	public static array $challenges = [];
+	public static $challenges = [];
 
 	/**
 	 * Currently impersonated user
+	 *
+	 * @var \Kirby\Cms\User|null
 	 */
-	protected User|null $impersonate = null;
+	protected $impersonate;
+
+	/**
+	 * Kirby instance
+	 *
+	 * @var \Kirby\Cms\App
+	 */
+	protected $kirby;
 
 	/**
 	 * Cache of the auth status object
+	 *
+	 * @var \Kirby\Cms\Auth\Status
 	 */
-	protected Status|null $status = null;
+	protected $status;
 
 	/**
 	 * Instance of the currently logged in user or
 	 * `false` if the user was not yet determined
+	 *
+	 * @var \Kirby\Cms\User|null|false
 	 */
-	protected User|false|null $user = false;
+	protected $user = false;
 
 	/**
 	 * Exception that was thrown while
 	 * determining the current user
+	 *
+	 * @var \Throwable
 	 */
-	protected Throwable|null $userException = null;
+	protected $userException;
 
 	/**
+	 * @param \Kirby\Cms\App $kirby
 	 * @codeCoverageIgnore
 	 */
-	public function __construct(
-		protected App $kirby
-	) {
+	public function __construct(App $kirby)
+	{
+		$this->kirby = $kirby;
 	}
 
 	/**
@@ -70,18 +88,17 @@ class Auth
 	 * (one-time auth code)
 	 * @since 3.5.0
 	 *
+	 * @param string $email
 	 * @param bool $long If `true`, a long session will be created
 	 * @param string $mode Either 'login' or 'password-reset'
+	 * @return \Kirby\Cms\Auth\Status
 	 *
 	 * @throws \Kirby\Exception\LogicException If there is no suitable authentication challenge (only in debug mode)
 	 * @throws \Kirby\Exception\NotFoundException If the user does not exist (only in debug mode)
 	 * @throws \Kirby\Exception\PermissionException If the rate limit is exceeded
 	 */
-	public function createChallenge(
-		string $email,
-		bool $long = false,
-		string $mode = 'login'
-	): Status {
+	public function createChallenge(string $email, bool $long = false, string $mode = 'login')
+	{
 		$email = Idn::decodeEmail($email);
 
 		$session = $this->kirby->session([
@@ -128,10 +145,7 @@ class Auth
 					$session->set('kirby.challenge.type', $challenge);
 
 					if ($code !== null) {
-						$session->set(
-							'kirby.challenge.code',
-							password_hash($code, PASSWORD_DEFAULT)
-						);
+						$session->set('kirby.challenge.code', password_hash($code, PASSWORD_DEFAULT));
 					}
 
 					break;
@@ -165,8 +179,10 @@ class Auth
 
 	/**
 	 * Returns the csrf token if it exists and if it is valid
+	 *
+	 * @return string|false
 	 */
-	public function csrf(): string|false
+	public function csrf()
 	{
 		// get the csrf from the header
 		$fromHeader = $this->kirby->request()->csrf();
@@ -185,6 +201,8 @@ class Auth
 	/**
 	 * Returns either predefined csrf or the one from session
 	 * @since 3.6.0
+	 *
+	 * @return string
 	 */
 	public function csrfFromSession(): string
 	{
@@ -199,10 +217,11 @@ class Auth
 	 * valid credentials
 	 *
 	 * @param \Kirby\Http\Request\Auth\BasicAuth|null $auth
+	 * @return \Kirby\Cms\User|null
 	 * @throws \Kirby\Exception\InvalidArgumentException if the authorization header is invalid
 	 * @throws \Kirby\Exception\PermissionException if basic authentication is not allowed
 	 */
-	public function currentUserFromBasicAuth(BasicAuth $auth = null): User|null
+	public function currentUserFromBasicAuth(BasicAuth $auth = null)
 	{
 		if ($this->kirby->option('api.basicAuth', false) !== true) {
 			throw new PermissionException('Basic authentication is not activated');
@@ -221,8 +240,8 @@ class Auth
 			}
 		}
 
-		$request   = $this->kirby->request();
-		$auth    ??= $request->auth();
+		$request = $this->kirby->request();
+		$auth    = $auth ?? $request->auth();
 
 		if (!$auth || $auth->type() !== 'basic') {
 			throw new InvalidArgumentException('Invalid authorization header');
@@ -238,8 +257,10 @@ class Auth
 
 	/**
 	 * Returns the currently impersonated user
+	 *
+	 * @return \Kirby\Cms\User|null
 	 */
-	public function currentUserFromImpersonation(): User|null
+	public function currentUserFromImpersonation()
 	{
 		return $this->impersonate;
 	}
@@ -248,10 +269,12 @@ class Auth
 	 * Returns the logged in user by checking
 	 * the current session and finding a valid
 	 * valid user id in there
+	 *
+	 * @param \Kirby\Session\Session|array|null $session
+	 * @return \Kirby\Cms\User|null
 	 */
-	public function currentUserFromSession(
-		Session|array $session = null
-	): User|null {
+	public function currentUserFromSession($session = null)
+	{
 		$session = $this->session($session);
 
 		$id = $session->data()->get('kirby.userId');
@@ -295,6 +318,8 @@ class Auth
 	 * Returns the list of enabled challenges in the
 	 * configured order
 	 * @since 3.5.1
+	 *
+	 * @return array
 	 */
 	public function enabledChallenges(): array
 	{
@@ -308,9 +333,10 @@ class Auth
 	 *                         `null` to use the actual user again,
 	 *                         `'kirby'` for a virtual admin user or
 	 *                         `'nobody'` to disable the actual user
+	 * @return \Kirby\Cms\User|null
 	 * @throws \Kirby\Exception\NotFoundException if the given user cannot be found
 	 */
-	public function impersonate(string|null $who = null): User|null
+	public function impersonate(string|null $who = null)
 	{
 		// clear the status cache
 		$this->status = null;
@@ -334,6 +360,8 @@ class Auth
 	/**
 	 * Returns the hashed ip of the visitor
 	 * which is used to track invalid logins
+	 *
+	 * @return string
 	 */
 	public function ipHash(): string
 	{
@@ -345,6 +373,9 @@ class Auth
 
 	/**
 	 * Check if logins are blocked for the current ip or email
+	 *
+	 * @param string $email
+	 * @return bool
 	 */
 	public function isBlocked(string $email): bool
 	{
@@ -419,12 +450,16 @@ class Auth
 	/**
 	 * Sets a user object as the current user in the cache
 	 * @internal
+	 *
+	 * @param \Kirby\Cms\User $user
+	 * @return void
 	 */
 	public function setUser(User $user): void
 	{
 		// stop impersonating
 		$this->impersonate = null;
-		$this->user        = $user;
+
+		$this->user = $user;
 
 		// clear the status cache
 		$this->status = null;
@@ -434,13 +469,13 @@ class Auth
 	 * Returns the authentication status object
 	 * @since 3.5.1
 	 *
+	 * @param \Kirby\Session\Session|array|null $session
 	 * @param bool $allowImpersonation If set to false, only the actually
 	 *                                 logged in user will be returned
+	 * @return \Kirby\Cms\Auth\Status
 	 */
-	public function status(
-		Session|array $session = null,
-		bool $allowImpersonation = true
-	): Status {
+	public function status($session = null, bool $allowImpersonation = true)
+	{
 		// try to return from cache
 		if ($this->status && $session === null && $allowImpersonation === true) {
 			return $this->status;
@@ -553,6 +588,8 @@ class Auth
 
 	/**
 	 * Returns the absolute path to the logins log
+	 *
+	 * @return string
 	 */
 	public function logfile(): string
 	{
@@ -561,6 +598,8 @@ class Auth
 
 	/**
 	 * Read all tracked logins
+	 *
+	 * @return array
 	 */
 	public function log(): array
 	{
@@ -603,6 +642,8 @@ class Auth
 
 	/**
 	 * Logout the current user
+	 *
+	 * @return void
 	 */
 	public function logout(): void
 	{
@@ -627,6 +668,8 @@ class Auth
 	/**
 	 * Clears the cached user data after logout
 	 * @internal
+	 *
+	 * @return void
 	 */
 	public function flush(): void
 	{
@@ -638,12 +681,12 @@ class Auth
 	/**
 	 * Tracks a login
 	 *
+	 * @param string|null $email
 	 * @param bool $triggerHook If `false`, no user.login:failed hook is triggered
+	 * @return bool
 	 */
-	public function track(
-		string|null $email,
-		bool $triggerHook = true
-	): bool {
+	public function track(string|null $email, bool $triggerHook = true): bool
+	{
 		if ($triggerHook === true) {
 			$this->kirby->trigger('user.login:failed', compact('email'));
 		}
@@ -687,6 +730,7 @@ class Auth
 	 * @param bool $allowImpersonation If set to false, 'impersonate' won't
 	 *                                 be returned as authentication type
 	 *                                 even if an impersonation is active
+	 * @return string
 	 */
 	public function type(bool $allowImpersonation = true): string
 	{
@@ -715,15 +759,15 @@ class Auth
 	/**
 	 * Validates the currently logged in user
 	 *
+	 * @param \Kirby\Session\Session|array|null $session
 	 * @param bool $allowImpersonation If set to false, only the actually
 	 *                                 logged in user will be returned
+	 * @return \Kirby\Cms\User|null
 	 *
 	 * @throws \Throwable If an authentication error occurred
 	 */
-	public function user(
-		Session|array $session = null,
-		bool $allowImpersonation = true
-	): User|null {
+	public function user($session = null, bool $allowImpersonation = true)
+	{
 		if ($allowImpersonation === true && $this->impersonate !== null) {
 			return $this->impersonate;
 		}
@@ -776,7 +820,7 @@ class Auth
 	public function verifyChallenge(
 		#[SensitiveParameter]
 		string $code
-	): User {
+	) {
 		try {
 			$session = $this->kirby->session();
 
@@ -843,11 +887,9 @@ class Auth
 				throw new PermissionException(['key' => 'access.code']);
 			}
 
-			throw new LogicException(
-				'Invalid authentication challenge: ' . $challenge
-			);
+			throw new LogicException('Invalid authentication challenge: ' . $challenge);
 		} catch (Throwable $e) {
-			$details = $e instanceof Exception ? $e->getDetails() : [];
+			$details = $e instanceof \Kirby\Exception\Exception ? $e->getDetails() : [];
 
 			if (
 				empty($email) === false &&
@@ -883,10 +925,8 @@ class Auth
 	 * @throws \Throwable Either the passed `$exception` or the `$fallback`
 	 *                    (no exception if debugging is disabled and no fallback was passed)
 	 */
-	protected function fail(
-		Throwable $exception,
-		Throwable $fallback = null
-	): void {
+	protected function fail(Throwable $exception, Throwable $fallback = null): void
+	{
 		$debug = $this->kirby->option('auth.debug', 'log');
 
 		// throw the original exception only in debug mode
@@ -908,8 +948,11 @@ class Auth
 
 	/**
 	 * Creates a session object from the passed options
+	 *
+	 * @param \Kirby\Session\Session|array|null $session
+	 * @return \Kirby\Session\Session
 	 */
-	protected function session(Session|array $session = null): Session
+	protected function session($session = null)
 	{
 		// use passed session options or session object if set
 		if (is_array($session) === true) {

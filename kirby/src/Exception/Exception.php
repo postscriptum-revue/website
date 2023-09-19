@@ -2,7 +2,6 @@
 
 namespace Kirby\Exception;
 
-use Kirby\Cms\App;
 use Kirby\Http\Environment;
 use Kirby\Toolkit\I18n;
 use Kirby\Toolkit\Str;
@@ -22,39 +21,48 @@ class Exception extends \Exception
 {
 	/**
 	 * Data variables that can be used inside the exception message
+	 *
+	 * @var array
 	 */
-	protected array $data;
+	protected $data;
 
 	/**
 	 * HTTP code that corresponds with the exception
+	 *
+	 * @var int
 	 */
-	protected int $httpCode;
+	protected $httpCode;
 
 	/**
 	 * Additional details that are not included in the exception message
+	 *
+	 * @var array
 	 */
-	protected array $details;
+	protected $details;
 
 	/**
-	 * Whether the exception message could be translated
-	 * into the user's language
+	 * Whether the exception message could be translated into the user's language
+	 *
+	 * @var bool
 	 */
-	protected bool $isTranslated = true;
+	protected $isTranslated = true;
 
 	/**
 	 * Defaults that can be overridden by specific
 	 * exception classes
 	 */
-	protected static string $defaultKey = 'general';
-	protected static string $defaultFallback = 'An error occurred';
-	protected static array $defaultData = [];
-	protected static int $defaultHttpCode = 500;
-	protected static array $defaultDetails = [];
+	protected static $defaultKey = 'general';
+	protected static $defaultFallback = 'An error occurred';
+	protected static $defaultData = [];
+	protected static $defaultHttpCode = 500;
+	protected static $defaultDetails = [];
 
 	/**
 	 * Prefix for the exception key (e.g. 'error.general')
+	 *
+	 * @var string
 	 */
-	private static string $prefix = 'error';
+	private static $prefix = 'error';
 
 	/**
 	 * Class constructor
@@ -63,7 +71,7 @@ class Exception extends \Exception
 	 *                           'data', 'httpCode', 'details' and 'previous') or
 	 *                           just the message string
 	 */
-	public function __construct(array|string $args = [])
+	public function __construct($args = [])
 	{
 		// set data and httpCode from provided arguments or defaults
 		$this->data     = $args['data']     ?? static::$defaultData;
@@ -78,14 +86,12 @@ class Exception extends \Exception
 			parent::__construct($args);
 		} else {
 			// define whether message can/should be translated
-			$translate =
-				($args['translate'] ?? true) === true &&
-				class_exists(App::class) === true;
+			$translate = ($args['translate'] ?? true) === true && class_exists('Kirby\Cms\App') === true;
 
 			// fallback waterfall for message string
 			$message = null;
 
-			if ($translate === true) {
+			if ($translate) {
 				// 1. translation for provided key in current language
 				// 2. translation for provided key in default language
 				if (isset($args['key']) === true) {
@@ -100,7 +106,7 @@ class Exception extends \Exception
 				$this->isTranslated = false;
 			}
 
-			if ($translate === true) {
+			if ($translate) {
 				// 4. translation for default key in current language
 				// 5. translation for default key in default language
 				if ($message === null) {
@@ -116,7 +122,11 @@ class Exception extends \Exception
 			}
 
 			// format message with passed data
-			$message = Str::template($message, $this->data, ['fallback' => '-']);
+			$message = Str::template($message, $this->data, [
+				'fallback' => '-',
+				'start'    => '{',
+				'end'      => '}'
+			]);
 
 			// handover to Exception parent class constructor
 			parent::__construct($message, 0, $args['previous'] ?? null);
@@ -129,6 +139,8 @@ class Exception extends \Exception
 	/**
 	 * Returns the file in which the Exception was created
 	 * relative to the document root
+	 *
+	 * @return string
 	 */
 	final public function getFileRelative(): string
 	{
@@ -144,6 +156,8 @@ class Exception extends \Exception
 
 	/**
 	 * Returns the data variables from the message
+	 *
+	 * @return array
 	 */
 	final public function getData(): array
 	{
@@ -153,6 +167,8 @@ class Exception extends \Exception
 	/**
 	 * Returns the additional details that are
 	 * not included in the message
+	 *
+	 * @return array
 	 */
 	final public function getDetails(): array
 	{
@@ -161,6 +177,8 @@ class Exception extends \Exception
 
 	/**
 	 * Returns the exception key (error type)
+	 *
+	 * @return string
 	 */
 	final public function getKey(): string
 	{
@@ -170,6 +188,8 @@ class Exception extends \Exception
 	/**
 	 * Returns the HTTP code that corresponds
 	 * with the exception
+	 *
+	 * @return array
 	 */
 	final public function getHttpCode(): int
 	{
@@ -179,6 +199,8 @@ class Exception extends \Exception
 	/**
 	 * Returns whether the exception message could
 	 * be translated into the user's language
+	 *
+	 * @return bool
 	 */
 	final public function isTranslated(): bool
 	{
@@ -187,6 +209,8 @@ class Exception extends \Exception
 
 	/**
 	 * Converts the object to an array
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{

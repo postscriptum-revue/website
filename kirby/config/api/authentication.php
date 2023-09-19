@@ -1,6 +1,6 @@
 <?php
 
-use Kirby\Exception\AuthException;
+use Kirby\Exception\PermissionException;
 
 return function () {
 	$auth               = $this->kirby()->auth();
@@ -11,17 +11,17 @@ return function () {
 		$auth->type($allowImpersonation) === 'session' &&
 		$auth->csrf() === false
 	) {
-		throw new AuthException('Unauthenticated');
+		throw new PermissionException('Unauthenticated');
 	}
 
 	// get user from session or basic auth
 	if ($user = $auth->user(null, $allowImpersonation)) {
 		if ($user->role()->permissions()->for('access', 'panel') === false) {
-			throw new AuthException(['key' => 'access.panel']);
+			throw new PermissionException(['key' => 'access.panel']);
 		}
 
 		return $user;
 	}
 
-	throw new AuthException('Unauthenticated');
+	throw new PermissionException('Unauthenticated');
 };

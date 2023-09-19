@@ -2,7 +2,6 @@
 
 namespace Kirby\Cms;
 
-use Kirby\Content\Field;
 use Kirby\Toolkit\Str;
 
 /**
@@ -29,28 +28,49 @@ class Item
 
 	protected Field|null $field;
 
-	protected string $id;
-	protected array $params;
-	protected ModelWithContent $parent;
-	protected Items $siblings;
+	/**
+	 * @var string
+	 */
+	protected $id;
+
+	/**
+	 * @var array
+	 */
+	protected $params;
+
+	/**
+	 * @var \Kirby\Cms\Page|\Kirby\Cms\Site|\Kirby\Cms\File|\Kirby\Cms\User
+	 */
+	protected $parent;
+
+	/**
+	 * @var \Kirby\Cms\Items
+	 */
+	protected $siblings;
 
 	/**
 	 * Creates a new item
+	 *
+	 * @param array $params
 	 */
 	public function __construct(array $params = [])
 	{
-		$class          = static::ITEMS_CLASS;
+		$siblingsClass = static::ITEMS_CLASS;
+
 		$this->id       = $params['id']       ?? Str::uuid();
 		$this->params   = $params;
 		$this->field    = $params['field']    ?? null;
 		$this->parent   = $params['parent']   ?? App::instance()->site();
-		$this->siblings = $params['siblings'] ?? new $class();
+		$this->siblings = $params['siblings'] ?? new $siblingsClass();
 	}
 
 	/**
 	 * Static Item factory
+	 *
+	 * @param array $params
+	 * @return \Kirby\Cms\Item
 	 */
-	public static function factory(array $params): static
+	public static function factory(array $params)
 	{
 		return new static($params);
 	}
@@ -65,6 +85,8 @@ class Item
 
 	/**
 	 * Returns the unique item id (UUID v4)
+	 *
+	 * @return string
 	 */
 	public function id(): string
 	{
@@ -73,6 +95,9 @@ class Item
 
 	/**
 	 * Compares the item to another one
+	 *
+	 * @param \Kirby\Cms\Item $item
+	 * @return bool
 	 */
 	public function is(Item $item): bool
 	{
@@ -81,16 +106,20 @@ class Item
 
 	/**
 	 * Returns the Kirby instance
+	 *
+	 * @return \Kirby\Cms\App
 	 */
-	public function kirby(): App
+	public function kirby()
 	{
 		return $this->parent()->kirby();
 	}
 
 	/**
 	 * Returns the parent model
+	 *
+	 * @return \Kirby\Cms\Page|\Kirby\Cms\Site|\Kirby\Cms\File|\Kirby\Cms\User
 	 */
-	public function parent(): ModelWithContent
+	public function parent()
 	{
 		return $this->parent;
 	}
@@ -99,15 +128,18 @@ class Item
 	 * Returns the sibling collection
 	 * This is required by the HasSiblings trait
 	 *
+	 * @return \Kirby\Cms\Items
 	 * @psalm-return self::ITEMS_CLASS
 	 */
-	protected function siblingsCollection(): Items
+	protected function siblingsCollection()
 	{
 		return $this->siblings;
 	}
 
 	/**
 	 * Converts the item to an array
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{

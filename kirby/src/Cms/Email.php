@@ -4,7 +4,6 @@ namespace Kirby\Cms;
 
 use Kirby\Exception\InvalidArgumentException;
 use Kirby\Exception\NotFoundException;
-use Kirby\Template\Template;
 
 /**
  * Wrapper around our Email package, which
@@ -22,14 +21,18 @@ class Email
 {
 	/**
 	 * Options configured through the `email` CMS option
+	 *
+	 * @var array
 	 */
-	protected array $options;
+	protected $options;
 
 	/**
 	 * Props for the email object; will be passed to the
 	 * Kirby\Email\Email class
+	 *
+	 * @var array
 	 */
-	protected array $props;
+	protected $props;
 
 	/**
 	 * Class constructor
@@ -37,9 +40,9 @@ class Email
 	 * @param string|array $preset Preset name from the config or a simple props array
 	 * @param array $props Props array to override the $preset
 	 */
-	public function __construct(string|array $preset = [], array $props = [])
+	public function __construct($preset = [], array $props = [])
 	{
-		$this->options = App::instance()->option('email', []);
+		$this->options = App::instance()->option('email');
 
 		// build a prop array based on preset and props
 		$preset = $this->preset($preset);
@@ -68,9 +71,10 @@ class Email
 	 * prop arrays in case a preset is not needed
 	 *
 	 * @param string|array $preset Preset name or simple prop array
+	 * @return array
 	 * @throws \Kirby\Exception\NotFoundException
 	 */
-	protected function preset(string|array $preset): array
+	protected function preset($preset): array
 	{
 		// only passed props, not preset name
 		if (is_array($preset) === true) {
@@ -92,6 +96,7 @@ class Email
 	 * Renders the email template(s) and sets the body props
 	 * to the result
 	 *
+	 * @return void
 	 * @throws \Kirby\Exception\NotFoundException
 	 */
 	protected function template(): void
@@ -124,14 +129,20 @@ class Email
 
 	/**
 	 * Returns an email template by name and type
+	 *
+	 * @param string $name Template name
+	 * @param string|null $type `html` or `text`
+	 * @return \Kirby\Template\Template
 	 */
-	protected function getTemplate(string $name, string $type = null): Template
+	protected function getTemplate(string $name, string $type = null)
 	{
 		return App::instance()->template('emails/' . $name, $type, 'text');
 	}
 
 	/**
 	 * Returns the prop array
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{
@@ -143,10 +154,11 @@ class Email
 	 * supports simple strings, file objects or collections/arrays of either
 	 *
 	 * @param string $prop Prop to transform
+	 * @return void
 	 */
 	protected function transformFile(string $prop): void
 	{
-		$this->props[$prop] = $this->transformModel($prop, File::class, 'root');
+		$this->props[$prop] = $this->transformModel($prop, 'Kirby\Cms\File', 'root');
 	}
 
 	/**
@@ -159,12 +171,8 @@ class Email
 	 *                                returns a simple value-only array if not given
 	 * @return array Simple key-value or just value array with the transformed prop data
 	 */
-	protected function transformModel(
-		string $prop,
-		string $class,
-		string $contentValue,
-		string $contentKey = null
-	): array {
+	protected function transformModel(string $prop, string $class, string $contentValue, string $contentKey = null): array
+	{
 		$value = $this->props[$prop] ?? [];
 
 		// ensure consistent input by making everything an iterable value
@@ -204,12 +212,11 @@ class Email
 	 *
 	 * @param string $addressProp Prop with the email address
 	 * @param string $nameProp Prop with the name corresponding to the $addressProp
+	 * @return void
 	 */
-	protected function transformUserSingle(
-		string $addressProp,
-		string $nameProp
-	): void {
-		$result = $this->transformModel($addressProp, User::class, 'name', 'email');
+	protected function transformUserSingle(string $addressProp, string $nameProp): void
+	{
+		$result = $this->transformModel($addressProp, 'Kirby\Cms\User', 'name', 'email');
 
 		$address = array_keys($result)[0] ?? null;
 		$name    = $result[$address] ?? null;
@@ -232,9 +239,10 @@ class Email
 	 * supports simple strings, user objects or collections/arrays of either
 	 *
 	 * @param string $prop Prop to transform
+	 * @return void
 	 */
 	protected function transformUserMultiple(string $prop): void
 	{
-		$this->props[$prop] = $this->transformModel($prop, User::class, 'name', 'email');
+		$this->props[$prop] = $this->transformModel($prop, 'Kirby\Cms\User', 'name', 'email');
 	}
 }

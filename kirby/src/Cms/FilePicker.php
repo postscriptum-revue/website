@@ -19,6 +19,8 @@ class FilePicker extends Picker
 {
 	/**
 	 * Extends the basic defaults
+	 *
+	 * @return array
 	 */
 	public function defaults(): array
 	{
@@ -31,9 +33,10 @@ class FilePicker extends Picker
 	/**
 	 * Search all files for the picker
 	 *
+	 * @return \Kirby\Cms\Files|null
 	 * @throws \Kirby\Exception\InvalidArgumentException
 	 */
-	public function items(): Files|null
+	public function items()
 	{
 		$model = $this->options['model'];
 
@@ -61,9 +64,6 @@ class FilePicker extends Picker
 
 			default => throw new InvalidArgumentException('Your query must return a set of files')
 		};
-
-		// filter protected and hidden pages
-		$files = $files->filter('isListable', true);
 
 		// search
 		$files = $this->search($files);

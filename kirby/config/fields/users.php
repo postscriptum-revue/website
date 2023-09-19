@@ -24,8 +24,18 @@ return [
 		/**
 		 * Default selected user(s) when a new page/file/user is created
 		 */
-		'default' => function (string|array|bool|null $default = null) {
-			return $default;
+		'default' => function ($default = null) {
+			if ($default === false) {
+				return [];
+			}
+
+			if ($default === null && $user = $this->kirby()->user()) {
+				return [
+					$this->userResponse($user)
+				];
+			}
+
+			return $this->toUsers($default);
 		},
 
 		'value' => function ($value = null) {
@@ -33,22 +43,10 @@ return [
 		},
 	],
 	'computed' => [
-		'default' => function (): array {
-			if ($this->default === false) {
-				return [];
-			}
-
-			if (
-				$this->default === true &&
-				$user = $this->kirby()->user()
-			) {
-				return [
-					$this->userResponse($user)
-				];
-			}
-
-			return $this->toUsers($this->default);
-		}
+		/**
+		 * Unset inherited computed
+		 */
+		'default' => null
 	],
 	'methods' => [
 		'userResponse' => function ($user) {
@@ -59,7 +57,7 @@ return [
 				'text'   => $this->text,
 			]);
 		},
-		'toUsers' => function ($value = null): array {
+		'toUsers' => function ($value = null) {
 			$users = [];
 			$kirby = App::instance();
 

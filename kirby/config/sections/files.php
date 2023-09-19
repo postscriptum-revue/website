@@ -1,7 +1,6 @@
 <?php
 
 use Kirby\Cms\File;
-use Kirby\Cms\Files;
 use Kirby\Toolkit\I18n;
 
 return [
@@ -19,12 +18,6 @@ return [
 		'sort'
 	],
 	'props' => [
-		/**
-		 * Filters pages by a query. Sorting will be disabled
-		 */
-		'query' => function (string|null $query = null) {
-			return $query;
-		},
 		/**
 		 * Filters all files by template and also sets the template, which will be used for all uploads
 		 */
@@ -56,17 +49,10 @@ return [
 			return $this->parentModel();
 		},
 		'files' => function () {
-			if ($this->query !== null) {
-				$files = $this->parent->query($this->query, Files::class) ?? new Files([]);
-			} else {
-				$files = $this->parent->files();
-			}
+			$files = $this->parent->files()->template($this->template);
 
-			// filter files by template
-			$files = $files->template($this->template);
-
-			// filter out all protected and hidden files
-			$files = $files->filter('isListable', true);
+			// filter out all protected files
+			$files = $files->filter('isReadable', true);
 
 			// search
 			if ($this->search === true && empty($this->searchterm()) === false) {

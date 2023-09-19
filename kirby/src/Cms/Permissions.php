@@ -17,9 +17,15 @@ use Kirby\Exception\InvalidArgumentException;
  */
 class Permissions
 {
-	public static array $extendedActions = [];
+	/**
+	 * @var array
+	 */
+	public static $extendedActions = [];
 
-	protected array $actions = [
+	/**
+	 * @var array
+	 */
+	protected $actions = [
 		'access' => [
 			'account'   => true,
 			'languages' => true,
@@ -29,22 +35,18 @@ class Permissions
 			'users'     => true,
 		],
 		'files' => [
-			'access'     	 => true,
-			'changeName'     => true,
-			'changeTemplate' => true,
-			'create'         => true,
-			'delete'         => true,
-			'list'           => true,
-			'read'           => true,
-			'replace'        => true,
-			'update'         => true
+			'changeName' => true,
+			'create'     => true,
+			'delete'     => true,
+			'read'       => true,
+			'replace'    => true,
+			'update'     => true
 		],
 		'languages' => [
 			'create' => true,
 			'delete' => true
 		],
 		'pages' => [
-			'access'     	 => true,
 			'changeSlug'     => true,
 			'changeStatus'   => true,
 			'changeTemplate' => true,
@@ -52,8 +54,6 @@ class Permissions
 			'create'         => true,
 			'delete'         => true,
 			'duplicate'      => true,
-			'list'           => true,
-			'move'           => true,
 			'preview'        => true,
 			'read'           => true,
 			'sort'           => true,
@@ -87,9 +87,10 @@ class Permissions
 	/**
 	 * Permissions constructor
 	 *
+	 * @param array $settings
 	 * @throws \Kirby\Exception\InvalidArgumentException
 	 */
-	public function __construct(array|bool|null $settings = [])
+	public function __construct($settings = [])
 	{
 		// dynamically register the extended actions
 		foreach (static::$extendedActions as $key => $actions) {
@@ -109,6 +110,11 @@ class Permissions
 		}
 	}
 
+	/**
+	 * @param string|null $category
+	 * @param string|null $action
+	 * @return bool
+	 */
 	public function for(string $category = null, string $action = null): bool
 	{
 		if ($action === null) {
@@ -126,26 +132,33 @@ class Permissions
 		return $this->actions[$category][$action];
 	}
 
+	/**
+	 * @param string $category
+	 * @param string $action
+	 * @return bool
+	 */
 	protected function hasAction(string $category, string $action): bool
 	{
-		return
-			$this->hasCategory($category) === true &&
-			array_key_exists($action, $this->actions[$category]) === true;
+		return $this->hasCategory($category) === true && array_key_exists($action, $this->actions[$category]) === true;
 	}
 
+	/**
+	 * @param string $category
+	 * @return bool
+	 */
 	protected function hasCategory(string $category): bool
 	{
 		return array_key_exists($category, $this->actions) === true;
 	}
 
 	/**
+	 * @param string $category
+	 * @param string $action
+	 * @param $setting
 	 * @return $this
 	 */
-	protected function setAction(
-		string $category,
-		string $action,
-		$setting
-	): static {
+	protected function setAction(string $category, string $action, $setting)
+	{
 		// wildcard to overwrite the entire category
 		if ($action === '*') {
 			return $this->setCategory($category, $setting);
@@ -157,9 +170,10 @@ class Permissions
 	}
 
 	/**
+	 * @param bool $setting
 	 * @return $this
 	 */
-	protected function setAll(bool $setting): static
+	protected function setAll(bool $setting)
 	{
 		foreach ($this->actions as $categoryName => $actions) {
 			$this->setCategory($categoryName, $setting);
@@ -169,9 +183,10 @@ class Permissions
 	}
 
 	/**
+	 * @param array $settings
 	 * @return $this
 	 */
-	protected function setCategories(array $settings): static
+	protected function setCategories(array $settings)
 	{
 		foreach ($settings as $categoryName => $categoryActions) {
 			if (is_bool($categoryActions) === true) {
@@ -189,10 +204,12 @@ class Permissions
 	}
 
 	/**
+	 * @param string $category
+	 * @param bool $setting
 	 * @return $this
 	 * @throws \Kirby\Exception\InvalidArgumentException
 	 */
-	protected function setCategory(string $category, bool $setting): static
+	protected function setCategory(string $category, bool $setting)
 	{
 		if ($this->hasCategory($category) === false) {
 			throw new InvalidArgumentException('Invalid permissions category');
@@ -205,6 +222,9 @@ class Permissions
 		return $this;
 	}
 
+	/**
+	 * @return array
+	 */
 	public function toArray(): array
 	{
 		return $this->actions;

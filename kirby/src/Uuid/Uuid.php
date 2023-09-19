@@ -40,7 +40,7 @@ use Kirby\Toolkit\Str;
  * @copyright Bastian Allgeier
  * @license   https://getkirby.com/license
  */
-abstract class Uuid
+class Uuid
 {
 	protected const TYPE = 'uuid';
 
@@ -105,11 +105,7 @@ abstract class Uuid
 			}
 		}
 
-		if ($key = $this->key()) {
-			return Uuids::cache()->remove($key);
-		}
-
-		return true;
+		return Uuids::cache()->remove($this->key());
 	}
 
 	/**
@@ -213,10 +209,12 @@ abstract class Uuid
 	/**
 	 * Returns the UUID's id string (UUID without scheme);
 	 * in child classes, this method must ensure that the
-	 * model has an ID (or generate a new one if the model
-	 * does not have one yet)
+	 * model has an ID
 	 */
-	abstract public function id(): string;
+	public function id(): string
+	{
+		return $this->uri->host();
+	}
 
 	/**
 	 * Generator function that creates an index of
@@ -273,32 +271,21 @@ abstract class Uuid
 	 */
 	public function isCached(): bool
 	{
-		if ($key = $this->key()) {
-			return Uuids::cache()->exists($key);
-		}
-
-		return false;
+		return Uuids::cache()->exists($this->key());
 	}
 
 	/**
 	 * Returns key for cache entry
 	 */
-	public function key(bool $generate = false): string|null
+	public function key(): string
 	{
-		// the generation happens in the child class
-		// that overrides the `id()` method
-		$id = $generate === true ? $this->id() : $this->uri->host();
+		$id = $this->id();
 
-		if ($id !== null) {
-			// for better performance when using a file-based cache,
-			// turn first two characters of the id into a directory
-			$id =
-				static::TYPE . '/' .
-				Str::substr($id, 0, 2) . '/' .
-				Str::substr($id, 2);
-		}
+		// for better performance when using a file-based cache,
+		// turn first two characters of the id into a directory
+		$id = Str::substr($id, 0, 2) . '/' . Str::substr($id, 2);
 
-		return $id;
+		return static::TYPE . '/' . $id;
 	}
 
 	/**
@@ -322,8 +309,7 @@ abstract class Uuid
 				// lazily fill cache by writing to cache
 				// whenever looked up from index to speed
 				// up future lookups of the same UUID
-				// also force to update value again if it is already cached
-				$this->populate($this->isCached());
+				$this->populate();
 
 				return $this->model;
 			}
@@ -334,14 +320,16 @@ abstract class Uuid
 
 	/**
 	 * Feeds the UUID into the cache
+	 *
+	 * @return bool
 	 */
-	public function populate(bool $force = false): bool
+	public function populate(): bool
 	{
-		if ($force === false && $this->isCached() === true) {
+		if ($this->isCached() === true) {
 			return true;
 		}
 
-		return Uuids::cache()->set($this->key(true), $this->value());
+		return Uuids::cache()->set($this->key(), $this->value());
 	}
 
 	/**
@@ -360,9 +348,12 @@ abstract class Uuid
 	 */
 	public function toString(): string
 	{
+		// make sure id is generated if
+		// it doesn't exist yet
+		$this->id();
+
 		// make sure the id is cached
 		// that it can be found again
-		// (will also ensure ID is generated if non-existent yet)
 		$this->populate();
 
 		return $this->uri->toString();

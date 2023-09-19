@@ -18,6 +18,8 @@ trait HasSiblings
 	 * Returns the position / index in the collection
 	 *
 	 * @param \Kirby\Cms\Collection|null $collection
+	 *
+	 * @return int|false
 	 */
 	public function indexOf($collection = null): int|false
 	{
@@ -86,6 +88,7 @@ trait HasSiblings
 	/**
 	 * Returns all sibling elements
 	 *
+	 * @param bool $self
 	 * @return \Kirby\Cms\Collection
 	 */
 	public function siblings(bool $self = true)
@@ -103,6 +106,8 @@ trait HasSiblings
 	 * Checks if there's a next item in the collection
 	 *
 	 * @param \Kirby\Cms\Collection|null $collection
+	 *
+	 * @return bool
 	 */
 	public function hasNext($collection = null): bool
 	{
@@ -113,6 +118,8 @@ trait HasSiblings
 	 * Checks if there's a previous item in the collection
 	 *
 	 * @param \Kirby\Cms\Collection|null $collection
+	 *
+	 * @return bool
 	 */
 	public function hasPrev($collection = null): bool
 	{
@@ -123,6 +130,8 @@ trait HasSiblings
 	 * Checks if the item is the first in the collection
 	 *
 	 * @param \Kirby\Cms\Collection|null $collection
+	 *
+	 * @return bool
 	 */
 	public function isFirst($collection = null): bool
 	{
@@ -134,6 +143,8 @@ trait HasSiblings
 	 * Checks if the item is the last in the collection
 	 *
 	 * @param \Kirby\Cms\Collection|null $collection
+	 *
+	 * @return bool
 	 */
 	public function isLast($collection = null): bool
 	{
@@ -145,6 +156,9 @@ trait HasSiblings
 	 * Checks if the item is at a certain position
 	 *
 	 * @param \Kirby\Cms\Collection|null $collection
+	 * @param int $n
+	 *
+	 * @return bool
 	 */
 	public function isNth(int $n, $collection = null): bool
 	{

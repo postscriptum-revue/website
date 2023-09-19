@@ -12,6 +12,6 @@ return [
 		'tabs'    => fn (SiteBlueprint $blueprint) => $blueprint->tabs(),
 		'title'   => fn (SiteBlueprint $blueprint) => $blueprint->title(),
 	],
-	'type'  => SiteBlueprint::class,
+	'type'  => 'Kirby\Cms\SiteBlueprint',
 	'views' => [],
 ];

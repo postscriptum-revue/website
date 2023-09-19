@@ -21,21 +21,22 @@ use Kirby\Toolkit\Str;
  */
 class Element
 {
-	public function __construct(
-		protected DOMElement $node,
-		protected array $marks = []
-	) {
+	protected array $marks;
+	protected DOMElement $node;
+
+	public function __construct(DOMElement $node, array $marks = [])
+	{
+		$this->marks = $marks;
+		$this->node  = $node;
 	}
 
 	/**
 	 * The returns the attribute value or
 	 * the given fallback if the attribute does not exist
 	 */
-	public function attr(
-		string $attr,
-		string|null $fallback = null
-	): string|null {
-		if ($this->node->hasAttribute($attr) === true) {
+	public function attr(string $attr, string|null $fallback = null): string|null
+	{
+		if ($this->node->hasAttribute($attr)) {
 			return $this->node->getAttribute($attr) ?? $fallback;
 		}
 
@@ -111,9 +112,7 @@ class Element
 	 */
 	public function innerHtml(array|null $marks = null): string
 	{
-		$marks ??= $this->marks;
-		$inline  = new Inline($this->node, $marks);
-		return $inline->innerHtml();
+		return (new Inline($this->node, $marks ?? $this->marks))->innerHtml();
 	}
 
 	/**

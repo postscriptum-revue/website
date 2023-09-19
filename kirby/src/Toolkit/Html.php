@@ -597,7 +597,7 @@ class Html extends Xml
 				return false;
 			}
 
-			return preg_match('!^[a-zA-Z0-9_-]+$!', $id) === 1;
+			return preg_match('!^[a-zA-Z0-9_-]+$!', $id);
 		};
 
 		switch ($path->toString()) {

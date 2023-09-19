@@ -82,6 +82,9 @@ class Collections
 
 	/**
 	 * Checks if a collection exists
+	 *
+	 * @param string $name
+	 * @return bool
 	 */
 	public function has(string $name): bool
 	{
@@ -101,9 +104,11 @@ class Collections
 	 * Loads collection from php file in a
 	 * given directory or from plugin extension.
 	 *
+	 * @param string $name
+	 * @return mixed
 	 * @throws \Kirby\Exception\NotFoundException
 	 */
-	public function load(string $name): mixed
+	public function load(string $name)
 	{
 		$kirby = App::instance();
 
@@ -121,7 +126,10 @@ class Collections
 		// fallback to collections from plugins
 		$collections = $kirby->extensions('collections');
 
-		return $collections[$name] ??
-			throw new NotFoundException('The collection cannot be found');
+		if (isset($collections[$name]) === true) {
+			return $collections[$name];
+		}
+
+		throw new NotFoundException('The collection cannot be found');
 	}
 }

@@ -4,7 +4,7 @@ namespace Kirby\Form\Mixin;
 
 trait Max
 {
-	protected int|null $max;
+	protected $max;
 
 	public function max(): int|null
 	{

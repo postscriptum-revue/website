@@ -367,8 +367,7 @@ class Str
 
 		for ($i = 0; $i < static::length($string); $i++) {
 			$char = static::substr($string, $i, 1);
-			$char = mb_convert_encoding($char, 'UCS-4BE', 'UTF-8');
-			list(, $code) = unpack('N', $char);
+			list(, $code) = unpack('N', mb_convert_encoding($char, 'UCS-4BE', 'UTF-8'));
 			$encoded .= rand(1, 2) === 1 ? '&#' . $code . ';' : '&#x' . dechex($code) . ';';
 		}
 
@@ -481,21 +480,13 @@ class Str
 		// make sure $value is not null
 		$value ??= '';
 
-		// turn the value into a string
-		$value = (string)$value;
-
 		// Convert exponential to decimal, 1e-8 as 0.00000001
 		if (strpos(strtolower($value), 'e') !== false) {
 			$value = rtrim(sprintf('%.16f', (float)$value), '0');
 		}
 
 		$value   = str_replace(',', '.', $value);
-		$decimal = strrchr($value, '.');
-		$decimal = match ($decimal) {
-			false   => 0,
-			default => strlen($decimal) - 1
-		};
-
+		$decimal = strlen(substr(strrchr($value, '.'), 1));
 		return number_format((float)$value, $decimal, '.', '');
 	}
 
@@ -580,12 +571,8 @@ class Str
 	 * @param int $offset Positional offset in the string to start the search
 	 * @return array|null The matches or null if no match was found
 	 */
-	public static function match(
-		string $string,
-		string $pattern,
-		int $flags = 0,
-		int $offset = 0
-	): array|null {
+	public static function match(string $string, string $pattern, int $flags = 0, int $offset = 0): ?array
+	{
 		$result = preg_match($pattern, $string, $matches, $flags, $offset);
 		return ($result === 1) ? $matches : null;
 	}
@@ -599,12 +586,8 @@ class Str
 	 * @param int $offset Positional offset in the string to start the search
 	 * @return bool True if the string matches the pattern
 	 */
-	public static function matches(
-		string $string,
-		string $pattern,
-		int $flags = 0,
-		int $offset = 0
-	): bool {
+	public static function matches(string $string, string $pattern, int $flags = 0, int $offset = 0): bool
+	{
 		return static::match($string, $pattern, $flags, $offset) !== null;
 	}
 
@@ -617,12 +600,8 @@ class Str
 	 * @param int $offset Positional offset in the string to start the search
 	 * @return array|null The matches or null if no match was found
 	 */
-	public static function matchAll(
-		string $string,
-		string $pattern,
-		int $flags = 0,
-		int $offset = 0
-	): array|null {
+	public static function matchAll(string $string, string $pattern, int $flags = 0, int $offset = 0): ?array
+	{
 		$result = preg_match_all($pattern, $string, $matches, $flags, $offset);
 		return ($result > 0) ? $matches : null;
 	}
@@ -634,9 +613,9 @@ class Str
 		string|array $type,
 		bool $array = true
 	): string|array {
-		if (is_array($type) === true) {
-			$pool = [];
+		$pool = [];
 
+		if (is_array($type) === true) {
 			foreach ($type as $t) {
 				$pool = array_merge($pool, static::pool($t));
 			}
@@ -647,7 +626,7 @@ class Str
 				'alpha'      => static::pool(['alphaLower', 'alphaUpper']),
 				'num'        => range(0, 9),
 				'alphanum'   => static::pool(['alpha', 'num']),
-				default      => []
+				default      => $pool
 			};
 		}
 
@@ -704,8 +683,7 @@ class Str
 			return false;
 		}
 
-		// regex that matches all characters
-		// *not* in the pool of allowed characters
+		// regex that matches all characters *not* in the pool of allowed characters
 		$regex = '/[^' . $pool . ']/';
 
 		// collect characters until we have our required length
@@ -714,8 +692,7 @@ class Str
 		while (($currentLength = strlen($result)) < $length) {
 			$missing = $length - $currentLength;
 			$bytes   = random_bytes($missing);
-			$allowed = preg_replace($regex, '', base64_encode($bytes));
-			$result .= substr($allowed, 0, $missing);
+			$result .= substr(preg_replace($regex, '', base64_encode($bytes)), 0, $missing);
 		}
 
 		return $result;
@@ -725,21 +702,24 @@ class Str
 	 * Replaces all or some occurrences of the search string with the replacement string
 	 * Extension of the str_replace() function in PHP with an additional $limit parameter
 	 *
-	 * @param string|array|Collection $string String being replaced on (haystack); can be an array of multiple subject strings
-	 * @param string|array|Collection $search Value being searched for (needle)
-	 * @param string|array|Collection $replace Value to replace matches with
+	 * @param string|array $string String being replaced on (haystack);
+	 *                             can be an array of multiple subject strings
+	 * @param string|array $search Value being searched for (needle)
+	 * @param string|array $replace Value to replace matches with
 	 * @param int|array $limit Maximum possible replacements for each search value;
 	 *                         multiple limits for each search value are supported;
 	 *                         defaults to no limit
 	 * @return string|array String with replaced values;
 	 *                      if $string is an array, array of strings
 	 * @psalm-return ($string is array ? array : string)
+	 *
+	 * @todo the types aren't correct, refactor to apply native type hinting
 	 */
 	public static function replace(
-		string|array|Collection $string,
-		string|array|Collection $search,
-		string|array|Collection $replace,
-		int|array $limit = -1
+		$string,
+		$search,
+		$replace,
+		$limit = -1
 	): string|array {
 		// convert Kirby collections to arrays
 		if ($string instanceof Collection) {
@@ -767,11 +747,9 @@ class Str
 		// multiple subjects are run separately through this method
 		if (is_array($string) === true) {
 			$result = [];
-
 			foreach ($string as $s) {
 				$result[] = static::replace($s, $search, $replace, $limit);
 			}
-
 			return $result;
 		}
 
@@ -795,44 +773,49 @@ class Str
 	 *                         defaults to no limit
 	 * @return array List of replacement arrays, each with a
 	 *               'search', 'replace' and 'limit' attribute
+	 *
+	 * @todo the types aren't correct, refactor to apply native type hinting
 	 */
 	public static function replacements(
-		string|array $search,
-		string|array $replace,
-		int|array $limit
+		$search,
+		$replace,
+		$limit
 	): array {
-		if (is_array($search) === true) {
-			$replacements = [];
+		$replacements = [];
 
+		if (is_array($search) === true && is_array($replace) === true) {
 			foreach ($search as $i => $s) {
-				if (is_array($replace) === true) {
-					// replace with an empty string if
-					// no replacement string was defined for this index;
-					// behavior is identical to official PHP str_replace()
-					$r = $replace[$i] ?? '';
-				}
+				// replace with an empty string if no replacement string was defined for this index;
+				// behavior is identical to the official PHP str_replace()
+				$r = $replace[$i] ?? '';
 
 				if (is_array($limit) === true) {
-					// don't apply a limit if no limit
-					// was defined for this index
+					// don't apply a limit if no limit was defined for this index
 					$l = $limit[$i] ?? -1;
+				} else {
+					$l = $limit;
 				}
 
-				$replacements[] = [
-					'search'  => $s,
-					'replace' => $r ?? $replace,
-					'limit'   => $l ?? $limit
-				];
+				$replacements[] = ['search' => $s, 'replace' => $r, 'limit' => $l];
 			}
+		} elseif (is_array($search) === true && is_string($replace) === true) {
+			foreach ($search as $i => $s) {
+				if (is_array($limit) === true) {
+					// don't apply a limit if no limit was defined for this index
+					$l = $limit[$i] ?? -1;
+				} else {
+					$l = $limit;
+				}
 
-			return $replacements;
+				$replacements[] = ['search' => $s, 'replace' => $replace, 'limit' => $l];
+			}
+		} elseif (is_string($search) === true && is_string($replace) === true && is_int($limit) === true) {
+			$replacements[] = compact('search', 'replace', 'limit');
+		} else {
+			throw new Exception('Invalid combination of $search, $replace and $limit params.');
 		}
 
-		if (is_string($replace) === true && is_int($limit) === true) {
-			return [compact('search', 'replace', 'limit')];
-		}
-
-		throw new InvalidArgumentException('Invalid combination of $search, $replace and $limit params.');
+		return $replacements;
 	}
 
 	/**
@@ -861,27 +844,15 @@ class Str
 					$replacement['replace'],
 					$string
 				);
-				continue;
-			}
-
-			if ($replacement['limit'] > 0) {
+			} elseif ($replacement['limit'] > 0) {
 				// limit given, only replace for as many times per replacement
 				$position = -1;
 
 				for ($i = 0; $i < $replacement['limit']; $i++) {
-					$position = strpos(
-						$string,
-						$replacement['search'],
-						$position + 1
-					);
+					$position = strpos($string, $replacement['search'], $position + 1);
 
 					if (is_int($position) === true) {
-						$string = substr_replace(
-							$string,
-							$replacement['replace'],
-							$position,
-							strlen($replacement['search'])
-						);
+						$string = substr_replace($string, $replacement['replace'], $position, strlen($replacement['search']));
 						// adapt $pos to the now changed offset
 						$position = $position + strlen($replacement['replace']) - strlen($replacement['search']);
 					} else {
@@ -897,6 +868,10 @@ class Str
 
 	/**
 	 * Safe rtrim alternative
+	 *
+	 * @param string $string
+	 * @param string $trim
+	 * @return string
 	 */
 	public static function rtrim(string $string, string $trim = ' '): string
 	{
@@ -980,7 +955,7 @@ class Str
 	public static function short(
 		string $string = null,
 		int $length = 0,
-		string|false $appendix = '…'
+		string $appendix = '…'
 	): string {
 		if ($string === null) {
 			return '';
@@ -994,12 +969,7 @@ class Str
 			return $string;
 		}
 
-		$string = static::substr($string, 0, $length);
-
-		return match ($appendix) {
-			false   => $string,
-			default => $string . $appendix
-		};
+		return static::substr($string, 0, $length) . $appendix;
 	}
 
 	/**
@@ -1101,19 +1071,11 @@ class Str
 		$string = static::ascii($string);
 
 		// replace spaces with simple dashes
-		$string = preg_replace(
-			'![^' . $allowed . ']!i',
-			$separator,
-			$string
-		);
+		$string = preg_replace('![^' . $allowed . ']!i', $separator, $string);
 
 		if (strlen($separator) > 0) {
 			// remove double separators
-			$string = preg_replace(
-				'![' . preg_quote($separator) . ']{2,}!',
-				$separator,
-				$string
-			);
+			$string = preg_replace('![' . preg_quote($separator) . ']{2,}!', $separator, $string);
 		}
 
 		// replace slashes with dashes
@@ -1170,10 +1132,7 @@ class Str
 
 		foreach ($parts as $p) {
 			$p = trim($p);
-			if (
-				static::length($p) > 0 &&
-				static::length($p) >= $length
-			) {
+			if (static::length($p) > 0 && static::length($p) >= $length) {
 				$out[] = $p;
 			}
 		}
@@ -1204,9 +1163,7 @@ class Str
 	 */
 	public static function studly(string $value = null): string
 	{
-		$value = str_replace(['-', '_'], ' ', $value);
-		$value = ucwords($value);
-		return str_replace(' ', '', $value);
+		return str_replace(' ', '', ucwords(str_replace(['-', '_'], ' ', $value)));
 	}
 
 	/**
@@ -1246,8 +1203,8 @@ class Str
 		array $data = [],
 		array $options = []
 	): string {
-		$start    = $options['start'] ?? '{{1,2}';
-		$end      = $options['end'] ?? '}{1,2}';
+		$start    = (string)($options['start'] ?? '{{');
+		$end      = (string)($options['end'] ?? '}}');
 		$fallback = $options['fallback'] ?? null;
 		$callback = $options['callback'] ?? null;
 
@@ -1260,7 +1217,7 @@ class Str
 
 		return preg_replace_callback(
 			'!' . $start . '(.*?)' . $end . '!',
-			function (array $match) use ($data, $fallback, $callback) {
+			function ($match) use ($data, $fallback, $callback) {
 				$query = trim($match[1]);
 
 				try {
@@ -1274,12 +1231,12 @@ class Str
 
 				// callback on result if given
 				if ($callback !== null) {
-					$callback = $callback((string)$result, $query, $data);
+					$callbackResult = $callback((string)$result, $query, $data);
 
-					if ($result !== null || $callback !== '') {
+					if ($result !== null || $callbackResult !== '') {
 						// the empty string came just from string casting,
 						// keep the null value and ignore the callback result
-						$result = $callback;
+						$result = $callbackResult;
 					}
 				}
 

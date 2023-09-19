@@ -5,7 +5,6 @@ namespace Kirby\Image\Darkroom;
 use Exception;
 use Kirby\Filesystem\F;
 use Kirby\Image\Darkroom;
-use Kirby\Image\Focus;
 
 /**
  * ImageMagick
@@ -168,28 +167,6 @@ class ImageMagick extends Darkroom
 			return '-thumbnail ' . escapeshellarg(sprintf('%sx%s!', $options['width'], $options['height']));
 		}
 
-		// crop based on focus point
-		if (Focus::isFocalPoint($options['crop']) === true) {
-			$focus = Focus::coords(
-				$options['crop'],
-				$options['sourceWidth'],
-				$options['sourceHeight'],
-				$options['width'],
-				$options['height']
-			);
-
-			return sprintf(
-				'-crop %sx%s+%s+%s -resize %sx%s^',
-				$focus['width'],
-				$focus['height'],
-				$focus['x1'],
-				$focus['y1'],
-				$options['width'],
-				$options['height']
-			);
-		}
-
-		// normal grop with gravities
 		$gravities = [
 			'top left'     => 'NorthWest',
 			'top'          => 'North',

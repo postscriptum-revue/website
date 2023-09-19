@@ -25,15 +25,6 @@ class SiteUuid extends Uuid
 	 */
 	public Identifiable|null $model;
 
-	/*
-	 * Returns empty string since
-	 * site doesn't really need an ID
-	 */
-	public function id(): string
-	{
-		return '';
-	}
-
 	/**
 	 * Generator for the one and only site object
 	 *
@@ -55,7 +46,7 @@ class SiteUuid extends Uuid
 	/**
 	 * Pretends to fill cache - we don't need it in cache
 	 */
-	public function populate(bool $force = false): bool
+	public function populate(): bool
 	{
 		return true;
 	}

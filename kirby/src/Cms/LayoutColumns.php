@@ -18,6 +18,8 @@ class LayoutColumns extends Items
 
 	/**
 	 * All registered layout columns methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 }

@@ -26,8 +26,10 @@ class Files extends Collection
 
 	/**
 	 * All registered files methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 
 	/**
 	 * Adds a single file or
@@ -38,7 +40,7 @@ class Files extends Collection
 	 * @return $this
 	 * @throws \Kirby\Exception\InvalidArgumentException When no `File` or `Files` object or an ID of an existing file is passed
 	 */
-	public function add($object): static
+	public function add($object)
 	{
 		// add a files collection
 		if ($object instanceof self) {
@@ -72,7 +74,7 @@ class Files extends Collection
 	 * @param int $offset Sorting offset
 	 * @return $this
 	 */
-	public function changeSort(array $files, int $offset = 0): static
+	public function changeSort(array $files, int $offset = 0)
 	{
 		foreach ($files as $filename) {
 			if ($file = $this->get($filename)) {
@@ -86,8 +88,12 @@ class Files extends Collection
 
 	/**
 	 * Creates a files collection from an array of props
+	 *
+	 * @param array $files
+	 * @param \Kirby\Cms\Model $parent
+	 * @return static
 	 */
-	public static function factory(array $files, Page|Site|User $parent): static
+	public static function factory(array $files, Model $parent)
 	{
 		$collection = new static([], $parent);
 		$kirby      = $parent->kirby();
@@ -108,8 +114,11 @@ class Files extends Collection
 	/**
 	 * Finds a file by its filename
 	 * @internal Use `$files->find()` instead
+	 *
+	 * @param string $key
+	 * @return \Kirby\Cms\File|null
 	 */
-	public function findByKey(string $key): File|null
+	public function findByKey(string $key)
 	{
 		if ($file = $this->findByUuid($key, 'file')) {
 			return $file;
@@ -127,6 +136,7 @@ class Files extends Collection
 	 * @param string|null|false $locale Locale for number formatting,
 	 *                                  `null` for the current locale,
 	 *                                  `false` to disable number formatting
+	 * @return string
 	 */
 	public function niceSize($locale = null): string
 	{
@@ -137,6 +147,8 @@ class Files extends Collection
 	 * Returns the raw size for all
 	 * files in the collection
 	 * @since 3.6.0
+	 *
+	 * @return int
 	 */
 	public function size(): int
 	{
@@ -146,8 +158,10 @@ class Files extends Collection
 	/**
 	 * Returns the collection sorted by
 	 * the sort number and the filename
+	 *
+	 * @return static
 	 */
-	public function sorted(): static
+	public function sorted()
 	{
 		return $this->sort('sort', 'asc', 'filename', 'asc');
 	}
@@ -155,9 +169,10 @@ class Files extends Collection
 	/**
 	 * Filter all files by the given template
 	 *
+	 * @param null|string|array $template
 	 * @return $this|static
 	 */
-	public function template(string|array|null $template): static
+	public function template($template)
 	{
 		if (empty($template) === true) {
 			return $this;

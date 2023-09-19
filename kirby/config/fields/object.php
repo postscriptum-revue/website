@@ -47,7 +47,7 @@ return [
 		},
 		'fields' => function () {
 			if (empty($this->fields) === true) {
-				return [];
+				throw new Exception('Please provide some fields for the object');
 			}
 
 			return $this->form()->fields()->toArray();

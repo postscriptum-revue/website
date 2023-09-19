@@ -21,10 +21,34 @@ class Translations extends Collection
 {
 	/**
 	 * All registered translations methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 
-	public static function factory(array $translations): static
+	/**
+	 * @param string $code
+	 * @return void
+	 */
+	public function start(string $code): void
+	{
+		F::move($this->parent->contentFile('', true), $this->parent->contentFile($code, true));
+	}
+
+	/**
+	 * @param string $code
+	 * @return void
+	 */
+	public function stop(string $code): void
+	{
+		F::move($this->parent->contentFile($code, true), $this->parent->contentFile('', true));
+	}
+
+	/**
+	 * @param array $translations
+	 * @return static
+	 */
+	public static function factory(array $translations)
 	{
 		$collection = new static();
 
@@ -36,7 +60,12 @@ class Translations extends Collection
 		return $collection;
 	}
 
-	public static function load(string $root, array $inject = []): static
+	/**
+	 * @param string $root
+	 * @param array $inject
+	 * @return static
+	 */
+	public static function load(string $root, array $inject = [])
 	{
 		$collection = new static();
 

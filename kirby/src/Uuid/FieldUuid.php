@@ -4,7 +4,7 @@ namespace Kirby\Uuid;
 
 use Generator;
 use Kirby\Cms\Collection;
-use Kirby\Content\Field;
+use Kirby\Cms\Field;
 use Kirby\Toolkit\A;
 
 /**
@@ -39,17 +39,22 @@ abstract class FieldUuid extends Uuid
 	protected function findByCache(): Identifiable|null
 	{
 		// get mixed Uri from cache
-		if ($key = $this->key()) {
-			if ($value = Uuids::cache()->get($key)) {
-				// value is an array containing
-				// the UUID for the parent, the field name
-				// and the specific ID
-				$parent = Uuid::for($value['parent'])->model();
+		$key   = $this->key();
+		$value = Uuids::cache()->get($key);
 
-				if ($field = $parent?->content()->get($value['field'])) {
-					return $this->fieldToCollection($field)->get($value['id']);
-				}
-			}
+		if ($value === null) {
+			return null;
+		}
+
+		// value is an array containing
+		// the UUID for the parent, the field name
+		// and the specific ID
+		$parent = Uuid::for($value['parent'])->model();
+		$field  = $parent?->content()->get($value['field']);
+
+		if ($field) {
+			$collection = $this->fieldToCollection($field);
+			return $collection->get($value['id']);
 		}
 
 		return null;
@@ -68,16 +73,6 @@ abstract class FieldUuid extends Uuid
 		}
 
 		return null;
-	}
-
-	/*
-	 * Returns the ID for the specific entry/row of the field
-	 * (we can rely in this case that the Uri was filled  on initiation)
-	 * @todo needs to be ensured for structure field once refactoring
-	 */
-	public function id(): string
-	{
-		return $this->uri->host();
 	}
 
 	/**

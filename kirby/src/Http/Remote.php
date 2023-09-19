@@ -49,6 +49,18 @@ class Remote
 	public array $info = [];
 	public array $options = [];
 
+	/**
+	 * Magic getter for request info data
+	 */
+	public function __call(string $method, array $arguments = [])
+	{
+		$method = str_replace('-', '_', Str::kebab($method));
+		return $this->info[$method] ?? null;
+	}
+
+	/**
+	 * Constructor
+	 */
 	public function __construct(string $url, array $options = [])
 	{
 		$defaults = static::$defaults;
@@ -62,7 +74,8 @@ class Remote
 
 		// update the defaults with App config if set;
 		// request the App instance lazily
-		if ($app = App::instance(null, true)) {
+		$app = App::instance(null, true);
+		if ($app !== null) {
 			$defaults = array_merge($defaults, $app->option('remote', []));
 		}
 
@@ -76,19 +89,8 @@ class Remote
 		$this->fetch();
 	}
 
-	/**
-	 * Magic getter for request info data
-	 */
-	public function __call(string $method, array $arguments = [])
+	public static function __callStatic(string $method, array $arguments = []): static
 	{
-		$method = str_replace('-', '_', Str::kebab($method));
-		return $this->info[$method] ?? null;
-	}
-
-	public static function __callStatic(
-		string $method,
-		array $arguments = []
-	): static {
 		return new static(
 			url: $arguments[0],
 			options: array_merge(

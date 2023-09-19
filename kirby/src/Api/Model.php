@@ -22,20 +22,21 @@ use Kirby\Toolkit\Str;
  */
 class Model
 {
-	protected array $fields;
-	protected array|null $select;
-	protected array $views;
+	protected Api $api;
+	protected $data;
+	protected $fields;
+	protected $select;
+	protected $views;
 
 	/**
 	 * Model constructor
 	 *
 	 * @throws \Exception
 	 */
-	public function __construct(
-		protected Api $api,
-		protected object|array|string|null $data,
-		array $schema
-	) {
+	public function __construct(Api $api, $data, array $schema)
+	{
+		$this->api    = $api;
+		$this->data   = $data;
 		$this->fields = $schema['fields'] ?? [];
 		$this->select = $schema['select'] ?? null;
 		$this->views  = $schema['views']  ?? [];

@@ -49,19 +49,16 @@ class Sane
 	 *
 	 * @throws \Kirby\Exception\NotFoundException If no handler was found and `$lazy` was set to `false`
 	 */
-	public static function handler(
-		string $type,
-		bool $lazy = false
-	): Handler|null {
+	public static function handler(string $type, bool $lazy = false): Handler|null
+	{
 		// normalize the type
 		$type = mb_strtolower($type);
 
 		// find a handler or alias
-		$handler = static::$handlers[$type] ?? null;
-
-		if ($alias = static::$aliases[$type] ?? null) {
-			$handler ??= static::$handlers[$alias] ?? null;
-		}
+		$alias   = static::$aliases[$type] ?? null;
+		$handler =
+			static::$handlers[$type] ??
+			($alias ? static::$handlers[$alias] ?? null : null);
 
 		if (empty($handler) === false && class_exists($handler) === true) {
 			return new $handler();
@@ -99,10 +96,8 @@ class Sane
 	 * @throws \Kirby\Exception\NotFoundException If the handler was not found
 	 * @throws \Kirby\Exception\Exception On other errors
 	 */
-	public static function sanitizeFile(
-		string $file,
-		string|bool $typeLazy = false
-	): void {
+	public static function sanitizeFile(string $file, string|bool $typeLazy = false): void
+	{
 		if (is_string($typeLazy) === true) {
 			static::handler($typeLazy)->sanitizeFile($file);
 			return;
@@ -153,18 +148,14 @@ class Sane
 	 * @throws \Kirby\Exception\NotFoundException If the handler was not found
 	 * @throws \Kirby\Exception\Exception On other errors
 	 */
-	public static function validateFile(
-		string $file,
-		string|bool $typeLazy = false
-	): void {
+	public static function validateFile(string $file, string|bool $typeLazy = false): void
+	{
 		if (is_string($typeLazy) === true) {
 			static::handler($typeLazy)->validateFile($file);
 			return;
 		}
 
-		$handlers = static::handlersForFile($file, $typeLazy === true);
-
-		foreach ($handlers as $handler) {
+		foreach (static::handlersForFile($file, $typeLazy === true) as $handler) {
 			$handler->validateFile($file);
 		}
 	}
@@ -176,10 +167,8 @@ class Sane
 	 * @param bool $lazy If set to `true`, undefined handlers are skipped
 	 * @return array<\Kirby\Sane\Handler>
 	 */
-	protected static function handlersForFile(
-		string $file,
-		bool $lazy = false
-	): array {
+	protected static function handlersForFile(string $file, bool $lazy = false): array
+	{
 		$handlers = $handlerClasses = [];
 
 		// all values that can be used for the handler search;
@@ -191,10 +180,7 @@ class Sane
 			$handlerClass = $handler ? get_class($handler) : null;
 
 			// ensure that each handler class is only returned once
-			if (
-				$handler &&
-				in_array($handlerClass, $handlerClasses) === false
-			) {
+			if ($handler && in_array($handlerClass, $handlerClasses) === false) {
 				$handlers[]       = $handler;
 				$handlerClasses[] = $handlerClass;
 			}

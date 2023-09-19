@@ -103,16 +103,14 @@ class Environment
 	 *
 	 * @param array|null $info Optional override for `$_SERVER`
 	 */
-	public function __construct(
-		array|null $options = null,
-		array|null $info = null
-	) {
+	public function __construct(array|null $options = null, array|null $info = null)
+	{
 		$this->detect($options, $info);
 	}
 
 	/**
 	 * Returns the server's IP address
-	 * @see ::ip
+	 * @see static::ip
 	 */
 	public function address(): string|null
 	{
@@ -152,17 +150,13 @@ class Environment
 	 *
 	 * @param array|null $info Optional override for `$_SERVER`
 	 */
-	public function detect(
-		array $options = null,
-		array $info = null
-	): array {
-		$defaults = [
+	public function detect(array $options = null, array $info = null): array
+	{
+		$info  ??= $_SERVER;
+		$options = array_merge([
 			'cli'     => null,
 			'allowed' => null
-		];
-
-		$info  ??= $_SERVER;
-		$options = array_merge($defaults, $options ?? []);
+		], $options ?? []);
 
 		$this->info          = static::sanitize($info);
 		$this->cli           = $this->detectCli($options['cli']);
@@ -241,9 +235,9 @@ class Environment
 
 			$uri = new Uri($url, ['slash' => false]);
 
-			// the current environment is allowed,
-			// stop before the exception below is thrown
 			if ($uri->toString() === $this->baseUrl) {
+				// the current environment is allowed,
+				// stop before the exception below is thrown
 				return;
 			}
 		}
@@ -324,11 +318,7 @@ class Environment
 		// @codeCoverageIgnoreStart
 		$term = getenv('TERM');
 
-		if (
-			substr(PHP_SAPI, 0, 3) === 'cgi' &&
-			$term &&
-			$term !== 'unknown'
-		) {
+		if (substr(PHP_SAPI, 0, 3) === 'cgi' && $term && $term !== 'unknown') {
 			return true;
 		}
 
@@ -350,7 +340,8 @@ class Environment
 		];
 
 		// prefer the standardized `Forwarded` header if defined
-		if ($forwarded = $this->get('HTTP_FORWARDED')) {
+		$forwarded = $this->get('HTTP_FORWARDED');
+		if ($forwarded) {
 			// only use the first (outermost) proxy by using the first set of values
 			// before the first comma (but only a comma outside of quotes)
 			if (Str::contains($forwarded, ',') === true) {
@@ -522,9 +513,7 @@ class Environment
 			return false;
 		}
 
-		$protocols = ['https', 'https, http'];
-
-		return in_array(strtolower($protocol), $protocols) === true;
+		return in_array(strtolower($protocol), ['https', 'https, http']) === true;
 	}
 
 	/**
@@ -671,12 +660,11 @@ class Environment
 	 * @param mixed $default Optional default value, which should be
 	 *                       returned if no element has been found
 	 */
-	public static function getGlobally(
-		string|false|null $key = null,
-		$default = null
-	) {
+	public static function getGlobally(string|false|null $key = null, $default = null)
+	{
 		// first try the global `Environment` object if the CMS is running
-		if ($app = App::instance(null, true)) {
+		$app = App::instance(null, true);
+		if ($app) {
 			return $app->environment()->get($key, $default);
 		}
 
@@ -853,10 +841,8 @@ class Environment
 	/**
 	 * Sanitizes some `$_SERVER` keys
 	 */
-	public static function sanitize(
-		string|array $key,
-		$value = null
-	) {
+	public static function sanitize(string|array $key, $value = null)
+	{
 		if (is_array($key) === true) {
 			foreach ($key as $k => $v) {
 				$key[$k] = static::sanitize($k, $v);
@@ -881,9 +867,8 @@ class Environment
 	/**
 	 * Sanitizes the given host name
 	 */
-	protected static function sanitizeHost(
-		string|null $host = null
-	): string|null {
+	protected static function sanitizeHost(string|null $host = null): string|null
+	{
 		if (empty($host) === true) {
 			return null;
 		}
@@ -907,9 +892,8 @@ class Environment
 	/**
 	 * Sanitizes the given port number
 	 */
-	protected static function sanitizePort(
-		string|int|false|null $port = null
-	): int|null {
+	protected static function sanitizePort(string|int|false|null $port = null): int|null
+	{
 		// already fine
 		if (is_int($port) === true) {
 			return $port;

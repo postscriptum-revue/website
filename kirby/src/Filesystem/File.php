@@ -10,6 +10,7 @@ use Kirby\Http\Response;
 use Kirby\Sane\Sane;
 use Kirby\Toolkit\Escape;
 use Kirby\Toolkit\Html;
+use Kirby\Toolkit\Properties;
 use Kirby\Toolkit\V;
 
 /**
@@ -26,21 +27,23 @@ use Kirby\Toolkit\V;
  */
 class File
 {
+	use Properties;
+
 	/**
 	 * Parent file model
 	 * The model object must use the `\Kirby\Filesystem\IsFile` trait
 	 */
-	protected object|null $model;
+	protected object|null $model = null;
 
 	/**
 	 * Absolute file path
 	 */
-	protected string|null $root;
+	protected string|null $root = null;
 
 	/**
 	 * Absolute file URL
 	 */
-	protected string|null $url;
+	protected string|null $url = null;
 
 	/**
 	 * Validation rules to be used for `::match()`
@@ -55,15 +58,14 @@ class File
 	 *
 	 * @param array|string|null $props Properties or deprecated `$root` string
 	 * @param string|null $url Deprecated argument, use `$props['url']` instead
-	 *
-	 *  @throws \Kirby\Exception\InvalidArgumentException When the model does not use the `Kirby\Filesystem\IsFile` trait
 	 */
 	public function __construct(
-		array|string $props = null,
-		string $url = null
+		array|string|null $props = null,
+		string|null $url = null
 	) {
 		// Legacy support for old constructor of
 		// the `Kirby\Image\Image` class
+		// @todo 4.0.0 remove
 		if (is_array($props) === false) {
 			$props = [
 				'root' => $props,
@@ -71,21 +73,11 @@ class File
 			];
 		}
 
-		$this->root  = $props['root'] ?? null;
-		$this->url   = $props['url'] ?? null;
-		$this->model = $props['model'] ?? null;
-
-		if (
-			$this->model !== null &&
-			method_exists($this->model, 'hasIsFileTrait') !== true
-		) {
-			throw new InvalidArgumentException('The model object must use the "Kirby\Filesystem\IsFile" trait');
-		}
+		$this->setProperties($props);
 	}
 
 	/**
 	 * Improved `var_dump` output
-	 * @codeCoverageIgnore
 	 */
 	public function __debugInfo(): array
 	{
@@ -441,6 +433,45 @@ class File
 	public function root(): string|null
 	{
 		return $this->root ??= $this->model?->root();
+	}
+
+	/**
+	 * Setter for the parent file model, which uses this instance as proxied file asset
+	 *
+	 * @return $this
+	 *
+	 * @throws \Kirby\Exception\InvalidArgumentException When the model does not use the `Kirby\Filesystem\IsFile` trait
+	 */
+	protected function setModel(object|null $model = null): static
+	{
+		if ($model !== null && method_exists($model, 'hasIsFileTrait') !== true) {
+			throw new InvalidArgumentException('The model object must use the "Kirby\Filesystem\IsFile" trait');
+		}
+
+		$this->model = $model;
+		return $this;
+	}
+
+	/**
+	 * Setter for the root
+	 *
+	 * @return $this
+	 */
+	protected function setRoot(string|null $root = null): static
+	{
+		$this->root = $root;
+		return $this;
+	}
+
+	/**
+	 * Setter for the file url
+	 *
+	 * @return $this
+	 */
+	protected function setUrl(string|null $url = null): static
+	{
+		$this->url = $url;
+		return $this;
 	}
 
 	/**

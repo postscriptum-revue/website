@@ -1,6 +1,5 @@
 <?php
 
-use Kirby\Cms\ModelWithContent;
 use Kirby\Data\Data;
 use Kirby\Toolkit\A;
 
@@ -37,10 +36,7 @@ return [
 		'parentModel' => function () {
 			if (
 				is_string($this->parent) === true &&
-				$model = $this->model()->query(
-					$this->parent,
-					ModelWithContent::class
-				)
+				$model = $this->model()->query($this->parent, 'Kirby\Cms\Model')
 			) {
 				return $model;
 			}

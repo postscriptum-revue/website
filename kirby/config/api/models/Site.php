@@ -19,7 +19,7 @@ return [
 		'title'      => fn (Site $site) => $site->title()->value(),
 		'url'        => fn (Site $site) => $site->url(),
 	],
-	'type' =>  Site::class,
+	'type' => 'Kirby\Cms\Site',
 	'views' => [
 		'compact' => [
 			'title',

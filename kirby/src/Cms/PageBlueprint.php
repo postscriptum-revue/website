@@ -16,6 +16,8 @@ class PageBlueprint extends Blueprint
 	/**
 	 * Creates a new page blueprint object
 	 * with the given props
+	 *
+	 * @param array $props
 	 */
 	public function __construct(array $props)
 	{
@@ -26,7 +28,6 @@ class PageBlueprint extends Blueprint
 			$this->props['options'] ?? true,
 			// defaults
 			[
-				'access'     	 => null,
 				'changeSlug'     => null,
 				'changeStatus'   => null,
 				'changeTemplate' => null,
@@ -34,10 +35,8 @@ class PageBlueprint extends Blueprint
 				'create'         => null,
 				'delete'         => null,
 				'duplicate'      => null,
-				'list'           => null,
-				'move'           => null,
-				'preview'        => null,
 				'read'           => null,
+				'preview'        => null,
 				'sort'           => null,
 				'update'         => null,
 			],
@@ -59,6 +58,8 @@ class PageBlueprint extends Blueprint
 
 	/**
 	 * Returns the page numbering mode
+	 *
+	 * @return string
 	 */
 	public function num(): string
 	{
@@ -69,6 +70,7 @@ class PageBlueprint extends Blueprint
 	 * Normalizes the ordering number
 	 *
 	 * @param mixed $num
+	 * @return string
 	 */
 	protected function normalizeNum($num): string
 	{
@@ -84,6 +86,7 @@ class PageBlueprint extends Blueprint
 	 * Normalizes the available status options for the page
 	 *
 	 * @param mixed $status
+	 * @return array
 	 */
 	protected function normalizeStatus($status): array
 	{
@@ -160,6 +163,8 @@ class PageBlueprint extends Blueprint
 	/**
 	 * Returns the options object
 	 * that handles page options and permissions
+	 *
+	 * @return array
 	 */
 	public function options(): array
 	{
@@ -171,8 +176,10 @@ class PageBlueprint extends Blueprint
 	 * The preview setting controls the "Open"
 	 * button in the panel and redirects it to a
 	 * different URL if necessary.
+	 *
+	 * @return string|bool
 	 */
-	public function preview(): string|bool
+	public function preview()
 	{
 		$preview = $this->props['options']['preview'] ?? true;
 
@@ -185,6 +192,8 @@ class PageBlueprint extends Blueprint
 
 	/**
 	 * Returns the status array
+	 *
+	 * @return array
 	 */
 	public function status(): array
 	{

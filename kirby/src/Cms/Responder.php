@@ -20,50 +20,68 @@ class Responder
 	/**
 	 * Timestamp when the response expires
 	 * in Kirby's cache
+	 *
+	 * @var int|null
 	 */
-	protected int|null $expires = null;
+	protected $expires = null;
 
 	/**
 	 * HTTP status code
+	 *
+	 * @var int
 	 */
-	protected int|null $code = null;
+	protected $code = null;
 
 	/**
 	 * Response body
+	 *
+	 * @var string
 	 */
-	protected string|null $body = null;
+	protected $body = null;
 
 	/**
 	 * Flag that defines whether the current
 	 * response can be cached by Kirby's cache
+	 *
+	 * @var bool
 	 */
-	protected bool $cache = true;
+	protected $cache = true;
 
 	/**
 	 * HTTP headers
+	 *
+	 * @var array
 	 */
-	protected array $headers = [];
+	protected $headers = [];
 
 	/**
 	 * Content type
+	 *
+	 * @var string
 	 */
-	protected string|null $type = null;
+	protected $type = null;
 
 	/**
 	 * Flag that defines whether the current
 	 * response uses the HTTP `Authorization`
 	 * request header
+	 *
+	 * @var bool
 	 */
-	protected bool $usesAuth = false;
+	protected $usesAuth = false;
 
 	/**
 	 * List of cookie names the response
 	 * relies on
+	 *
+	 * @var array
 	 */
-	protected array $usesCookies = [];
+	protected $usesCookies = [];
 
 	/**
 	 * Creates and sends the response
+	 *
+	 * @return string
 	 */
 	public function __toString(): string
 	{
@@ -73,9 +91,10 @@ class Responder
 	/**
 	 * Setter and getter for the response body
 	 *
-	 * @return $this|string|null
+	 * @param string|null $body
+	 * @return string|$this
 	 */
-	public function body(string $body = null): static|string|null
+	public function body(string $body = null)
 	{
 		if ($body === null) {
 			return $this->body;
@@ -91,9 +110,10 @@ class Responder
 	 * by Kirby's cache
 	 * @since 3.5.5
 	 *
+	 * @param bool|null $cache
 	 * @return bool|$this
 	 */
-	public function cache(bool|null $cache = null): bool|static
+	public function cache(bool|null $cache = null)
 	{
 		if ($cache === null) {
 			// never ever cache private responses
@@ -114,9 +134,10 @@ class Responder
 	 * `Authorization` request header
 	 * @since 3.7.0
 	 *
+	 * @param bool|null $usesAuth
 	 * @return bool|$this
 	 */
-	public function usesAuth(bool|null $usesAuth = null): bool|static
+	public function usesAuth(bool|null $usesAuth = null)
 	{
 		if ($usesAuth === null) {
 			return $this->usesAuth;
@@ -130,6 +151,9 @@ class Responder
 	 * Setter for a cookie name that is
 	 * used by the response
 	 * @since 3.7.0
+	 *
+	 * @param string $name
+	 * @return void
 	 */
 	public function usesCookie(string $name): void
 	{
@@ -144,6 +168,7 @@ class Responder
 	 * names the response relies on
 	 * @since 3.7.0
 	 *
+	 * @param array|null $usesCookies
 	 * @return array|$this
 	 */
 	public function usesCookies(array|null $usesCookies = null)
@@ -208,6 +233,7 @@ class Responder
 	/**
 	 * Setter and getter for the status code
 	 *
+	 * @param int|null $code
 	 * @return int|$this
 	 */
 	public function code(int $code = null)
@@ -222,6 +248,8 @@ class Responder
 
 	/**
 	 * Construct response from an array
+	 *
+	 * @param array $response
 	 */
 	public function fromArray(array $response): void
 	{
@@ -238,6 +266,7 @@ class Responder
 	/**
 	 * Setter and getter for a single header
 	 *
+	 * @param string $key
 	 * @param string|false|null $value
 	 * @param bool $lazy If `true`, an existing header value is not overridden
 	 * @return string|$this
@@ -264,6 +293,7 @@ class Responder
 	/**
 	 * Setter and getter for all headers
 	 *
+	 * @param array|null $headers
 	 * @return array|$this
 	 */
 	public function headers(array $headers = null)
@@ -303,6 +333,7 @@ class Responder
 	/**
 	 * Shortcut to configure a json response
 	 *
+	 * @param array|null $json
 	 * @return string|$this
 	 */
 	public function json(array $json = null)
@@ -317,12 +348,12 @@ class Responder
 	/**
 	 * Shortcut to create a redirect response
 	 *
+	 * @param string|null $location
+	 * @param int|null $code
 	 * @return $this
 	 */
-	public function redirect(
-		string|null $location = null,
-		int|null $code = null
-	) {
+	public function redirect(string|null $location = null, int|null $code = null)
+	{
 		$location = Url::to($location ?? '/');
 		$location = Url::unIdn($location);
 
@@ -333,8 +364,11 @@ class Responder
 
 	/**
 	 * Creates and returns the response object from the config
+	 *
+	 * @param string|null $body
+	 * @return \Kirby\Cms\Response
 	 */
-	public function send(string $body = null): Response
+	public function send(string $body = null)
 	{
 		if ($body !== null) {
 			$this->body($body);
@@ -346,6 +380,8 @@ class Responder
 	/**
 	 * Converts the response configuration
 	 * to an array
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{
@@ -363,6 +399,7 @@ class Responder
 	/**
 	 * Setter and getter for the content type
 	 *
+	 * @param string|null $type
 	 * @return string|$this
 	 */
 	public function type(string $type = null)
@@ -386,6 +423,10 @@ class Responder
 	 * is actually used/relied on by the response
 	 * @since 3.7.0
 	 * @internal
+	 *
+	 * @param bool $usesAuth
+	 * @param array $usesCookies
+	 * @return bool
 	 */
 	public static function isPrivate(bool $usesAuth, array $usesCookies): bool
 	{

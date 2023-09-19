@@ -27,12 +27,16 @@ class Blocks extends Items
 
 	/**
 	 * All registered blocks methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 
 	/**
 	 * Return HTML when the collection is
 	 * converted to a string
+	 *
+	 * @return string
 	 */
 	public function __toString(): string
 	{
@@ -43,8 +47,11 @@ class Blocks extends Items
 	 * Converts the blocks to HTML and then
 	 * uses the Str::excerpt method to create
 	 * a non-formatted, shortened excerpt from it
+	 *
+	 * @param mixed ...$args
+	 * @return string
 	 */
-	public function excerpt(mixed ...$args): string
+	public function excerpt(...$args)
 	{
 		return Str::excerpt($this->toHtml(), ...$args);
 	}
@@ -52,11 +59,13 @@ class Blocks extends Items
 	/**
 	 * Wrapper around the factory to
 	 * catch blocks from layouts
+	 *
+	 * @param array $items
+	 * @param array $params
+	 * @return \Kirby\Cms\Blocks
 	 */
-	public static function factory(
-		array $items = null,
-		array $params = []
-	): static {
+	public static function factory(array $items = null, array $params = [])
+	{
 		$items = static::extractFromLayouts($items);
 
 		// @deprecated old editor format
@@ -70,6 +79,9 @@ class Blocks extends Items
 
 	/**
 	 * Pull out blocks from layouts
+	 *
+	 * @param array $input
+	 * @return array
 	 */
 	protected static function extractFromLayouts(array $input): array
 	{
@@ -103,6 +115,9 @@ class Blocks extends Items
 	/**
 	 * Checks if a given block type exists in the collection
 	 * @since 3.6.0
+	 *
+	 * @param string $type
+	 * @return bool
 	 */
 	public function hasType(string $type): bool
 	{
@@ -111,8 +126,11 @@ class Blocks extends Items
 
 	/**
 	 * Parse and sanitize various block formats
+	 *
+	 * @param array|string $input
+	 * @return array
 	 */
-	public static function parse(array|string|null $input): array
+	public static function parse($input): array
 	{
 		if (empty($input) === false && is_array($input) === false) {
 			try {
@@ -157,10 +175,16 @@ class Blocks extends Items
 
 	/**
 	 * Convert all blocks to HTML
+	 *
+	 * @return string
 	 */
 	public function toHtml(): string
 	{
-		$html = A::map($this->data, fn ($block) => $block->toHtml());
+		$html = [];
+
+		foreach ($this->data as $block) {
+			$html[] = $block->toHtml();
+		}
 
 		return implode($html);
 	}

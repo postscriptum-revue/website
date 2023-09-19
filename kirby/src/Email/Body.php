@@ -17,29 +17,17 @@ use Kirby\Toolkit\Properties;
  */
 class Body
 {
-	protected string|null $html;
-	protected string|null $text;
+	use Properties;
+
+	protected string|null $html = null;
+	protected string|null $text = null;
 
 	/**
 	 * Email body constructor
 	 */
 	public function __construct(array $props = [])
 	{
-		$this->html = $props['html'] ?? null;
-		$this->text = $props['text'] ?? null;
-	}
-
-	/**
-	 * Creates a new instance while
-	 * merging initial and new properties
-	 * @deprecated 4.0.0
-	 */
-	public function clone(array $props = []): static
-	{
-		return new static(array_merge_recursive([
-			'html' => $this->html,
-			'text' => $this->text
-		], $props));
+		$this->setProperties($props);
 	}
 
 	/**
@@ -59,13 +47,24 @@ class Body
 	}
 
 	/**
-	 * @since 4.0.0
+	 * Sets the HTML content for the email body
+	 *
+	 * @return $this
 	 */
-	public function toArray(): array
+	protected function setHtml(string|null $html = null): static
 	{
-		return [
-			'html' => $this->html(),
-			'text' => $this->text()
-		];
+		$this->html = $html;
+		return $this;
+	}
+
+	/**
+	 * Sets the plain text content for the email body
+	 *
+	 * @return $this
+	 */
+	protected function setText(string|null $text = null): static
+	{
+		$this->text = $text;
+		return $this;
 	}
 }

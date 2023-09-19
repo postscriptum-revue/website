@@ -3,7 +3,7 @@
 namespace Kirby\Uuid;
 
 use Kirby\Cms\Blocks;
-use Kirby\Content\Field;
+use Kirby\Cms\Field;
 
 /**
  * UUID for \Kirby\Cms\Block

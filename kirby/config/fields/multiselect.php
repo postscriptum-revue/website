@@ -1,22 +1,34 @@
 <?php
 
 use Kirby\Toolkit\Str;
-use Kirby\Toolkit\V;
 
 return [
 	'extends' => 'tags',
 	'props' => [
 		/**
-		 * If set to `all`, any type of input is accepted. If set to `options` only the predefined options are accepted as input.
+		 * Unset inherited props
 		 */
-		'accept' => function ($value = 'options') {
-			return V::in($value, ['all', 'options']) ? $value : 'all';
-		},
+		'accept' => null,
 		/**
 		 * Custom icon to replace the arrow down.
 		 */
-		'icon' => function (string $icon = 'checklist') {
+		'icon' => function (string $icon = null) {
 			return $icon;
+		},
+		/**
+		 * Enable/disable the search in the dropdown
+		 * Also limit displayed items (display: 20)
+		 * and set minimum number of characters to search (min: 3)
+		 */
+		'search' => function ($search = true) {
+			return $search;
+		},
+		/**
+		 * If `true`, selected entries will be sorted
+		 * according to their position in the dropdown
+		 */
+		'sort' => function (bool $sort = false) {
+			return $sort;
 		},
 	],
 	'methods' => [

@@ -7,12 +7,6 @@ return [
 		 */
 		'marks' => function ($marks = true) {
 			return $marks;
-		},
-		/**
-		 * Sets the allowed nodes. Available nodes: `bulletList`, `orderedList`
-		 */
-		'nodes' => function ($nodes = null) {
-			return $nodes;
 		}
 	],
 	'computed' => [

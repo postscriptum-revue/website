@@ -24,31 +24,41 @@ class Event
 	/**
 	 * The full event name
 	 * (e.g. `page.create:after`)
+	 *
+	 * @var string
 	 */
-	protected string $name;
+	protected $name;
 
 	/**
 	 * The event type
 	 * (e.g. `page` in `page.create:after`)
+	 *
+	 * @var string
 	 */
-	protected string $type;
+	protected $type;
 
 	/**
 	 * The event action
 	 * (e.g. `create` in `page.create:after`)
+	 *
+	 * @var string|null
 	 */
-	protected string|null $action;
+	protected $action;
 
 	/**
 	 * The event state
 	 * (e.g. `after` in `page.create:after`)
+	 *
+	 * @var string|null
 	 */
-	protected string|null $state;
+	protected $state;
 
 	/**
 	 * The event arguments
+	 *
+	 * @var array
 	 */
-	protected array $arguments = [];
+	protected $arguments = [];
 
 	/**
 	 * Class constructor
@@ -73,15 +83,20 @@ class Event
 
 	/**
 	 * Magic caller for event arguments
+	 *
+	 * @param string $method
+	 * @param array $arguments
+	 * @return mixed
 	 */
-	public function __call(string $method, array $arguments = []): mixed
+	public function __call(string $method, array $arguments = [])
 	{
 		return $this->argument($method);
 	}
 
 	/**
 	 * Improved `var_dump` output
-	 * @codeCoverageIgnore
+	 *
+	 * @return array
 	 */
 	public function __debugInfo(): array
 	{
@@ -91,6 +106,8 @@ class Event
 	/**
 	 * Makes it possible to simply echo
 	 * or stringify the entire object
+	 *
+	 * @return string
 	 */
 	public function __toString(): string
 	{
@@ -100,6 +117,8 @@ class Event
 	/**
 	 * Returns the action of the event (e.g. `create`)
 	 * or `null` if the event name does not include an action
+	 *
+	 * @return string|null
 	 */
 	public function action(): string|null
 	{
@@ -108,14 +127,19 @@ class Event
 
 	/**
 	 * Returns a specific event argument
+	 *
+	 * @param string $name
+	 * @return mixed
 	 */
-	public function argument(string $name): mixed
+	public function argument(string $name)
 	{
 		return $this->arguments[$name] ?? null;
 	}
 
 	/**
 	 * Returns the arguments of the event
+	 *
+	 * @return array
 	 */
 	public function arguments(): array
 	{
@@ -127,8 +151,10 @@ class Event
 	 * the hook's return value
 	 *
 	 * @param object|null $bind Optional object to bind to the hook function
+	 * @param \Closure $hook
+	 * @return mixed
 	 */
-	public function call(object|null $bind, Closure $hook): mixed
+	public function call(object|null $bind, Closure $hook)
 	{
 		// collect the list of possible hook arguments
 		$data = $this->arguments();
@@ -141,6 +167,8 @@ class Event
 
 	/**
 	 * Returns the full name of the event
+	 *
+	 * @return string
 	 */
 	public function name(): string
 	{
@@ -150,16 +178,13 @@ class Event
 	/**
 	 * Returns the full list of possible wildcard
 	 * event names based on the current event name
+	 *
+	 * @return array
 	 */
 	public function nameWildcards(): array
 	{
-		// if the event is already a wildcard event,
-		// no further variation is possible
-		if (
-			$this->type === '*' ||
-			$this->action === '*' ||
-			$this->state === '*'
-		) {
+		// if the event is already a wildcard event, no further variation is possible
+		if ($this->type === '*' || $this->action === '*' || $this->state === '*') {
 			return [];
 		}
 
@@ -203,6 +228,8 @@ class Event
 
 	/**
 	 * Returns the state of the event (e.g. `after`)
+	 *
+	 * @return string|null
 	 */
 	public function state(): string|null
 	{
@@ -211,6 +238,8 @@ class Event
 
 	/**
 	 * Returns the event data as array
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{
@@ -222,6 +251,8 @@ class Event
 
 	/**
 	 * Returns the event name as string
+	 *
+	 * @return string
 	 */
 	public function toString(): string
 	{
@@ -230,6 +261,8 @@ class Event
 
 	/**
 	 * Returns the type of the event (e.g. `page`)
+	 *
+	 * @return string
 	 */
 	public function type(): string
 	{
@@ -240,6 +273,9 @@ class Event
 	 * Updates a given argument with a new value
 	 *
 	 * @internal
+	 * @param string $name
+	 * @param mixed $value
+	 * @return void
 	 * @throws \Kirby\Exception\InvalidArgumentException
 	 */
 	public function updateArgument(string $name, $value): void

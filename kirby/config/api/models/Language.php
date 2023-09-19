@@ -15,7 +15,7 @@ return [
 		'rules'     => fn (Language $language) => $language->rules(),
 		'url'       => fn (Language $language) => $language->url(),
 	],
-	'type'  => Language::class,
+	'type'  => 'Kirby\Cms\Language',
 	'views' => [
 		'default' => [
 			'code',

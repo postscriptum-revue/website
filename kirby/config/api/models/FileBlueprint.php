@@ -12,6 +12,7 @@ return [
 		'tabs'    => fn (FileBlueprint $blueprint) => $blueprint->tabs(),
 		'title'   => fn (FileBlueprint $blueprint) => $blueprint->title(),
 	],
-	'type'  => FileBlueprint::class,
-	'views' => [],
+	'type' => 'Kirby\Cms\FileBlueprint',
+	'views' => [
+	],
 ];

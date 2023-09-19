@@ -40,8 +40,10 @@ class Parsley
 		// or should be skipped
 		if ($this->useXmlExtension() === false) {
 			$this->blocks[] = [
-				'type'    => 'markdown',
-				'content' => ['text' => $html]
+				'type' => 'markdown',
+				'content' => [
+					'text' => $html,
+				]
 			];
 			return;
 		}
@@ -102,10 +104,7 @@ class Parsley
 		}
 
 		foreach ($element->childNodes as $childNode) {
-			if (
-				$this->isBlock($childNode) === true ||
-				$this->containsBlock($childNode)
-			) {
+			if ($this->isBlock($childNode) === true || $this->containsBlock($childNode)) {
 				return true;
 			}
 		}
@@ -130,7 +129,7 @@ class Parsley
 		$html = [];
 
 		foreach ($this->inline as $inline) {
-			$node   = new Inline($inline, $this->marks);
+			$node = new Inline($inline, $this->marks);
 			$html[] = $node->innerHTML();
 		}
 
@@ -162,11 +161,11 @@ class Parsley
 	 */
 	public function isBlock(DOMNode $element): bool
 	{
-		if ($element instanceof DOMElement) {
-			return array_key_exists($element->tagName, $this->nodes) === true;
+		if ($element instanceof DOMElement === false) {
+			return false;
 		}
 
-		return false;
+		return array_key_exists($element->tagName, $this->nodes) === true;
 	}
 
 	/**
@@ -205,11 +204,7 @@ class Parsley
 		$lastItem  = $this->blocks[$lastIndex] ?? null;
 
 		// merge with previous block
-		if (
-			$block['type'] === 'text' &&
-			$lastItem &&
-			$lastItem['type'] === 'text'
-		) {
+		if ($block['type'] === 'text' && $lastItem && $lastItem['type'] === 'text') {
 			$this->blocks[$lastIndex]['content']['text'] .= ' ' . $block['content']['text'];
 
 		// append
@@ -232,18 +227,15 @@ class Parsley
 		}
 
 		// inline context
-		if ($this->isInline($element) === true) {
+		if ($this->isInline($element)) {
 			$this->inline[] = $element;
 			return true;
+		} else {
+			$this->endInlineBlock();
 		}
-
-		$this->endInlineBlock();
 
 		// known block nodes
 		if ($this->isBlock($element) === true) {
-			/**
-			 * @var DOMElement $element
-			 */
 			if ($parser = ($this->nodes[$element->tagName]['parse'] ?? null)) {
 				if ($result = $parser(new Element($element, $this->marks))) {
 					$this->blocks[] = $result;
@@ -254,9 +246,6 @@ class Parsley
 
 		// has only unknown children (div, etc.)
 		if ($this->containsBlock($element) === false) {
-			/**
-			 * @var DOMElement $element
-			 */
 			if (in_array($element->tagName, $this->skip) === true) {
 				return false;
 			}

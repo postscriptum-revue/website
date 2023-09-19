@@ -40,7 +40,7 @@ return [
 		'url'      => fn (Page $page) => $page->url(),
 		'uuid'     => fn (Page $page) => $page->uuid()?->toString()
 	],
-	'type' => Page::class,
+	'type' => 'Kirby\Cms\Page',
 	'views' => [
 		'compact' => [
 			'id',

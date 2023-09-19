@@ -14,6 +14,7 @@ use Kirby\Http\Router;
 use Kirby\Toolkit\Collection as BaseCollection;
 use Kirby\Toolkit\I18n;
 use Kirby\Toolkit\Pagination;
+use Kirby\Toolkit\Properties;
 use Kirby\Toolkit\Str;
 use Throwable;
 
@@ -31,6 +32,8 @@ use Throwable;
  */
 class Api
 {
+	use Properties;
+
 	/**
 	 * Authentication callback
 	 */
@@ -84,28 +87,6 @@ class Api
 	protected string|null $requestMethod = null;
 
 	/**
-	 * Creates a new API instance
-	 */
-	public function __construct(array $props)
-	{
-		$this->authentication = $props['authentication'] ?? null;
-		$this->data           = $props['data'] ?? [];
-		$this->routes         = $props['routes'] ?? [];
-		$this->debug  		  = $props['debug'] ?? false;
-
-		if ($collections = $props['collections'] ?? null) {
-			$this->collections = array_change_key_case($collections);
-		}
-
-		if ($models = $props['models'] ?? null) {
-			$this->models = array_change_key_case($models);
-		}
-
-		$this->setRequestData($props['requestData'] ?? null);
-		$this->setRequestMethod($props['requestMethod'] ?? null);
-	}
-
-	/**
 	 * Magic accessor for any given data
 	 *
 	 * @throws \Kirby\Exception\NotFoundException
@@ -113,6 +94,14 @@ class Api
 	public function __call(string $method, array $args = [])
 	{
 		return $this->data($method, ...$args);
+	}
+
+	/**
+	 * Creates a new API instance
+	 */
+	public function __construct(array $props)
+	{
+		$this->setProperties($props);
 	}
 
 	/**
@@ -126,6 +115,8 @@ class Api
 
 	/**
 	 * Returns the authentication callback
+	 *
+	 * @return \Closure|null
 	 */
 	public function authentication(): Closure|null
 	{
@@ -139,11 +130,8 @@ class Api
 	 * @throws \Kirby\Exception\NotFoundException
 	 * @throws \Exception
 	 */
-	public function call(
-		string|null $path = null,
-		string $method = 'GET',
-		array $requestData = []
-	): mixed {
+	public function call(string|null $path = null, string $method = 'GET', array $requestData = [])
+	{
 		$path = rtrim($path ?? '', '/');
 
 		$this->setRequestMethod($method);
@@ -207,33 +195,13 @@ class Api
 	}
 
 	/**
-	 * Creates a new instance while
-	 * merging initial and new properties
-	 */
-	public function clone(array $props = []): static
-	{
-		return new static(array_merge([
-			'autentication' => $this->authentication,
-			'data'			=> $this->data,
-			'routes'		=> $this->routes,
-			'debug'			=> $this->debug,
-			'collections'   => $this->collections,
-			'models'		=> $this->models,
-			'requestData'   => $this->requestData,
-			'requestMethod' => $this->requestMethod
-		], $props));
-	}
-
-	/**
 	 * Setter and getter for an API collection
 	 *
 	 * @throws \Kirby\Exception\NotFoundException If no collection for `$name` exists
 	 * @throws \Exception
 	 */
-	public function collection(
-		string $name,
-		array|BaseCollection|null $collection = null
-	): Collection {
+	public function collection(string $name, array|BaseCollection|null $collection = null): Collection
+	{
 		if (isset($this->collections[$name]) === false) {
 			throw new NotFoundException(sprintf('The collection "%s" does not exist', $name));
 		}
@@ -255,7 +223,7 @@ class Api
 	 *
 	 * @throws \Kirby\Exception\NotFoundException If no data for `$key` exists
 	 */
-	public function data(string|null $key = null, ...$args): mixed
+	public function data(string|null $key = null, ...$args)
 	{
 		if ($key === null) {
 			return $this->data;
@@ -296,10 +264,8 @@ class Api
 	 * @param array models or collections
 	 * @return string|null key of match
 	 */
-	protected function match(
-		array $array,
-		$object = null
-	): string|null {
+	protected function match(array $array, $object = null): string|null
+	{
 		foreach ($array as $definition => $model) {
 			if ($object instanceof $model['type']) {
 				return $definition;
@@ -314,10 +280,8 @@ class Api
 	 *
 	 * @throws \Kirby\Exception\NotFoundException If no model for `$name` exists
 	 */
-	public function model(
-		string|null $name = null,
-		$object = null
-	): Model {
+	public function model(string|null $name = null, $object = null): Model
+	{
 		// Try to auto-match object with API models
 		$name ??= $this->match($this->models, $object);
 
@@ -340,12 +304,17 @@ class Api
 	 * Getter for request data
 	 * Can either get all the data
 	 * or certain parts of it.
+	 *
+	 * @param string|null $type
+	 * @param string|null $key
+	 * @param mixed $default
+	 * @return mixed
 	 */
 	public function requestData(
 		string|null $type = null,
 		string|null $key = null,
-		mixed $default = null
-	): mixed {
+		$default = null
+	) {
 		if ($type === null) {
 			return $this->requestData;
 		}
@@ -363,30 +332,24 @@ class Api
 	/**
 	 * Returns the request body if available
 	 */
-	public function requestBody(
-		string|null $key = null,
-		mixed $default = null
-	): mixed {
+	public function requestBody(string|null $key = null, $default = null)
+	{
 		return $this->requestData('body', $key, $default);
 	}
 
 	/**
 	 * Returns the files from the request if available
 	 */
-	public function requestFiles(
-		string|null $key = null,
-		mixed $default = null
-	): mixed {
+	public function requestFiles(string|null $key = null, $default = null)
+	{
 		return $this->requestData('files', $key, $default);
 	}
 
 	/**
 	 * Returns all headers from the request if available
 	 */
-	public function requestHeaders(
-		string|null $key = null,
-		mixed $default = null
-	): mixed {
+	public function requestHeaders(string|null $key = null, $default = null)
+	{
 		return $this->requestData('headers', $key, $default);
 	}
 
@@ -401,10 +364,8 @@ class Api
 	/**
 	 * Returns the request query if available
 	 */
-	public function requestQuery(
-		string|null $key = null,
-		mixed $default = null
-	): mixed {
+	public function requestQuery(string|null $key = null, $default = null)
+	{
 		return $this->requestData('query', $key, $default);
 	}
 
@@ -443,13 +404,101 @@ class Api
 	}
 
 	/**
+	 * Setter for the authentication callback
+	 * @return $this
+	 */
+	protected function setAuthentication(Closure|null $authentication = null): static
+	{
+		$this->authentication = $authentication;
+		return $this;
+	}
+
+	/**
+	 * Setter for the collections definition
+	 * @return $this
+	 */
+	protected function setCollections(array|null $collections = null): static
+	{
+		if ($collections !== null) {
+			$this->collections = array_change_key_case($collections);
+		}
+		return $this;
+	}
+
+	/**
+	 * Setter for the injected data
+	 * @return $this
+	 */
+	protected function setData(array|null $data = null): static
+	{
+		$this->data = $data ?? [];
+		return $this;
+	}
+
+	/**
+	 * Setter for the debug flag
+	 * @return $this
+	 */
+	protected function setDebug(bool $debug = false): static
+	{
+		$this->debug = $debug;
+		return $this;
+	}
+
+	/**
+	 * Setter for the model definitions
+	 * @return $this
+	 */
+	protected function setModels(array|null $models = null): static
+	{
+		if ($models !== null) {
+			$this->models = array_change_key_case($models);
+		}
+
+		return $this;
+	}
+
+	/**
+	 * Setter for the request data
+	 * @return $this
+	 */
+	protected function setRequestData(array|null $requestData = null): static
+	{
+		$defaults = [
+			'query' => [],
+			'body'  => [],
+			'files' => []
+		];
+
+		$this->requestData = array_merge($defaults, (array)$requestData);
+		return $this;
+	}
+
+	/**
+	 * Setter for the request method
+	 * @return $this
+	 */
+	protected function setRequestMethod(string|null $requestMethod = null): static
+	{
+		$this->requestMethod = $requestMethod ?? 'GET';
+		return $this;
+	}
+
+	/**
+	 * Setter for the route definitions
+	 * @return $this
+	 */
+	protected function setRoutes(array|null $routes = null): static
+	{
+		$this->routes = $routes ?? [];
+		return $this;
+	}
+
+	/**
 	 * Renders the API call
 	 */
-	public function render(
-		string $path,
-		string $method = 'GET',
-		array $requestData = []
-	): mixed {
+	public function render(string $path, string $method = 'GET', array $requestData = [])
+	{
 		try {
 			$result = $this->call($path, $method, $requestData);
 		} catch (Throwable $e) {
@@ -571,34 +620,6 @@ class Api
 	}
 
 	/**
-	 * Setter for the request data
-	 * @return $this
-	 */
-	protected function setRequestData(
-		array|null $requestData = []
-	): static {
-		$defaults = [
-			'query' => [],
-			'body'  => [],
-			'files' => []
-		];
-
-		$this->requestData = array_merge($defaults, (array)$requestData);
-		return $this;
-	}
-
-	/**
-	 * Setter for the request method
-	 * @return $this
-	 */
-	protected function setRequestMethod(
-		string $requestMethod = null
-	): static {
-		$this->requestMethod = $requestMethod ?? 'GET';
-		return $this;
-	}
-
-	/**
 	 * Upload helper method
 	 *
 	 * move_uploaded_file() not working with unit test
@@ -606,11 +627,8 @@ class Api
 	 *
 	 * @throws \Exception If request has no files or there was an error with the upload
 	 */
-	public function upload(
-		Closure $callback,
-		bool $single = false,
-		bool $debug = false
-	): array {
+	public function upload(Closure $callback, bool $single = false, bool $debug = false): array
+	{
 		$trials  = 0;
 		$uploads = [];
 		$errors  = [];
@@ -650,9 +668,8 @@ class Api
 
 			try {
 				if ($upload['error'] !== 0) {
-					throw new Exception(
-						$errorMessages[$upload['error']] ?? I18n::translate('upload.error.default')
-					);
+					$errorMessage = $errorMessages[$upload['error']] ?? I18n::translate('upload.error.default');
+					throw new Exception($errorMessage);
 				}
 
 				// get the extension of the uploaded file
@@ -679,9 +696,7 @@ class Api
 					$debug === false &&
 					move_uploaded_file($upload['tmp_name'], $source) === false
 				) {
-					throw new Exception(
-						I18n::translate('upload.error.cantMove')
-					);
+					throw new Exception(I18n::translate('upload.error.cantMove'));
 				}
 
 				$data = $callback($source, $filename);

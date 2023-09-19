@@ -2,10 +2,12 @@
 
 namespace Kirby\Panel;
 
+use Closure;
 use Kirby\Cms\App;
 use Kirby\Exception\Exception;
 use Kirby\Http\Response;
 use Kirby\Toolkit\A;
+use Kirby\Toolkit\I18n;
 use Kirby\Toolkit\Str;
 use Throwable;
 
@@ -38,9 +40,7 @@ class View
 			return static::applyOnly($data, $only);
 		}
 
-		$globals =
-			$request->header('X-Fiber-Globals') ??
-			$request->get('_globals');
+		$globals = $request->header('X-Fiber-Globals') ?? $request->get('_globals');
 
 		if (empty($globals) === false) {
 			return static::applyGlobals($data, $globals);
@@ -56,10 +56,8 @@ class View
 	 * A global request can be activated with the `X-Fiber-Globals` header or the
 	 * `_globals` query parameter.
 	 */
-	public static function applyGlobals(
-		array $data,
-		string|null $globals = null
-	): array {
+	public static function applyGlobals(array $data, string|null $globals = null): array
+	{
 		// split globals string into an array of fields
 		$globalKeys = Str::split($globals, ',');
 
@@ -88,10 +86,8 @@ class View
 	 * Such requests can fetch shared data or globals.
 	 * Globals will be loaded on demand.
 	 */
-	public static function applyOnly(
-		array $data,
-		string|null $only = null
-	): array {
+	public static function applyOnly(array $data, string|null $only = null): array
+	{
 		// split include string into an array of fields
 		$onlyKeys = Str::split($only, ',');
 
@@ -119,7 +115,9 @@ class View
 		}
 
 		// Nest dotted keys in array but ignore $translation
-		return A::nest($result, ['$translation']);
+		return A::nest($result, [
+			'$translation'
+		]);
 	}
 
 	/**
@@ -148,18 +146,14 @@ class View
 		return [
 			'$direction' => function () use ($kirby, $multilang, $language, $user) {
 				if ($multilang === true && $language && $user) {
-					$default = $kirby->defaultLanguage();
+					$isDefault = $language->direction() === $kirby->defaultLanguage()->direction();
+					$isFromUser = $language->code() === $user->language();
 
-					if (
-						$language->direction() !== $default->direction() &&
-						$language->code() !== $user->language()
-					) {
+					if ($isDefault === false && $isFromUser === false) {
 						return $language->direction();
 					}
 				}
 			},
-			'$dialog'   => null,
-			'$drawer'   => null,
 			'$language' => function () use ($kirby, $multilang, $language) {
 				if ($multilang === true && $language) {
 					return [
@@ -184,20 +178,15 @@ class View
 
 				return [];
 			},
-			'$menu'       => function () use ($options, $permissions) {
-				$menu = new Menu(
-					$options['areas'] ?? [],
-					$permissions,
-					$options['area']['id'] ?? null
-				);
-				return $menu->entries();
+			'$menu' => function () use ($options, $permissions) {
+				return static::menu($options['areas'] ?? [], $permissions, $options['area']['id'] ?? null);
 			},
 			'$permissions' => $permissions,
-			'$license'     => (bool)$kirby->system()->license(),
-			'$multilang'   => $multilang,
-			'$searches'    => static::searches($options['areas'] ?? [], $permissions),
-			'$url'         => $kirby->request()->url()->toString(),
-			'$user'        => function () use ($user) {
+			'$license' => (bool)$kirby->system()->license(),
+			'$multilang' => $multilang,
+			'$searches' => static::searches($options['areas'] ?? [], $permissions),
+			'$url' => $kirby->request()->url()->toString(),
+			'$user' => function () use ($user) {
 				if ($user) {
 					return [
 						'email'       => $user->email(),
@@ -215,25 +204,17 @@ class View
 					'breadcrumb' => [],
 					'code'       => 200,
 					'path'       => Str::after($kirby->path(), '/'),
-					'props'      => [],
-					'query'      => App::instance()->request()->query()->toArray(),
-					'referrer'   => Panel::referrer(),
-					'search'     => $kirby->option('panel.search.type', 'pages'),
 					'timestamp'  => (int)(microtime(true) * 1000),
+					'props'      => [],
+					'search'     => $kirby->option('panel.search.type', 'pages')
 				];
 
-				$view = array_replace_recursive(
-					$defaults,
-					$options['area'] ?? [],
-					$view
-				);
+				$view = array_replace_recursive($defaults, $options['area'] ?? [], $view);
 
 				// make sure that views and dialogs are gone
 				unset(
 					$view['dialogs'],
-					$view['drawers'],
 					$view['dropdowns'],
-					$view['requests'],
 					$view['searches'],
 					$view['views']
 				);
@@ -274,11 +255,17 @@ class View
 		$kirby = App::instance();
 
 		return [
-			'$config' => fn () => [
-				'debug'       => $kirby->option('debug', false),
-				'kirbytext'   => $kirby->option('panel.kirbytext', true),
-				'translation' => $kirby->option('panel.language', 'en'),
-			],
+			'$config' => function () use ($kirby) {
+				return [
+					'debug'     => $kirby->option('debug', false),
+					'kirbytext' => $kirby->option('panel.kirbytext', true),
+					'search'    => [
+						'limit' => $kirby->option('panel.search.limit', 10),
+						'type'  => $kirby->option('panel.search.type', 'pages')
+					],
+					'translation' => $kirby->option('panel.language', 'en'),
+				];
+			},
 			'$system' => function () use ($kirby) {
 				$locales = [];
 
@@ -314,6 +301,67 @@ class View
 				'site' => $kirby->url('index')
 			]
 		];
+	}
+
+	/**
+	 * Creates the menu for the topbar
+	 */
+	public static function menu(array|null $areas = [], array|null $permissions = [], string|null $current = null): array
+	{
+		$menu = [];
+
+		// areas
+		foreach ($areas as $areaId => $area) {
+			$access = $permissions['access'][$areaId] ?? true;
+
+			// areas without access permissions get skipped entirely
+			if ($access === false) {
+				continue;
+			}
+
+			// fetch custom menu settings from the area definition
+			$menuSetting = $area['menu'] ?? false;
+
+			// menu settings can be a callback that can return true, false or disabled
+			if ($menuSetting instanceof Closure) {
+				$menuSetting = $menuSetting($areas, $permissions, $current);
+			}
+
+			// false will remove the area entirely just like with
+			// disabled permissions
+			if ($menuSetting === false) {
+				continue;
+			}
+
+			$menu[] = [
+				'current'  => $areaId === $current,
+				'disabled' => $menuSetting === 'disabled',
+				'icon'     => $area['icon'],
+				'id'       => $areaId,
+				'link'     => $area['link'],
+				'text'     => $area['label'],
+			];
+		}
+
+		$menu[] = '-';
+		$menu[] = [
+			'current'  => $current === 'account',
+			'icon'     => 'account',
+			'id'       => 'account',
+			'link'     => 'account',
+			'disabled' => ($permissions['access']['account'] ?? false) === false,
+			'text'     => I18n::translate('view.account'),
+		];
+		$menu[] = '-';
+
+		// logout
+		$menu[] = [
+			'icon' => 'logout',
+			'id'   => 'logout',
+			'link' => 'logout',
+			'text' => I18n::translate('logout')
+		];
+		return $menu;
 	}
 
 	/**

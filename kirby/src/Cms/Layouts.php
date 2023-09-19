@@ -2,7 +2,7 @@
 
 namespace Kirby\Cms;
 
-use Kirby\Data\Json;
+use Kirby\Data\Data;
 use Kirby\Toolkit\Str;
 use Throwable;
 
@@ -22,28 +22,17 @@ class Layouts extends Items
 
 	/**
 	 * All registered layouts methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 
-	public static function factory(
-		array $items = null,
-		array $params = []
-	): static {
-		// convert single layout to layouts array
-		if (
-			isset($items['columns']) === true ||
-			isset($items['id']) === true
-		) {
-			$items = [$items];
-		}
-
+	public static function factory(array $items = null, array $params = [])
+	{
 		$first = $items[0] ?? [];
 
 		// if there are no wrapping layouts for blocks yet …
-		if (
-			isset($first['content']) === true ||
-			isset($first['type']) === true
-		) {
+		if (array_key_exists('content', $first) === true || array_key_exists('type', $first) === true) {
 			$items = [
 				[
 					'id'      => Str::uuid(),
@@ -63,6 +52,9 @@ class Layouts extends Items
 	/**
 	 * Checks if a given block type exists in the layouts collection
 	 * @since 3.6.0
+	 *
+	 * @param string $type
+	 * @return bool
 	 */
 	public function hasBlockType(string $type): bool
 	{
@@ -71,15 +63,15 @@ class Layouts extends Items
 
 	/**
 	 * Parse layouts data
+	 *
+	 * @param array|string $input
+	 * @return array
 	 */
-	public static function parse(array|string|null $input): array
+	public static function parse($input): array
 	{
-		if (
-			empty($input) === false &&
-			is_array($input) === false
-		) {
+		if (empty($input) === false && is_array($input) === false) {
 			try {
-				$input = Json::decode((string)$input);
+				$input = Data::decode($input, 'json');
 			} catch (Throwable) {
 				return [];
 			}
@@ -97,8 +89,9 @@ class Layouts extends Items
 	 * @since 3.6.0
 	 *
 	 * @param bool $includeHidden Sets whether to include hidden blocks
+	 * @return \Kirby\Cms\Blocks
 	 */
-	public function toBlocks(bool $includeHidden = false): Blocks
+	public function toBlocks(bool $includeHidden = false)
 	{
 		$blocks = [];
 

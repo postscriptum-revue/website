@@ -2,8 +2,6 @@
 
 namespace Kirby\Cms;
 
-use Kirby\Content\Field;
-
 /**
  * The Nest class converts any array type
  * into a Kirby style collection/object. This

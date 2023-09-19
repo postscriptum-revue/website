@@ -39,8 +39,9 @@ abstract class SessionStore
 	 *
 	 * @param int $expiryTime Timestamp
 	 * @param string $id Session ID
+	 * @return void
 	 */
-	abstract public function lock(int $expiryTime, string $id): void;
+	abstract public function lock(int $expiryTime, string $id);
 
 	/**
 	 * Removes all locks on the given session
@@ -49,8 +50,9 @@ abstract class SessionStore
 	 *
 	 * @param int $expiryTime Timestamp
 	 * @param string $id Session ID
+	 * @return void
 	 */
-	abstract public function unlock(int $expiryTime, string $id): void;
+	abstract public function unlock(int $expiryTime, string $id);
 
 	/**
 	 * Returns the stored session data of the given session
@@ -59,6 +61,7 @@ abstract class SessionStore
 	 *
 	 * @param int $expiryTime Timestamp
 	 * @param string $id Session ID
+	 * @return string
 	 */
 	abstract public function get(int $expiryTime, string $id): string;
 
@@ -71,8 +74,9 @@ abstract class SessionStore
 	 * @param int $expiryTime Timestamp
 	 * @param string $id Session ID
 	 * @param string $data Session data to write
+	 * @return void
 	 */
-	abstract public function set(int $expiryTime, string $id, string $data): void;
+	abstract public function set(int $expiryTime, string $id, string $data);
 
 	/**
 	 * Deletes the given session
@@ -81,15 +85,18 @@ abstract class SessionStore
 	 *
 	 * @param int $expiryTime Timestamp
 	 * @param string $id Session ID
+	 * @return void
 	 */
-	abstract public function destroy(int $expiryTime, string $id): void;
+	abstract public function destroy(int $expiryTime, string $id);
 
 	/**
 	 * Deletes all expired sessions
 	 *
 	 * Needs to throw an Exception on error.
+	 *
+	 * @return void
 	 */
-	abstract public function collectGarbage(): void;
+	abstract public function collectGarbage();
 
 	/**
 	 * Securely generates a random session ID

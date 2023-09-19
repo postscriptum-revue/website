@@ -13,14 +13,5 @@ namespace Kirby\Cms;
  */
 class FilePermissions extends ModelPermissions
 {
-	protected string $category = 'files';
-
-	protected function canChangeTemplate(): bool
-	{
-		if (count($this->model->blueprints()) <= 1) {
-			return false;
-		}
-
-		return true;
-	}
+	protected $category = 'files';
 }

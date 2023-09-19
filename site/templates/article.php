@@ -2,6 +2,7 @@
 
 <?php slot("aside") ?>
 
+<?php snippet("article/reference") ?>
 <!-- Boutons : télécharger en format PDF, Retour en haut de la page -->
 <?php if ( ( $keywords = $page->keywords() ) ->isNotEmpty() ) : ?>
 	<section class="site-aside__section">

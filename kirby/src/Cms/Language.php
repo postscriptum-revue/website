@@ -4,8 +4,7 @@ namespace Kirby\Cms;
 
 use Kirby\Data\Data;
 use Kirby\Exception\Exception;
-use Kirby\Exception\InvalidArgumentException;
-use Kirby\Exception\LogicException;
+use Kirby\Exception\PermissionException;
 use Kirby\Filesystem\F;
 use Kirby\Toolkit\Locale;
 use Kirby\Toolkit\Str;
@@ -27,54 +26,80 @@ use Throwable;
  * @copyright Bastian Allgeier
  * @license   https://getkirby.com/license
  */
-class Language
+class Language extends Model
 {
-	use HasSiblings;
+	/**
+	 * @var string
+	 */
+	protected $code;
 
 	/**
-	 * The parent Kirby instance
+	 * @var bool
 	 */
-	public static App|null $kirby;
+	protected $default;
 
-	protected string $code;
-	protected bool $default;
-	protected string $direction;
-	protected array $locale;
-	protected string $name;
-	protected array $slugs;
-	protected array $smartypants;
-	protected array $translations;
-	protected string|null $url;
+	/**
+	 * @var string
+	 */
+	protected $direction;
+
+	/**
+	 * @var array
+	 */
+	protected $locale;
+
+	/**
+	 * @var string
+	 */
+	protected $name;
+
+	/**
+	 * @var array|null
+	 */
+	protected $slugs;
+
+	/**
+	 * @var array|null
+	 */
+	protected $smartypants;
+
+	/**
+	 * @var array|null
+	 */
+	protected $translations;
+
+	/**
+	 * @var string
+	 */
+	protected $url;
 
 	/**
 	 * Creates a new language object
+	 *
+	 * @param array $props
 	 */
 	public function __construct(array $props)
 	{
-		if (isset($props['code']) === false) {
-			throw new InvalidArgumentException('The property "code" is required');
-		}
+		$this->setRequiredProperties($props, [
+			'code'
+		]);
 
-		static::$kirby      = $props['kirby'] ?? null;
-		$this->code         = trim($props['code']);
-		$this->default      = ($props['default'] ?? false) === true;
-		$this->direction    = ($props['direction'] ?? null) === 'rtl' ? 'rtl' : 'ltr';
-		$this->name         = trim($props['name'] ?? $this->code);
-		$this->slugs        = $props['slugs'] ?? [];
-		$this->smartypants  = $props['smartypants'] ?? [];
-		$this->translations = $props['translations'] ?? [];
-		$this->url          = $props['url'] ?? null;
-
-		if ($locale = $props['locale'] ?? null) {
-			$this->locale = Locale::normalize($locale);
-		} else {
-			$this->locale = [LC_ALL => $this->code];
-		}
+		$this->setOptionalProperties($props, [
+			'default',
+			'direction',
+			'locale',
+			'name',
+			'slugs',
+			'smartypants',
+			'translations',
+			'url',
+		]);
 	}
 
 	/**
 	 * Improved `var_dump` output
-	 * @codeCoverageIgnore
+	 *
+	 * @return array
 	 */
 	public function __debugInfo(): array
 	{
@@ -84,6 +109,8 @@ class Language
 	/**
 	 * Returns the language code
 	 * when the language is converted to a string
+	 *
+	 * @return string
 	 */
 	public function __toString(): string
 	{
@@ -93,6 +120,8 @@ class Language
 	/**
 	 * Returns the base Url for the language
 	 * without the path or other cruft
+	 *
+	 * @return string
 	 */
 	public function baseUrl(): string
 	{
@@ -111,28 +140,11 @@ class Language
 	}
 
 	/**
-	 * Creates an instance with the same
-	 * initial properties.
-	 */
-	public function clone(array $props = []): static
-	{
-		return new static(array_replace_recursive([
-			'code'         => $this->code,
-			'default'      => $this->default,
-			'direction'    => $this->direction,
-			'locale'       => $this->locale,
-			'name'         => $this->name,
-			'slugs'        => $this->slugs,
-			'smartypants'  => $this->smartypants,
-			'translations' => $this->translations,
-			'url'          => $this->url,
-		], $props));
-	}
-
-	/**
 	 * Returns the language code/id.
 	 * The language code is used in
 	 * text file names as appendix.
+	 *
+	 * @return string
 	 */
 	public function code(): string
 	{
@@ -140,10 +152,54 @@ class Language
 	}
 
 	/**
-	 * Creates a new language object
-	 * @internal
+	 * Internal converter to create or remove
+	 * translation files.
+	 *
+	 * @param string $from
+	 * @param string $to
+	 * @return bool
 	 */
-	public static function create(array $props): static
+	protected static function converter(string $from, string $to): bool
+	{
+		$kirby = App::instance();
+		$site  = $kirby->site();
+
+		// convert site
+		foreach ($site->files() as $file) {
+			F::move($file->contentFile($from, true), $file->contentFile($to, true));
+		}
+
+		F::move($site->contentFile($from, true), $site->contentFile($to, true));
+
+		// convert all pages
+		foreach ($kirby->site()->index(true) as $page) {
+			foreach ($page->files() as $file) {
+				F::move($file->contentFile($from, true), $file->contentFile($to, true));
+			}
+
+			F::move($page->contentFile($from, true), $page->contentFile($to, true));
+		}
+
+		// convert all users
+		foreach ($kirby->users() as $user) {
+			foreach ($user->files() as $file) {
+				F::move($file->contentFile($from, true), $file->contentFile($to, true));
+			}
+
+			F::move($user->contentFile($from, true), $user->contentFile($to, true));
+		}
+
+		return true;
+	}
+
+	/**
+	 * Creates a new language object
+	 *
+	 * @internal
+	 * @param array $props
+	 * @return static
+	 */
+	public static function create(array $props)
 	{
 		$props['code'] = Str::slug($props['code'] ?? null);
 		$kirby         = App::instance();
@@ -171,12 +227,7 @@ class Language
 		$language->save();
 
 		if ($languages->count() === 0) {
-			foreach ($kirby->models() as $model) {
-				$model->storage()->convertLanguage(
-					'default',
-					$language->code()
-				);
-			}
+			static::converter('', $language->code());
 		}
 
 		// update the main languages collection in the app instance
@@ -197,18 +248,17 @@ class Language
 	/**
 	 * Delete the current language and
 	 * all its translation files
-	 * @internal
 	 *
+	 * @internal
+	 * @return bool
 	 * @throws \Kirby\Exception\Exception
 	 */
 	public function delete(): bool
 	{
-		$kirby = App::instance();
-		$code  = $this->code();
-
-		if ($this->isDeletable() === false) {
-			throw new Exception('The language cannot be deleted');
-		}
+		$kirby     = App::instance();
+		$languages = $kirby->languages();
+		$code      = $this->code();
+		$isLast    = $languages->count() === 1;
 
 		// trigger before hook
 		$kirby->trigger('language.delete:before', [
@@ -219,12 +269,10 @@ class Language
 			throw new Exception('The language could not be deleted');
 		}
 
-		foreach ($kirby->models() as $model) {
-			if ($this->isLast() === true) {
-				$model->storage()->convertLanguage($code, 'default');
-			} else {
-				$model->storage()->deleteLanguage($code);
-			}
+		if ($isLast === true) {
+			$this->converter($code, '');
+		} else {
+			$this->deleteContentFiles($code);
 		}
 
 		// get the original language collection and remove the current language
@@ -239,7 +287,42 @@ class Language
 	}
 
 	/**
+	 * When the language is deleted, all content files with
+	 * the language code must be removed as well.
+	 *
+	 * @param mixed $code
+	 * @return bool
+	 */
+	protected function deleteContentFiles($code): bool
+	{
+		$kirby = App::instance();
+		$site  = $kirby->site();
+
+		F::remove($site->contentFile($code, true));
+
+		foreach ($kirby->site()->index(true) as $page) {
+			foreach ($page->files() as $file) {
+				F::remove($file->contentFile($code, true));
+			}
+
+			F::remove($page->contentFile($code, true));
+		}
+
+		foreach ($kirby->users() as $user) {
+			foreach ($user->files() as $file) {
+				F::remove($file->contentFile($code, true));
+			}
+
+			F::remove($user->contentFile($code, true));
+		}
+
+		return true;
+	}
+
+	/**
 	 * Reading direction of this language
+	 *
+	 * @return string
 	 */
 	public function direction(): string
 	{
@@ -248,6 +331,8 @@ class Language
 
 	/**
 	 * Check if the language file exists
+	 *
+	 * @return bool
 	 */
 	public function exists(): bool
 	{
@@ -257,6 +342,8 @@ class Language
 	/**
 	 * Checks if this is the default language
 	 * for the site.
+	 *
+	 * @return bool
 	 */
 	public function isDefault(): bool
 	{
@@ -264,29 +351,10 @@ class Language
 	}
 
 	/**
-	 * Checks if the language can be deleted
-	 */
-	public function isDeletable(): bool
-	{
-		// the default language can only be deleted if it's the last
-		if ($this->isDefault() === true && $this->isLast() === false) {
-			return false;
-		}
-
-		return true;
-	}
-
-	/**
-	 * Checks if this is the last language
-	 */
-	public function isLast(): bool
-	{
-		return App::instance()->languages()->count() === 1;
-	}
-
-	/**
 	 * The id is required for collections
 	 * to work properly. The code is used as id
+	 *
+	 * @return string
 	 */
 	public function id(): string
 	{
@@ -294,17 +362,11 @@ class Language
 	}
 
 	/**
-	 * Returns the parent Kirby instance
-	 */
-	public function kirby(): App
-	{
-		return static::$kirby ??= App::instance();
-	}
-
-	/**
 	 * Loads the language rules for provided locale code
+	 *
+	 * @param string $code
 	 */
-	public static function loadRules(string $code): array
+	public static function loadRules(string $code)
 	{
 		$kirby = App::instance();
 		$code  = Str::contains($code, '.') ? Str::before($code, '.') : $code;
@@ -325,8 +387,9 @@ class Language
 	 * Returns the PHP locale setting array
 	 *
 	 * @param int $category If passed, returns the locale for the specified category (e.g. LC_ALL) as string
+	 * @return array|string
 	 */
-	public function locale(int $category = null): array|string|null
+	public function locale(int $category = null)
 	{
 		if ($category !== null) {
 			return $this->locale[$category] ?? $this->locale[LC_ALL] ?? null;
@@ -338,6 +401,8 @@ class Language
 	/**
 	 * Returns the human-readable name
 	 * of the language
+	 *
+	 * @return string
 	 */
 	public function name(): string
 	{
@@ -346,6 +411,8 @@ class Language
 
 	/**
 	 * Returns the URL path for the language
+	 *
+	 * @return string
 	 */
 	public function path(): string
 	{
@@ -358,6 +425,8 @@ class Language
 
 	/**
 	 * Returns the routing pattern for the language
+	 *
+	 * @return string
 	 */
 	public function pattern(): string
 	{
@@ -372,6 +441,8 @@ class Language
 
 	/**
 	 * Returns the absolute path to the language file
+	 *
+	 * @return string
 	 */
 	public function root(): string
 	{
@@ -382,15 +453,19 @@ class Language
 	 * Returns the LanguageRouter instance
 	 * which is used to handle language specific
 	 * routes.
+	 *
+	 * @return \Kirby\Cms\LanguageRouter
 	 */
-	public function router(): LanguageRouter
+	public function router()
 	{
 		return new LanguageRouter($this);
 	}
 
 	/**
 	 * Get slug rules for language
+	 *
 	 * @internal
+	 * @return array
 	 */
 	public function rules(): array
 	{
@@ -401,11 +476,11 @@ class Language
 
 	/**
 	 * Saves the language settings in the languages folder
-	 * @internal
 	 *
+	 * @internal
 	 * @return $this
 	 */
-	public function save(): static
+	public function save()
 	{
 		try {
 			$existingData = Data::read($this->root());
@@ -433,15 +508,104 @@ class Language
 	}
 
 	/**
-	 * Private siblings collector
+	 * @param string $code
+	 * @return $this
 	 */
-	protected function siblingsCollection(): Collection
+	protected function setCode(string $code)
 	{
-		return App::instance()->languages();
+		$this->code = trim($code);
+		return $this;
+	}
+
+	/**
+	 * @param bool $default
+	 * @return $this
+	 */
+	protected function setDefault(bool $default = false)
+	{
+		$this->default = $default;
+		return $this;
+	}
+
+	/**
+	 * @param string $direction
+	 * @return $this
+	 */
+	protected function setDirection(string $direction = 'ltr')
+	{
+		$this->direction = $direction === 'rtl' ? 'rtl' : 'ltr';
+		return $this;
+	}
+
+	/**
+	 * @param string|array $locale
+	 * @return $this
+	 */
+	protected function setLocale($locale = null)
+	{
+		if ($locale === null) {
+			$this->locale = [LC_ALL => $this->code];
+		} else {
+			$this->locale = Locale::normalize($locale);
+		}
+
+		return $this;
+	}
+
+	/**
+	 * @param string $name
+	 * @return $this
+	 */
+	protected function setName(string $name = null)
+	{
+		$this->name = trim($name ?? $this->code);
+		return $this;
+	}
+
+	/**
+	 * @param array $slugs
+	 * @return $this
+	 */
+	protected function setSlugs(array $slugs = null)
+	{
+		$this->slugs = $slugs ?? [];
+		return $this;
+	}
+
+	/**
+	 * @param array $smartypants
+	 * @return $this
+	 */
+	protected function setSmartypants(array $smartypants = null)
+	{
+		$this->smartypants = $smartypants ?? [];
+		return $this;
+	}
+
+	/**
+	 * @param array $translations
+	 * @return $this
+	 */
+	protected function setTranslations(array $translations = null)
+	{
+		$this->translations = $translations ?? [];
+		return $this;
+	}
+
+	/**
+	 * @param string $url
+	 * @return $this
+	 */
+	protected function setUrl(string $url = null)
+	{
+		$this->url = $url;
+		return $this;
 	}
 
 	/**
 	 * Returns the custom slug rules for this language
+	 *
+	 * @return array
 	 */
 	public function slugs(): array
 	{
@@ -450,6 +614,8 @@ class Language
 
 	/**
 	 * Returns the custom SmartyPants options for this language
+	 *
+	 * @return array
 	 */
 	public function smartypants(): array
 	{
@@ -459,6 +625,8 @@ class Language
 	/**
 	 * Returns the most important
 	 * properties as array
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{
@@ -475,6 +643,8 @@ class Language
 
 	/**
 	 * Returns the translation strings for this language
+	 *
+	 * @return array
 	 */
 	public function translations(): array
 	{
@@ -483,6 +653,8 @@ class Language
 
 	/**
 	 * Returns the absolute Url for the language
+	 *
+	 * @return string
 	 */
 	public function url(): string
 	{
@@ -493,9 +665,12 @@ class Language
 
 	/**
 	 * Update language properties and save them
+	 *
 	 * @internal
+	 * @param array $props
+	 * @return static
 	 */
-	public function update(array $props = null): static
+	public function update(array $props = null)
 	{
 		// don't change the language code
 		unset($props['code']);
@@ -506,10 +681,6 @@ class Language
 		$kirby   = App::instance();
 		$updated = $this->clone($props);
 
-		if (isset($props['translations']) === true) {
-			$updated->translations = $props['translations'];
-		}
-
 		// validate the updated language
 		LanguageRules::update($updated);
 
@@ -519,31 +690,32 @@ class Language
 			'input' => $props
 		]);
 
-		// if language just got promoted to be the new default language…
-		if ($this->isDefault() === false && $updated->isDefault() === true) {
-			// convert the current default to a non-default language
-			$previous = $kirby->defaultLanguage()?->clone(['default' => false])->save();
-			$kirby->languages(false)->set($previous->code(), $previous);
+		// convert the current default to a non-default language
+		if ($updated->isDefault() === true) {
+			$kirby->defaultLanguage()?->clone(['default' => false])->save();
 
-			foreach ($kirby->models() as $model) {
-				$model->storage()->touchLanguage($this);
+			$code = $this->code();
+			$site = $kirby->site();
+
+			touch($site->contentFile($code));
+
+			foreach ($kirby->site()->index(true) as $page) {
+				$files = $page->files();
+
+				foreach ($files as $file) {
+					touch($file->contentFile($code));
+				}
+
+				touch($page->contentFile($code));
 			}
-		}
-
-		// if language was the default language and got demoted…
-		if (
-			$this->isDefault() === true &&
-			$updated->isDefault() === false &&
-			$kirby->defaultLanguage()->code() === $this->code()
-		) {
-			// ensure another language has already been set as default
-			throw new LogicException('Please select another language to be the primary language');
+		} elseif ($this->isDefault() === true) {
+			throw new PermissionException('Please select another language to be the primary language');
 		}
 
 		$language = $updated->save();
 
-		// make sure the language is also updated in the languages collection
-		$kirby->languages(false)->set($language->code(), $language);
+		// make sure the language is also updated in the Kirby language collection
+		App::instance()->languages(false)->set($language->code(), $language);
 
 		// trigger after hook
 		$kirby->trigger('language.update:after', [
@@ -553,20 +725,5 @@ class Language
 		]);
 
 		return $language;
-	}
-
-	/**
-	 * Returns a language variable object
-	 * for the key in the translations array
-	 */
-	public function variable(string $key, bool $decode = false): LanguageVariable
-	{
-		// allows decoding if base64-url encoded url is sent
-		// for compatibility of different environments
-		if ($decode === true) {
-			$key = rawurldecode(base64_decode($key));
-		}
-
-		return new LanguageVariable($this, $key);
 	}
 }

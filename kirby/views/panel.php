@@ -1,7 +1,6 @@
 <?php
 
 use Kirby\Cms\Url;
-use Kirby\Toolkit\Html;
 
 /**
  * @var \Kirby\Cms\App $kirby
@@ -57,8 +56,13 @@ use Kirby\Toolkit\Html;
   <?= $icons ?>
 
   <script nonce="<?= $nonce ?>">
+    // Panel state
+    const json = <?= json_encode($fiber) ?>;
+
+    window.panel = JSON.parse(JSON.stringify(json));
+
     // Fiber setup
-    window.fiber = <?= json_encode($fiber) ?>;
+    window.fiber = json;
   </script>
 
   <?php foreach ($assets['js'] as $key => $js): ?>

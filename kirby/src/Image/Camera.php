@@ -13,7 +13,16 @@ namespace Kirby\Image;
  */
 class Camera
 {
+	/**
+	 * Make exif data
+	 */
 	protected string|null $make;
+
+	/**
+	 * Model exif data
+	 *
+	 * @var
+	 */
 	protected string|null $model;
 
 	public function __construct(array $exif)
@@ -59,7 +68,6 @@ class Camera
 
 	/**
 	 * Improved `var_dump` output
-	 * @codeCoverageIgnore
 	 */
 	public function __debugInfo(): array
 	{

@@ -2,7 +2,7 @@
 
 namespace Kirby\Image;
 
-use Kirby\Content\Content;
+use Kirby\Cms\Content;
 use Kirby\Exception\LogicException;
 use Kirby\Filesystem\File;
 use Kirby\Toolkit\Html;

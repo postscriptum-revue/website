@@ -60,6 +60,8 @@ class Pagination extends BasePagination
 	 *     'url'      => new Uri('https://getkirby.com/blog')
 	 * ]);
 	 * ```
+	 *
+	 * @param array $params
 	 */
 	public function __construct(array $params = [])
 	{
@@ -93,6 +95,8 @@ class Pagination extends BasePagination
 
 	/**
 	 * Returns the Url for the first page
+	 *
+	 * @return string|null
 	 */
 	public function firstPageUrl(): string|null
 	{
@@ -101,6 +105,8 @@ class Pagination extends BasePagination
 
 	/**
 	 * Returns the Url for the last page
+	 *
+	 * @return string|null
 	 */
 	public function lastPageUrl(): string|null
 	{
@@ -110,6 +116,8 @@ class Pagination extends BasePagination
 	/**
 	 * Returns the Url for the next page.
 	 * Returns null if there's no next page.
+	 *
+	 * @return string|null
 	 */
 	public function nextPageUrl(): string|null
 	{
@@ -124,6 +132,9 @@ class Pagination extends BasePagination
 	 * Returns the URL of the current page.
 	 * If the `$page` variable is set, the URL
 	 * for that page will be returned.
+	 *
+	 * @param int|null $page
+	 * @return string|null
 	 */
 	public function pageUrl(int $page = null): string|null
 	{
@@ -154,6 +165,8 @@ class Pagination extends BasePagination
 	/**
 	 * Returns the Url for the previous page.
 	 * Returns null if there's no previous page.
+	 *
+	 * @return string|null
 	 */
 	public function prevPageUrl(): string|null
 	{

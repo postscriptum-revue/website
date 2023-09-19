@@ -26,8 +26,10 @@ class Users extends Collection
 
 	/**
 	 * All registered users methods
+	 *
+	 * @var array
 	 */
-	public static array $methods = [];
+	public static $methods = [];
 
 	public function create(array $data)
 	{
@@ -43,7 +45,7 @@ class Users extends Collection
 	 * @return $this
 	 * @throws \Kirby\Exception\InvalidArgumentException When no `User` or `Users` object or an ID of an existing user is passed
 	 */
-	public function add($object): static
+	public function add($object)
 	{
 		// add a users collection
 		if ($object instanceof self) {
@@ -70,10 +72,13 @@ class Users extends Collection
 	}
 
 	/**
-	 * Takes an array of user props and creates a nice
-	 * and clean user collection from it
+	 * Takes an array of user props and creates a nice and clean user collection from it
+	 *
+	 * @param array $users
+	 * @param array $inject
+	 * @return static
 	 */
-	public static function factory(array $users, array $inject = []): static
+	public static function factory(array $users, array $inject = [])
 	{
 		$collection = new static();
 
@@ -88,8 +93,10 @@ class Users extends Collection
 
 	/**
 	 * Returns all files of all users
+	 *
+	 * @return \Kirby\Cms\Files
 	 */
-	public function files(): Files
+	public function files()
 	{
 		$files = new Files([], $this->parent);
 
@@ -105,8 +112,11 @@ class Users extends Collection
 	/**
 	 * Finds a user in the collection by ID or email address
 	 * @internal Use `$users->find()` instead
+	 *
+	 * @param string $key
+	 * @return \Kirby\Cms\User|null
 	 */
-	public function findByKey(string $key): User|null
+	public function findByKey(string $key)
 	{
 		if ($user = $this->findByUuid($key, 'user')) {
 			return $user;
@@ -121,8 +131,12 @@ class Users extends Collection
 
 	/**
 	 * Loads a user from disk by passing the absolute path (root)
+	 *
+	 * @param string $root
+	 * @param array $inject
+	 * @return static
 	 */
-	public static function load(string $root, array $inject = []): static
+	public static function load(string $root, array $inject = [])
 	{
 		$users = new static();
 
@@ -151,8 +165,11 @@ class Users extends Collection
 
 	/**
 	 * Shortcut for `$users->filter('role', 'admin')`
+	 *
+	 * @param string $role
+	 * @return static
 	 */
-	public function role(string $role): static
+	public function role(string $role)
 	{
 		return $this->filter('role', $role);
 	}
