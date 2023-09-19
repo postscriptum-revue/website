@@ -43,8 +43,12 @@
 			<li><?= $author->name() ?></li>
 		<?php endforeach ?>
 	</ul>
-	<h1 class="text-section-hgroup__title"><?= $page->title() ?></h1>
-	<p class="text-section-hgroup__subtitle"><?= $page->subtitle() ?></p>
+	<h1 class="text-section-hgroup__title">
+		<?= $page->title()->smartypants() ?>
+	</h1>
+	<p class="text-section-hgroup__subtitle">
+		<?= $page->subtitle() ?>
+	</p>
 </hgroup>
 
 <section class="text-section">
