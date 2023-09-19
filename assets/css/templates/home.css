@@ -19,3 +19,12 @@
 	grid-template-columns: 1fr 1fr 1fr;
 	gap: 2rem;
 }
+
+.home-aside__news-item {
+	text-align: center;
+	font-size: var(--font-size-small);
+}
+
+.home-aside__news-item-img {
+	margin: 0 4rem;
+}

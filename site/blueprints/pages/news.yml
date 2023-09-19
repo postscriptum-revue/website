@@ -16,12 +16,15 @@ columns:
             call-paper:
                 label: Appels de textes
                 type: pages
+                parent: page.find("appels-de-textes")
                 template: call-paper
             call-talk:
                 label: Appels à communications
                 type: pages
+                parent: page.find("appels-a-communications")
                 template: call-talk
             conference:
                 label: Colloques
                 type: pages
+                parent: page.find("colloques")
                 template: conference

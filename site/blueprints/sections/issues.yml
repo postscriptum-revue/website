@@ -1,0 +1,9 @@
+type: pages
+label: Parutions
+layout: cards
+template: issue
+flip: true
+text: "{{ model.title }}"
+info: "Nº{{ page.num }} — {{ page.date }}"
+image:
+    cover: true

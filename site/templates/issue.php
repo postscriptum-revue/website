@@ -29,17 +29,17 @@
 
 <dl class="issue-credits">
 	<!-- TODO: Normalize terms. -->
-	<?php if ( ( $credit_img = $page->cover()->toFile()->credit() ) -> isNotEmpty() ) : ?>
-	<dt class="issue-credits__term">Image de couverture</dt>
-	<dd class="issue-credits__description">
-		<?= $credit_img ?>
-	</dd>
+	<?php if ($cover->credit()->isNotEmpty()) : ?>
+		<dt class="issue-credits__term">Image de couverture</dt>
+		<dd class="issue-credits__description">
+			<?= $cover->credit() ?>
+		</dd>
 	<?php endif ?>
-	<?php if ( ( $credit_intro = $page->credit_intro() ) -> isNotEmpty() ) : ?>
-	<dt class="issue-credits__term">Texte de présentation</dt>
-	<dd class="issue-credits__description">
-		<?= $page->credit_intro() ?>
-	</dd>
+	<?php if ($page->credit_intro()->isNotEmpty()) : ?>
+		<dt class="issue-credits__term">Texte de présentation</dt>
+		<dd class="issue-credits__description">
+			<?= $page->credit_intro() ?>
+		</dd>
 	<?php endif ?>
 	<dt class="issue-credits__term">Éditeur·rice(s)</dt>
 	<dd class="issue-credits__description">

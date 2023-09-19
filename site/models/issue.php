@@ -1,5 +1,7 @@
 <?php
 
+use Kirby\Cms\Page;
+
 class IssuePage extends Page
 {
 	public function date()

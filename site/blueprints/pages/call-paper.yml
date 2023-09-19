@@ -1,1 +1,44 @@
 title: Appel de textes
+
+columns:
+    left:
+        width: 2/3
+        fields:
+            issue_title:
+                label: Titre de la parution
+                type: text
+                required: true
+            issue_subtitle:
+                label: Sous-titre de la parution
+                help: La première lettre doit être en majuscule.
+                type: text
+            intro_text:
+                label: Texte de présentation
+                type: blocks
+                required: true
+            intro_bibliography:
+                label: Bibliographie
+                type: list
+    right:
+        width: 1/3
+        fields:
+            issue_cover:
+                label: Image de couverture
+                type: files
+                required: true
+            issue_number:
+                label: Numéro de la parution
+                type: number
+                required: true
+            issue_date:
+                label: Date de parution
+                type: date
+                required: true
+            issue_editors:
+                label: Éditeur·rices
+                type: list
+                required: true
+            submit_date:
+                label: Date limite pour la soumission
+                type: date
+                required: true
