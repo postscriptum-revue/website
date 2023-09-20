@@ -1,0 +1,7 @@
+title: Colloques
+
+sections:
+    pages:
+        type: pages
+        label: Colloques
+        template: conference

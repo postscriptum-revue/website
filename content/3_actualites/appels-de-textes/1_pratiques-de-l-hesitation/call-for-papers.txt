@@ -30,7 +30,7 @@ Issue-date: 2023-09-21
 
 ----
 
-Issue-editors: <ul><li>Thomas Filteau</li></ul>
+Issue-editors: <ul><li>Thomas</li></ul>
 
 ----
 
