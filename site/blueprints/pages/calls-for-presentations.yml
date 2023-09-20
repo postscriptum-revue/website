@@ -1,0 +1,7 @@
+title: Appels à communications
+
+sections:
+    pages:
+        type: pages
+        label: Appels à communications
+        template: call-for-presentations

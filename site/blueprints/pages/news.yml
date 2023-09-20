@@ -1,30 +1,18 @@
 title: News
 
-# TODO: Désactiver la possibilité de lister la page
-
-columns:
-    left:
-        width: 1/3
-        sections:
-            info:
-                label: Message
-                text: |
-                    TODO
-    right:
-        width: 2/3
-        sections:
-            call-paper:
-                label: Appels de textes
-                type: pages
-                parent: page.find("appels-de-textes")
-                template: call-paper
-            call-talk:
-                label: Appels à communications
-                type: pages
-                parent: page.find("appels-a-communications")
-                template: call-talk
-            conference:
-                label: Colloques
-                type: pages
-                parent: page.find("colloques")
-                template: conference
+sections:
+    call-paper:
+        label: Appels de textes
+        type: pages
+        parent: page.find("appels-de-textes")
+        template: call-for-papers
+    call-talk:
+        label: Appels à communications
+        type: pages
+        parent: page.find("appels-a-communications")
+        template: call-for-presentations
+    conference:
+        label: Colloques
+        type: pages
+        parent: page.find("colloques")
+        template: conference

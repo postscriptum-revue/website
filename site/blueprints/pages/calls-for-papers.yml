@@ -1,0 +1,7 @@
+title: Appels de textes
+
+sections:
+    pages:
+        type: pages
+        label: Appels de textes
+        template: call-for-papers
