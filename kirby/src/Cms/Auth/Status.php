@@ -134,6 +134,8 @@ class Status
 
 	/**
 	 * Returns an array with all public status data
+	 *
+	 * @return array
 	 */
 	public function toArray(): array
 	{

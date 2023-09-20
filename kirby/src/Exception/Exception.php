@@ -116,7 +116,11 @@ class Exception extends \Exception
 			}
 
 			// format message with passed data
-			$message = Str::template($message, $this->data, ['fallback' => '-']);
+			$message = Str::template($message, $this->data, [
+				'fallback' => '-',
+				'start'    => '{',
+				'end'      => '}'
+			]);
 
 			// handover to Exception parent class constructor
 			parent::__construct($message, 0, $args['previous'] ?? null);

@@ -523,7 +523,7 @@ class A
 
 		foreach ($array as $fullKey => $value) {
 			// extract the first part of a multi-level key, keep the others
-			$subKeys = is_int($fullKey) ? [$fullKey] : explode('.', $fullKey);
+			$subKeys = explode('.', $fullKey);
 			$key     = array_shift($subKeys);
 
 			// skip the magic for ignored keys

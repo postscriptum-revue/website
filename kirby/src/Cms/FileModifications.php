@@ -2,7 +2,6 @@
 
 namespace Kirby\Cms;
 
-use Kirby\Content\Field;
 use Kirby\Exception\InvalidArgumentException;
 use Kirby\Filesystem\Asset;
 

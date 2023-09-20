@@ -245,7 +245,6 @@ class Panel
 			'dialog'   => Dialog::response($result, $options),
 			'drawer'   => Drawer::response($result, $options),
 			'dropdown' => Dropdown::response($result, $options),
-			'request'  => Request::response($result, $options),
 			'search'   => Search::response($result, $options),
 			default    => View::response($result, $options)
 		};
@@ -344,7 +343,6 @@ class Panel
 				static::routesForDialogs($areaId, $area),
 				static::routesForDrawers($areaId, $area),
 				static::routesForDropdowns($areaId, $area),
-				static::routesForRequests($areaId, $area),
 			);
 		}
 
@@ -365,7 +363,7 @@ class Panel
 		// catch all route
 		$routes[] = [
 			'pattern' => '(:all)',
-			'action'  => fn (string $pattern) => 'Could not find Panel view for route: ' . $pattern
+			'action'  => fn () => 'The view could not be found'
 		];
 
 		return $routes;
@@ -426,21 +424,6 @@ class Panel
 				prefix: 'dropdowns',
 				options: $dropdown
 			));
-		}
-
-		return $routes;
-	}
-
-	/**
-	 * Extract all routes from an area
-	 */
-	public static function routesForRequests(string $areaId, array $area): array
-	{
-		$routes = $area['requests'] ?? [];
-
-		foreach ($routes as $key => $route) {
-			$routes[$key]['area'] = $areaId;
-			$routes[$key]['type'] = 'request';
 		}
 
 		return $routes;

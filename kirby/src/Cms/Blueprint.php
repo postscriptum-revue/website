@@ -293,8 +293,12 @@ class Blueprint
 
 	/**
 	 * Used to translate any label, heading, etc.
+	 *
+	 * @param mixed $value
+	 * @param mixed $fallback
+	 * @return mixed
 	 */
-	protected function i18n(mixed $value, mixed $fallback = null): mixed
+	protected function i18n($value, $fallback = null)
 	{
 		return I18n::translate($value, $fallback) ?? $value;
 	}
@@ -689,8 +693,10 @@ class Blueprint
 
 	/**
 	 * Returns a single section by name
+	 *
+	 * @return \Kirby\Cms\Section|null
 	 */
-	public function section(string $name): Section|null
+	public function section(string $name)
 	{
 		if (empty($this->sections[$name]) === true) {
 			return null;

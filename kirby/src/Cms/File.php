@@ -3,7 +3,6 @@
 namespace Kirby\Cms;
 
 use Exception;
-use IntlDateFormatter;
 use Kirby\Exception\InvalidArgumentException;
 use Kirby\Filesystem\F;
 use Kirby\Filesystem\IsFile;
@@ -324,9 +323,12 @@ class File extends ModelWithContent
 
 	/**
 	 * Constructs a File object
+	 *
 	 * @internal
+	 * @param mixed $props
+	 * @return static
 	 */
-	public static function factory(array $props): static
+	public static function factory($props)
 	{
 		return new static($props);
 	}
@@ -482,13 +484,15 @@ class File extends ModelWithContent
 	/**
 	 * Get the file's last modification time.
 	 *
+	 * @param string|\IntlDateFormatter|null $format
 	 * @param string|null $handler date, intl or strftime
+	 * @return mixed
 	 */
 	public function modified(
-		string|IntlDateFormatter|null $format = null,
-		string|null $handler = null,
-		string|null $languageCode = null
-	): mixed {
+		$format = null,
+		string $handler = null,
+		string $languageCode = null
+	) {
 		$file     = $this->modifiedFile();
 		$content  = $this->modifiedContent($languageCode);
 		$modified = max($file, $content);

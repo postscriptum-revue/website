@@ -211,7 +211,7 @@ class Content
 	 *
 	 * @return $this
 	 */
-	public function setParent(ModelWithContent $parent): static
+	public function setParent(ModelWithContent $parent)
 	{
 		$this->parent = $parent;
 		return $this;
