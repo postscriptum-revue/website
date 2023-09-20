@@ -1,11 +1,11 @@
 .image-block {
-	margin-top: 1rem;
+	margin-top: 2rem;
 	display: flex;
 	flex-direction: column;
 }
 
 .image-block + * {
-	margin-top: 1rem;
+	margin-top: 2rem;
 }
 
 .image-block__caption {
