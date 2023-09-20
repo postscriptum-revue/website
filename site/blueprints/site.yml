@@ -8,12 +8,12 @@ columns:
                 label: Appels de textes
                 type: pages
                 parent: site.find("actualites").find("appels-de-textes")
-                template: call-paper
+                template: call-for-papers
             call-talk:
                 label: Appels à communications
                 type: pages
                 parent: site.find("actualites").find("appels-a-communications")
-                template: call-talk
+                template: call-for-presentations
             conference:
                 label: Colloques
                 type: pages
