@@ -1,5 +1,8 @@
 title: Appel à communications
 
+status:
+    unlisted: Non listé
+
 fields:
     test:
         type: text

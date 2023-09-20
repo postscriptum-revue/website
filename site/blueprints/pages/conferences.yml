@@ -1,5 +1,10 @@
 title: Colloques
 
+status:
+    unlisted:
+        label: Non listé
+        text: Ne pas changer. La page existe pour créer de beaux URLs. Elle ne doit pas être visible aux utilisateur·rices.
+
 sections:
     pages:
         type: pages
