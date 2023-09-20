@@ -3,15 +3,15 @@ icon: image
 preview: image
 fields:
     image:
-        label: field.blocks.image.name
+        label: Image
         type: files
         layout: cards
         required: true
-        multiple: false
+        # multiple: false
     alt:
-        label: field.blocks.image.alt
+        label: Texte alternatif
         type: text
         required: true
     caption:
-        label: field.blocks.image.caption
-        type: writer
+        label: Légende
+        type: text
