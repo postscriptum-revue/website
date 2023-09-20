@@ -612,6 +612,11 @@ class App
 
 	/**
 	 * Finds any file in the content directory
+	 *
+	 * @param string $path
+	 * @param mixed $parent
+	 * @param bool $drafts
+	 * @return \Kirby\Cms\File|null
 	 */
 	public function file(
 		string $path,

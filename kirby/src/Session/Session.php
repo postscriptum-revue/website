@@ -291,8 +291,9 @@ class Session
 	 *
 	 * @param string $name Method name (one of set, increment, decrement, get, pull, remove, clear)
 	 * @param array $arguments Method arguments
+	 * @return mixed
 	 */
-	public function __call(string $name, array $arguments): mixed
+	public function __call(string $name, array $arguments)
 	{
 		// validate that we can handle the called method
 		$methods = [

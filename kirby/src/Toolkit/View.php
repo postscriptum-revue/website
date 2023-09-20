@@ -28,7 +28,8 @@ class View
 	}
 
 	/**
-	 * Returns the view's data array without globals
+	 * Returns the view's data array
+	 * without globals.
 	 */
 	public function data(): array
 	{
@@ -70,6 +71,7 @@ class View
 
 		ob_start();
 
+		$exception = null;
 		try {
 			F::load($this->file(), null, $this->data());
 		} catch (Throwable $e) {
@@ -79,11 +81,11 @@ class View
 		$content = ob_get_contents();
 		ob_end_clean();
 
-		if (($exception ?? null) !== null) {
-			throw $exception;
+		if ($exception === null) {
+			return $content;
 		}
 
-		return $content;
+		throw $exception;
 	}
 
 	/**
@@ -97,8 +99,6 @@ class View
 	/**
 	 * Magic string converter to enable
 	 * converting view objects to string
-	 *
-	 * @see ::render()
 	 */
 	public function __toString(): string
 	{

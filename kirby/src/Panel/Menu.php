@@ -39,7 +39,7 @@ class Menu
 		// if no config is defined…
 		if ($areas === null) {
 			// ensure that some defaults are on top in the right order
-			$defaults    = ['site', 'languages', 'users', 'system'];
+			$defaults    = ['site', 'users', 'languages', 'system'];
 			// add all other areas after that
 			$additionals = array_diff(array_keys($this->areas), $defaults);
 			$areas       = array_merge($defaults, $additionals);
@@ -127,7 +127,7 @@ class Menu
 			'text'     => $area['label'],
 		], $menu);
 
-		// unset the link (which is always added by default to an area)
+		// unset tthe link (which is always added by default to an area)
 		// if a dialog or drawer should be opened instead
 		if (isset($entry['dialog']) || isset($entry['drawer'])) {
 			unset($entry['link']);

@@ -4,7 +4,7 @@ use Kirby\Toolkit\I18n;
 
 return function ($kirby) {
 	return [
-		'icon'    => 'translate',
+		'icon'    => 'globe',
 		'label'   => I18n::translate('view.languages'),
 		'menu'    => true,
 		'dialogs' => require __DIR__ . '/languages/dialogs.php',

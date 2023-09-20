@@ -21,7 +21,7 @@ $languageDialogFields = [
 		'type'     => 'text',
 		'required' => true,
 		'counter'  => false,
-		'icon'     => 'translate',
+		'icon'     => 'globe',
 		'width'    => '1/2'
 	],
 	'direction' => [

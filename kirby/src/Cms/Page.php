@@ -3,7 +3,6 @@
 namespace Kirby\Cms;
 
 use Closure;
-use Kirby\Content\Field;
 use Kirby\Exception\Exception;
 use Kirby\Exception\InvalidArgumentException;
 use Kirby\Exception\NotFoundException;
@@ -14,7 +13,6 @@ use Kirby\Panel\Page as Panel;
 use Kirby\Template\Template;
 use Kirby\Toolkit\A;
 use Kirby\Toolkit\Str;
-use Throwable;
 
 /**
  * The `$page` object is the heart and
@@ -690,16 +688,7 @@ class Page extends ModelWithContent
 	 */
 	public function isListed(): bool
 	{
-		return $this->isPublished() && $this->num() !== null;
-	}
-
-	public function isMovableTo(Page|Site $parent): bool
-	{
-		try {
-			return PageRules::move($this, $parent);
-		} catch (Throwable) {
-			return false;
-		}
+		return $this->num() !== null;
 	}
 
 	/**
@@ -754,7 +743,7 @@ class Page extends ModelWithContent
 	 */
 	public function isUnlisted(): bool
 	{
-		return $this->isPublished() && $this->num() === null;
+		return $this->isListed() === false;
 	}
 
 	/**
@@ -765,7 +754,7 @@ class Page extends ModelWithContent
 	public function isVerified(string $token = null): bool
 	{
 		if (
-			$this->isPublished() === true &&
+			$this->isDraft() === false &&
 			$this->parents()->findBy('status', 'draft') === null
 		) {
 			return true;
@@ -818,12 +807,14 @@ class Page extends ModelWithContent
 
 	/**
 	 * Returns the last modification date of the page
+	 *
+	 * @return int|string
 	 */
 	public function modified(
-		string|null $format = null,
-		string|null $handler = null,
-		string|null $languageCode = null
-	): int|string {
+		string $format = null,
+		string $handler = null,
+		string $languageCode = null
+	) {
 		$identifier = $this->isDraft() === true ? 'changes' : 'published';
 
 		$modified = $this->storage()->modified(
@@ -1030,9 +1021,11 @@ class Page extends ModelWithContent
 
 	/**
 	 * @internal
+	 * @param mixed $type
+	 * @return \Kirby\Template\Template
 	 * @throws \Kirby\Exception\NotFoundException If the content representation cannot be found
 	 */
-	public function representation(mixed $type): Template
+	public function representation($type)
 	{
 		$kirby          = $this->kirby();
 		$template       = $this->template();
@@ -1066,8 +1059,11 @@ class Page extends ModelWithContent
 
 	/**
 	 * Search all pages within the current page
+	 *
+	 * @param array $params
+	 * @return \Kirby\Cms\Pages
 	 */
-	public function search(string|null $query = null, array $params = []): Pages
+	public function search(string $query = null, $params = [])
 	{
 		return $this->index()->search($query, $params);
 	}
@@ -1155,8 +1151,10 @@ class Page extends ModelWithContent
 
 	/**
 	 * Returns the final template
+	 *
+	 * @return \Kirby\Template\Template
 	 */
-	public function template(): Template
+	public function template()
 	{
 		if ($this->template !== null) {
 			return $this->template;
@@ -1173,8 +1171,10 @@ class Page extends ModelWithContent
 
 	/**
 	 * Returns the title field or the slug as fallback
+	 *
+	 * @return \Kirby\Content\Field
 	 */
-	public function title(): Field
+	public function title()
 	{
 		return $this->content()->get('title')->or($this->slug());
 	}

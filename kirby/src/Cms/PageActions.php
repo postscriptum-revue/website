@@ -106,7 +106,7 @@ trait PageActions
 	 * @return $this|static
 	 * @throws \Kirby\Exception\LogicException If a draft is being sorted or the directory cannot be moved
 	 */
-	public function changeNum(int|null $num = null): static
+	public function changeNum(int $num = null)
 	{
 		if ($this->isDraft() === true) {
 			throw new LogicException('Drafts cannot change their sorting number');
@@ -148,10 +148,8 @@ trait PageActions
 	 * @return $this|static
 	 * @throws \Kirby\Exception\LogicException If the directory cannot be moved
 	 */
-	public function changeSlug(
-		string $slug,
-		string|null $languageCode = null
-	): static {
+	public function changeSlug(string $slug, string $languageCode = null)
+	{
 		// always sanitize the slug
 		$slug = Str::slug($slug);
 
@@ -204,13 +202,14 @@ trait PageActions
 	/**
 	 * Change the slug for a specific language
 	 *
+	 * @return static
 	 * @throws \Kirby\Exception\NotFoundException If the language for the given language code cannot be found
 	 * @throws \Kirby\Exception\InvalidArgumentException If the slug for the default language is being changed
 	 */
 	protected function changeSlugForLanguage(
 		string $slug,
-		string|null $languageCode = null
-	): static {
+		string $languageCode = null
+	) {
 		$language = $this->kirby()->language($languageCode);
 
 		if (!$language) {
@@ -245,9 +244,10 @@ trait PageActions
 	 *
 	 * @param string $status "draft", "listed" or "unlisted"
 	 * @param int|null $position Optional sorting number
+	 * @return static
 	 * @throws \Kirby\Exception\InvalidArgumentException If an invalid status is being passed
 	 */
-	public function changeStatus(string $status, int|null $position = null): static
+	public function changeStatus(string $status, int $position = null)
 	{
 		return match ($status) {
 			'draft'    => $this->changeStatusToDraft(),
@@ -257,7 +257,10 @@ trait PageActions
 		};
 	}
 
-	protected function changeStatusToDraft(): static
+	/**
+	 * @return static
+	 */
+	protected function changeStatusToDraft()
 	{
 		$arguments = ['page' => $this, 'status' => 'draft', 'position' => null];
 		$page = $this->commit(
@@ -272,7 +275,7 @@ trait PageActions
 	/**
 	 * @return $this|static
 	 */
-	protected function changeStatusToListed(int|null $position = null): static
+	protected function changeStatusToListed(int $position = null)
 	{
 		// create a sorting number for the page
 		$num = $this->createNum($position);
@@ -297,7 +300,7 @@ trait PageActions
 	/**
 	 * @return $this|static
 	 */
-	protected function changeStatusToUnlisted(): static
+	protected function changeStatusToUnlisted()
 	{
 		if ($this->status() === 'unlisted') {
 			return $this;
@@ -320,7 +323,7 @@ trait PageActions
 	 *
 	 * @return $this|static
 	 */
-	public function changeSort(int|null $position = null): static
+	public function changeSort(int $position = null)
 	{
 		return $this->changeStatus('listed', $position);
 	}
@@ -331,7 +334,7 @@ trait PageActions
 	 * @return $this|static
 	 * @throws \Kirby\Exception\LogicException If the textfile cannot be renamed/moved
 	 */
-	public function changeTemplate(string $template): static
+	public function changeTemplate(string $template)
 	{
 		if ($template === $this->intendedTemplate()->name()) {
 			return $this;
@@ -350,11 +353,11 @@ trait PageActions
 
 	/**
 	 * Change the page title
+	 *
+	 * @return static
 	 */
-	public function changeTitle(
-		string $title,
-		string|null $languageCode = null
-	): static {
+	public function changeTitle(string $title, string $languageCode = null)
+	{
 		$arguments = ['page' => $this, 'title' => $title, 'languageCode' => $languageCode];
 		return $this->commit('changeTitle', $arguments, function ($page, $title, $languageCode) {
 			$page = $page->save(['title' => $title], $languageCode);
@@ -407,9 +410,10 @@ trait PageActions
 	/**
 	 * Copies the page to a new parent
 	 *
+	 * @return \Kirby\Cms\Page
 	 * @throws \Kirby\Exception\DuplicateException If the page already exists
 	 */
-	public function copy(array $options = []): static
+	public function copy(array $options = [])
 	{
 		$slug        = $options['slug']      ?? $this->slug();
 		$isDraft     = $options['isDraft']   ?? $this->isDraft();
@@ -468,8 +472,10 @@ trait PageActions
 
 	/**
 	 * Creates and stores a new page
+	 *
+	 * @return static
 	 */
-	public static function create(array $props): static
+	public static function create(array $props)
 	{
 		// clean up the slug
 		$props['slug']      = Str::slug($props['slug'] ?? $props['content']['title'] ?? null);
@@ -535,8 +541,10 @@ trait PageActions
 
 	/**
 	 * Creates a child of the current page
+	 *
+	 * @return static
 	 */
-	public function createChild(array $props): static
+	public function createChild(array $props)
 	{
 		$props = array_merge($props, [
 			'url'    => null,
@@ -658,8 +666,10 @@ trait PageActions
 	/**
 	 * Duplicates the page with the given
 	 * slug and optionally copies all files
+	 *
+	 * @return \Kirby\Cms\Page
 	 */
-	public function duplicate(string|null $slug = null, array $options = []): static
+	public function duplicate(string $slug = null, array $options = [])
 	{
 		// create the slug for the duplicate
 		$slug = Str::slug($slug ?? $this->slug() . '-' . Str::slug(I18n::translate('page.duplicate.appendix')));
@@ -740,7 +750,7 @@ trait PageActions
 	 * @return $this|static
 	 * @throws \Kirby\Exception\LogicException If the folder cannot be moved
 	 */
-	public function publish(): static
+	public function publish()
 	{
 		if ($this->isDraft() === false) {
 			return $this;
@@ -872,13 +882,15 @@ trait PageActions
 
 	/**
 	 * Stores the content on disk
+	 *
 	 * @internal
+	 * @return static
 	 */
 	public function save(
-		array|null $data = null,
-		string|null $languageCode = null,
+		array $data = null,
+		string $languageCode = null,
 		bool $overwrite = false
-	): static {
+	) {
 		$page = parent::save($data, $languageCode, $overwrite);
 
 		// overwrite the updated page in the parent collection
@@ -894,7 +906,7 @@ trait PageActions
 	 * @return $this|static
 	 * @throws \Kirby\Exception\LogicException If the folder cannot be moved
 	 */
-	public function unpublish(): static
+	public function unpublish()
 	{
 		if ($this->isDraft() === true) {
 			return $this;
@@ -931,12 +943,14 @@ trait PageActions
 
 	/**
 	 * Updates the page data
+	 *
+	 * @return static
 	 */
 	public function update(
-		array|null $input = null,
-		string|null $languageCode = null,
+		array $input = null,
+		string $languageCode = null,
 		bool $validate = false
-	): static {
+	) {
 		if ($this->isDraft() === true) {
 			$validate = false;
 		}

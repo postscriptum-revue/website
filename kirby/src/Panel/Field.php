@@ -273,7 +273,7 @@ class Field
 		return array_merge([
 			'label'    => I18n::translate('language'),
 			'type'     => 'select',
-			'icon'     => 'translate',
+			'icon'     => 'globe',
 			'options'  => $translations,
 			'empty'    => false
 		], $props);

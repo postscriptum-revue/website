@@ -481,21 +481,13 @@ class Str
 		// make sure $value is not null
 		$value ??= '';
 
-		// turn the value into a string
-		$value = (string)$value;
-
 		// Convert exponential to decimal, 1e-8 as 0.00000001
 		if (strpos(strtolower($value), 'e') !== false) {
 			$value = rtrim(sprintf('%.16f', (float)$value), '0');
 		}
 
 		$value   = str_replace(',', '.', $value);
-		$decimal = strrchr($value, '.');
-		$decimal = match ($decimal) {
-			false   => 0,
-			default => strlen($decimal) - 1
-		};
-
+		$decimal = strlen(substr(strrchr($value, '.'), 1));
 		return number_format((float)$value, $decimal, '.', '');
 	}
 
@@ -980,7 +972,7 @@ class Str
 	public static function short(
 		string $string = null,
 		int $length = 0,
-		string|false $appendix = '…'
+		string $appendix = '…'
 	): string {
 		if ($string === null) {
 			return '';
@@ -994,12 +986,7 @@ class Str
 			return $string;
 		}
 
-		$string = static::substr($string, 0, $length);
-
-		return match ($appendix) {
-			false   => $string,
-			default => $string . $appendix
-		};
+		return static::substr($string, 0, $length) . $appendix;
 	}
 
 	/**
@@ -1246,8 +1233,8 @@ class Str
 		array $data = [],
 		array $options = []
 	): string {
-		$start    = $options['start'] ?? '{{1,2}';
-		$end      = $options['end'] ?? '}{1,2}';
+		$start    = $options['start'] ?? '{{';
+		$end      = $options['end'] ?? '}}';
 		$fallback = $options['fallback'] ?? null;
 		$callback = $options['callback'] ?? null;
 

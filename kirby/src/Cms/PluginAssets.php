@@ -25,18 +25,21 @@ class PluginAssets
 	public static function clean(string $pluginName): void
 	{
 		if ($plugin = App::instance()->plugin($pluginName)) {
+			$root   = $plugin->root() . '/assets';
 			$media  = $plugin->mediaRoot();
-			$assets = $plugin->assets();
-			$files  = Dir::index($media, true);
-			$files  = array_diff($files, array_keys($assets));
+			$assets = Dir::index($media, true);
 
-			foreach ($files as $file) {
-				$root = $media . '/' . $file;
+			foreach ($assets as $asset) {
+				$original = $root . '/' . $asset;
 
-				if (is_file($root) === true) {
-					F::remove($root);
-				} else {
-					Dir::remove($root);
+				if (file_exists($original) === false) {
+					$assetRoot = $media . '/' . $asset;
+
+					if (is_file($assetRoot) === true) {
+						F::remove($assetRoot);
+					} else {
+						Dir::remove($assetRoot);
+					}
 				}
 			}
 		}
@@ -48,23 +51,22 @@ class PluginAssets
 	 */
 	public static function resolve(
 		string $pluginName,
-		string $path
+		string $filename
 	): Response|null {
 		if ($plugin = App::instance()->plugin($pluginName)) {
-			if (
-				($asset = $plugin->asset($path)) &&
-				F::exists($asset, $plugin->root()) === true
-			) {
+			$source = $plugin->root() . '/assets/' . $filename;
+
+			if (F::exists($source, $plugin->root()) === true) {
 				// do some spring cleaning for older files
 				static::clean($pluginName);
 
-				$target = $plugin->mediaRoot() . '/' . $path;
+				$target = $plugin->mediaRoot() . '/' . $filename;
 
 				// create a symlink if possible
-				F::link($asset, $target, 'symlink');
+				F::link($source, $target, 'symlink');
 
 				// return the file response
-				return Response::file($asset);
+				return Response::file($source);
 			}
 		}
 
