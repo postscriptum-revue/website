@@ -2,15 +2,31 @@ Title: Using Multimodal Texts to Reconcile History in W.G. Sebald’s Austerlitz
 
 ----
 
+Title-needs-formatting: true
+
+----
+
+Formatted-title: Using Multimodal Texts to Reconcile History in W.G. Sebald’s <em>Austerlitz</em>
+
+----
+
 Subtitle: 
 
 ----
 
-Summary-fr: 
+Abstract-fr:
+
+<p>Comment l’analyse de la littérature postmoderne, associée à la photographie, peut-elle contribuer à notre compréhension du lien entre la littérature, le traumatisme générationnel et la guerre? Pour mieux comprendre cette relation complexe et nuancée quant à la façon dont la littérature et l’image influencent la guerre et vice versa, nous devons redéfinir le « texte » comme multimodal. Les ouvrages de Philippe Artières et de Régine Robin, qui troublent notre idée de ce que peut être le texte, appellent à analyser les ouvrages postmodernes afin de discerner la réciprocité entre la guerre et la littérature. Les théoriciens littéraires ayant travaillé sur <em>Austerlitz</em> de W. G. Sebald, sensibles aux enjeux de la postmémoire, de l’histoire de l’Holocauste et du Kindertransport, incluent Naomi Stead, Amir Eshel et Marianne Hirsch avec, notamment, « The Generation of Postmemory ». Je propose d’analyser l’histoire en utilisant des photographies comme preuves esthétiques et textuelles des implications historiques dans les interprétations de la littérature. Pour illustrer cela, je reviendrai sur l’utilisation de Hirsch de « la vérité et de l’obscurité, de l’exactitude et du simulacre » (2013, 216). À partir de cette idée, et avec celle de Susan Sontag sur la photographie démontrant l’influence de l’histoire et de la guerre sur l’interprétation, je propose de revisiter <em>Austerlitz</em>. Ce faisant, je soulèverai plusieurs questions, notamment : comment Austerlitz trouve-t-il de la vérité dans l’obscurité? Qu’est-ce que l’esthétique fragmentée des photographies tente (ou non) de transmettre sur l’histoire de Sebald, celle du Kindertransport et celle de la génération 1.5? En utilisant cet angle pour analyser la relation multiforme de l’histoire et de la littérature, par le biais d’<em>Austerlitz </em>de W.G. Sebald, cet article aidera à révéler la véracité d’autres textes, enrichissant ainsi les tentatives de réconcilier notre histoire collective.</p>
+
+<p>Mot-clés : postmémoire, Kindertransport, photographie, esthétique, texte</p>
 
 ----
 
-Summary-en: 
+Abstract-en:
+
+<p>How can the analysis of postmodern literature, coupled with photography, contribute to our comprehension of the connection between literature, generational trauma, and war? To better understand this complex and nuanced relationship, regarding how literature and the image influence war and vice versa, we need to redefine “text” as multimodal. In the works of Philippe Artières and Régine Robin, which trouble our sense of what text can be, there is a call to analyze postmodern works in order to discern the reciprocity between war and literature. Scholarship on W. G. Sebald’s <em>Austerlitz, </em>dealing with postmemory, the history of the Holocaust, and the Kindertransport, includes the works of Naomi Stead, Amir Eshel, and notably, Marianne Hirsch’s “The Generation of Postmemory”. I propose that history <em>can</em> be analyzed using photographs as aesthetic and textual evidence of the historical implications in interpretations of literature. To illustrate this, I’ll return to Hirsch’s mention of “truth and obscurity, exactitude and simulacrum”(2013, 216). Using this idea, alongside Susan Sontag’s fragmented versions of photography to demonstrate history and war’s influence over interpretation, I argue that a revisiting of <em>Austerlitz</em> is needed. My argument will provoke questions: How does Austerlitz find truth <em>in</em> obscurity? What do (or don’t) the fragmented aesthetics of the photographs attempt to convey about Sebald’s history, the history of the Kindertransport, and the 1.5 Generation? Using these lenses to analyze history and literature’s multifarious relationship, by way of W.G. Sebald’s <em>Austerlitz,</em> this article will help reveal the veracity of other texts, thus enriching attempts to reconcile our collective history.</p>
+
+<p>Keywords: postmemory, Kindertransport, photography, aesthetics, text</p>
 
 ----
 
@@ -34,19 +50,11 @@ Keywords:
 
 ----
 
-Abstract-fr:
-
-<p>Comment l’analyse de la littérature postmoderne, associée à la photographie, peut-elle contribuer à notre compréhension du lien entre la littérature, le traumatisme générationnel et la guerre? Pour mieux comprendre cette relation complexe et nuancée quant à la façon dont la littérature et l’image influencent la guerre et vice versa, nous devons redéfinir le « texte » comme multimodal. Les ouvrages de Philippe Artières et de Régine Robin, qui troublent notre idée de ce que peut être le texte, appellent à analyser les ouvrages postmodernes afin de discerner la réciprocité entre la guerre et la littérature. Les théoriciens littéraires ayant travaillé sur <em>Austerlitz</em> de W. G. Sebald, sensibles aux enjeux de la postmémoire, de l’histoire de l’Holocauste et du Kindertransport, incluent Naomi Stead, Amir Eshel et Marianne Hirsch avec, notamment, « The Generation of Postmemory ». Je propose d’analyser l’histoire en utilisant des photographies comme preuves esthétiques et textuelles des implications historiques dans les interprétations de la littérature. Pour illustrer cela, je reviendrai sur l’utilisation de Hirsch de « la vérité et de l’obscurité, de l’exactitude et du simulacre » (2013, 216). À partir de cette idée, et avec celle de Susan Sontag sur la photographie démontrant l’influence de l’histoire et de la guerre sur l’interprétation, je propose de revisiter <em>Austerlitz</em>. Ce faisant, je soulèverai plusieurs questions, notamment : comment Austerlitz trouve-t-il de la vérité dans l’obscurité? Qu’est-ce que l’esthétique fragmentée des photographies tente (ou non) de transmettre sur l’histoire de Sebald, celle du Kindertransport et celle de la génération 1.5? En utilisant cet angle pour analyser la relation multiforme de l’histoire et de la littérature, par le biais d’<em>Austerlitz </em>de W.G. Sebald, cet article aidera à révéler la véracité d’autres textes, enrichissant ainsi les tentatives de réconcilier notre histoire collective.</p>
-
-<p>Mot-clés : postmémoire, Kindertransport, photographie, esthétique, texte</p>
+Summary-fr: 
 
 ----
 
-Abstract-en:
-
-<p>How can the analysis of postmodern literature, coupled with photography, contribute to our comprehension of the connection between literature, generational trauma, and war? To better understand this complex and nuanced relationship, regarding how literature and the image influence war and vice versa, we need to redefine “text” as multimodal. In the works of Philippe Artières and Régine Robin, which trouble our sense of what text can be, there is a call to analyze postmodern works in order to discern the reciprocity between war and literature. Scholarship on W. G. Sebald’s <em>Austerlitz, </em>dealing with postmemory, the history of the Holocaust, and the Kindertransport, includes the works of Naomi Stead, Amir Eshel, and notably, Marianne Hirsch’s “The Generation of Postmemory”. I propose that history <em>can</em> be analyzed using photographs as aesthetic and textual evidence of the historical implications in interpretations of literature. To illustrate this, I’ll return to Hirsch’s mention of “truth and obscurity, exactitude and simulacrum”(2013, 216). Using this idea, alongside Susan Sontag’s fragmented versions of photography to demonstrate history and war’s influence over interpretation, I argue that a revisiting of <em>Austerlitz</em> is needed. My argument will provoke questions: How does Austerlitz find truth <em>in</em> obscurity? What do (or don’t) the fragmented aesthetics of the photographs attempt to convey about Sebald’s history, the history of the Kindertransport, and the 1.5 Generation? Using these lenses to analyze history and literature’s multifarious relationship, by way of W.G. Sebald’s <em>Austerlitz,</em> this article will help reveal the veracity of other texts, thus enriching attempts to reconcile our collective history.</p>
-
-<p>Keywords: postmemory, Kindertransport, photography, aesthetics, text</p>
+Summary-en: 
 
 ----
 
