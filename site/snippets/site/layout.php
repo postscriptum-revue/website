@@ -18,7 +18,7 @@ $color = $issue_color ??  $page->color();
 			case 'issues': echo "Post-Scriptum - Numéros de parution";break;
 			case 'articles': echo "Post-Scriptum - Articles";break;
 			case 'issue': case 'article': echo $page->title();break;
-			default: echo "PS" . $page->num();
+			default: echo "Post-Scriptum";
 		endswitch
 		?>
 	</title>
