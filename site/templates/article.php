@@ -44,7 +44,11 @@
 		<?php endforeach ?>
 	</ul>
 	<h1 class="text-section-hgroup__title">
-		<?= $page->title()->smartypants() ?>
+		<?php if ($page->formatted_title()->isNotEmpty()) : ?>
+			<?= $page->formatted_title()->smartypants() ?>
+		<?php else : ?>
+			<?= $page->title()->smartypants() ?>
+		<?php endif ?>
 	</h1>
 	<p class="text-section-hgroup__subtitle">
 		<?= $page->subtitle() ?>

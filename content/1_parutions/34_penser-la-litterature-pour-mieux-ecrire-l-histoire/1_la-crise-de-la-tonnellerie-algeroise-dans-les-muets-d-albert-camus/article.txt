@@ -2,6 +2,14 @@ Title: La crise de la tonnellerie algéroise dans « Les Muets » d’Albert Cam
 
 ----
 
+Title-needs-formatting: false
+
+----
+
+Formatted-title: La crise de la tonnellerie algéroise dans « Les Muets » d’Albert Camus
+
+----
+
 Subtitle: ce que la fiction et l’histoire peuvent recevoir l’une de l’autre
 
 ----

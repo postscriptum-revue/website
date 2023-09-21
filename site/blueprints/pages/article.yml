@@ -4,6 +4,23 @@ columns:
     left:
         width: 2/3
         fields:
+            title_needs_formatting:
+                type: toggle
+                label: Le titre contient-il des italiques ?
+                default: false
+                text:
+                    - Non
+                    - Oui
+            formatted_title:
+                type: writer
+                label: Titre formatté
+                inline: true
+                help: Sur une ligne seulement.
+                marks:
+                    - italic
+                default: "{{ page.title }}"
+                when:
+                    title_needs_formatting: true
             subtitle:
                 type: text
                 label: Sous-titre
