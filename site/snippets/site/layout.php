@@ -13,12 +13,13 @@ $color = $issue_color ??  $page->color();
 	<link rel="stylesheet" href="/assets/css/style.css">
 	<title>
 		<?php
-		if ($page->template() == "home") {
-			echo "Post-Scriptum";
-		} else {
-			// TODO: Display "PS12" when in an issue or an article.
-			echo "PS" . $page->num();
-		}
+		switch ($page->template()):
+			case 'home': echo "Post-Scriptum - Accueil";break;
+			case 'issues': echo "Post-Scriptum - Numéros de parution";break;
+			case 'articles': echo "Post-Scriptum - Articles";break;
+			case 'issue': case 'article': echo $page->title();break;
+			default: echo "PS" . $page->num();
+		endswitch
 		?>
 	</title>
 </head>
