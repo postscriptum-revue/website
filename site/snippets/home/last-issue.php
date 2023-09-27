@@ -1,10 +1,13 @@
-<section class="home-section last-issue" style="
-	--issue-color: <?= $last_issue->color() ?>
-">
+<section 
+	class="home-section last-issue" 
+	style="--issue-color: <?= $last_issue->color() ?>"
+>
 	<h2 class="home-section__title">Dernière parution</h2>
-	<a href="<?= $last_issue->url() ?>" class="last-issue__cover" style="
-		background-image: url('<?= $last_issue->cover()->toFile()->url() ?>')
-	">
+	<a 
+		href="<?= $last_issue->url() ?>" 
+		class="last-issue__cover" 
+		style="background-image: url('<?= $last_issue->cover()->toFile()->url() ?>')"
+	>
 		<hgroup class="last-issue__cover-card">
 			<p class="last-issue__cover-card-date">
 				<?= $last_issue->date() ?>

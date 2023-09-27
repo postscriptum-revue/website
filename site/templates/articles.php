@@ -6,9 +6,11 @@
 	<ul class="site-aside__list">
 		<?php foreach ($keywords as $kw) : ?>
 			<li class="site-aside__list-item">
-				<a href="
-					<?= $page->url(['params' => ['keyword' => $kw]]) ?>
-				">
+				<a 
+					href="<?= $page->url(
+						['params' => ['keyword' => $kw]]
+					) ?>"
+				>
 					<?= $kw ?>
 				</a>
 			</li>
