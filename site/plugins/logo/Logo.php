@@ -11,17 +11,23 @@ class Logo
 	 */
 	public function save($site, $page)
 	{
-		$style_list = $site->logo_style_list();
-		$style_list_array = $style_list->split(",");
+		$style_list = $site->logo_style_list()->toData("json");
 
 		// Generate a random style until we find one that isn't
 		// included in the array of previously generated logo styles.
 		do {
 			$style = $this->generateStyle();
-		} while (in_array($style["both"], $style_list_array));
-
+		} while (in_array($style["both"], $style_list));
+		
+		// Can't use $page->num() because the page is a draft,
+		// and thus has no number yet.
+		$issue_num = page("parutions")->children()->count();
+		
+		$style_list[$issue_num] = $style["both"];
+		$style_list_json = json_encode($style_list);
+		
 		$site->update([
-			"logo_style_list" => $style_list . ", " . $style["both"]
+			"logo_style_list" => $style_list_json
 		]);
 
 		$page->update([
@@ -29,7 +35,11 @@ class Logo
 			"logo_style_s" => $style["s"]
 		]);
 
-		$this->generateLogoFiles($style["p"], $style["s"], $page->root());
+		$this->generateLogoFiles(
+			$style["p"], 
+			$style["s"], 
+			$page->root()
+		);
 	}
 
 	private function generateStyle()

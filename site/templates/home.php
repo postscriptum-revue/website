@@ -1,6 +1,7 @@
 <?php snippet("site/layout", slots: true) ?>
 
 <?php slot("aside") ?>
+
 <h2 class="site-aside__title">Actualités</h2>
 <ul>
 	<?php foreach ($all_news as $news_item) : ?>
@@ -11,9 +12,11 @@
 					<img src="<?= $news_item->issue_cover()->toFile()->url() ?>" alt="">
 				</figure> -->
 				<p><?= $news_item->parent()->title() ?></p>
-				<p>PS<?= $news_item->issue_number() ?>.
-				<?= $news_item->issue_title() ?> :
-				<?= $news_item->issue_subtitle() ?></p>
+				<p>
+					PS<?= $news_item->issue_number() ?>.
+					<?= $news_item->issue_title() ?> :
+					<?= $news_item->issue_subtitle() ?>
+				</p>
 			</article>
 		</li>
 	<?php endforeach ?>
