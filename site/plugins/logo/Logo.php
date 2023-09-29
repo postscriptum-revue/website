@@ -3,12 +3,12 @@
 class Logo
 {
 
-	/*
-	* Generate a combination of styles for the issue's logo
-	* (one style for the letter "P" and another for "S")
-	* and save the style in "site.txt" and the issue's
-	* "page.txt".
-	*/
+	/**
+	 * Generate a combination of styles for the issue's logo
+	 * (one style for the letter "P" and another for "S")
+	 * and save the style in "site.txt" and the issue's
+	 * "page.txt".
+	 */
 	public function save($site, $page)
 	{
 		$style_list = $site->logo_style_list();
@@ -28,6 +28,8 @@ class Logo
 			"logo_style_p" => $style["p"],
 			"logo_style_s" => $style["s"]
 		]);
+
+		$this->generateLogoFiles($style["p"], $style["s"], $page->root());
 	}
 
 	private function generateStyle()
@@ -47,5 +49,19 @@ class Logo
 			"s" => $s,
 			"both" => $both
 		];
+	}
+
+	/**
+	 * Generate the files in different format for the issue's logo
+	 * and save them in the page folder.
+	 */
+	private function generateLogoFiles($p_style, $s_style, $page_dir)
+	{
+		shell_exec(
+			// Must cd beforehand because the script is called from
+			// the website's root.
+			"cd " . __DIR__ . " &&" .
+				" ./compile-tex.sh" . " $p_style $s_style $page_dir"
+		);
 	}
 }

@@ -2,7 +2,7 @@
 
 require __DIR__ . "/Logo.php";
 
-Kirby::plugin("postscriptum/logo", [
+\Kirby\Cms\App::plugin("postscriptum/logo", [
 	"hooks" => [
 		"page.create:after" => function ($page) {
 			if ($page->template() == "issue") {
