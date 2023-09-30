@@ -11,6 +11,8 @@ class Logo
 	 */
 	public function save($site, $page)
 	{
+		// Get the list of previous logos's style, and convert
+		// it from JSON to a PHP associative array.
 		$style_list = $site->logo_style_list()->toData("json");
 
 		// Generate a random style until we find one that isn't
@@ -18,27 +20,33 @@ class Logo
 		do {
 			$style = $this->generateStyle();
 		} while (in_array($style["both"], $style_list));
-		
+
 		// Can't use $page->num() because the page is a draft,
 		// and thus has no number yet.
 		$issue_num = page("parutions")->children()->count();
-		
+
+		// Add the new logo style to the list. 
+		// `$style["both"]` is used to make the comparison easier.
 		$style_list[$issue_num] = $style["both"];
 		$style_list_json = json_encode($style_list);
-		
+
+		// Update the fields in both `site.txt` 
+		// and the issue's `issue.txt`
 		$site->update([
 			"logo_style_list" => $style_list_json
 		]);
-
 		$page->update([
 			"logo_style_p" => $style["p"],
 			"logo_style_s" => $style["s"]
 		]);
 
+		// Generate the PDFs for the issue's logo.
 		$this->generateLogoFiles(
-			$style["p"], 
-			$style["s"], 
-			$page->root()
+			$style["p"],
+			$style["s"],
+			$issue_num,
+			$page->root(),
+
 		);
 	}
 
@@ -46,8 +54,8 @@ class Logo
 	{
 		// Styles need to be padded (ex. "01"") for CSS's 
 		// stylistic set property to work correctly.
-		$p = str_pad(rand(0, 20), 2, 0, STR_PAD_LEFT);
-		$s = str_pad(rand(0, 20), 2, 0, STR_PAD_LEFT);
+		$p = str_pad(rand(1, 20), 2, 0, STR_PAD_LEFT);
+		$s = str_pad(rand(1, 20), 2, 0, STR_PAD_LEFT);
 
 		// Both styles (for letters "P" and "S") are stored together
 		// to make it easier to verify we don't use the same
@@ -65,13 +73,14 @@ class Logo
 	 * Generate the files in different format for the issue's logo
 	 * and save them in the page folder.
 	 */
-	private function generateLogoFiles($p_style, $s_style, $page_dir)
+	private function generateLogoFiles($p_style, $s_style, $issue_num, $page_dir)
 	{
 		shell_exec(
 			// Must cd beforehand because the script is called from
 			// the website's root.
-			"cd " . __DIR__ . " &&" .
-				" ./compile-tex.sh" . " $p_style $s_style $page_dir"
+			"cd " . __DIR__ . " && " .
+				"./compile-tex.sh " .
+				"$p_style $s_style $issue_num $page_dir "
 		);
 	}
 }

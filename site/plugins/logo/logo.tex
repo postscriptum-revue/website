@@ -13,12 +13,24 @@
 
 \begin{document}
 
-\color{\logocolor}
+\color{\logocolor} % Set logo color
 \baselineskip=0pt % Remove leading
+
+\newcommand{\ps}{ps}
+\newcommand{\psnum}{psnum}
+\newcommand{\postscriptum}{postscriptum}
 
 \begin{center} % Center horizontally
 	\vspace*{\fill} % Center vertically
-	\begingroup\addfontfeature{StylisticSet=\pstyle}P\endgroup OST\begingroup\addfontfeature{StylisticSet=\sstyle}S\endgroup CRIPTUM
+		\ifx\version\ps
+			\begingroup\addfontfeature{StylisticSet=\pstyle}P\endgroup\begingroup\addfontfeature{StylisticSet=\sstyle}S\endgroup
+		\else
+			\ifx\version\psnum
+				\begingroup\addfontfeature{StylisticSet=\pstyle}P\endgroup\begingroup\addfontfeature{StylisticSet=\sstyle}S\endgroup\num
+			\else
+				\begingroup\addfontfeature{StylisticSet=\pstyle}P\endgroup OST\begingroup\addfontfeature{StylisticSet=\sstyle}S\endgroup CRIPTUM
+			\fi
+		\fi
 	\vspace*{\fill} % Center vertically
 \end{center}
 
