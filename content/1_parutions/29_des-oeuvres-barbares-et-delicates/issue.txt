@@ -61,3 +61,11 @@ References:
 ----
 
 Uuid: 0NZM3MmHSyYqUHHQ
+
+----
+
+Logo-style-p: 13
+
+----
+
+Logo-style-s: 03

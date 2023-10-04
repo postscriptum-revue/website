@@ -59,3 +59,11 @@ References:
 ----
 
 Uuid: C5UTz0pPT64aNudm
+
+----
+
+Logo-style-p: 02
+
+----
+
+Logo-style-s: 15

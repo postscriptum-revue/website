@@ -67,3 +67,11 @@ References:
 ----
 
 Uuid: EZbQU2x7oke5F7XT
+
+----
+
+Logo-style-p: 10
+
+----
+
+Logo-style-s: 18

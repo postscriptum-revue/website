@@ -6,14 +6,43 @@ Subtitle:
 
 ----
 
-Number: 18.1
+Cover: 
 
 ----
 
-Intro-text:
+Date: 2015-08-27
 
-<p>Pour poursuivre la réflexion sur les hygiènes de la création, proposée dans le numéro 18, sous la direction de Clara Dupuis-Morency, nous vous présentons en guise de supplément un article inédit de Simon Harel, traitant des modalités de l’écriture hygiénique chez Antonin Artaud et Knut Hamsun – écriture hygiénique dans la mesure où les deux œuvres font état d’une volonté d’épuration de la forme, correspondant à une autophagie.</p>
-<p>Par la publication de ce texte, nous vous invitons donc à prolonger vos réflexions autour de ces hygiènes créatrices, mais aussi à y revenir en parcourant ou en re-parcourant les articles publiés originellement dans le numéro 18.</p>
+----
+
+Credit-editors: 
+
+----
+
+Credit-revision: 
+
+----
+
+Credit-webmaster: 
+
+----
+
+Intro-text: [{"content":{"text":"<p>Pour poursuivre la réflexion sur les hygiènes de la création, proposée dans le numéro 18, sous la direction de Clara Dupuis-Morency, nous vous présentons en guise de supplément un article inédit de Simon Harel, traitant des modalités de l’écriture hygiénique chez Antonin Artaud et Knut Hamsun – écriture hygiénique dans la mesure où les deux œuvres font état d’une volonté d’épuration de la forme, correspondant à une autophagie.</p>\n<p>Par la publication de ce texte, nous vous invitons donc à prolonger vos réflexions autour de ces hygiènes créatrices, mais aussi à y revenir en parcourant ou en re-parcourant les articles publiés originellement dans le numéro 18.</p>"},"id":"5373f2bb-d222-4dbb-aa8b-14cfdef2bd43","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: 
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: 
+
+----
+
+Number: 18.1
 
 ----
 
@@ -25,12 +54,16 @@ Credits:
 
 ----
 
-Date: 2015-08-27 00:00:10
-
-----
-
 References: 
 
 ----
 
 Uuid: jW0zKezW8inh0OLI
+
+----
+
+Logo-style-p: 02
+
+----
+
+Logo-style-s: 09

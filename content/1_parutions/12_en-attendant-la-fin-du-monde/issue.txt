@@ -55,3 +55,11 @@ References:
 ----
 
 Uuid: iAqjvOkKdw39Yosw
+
+----
+
+Logo-style-p: 12
+
+----
+
+Logo-style-s: 19
