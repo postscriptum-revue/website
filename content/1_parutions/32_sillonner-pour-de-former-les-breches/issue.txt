@@ -67,3 +67,11 @@ References:
 ----
 
 Uuid: aD8CtzOgAI6bcNHz
+
+----
+
+Logo-style-p: 10
+
+----
+
+Logo-style-s: 08

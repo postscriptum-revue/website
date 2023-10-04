@@ -55,3 +55,11 @@ References:
 ----
 
 Uuid: hLPlXc98HzMadiGL
+
+----
+
+Logo-style-p: 02
+
+----
+
+Logo-style-s: 17

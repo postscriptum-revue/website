@@ -61,3 +61,11 @@ References:
 ----
 
 Uuid: Hv7djChTxqC2Ro2t
+
+----
+
+Logo-style-p: 19
+
+----
+
+Logo-style-s: 17

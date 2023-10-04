@@ -71,3 +71,11 @@ References:
 ----
 
 Uuid: NK5vEPZ5MCgEZDhv
+
+----
+
+Logo-style-p: 01
+
+----
+
+Logo-style-s: 02
