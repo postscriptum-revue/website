@@ -11,7 +11,7 @@ for color in black white; do
 	for version in ps psnum postscriptum; do
 		# \newcommand is used to pass variables to the tex source file
 		# at runtime.
-		lualatex -jobname=logo-$version-$color --output-directory=$page_dir "\newcommand{\pstyle}{$p_style}\newcommand{\sstyle}{$s_style}\newcommand{\logocolor}{$color}\newcommand{\version}{$version}\newcommand{\num}{$num}\input{logo.tex}"
+		lualatex -jobname=logo-$num-$version-$color --output-directory=$page_dir "\newcommand{\pstyle}{$p_style}\newcommand{\sstyle}{$s_style}\newcommand{\logocolor}{$color}\newcommand{\version}{$version}\newcommand{\num}{$num}\input{logo.tex}"
 	done
 done
 

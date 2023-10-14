@@ -21,9 +21,10 @@ class Logo
 			$style = $this->generateStyle();
 		} while (in_array($style["both"], $style_list));
 
-		// Can't use $page->num() because the page is a draft,
-		// and thus has no number yet.
-		$issue_num = page("parutions")->children()->count();
+		// New pages don't have a $page->num() because they are drafts,
+		// and thus have no number yet.
+		$issue_num =
+			$page->num() ?? page("parutions")->children()->count();
 
 		// Add the new logo style to the list. 
 		// `$style["both"]` is used to make the comparison easier.
@@ -32,7 +33,7 @@ class Logo
 
 		// Update the fields in both `site.txt` 
 		// and the issue's `issue.txt`
-		$site->update([
+		$site = $site->update([
 			"logo_style_list" => $style_list_json
 		]);
 		$page->update([
@@ -46,8 +47,13 @@ class Logo
 			$style["s"],
 			$issue_num,
 			$page->root(),
-
 		);
+
+		// $site is returned because $site->update() doesn't mutate
+		// the original object, but rather returns the updated object.
+		// Thus it's necessary to return the updated $site if we wish
+		// to, say, generate multiple logos in a loop.
+		return $site;
 	}
 
 	private function generateStyle()
