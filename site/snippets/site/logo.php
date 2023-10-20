@@ -1,18 +1,29 @@
-<?php
-
-// TODO: Replace with real logic.
-$p_ss = random_int(0, 1) . random_int(0, 9);
-$s_ss = random_int(0, 1) . random_int(0, 9);
-
-?>
-
 <a href="/" class="site-header__logo">
-	<?php if (
-		$page->template() == "issue" ||
-		$page->template() == "article"
-	) : ?>
-		<span style="font-feature-settings: 'ss<?= $p_ss ?>';">P</span><span style="font-feature-settings: 'ss<?= $s_ss ?>'">S</span><?= $page->num() ?>
+	<?php if ($page->template() == "issue") : ?>
+		<span style="
+			font-feature-settings: 
+				'ss<?= $page->logo_style_p() ?>';
+		">P</span><span style="
+			font-feature-settings: 
+				'ss<?= $page->logo_style_s() ?>';
+		">S</span><?= $page->num() ?>
+	<?php elseif ($page->template() == "article") : ?>
+		<span style="
+			font-feature-settings: 
+				'ss<?= $page->parent()->logo_style_p() ?>';
+		">P</span><span style="
+			font-feature-settings: 
+				'ss<?= $page->parent()->logo_style_s() ?>';
+		">S</span><?= $page->parent()->num() ?>
 	<?php else : ?>
-		<span style="font-feature-settings: 'ss<?= $p_ss ?>';">P</span>OST<span style="font-feature-settings: 'ss<?= $s_ss ?>'">S</span>CRIPTUM
+		<span style="
+			font-feature-settings: 
+				'ss<?= page("parutions")->children()->last()
+					->logo_style_p() ?>';
+		">P</span>OST<span style="
+			font-feature-settings: 
+				'ss<?= page("parutions")->children()->last()
+					->logo_style_s() ?>';
+		">S</span>CRIPTUM
 	<?php endif ?>
 </a>
