@@ -189,8 +189,12 @@ class Query
 	 *
 	 * @return $this
 	 */
-	public function fetch(string|Closure $fetch): static
+	public function fetch(string|callable|Closure $fetch): static
 	{
+		if (is_callable($fetch) === true) {
+			$fetch = Closure::fromCallable($fetch);
+		}
+
 		$this->fetch = $fetch;
 		return $this;
 	}
@@ -255,8 +259,11 @@ class Query
 	 * @param string $type The join type. Uses an inner join by default
 	 * @return $this
 	 */
-	public function join(string $table, string $on, string $type = 'JOIN'): static
-	{
+	public function join(
+		string $table,
+		string $on,
+		string $type = 'JOIN'
+	): static {
 		$join = [
 			'table' => $table,
 			'on'    => $on,
@@ -623,7 +630,7 @@ class Query
 	/**
 	 * Selects only one row from a table
 	 */
-	public function first(): object|array|false
+	public function first(): mixed
 	{
 		return $this->query($this->offset(0)->limit(1)->build('select'), [
 			'fetch'    => $this->fetch,
@@ -635,7 +642,7 @@ class Query
 	/**
 	 * Selects only one row from a table
 	 */
-	public function row(): object|array|false
+	public function row(): mixed
 	{
 		return $this->first();
 	}
@@ -643,7 +650,7 @@ class Query
 	/**
 	 * Selects only one row from a table
 	 */
-	public function one(): object|array|false
+	public function one(): mixed
 	{
 		return $this->first();
 	}
@@ -674,7 +681,7 @@ class Query
 		$collection = $this
 			->offset($pagination->offset())
 			->limit($pagination->limit())
-			->iterator('Kirby\Toolkit\Collection')
+			->iterator(Collection::class)
 			->all();
 
 		$this->iterator($iterator);
