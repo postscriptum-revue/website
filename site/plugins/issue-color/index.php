@@ -16,8 +16,6 @@ use ColorThief\ColorThief;
 				$file->page()->update([
 					"color" => "rgb($color[0], $color[1], $color[2])",
 				]);
-
-				throw new Exception('Create');
 			}
 		}
 	]
