@@ -1,0 +1,12 @@
+{
+    "name": "postscriptum/issue-color",
+    "authors": [
+        {
+            "name": "Maxime Pigeon",
+            "email": "me@maximepigeon.com"
+        }
+    ],
+    "require": {
+        "ksubileau/color-thief-php": "^2.0"
+    }
+}
