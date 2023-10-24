@@ -3,6 +3,7 @@
 namespace Kirby\Cms;
 
 use Closure;
+use Kirby\Content\Field;
 use Kirby\Exception\Exception;
 use Kirby\Exception\InvalidArgumentException;
 use Kirby\Exception\NotFoundException;
@@ -12,7 +13,9 @@ use Kirby\Http\Uri;
 use Kirby\Panel\Page as Panel;
 use Kirby\Template\Template;
 use Kirby\Toolkit\A;
+use Kirby\Toolkit\LazyValue;
 use Kirby\Toolkit\Str;
+use Throwable;
 
 /**
  * The `$page` object is the heart and
@@ -306,34 +309,43 @@ class Page extends ModelWithContent
 		$data = array_merge($data, [
 			'kirby' => $kirby = $this->kirby(),
 			'site'  => $site  = $this->site(),
-			'pages' => $site->children(),
-			'page'  => $site->visit($this)
+			'pages' => new LazyValue(fn () => $site->children()),
+			'page'  => new LazyValue(fn () => $site->visit($this))
 		]);
 
 		// call the template controller if there's one.
-		$controllerData = $kirby->controller($this->template()->name(), $data, $contentType);
+		$controllerData = $kirby->controller(
+			$this->template()->name(),
+			$data,
+			$contentType
+		);
 
 		// merge controller data with original data safely
+		// to provide original data to template even if
+		// it wasn't returned by the controller explicitly
 		if (empty($controllerData) === false) {
 			$classes = [
-				'kirby' => 'Kirby\Cms\App',
-				'site'  => 'Kirby\Cms\Site',
-				'pages' => 'Kirby\Cms\Pages',
-				'page'  => 'Kirby\Cms\Page'
+				'kirby' => App::class,
+				'site'  => Site::class,
+				'pages' => Pages::class,
+				'page'  => Page::class
 			];
 
 			foreach ($controllerData as $key => $value) {
-				if (array_key_exists($key, $classes) === true) {
-					if ($value instanceof $classes[$key]) {
-						$data[$key] = $value;
-					} else {
-						throw new InvalidArgumentException('The returned variable "' . $key . '" from the controller "' . $this->template()->name() . '" is not of the required type "' . $classes[$key] . '"');
-					}
-				} else {
-					$data[$key] = $value;
-				}
+				$data[$key] = match (true) {
+					// original data wasn't overwritten
+					array_key_exists($key, $classes) === false => $value,
+					// original data was overwritten, but matches expected type
+					$value instanceof $classes[$key] => $value,
+					// throw error if data was overwritten with wrong type
+					default => throw new InvalidArgumentException('The returned variable "' . $key . '" from the controller "' . $this->template()->name() . '" is not of the required type "' . $classes[$key] . '"')
+				};
 			}
 		}
+
+		// unwrap remaining lazy values in data
+		// (happens if the controller didn't override an original lazy Kirby object)
+		$data = LazyValue::unwrap($data);
 
 		return $data;
 	}
@@ -688,7 +700,16 @@ class Page extends ModelWithContent
 	 */
 	public function isListed(): bool
 	{
-		return $this->num() !== null;
+		return $this->isPublished() && $this->num() !== null;
+	}
+
+	public function isMovableTo(Page|Site $parent): bool
+	{
+		try {
+			return PageRules::move($this, $parent);
+		} catch (Throwable) {
+			return false;
+		}
 	}
 
 	/**
@@ -743,7 +764,7 @@ class Page extends ModelWithContent
 	 */
 	public function isUnlisted(): bool
 	{
-		return $this->isListed() === false;
+		return $this->isPublished() && $this->num() === null;
 	}
 
 	/**
@@ -754,7 +775,7 @@ class Page extends ModelWithContent
 	public function isVerified(string $token = null): bool
 	{
 		if (
-			$this->isDraft() === false &&
+			$this->isPublished() === true &&
 			$this->parents()->findBy('status', 'draft') === null
 		) {
 			return true;
@@ -807,14 +828,12 @@ class Page extends ModelWithContent
 
 	/**
 	 * Returns the last modification date of the page
-	 *
-	 * @return int|string
 	 */
 	public function modified(
-		string $format = null,
-		string $handler = null,
-		string $languageCode = null
-	) {
+		string|null $format = null,
+		string|null $handler = null,
+		string|null $languageCode = null
+	): int|string|false|null {
 		$identifier = $this->isDraft() === true ? 'changes' : 'published';
 
 		$modified = $this->storage()->modified(
@@ -1021,11 +1040,9 @@ class Page extends ModelWithContent
 
 	/**
 	 * @internal
-	 * @param mixed $type
-	 * @return \Kirby\Template\Template
 	 * @throws \Kirby\Exception\NotFoundException If the content representation cannot be found
 	 */
-	public function representation($type)
+	public function representation(mixed $type): Template
 	{
 		$kirby          = $this->kirby();
 		$template       = $this->template();
@@ -1059,11 +1076,8 @@ class Page extends ModelWithContent
 
 	/**
 	 * Search all pages within the current page
-	 *
-	 * @param array $params
-	 * @return \Kirby\Cms\Pages
 	 */
-	public function search(string $query = null, $params = [])
+	public function search(string|null $query = null, string|array $params = []): Pages
 	{
 		return $this->index()->search($query, $params);
 	}
@@ -1151,10 +1165,8 @@ class Page extends ModelWithContent
 
 	/**
 	 * Returns the final template
-	 *
-	 * @return \Kirby\Template\Template
 	 */
-	public function template()
+	public function template(): Template
 	{
 		if ($this->template !== null) {
 			return $this->template;
@@ -1171,10 +1183,8 @@ class Page extends ModelWithContent
 
 	/**
 	 * Returns the title field or the slug as fallback
-	 *
-	 * @return \Kirby\Content\Field
 	 */
-	public function title()
+	public function title(): Field
 	{
 		return $this->content()->get('title')->or($this->slug());
 	}
