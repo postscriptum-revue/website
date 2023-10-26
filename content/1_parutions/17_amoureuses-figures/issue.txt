@@ -10,6 +10,10 @@ Cover: - file://9o8nlTZOfETrDY5z
 
 ----
 
+Color: rgb(172, 86, 30)
+
+----
+
 Date: 2014-09-30
 
 ----

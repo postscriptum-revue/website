@@ -10,6 +10,10 @@ Cover: - file://5bM45nVI1kcvV3A1
 
 ----
 
+Color: rgb(161, 112, 34)
+
+----
+
 Date: 2016-03-07
 
 ----

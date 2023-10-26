@@ -10,6 +10,10 @@ Cover: - file://FnhLgewsyZoRPvGz
 
 ----
 
+Color: rgb(135, 119, 87)
+
+----
+
 Date: 2005-08-15
 
 ----

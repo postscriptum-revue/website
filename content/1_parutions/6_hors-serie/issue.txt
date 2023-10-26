@@ -10,6 +10,10 @@ Cover: - file://dZC08LohUFX2i0oM
 
 ----
 
+Color: rgb(14, 8, 210)
+
+----
+
 Date: 2006-10-15
 
 ----

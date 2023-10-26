@@ -10,6 +10,10 @@ Cover: - file://pr9O3aOx2YaLpueN
 
 ----
 
+Color: rgb(208, 72, 59)
+
+----
+
 Date: 2016-12-14
 
 ----

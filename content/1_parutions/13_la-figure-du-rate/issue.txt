@@ -10,6 +10,10 @@ Cover: - file://vKE9B8PvkDrEJiSw
 
 ----
 
+Color: rgb(84, 100, 108)
+
+----
+
 Date: 2011-05-10
 
 ----

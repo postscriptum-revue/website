@@ -10,7 +10,7 @@ Cover: - file://XB5vLQXLpEqhNd8m
 
 ----
 
-Color: #f43d3d
+Color: rgb(169, 41, 28)
 
 ----
 

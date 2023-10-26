@@ -10,6 +10,10 @@ Cover: - file://lKYOl9FK3LYCric8
 
 ----
 
+Color: rgb(168, 108, 84)
+
+----
+
 Date: 2020-04-25
 
 ----

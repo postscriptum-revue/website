@@ -11,22 +11,43 @@ use ColorThief\ColorThief;
 		// file is selected in the panel.
 		"file.create:after" => function (Kirby\Cms\File $file) {
 			if ($file->template() == "cover") {
-				$color = findIssueColor($file);
+				$palette  = findIssuePalette($file);
+
+				$biggest_difference = 0;
+				$color = $palette[0];
+
+				// Find the most vivid color from the image's palette. 
+				foreach ($palette as $c) {
+					$difference = max($c) - min($c);
+					if ($difference > $biggest_difference) {
+						$biggest_difference = $difference;
+						$color = $c;
+					}
+				}
 
 				$file->page()->update([
-					"color" => "rgb($color[0], $color[1], $color[2])",
+					"color" => "rgb($color[0], $color[1], $color[2])"
 				]);
 			}
 		}
 	]
 ]);
 
-function findIssueColor($file)
+function findIssuePalette($file)
 {
-	$color = ColorThief::getColor(
+	$palette = ColorThief::getPalette(
 		$file->root()
 	);
 
+	foreach ($palette as &$color) {
+		$color = accessibilize($color);
+	}
+
+	return $palette;
+}
+
+function accessibilize($color)
+{
 	$contrast = findContrast($color[0], $color[1], $color[2]);
 	$minContrast = 4.1;
 

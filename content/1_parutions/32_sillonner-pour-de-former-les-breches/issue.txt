@@ -10,7 +10,7 @@ Cover: - file://S8OcFdwrVpYJCOYX
 
 ----
 
-Color: #ff77b4
+Color: rgb(50, 137, 116)
 
 ----
 

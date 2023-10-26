@@ -10,6 +10,10 @@ Cover: - file://shTkViAuoCr2yJH1
 
 ----
 
+Color: rgb(209, 64, 148)
+
+----
+
 Date: 2015-11-27
 
 ----
