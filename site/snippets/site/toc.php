@@ -1,6 +1,9 @@
 <ul class="toc">
 	<?php foreach ($toc_pages as $p) : ?>
-		<li class="toc__item">
+		<li 
+			class="toc__item" 
+			style="--issue-color: <?= $p->parent()->color() ?>"
+		>
 			<a href="<?= $p->url() ?>">
 				<ul class="toc__item-authors">
 					<?php

@@ -20,5 +20,7 @@
 <?php endslot() ?>
 
 <?php slot("main") ?>
-<?php snippet("site/toc", ["toc_pages" => $articles]) ?>
+<?php snippet("site/toc", [
+		"toc_pages" => $articles->sortBy("title", "desc")
+	]) ?>
 <?php endslot() ?>
