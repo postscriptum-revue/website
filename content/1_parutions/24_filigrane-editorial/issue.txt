@@ -10,6 +10,10 @@ Cover: - file://Z6iOYWFRUoRhGwMz
 
 ----
 
+Color: rgb(149, 119, 93)
+
+----
+
 Date: 2018-04-28
 
 ----

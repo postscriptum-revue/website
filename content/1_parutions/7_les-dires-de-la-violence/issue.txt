@@ -10,6 +10,10 @@ Cover: - file://pyX3MF7GMtmVZuRW
 
 ----
 
+Color: rgb(81, 68, 32)
+
+----
+
 Date: 2007-07-15
 
 ----

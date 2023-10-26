@@ -10,6 +10,10 @@ Cover: - file://vKABg87lSr2HdnXP
 
 ----
 
+Color: rgb(84, 124, 140)
+
+----
+
 Date: 2009-09-15
 
 ----

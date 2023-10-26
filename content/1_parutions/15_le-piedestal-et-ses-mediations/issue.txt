@@ -10,6 +10,10 @@ Cover: - file://Tt0j6CaFjQm2hQbk
 
 ----
 
+Color: rgb(62, 49, 33)
+
+----
+
 Date: 2013-09-01
 
 ----

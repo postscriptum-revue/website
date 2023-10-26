@@ -10,6 +10,10 @@ Cover: - file://l4DwoFfc7jDP8mwP
 
 ----
 
+Color: rgb(124, 64, 50)
+
+----
+
 Date: 2015-05-15
 
 ----

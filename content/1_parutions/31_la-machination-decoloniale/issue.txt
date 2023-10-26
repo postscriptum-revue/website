@@ -10,7 +10,7 @@ Cover: - file://9QXO9Fa4hMNHIwWm
 
 ----
 
-Color: #000000
+Color: rgb(143, 117, 69)
 
 ----
 

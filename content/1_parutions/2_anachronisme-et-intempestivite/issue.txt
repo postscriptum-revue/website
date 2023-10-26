@@ -10,6 +10,10 @@ Cover: - file://N5siLNWum3HVLSOE
 
 ----
 
+Color: rgb(111, 111, 111)
+
+----
+
 Date: 2003-02-15
 
 ----

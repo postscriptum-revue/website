@@ -10,6 +10,10 @@ Cover: - file://gIPnFyn0GmGj34u2
 
 ----
 
+Color: rgb(156, 112, 74)
+
+----
+
 Date: 2020-12-05
 
 ----

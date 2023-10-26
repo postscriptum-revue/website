@@ -10,6 +10,10 @@ Cover: - file://AGZ5siHQ8TZUZWXQ
 
 ----
 
+Color: rgb(186, 99, 75)
+
+----
+
 Date: 2008-12-15
 
 ----

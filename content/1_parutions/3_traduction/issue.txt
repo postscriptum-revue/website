@@ -10,6 +10,10 @@ Cover: - file://xctTi4pT3VIbHgSc
 
 ----
 
+Color: rgb(37, 37, 37)
+
+----
+
 Date: 2003-03-15
 
 ----

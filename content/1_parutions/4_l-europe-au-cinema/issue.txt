@@ -10,6 +10,10 @@ Cover: - file://5opiQIj5PV1dAtcx
 
 ----
 
+Color: rgb(60, 44, 196)
+
+----
+
 Date: 2004-04-15
 
 ----

@@ -10,6 +10,10 @@ Cover: - file://bUgdnn7VJe2jkUsh
 
 ----
 
+Color: rgb(169, 107, 35)
+
+----
+
 Date: 2024-05-20
 
 ----

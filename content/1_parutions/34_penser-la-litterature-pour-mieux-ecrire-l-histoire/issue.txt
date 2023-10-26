@@ -10,7 +10,7 @@ Cover: - file://ZnWGEI2xUnZVQVRC
 
 ----
 
-Color: #c10303
+Color: rgb(194, 87, 96)
 
 ----
 

@@ -10,6 +10,10 @@ Cover: - file://zzwraOa2JriCKPzX
 
 ----
 
+Color: rgb(212, 82, 78)
+
+----
+
 Date: 2009-11-15
 
 ----

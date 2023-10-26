@@ -10,6 +10,10 @@ Cover: - file://P2KLLlVZQ3KBH3bC
 
 ----
 
+Color: rgb(150, 119, 50)
+
+----
+
 Date: 2002-12-15
 
 ----

@@ -10,6 +10,10 @@ Cover: - file://1mbIk2uAZh0CpwHB
 
 ----
 
+Color: rgb(26, 26, 26)
+
+----
+
 Date: 2010-03-01
 
 ----
