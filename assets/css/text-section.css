@@ -28,9 +28,15 @@
 }
 
 .text-section__h2 {
-	margin: 4rem auto 0 auto;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 	max-width: 50%;
+}
+
+/* See about template */
+.text-section__h2:not(:first-child) {
+    margin-top: 4rem;
 }
 
 .text-section__h2 + * {

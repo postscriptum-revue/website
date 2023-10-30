@@ -4,6 +4,15 @@ columns:
     left:
         width: 1/3
         sections:
+            about:
+                label: À propos
+                type: pages
+                template: about
+            news:
+                type: fields
+                fields:
+                    hl:
+                        type: line
             call-paper:
                 label: Appels de textes
                 type: pages

@@ -35,11 +35,14 @@ tabs:
                     color:
                         type: color
                         label: Couleur d’accent
+                        disabled: true
+                        help: |
+                            Générée automatiquement à partir de l'image de couverture.
                     date:
                         type: date
                         label: Date de parution
                         display: MMMM YYYY
-                        help: La journée n'importe pas.
+                        help: Le jour n'importe pas.
                         required: true
                     credit_editors:
                         type: list

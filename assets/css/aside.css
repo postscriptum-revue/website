@@ -37,3 +37,11 @@
 .site-aside__section + .site-aside__section {
 	margin-top: 2rem;
 }
+
+.site-aside__list {
+    font-size: var(--font-size-small);
+}
+
+.about-aside-group {
+    margin-top: 1rem;
+}
