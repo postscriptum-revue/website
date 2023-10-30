@@ -1,0 +1,52 @@
+title: À propos
+
+tabs:
+    general:
+        label: Information générale
+        columns:
+            left:
+                width: 2/3
+                fields:
+                    about:
+                        type: writer
+            right:
+                width: 1/3
+                fields:
+                    contact:
+                        label: Coordonnées
+                        type: structure
+                        fields:
+                            address:
+                                label: Courriel
+                                type: email
+    team:
+        label: Équipe
+        fields:
+             team:
+                label: Équipe
+                type: structure
+                fields:
+                    task:
+                        label: Tâche
+                        type: text
+                    members:
+                        label: Membres
+                        type: structure
+                        fields:
+                            name:
+                                label: Nom
+                                type: text
+                                required: true
+                            occupation:
+                                label: Occupation
+                                type: text
+                            affiliation:
+                                label: Affiliation
+                                type: text
+    protocol:
+        label: Protocole de rédaction
+        fields:
+            protocol:
+                label: Protocole
+                type: writer
+
