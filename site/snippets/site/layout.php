@@ -1,5 +1,5 @@
 <?php
-
+// TODO: Still relevant?
 $color = $issue_color ??  $page->color();
 
 ?>
@@ -14,6 +14,7 @@ $color = $issue_color ??  $page->color();
 		content="width=device-width, initial-scale=1.0"
 	>
 	<link rel="stylesheet" href="/assets/css/style.css">
+	<script src="/assets/scripts/logo.js" defer></script>
 	<title>
 		<?php
 		if ($page->template() == "home") {
