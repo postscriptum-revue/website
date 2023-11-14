@@ -17,11 +17,12 @@ $color = $issue_color ??  $page->color();
 	<script src="/assets/scripts/logo.js" defer></script>
 	<title>
 		<?php
-		if ($page->template() == "home") {
-			echo "Post-Scriptum";
+		if ($page->template() == "issue") {
+			echo "PS{$page->num()} | {$page->title()}";
+		} elseif ($page->template() == "article"){
+			echo "PS{$page->parent()->num()} | {$page->title()}";
 		} else {
-			// TODO: Display "PS12" when in an issue or an article.
-			echo "PS" . $page->num();
+			echo "PS | {$page->title()}";
 		}
 		?>
 	</title>

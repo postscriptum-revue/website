@@ -32,26 +32,26 @@
 	<?php if ($cover->credit()->isNotEmpty()) : ?>
 		<dt class="issue-credits__term">Image de couverture</dt>
 		<dd class="issue-credits__description">
-			<?= $cover->credit() ?>
+			<?= $cover->credit()->smartypants() ?>
 		</dd>
 	<?php endif ?>
 	<?php if ($page->credit_intro()->isNotEmpty()) : ?>
 		<dt class="issue-credits__term">Texte de présentation</dt>
 		<dd class="issue-credits__description">
-			<?= $page->credit_intro() ?>
+			<?= $page->credit_intro()->smartypants() ?>
 		</dd>
 	<?php endif ?>
 	<dt class="issue-credits__term">Éditeur·rice(s)</dt>
 	<dd class="issue-credits__description">
-		<?= $page->credit_editors() ?>
+		<?= $page->credit_editors()->smartypants() ?>
 	</dd>
 	<dt class="issue-credits__term">Révision</dt>
 	<dd class="issue-credits__description">
-		<?= $page->credit_revision() ?>
+		<?= $page->credit_revision()->smartypants() ?>
 	</dd>
 	<dt class="issue-credits__term">Mise en ligne</dt>
 	<dd class="issue-credits__description">
-		<?= $page->credit_webmaster() ?>
+		<?= $page->credit_webmaster()->smartypants() ?>
 	</dd>
 </dl>
 
