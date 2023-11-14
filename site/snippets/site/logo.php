@@ -19,11 +19,11 @@
 		<span style="
 			font-feature-settings: 
 				'ss<?= page("parutions")->children()->last()
-					->logo_style_p() ?>';
+						->logo_style_p() ?>';
 		">P</span>OST<span style="
 			font-feature-settings: 
 				'ss<?= page("parutions")->children()->last()
-					->logo_style_s() ?>';
+						->logo_style_s() ?>';
 		">S</span>CRIPTUM
 	<?php endif ?>
 </a>
