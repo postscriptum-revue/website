@@ -2,6 +2,15 @@
 	text-align: center;
 }
 
+.toc__item:hover {
+    cursor: pointer;
+}
+
+.toc__item:hover .toc__item-title,
+.toc__item:hover .toc__item-subtitle {
+    text-decoration: underline;
+}
+
 .toc__item+.toc__item {
 	margin-top: 1rem;
 }
