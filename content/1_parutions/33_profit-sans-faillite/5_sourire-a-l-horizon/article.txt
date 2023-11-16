@@ -36,9 +36,9 @@ Keywords:
 
 Abstract-fr:
 
-<p style="text-align: justify; line-height: 150%;">Cet article discute de la mort du chien Karénine dans <em>L’insoutenable légèreté de l’être </em>(1984) de Milan Kundera dans une perspective philosophique et intertextuelle permettant d’interroger la possibilité de concilier bonheur et conscience de la finitude. En mettant en scène une relation affective complexe entre les espèces, ce roman brouille les frontières entre animalité et humanité, allant jusqu’à proposer un sourire canin comparable à celui qu’exécute un cadavre dans <em>Anna Karénine</em> de Tolstoï. C’est depuis cet impossible sourire qu’est analysé le chien comme incarnation du bonheur, dont la mort bouleverse la vie conjugale de Tereza et de Tomas, reposant jusqu’alors en grande partie sur la temporalité circulaire de l’animal. À terme, l’article reconnaît que le rapport au monde de l’animal offre une autre voie pour approcher le paradoxe d’une pensée de la finitude affranchie du monopole du <em>Dasein.</em></p>
-<p style="text-align: justify; line-height: 150%;"><em> </em></p>
-<p style="text-align: justify; line-height: 150%;">Mots-clés : Kundera, chien, mort, bonheur</p>
+<p>Cet article discute de la mort du chien Karénine dans <em>L’insoutenable légèreté de l’être </em>(1984) de Milan Kundera dans une perspective philosophique et intertextuelle permettant d’interroger la possibilité de concilier bonheur et conscience de la finitude. En mettant en scène une relation affective complexe entre les espèces, ce roman brouille les frontières entre animalité et humanité, allant jusqu’à proposer un sourire canin comparable à celui qu’exécute un cadavre dans <em>Anna Karénine</em> de Tolstoï. C’est depuis cet impossible sourire qu’est analysé le chien comme incarnation du bonheur, dont la mort bouleverse la vie conjugale de Tereza et de Tomas, reposant jusqu’alors en grande partie sur la temporalité circulaire de l’animal. À terme, l’article reconnaît que le rapport au monde de l’animal offre une autre voie pour approcher le paradoxe d’une pensée de la finitude affranchie du monopole du <em>Dasein.</em></p>
+<p><em> </em></p>
+<p>Mots-clés : Kundera, chien, mort, bonheur</p>
 
 ----
 
@@ -52,18 +52,18 @@ Abstract-en:
 
 References:
 
-- <p style="text-align: justify; line-height: 150%;">Bailly, Jean-Christophe. <em>Le parti pris des animaux</em>. Paris : Christian Bourgeois, 2013.</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">De Fontenay, Élizabeth. <em>Le silence des bêtes. La philosophie à l’épreuve de l’animalité</em>. Paris : Fayard, 1998.</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Derrida, Jacques. <em>Apories. Mourir – s’attendre aux « limites » de la vérité</em>. Paris : Galilée, 1996.</p>
-<p style="text-align: justify; line-height: 150%;">Derrida, Jacques. <em>L’animal que donc je suis</em>. Paris : Galilée, 2006.</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Haraway, Donna. <em>Manifestes des espèces de compagnies : chiens, humains et autres partenaires</em>. Traduit de l’anglais par Jérôme Hansen. Paris : Flammarion, 2018 [2003].</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Heidegger, Martin. <em>Être et temps.</em> Traduit de l’allemand par François Vezin. Paris : Gallimard 1990 [1927].</p>
-<p style="text-align: justify; line-height: 150%;">Jankélévitch, Vladimir. <em>La mort</em>. Paris : Flammarion, 2017 [1977].</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Kundera, Milan. <em>L’insoutenable légèreté de l’être</em>. Traduit du tchèque par François Kérel. Paris : Gallimard, 1984.</p>
-<p style="text-align: justify; line-height: 150%;">Le Breton, David. <em>Sourire : Anthropologie de l’énigmatique</em>. Paris : Métailié, 2022.</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Maciel, Maria Esther. « Quand meurt un chien », <em>Carnets</em> [En ligne], Deuxième série – 18, 2020, mis en ligne le 31 janvier 2020. <a href="http://journals.openedition.org.proxy.bibliotheques.uqam.ca/carnets/10604">http://journals.openedition.org.proxy.bibliotheques.uqam.ca/carnets/10604</a> (dernière consultation le 2 mai 2022)</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Thirouin, Marie-Odile. « La tentative de l’anti-humanisme dans l’oeuvre de Kundera ». In <em>Désaccords parfaits. La réception paradoxale de l’oeuvre de Milan Kundera</em>, textes présentés par Marie-Odile Thirouin et Martine Boyer-Weinmann, 291-304. Grenoble : Ellug, 2009.</p>
-<p style="margin-left: 21.25pt; text-align: justify; text-indent: -21.25pt; line-height: 150%;">Tolstoï, Leon. <em>Anna Karénine</em>. Traduit du russe par Henri Mongault. Paris : Gallimard, 2012 [1878].</p>
+- <p>Bailly, Jean-Christophe. <em>Le parti pris des animaux</em>. Paris : Christian Bourgeois, 2013.</p>
+<p>De Fontenay, Élizabeth. <em>Le silence des bêtes. La philosophie à l’épreuve de l’animalité</em>. Paris : Fayard, 1998.</p>
+<p>Derrida, Jacques. <em>Apories. Mourir – s’attendre aux « limites » de la vérité</em>. Paris : Galilée, 1996.</p>
+<p>Derrida, Jacques. <em>L’animal que donc je suis</em>. Paris : Galilée, 2006.</p>
+<p>Haraway, Donna. <em>Manifestes des espèces de compagnies : chiens, humains et autres partenaires</em>. Traduit de l’anglais par Jérôme Hansen. Paris : Flammarion, 2018 [2003].</p>
+<p>Heidegger, Martin. <em>Être et temps.</em> Traduit de l’allemand par François Vezin. Paris : Gallimard 1990 [1927].</p>
+<p>Jankélévitch, Vladimir. <em>La mort</em>. Paris : Flammarion, 2017 [1977].</p>
+<p>Kundera, Milan. <em>L’insoutenable légèreté de l’être</em>. Traduit du tchèque par François Kérel. Paris : Gallimard, 1984.</p>
+<p>Le Breton, David. <em>Sourire : Anthropologie de l’énigmatique</em>. Paris : Métailié, 2022.</p>
+<p>Maciel, Maria Esther. « Quand meurt un chien », <em>Carnets</em> [En ligne], Deuxième série – 18, 2020, mis en ligne le 31 janvier 2020. <a href="http://journals.openedition.org.proxy.bibliotheques.uqam.ca/carnets/10604">http://journals.openedition.org.proxy.bibliotheques.uqam.ca/carnets/10604</a> (dernière consultation le 2 mai 2022)</p>
+<p>Thirouin, Marie-Odile. « La tentative de l’anti-humanisme dans l’oeuvre de Kundera ». In <em>Désaccords parfaits. La réception paradoxale de l’oeuvre de Milan Kundera</em>, textes présentés par Marie-Odile Thirouin et Martine Boyer-Weinmann, 291-304. Grenoble : Ellug, 2009.</p>
+<p>Tolstoï, Leon. <em>Anna Karénine</em>. Traduit du russe par Henri Mongault. Paris : Gallimard, 2012 [1878].</p>
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> L’être de la pesanteur représenté par Tereza est évidemment le résultat du patriarcat qui rabaisse les femmes au corporel, à l’irrationalité et au privé : « Une jeune fille qui doit, au lieu de “s’élever”, servir de la bière à des ivrognes et passer le dimanche à laver le linge sale de ses frères et sœurs, amasse en elle une immense réserve de vitalité, inconcevable pour des gens qui vont à l’université et bâillent devant des bouquins » (Kundera 1984, 73).
 

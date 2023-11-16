@@ -56,7 +56,7 @@ References:
  	<li><u> </u>. <em>Letters</em>, Sous la direction de Edel Leon, Vol. III 1883-1895, London, Macmillan London Limited, 1980.</li>
 </ul>
 <ul>
- 	<li style="list-style-type: none;"></li>
+ 	<li></li>
  	<li>LOUVEL, Liliane. <em>Le tiers pictural : pour une critique intermédiale</em>, Rennes, Presses Universitaires de Rennes, 2010.</li>
  	<li>NANCY, Jean-Luc. <em>Au fond des images</em>, Paris, Galilée, 2003.</li>
  	<li>PIC, Muriel. <em>W. G. Sebald — L’image papillon</em>, Dijon, Les presses du réel, 2009.</li>

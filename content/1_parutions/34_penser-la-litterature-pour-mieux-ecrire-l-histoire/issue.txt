@@ -64,8 +64,8 @@ Credits:
 References:
 
 <ul>
- 	<li><span style="font-weight: 400;">Haddad, Elie et Vincent Meyzie. « La littérature est-elle l’avenir de l’histoire ? Histoire, méthode, écriture ». </span><i><span style="font-weight: 400;">Revue d’Histoire Moderne et Contemporaine</span></i><span style="font-weight: 400;"> 62‑4, n</span><span style="font-weight: 400;">o</span><span style="font-weight: 400;"> 4 (2015): 132-154. https://doi.org/10.3917/rhmc.624.0132.</span></li>
- 	<li><span style="font-weight: 400;">Jablonka, Ivan. </span><i><span style="font-weight: 400;">L’Histoire est une littérature contemporaine : Manifeste pour les sciences sociales.</span></i><span style="font-weight: 400;"> Paris : Éditions du Seuil, 2017.</span></li>
+ 	<li><span>Haddad, Elie et Vincent Meyzie. « La littérature est-elle l’avenir de l’histoire ? Histoire, méthode, écriture ». </span><i><span>Revue d’Histoire Moderne et Contemporaine</span></i><span> 62‑4, n</span><span>o</span><span> 4 (2015): 132-154. https://doi.org/10.3917/rhmc.624.0132.</span></li>
+ 	<li><span>Jablonka, Ivan. </span><i><span>L’Histoire est une littérature contemporaine : Manifeste pour les sciences sociales.</span></i><span> Paris : Éditions du Seuil, 2017.</span></li>
 </ul>
 
 ----

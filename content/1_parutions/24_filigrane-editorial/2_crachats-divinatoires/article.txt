@@ -57,7 +57,7 @@ References:
  	<li>APULÉE. <em>L’Âne d’or ou Les Métamorphoses</em>, trad. de Pierre Grimal, Paris, Gallimard, coll. « Folio classique », 1975 [1958].</li>
  	<li>BATAILLE, George. <em>L’expérience intérieure,</em> Paris, Gallimard, coll. « Tel », 1943.</li>
  	<li>BAUDELAIRE, Charles. « Au lecteur », <em>Les Fleurs du Mal</em>, Paris, Gallimard, 1947 [1861].</li>
- 	<li style="text-align: left;">____ . <em>Les Paradis artificiels</em>. Paris : Gallimard, 1961.</li>
+ 	<li>____ . <em>Les Paradis artificiels</em>. Paris : Gallimard, 1961.</li>
  	<li>BOLLACK, Jean. « Le Thrène de Cassandre (Agamemnon, 1322-1330) », <em>Revue des Études Grecques</em>, tome 94, fascicule 445-446, Janvier-juin 1981. pp. 1-13.</li>
  	<li>BRISSON, Luc (Dir.). <em>Platon. Œuvres complètes</em>, Paris, Flammarion, 2008.</li>
  	<li>CALLIMAQUE, Œ<em>uvres de Callimaque</em>, trad. Joseph Trabucco. Paris, Librairie Garnier Frères, 1933.</li>
@@ -87,7 +87,7 @@ References:
  	<li>WOLF, Christa. <em>Cassandre</em>, trad. Alain Lance, Aix-en-Provence, Alinea, 1985.</li>
  	<li>WOLFF, Étienne. « Rémanence des mythes antiques : un regard original sur Cassandre », <em>Bulletin de l’Association Guillaume Budé</em>, no 1, mars 1996. pp. 76-82.</li>
  	<li>WOOLF, Virginia, “On not knowing Greek”, <em>The Common Reader</em>, <em>First Series</em>, New York, A Harvest Book, Harcourt Inc., 1984 [1925], pp. 23-38.</li>
- 	<li style="text-align: left;">____ . <em>Orlando</em>.<em> A biography</em>, Hertfordshire, Wordsworth Editions Limited, 1995 [1928].</li>
+ 	<li>____ . <em>Orlando</em>.<em> A biography</em>, Hertfordshire, Wordsworth Editions Limited, 1995 [1928].</li>
 </ul>
 
 <hr />
