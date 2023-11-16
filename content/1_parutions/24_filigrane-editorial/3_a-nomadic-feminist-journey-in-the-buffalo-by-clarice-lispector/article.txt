@@ -47,13 +47,13 @@ References:
 - <ul>
  	<li>AL AZMEHIN, Zeina. <em>Nomadic feminism: four lines of flight</em>. European Scientific Journal 2 (Special/ Edition). June 2014. pp. 98-107.</li>
  	<li>BRAIDOTTI, Rosi. <em>Nomadic Subjects: embodiment and sexual difference in contemporary feminist theory</em>. New York Chichester, West Sussex: Columbia University Press. 1994.</li>
- 	<li style="text-align: left;"> . <em>Metamorphoses: Towards a Materialist Theory of Becoming</em>. Malden, MA: Polity Press and Blackwell Publishers. 2002.</li>
- 	<li style="text-align: left;"> . <em>Thinking as a Nomadic Subject</em>. Berlin, 7 October 2014, <a href="https://www.ici-berlin.org/events/rosi-braidotti/">https://www.ici-berlin.org/events/rosi-braidotti/</a></li>
- 	<li style="text-align: left;"> . <em>Nomadic ethics </em>in <em>The Cambridge Companion to Deleuze</em>. New York: Cambridge University Press. 2012.</li>
- 	<li style="text-align: left;"> . <em>Nomadic theory: the Portable Rosi Braidotti. </em>New York Chichester, West Sussex: Columbia University Press. 2011.</li>
- 	<li style="text-align: left;">  . and HLAVAJOVA, Maria. <em>Posthuman Glossary</em>. New York: Bloomsbury. 2018.</li>
+ 	<li> . <em>Metamorphoses: Towards a Materialist Theory of Becoming</em>. Malden, MA: Polity Press and Blackwell Publishers. 2002.</li>
+ 	<li> . <em>Thinking as a Nomadic Subject</em>. Berlin, 7 October 2014, <a href="https://www.ici-berlin.org/events/rosi-braidotti/">https://www.ici-berlin.org/events/rosi-braidotti/</a></li>
+ 	<li> . <em>Nomadic ethics </em>in <em>The Cambridge Companion to Deleuze</em>. New York: Cambridge University Press. 2012.</li>
+ 	<li> . <em>Nomadic theory: the Portable Rosi Braidotti. </em>New York Chichester, West Sussex: Columbia University Press. 2011.</li>
+ 	<li>  . and HLAVAJOVA, Maria. <em>Posthuman Glossary</em>. New York: Bloomsbury. 2018.</li>
  	<li>BUTLER, Judith. <em>Performative acts and gender constitution: an essay in phenomenology and feminist theory </em>(1988), <em>in</em> Feminist Theory Reader: Local and Global Perspectives, 2017. Edited by Carole R. McCann and Seung-Kyung Kim. New York: Routledge. 2017.</li>
- 	<li style="text-align: left;"> . <em>Gender Trouble</em>. New York: Routledge. 1999.</li>
+ 	<li> . <em>Gender Trouble</em>. New York: Routledge. 1999.</li>
  	<li>CHANTER, Tina. <em>Gender: Key Concepts in Philosophy</em>. London: Continuum International Publishing Group. 2006</li>
  	<li>DELEUZE, Gilles and GUATTARI, Felix. <em>Anti-Oedipus: Capitalism and Schizophrenia</em>. Trans. Robert Hurley, Mark Seem, and Helen R. Lane. Minneapolis: University of Minnesota Press, Tenth printing. 2000 (1983).</li>
  	<li>GROSZ, Elizabeth. <em>Space, time and perversion: essays on the politics of bodies</em>, New York: Routledge. 1995.</li>
@@ -61,8 +61,8 @@ References:
  	<li>FITZ, Earl E.. <em>Sexuality and Being in the Poststructuralist Universe of Clarice Lispector. The Différance of Desire. </em>Austin: University of Texas Press. 2001.</li>
  	<li>FRYE, Marilyn. <em>The Politics of Reality: Essays in Feminist Theory</em>. New York: The Crossing Press. 1983.</li>
  	<li>LISPECTOR, Clarice. <em>The Complete Stories</em>/<em> Clarice Lispector</em>, Transl. by Katrina Dodson. New York: New Directions Books. 2015 (1960).</li>
- 	<li style="text-align: left;"> . <em>Laços de Família – Contos</em>. Lisboa: Relógio d’Água Editores. 1990 (1960).</li>
- 	<li style="text-align: left;"> . <em>Água Viva</em>. Transl. by Stefan Tobler. New York: New Directions Books. 2012 (1973).</li>
+ 	<li> . <em>Laços de Família – Contos</em>. Lisboa: Relógio d’Água Editores. 1990 (1960).</li>
+ 	<li> . <em>Água Viva</em>. Transl. by Stefan Tobler. New York: New Directions Books. 2012 (1973).</li>
  	<li>LORRAINE, Tamsin. <em>Irigaray and Deleuze: Experiments in Visceral Philosophy</em>. Ithaca: Cornell University Press. 1999.</li>
  	<li>HARAWAY, Donna J.. <em>When Species Meet</em>. Minneapolis: University of Minnesota Press. 2008.</li>
  	<li>PEIXOTO, Marta. <em>Passionate Fictions: Gender, Narrative and Violence in Clarice Lispector</em>. Minneapolis: University of Minnesota Press. 1994.</li>
