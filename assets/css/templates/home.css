@@ -25,6 +25,10 @@
 	font-size: var(--font-size-small);
 }
 
+.home-aside__news-item + .home-aside__news-item {
+	margin-top: 1rem;
+}
+
 .home-aside__news-item-img {
 	margin: 0 4rem;
 }

@@ -11,14 +11,27 @@
     text-decoration: underline;
 }
 
-.toc__item+.toc__item {
+.toc__item + .toc__item {
 	margin-top: 1rem;
 }
 
-.toc__item-authors {
+/* When there are multiple authors and the line wraps.
+The gap between lines is disproportionate otherwise. */
+.toc__item-authors-list {
+	line-height: 1.1;
+}
+
+.toc__item-author {
+	display: inline;
 	font-size: var(--font-size-small);
 	color: var(--issue-color);
 }
+
+.toc__item-author:not(:last-child):after {
+	content: ","
+}
+
+.toc__item
 
 .toc__item-title,
 .toc__item-subtitle {
