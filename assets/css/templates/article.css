@@ -14,8 +14,13 @@
 	font-size: var(--font-size-small);
 }
 
+.article-summary p + p {
+	margin-top: 1rem;
+}
+
 .article-bibliography li {
 	font-size: var(--font-size-small);
 	text-indent: -2rem;
 	margin-left: 2rem;
+	word-break: break-word;
 }

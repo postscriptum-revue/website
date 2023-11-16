@@ -49,6 +49,11 @@
 	letter-spacing: var(--letterspacing-uppercase);
 }
 
+/* When there's no subtitle */
+.last-issue__cover-card-title:last-child {
+	margin-bottom: 2rem;
+}
+
 .last-issue__cover-card-subtitle {
 	margin-top: 1rem;
 	font-size: var(--font-size-small);
