@@ -32,16 +32,12 @@ tabs:
                             cover: true
                         multiple: false
                         required: true
-                    color:
-                        type: color
-                        label: Couleur d’accent
-                        disabled: true
-                        help: |
-                            Générée automatiquement à partir de l'image de couverture.
                     date:
                         type: date
                         label: Date de parution
-                        display: MMMM YYYY
+                        # TODO: Weird bug where the year is always
+                        #       2024, whichever year you choose.
+                        # display: MMMM YYYY
                         help: Le jour n'importe pas.
                         required: true
                     credit_editors:

@@ -1,5 +1,7 @@
 title: Appel de textes
 
+num: date
+
 columns:
     left:
         width: 2/3
@@ -15,7 +17,7 @@ columns:
             intro_text:
                 label: Texte de présentation
                 type: blocks
-                required: true
+                # required: true
             intro_bibliography:
                 label: Bibliographie
                 type: list
@@ -25,7 +27,7 @@ columns:
             issue_cover:
                 label: Image de couverture
                 type: files
-                required: true
+                # required: true
             issue_number:
                 label: Numéro de la parution
                 type: number
@@ -37,8 +39,8 @@ columns:
             issue_editors:
                 label: Éditeur·rices
                 type: list
-                required: true
+                # required: true
             submit_date:
                 label: Date limite pour la soumission
                 type: date
-                required: true
+                # required: true

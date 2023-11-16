@@ -22,7 +22,11 @@ columns:
                 when:
                     title_needs_formatting: true
             subtitle:
-                type: text
+                type: writer
+                help: Sur une ligne seulement.
+                inline: true
+                marks:
+                    - italic
                 label: Sous-titre
             abstract_fr:
                 type: writer
@@ -41,7 +45,7 @@ columns:
         fields:
             authors:
                 type: structure
-                label: Auteur·rice(s)
+                label: Auteur·ice(s)
                 fields:
                     name:
                         type: text
