@@ -1,0 +1,153 @@
+Title: La machination décoloniale / The Decolonial Machination
+
+----
+
+Issue-title: La machination décoloniale / the decolonial machination
+
+----
+
+Issue-subtitle: 
+
+----
+
+Intro-text: 
+
+----
+
+Intro-bibliography: 
+
+----
+
+Issue-cover: 
+
+----
+
+Issue-number: 31
+
+----
+
+Issue-date: 2020-12-18
+
+----
+
+Issue-editors: 
+
+----
+
+Submit-date: 
+
+----
+
+Date: 2020-12-18 15:36:38
+
+----
+
+Text:
+
+<!-- wp:paragraph -->
+<p>Appel de textes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>« La machination décoloniale : investir les possibles du geste », revue <em>Post-Scriptum </em>no. 31, sous la direction de Renato Rodriguez-Lefebvre et Miriam Sbih (à paraître en octobre 2021)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'image de l'appel, Untitled (Violence), est de Kader Attia et date de 2016, © Axel Schneider.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>* English follows</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il semble que les spectres de l’histoire se meuvent à la manière d’un pendule; le balancier dont l’impulsion définit l’oscillation du retour, se voit tendu et dirigé par <em>une </em>force qui en fixe l’équilibre. La machine ou l’invention (<em>machina</em>) coloniale s’est vu statuer des préceptes et astreintes qui ont maintenu et maintiennent ses dispositifs en place, le grand récit européen s’étant autoproclamé responsable de l’origine, maître de la fin. Si l’expansion et l’occupation impériales se sont- et se voient toujours- justifiées par un prisme eurocentré depuis la Renaissance et <em>une </em>idée de la modernité, la pensée décoloniale est alors un espace qui permet de se délier des mouvements dirigés par une même force colonisatrice. Cela, sans pour autant que cet affranchissement ne se construise <em>que</em> sous la forme d’une réponse. Un geste porte en lui ses propres possibilités et non pas l’<em>ethos</em> d’une domination, qui ne voit qu’en lui un prolongement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Conséquemment, le geste décolonial se propose de se détourner de « l’usure et de la fatigue des corps racisés » (Vergès 2019, 115), et de permettre de s’inscrire, de resurgir dans un ailleurs délié des mises en récit du privilège et de ses perspectives blanchissantes de l’espace et du temps. Retrouver la possibilité d’une cartographie au point zéro, où les catégories épistémologiques et éthiques occidentales ne constituent plus la pleine mesure d’un monde hiérarchisé par celles-ci, implique alors de se détourner d’un axe colonial, qui réprime les existences qu’il a depuis toujours désavoué. On pensera au groupe <em>Modernidad/Colonialidad</em> regroupant plusieurs écrivain-e-s d’Amérique latine, aux écrits postcoloniaux, au travail engagé par Achille Mbembe et Françoise Vergès, actualisant au sein de la francophonie cette potentielle déroute, cette dislocation des constructions en place. Ce déplacement, ce renversement de perspective et ces luttes contre les forces oppressives nous semblent appeler alors à un nouveau procédé de libération : nous proposons l’appellation suivante, machination décoloniale.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et d’où sort cette machine ? La machination (de la <em>mêkhané </em>grecque, μηχανή : une ruse, une machine, ou encore un moyen) suppose moins une conjuration que l’improbable coalition des multiples courants qui trouvent dans le mot de « décolonisation » la forme d’un rêve : il s’agit d’être rusé-e-s dans les manières de renouveler les manières de lire, d’interpréter. On peut penser au travail récent de Marie José Mondzain (2020), combinant sa trajectoire personnelle d’Algérie à une lecture de Kafka se voulant décoloniale, déjouant, de la sorte, une manière convenue de lire ses textes classiques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il serait intellectuellement inadéquat de rassembler toutes les figures associées à ce mot dans un seul et même mouvement, lequel aurait pour point d’unification une critique de l’hégémonie culturelle d’Occident. Une telle réduction effacerait la pluralité des espaces de discussion, et détruirait le lieu de la nuance que la décolonisation cherche elle-même à articuler. La machination décoloniale désignerait, en ce sens, une moquerie à l’égard de certaines critiques qui voient, dans les propositions artistiques et théoriques qui s’y inscrivent, une grande attaque <em>contre</em> un certain canon culturel. C’est le plus grand défi auquel ce mot nous convie, que de décentrer une perspective tout en demeurant proprement <em>situé-e-s</em>. Quoique le mot soit emporté par des effets de mode et soit lui-même le prétexte à une métaphorisation (Tuck et Yang 2012) qui lui retire de sa force créatrice, nous osons croire que le mot renvoie aussi à un jeu, à un « devenir enfant de l’esprit » (Boulbina 2016, 9) : les films d’Ousmane Sembène (<em>La noire de…</em>, 1966; <em>Xala</em>, 1975), ceux de Lucrecia Martel (<em>La Ciénaga</em>, 2001; <em>Zama</em>, 2017) ou encore le film notoire de Julie Dash (<em>Daughters of the Dust</em>, 1991) ne sont que quelques exemples de la diversité des orientations artistiques se portant à rétablir ce que ce geste de la pensée génère comme potentialités. L’artiste Skawennati investit le cyberespace, notamment via <em>Second Life</em>, pour y créer des lieux autochtones et se jouer des différents legs du colonialisme en Amérique, tandis que Jeff Barnaby, dans son plus récent film (<em>Blood Quantum</em>, 2020), renverse l’imaginaire de la maladie en déployant un univers où une épidémie affecte uniquement les descendant-e-s de colons : de tels gestes participent de cette vaste machination.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Conséquemment, ce numéro de <em>Post-Scriptum </em>souhaite permettre la réflexion, dans la continuité de ce qu’une pensée de la machination décoloniale peut générer comme déplacements de la pensée, résurgences et libérations de plusieurs espaces (langagiers, religieux, raciaux, épistémologiques, culturels, sociaux-économiques). Nous rappelons que les propositions qui tiennent plus de la création littéraire que de l’article académique, sont les bienvenues. Les propositions peuvent porter, sans devoir s’y limiter, sur les thèmes suivants :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Décolonisation des êtres, des existences plurielles et du sensible</li><li>Les langues et leur rapport de force</li><li>Les mots à décoloniser, à réinventer</li><li>Décoloniser les mouvements sociaux</li><li>Les savoirs marginalisés, les arts marginalisés</li><li>L’archive coloniale, dans et sur le corps</li><li>Décoloniser les pouvoirs : créations et investissements de nouveaux espaces (imaginaires, communautaires, géographiques, corporels)</li><li>Ruses, oppositions et coalitions au sein des perspectives dé-/anticoloniales</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Références :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Boyadjian, Mirna. "Décolonisation des savoirs et puissance du devenir commun. Entretien avec Seloua Luste Boulbina / Decolonizing Knowledge and the Power of Becoming Common: An Interview with Seloua Luste Boulbina." <em>esse arts + opinions</em>, numéro 98, hiver 2020, p. 8–15.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mondzain, Marie José. <em>K comme Kolonie : Kafka et la décolonisation de l’imaginaire</em>, Paris, La Fabrique, 2020.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tuck, Eve, et Wayne Yang, K.“Decolonization is not a metaphor”. <em>Decolonization: Indigeneity, Education and Society</em> 1 (1), 2012, p. 1–40.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vergès, Françoise. <em>Un féminisme décolonial</em>. Paris, La Fabrique, 2019.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Les personnes intéressées à soumettre un texte pour ce numéro de la revue de recherche interdisciplinaire en textes et médias Post-scriptum sont priées d’envoyer deux documents soit une proposition d’article (300 mots) sans identification, ainsi qu’une courte notice biobibliographique (200 mots) à l’adresse suivante : redaction@post-scriptum.org au plus tard le 17 mars 2021.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>***</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Call for papers</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Decolonial Machination: Seizing the Potentiality of Movements, <em></em>issue no 31, edited by Renato Rodriguez-Lefebvre and Miriam Sbih(to be published in October 2021)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It seems that the specters/phantoms of History are ticking like a clock; the impulse of the pendulum that defines the oscillation of Return is stretched and directed by a force that fixes its equilibrium. The colonial machine or invention (machina) has been ruled by the precepts and constraints that have maintained and still maintain its mechanisms in place, as the great European tale proclaimed itself responsible for the origin as well as ruler of the outcome. If imperial expansion and occupation were - and still are - justified by a Eurocentric perspective and one specific idea of modernity since the Renaissance, then decolonial thought is a space that allows oneself to become unbound from movements spearheaded by the same colonizing force. This emancipation can however take place without being <em>solely </em>conceived as a response. Rather than exclusively bearing the <em>ethos</em> of domination, which only perceives it as its own extension, a gesture carries singular and distinct possibilities within itself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As such, the decolonial gesture aims at turning away from "the weariness and the fatigue of racialized bodies" (Vergès 2019, page; our translation) in order to etch itself into and emerge elsewhere, free from the narrative of privilege and its whitening perspectives of space and time. Rediscovering the possibility of a cartography at ground zero wherein Western epistemological and ethical categories no longer constitute the full measure of a world hierarchized by them, involves turning away from a colonial axis which represses the existences it has always disavowed. Consider, for instance, the <em>Modernidad/Colonialidad</em> group which brings together several Latin American writers; the postcolonial productions and the work undertaken by Achille Mbembe and Françoise Vergès who restore to the francophone world the core of this potential defeat, this dislocation of existing colonial constructions. This shifting and displacement of perspective along with these struggles against oppressive forces all seem to call for a new process of liberation for which we propose the expression “decolonial machination”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Where then does this machine come from? Machination (from the Greek <em>mêkhané</em>, μηχανή: a trick, a machine, or a device) implies less a conspiracy than the improbable coalition of multiple movements that discern in the word "decolonization" the form of a dream. It is a question of being crafty with the means that give place to new readings and interpretations. One can think of Marie José Mondzain's recent work (2020), in which she relates her personal trajectory in Algeria with a decolonial interpretation of Kafka, thus thwarting an agreed-upon way of reading his texts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It would be intellectually unsuitable to unite all the postures associated with this expression into a singular movement whose critique of the Western cultural hegemony would be the only horizon. Such a reduction would erase the plurality of discursive spaces, and destroy the areas of the nuance that decolonization seeks to articulate. Decolonial machination thus exhibits a mockery of certain critics who see, in its artistic and theoretical proposals, a major attack upon a certain cultural canon. The greatest challenge this expression invites us to face is the decentralization of a perspective whilst remaining properly <em>situated</em>. Although it is often carried away by trends and regularly becomes the pretext of a metaphorization (Tuck and Yang 2012) that deprives it of its creative force, we dare believe that the word also denotes playfulness and echoes with the "child-becoming of the mind" (Boulbina 2018, p. 9; our translation). Ousmane Sembène’s movies (<em>La noire de...</em>, 1966; <em>Xala</em>, 1975), Lucrecia Martel’s films (<em>La Ciénaga</em>, 2001; <em>Zama</em>, 2017) and Julie Dash's motion picture (<em>Daughters of the Dust</em>, 1991) are just a few examples of the diversity of artistic orientations aiming to re-establish the potentialities of this thought-gesture. While the artist Skawennati seizes the cyberspace of <em>Second Life</em>, creating indigenous places on this platform in order to toy with the various legacies of colonialism in America, in his most recent production (<em>Blood Quantum</em>, 2020), Jeff Barnaby turns the imaginary of disease on its head by deploying a universe where an epidemic only affects the descendants of settlers. Such gestures are part of this vast machination.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This issue of <em>Post-Scriptum</em> is therefore aimed at thinking about how decolonial machination can generate movements of thought and about which resurgences and liberations of spaces (linguistic, religious, racial, epistemological, cultural, socio-economic ones) it can give way to. We remind people interested in this call for papers that <em>Post-Scriptum</em> welcomes creative writing proposals as well as academic ones. Proposals that focus on but are not limited to the following themes will be considered:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Decolonization of beings, of plural existences and of the sensitive world</li><li>Languages and their power relations</li><li>Words and expressions used to decolonize, to reinvent</li><li>Decolonization of social movements</li><li>Marginalized knowledge, marginalized arts</li><li>Colonial archives, in and on bodies</li><li>Decolonizing power: creations and investments of new spaces (be they imaginary, communal, geographical, physical or corporeal)</li><li>Tricks, oppositions and coalitions within de-/anticolonial perspectives</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Those interested in submitting a text for this Post-Scriptum’s issue journal of interdisciplinary research in text and media, are asked to send two documents : a paper proposal (300 words) without identification, as well as a short biobibliographic notice (200 words) to the following address: redaction@post-scriptum.org by March 17, 2021.</p>
+<!-- /wp:paragraph -->
+
+----
+
+Uuid: ZPOV8OWYtn7HSv1x
