@@ -24,14 +24,14 @@ class Logo
 		// New pages don't have a $page->num() because they are drafts,
 		// and thus have no number yet.
 		$issue_num =
-			$page->num() ?? page("parutions")->children()->count();
+			$page->num() ?? page("parutions")->children()->count() + 1;
 
-		// Add the new logo style to the list. 
+		// Add the new logo style to the list.
 		// `$style["both"]` is used to make the comparison easier.
 		$style_list[$issue_num] = $style["both"];
 		$style_list_json = json_encode($style_list);
 
-		// Update the fields in both `site.txt` 
+		// Update the fields in both `site.txt`
 		// and the issue's `issue.txt`
 		$site = $site->update([
 			"logo_style_list" => $style_list_json
@@ -58,7 +58,7 @@ class Logo
 
 	private function generateStyle()
 	{
-		// Styles need to be padded (ex. "01"") for CSS's 
+		// Styles need to be padded (ex. "01"") for CSS's
 		// stylistic set property to work correctly.
 		$p = str_pad(rand(1, 20), 2, 0, STR_PAD_LEFT);
 		$s = str_pad(rand(1, 20), 2, 0, STR_PAD_LEFT);

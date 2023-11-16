@@ -8,7 +8,7 @@ return function () {
 	$all_news = new Pages();
 
 	foreach ($news_page->children() as $news_section) {
-		$all_news->add($news_section->children());
+		$all_news->add($news_section->children()->listed()->flip());
 	}
 
 	$last_issue = page("parutions")->children()->last();

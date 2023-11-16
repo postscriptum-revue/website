@@ -1,15 +1,21 @@
+<?php
+// Allow templates to specify how many pages to display in the
+// table of content. If `$max` is unset, display all pages.
+$max = $max ?? -1;
+?>
+
 <ul class="toc">
-	<?php foreach ($toc_pages as $p) : ?>
-		<li 
-			class="toc__item" 
+	<?php foreach ($toc_pages->slice(0, $max) as $p) : ?>
+		<li
+			class="toc__item"
 			style="--issue-color: <?= $p->parent()->color() ?>"
 		>
 			<a href="<?= $p->url() ?>">
-				<ul class="toc__item-authors">
+				<ul class="toc__item-authors-list">
 					<?php
 					foreach ($p->authors()->toStructure()
 						as $author) : ?>
-						<li><?= $author->name() ?></li>
+						<li class="toc__item-author"><?= $author->name() ?></li>
 					<?php endforeach ?>
 				</ul>
 				<p class="toc__item-title">
@@ -27,4 +33,10 @@
 			</a>
 		</li>
 	<?php endforeach ?>
+	<!-- When there are more pages than amount displayed. -->
+	<?php if ($max != -1 && $max < count($toc_pages)) : ?>
+		<li class="toc__item">
+			...
+		</li>
+	<?php endif ?>
 </ul>
