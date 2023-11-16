@@ -1,7 +1,7 @@
 <?php
 // Allow templates to specify how many pages to display in the
 // table of content. If `$max` is unset, display all pages.
-$max = $max ?? -1;
+$max = $max ?? null;
 ?>
 
 <ul class="toc">
