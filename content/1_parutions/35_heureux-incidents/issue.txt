@@ -1,0 +1,61 @@
+Title: Heureux incidents
+
+----
+
+Subtitle: Rétrospective anniversaire de la revue Post-Scriptum
+
+----
+
+Cover: - file://ZcrS9xc9OnzUOBhE
+
+----
+
+Date: 2023-11-16
+
+----
+
+Credit-editors: <ul><li>L’équipe de Post-Scriptum</li></ul>
+
+----
+
+Credit-revision: <ul><li>L’équipe de Post-Scriptum</li></ul>
+
+----
+
+Credit-webmaster: L’équipe de Post-Scriptum
+
+----
+
+Intro-text: [{"content":{"text":"Ce petit élément incident (non sans importance), détail ajouté à la hâte en fin de lettre, nous semble bien caractériser l'esprit que nous souhaitons donner à la revue. En effet, notre génération de chercheurs se trouve dans la même situation que McLuhan dans les années 50 : nous voyons bien qu'un phénomène particulier se met en place, nous sommes à même d'en constater certaines conséquences, mais nous n'avons aucune prise sur les éléments qui nous dépassent. En choisissant Post-Scriptum.ORG comme titre, nous soulignons clairement notre appartenance à une époque de transitions qui lentement se dégage de l'hégémonie de l'écriture livresque pour se déplacer vers une autre conception de l’écriture. (Premier éditorial de Post-Scriptum, 2002)","citation":""},"id":"a1a8e7d1-3cce-4959-950c-a30882462e95","isHidden":false,"type":"quote"},{"content":{"text":"Ainsi, le post-scriptum apparait-il comme cette trace graphique d’une différance, d’une temporisation qui déplace le moment du sens, le place en suspens et en direction de ce qui reste encore à-venir dans l’après de la lettre. (Éditorial du numéro anniversaire <em>Après l'inscription</em>, 2018)","citation":""},"id":"1e84fd16-f662-4fe7-ac1e-efa3be01cb0c","isHidden":false,"type":"quote"},{"content":{"text":"<p>Ce numéro anniversaire, par un jeu du hasard, s’ouvre sur la ruine et se clôt sur la remémoration, avec deux articles portant sur un travail des traces. On pourrait y déceler la saveur douce-amère de la nostalgie, mais ce numéro se veut plutôt une occasion de célébrer. Célébration d’anniversaire, ouverture vers les années futures, et discrète larme versée, oui, peut-être, sur les inévitables ressassements : impasses intellectuelles, désirs de communauté, de conversation, élans littéraires, résistances et amitiés en temps troubles. Pas encore la ruine, rassurons-nous, mais du moins un déclin qui se dessine, (l'université est morte, vive l'université?), la fatigue qui nous colle aux talons et cette sensation de précarité. Toujours un peu hors d'haleine, nous haussons les épaules; le printemps revient toujours, même dans les poèmes.</p><p>Malgré tout, depuis 2013 et sa dernière renaissance, la revue tient le coup, grâce à plusieurs collaborateur·rices qui y mènent des projets, grâce à la liberté intellectuelle que des étudiant·es réussissent à y trouver, grâce à des collègues qui se serrent les coudes. Lors de la journée d'étude qui accompagne ce numéro, deux tables rondes mettent à l'honneur les collaborateur·rices qui tiennent, parfois à bout de bras, les revues étudiantes. Ces discussions sur le statut de ces revues et sur les espaces de pensées qu'elles constituent nous semblent aujourd’hui nécessaires.</p><p>Au fil des quelques relances et nombreuses relèves, <em>Post-Scriptum</em> s’entête et persiste. La revue a désormais dépassé le cap des vingt ans et pour le souligner, le comité de rédaction a souhaité proposer une rétrospective, une sorte d’anthologie d’articles qui nous ont secoués, ont influencé notre approche ou simplement nous ont semblé de riches illustrations des potentiels de la littérature comparée, de son insubordination.</p><p>Ce numéro spécial est donc construit autour d'une sélection à la fois collective et personnelle d’articles qui vont des tout débuts de la revue – au moment où le choix de créer une publication uniquement numérique appelait son lot de justifications – jusqu’aux plus récents numéros. Cette rétrospective ne représente nullement un portrait exhaustif ou une volonté de classification. Plutôt, elle concrétise l’envie de redonner une visibilité à des articles qui occupent une place importante dans nos parcours intellectuels, un rayonnement à des articles qui, réunis, forment une sorte de constellation de la littérature comparée telle qu’on l’a pratiquée à Montréal ces vingt dernières années.</p><p>Ces vingt articles traversent plusieurs disciplines, méthodes et corpus. Ils soulignent les liens étroits entre la traduction et la littérature comparée, évoluent aux intersections entre l'énergie littéraire et la pensée philosophique, réfléchissent à partir de médias variés l'inscription sous toutes ses formes et franchissent les frontières traditionnelles du littéraire par une lecture des corps, des jardins, des écosystèmes.</p><p>Agente interlope et indisciplinaire, la littérature comparée s’est toutefois élevée sur des fondations qui n’ont pas échappé à une conception homogène et coloniale, nourrie par les mêmes échos que la littérature mondiale qui l’a vue naître. Plusieurs des réflexions réunies ici se risquent à mettre en doute et à se détourner des constructions spatiales et temporelles monolithes qui condamnent la pensée à une certaine paralysie. Leurs auteur·rices déjouent les représentations statiques et surannées, mettant en place des ruses de toutes sortes qui permettent d’aller par-delà le statu quo.</p><p>On y décèle des pensées qui se cherchent, qui se font et se défont au contact d’œuvres, célébrées ou inconnues. Naviguant achoppements et saillies, ces articles témoignent d’une prise de risque : celle de s’écarter des voies sûres pour ouvrir de nouveaux espaces de réflexion. D’un même mouvement, ils accomplissent une réflexion <em>sur </em>la littérature, toujours en cours, jamais achevée, une réflexion sur l'énergie, sur la création elle-même et sur ses traces, toujours.</p><p>Cette sélection donne un aperçu d’une communauté de pensée, éclatée mais bien réelle, composée de chercheur·euses qui sont passé·es par les bancs de l’UdeM ou de penseur·euses qui ont fait le voyage jusqu’à Montréal pour y présenter leurs recherches lors d'un colloque. Communauté d'échanges et d’influences, de collaborations qui, on l'oublie souvent, sont à la base même de la littérature et de ses amitiés textuelles.</p><p>Ce numéro s'inscrit dans le sillage de parutions précédentes qui jouaient le jeu de l'état des lieux, qui réfléchissaient la littérature comparée à Montréal, ou qui annonçaient un renouveau : le numéro 6, le numéro 16, et particulièrement le numéro 19, actes du colloque <em>Montréal comparatiste, </em>grand chantier de pensée autour de l'état du département et de la discipline. En 2018, pour les 15 ans de la revue, deux numéros (24 et 25) proposaient aussi des réflexions sur le travail éditorial et les postures d'interprétation propres à la revue.</p><p>En plus de ce panorama des vingt dernières années, le site et le logo de <em>Post-Scriptum </em>changent d'apparence. Le nouveau visuel est basé sur l'épigraphie, l’<em>écriture exposée</em>, inscription conçue pour permettre la lecture publique. Comme ces inscriptions s'érodent avec le passage des siècles, leur transcription dans des catalogues a nécessité un code graphique propre aux épigraphistes. Ce code a fourni le point de départ pour le nouveau site web et pour le logo et ses nombreuses variantes.</p><p>La collectivité sous-entendue, les enjeux de transcription, l'aspect fragmentaire et l’allure de palimpseste de ce système graphique en font un symbole parfait pour lancer les prochaines années de la revue.</p><p>Ruine, remémoration, et renouveau? C'est ce que nous verrons.</p><p>Avec amitié(s),<br>L'équipe de Post-Scriptum</p>"},"id":"a6003b80-82b8-4f34-a925-d91480e50e8d","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: 
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: <ul><li>L’équipe de Post-Scriptum</li></ul>
+
+----
+
+Pdate: 2024-11-20
+
+----
+
+Color: rgb(129, 122, 95)
+
+----
+
+Uuid: aTUoDKyTmndZuNeX
+
+----
+
+Logo-style-p: 14
+
+----
+
+Logo-style-s: 17
