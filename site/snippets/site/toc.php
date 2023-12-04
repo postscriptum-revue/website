@@ -33,8 +33,10 @@ $max = $max ?? null;
 			</a>
 		</li>
 	<?php endforeach ?>
-	<!-- When there are more pages than amount displayed. -->
-	<?php if ($max != -1 && $max < count($toc_pages)) : ?>
+	<?php
+	// When there are more pages than amount displayed.
+	if ($max && $max < count($toc_pages)) :
+	?>
 		<li class="toc__item">
 			...
 		</li>
