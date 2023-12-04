@@ -31,9 +31,19 @@ columns:
             abstract_fr:
                 type: writer
                 label: Résumé (fr)
+                nodes: false
+                marks:
+                    - italic
+                    - bold
+                    - link
             abstract_en:
                 type: writer
                 label: Résumé (en)
+                nodes: false
+                marks:
+                    - italic
+                    - bold
+                    - link
             text:
                 type: blocks
                 label: Texte
