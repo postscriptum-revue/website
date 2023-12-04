@@ -37,6 +37,11 @@ columns:
             text:
                 type: blocks
                 label: Texte
+                fieldsets:
+                    - heading
+                    - text
+                    - image
+                    - quote
             bibliography:
                 type: list
                 label: Bibliographie
