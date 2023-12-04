@@ -4,30 +4,36 @@ columns:
     left:
         width: 1/3
         sections:
-            about:
-                label: À propos
-                type: pages
-                template: about
-            news:
-                type: fields
-                fields:
-                    hl:
-                        type: line
             call-paper:
                 label: Appels de textes
                 type: pages
                 parent: site.find("actualites").find("appels-de-textes")
                 template: call-for-papers
+                limit: 3
+                flip: true
             call-talk:
                 label: Appels à communications
                 type: pages
                 parent: site.find("actualites").find("appels-a-communications")
                 template: call-for-presentations
+                limit: 3
+                flip: true
             conference:
                 label: Colloques
                 type: pages
                 parent: site.find("actualites").find("colloques")
                 template: conference
+                limit: 3
+                flip: true
+            hl:
+                type: fields
+                fields:
+                    hl:
+                        type: line
+            about:
+                label: À propos
+                type: pages
+                template: about
     right:
         width: 2/3
         sections:
