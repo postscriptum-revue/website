@@ -24,3 +24,35 @@
 	margin-left: 2rem;
 	word-break: break-word;
 }
+
+.footnote-list {
+	grid-column: span 2;
+	font-size: var(--font-size-small);
+}
+
+.footnote-list__footnote-number {
+	display: block;
+	margin-left: 2rem;
+}
+
+.footnote-ref {
+	margin-left: 0.1rem;
+}
+
+.footnote-ref:before {
+	content: "〚";
+}
+
+.footnote-ref:after {
+	content: "〛";
+}
+
+@media (max-width: 500px) {
+	.footnote-list {
+		grid-column: 1 / -1;
+	}
+
+	.footnote-list__footnote {
+		margin-top: 0 !important; /* See footnotes.js */
+	}
+}

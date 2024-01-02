@@ -17,6 +17,7 @@ $color = $issue_color ??  $page->color();
 	<!-- TODO: Group in one script -->
 	<script src="/assets/scripts/logo.js" defer></script>
 	<script src="/assets/scripts/mobile.js" defer></script>
+	<script src="/assets/scripts/footnotes.js" defer></script>
 	<title>
 		<?php
 		if ($page->template() == "issue") {

@@ -56,7 +56,9 @@
 </hgroup>
 
 <section class="text-section">
-	<?= $page->text()->toBlocks() ?>
+	<?= $page->text()->toBlocks()->collectFootnotes() ?>
 </section>
+
+<?= $page->footnotes() ?>
 
 <?php endslot() ?>
