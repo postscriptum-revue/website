@@ -9,12 +9,14 @@ $color = $issue_color ??  $page->color();
 
 <head>
 	<meta charset="UTF-8">
-	<meta 
-		name="viewport" 
+	<meta
+		name="viewport"
 		content="width=device-width, initial-scale=1.0"
 	>
 	<link rel="stylesheet" href="/assets/css/style.css">
+	<!-- TODO: Group in one script -->
 	<script src="/assets/scripts/logo.js" defer></script>
+	<script src="/assets/scripts/mobile.js" defer></script>
 	<title>
 		<?php
 		if ($page->template() == "issue") {

@@ -58,3 +58,17 @@
 	margin-top: 1rem;
 	font-size: var(--font-size-small);
 }
+
+@media (max-width: 500px) {
+	.last-issue {
+		grid-template-columns: 1fr;
+	}
+
+	.last-issue__cover {
+		height: auto;
+	}
+
+	.last-issue__cover-card {
+		margin: 2rem 1rem 16rem 1rem;
+	}
+}

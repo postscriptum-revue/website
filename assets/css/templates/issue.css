@@ -110,3 +110,26 @@
 .issue-header__card-subtitle {
 	margin-top: 1rem;
 }
+
+@media (max-width: 500px) {
+	.issue-header {
+		padding-top: 4rem;
+		column-gap: 0;
+		grid-template-columns: 1rem 1fr 1rem;
+	}
+
+	.issue-header__cover {
+		margin-top: -4rem;
+	}
+
+	.issue-header__card {
+		margin: 2rem 0;
+		padding: 2rem;
+	}
+
+	.issue-header__card-wrapper {
+		grid-column: 2 / 3;
+		margin-top: -4rem;
+	}
+
+}
