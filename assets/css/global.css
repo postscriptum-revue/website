@@ -32,3 +32,23 @@ img {
 em {
 	font-style: italic;
 }
+
+@media (max-width: 500px) {
+	:root {
+		font-size: 18px;
+	}
+
+	body {
+		margin: 1rem 1rem 1rem 2rem;
+		grid-template-columns: 1fr;
+	}
+
+	main {
+		grid-column: 1 / -1;
+		transition: transform 0.2s;
+	}
+
+	body.site-aside-opened main {
+		transform: translateX(75vw);
+	}
+}

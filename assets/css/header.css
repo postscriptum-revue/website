@@ -31,3 +31,22 @@
 .site-header__nav-list-item:hover {
 	text-decoration: underline;
 }
+
+@media (max-width: 500px) {
+	.site-header {
+		grid-column: 1 / -1;
+		transition: transform 0.2s;
+	}
+
+	body.site-aside-opened .site-header {
+		transform: translateX(75vw);
+	}
+
+	.site-header__nav-list {
+		grid-template-columns: 1fr;
+	}
+
+	.site-header__logo {
+		text-align: left;
+	}
+}

@@ -45,3 +45,18 @@
 .about-aside-group {
     margin-top: 1rem;
 }
+
+@media (max-width: 500px) {
+	.site-aside {
+		width: 75vw;
+		position: fixed;
+		top: 1rem;
+		left: calc(-75vw + 1rem);
+		transition: left 0.2s;
+	}
+
+	body.site-aside-opened .site-aside {
+		left: 1rem;
+	}
+}
+

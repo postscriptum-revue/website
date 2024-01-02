@@ -49,3 +49,12 @@
 .latest-issues__issue-date {
 	font-size: var(--font-size-small);
 }
+
+@media (max-width: 500px) {
+	.latest-issues__issue-cover {
+		height: auto;
+	}
+	.latest-issues__issue-card {
+		margin: 2rem 1rem 8rem 1rem;
+	}
+}
