@@ -1,4 +1,5 @@
 .text-section {
+	position: relative; /* for footnote positions */
 	grid-column: 1 / 7;
 }
 
@@ -19,7 +20,6 @@
 }
 
 .text-section p + p {
-	/* text-indent: 2rem; */
 	margin-top: 1rem;
 }
 
