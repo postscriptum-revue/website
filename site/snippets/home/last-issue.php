@@ -2,7 +2,7 @@
 	class="home-section last-issue"
 	style="--issue-color: <?= $last_issue->color() ?>"
 >
-	<h2 class="home-section__title">Dernière parution</h2>
+	<h2 class="home-section__title">Dernier numéro</h2>
 	<a
 		href="<?= $last_issue->url() ?>"
 		class="last-issue__cover"

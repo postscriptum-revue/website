@@ -2,7 +2,7 @@ title: Issue
 
 tabs:
     details:
-        label: Détails de la parution
+        label: Détails du numéro
         columns:
             left:
                 width: 2/3

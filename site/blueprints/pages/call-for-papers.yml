@@ -7,11 +7,11 @@ columns:
         width: 2/3
         fields:
             issue_title:
-                label: Titre de la parution
+                label: Titre du numéro
                 type: text
                 required: true
             issue_subtitle:
-                label: Sous-titre de la parution
+                label: Sous-titre du numéro
                 help: La première lettre doit être en majuscule.
                 type: text
             intro_text:
@@ -29,7 +29,7 @@ columns:
                 type: files
                 # required: true
             issue_number:
-                label: Numéro de la parution
+                label: Numéro
                 type: number
                 required: true
             issue_date:

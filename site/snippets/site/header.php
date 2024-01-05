@@ -4,8 +4,8 @@
 		<!-- TODO: Generate w/ PHP -->
 		<ul class="site-header__nav-list">
 			<li>
-				<a class="site-header__nav-list-item" href="/parutions">
-					Parutions
+				<a class="site-header__nav-list-item" href="/numeros">
+					Numéros
 				</a>
 			</li>
 			<li>

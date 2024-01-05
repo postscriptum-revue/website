@@ -7,7 +7,7 @@ switch ($page->template()) {
 	case "article":
 		$logo_page = $page->parent();
 	default:
-		$logo_page = page("parutions")->children()->last();
+		$logo_page = page("numeros")->children()->last();
 }
 
 $fontstyle = "font-feature-settings: 'ss";
