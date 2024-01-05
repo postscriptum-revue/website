@@ -1,6 +1,7 @@
 const logo = document.querySelector(".site-header__logo");
-const p = logo.querySelector("span:first-of-type");
-const s = logo.querySelector("span:last-of-type");
+const ps = logo.querySelectorAll(".site-header__logo-ps");
+const p = ps[0];
+const s = ps[1];
 
 // `Element.style` returns an object.
 // The raw text is stored in the `cssText` property.

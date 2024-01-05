@@ -1,5 +1,7 @@
 <?php snippet("site/layout", slots: true) ?>
 
+<?php slot("aside_button") ?>Actualités<?php endslot() ?>
+
 <?php slot("aside") ?>
 
 <h2 class="site-aside__title">Actualités</h2>

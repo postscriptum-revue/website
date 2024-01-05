@@ -8,8 +8,10 @@ fields:
         type: text
         label: Crédit
         width: 2/3
+        required: true
     alt_text:
         type: text
         width: 2/3
-        help: Pour des raisons d’accessibilité, il est important de fournir une description textuelle alternative l’image.
+        help: Pour des raisons d’accessibilité, il est important de fournir une description textuelle de l’image.
         label: Description textuelle alternative
+        required: true

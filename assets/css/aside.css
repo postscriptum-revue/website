@@ -6,6 +6,7 @@
 	top: 0;
 	margin: -1rem 0;
 	height: calc(100vh);
+
 }
 
 .site-aside::after {
@@ -18,11 +19,17 @@
 }
 
 .site-aside__content-wrapper {
-	/* TODO: Hide scrollbar ? */
 	box-sizing: border-box;
 	height: 100%;
 	overflow-y: scroll;
 	padding: 1rem 2rem 1rem 0;
+
+	-ms-overflow-style: none;
+ 	 scrollbar-width: none;
+}
+
+.site-aside__content-wrapper::-webkit-scrollbar {
+  display: none;
 }
 
 .site-aside__title {
@@ -39,11 +46,34 @@
 }
 
 .site-aside__list {
-    font-size: var(--font-size-small);
+	font-size: var(--font-size-small);
 }
 
 .about-aside-group {
-    margin-top: 1rem;
+	margin-top: 1rem;
+}
+
+.site-aside__mobile-button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: transparent;
+	position: absolute;
+	right: -1rem;
+	width: 2rem; /* Using left doesn't work in Firefox */
+	top: 0;
+	bottom: 0;
+	z-index: 1;
+}
+
+.site-aside__mobile-button-icon {
+	letter-spacing: 0.025rem;
+	text-transform: lowercase;
+	transform: rotate(90deg);
+	font-size: var(--font-size-small);
+	background-color: white;
+	padding: 0 0.5rem;
+	white-space: nowrap;
 }
 
 @media (max-width: 500px) {
@@ -59,4 +89,3 @@
 		left: 1rem;
 	}
 }
-

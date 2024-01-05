@@ -1,5 +1,7 @@
 <?php snippet("site/layout", slots: true) ?>
 
+<?php slot("aside_button") ?>Table des matières<?php endslot() ?>
+
 <?php slot("aside") ?>
 <?php snippet("issue/toc") ?>
 <?php endslot() ?>
