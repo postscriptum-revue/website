@@ -4,7 +4,7 @@
 
 <h2 class="site-aside__title">Logo</h2>
 <ul>
-	<?php foreach (page("parutions")->children()->flip() as $issue) : ?>
+	<?php foreach (page("numeros")->children()->flip() as $issue) : ?>
 		<li>
 			<details class="details">
 				<summary class="summary">

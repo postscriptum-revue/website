@@ -6,11 +6,11 @@ return function () {
 	$authors = [];
 	$keywords = [];
 	$articles = new Pages();
-	$parutions = page("parutions")->children();
+	$numeros = page("numeros")->children();
 
-	foreach ($parutions as $parution) {
-		$parution_articles = $parution->children();
-		$articles->add($parution_articles);
+	foreach ($numeros as $n) {
+		$n_articles = $n->children();
+		$articles->add($n_articles);
 	}
 
 	foreach ($articles as $article) {

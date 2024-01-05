@@ -24,7 +24,7 @@ class Logo
 		// New pages don't have a $page->num() because they are drafts,
 		// and thus have no number yet.
 		$issue_num =
-			$page->num() ?? page("parutions")->children()->count() + 1;
+			$page->num() ?? page("numeros")->children()->count() + 1;
 
 		// Add the new logo style to the list.
 		// `$style["both"]` is used to make the comparison easier.

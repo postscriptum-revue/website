@@ -11,8 +11,8 @@ return function () {
 		$all_news->add($news_section->children()->listed()->flip());
 	}
 
-	$last_issue = page("parutions")->children()->last();
-	$latest_issues = page("parutions")
+	$last_issue = page("numeros")->children()->last();
+	$latest_issues = page("numeros")
 		->children()->listed()->flip()->slice(1, 3);
 
 	return [

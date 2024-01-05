@@ -1,5 +1,5 @@
 type: pages
-label: Parutions
+label: Numéros
 layout: cards
 template: issue
 flip: true

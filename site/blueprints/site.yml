@@ -39,4 +39,4 @@ columns:
         sections:
             issues:
                 extends: sections/issues
-                parent: site.find("parutions")
+                parent: site.find("numeros")

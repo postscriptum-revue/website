@@ -2,7 +2,7 @@
 
 return function () {
 
-	$issues = page("parutions")->children()->listed()->flip();
+	$issues = page("numeros")->children()->listed()->flip();
 
 	return [
 		"issues" => $issues
