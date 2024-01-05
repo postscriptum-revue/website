@@ -11,9 +11,24 @@
 .site-header__logo {
 	grid-column: span 4;
 
-	text-align: center;
+	display: flex;
+	justify-content: center;
 	font-family: "Mercure Transcript";
 	font-size: 1.75rem;
+}
+
+.site-header__logo-num {
+	display: none;
+}
+
+.body--template-issue .site-header__logo-num,
+.body--template-article .site-header__logo-num {
+	display: inline;
+}
+
+.body--template-issue .site-header__logo-ostcriptum,
+.body--template-article .site-header__logo-ostcriptum {
+	display: none;
 }
 
 .site-header__nav {
@@ -47,6 +62,11 @@
 	}
 
 	.site-header__logo {
-		text-align: left;
+		font-size: 2.5rem;
+		justify-content: flex-start;
+	}
+
+	.site-header__logo-ostcriptum {
+		display: none;
 	}
 }

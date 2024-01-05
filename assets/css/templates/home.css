@@ -1,4 +1,4 @@
-.home-template-main {
+.body--template-home main {
 	border-top: none;
 	padding-top: 0;
 }
@@ -9,6 +9,11 @@
 }
 
 .home-section__title {
+	/* See latest-issues on mobile */
+	justify-self: left;
+	position: sticky;
+	left: 0;
+
 	grid-column: 1 / -1;
 	padding-top: 1rem;
 	font-size: var(--font-size-small);
@@ -31,4 +36,11 @@
 
 .home-aside__news-item-img {
 	margin: 0 4rem;
+}
+
+@media (max-width: 500px) {
+	.latest-issues {
+		margin-right: -1rem;
+		overflow: scroll;
+	}
 }

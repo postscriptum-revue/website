@@ -44,12 +44,14 @@ tabs:
                         type: list
                         label: Éditeur·rice(s)
                         required: true
+                        default: L’équipe de Post-Scriptum
                     credit_revision:
                         type: list
                         label: Révision
                         required: true
+                        default: L’équipe de Post-Scriptum
                     credit_webmaster:
-                        type: text
+                        type: list
                         label: Webmestre
                         default: L’équipe de Post-Scriptum
                         required: true

@@ -1,5 +1,7 @@
 <?php snippet("site/layout", slots: true) ?>
 
+<?php slot("aside_button") ?>Bibliographie<?php endslot() ?>
+
 <?php slot("aside") ?>
 
 <!-- Boutons : télécharger en format PDF, Retour en haut de la page -->

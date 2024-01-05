@@ -31,14 +31,22 @@ $color = $issue_color ??  $page->color();
 	</title>
 </head>
 
-<body style="--issue-color: <?= $color ?>">
+<body
+	style="--issue-color: <?= $color ?>"
+	class="body--template-<?= $page->template() ?>"
+>
 	<aside class="site-aside">
+		<button class="site-aside__mobile-button">
+			<span class="site-aside__mobile-button-icon">
+				<?= $slots->aside_button() ?>
+			</span>
+		</button>
 		<div class="site-aside__content-wrapper">
 			<?= $slots->aside() ?>
 		</div>
 	</aside>
 	<?php snippet("site/header") ?>
-	<main class="<?= $page->template() . "-template-main" ?>">
+	<main>
 		<?= $slots->main() ?>
 	</main>
 	<footer class="site-footer"></footer>
