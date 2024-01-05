@@ -7,6 +7,10 @@
 			$new_blocks = [];
 			foreach ($this as $block) {
 				$block = $block->toArray();
+
+				// Image blocks don't have text.
+				if (!isset($block["content"]["text"])) continue;
+
 				$block["content"]["text"] =
 					Footnotes::collect($block["content"]["text"]);
 				array_push($new_blocks, new Kirby\Cms\Block($block));
