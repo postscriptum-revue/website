@@ -51,10 +51,6 @@
 	margin-top: 1rem;
 }
 
-.text-section blockquote footer::before {
-	content: "—";
-}
-
 .text-section__hr::after {
 	display: block;
 	content: "⁂";
