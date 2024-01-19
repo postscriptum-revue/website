@@ -11,6 +11,8 @@ body {
 	grid-template-columns: repeat(12, 1fr);
 	grid-template-rows: max-content auto;
 	gap: 2rem;
+
+	word-break: break-word;
 }
 
 main {
