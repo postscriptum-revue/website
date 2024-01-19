@@ -22,7 +22,6 @@
 	font-size: var(--font-size-small);
 	text-indent: -2rem;
 	margin-left: 2rem;
-	word-break: break-word;
 }
 
 .footnote-list {
