@@ -76,7 +76,7 @@
 	white-space: nowrap;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	.site-aside {
 		width: 75vw;
 		position: fixed;

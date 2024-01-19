@@ -38,7 +38,7 @@
 	margin: 0 4rem;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	.latest-issues {
 		margin-right: -1rem;
 		overflow: scroll;

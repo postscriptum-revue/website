@@ -50,7 +50,7 @@
 	font-size: var(--font-size-small);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	.latest-issues__issue-cover {
 		height: auto;
 	}

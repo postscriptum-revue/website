@@ -7,7 +7,7 @@
 .last-issue__cover {
 	background-position: center;
 	background-size: cover;
-	height: 43vw;
+	height: 500px;
 	border: 1px solid gainsboro;
 }
 
@@ -59,7 +59,7 @@
 	font-size: var(--font-size-small);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	.last-issue {
 		grid-template-columns: 1fr;
 	}

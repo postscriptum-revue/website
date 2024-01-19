@@ -4,7 +4,7 @@
 	border-top: 1px solid;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	.site-footer {
 		grid-column: 1 / -1;
 	}

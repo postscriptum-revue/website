@@ -111,7 +111,7 @@
 	margin-top: 1rem;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	.issue-header {
 		padding-top: 4rem;
 		column-gap: 0;
