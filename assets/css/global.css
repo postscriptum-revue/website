@@ -5,7 +5,9 @@
 body {
 	font-family: "Mercure", "Times New Roman", Times, serif;
 	line-height: 1.4;
-	margin: 1rem 2rem;
+	padding: 1rem 2rem;
+	margin: 0 auto;
+	max-width: 1200px;
 
 	display: grid;
 	grid-template-columns: repeat(12, 1fr);
@@ -35,13 +37,13 @@ em {
 	font-style: italic;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	:root {
 		font-size: 18px;
 	}
 
 	body {
-		margin: 1rem 1rem 1rem 2rem;
+		padding: 1rem 1rem 1rem 2rem;
 		grid-template-columns: 1fr;
 	}
 

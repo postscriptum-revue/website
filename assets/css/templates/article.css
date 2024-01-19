@@ -46,7 +46,7 @@
 	content: "〛";
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
 	.footnote-list {
 		grid-column: 1 / -1;
 	}
