@@ -1,0 +1,41 @@
+Title: Salut
+
+----
+
+Title-needs-formatting: true
+
+----
+
+Formatted-title: <em>Salut</em>
+
+----
+
+Subtitle: Montréal
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: 
+
+----
+
+Bibliography: 
+
+----
+
+Authors: 
+
+----
+
+Keywords: 
+
+----
+
+Uuid: ANbmPjL3VGXM9aXA

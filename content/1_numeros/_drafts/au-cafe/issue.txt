@@ -1,0 +1,57 @@
+Title: Au Café
+
+----
+
+Subtitle: Quel bonheur
+
+----
+
+Cover: - file://7c8PWixbboF68679
+
+----
+
+Date: 2024-01-04
+
+----
+
+Credit-editors: <ul><li>Sarah </li></ul>
+
+----
+
+Credit-revision: <ul><li>Sarah</li><li>Maxime</li></ul>
+
+----
+
+Credit-webmaster: Raphael
+
+----
+
+Intro-text: [{"content":{"text":"<p>e voulais vous écrire un message pour donner des nouvelles à propos du site web, avant les fêtes, et pour préparer le terrain pour la session prochaine. Maxime et Raphael sont encore en train de travailler là-dessus et de faire plusieurs choses obscures. Pour résumer, Maxime travaille actuellement sur la version mobile et Raphael prépare un guide pour la révision des articles en ligne. Car oui, la nouvelle moins réjouissante est qu'il faudra réviser rétrospectivement tous nos numéros existants, comme le travail de formatage n'a pas pu être fait au fur et à mesure, forcément. (Désolée pour la redite, pour celles et ceux qui étaient là à la dernière réunio</p>"},"id":"8b844250-4169-48e3-8d29-22e2d8fdc29c","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Salut"},"id":"95cca58f-ee25-47ca-a190-14cc41ad31d9","isHidden":false,"type":"heading"},{"content":{"text":"<p>e voulais vous écrire un message pour donner des nouvelles à propos du site web, avant les fêtes, et pour préparer le terrain pour la session prochaine. Maxime et Raphael sont encore en train de travailler là-dessus et de faire plusieurs choses obscures. Pour résumer, </p>","citation":""},"id":"3cab9906-51a6-4324-8aed-142080cbfac1","isHidden":false,"type":"quote"},{"content":{"text":"<p>Maxime travaille actuellement sur la version mobile et Raphael prépare un guide pour la révision des articles en ligne. Car oui, la nouvelle moins réjouissante est qu'il faudra réviser rétrospectivement tous nos numéros existants, comme le travail de formatage n'a pas pu être fait au fur et à mesure, forcément. (Désolée pour la redite, pour celles et ceux qui étaient là à la dernière réunio</p>"},"id":"32aebb18-dfe3-48a0-b1ea-3175f7e73467","isHidden":false,"type":"text"},{"content":{"text":"bnbbb [[fgdsg]]","citation":""},"id":"5fb2e37d-3f9e-468b-b9bb-dc571ee4890b","isHidden":false,"type":"quote"}]
+
+----
+
+Intro-title: 
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: <ul><li>L'équipe de PS</li></ul>
+
+----
+
+Uuid: aGx8fKTrsAyJGvQN
+
+----
+
+Logo-style-p: 20
+
+----
+
+Logo-style-s: 11
+
+----
+
+Color: rgb(160, 112, 56)

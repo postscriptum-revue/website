@@ -88,17 +88,9 @@ Team:
       name: Jonathan Paquette
       occupation: Doctorant en littérature comparée
       affiliation: Université de Montréal
-    - 
-      name: Maude Marcotte
-      occupation: Doctorante en littérature comparée
-      affiliation: Université de Montréal
 - 
   task: Responsable de la recherche-création
-  members:
-    - 
-      name: Miriam Sbih
-      occupation: Doctorante en littérature comparée
-      affiliation: Université de Montréal
+  members: [ ]
 - 
   task: Webmestre
   members:
@@ -110,7 +102,7 @@ Team:
   task: Trésorier
   members:
     - 
-      name: François-Xavier Garneau
+      name: Samuele Ellena
       occupation: Doctorant en littérature comparée
       affiliation: Université de Montréal
 - 
