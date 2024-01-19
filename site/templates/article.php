@@ -42,7 +42,20 @@
 <hgroup class="text-section-hgroup">
 	<ul class="text-section-hgroup__authors">
 		<?php foreach ($page->authors()->toStructure() as $author) : ?>
-			<li><?= $author->name() ?></li>
+			<li>
+				<ul>
+					<li
+						class="text-section-hgroup__author-name"
+					>
+						<?= $author->name() ?>
+					</li>
+					<li
+						class="text-section-hgroup__author-affiliation"
+					>
+						(<?= $author->affiliation() ?>)
+					</li>
+				</ul>
+			</li>
 		<?php endforeach ?>
 	</ul>
 	<h1 class="text-section-hgroup__title">
