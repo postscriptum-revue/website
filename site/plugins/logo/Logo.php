@@ -56,6 +56,17 @@ class Logo
 		return $site;
 	}
 
+	static public function delete($issue_num, $site)
+	{
+		$style_list = $site->logo_style_list()->toData("json");
+		unset($style_list[$issue_num]);
+		$style_list_json = json_encode($style_list);
+
+		$site = $site->update([
+			"logo_style_list" => $style_list_json
+		]);
+	}
+
 	private function generateStyle()
 	{
 		// Styles need to be padded (ex. "01"") for CSS's

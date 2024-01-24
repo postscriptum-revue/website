@@ -9,6 +9,11 @@ require __DIR__ . "/Logo.php";
 				$logo = new Logo();
 				$logo->save($this->site(), $page);
 			}
+		},
+		"page.delete:after" => function ($page) {
+			if ($page->template() == "issue") {
+				Logo::delete($page->num(), $this->site());
+			}
 		}
 	]
 ]);
