@@ -58,6 +58,11 @@ columns:
     right:
         width: 1/3
         fields:
+            pdf:
+                type: files
+                label: Fichier PDF
+                multiple: false
+                uploads: pdf
             authors:
                 type: structure
                 label: Auteur·ice(s)
