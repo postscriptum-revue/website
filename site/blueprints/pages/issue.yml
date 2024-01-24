@@ -61,9 +61,7 @@ tabs:
             left:
                 width: 2/3
                 fields:
-                    intro_text:
-                        type: blocks
-                        label: Texte
+                    intro_text: fields/text
             right:
                 width: 1/3
                 fields:

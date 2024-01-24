@@ -1,0 +1,8 @@
+type: blocks
+label: Texte
+fieldsets:
+    - heading
+    - text
+    - image
+    - quote
+    - line

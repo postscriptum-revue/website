@@ -44,14 +44,7 @@ columns:
                     - italic
                     - bold
                     - link
-            text:
-                type: blocks
-                label: Texte
-                fieldsets:
-                    - heading
-                    - text
-                    - image
-                    - quote
+            text: fields/text
             bibliography:
                 type: list
                 label: Bibliographie
