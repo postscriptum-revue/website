@@ -43,6 +43,15 @@
 	margin-top: 2rem;
 }
 
+.text-section__h3 {
+	margin-top: 2rem;
+	margin-left: 2rem;
+}
+
+.text-section__h3 + * {
+	margin-top: 1rem;
+}
+
 .text-section__blockquote:not(:first-child) {
 	margin-top: 2rem;
 }

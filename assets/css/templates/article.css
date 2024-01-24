@@ -1,57 +1,61 @@
 .article-hgroup__subtitle {
-	margin-top: 1rem;
+    margin-top: 1rem;
 }
 
 .article-summary__title {
-	text-align: center;
+    text-align: center;
 }
 
 .text-section-hgroup__authors {
-	color: var(--issue-color);
+    color: var(--issue-color);
 }
 
 .article-summary p {
-	font-size: var(--font-size-small);
+    font-size: var(--font-size-small);
 }
 
 .article-summary p + p {
-	margin-top: 1rem;
+    margin-top: 1rem;
 }
 
 .article-bibliography li {
-	font-size: var(--font-size-small);
-	text-indent: -2rem;
-	margin-left: 2rem;
+    font-size: var(--font-size-small);
+    text-indent: -2rem;
+    margin-left: 2rem;
 }
 
 .footnote-list {
-	grid-column: span 2;
-	font-size: var(--font-size-small);
+    grid-column: span 2;
+    font-size: var(--font-size-small);
 }
 
 .footnote-list__footnote-number {
-	display: block;
-	margin-left: 2rem;
+    display: block;
+    margin-left: 2rem;
 }
 
 .footnote-ref {
-	margin-left: 0.1rem;
+    margin-left: 0.1rem;
 }
 
 .footnote-ref:before {
-	content: "〚";
+    content: "〚";
 }
 
 .footnote-ref:after {
-	content: "〛";
+    content: "〛";
+}
+
+.article-citation {
+    font-size: var(--font-size-small);
 }
 
 @media (max-width: 850px) {
-	.footnote-list {
-		grid-column: 1 / -1;
-	}
+    .footnote-list {
+        grid-column: 1 / -1;
+    }
 
-	.footnote-list__footnote {
-		margin-top: 0 !important; /* See footnotes.js */
-	}
+    .footnote-list__footnote {
+        margin-top: 0 !important; /* See footnotes.js */
+    }
 }
