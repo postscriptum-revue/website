@@ -18,6 +18,7 @@ $color = $issue_color ??  $page->color();
 	<script src="/assets/scripts/logo.js" defer></script>
 	<script src="/assets/scripts/mobile.js" defer></script>
 	<script src="/assets/scripts/footnotes.js" defer></script>
+	<script src="/assets/scripts/lightbox.js" defer></script>
 	<title>
 		<?php
 		if ($page->template() == "issue") {
@@ -50,6 +51,7 @@ $color = $issue_color ??  $page->color();
 		<?= $slots->main() ?>
 	</main>
 	<footer class="site-footer"></footer>
+	<?php snippet("site/lightbox") ?>
 </body>
 
 </html>
