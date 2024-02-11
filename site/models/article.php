@@ -4,13 +4,26 @@ use Kirby\Cms\Page;
 
 class ArticlePage extends Page
 {
-	// Can't format title here because the panel it causes issues
-	// in the Panel. For instance, it displays the Unicode code for
-	// the apostrophe instead of the apostrophe itself.
-
-	public function subtitle()
+	public function title_and_subtitle()
 	{
-		$formatted_subtitle = parent::subtitle()->smartypants();
-		return $formatted_subtitle;
+		$title = parent::title();
+		if (parent::formatted_title()->isNotEmpty()) {
+			$title = parent::formatted_title();
+		}
+
+		if (
+			!str_ends_with($title, "?")
+			&& !str_ends_with($title, "!")
+			&& !str_ends_with($title, ".")
+			&& parent::subtitle() != ""
+		) {
+			$title .= "&nbsp;: ";
+		}
+
+		if (parent::subtitle() != "") {
+			$title .= parent::subtitle();
+		}
+
+		return $title;
 	}
 }

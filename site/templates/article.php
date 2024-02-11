@@ -7,7 +7,7 @@
 <!-- TODO: Boutons : télécharger en format PDF, Retour en haut de la page -->
 <section class="site-aside__section">
 	<h2 class="site-aside__title">Citation</h2>
-	<p class="article-citation"><?= $citation ?></p>
+	<?php snippet("article/citation", ["article" => $page]) ?>
 </section>
 <?php if (($keywords = $page->keywords())->isNotEmpty()) : ?>
 	<section class="site-aside__section">

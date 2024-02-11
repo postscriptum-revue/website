@@ -46,10 +46,6 @@
     content: "〛";
 }
 
-.article-citation {
-    font-size: var(--font-size-small);
-}
-
 @media (max-width: 850px) {
     .footnote-list {
         grid-column: 1 / -1;
