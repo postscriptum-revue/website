@@ -18,18 +18,7 @@ $max = $max ?? null;
 						<li class="toc__item-author"><?= $author->name() ?></li>
 					<?php endforeach ?>
 				</ul>
-				<p class="toc__item-title">
-					<?php if ($p->formatted_title()->isNotEmpty()) : ?>
-						<?= $p->formatted_title()->smartypants() ?>
-					<?php else : ?>
-						<?= $p->title()->smartypants() ?>
-					<?php endif ?>
-				</p>
-				<?php if ($p->subtitle() != "") : ?>
-					<p class="toc__item-subtitle">
-						<?= $p->subtitle() ?>
-					</p>
-				<?php endif ?>
+				<p class="toc__item-title"><?= $p->title_and_subtitle() ?></p>
 			</a>
 		</li>
 	<?php endforeach ?>

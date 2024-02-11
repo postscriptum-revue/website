@@ -2,13 +2,8 @@
 	text-align: center;
 }
 
-.toc__item:hover {
-    cursor: pointer;
-}
-
-.toc__item:hover .toc__item-title,
-.toc__item:hover .toc__item-subtitle {
-    text-decoration: underline;
+.toc__item:hover .toc__item-title {
+	text-decoration: underline;
 }
 
 .toc__item + .toc__item {
@@ -28,18 +23,5 @@ The gap between lines is disproportionate otherwise. */
 }
 
 .toc__item-author:not(:last-child):after {
-	content: ","
-}
-
-.toc__item
-
-.toc__item-title,
-.toc__item-subtitle {
-	display: inline;
-}
-
-/* TODO: Solution without :has (not supported by FF yet) */
-.toc__item-title:has(+ .toc__item-subtitle):after {
-	content: ":";
-	/* \00a0 non-breaking space */
+	content: ",";
 }
