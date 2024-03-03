@@ -6,9 +6,9 @@ class ArticlePage extends Page
 {
 	public function title_and_subtitle()
 	{
-		$title = parent::title();
+		$title = parent::title()->smartypants();
 		if (parent::formatted_title()->isNotEmpty()) {
-			$title = parent::formatted_title();
+			$title = parent::formatted_title()->smartypants();
 		}
 
 		if (
@@ -21,7 +21,7 @@ class ArticlePage extends Page
 		}
 
 		if (parent::subtitle() != "") {
-			$title .= parent::subtitle();
+			$title .= parent::subtitle()->smartypants();
 		}
 
 		return $title;
