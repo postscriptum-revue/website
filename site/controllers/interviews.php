@@ -5,27 +5,27 @@ use Kirby\Cms\Pages;
 return function () {
 	$authors = [];
 	$keywords = [];
-	$articles = new Pages();
+	$interviews = new Pages();
 	$numeros = page("numeros")->children();
 
 	foreach ($numeros as $n) {
-		$n_articles = $n->children()->filterBy("template", "article");
-		$articles->add($n_articles);
+		$n_interviews = $n->children()->filterBy("template", "interview");
+		$interviews->add($n_interviews);
 	}
 
-	foreach ($articles as $article) {
-		foreach ($article->keywords()->split() as $kw) {
+	foreach ($interviews as $interview) {
+		foreach ($interview->keywords()->split() as $kw) {
 			array_push($keywords, $kw);
 		}
 	}
 
 	$keyword = param('keyword');
 	if (empty($keyword) === false) {
-		$articles = $articles->filterBy('keywords', $keyword, ',');
+		$interviews = $interviews->filterBy('keywords', $keyword, ',');
 	}
 
 	return [
-		"articles" => $articles,
+		"interviews" => $interviews,
 		"authors" => $authors,
 		"keywords" => $keywords
 	];

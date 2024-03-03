@@ -19,7 +19,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="site-header__nav-list-item" href="/">
+				<a class="site-header__nav-list-item" href="/entretiens">
 					Entretiens
 				</a>
 			</li>
