@@ -1,0 +1,22 @@
+type: group
+fields:
+    pdf:
+        type: files
+        label: Fichier PDF
+        multiple: false
+        uploads: pdf
+    authors:
+        type: structure
+        label: Auteur·ice(s)
+        fields:
+            name:
+                type: text
+                label: Nom
+                help: |
+                    Ne pas transcrire le nom de famille en majuscule. Entrez « Franz Kafka » et non « Franz KAFKA ».
+            affiliation:
+                type: text
+                label: Affiliation
+    keywords:
+        type: tags
+        label: Mots-clés

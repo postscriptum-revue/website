@@ -1,4 +1,4 @@
-title: Article
+title: Entretiens
 
 columns:
     left:
@@ -6,6 +6,10 @@ columns:
         fields:
             title: fields/article-title
             abstracts: fields/abstracts
+            info:
+                type: info
+                label: Attention
+                text: Veuillez utiliser les blocs de type « Citation » pour les échanges entre intervenant·es.
             text: fields/text
             bibliography:
                 type: list
