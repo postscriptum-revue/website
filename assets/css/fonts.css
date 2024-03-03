@@ -1,20 +1,20 @@
 @font-face {
 	font-family: "Mercure";
-	src: url("/assets/fonts/Mercure-Regular.otf");
+	src: url("/assets/fonts/Mercure-Regular.woff2");
 	font-style: normal;
 	font-weight: 400;
 }
 
 @font-face {
 	font-family: "Mercure";
-	src: url("/assets/fonts/Mercure-Italic.otf");
+	src: url("/assets/fonts/Mercure-Italic.woff2");
 	font-style: italic;
 	font-weight: 400;
 }
 
 @font-face {
 	font-family: "Mercure Transcript";
-	src: url("/assets/fonts/Mercure-Transcript.otf");
+	src: url("/assets/fonts/Mercure-Transcript.woff2");
 	font-style: normal;
 	font-weight: 400;
 }
