@@ -1,0 +1,17 @@
+title: Compte-rendu
+
+columns:
+    left:
+        width: 2/3
+        fields:
+            title: fields/article-title
+            abstracts: fields/abstracts
+            text: fields/text
+            bibliography:
+                type: list
+                label: Bibliographie
+    right:
+        width: 1/3
+        fields:
+            details: fields/article-details
+

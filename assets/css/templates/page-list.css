@@ -1,4 +1,5 @@
 .body--template-articles main,
+.body--template-reviews main,
 .body--template-interviews main {
 	display: block;
 
@@ -12,6 +13,7 @@ TODO: Sometimes the margin of the first column's last item
 carries over to the top of the second column.
 */
 .body--template-articles .toc__item,
+.body--template-reviews .toc__item,
 .body--template-interviews .toc__item {
 	break-inside: avoid;
 	display: block;
