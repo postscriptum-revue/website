@@ -14,7 +14,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="site-header__nav-list-item" href="/">
+				<a class="site-header__nav-list-item" href="/comptes-rendus">
 					Comptes-rendus
 				</a>
 			</li>
