@@ -6,3 +6,4 @@ fieldsets:
     - image
     - quote
     - line
+    - code
