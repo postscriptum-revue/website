@@ -6,9 +6,11 @@
 					<li class="text-section-hgroup__author-name">
 						<?= $author->name() ?>
 					</li>
-					<li class="text-section-hgroup__author-affiliation">
-						(<?= $author->affiliation() ?>)
-					</li>
+					<?php if ($author->affiliation()->isNotEmpty()) : ?>
+						<li class="text-section-hgroup__author-affiliation">
+							(<?= $author->affiliation() ?>)
+						</li>
+					<?php endif ?>
 				</ul>
 			</li>
 		<?php endforeach ?>
