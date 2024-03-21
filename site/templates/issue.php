@@ -3,7 +3,7 @@
 <?php slot("aside_button") ?>Table des matières<?php endslot() ?>
 
 <?php slot("aside") ?>
-<?php snippet("issue/toc") ?>
+<?php snippet("site/toc", ["toc_pages" => $page->children()]) ?>
 <?php endslot() ?>
 
 <?php slot("main") ?>
