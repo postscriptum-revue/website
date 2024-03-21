@@ -46,6 +46,38 @@
     content: "〛";
 }
 
+.article-buttons, .article-buttons__prev-next {
+	display: flex;
+	gap: .25rem;
+}
+
+.article-buttons__prev-next {
+	flex-direction: column;
+	flex: 1;
+}
+
+.button {
+	border: 1px solid;
+	padding: .25rem .5rem;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	color: var(--issue-color);
+}
+
+.button:hover {
+	color: white;
+	background-color: var(--issue-color);
+}
+
+.article-buttons__download {
+	flex: 1;
+}
+
+.button__sub-label {
+	font-size: var(--font-size-small);
+}
+
 @media (max-width: 850px) {
     .footnote-list {
         grid-column: 1 / -1;
