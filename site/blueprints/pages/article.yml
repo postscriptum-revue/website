@@ -1,5 +1,11 @@
 title: Article
 
+options:
+    changeTemplate:
+        - article
+        - interview
+        - review
+
 columns:
     left:
         width: 2/3
