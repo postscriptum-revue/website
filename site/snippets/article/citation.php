@@ -4,7 +4,7 @@ $authors = $page->authors()->toStructure();
 foreach ($authors as $i => $author) {
 	$citation_authors .= $author->name();
 	if ($i < count($authors) - 1) {
-		$citation .= ", ";
+		$citation_authors .= ", ";
 	}
 }
 ?>
