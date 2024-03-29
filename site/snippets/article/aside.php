@@ -1,22 +1,24 @@
 <div class="site-aside__section article-buttons">
-	<div class="article-buttons__prev-next">
-		<?php if($prev = $page->prev()) : ?>
-			<a
-				href="<?= $prev->url() ?>"
-				class="button button__sub-label"
-			>
-				Article précédent
-			</a>
-		<?php endif ?>
-		<?php if($next = $page->next()) : ?>
-			<a
-				href="<?= $page->next()->url() ?>"
-				class="button button__sub-label"
-			>
-				Article suivant
-			</a>
-		<?php endif ?>
-	</div>
+	<?php if ($page->parent()->template() == "issue") : ?>
+		<div class="article-buttons__prev-next">
+			<?php if($prev = $page->prev()) : ?>
+				<a
+					href="<?= $prev->url() ?>"
+					class="button button__sub-label"
+				>
+					Article précédent
+				</a>
+			<?php endif ?>
+			<?php if($next = $page->next()) : ?>
+				<a
+					href="<?= $page->next()->url() ?>"
+					class="button button__sub-label"
+				>
+					Article suivant
+				</a>
+			<?php endif ?>
+		</div>
+	<?php endif ?>
 	<?php if(($pdf = $page->pdf())->isNotEmpty()) : ?>
 		<a
 			href="<?= $pdf->toFile()->url() ?>"

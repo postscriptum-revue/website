@@ -2,16 +2,10 @@
 
 use Kirby\Cms\Pages;
 
-return function () {
+return function ($site) {
 	$authors = [];
 	$keywords = [];
-	$interviews = new Pages();
-	$numeros = page("numeros")->children();
-
-	foreach ($numeros as $n) {
-		$n_interviews = $n->children()->filterBy("template", "interview");
-		$interviews->add($n_interviews);
-	}
+	$interviews = $site->index()->filterBy('template', 'interview');
 
 	foreach ($interviews as $interview) {
 		foreach ($interview->keywords()->split() as $kw) {

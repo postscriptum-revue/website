@@ -1,0 +1,5 @@
+sections:
+    interviews:
+        type: pages
+        label: Entretiens
+        flip: true
