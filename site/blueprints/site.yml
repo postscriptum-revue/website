@@ -30,6 +30,25 @@ columns:
                 fields:
                     hl:
                         type: line
+            reviews:
+                label: Comptes-rendus
+                type: pages
+                parent: site.find("comptes-rendus")
+                template: review
+                limit: 3
+                flip: true
+            interviews:
+                label: Entretiens
+                type: pages
+                parent: site.find("entretiens")
+                template: interview
+                limit: 3
+                flip: true
+            hll:
+                type: fields
+                fields:
+                    hll:
+                        type: line
             about:
                 label: À propos
                 type: pages

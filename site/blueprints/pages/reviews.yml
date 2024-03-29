@@ -1,0 +1,5 @@
+sections:
+    reviews:
+        type: pages
+        label: Comptes-rendus
+        flip: true
