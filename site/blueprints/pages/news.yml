@@ -11,8 +11,8 @@ sections:
         type: pages
         parent: page.find("appels-a-communications")
         template: call-for-presentations
-    conference:
-        label: Colloques
+    event:
+        label: Évènements
         type: pages
-        parent: page.find("colloques")
-        template: conference
+        parent: page.find("evenements")
+        template: event
