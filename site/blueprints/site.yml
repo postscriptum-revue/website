@@ -18,11 +18,11 @@ columns:
                 template: call-for-presentations
                 limit: 3
                 flip: true
-            conference:
-                label: Colloques
+            event:
+                label: Évènements
                 type: pages
-                parent: site.find("actualites").find("colloques")
-                template: conference
+                parent: site.find("actualites").find("evenements")
+                template: event
                 limit: 3
                 flip: true
             hl:

@@ -15,9 +15,8 @@ columns:
                 help: La première lettre doit être en majuscule.
                 type: text
             intro_text:
+                extends: fields/text
                 label: Texte de présentation
-                type: blocks
-                # required: true
             intro_bibliography:
                 label: Bibliographie
                 type: list
@@ -27,7 +26,6 @@ columns:
             issue_cover:
                 label: Image de couverture
                 type: files
-                # required: true
             issue_number:
                 label: Numéro
                 type: number
@@ -39,8 +37,8 @@ columns:
             issue_editors:
                 label: Éditeur·rices
                 type: list
-                # required: true
+                required: true
             submit_date:
                 label: Date limite pour la soumission
                 type: date
-                # required: true
+                required: true

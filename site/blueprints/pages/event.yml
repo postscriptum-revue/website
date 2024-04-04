@@ -1,4 +1,4 @@
-title: Appel à communications
+title: Évènement
 
 num: date
 
@@ -30,9 +30,5 @@ columns:
             event_organizers:
                 label: Organisateur·rices
                 type: list
-                required: true
-            submit_date:
-                label: Date limite pour la soumission
-                type: date
                 required: true
 
