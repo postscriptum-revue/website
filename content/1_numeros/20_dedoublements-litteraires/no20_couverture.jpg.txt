@@ -1,5 +1,0 @@
-Uuid: 5bM45nVI1kcvV3A1
-
-----
-
-Template: cover
