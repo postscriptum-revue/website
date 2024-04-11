@@ -1,5 +1,0 @@
-Uuid: jUQ2WRtq3OhPFoYR
-
-----
-
-Template: cover
