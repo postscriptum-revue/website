@@ -11,7 +11,7 @@
 	<?= $block->text()->smartypants() ?>
 	<?php
 	if (
-		$page->template() == "article"
+		$page->template() != "interview"
 		&& $block->citation()->isNotEmpty()
 	) : ?>
 		<footer class="text-section__blockquote-footer">

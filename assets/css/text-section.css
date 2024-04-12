@@ -56,10 +56,6 @@
 	margin-top: 2rem;
 }
 
-.text-section__kblockquote-footer {
-	margin-top: 1rem;
-}
-
 .text-section__hr::after {
 	display: block;
 	content: "⁂";
