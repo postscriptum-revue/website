@@ -21,7 +21,7 @@ class ArticlePage extends Page
 		}
 
 		if (parent::subtitle() != "") {
-			$title .= parent::subtitle()->smartypants();
+			$title .= " " . parent::subtitle()->smartypants();
 		}
 
 		return $title;
