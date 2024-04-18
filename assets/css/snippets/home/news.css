@@ -1,0 +1,12 @@
+.news-list {
+	font-size: var(--font-size-small);
+	text-align: center;
+}
+
+.news-list__item + .news-list__item {
+	margin-top: 1rem;
+}
+
+.news-list__item:hover .news-list__item-title {
+	text-decoration: underline;
+}

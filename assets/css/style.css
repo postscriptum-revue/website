@@ -10,6 +10,7 @@
 @import url("templates/page-list.css");
 @import url("templates/issues.css");
 @import url("templates/interview.css");
+@import url("templates/news.css");
 
 /* Snippets */
 @import url("footer.css");
@@ -21,7 +22,7 @@
 @import url("snippets/site/lightbox.css");
 @import url("snippets/home/last-issue.css");
 @import url("snippets/article/citation.css");
-
+@import url("snippets/home/news.css");
 
 /* Blocks */
 @import url("snippets/blocks/image.css");

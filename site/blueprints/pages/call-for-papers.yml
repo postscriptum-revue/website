@@ -23,9 +23,14 @@ columns:
     right:
         width: 1/3
         fields:
-            issue_cover:
+            cover:
                 label: Image de couverture
                 type: files
+                required: true
+                layout: cards
+                multiple: false
+                uploads:
+                    template: cover
             issue_number:
                 label: Numéro
                 type: number
@@ -37,6 +42,9 @@ columns:
             issue_editors:
                 label: Éditeur·rices
                 type: list
+                marks: false
+                nodes: 
+                    - bulletList
                 required: true
             submit_date:
                 label: Date limite pour la soumission
