@@ -6,11 +6,11 @@ columns:
     left:
         width: 2/3
         fields:
-            event_title:
+            title:
                 label: Titre de l'évènement
                 type: text
                 required: true
-            event_subtitle:
+            subtitle:
                 label: Sous-titre de l'évènement
                 help: La première lettre doit être en majuscule.
                 type: text
@@ -23,11 +23,19 @@ columns:
     right:
         width: 1/3
         fields:
-            event_date:
+            cover:
+                label: Image de couverture
+                type: files
+                required: true
+                layout: cards
+                multiple: false
+                uploads:
+                    template: cover
+            date:
                 label: Date de l'évènement
                 type: date
                 required: true
-            event_organizers:
+            organizers:
                 label: Organisateur·rices
                 type: list
                 required: true

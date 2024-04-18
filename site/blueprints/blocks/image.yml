@@ -7,7 +7,6 @@ fields:
         type: files
         layout: cards
         required: true
-        # multiple: false
     alt:
         label: Texte alternatif
         type: text

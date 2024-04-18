@@ -1,0 +1,8 @@
+.news-cover {
+	grid-column: 1/-1;
+}
+
+.text-section-hroup__news-type {
+	margin-bottom: 1rem;
+	font-size: var(--font-size-small);
+}
