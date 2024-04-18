@@ -31,8 +31,12 @@ columns:
                 multiple: false
                 uploads:
                     template: cover
-            date:
-                label: Date de l'évènement
+            date_start:
+                label: Date de début
+                type: date
+                required: true
+            date_end:
+                label: Date de fin
                 type: date
                 required: true
             organizers:
