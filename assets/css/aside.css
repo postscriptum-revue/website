@@ -47,6 +47,11 @@
 
 .site-aside__list {
 	font-size: var(--font-size-small);
+	text-align: center;
+}
+
+.site-aside__list-item:hover {
+	text-decoration: underline;
 }
 
 .about-aside-group {

@@ -12,6 +12,7 @@ return function ($site) {
 			array_push($keywords, $kw);
 		}
 	}
+	sort($keywords)
 
 	$keyword = param('keyword');
 	if (empty($keyword) === false) {
