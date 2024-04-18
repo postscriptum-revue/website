@@ -24,11 +24,6 @@
 				</a>
 			</li>
 			<li>
-				<a class="site-header__nav-list-item" href="/">
-					Créations
-				</a>
-			</li>
-			<li>
 				<a class="site-header__nav-list-item" href="/a-propos">
 					À propos
 				</a>
