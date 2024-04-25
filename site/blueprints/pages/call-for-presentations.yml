@@ -26,7 +26,6 @@ columns:
             cover:
                 label: Image de couverture
                 type: files
-                required: true
                 layout: cards
                 multiple: false
                 uploads:
