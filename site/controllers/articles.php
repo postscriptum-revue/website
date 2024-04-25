@@ -6,7 +6,7 @@ return function () {
 	$authors = [];
 	$keywords = [];
 	$articles = new Pages();
-	$numeros = page("numeros")->children();
+	$numeros = page("numeros")->children()->listed();
 
 	foreach ($numeros as $n) {
 		$n_articles = $n->children()->filterBy("template", "article");
