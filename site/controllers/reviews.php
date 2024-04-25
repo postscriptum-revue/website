@@ -5,7 +5,8 @@ use Kirby\Cms\Pages;
 return function ($site) {
 	$authors = [];
 	$keywords = [];
-	$reviews = $site->index()->filterBy('template', 'review');
+	$reviews = $site->index()
+				 ->filterBy('template', 'review')->listed();
 
 	foreach ($reviews as $review) {
 		foreach ($review->keywords()->split() as $kw) {
