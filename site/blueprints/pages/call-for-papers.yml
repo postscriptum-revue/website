@@ -26,7 +26,6 @@ columns:
             cover:
                 label: Image de couverture
                 type: files
-                required: true
                 layout: cards
                 multiple: false
                 uploads:
@@ -43,7 +42,7 @@ columns:
                 label: Éditeur·rices
                 type: list
                 marks: false
-                nodes: 
+                nodes:
                     - bulletList
                 required: true
             submit_date:

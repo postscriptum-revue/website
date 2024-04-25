@@ -12,7 +12,12 @@
 
 <?php slot("main") ?>
 
-<img class="news-cover" src="<?= $page->cover()->toFile()->url() ?>">
+<?php if ($page->cover()->isNotEmpty()): ?>
+	<img
+		class="news-cover"
+		src="<?= $page->cover()->toFile()->url() ?>"
+	>
+<?php endif ?>
 <section class="text-section">
 	<hgroup class="text-section-hgroup">
 		<p class="text-section-hroup__news-type">
@@ -29,7 +34,7 @@
 </section>
 
 <dl class="issue-credits">
-	<?php if ($page->cover()->toFile()->credit()->isNotEmpty()) : ?>
+	<?php if ($page->cover()->isNotEmpty()) : ?>
 		<dt class="issue-credits__term">Image de couverture</dt>
 		<dd class="issue-credits__description">
 			<?= $page->cover()->toFile()->credit()->smartypants() ?>
