@@ -1,10 +1,11 @@
-.image-block {
+.image-block, .video-block {
 	margin-top: 2rem;
 	display: flex;
 	flex-direction: column;
 }
 
-.image-block + * {
+.image-block + *,
+.video-block + * {
 	margin-top: 2rem;
 }
 

@@ -7,3 +7,4 @@ fieldsets:
     - quote
     - line
     - code
+    - video
