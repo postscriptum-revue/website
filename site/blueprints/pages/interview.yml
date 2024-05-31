@@ -24,4 +24,7 @@ columns:
         width: 1/3
         fields:
             details: fields/article-details
+            date:
+                type: date
+                label: Date de publication
 

@@ -2,4 +2,4 @@ sections:
     reviews:
         type: pages
         label: Comptes-rendus
-        flip: true
+        sortBy: status date desc
