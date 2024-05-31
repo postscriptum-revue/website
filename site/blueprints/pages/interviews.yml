@@ -2,4 +2,4 @@ sections:
     interviews:
         type: pages
         label: Entretiens
-        flip: true
+        sortBy: status date desc

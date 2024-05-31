@@ -22,6 +22,6 @@
 
 <?php slot("main") ?>
 <?php snippet("site/toc", [
-		"toc_pages" => $reviews->sortBy("title", "desc")
+		"toc_pages" => $reviews
 	]) ?>
 <?php endslot() ?>

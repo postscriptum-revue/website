@@ -6,7 +6,9 @@ return function ($site) {
 	$authors = [];
 	$keywords = [];
 	$interviews = $site->index()
-					->filterBy('template', 'interview')->listed();
+					->filterBy('template', 'interview')->listed()
+					->sortBy('date', 'desc');
+
 
 	foreach ($interviews as $interview) {
 		foreach ($interview->keywords()->split() as $kw) {
