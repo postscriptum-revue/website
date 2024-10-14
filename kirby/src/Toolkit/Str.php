@@ -386,10 +386,13 @@ class Str
 		$encoded = '';
 
 		for ($i = 0; $i < static::length($string); $i++) {
-			$char = static::substr($string, $i, 1);
-			$char = mb_convert_encoding($char, 'UCS-4BE', 'UTF-8');
-			list(, $code) = unpack('N', $char);
-			$encoded .= rand(1, 2) === 1 ? '&#' . $code . ';' : '&#x' . dechex($code) . ';';
+			$char     = static::substr($string, $i, 1);
+			$char     = mb_convert_encoding($char, 'UCS-4BE', 'UTF-8');
+			[, $code] = unpack('N', $char);
+			$encoded .= match (random_int(1, 2)) {
+				1 => '&#' . $code . ';',
+				2 => '&#x' . dechex($code) . ';'
+			};
 		}
 
 		return $encoded;
@@ -488,7 +491,16 @@ class Str
 			return $string;
 		}
 
-		return static::substr($string, 0, mb_strrpos(static::substr($string, 0, $chars), ' ')) . $rep;
+		// shorten the string to the specified number of characters,
+		// but make sure to not cut off in the middle of a word
+		$excerpt = static::substr($string, 0, $chars);
+		$cutoff  = mb_strrpos($excerpt, ' ');
+
+		if ($cutoff !== false) {
+			$excerpt = static::substr($string, 0, $cutoff);
+		}
+
+		return $excerpt . $rep;
 	}
 
 	/**
@@ -698,7 +710,7 @@ class Str
 		string $string = null,
 		string $needle,
 		bool $caseInsensitive = false
-	): int|bool {
+	): int|false {
 		if ($needle === '') {
 			throw new InvalidArgumentException('The needle must not be empty');
 		}

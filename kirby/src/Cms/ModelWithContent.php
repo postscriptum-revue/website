@@ -46,7 +46,7 @@ abstract class ModelWithContent implements Identifiable
 	public static App $kirby;
 	protected Site|null $site;
 	protected ContentStorage $storage;
-	public Collection|null $translations;
+	public Collection|null $translations = null;
 
 	/**
 	 * Store values used to initilaize object
@@ -784,10 +784,17 @@ abstract class ModelWithContent implements Identifiable
 			]);
 		}
 
-		$arguments = [static::CLASS_ALIAS => $this, 'values' => $form->data(), 'strings' => $form->strings(), 'languageCode' => $languageCode];
-		return $this->commit('update', $arguments, function ($model, $values, $strings, $languageCode) {
-			return $model->save($strings, $languageCode, true);
-		});
+		return $this->commit(
+			'update',
+			[
+				static::CLASS_ALIAS => $this,
+				'values'            => $form->data(),
+				'strings'           => $form->strings(),
+				'languageCode'      => $languageCode
+			],
+			fn ($model, $values, $strings, $languageCode) =>
+				$model->save($strings, $languageCode, true)
+		);
 	}
 
 	/**

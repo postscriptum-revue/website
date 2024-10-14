@@ -126,16 +126,19 @@
 	"error.form.notSaved": "Form kaydedilemedi",
 
 	"error.language.code": "Lütfen dil için geçerli bir kod girin",
+	"error.language.create.permission": "Bir dil oluşturmanıza izin verilmiyor",
+	"error.language.delete.permission": "Dili silmenize izin verilmiyor",
 	"error.language.duplicate": "Bu dil zaten var",
 	"error.language.name": "Lütfen dil için geçerli bir isim girin",
 	"error.language.notFound": "Dil bulunamadı",
+	"error.language.update.permission": "Dili güncellemenize izin verilmiyor",
 
 	"error.layout.validation.block": "{layoutIndex}. sıradaki düzende \"{fieldset}\" blok türünü kullanan {blockIndex}. bloktaki \"{field}\" alanında bir hata var",
 	"error.layout.validation.settings": "{index}. düzen ayarlarında bir hata var",
 
 	"error.license.domain": "Lisans için alan adı eksik",
 	"error.license.email": "Lütfen geçerli bir e-posta adresi girin",
-	"error.license.format": "Please enter a valid license code",
+	"error.license.format": "Lütfen geçerli bir lisans anahtarı girin",
 	"error.license.verification": "Lisans doğrulanamadı",
 
 	"error.login.totp.confirm.invalid": "Geçersiz kod",
@@ -317,9 +320,16 @@
 	"field.blocks.quote.citation.placeholder": "yazar …",
 	"field.blocks.text.name": "Metin",
 	"field.blocks.text.placeholder": "Metin …",
+	"field.blocks.video.autoplay": "Otomatik oynatma",
 	"field.blocks.video.caption": "Altyazı",
+	"field.blocks.video.controls": "Kontroller",
+	"field.blocks.video.location": "Lokasyon",
+	"field.blocks.video.loop": "Döngü",
+	"field.blocks.video.muted": "Sessiz",
 	"field.blocks.video.name": "Video",
 	"field.blocks.video.placeholder": "Bir video URL'si girin",
+	"field.blocks.video.poster": "Kapak",
+	"field.blocks.video.preload": "Önyükleme",
 	"field.blocks.video.url.label": "Video-URL",
 	"field.blocks.video.url.placeholder": "https://youtube.com/?v=",
 
@@ -379,7 +389,6 @@
 	"installation.issues.mbstring": "<code>MB String</code> eklentisi gerekli",
 	"installation.issues.media": "<code>/media</code> klasörü yok yada yazılamaz",
 	"installation.issues.php": "<code>PHP 8+</code> kullandığınızdan emin olun. ",
-	"installation.issues.server": "Kirby <code>Apache</code>, <code>Nginx</code> veya <code>Caddy</code> gerektirir",
 	"installation.issues.sessions": "<code>/site/sessions</code> klasörü mevcut değil veya yazılabilir değil",
 
 	"language": "Dil",
@@ -425,7 +434,7 @@
 	"license.code.label": "Lütfen lisans kodunu giriniz",
 	"license.status.active.info": "{date} tarihine kadar yeni ana sürümleri içerir",
 	"license.status.active.label": "Geçerli lisans",
-	"license.status.demo.info": "This is a demo installation",
+	"license.status.demo.info": "Bu bir demo kurulumudur",
 	"license.status.demo.label": "Demo",
 	"license.status.inactive.info": "Yeni ana sürümlere güncellemek için lisansı yenileyin",
 	"license.status.inactive.label": "Yeni ana sürüm yok",
@@ -611,6 +620,8 @@
 	"stats.empty": "Rapor yok",
 	"status": "Durum",
 
+	"system.info.copy": "Bilgileri kopyala",
+	"system.info.copied": "Sistem bilgisi kopyalandı",
 	"system.issues.content": "İçerik klasörü açığa çıkmış görünüyor",
 	"system.issues.eol.kirby": "Yüklü Kirby sürümünüz kullanım ömrünün sonuna ulaştı ve daha fazla güvenlik güncellemesi almayacak",
 	"system.issues.eol.plugin": "{ plugin } eklentisinin yüklü sürümü kullanım ömrünün sonuna ulaştı ve daha fazla güvenlik güncellemesi almayacak",

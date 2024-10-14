@@ -106,6 +106,14 @@ trait FileModifications
 	}
 
 	/**
+	 * Sharpens the image
+	 */
+	public function sharpen(int $amount = 50): FileVersion|File|Asset
+	{
+		return $this->thumb(['sharpen' => $amount]);
+	}
+
+	/**
 	 * Create a srcset definition for the given sizes
 	 * Sizes can be defined as a simple array. They can
 	 * also be set up in the config with the thumbs.srcsets option.
@@ -176,7 +184,11 @@ trait FileModifications
 
 		// fallback to content file options
 		if (($options['crop'] ?? false) === true) {
-			$options['crop'] = $this->focus()->value() ?? 'center';
+			if ($this instanceof ModelWithContent === true) {
+				$options['crop'] = $this->focus()->value() ?? 'center';
+			} else {
+				$options['crop'] = 'center';
+			}
 		}
 
 		// fallback to global config options

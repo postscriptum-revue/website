@@ -322,10 +322,15 @@ class Environment
 		}
 
 		// @codeCoverageIgnoreStart
+		$sapi = php_sapi_name();
+		if ($sapi === 'cli') {
+			return true;
+		}
+
 		$term = getenv('TERM');
 
 		if (
-			substr(PHP_SAPI, 0, 3) === 'cgi' &&
+			substr($sapi, 0, 3) === 'cgi' &&
 			$term &&
 			$term !== 'unknown'
 		) {
@@ -597,13 +602,7 @@ class Environment
 	 */
 	protected function detectRequestUri(string|null $requestUri = null): Uri
 	{
-		// make sure the URL parser works properly when there's a
-		// colon in the request URI but the URI is relative
-		if (Url::isAbsolute($requestUri) === false) {
-			$requestUri = 'https://getkirby.com' . $requestUri;
-		}
-
-		$uri = new Uri($requestUri);
+		$uri = new Uri($requestUri ?? '');
 
 		// create the URI object as a combination of base uri parts
 		// and the parts from REQUEST_URI
@@ -750,6 +749,10 @@ class Environment
 		}
 
 		if (Str::endsWith($host, '.test') === true) {
+			return true;
+		}
+
+		if (Str::endsWith($host, '.ddev.site') === true) {
 			return true;
 		}
 
