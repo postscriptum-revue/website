@@ -4,6 +4,14 @@ use Kirby\Cms\Page;
 
 class InterviewPage extends Page
 {
+
+	public function fmt_date()
+	{
+		$formatted_date = parent::date()->toDate("MMMM Y");
+		if (!$formatted_date) return $this->parent()->fmt_date();
+		return ucfirst($formatted_date);
+	}
+
 	public function title_and_subtitle()
 	{
 		$title = parent::title()->smartypants();

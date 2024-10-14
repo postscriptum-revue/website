@@ -13,5 +13,5 @@ foreach ($authors as $i => $author) {
 	<?= $citation_authors ?>.
 	<?= $page->title_and_subtitle() ?>,
 	Post-Scriptum <?= $page->parent()->num() ?>.
-	(<?= $page->parent()->date() ?>).
+	(<?= $page->fmt_date() ?>).
 </p>

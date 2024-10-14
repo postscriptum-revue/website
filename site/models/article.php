@@ -4,6 +4,17 @@ use Kirby\Cms\Page;
 
 class ArticlePage extends Page
 {
+
+	public function date()
+	{
+		return $this->parent()->date();
+	}
+
+	public function fmt_date()
+	{
+		return $this->parent()->fmt_date();
+	}
+
 	public function title_and_subtitle()
 	{
 		$title = parent::title()->smartypants();

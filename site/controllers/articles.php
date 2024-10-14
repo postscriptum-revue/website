@@ -26,7 +26,7 @@ return function () {
 	}
 
 	return [
-		"articles" => $articles,
+		"articles" => $articles->sort("date", "desc"),
 		"authors" => $authors,
 		"keywords" => $keywords
 	];
