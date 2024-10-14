@@ -21,6 +21,7 @@ tabs:
                             - article
                             - interview
                             - review
+                            - creation
             right:
                 width: 1/3
                 fields:
