@@ -103,6 +103,18 @@ abstract class Model
 			return null;
 		}
 
+		// switched off from blueprint,
+		// only if not overwritten by $settings
+		$blueprint = $this->model->blueprint()->image();
+
+		if ($blueprint === false) {
+			if (empty($settings) === true) {
+				return null;
+			}
+
+			$blueprint = null;
+		}
+
 		// skip image thumbnail if option
 		// is explicitly set to show the icon
 		if ($settings === 'icon') {
@@ -116,7 +128,7 @@ abstract class Model
 		$settings = array_merge(
 			$this->imageDefaults(),
 			$settings ?? [],
-			$this->model->blueprint()->image() ?? [],
+			$blueprint ?? [],
 		);
 
 		if ($image = $this->imageSource($settings['query'] ?? null)) {
@@ -323,7 +335,7 @@ abstract class Model
 			'link'     => $this->url(true),
 			'sortable' => true,
 			'text'     => $this->model->toSafeString($params['text'] ?? false),
-			'uuid'     => $this->model->uuid()?->toString() ?? $this->model->id(),
+			'uuid'     => $this->model->uuid()?->toString()
 		];
 	}
 

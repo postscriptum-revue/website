@@ -23,7 +23,11 @@ return [
 				$uploads = [];
 			}
 
-			$uploads['accept'] = '*';
+			$uploads['accept']  = '*';
+
+			if ($preview = $this->image) {
+				$uploads['preview'] = $preview;
+			}
 
 			if ($template = $uploads['template'] ?? null) {
 				// get parent object for upload target
@@ -39,7 +43,7 @@ return [
 					'template' => $template
 				]);
 
-				$uploads['accept'] = $file->blueprint()->acceptMime();
+				$uploads['accept'] = $file->blueprint()->acceptAttribute();
 			}
 
 			return $uploads;
