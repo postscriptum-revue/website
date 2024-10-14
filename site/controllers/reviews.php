@@ -6,8 +6,8 @@ return function ($site) {
 	$authors = [];
 	$keywords = [];
 	$reviews = $site->index()
-				 ->filterBy('template', 'review')->listed()
-				 ->sortBy('date', 'desc');
+		->filterBy('template', 'review')->listed()
+		->sortBy('date', 'desc');
 
 	foreach ($reviews as $review) {
 		foreach ($review->keywords()->split() as $kw) {
