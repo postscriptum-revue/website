@@ -28,6 +28,11 @@
 					À propos
 				</a>
 			</li>
+			<li>
+				<a class="site-header__nav-list-item" href="/creation">
+					Création
+				</a>
+			</li>
 		</ul>
 	</nav>
 </header>
