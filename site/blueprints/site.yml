@@ -45,9 +45,9 @@ columns:
                 limit: 3
                 flip: true
             creations:
-                label: Création
+                label: Créations
                 type: pages
-                parent: site.find("creation")
+                parent: site.find("creations")
                 template: creation
                 limit: 3
                 flip: true
