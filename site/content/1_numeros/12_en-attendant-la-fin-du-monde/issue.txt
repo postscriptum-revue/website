@@ -1,0 +1,69 @@
+Title: En attendant la fin du monde
+
+----
+
+Subtitle: La structure littéraire de l’apocalypse
+
+----
+
+Cover: - file://1mbIk2uAZh0CpwHB
+
+----
+
+Color: rgb(26, 26, 26)
+
+----
+
+Date: 2010-03-01
+
+----
+
+Credit-editors: <ul><li>L'équipe de <em>Post-Scriptum</em></li></ul>
+
+----
+
+Credit-revision: <ul><li>L'équipe de <em>Post-Scriptum</em></li></ul>
+
+----
+
+Credit-webmaster: Laurence Sylvain
+
+----
+
+Intro-text: [{"content":{"text":"<p>La réflexion autour de la notion d’apocalypse a radicalement changé depuis la deuxième guerre mondiale. Les camps de concentration et les bombes atomiques larguées sur Hiroshima et Nagasaki ont conduit l’humanité à une réalisation tout à fait originale ; par le biais de la maîtrise technique, l’être humain apparaissait, pour la première fois, en contrôle de sa propre finitude. Depuis, une masse de nouveaux discours apocalyptiques foisonnent : la fin de l’humanité, la fin de l’histoire, la fin de l’univers, etc. Pourtant, le mot grec <em>Apokálypsis</em> suggère plutôt une levée du voile, une révélation, par laquelle le réel prendrait une signification nouvelle. La transformation du mot, de révélation à finitude, permet d’entrevoir une laïcisation de la conception eschatologique du monde ; sans jugement dernier, l’apocalypse devient un cataclysme, par lequel le monde tel qu’on le connaît prendrait fin. Les deux conceptions de l’apocalypse ont une chose en commun ; leur élaboration se fait par le biais d’une mise en scène, d’une narration littéraire. En effet, que ce soit Jean de Patmos, Albert Einstein, Lovecraft ou <em>Rosemary’s Baby</em>, les tentatives de penser la fin du monde doivent s’élaborer par une mise en image de l’événement, de manière anticipatrice. En effet, il est impossible de penser l’apocalypse au moment où il a lieu ou suite à son avènement ; l’apocalypse se manifeste par une figuration prophétique, ou du moins spéculative. De plus, la nouvelle rhétorique autour de la question de la fin du monde écologique remet en valeur le binarisme entre la notion de vérité et celle de fausseté. Quel rapport existe-t-il entre la révélation, l’eschatologie, la fin et le domaine du littéraire ? Est-ce par son rapport à l’imaginaire que le récit permet la réflexion sur l’après-récit ? Comment opère la mise en scène lorsqu’elle performe sa propre destruction ? Peut-on réellement parler d’une prédiction littéraire ?</p>\r\n<p>Ce numéro est hybride ; il contient des textes provenant de trois sources différentes. C’est qu’il est né d’une coïncidence, qu’on pourrait soit percevoir comme une chance, soit utiliser pour démontrer la popularité contemporaine de la réflexion qui porte sur l’apocalyptique. Mon intérêt pour les paradoxes temporels m’avait déjà amené à réfléchir l’idée d’un « hors-temps » en guise de défi majeur à la représentation. Cet intérêt fût attisé par l’annonce d’un atelier de réflexion ayant pour titre « L’apocalypse perpétuelle ; l’effondrement du savoir et autres cataclysmes » et prenant lieu au département de littérature comparée de l’Université de Montréal. Organisé par Terry Cochran, cet atelier eut lieu en avril 2009. L’enregistrement qui découle de la rencontre est disponible au-delà du premier lien et contient des présentations de Terry Cochran, Frédérique Bernier, Frédérik Detue, Alain Bihan, Angela Cozea et moi-même.</p>\r\n<p>Le corps principal du numéro est composé de quatre textes originaux. Ces articles démontrent la richesse de la notion d’apocalypse. En effet, chacun des contributeurs a choisi une approche différente pour adresser la notion explorée. Marc Atallah passe par la réflexion de Jean-Pierre Dupuy sur l’apocalypse climatique et énergétique pour réfléchir à deux perceptions du temps. Il argumente que la réception du lecteur de certaines œuvres mettant en scène une apocalypse ouvre la voie vers une transformation pratique de la conception du temps. Ainsi, le temps historique et prospectif s’ouvre sur un temps plus réflexif. Éblin Pascal Fobah réfléchit plutôt aux rapports structuraux entre l’apocalypse biblique et les récits de fictions fantastiques. Ainsi, il établit un registre des moyens utilisés par l’auteur du texte apocalyptique pour faire ressentir à son lecteur la peur liée à une humanité menacée de disparition. Juan Ignacio Munoz Zapata fait part d’un schisme existant à même l’idée d’une littérature cyberpunk postcoloniale. Le rapport décalé entre l’imaginaire d’un présent hypermédiatisé et d’un présent national engendre une ouverture nécessaire ; l’apocalypse force le potentiel de l’appareil herméneutique à reconceptualiser la notion de collectif selon des dispositions nouvelles. Toni Pape prend au mot le sujet en étudiant <em>Apocalypse Now</em> en rapport à sa source principale <em>Heart of Darkness</em>. Sa lecture contrastive ouvre vers une théorie du désastre apocalyptique en tant que métaphore adjectivale, applicable autant aux systèmes de valeurs remis en question qu’à l’échec monumental de la politique internationale des États-Unis lors de la guerre du Vietnam.</p>\r\n<p>Finalement, la parution récente du livre <em>L’imaginaire de la fin</em> de Bertrand Gervais ne pouvait être passée sous le silence. Responsable d’un groupe de recherche qui s’est penché sur la question de « l’imaginaire de la fin » de 1997 à 2003, Bertrand Gervais a compilé en un essai ses pensées et ses théories qui traitent de cet imaginaire bien particulier. J’ai donc inclus un lien à mon compte-rendu de cette œuvre, qu’il a gracieusement accepté de me faire parvenir un peu avant sa publication.</p>\r\n<p>J’espère que vous aurez autant de plaisir à parcourir les pages de ce numéro que j’ai eu à les préparer. Le sujet n’est pas toujours joyeux, les propos sont parfois même effrayants, mais une chose est certaine ; pouvoir lire et réfléchir la fin du monde signifie qu’elle n’est pas encore complètement arrivée.</p>"},"id":"e5c5e2e4-824a-4024-a43a-69555f4fe1dc","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: 
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: <ul><li>Benoît Faucher</li></ul>
+
+----
+
+Number: 12
+
+----
+
+Credits: 
+
+----
+
+References: 
+
+----
+
+Uuid: iAqjvOkKdw39Yosw
+
+----
+
+Logo-style-p: 12
+
+----
+
+Logo-style-s: 19

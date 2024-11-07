@@ -1,0 +1,56 @@
+Title: Entretien avec Kevin Lambert
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: Querelle et autres corps dystopiques : Contre-points II
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Cet entretien, mené par l’équipe de la revue <em>Post-Scriptum</em>, s’inscrit dans l’ouverture officialisée de cette revue envers la recherche-création. Les questions qui y sont posées cherchent donc à construire un dialogue engagé avec les auteurices invité.es: provenant d’une lecture plus lente de leurs textes, les questions se veulent aussi sérieuses qu’ouvertes à la déambulation oratoire.</p>"},"id":"ad58c794-1c92-4fb0-ba9d-3f6e9791f4e5","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/cuSFJvubkEc","caption":"Entretien avec Kevin Lambert"},"id":"61a3615e-a720-48b3-8bd7-88196235b19b","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Renato Rodriguez-Lefebvre
+  affiliation: ""
+- 
+  name: Erik Stout
+  affiliation: ""
+
+----
+
+Keywords: 
+
+----
+
+Date: 2020-11-23 19:34:00
+
+----
+
+Uuid: IlNM4fkeQ1VdZAjq
