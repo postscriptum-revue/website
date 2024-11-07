@@ -1,0 +1,144 @@
+Title: À propos
+
+----
+
+About: <p>Qu’est-ce au fond que le <em>post-scriptum</em> ? Un P.S., note ajoutée à la fin d’une lettre, habituellement après la signature, un ajout, comme si, dans le corps même de la lettre, du texte, quelque chose avait été oublié ou plutôt, quelque chose n’y avait pas sa place, et qu’il fallait malgré tout le signaler, l’ajouter… Quelque chose comme un rappel, un message ajouté à la fin, qui ne doit pas être oublié, qui doit se présenter, se montrer, sous le nom de celui qui écrit, qui se rattache à celui-ci, à celle-ci, par l’écriture de deux lettres, P &amp; S. La trace de quelque chose qu’il fallait malgré tout dire, voire même, absolument dire, le plaçant à la fin de l’écrit. Hors-texte et pourtant dans le texte, dès lors qu’il en fait partie, qu’il le termine et qu’étrangement, il s’y taille une place, d’apparence parfois banale, minime et pourtant, significative. L’expression provient du latin <em>postscriptum</em> lui-même, qui vient de <em>postscribere</em>, qui signifie <em>écrire après</em> <em>ou à la suite de</em>. Non seulement la définition du terme lui-même est extrêmement parlante, mais sa fonction aussi, signalée justement par sa définition, dans un cercle de réflexion qui rappelle assurément le cercle de l’écriture, où le début ne se rend jamais à la fin dans une ligne bien droite mais plutôt, toujours dans les circonférences, au sens d’un aller-retour entre le centre et les confins qui l’entourent. Et cet <em>écrire après</em>, formellement où conceptuellement, n’est pas sans rappeler la tâche du littéraire lui-même, celui qui s’intéresse aux textes et les réfléchit dans un mouvement temporel qui est toujours un mouvement de l’après, et dont l’écriture vient elle aussi toujours dans une temporalité <em>d’après </em>la lecture. Celui qui dans les marges de ses lectures écrit des P.S., des notes, celui qui rédige et pense aux textes sous la forme d’un gigantesque post-scriptum, une immense scolie (au sens de note critique) en tant que surgissement de la lecture.</p><p>Non seulement, le post-scriptum, en tant que note venant après, marque l’écriture dans une temporalité qui est celle de l’après la lecture, mais il marque aussi l’importance, pour la revue elle-même, d’une pensée, d’une tradition exégétique, qui façonne depuis des siècles la lecture des textes et leurs commentaires. En ce sens, la revue Post-Scriptum s’inscrit elle-même dans une tradition de lecture qui recourt à « l’art d’expliquer », du latin <em>exegetice, -es</em>, emprunté au grec <em>eksếgêsis</em>, « qui expose en détail ». C’est-à-dire qu’elle se veut un espace où l’exercice du commentaire sur les textes, sur le discours, en tant que mode d’apprentissage, est mis de l’avant. Exercice permettant aux chercheurs de tous cycles et de toutes disciplines confondus de penser les textes et les représentations selon ce qu’ils ont fait surgir en eux, pour reprendre le terme de surgissement utilisé plus tôt. Mais il y a plus aussi, dans ce nom. Car le post-scriptum traverse en quelque sorte les langues, dès lors qu’il continue d’être utilisé à l’intérieur de plusieurs d’entre elles, faisant de ses initiales une sorte de point commun qui marque la revue en tant que revue comparatiste, c’est-à-dire qui pense la littérature non pas de manière universelle, mais plutôt, comme espace de réflexion où peuvent s’ouvrir les frontières, ou, où elles peuvent aussi servir la pensée. Autrement dit, l’intertextualité, par-delà les langues.</p><p>Chaque numéro, toujours fondé par une problématique précisée dans l’appel à contributions, se veut l’ouverture d’un dialogue, à travers l’écriture, sur cette problématique, sans restriction de corpus, ni de méthodologie.  C’est céder la place donc, à partir d’une problématique, aux textes et à leurs commentaires, à l’écriture qui réfléchit les textes. Publiant autant des articles à caractères scientifiques que des textes créatifs, la revue Post-Scriptum se veut un organe de recherche autonome et point d’ancrage intellectuel et communautaire de la vie étudiante du programme de littérature comparée. En ce sens, le fait de ne pas prescrire une méthodologie spécifique permet de faire de Post-Scriptum un lieu de réflexion qui laisse la parole <em>s’écrire</em>, justement, et les textes se dire. Et toujours en ce sens, il s’agit bien d’une revue comparatiste, dès lors que chaque numéro étant créé à partir d’une problématique préalablement fixée, elle permet la lecture des textes en tant que lentilles, c’est-à-dire, à partir desquels il devient possible de penser le mouvement de la pensée littéraire.</p><p>Pensée aussi en tant que lieu actif de la vie étudiante de littérature comparée de l’Université de Montréal, la revue permet la mise en place d’un lieu commun et accessible à tous les étudiants, dont les mandats sont les suivants : <em>appuyer les initiatives étudiantes par le biais d’entrevues et de comptes rendus théoriques ouverts à tous et toutes, en plus d’un colloque annuel et d’au moins deux numéros par année ; pallier l’isolement des chercheures et chercheurs des cycles supérieurs ; coordonner un foyer intellectuel émergent ; offrir une structure à base volontaire de nature ouverte et égalitaire aux membres désirant faire partie du projet</em>. Il importe ici de les préciser, puisqu’une posture intellectuelle est toujours reflétée dans sa pratique. Offrant un lieu de publication et par le fait même, d’échanges, la revue Post-Scriptum permet aux étudiants de prendre part activement à celle-ci, leur donnant l’occasion de lire les textes de leurs collègues et de participer à leur rayonnement. Elle est un lieu de résistance à la solitude qui marque la rédaction du mémoire ou de la thèse. Par la section Entretiens, la revue permet d’entrer en contact avec les chercheurs/penseurs/écrivains à qui elle donne voix d’une manière tout autre que par la lecture de leurs textes, donnant accès à d’autres facettes de ceux-ci. La section Comptes rendus offre quant à elle une plateforme des plus actuelle, puisqu’elle s’intéresse à des textes récemment publiés. Quant au colloque annuel, il crée un espace de rassemblement, à tous les printemps, pour les étudiants et professeurs, permettant des échanges qui ne passent pas exclusivement par l’écrit mais aussi par la parole. Espace lors duquel bien des notes, des P.S., sont sans doute tracés…</p>
+
+----
+
+Contact:
+
+- 
+  address: redaction@post-scriptum.org
+- 
+  address: comptesrendus@post-scriptum.org
+
+----
+
+Team:
+
+- 
+  task: Rédactrice en chef
+  members:
+    - 
+      name: Sarah Labelle
+      occupation: Doctorante en littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Responsable de la révision scientifique
+  members:
+    - 
+      name: Thomas Filteau
+      occupation: >
+        Étudiant à la maîtrise en
+        littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Responsable de la révision linguistique
+  members:
+    - 
+      name: Benoîte Turcotte-Tremblay
+      occupation: Doctorante en littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Responsable des communications
+  members:
+    - 
+      name: Ana Kancepolsky Teichmann
+      occupation: >
+        Étudiante à la maîtrise en
+        littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Responsables des comptes rendus
+  members:
+    - 
+      name: Renato Rodriguez-Lefebvre
+      occupation: Doctorant en littérature comparée
+      affiliation: Université de Montréal
+    - 
+      name: Hugo Satre
+      occupation: Doctorant en littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Responsables des entretiens
+  members:
+    - 
+      name: Jonathan Paquette
+      occupation: Doctorant en littérature comparée
+      affiliation: Université de Montréal
+    - 
+      name: Glenda Ferbeyre Rodriguez
+      occupation: Docorante en littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Responsable de la recherche-création
+  members:
+    - 
+      name: Aglaé Boivin
+      occupation: Doctorante en littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Webmestre
+  members:
+    - 
+      name: Raphael Nunez
+      occupation: ""
+      affiliation: ""
+- 
+  task: Trésorier
+  members:
+    - 
+      name: Samuele Ellena
+      occupation: Doctorant en littérature comparée
+      affiliation: Université de Montréal
+- 
+  task: Comité administratif
+  members:
+    - 
+      name: Manuel Meune
+      occupation: ""
+      affiliation: Université de Montréal
+    - 
+      name: Terry Cochran
+      occupation: ""
+      affiliation: Université de Montréal
+    - 
+      name: Barbara Agnese
+      occupation: ""
+      affiliation: Université de Montréal
+- 
+  task: Comité scientifique
+  members:
+    - 
+      name: Martine Delvaux
+      occupation: ""
+      affiliation: Université du Québec à Montréal
+    - 
+      name: Julie Lavigne
+      occupation: ""
+      affiliation: Université du Québec à Montréal
+    - 
+      name: Catherine Mavrikakis
+      occupation: ""
+      affiliation: Université de Montréal
+    - 
+      name: Livia Monnet
+      occupation: ""
+      affiliation: Université de Montréal
+    - 
+      name: Joubert Satyre
+      occupation: ""
+      affiliation: Université Guelph
+    - 
+      name: Marcello Vitali-Rosati
+      occupation: ""
+      affiliation: Université de Montréal
+
+----
+
+Protocol: <p>Notre revue publie des articles en lien avec une problématique suggérée pour chacun des numéros, de même que des comptes rendus critiques portant sur des publications récentes et des rééditions. Nous acceptons des textes inédits qui font état d’une recherche approfondie et ancrée dans un cadre critique et théorique bien défini. Notre revue étant affiliée au programme de Littérature comparée du département de littératures et de langues du monde de l’Université de Montréal, une approche comparatiste est privilégiée. Il vous est aussi possible de soumettre des propositions d’entretiens, qui seront par la suite réalisés en collaboration avec la personne responsable de cette section au sein de la revue.</p><p>Les chercheur(e)s et étudiant(e)s désirant soumettre un article sont prié(e)s de se conformer au protocole éditorial suivant :</p><p><a href="https://beta.post-scriptum.org/media/Protocole_de_redaction_2024.pdf" target="_blank" title="Protocole de rédaction">Protocole de rédaction</a></p><p><a href="https://beta.post-scriptum.org/media/Guidelines-for-Authors_2020.pdf" target="_blank" title="Guidelines for Authors">Guidelines for authors</a></p><p></p>
+
+----
+
+Uuid: 6Kc6vBhFzoRPbSXc

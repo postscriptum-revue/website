@@ -1,0 +1,56 @@
+Title: Entretien avec Fanie Demeule
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: Discussion sur le mentir-vrai : Contre-points I
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Cet entretien, mené par l’équipe de la revue Post-Scriptum, s’inscrit dans l’ouverture officialisée de cette revue envers la recherche-création. Les questions qui y sont posées cherchent donc à construire un dialogue engagé avec les auteurices invité.es : provenant d’une lecture plus lente de leurs textes, les questions se veulent aussi sérieuses qu’ouvertes à la déambulation oratoire.</p>"},"id":"4a727c9f-c0ff-4ceb-9ebf-dab74fdce49b","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/lkimIpZ9yDM","caption":"Entretien avec Fanie Demeule"},"id":"5a760c84-370e-4bb8-b131-849a60d5dcae","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Renato Rodriguez-Lefebvre
+  affiliation: ""
+- 
+  name: Flora Roussel
+  affiliation: ""
+
+----
+
+Keywords: 
+
+----
+
+Date: 2020-07-17 08:53:16
+
+----
+
+Uuid: zhnbr1bMHTYQEwFy
