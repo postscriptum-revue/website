@@ -1,0 +1,53 @@
+Title: Perturbations
+
+----
+
+Subtitle: De l’art de déjouer la domination gravitationnelle
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Credit-editors: L’équipe de Post-Scriptum
+
+----
+
+Credit-revision: L’équipe de Post-Scriptum
+
+----
+
+Credit-webmaster: L’équipe de Post-Scriptum
+
+----
+
+Intro-text: 
+
+----
+
+Intro-title: 
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: 
+
+----
+
+Uuid: GUrBt6hUNhYpJtFw
+
+----
+
+Logo-style-p: 20
+
+----
+
+Logo-style-s: 05

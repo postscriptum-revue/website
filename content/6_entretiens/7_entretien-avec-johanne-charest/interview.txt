@@ -1,0 +1,53 @@
+Title: Entretien avec Johanne Charest
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: Pierre Perrault, clandestin des lettres classiques : Aveux de recherche IV
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>La revue <em>Post-Scriptum</em> tente de mettre de l'avant la recherche menée en littérature comparée, en offrant aux étudiant.es une occasion de discuter plus longuement de leurs enjeux de recherche.</p>"},"id":"0e3feaa6-c25e-41b6-bbaf-385de143da8a","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https://archive.org/download/pierre-perrault-johanne-charest/Pierre%20Perrault%20Johanne%20Charest.mp3\">﻿﻿</iframe>"},"id":"d3446c03-bfdf-4a4a-a84d-c48c8b0b25c5","isHidden":false,"type":"markdown"}]
+
+----
+
+Bibliography: PERRAULT, Pierre. <em>L'oumigmatique, ou, l'objectif documentaire</em>, Montréal. L'Hexagone, 1995.
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Renato Rodriguez-Lefebvre
+  affiliation: ""
+
+----
+
+Keywords: 
+
+----
+
+Date: 2021-03-09 17:00:00
+
+----
+
+Uuid: sqU6GjtO3suEYFrQ

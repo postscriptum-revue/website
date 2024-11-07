@@ -1,0 +1,53 @@
+Title: La parade sur Karl-Marx-Allee
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: 
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Lefebvre-Faucher, Valérie. <em>Promenade sur Marx</em>. <em>Du côté des héroïnes</em>. Montréal: Éditions du remue-ménage, Collection «micro r-m», 2020.</p>"},"id":"76838544-02d3-4491-a989-2e4e1fc6cf69","isHidden":false,"type":"text"},{"content":{"image":["file://CiHPPgjAy2Kjt7Us"],"alt":"Couverture du livre recensé","caption":""},"id":"efb98606-398a-4181-93e3-cb97286eda46","isHidden":false,"type":"image"},{"content":{"text":"<p>Le 16 juin 1953. De nombreux travailleurs et de nombreuses travailleuses se réunissent au Rosengarten pour protester contre la rigidification des normes du travail proposée par le Parti Socialiste Unifié d’Allemagne. Le mouvement se poursuit ensuite tout au long du grand boulevard. Les grévistes s’insurgent, hurlent, en mènent large. On peut lire aujourd’hui sur une petite plaque commémorative que le soulèvement s’est soldé par 125 morts. Depuis lors, ce boulevard, plus grand que nature, voit chaque année ses pavés battus par les manifestant.e.s du 1er mai. De fait, le boulevard a toujours été conçu pour les parades et les marches, préférablement militaires, jamais pour la circulation quotidienne. Il s’agit de la «Stalinallee», ainsi nommée le 21 décembre 1949. En 1961, lors de la déstalinisation, le nom a ensuite été remplacé par «Karl-Marx-Allee», nom qui encore aujourd’hui ne semble pas faire l’unanimité.</p><p>Je ne me serais jamais pris à imaginer Karl Marx autrement qu’en boulevard. On peut sûrement argumenter longuement et trouver de bonnes raisons de parts et d’autres, pour affirmer que Darwin serait une rue commerçante plutôt qu’une autoroute, ou encore Saint-Simon une piste cyclable plutôt qu’un rail de chemin de fer. Par contre, que Karl Marx soit un boulevard, ça m’a toujours paru indéniable. Un grand boulevard de plus de deux kilomètres où l’on ne trouve aujourd’hui presque plus rien qui ne se tienne pas dans une sublime référence à soi-même, aucune façade ou aucun monument qui ne rappelle, n’imite ou n’insulte la tradition architecturale nationale de l’époque de la RDA. L’histoire se tient là, indéniable et immanquable, la voie royale qui mène au centre. Tout vient s’y brancher, c’est le nerf central. La Karl-Marx-Allee est tout sauf un chemin de passage.</p><p>Je me plais donc à imaginer la caravane de Valérie Lefebvre-Faucher opérant une coupe transversale à travers le terre-plein de la Strausberger Platz, avancer au pas lent de la parade, mais sans les foules et les soldats, puis s’engouffrer ailleurs, quitter le boulevard, jusqu’à ce qu’on la perde de vue. Elle qui s’étonnait face à «ceux qui ne marchent que sur les grands boulevards, qui ne lisent que les majuscules prétentieuses de l’histoire», car «tout le monde sait que pour connaître une ville, il faut en arpenter les ruelles» (Lefebvre-Faucher 2020, 12-13). Comme ce personnage d’un roman de Bolaño, ce pharmacien qui préférait systématiquement <em>La métamorphose</em> au <em>Procès</em>, <em>Bartleby </em>à <em>Moby Dick</em> et ainsi de suite, on ira ici, avec Lefebvre-Faucher, côtoyer ce qui a été laissé en marge – non pas par crainte des hauts pics escarpés de la littérature, comme on l’insinue dans le cas du pharmacien, mais par désir de mieux connaître le terrain en entier, explorer et inaugurer les sentiers, pratiquer les lieux autrement. Et par plaisir de laisser les pics aux spécialistes bien équipés qui possèdent l’attirail qui convient ainsi que deux semaines de vacances pour aller escalader une montagne à l’étranger et s’en faire une cure spirituelle. Car c’est dans ces «chemins broussailleux, là où trainent quelques têtes de statues» (<em>Ibid.,</em> 15) que l’autrice de ce court essai, <em>Promenade sur Marx</em>, petit livre rouge publié en 2020 dans une nouvelle collection des Éditions du remue-ménage, nous fera découvrir – à nous autant qu’aux spécialistes de Marx, à ce qu’il faut croire – les femmes de la famille Marx, dont l’importance a été maintes fois soulignée, mais rarement étudiée.</p><p>On compte certes au moins cinq Jenny-Marx-Strasse en Allemagne (les plus connues sont à Salzwedel et à Trier), toutes de taille relativement modérée. De nombreux marxistes se contenteraient d’imaginer une Jenny-Marx-Strasse ou un Eleanor-Marxweg comme de simples bretelles d’accès, des chemins de passage – vers, par exemple, un boulevard. Jenny von Westphalen a bien eu ce rôle d’accompagnatrice, d’aidante, de traductrice, d’amante. Il s’agit ici de s’exercer à la voir plutôt accompagnée (<em>Ibid</em>.). Mais, dans son cas comme dans d’autres, l’apport intellectuel et artistique de nombreuses femmes a été souvent limité à l’espace domestique, confiné, mais ouvert, du «salon» (<em>Ibid.</em>, 21) et donc de la parole <em>agréable</em>. Puisque cet apport, donc, a pu faire de cet espace un lieu d’expression, la mémoire sociale – de courte durée – s’en trouvait imprégnée, mais la mémoire collective, celle qui baptise les grands boulevards et les petits marchés, n’en faisait et n’en fait que peu de cas[[Pour la distinction entre mémoire sociale et mémoire collective, voir Assmann, 2006.]]. C’est pourquoi Lefebvre-Faucher évoque l’importance des réseaux, des amitiés, des liens et des embranchements, ce qu’elle appelle «le négatif de la littérature: la participation cachée des muses, des secrétaires et des mères» (<em>Ibid</em>., 11). Comme l’autrice l’évoque dans le cas des femmes de lettres canadiennes-françaises du XIXe et du XXe siècle – ce que les travaux de Chantal Savoie, par exemple, pourraient corroborer et étoffer – les œuvres de ces femmes ne sont pas sorties de nulle part, mais ont été favorisées par l’existence de plusieurs réseaux intellectuels et matériels. Réseaux dont l’esthétique masculine a toujours cherché à nier ou à effacer l’existence, une fois l’œuvre lancée, faisant paraitre cette dernière comme un soleil brillant dans un ciel vide.</p><p>La pratique de l’écriture des «chapitres oubliés» (Vergès 2019, 97) de l’histoire comporte par contre toujours ce danger de ne rien changer du tout à l’allure générale du volume dans lequel ils viennent s’insérer. Ils risquent en effet toujours de fantasmer une voix subalterne ou encore d’y perdre «leur puissance de transformation du monde» (<em>Ibid.</em>). Ce qui serait, le vieux Karl en conviendra avec nous, bien dommage, lui qui donnait à la philosophie la tâche de transformer le monde. Et à cet égard, de toute manière, les lions et gargouilles de l’urbanisme paraitront toujours avoir beau jeu face à la chouette de la philosophie. Au contraire, la redécouverte de nombreuses femmes de lettres trouve avantage à s’accompagner d’une réflexion sur la nature de la mémoire collective, et plus précisément sur les conditions matérielles de transmission de la pensée et les mécanismes d’exclusion qui y sont attachés. Il peut s’agir par exemple d’apprendre à lire l’anecdote, ce que Lefebvre-Faucher fait avec brio dans le cas d’une lettre de Jenny-Marx, retravaillée et publiée dans le journal <em>Vorwärts </em>par «Marx et ses copains» (Lefebvre-Faucher 2020, 39). La mise en garde de Vergès doit ainsi nous faire comprendre la nécessité d’inscrire l’histoire des femmes dans un tout aussi vaste projet de transformation du littéraire, de ses institutions, de ses pratiques et de ses supports matériels. Comme la lutte de libération des femmes a historiquement dû cesser d’être conçue comme un «appendice de la <em>lutte générale</em>» (James 1973, 21), l’histoire des femmes gagne également à se voir non pas comme un cours particulier de littérature dans un cursus, mais bien comme une déviation du cursus lui-même, un détournement, un braquage.</p><p>Le court livre de Valérie Lefebvre-Faucher a également le mérite d’évoquer par sa forme même ces transformations des études littéraires et des sciences humaines auxquelles l’histoire des femmes entend inviter. Ce petit livre rouge, qui n’est pas à posséder comme ceux qui possèdent «<em>le petit Karl</em>comme un catalogue d’outils » (Lefebvre-Faucher 2020, 27), prend plutôt la forme d’une promenade, presque de la causerie, rien du ton grave et des grandes pompes propres aux parades et aux grands livres. Car ce n’est pas sur les grands boulevards que les amitiés se nouent, pas là, qu’au final, tout se joue. On le feuillètera aléatoirement avec bénéfice, s’arrêtant aux divers tableaux, images et figures qui le parsèment, autant qu’on gagnera à visiter la section des «lectures suggérées», à la fin du volume. Je laisse à l’autrice le soin de dresser les portraits de Jenny von Westphalen Marx, de «Jennychen» Marx Longuet, de Jenny Laura Marx Lafargue et de Eleanor «Tussy» Marx Aveling, me contentant ici de décrire l’objet que je me suis donné, de faire les quelques remarques qui s’imposaient à moi, puis de quitter cette fenêtre critique d’où j’ai pu espionner la promeneuse avec son chien et les cercles qui se construisent autour.</p>"},"id":"488bd382-be50-40d4-93a8-38201f51d6e4","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: <ul><li>Assmann, Aleida, « Soziales und kollektives Gedächtnis&nbsp;». Conférence prononcée à la Bundeszentrale für politische Bildung, mars 2006. http://www.bpb.de/files/0FW1JZ.pdf (dernière consultation : 25 février 2021)  </li><li>James, Selma. «&nbsp;Introduction à l’édition anglaise&nbsp;». In <em>Le pouvoir des femmes et la subversion sociale</em>, édité par Mariarosa Dalla Costa et Selma James. 13-39. Genève&nbsp;: Librairie Adversaire, 1973.</li><li>Savoie, Chantal. <em>Les femmes de lettres canadiennes-françaises au tournant du XXe siècle</em>. Montréal&nbsp;: Éditions Nota Bene, 2014.  </li><li>Vergès, Françoise. <em>Un féminisme décolonial</em>. Paris&nbsp;: La Fabrique, 2019.  <em>  </em></li></ul>
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Francis Tremblay
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Date: 2021-04-24 09:00:00
+
+----
+
+Uuid: iPlNv971gzkzquEG

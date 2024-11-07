@@ -1,0 +1,53 @@
+Title: Critique de la raison opportuniste
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: <em>On Belief</em> de Slavoj Žižek
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Slavoj ŽIŽEK, <em>On Belief</em>, Londres et New York, Routledge, 2001, 170 p.  </p><p>L’idée maîtresse de cet ouvrage prend ses racines dans un débat ayant eu lieu au mois de mars 2000 entre un rabbin, un prêtre catholique et un baptiste du sud des États-Unis. Alors que le rabbin et le prêtre avancent l’idée que tous les croyants, quelle que soit leur confession, peuvent prétendre au salut de leur âme, le baptiste repousse l’idée d’une unification de toutes les religions et postule que, selon l’Évangile, seuls ceux qui vivent « en Christ » seront réellement sauvés. Ils concluent alors que bon nombre de personnes, fondamentalement bonnes, brûleront en enfer. En somme, conclut Žižek, la bonté n’est qu’une apparence, elle ne correspond pas à la vérité telle qu’elle se trouve enseignée dans l’Évangile. La thèse de Žižek est alors la suivante : aussi cruelle que peut sembler être la position du baptiste, si nous désirons réellement briser l’hégémonie libérale-capitaliste et ressusciter une position authentique et radicale, révolutionnaire, nous devons alors endosser sa version matérialiste. Mais, se demande Žižek, existe-t-il une telle position ?  </p><p>Selon Žižek, l’alternative matérialiste ne se trouve pas, comme certains pourraient le croire, du côté de Marx, car un retour à Marx comporte, selon lui, deux dangers :</p><p></p>"},"id":"2e712dbf-3c90-4c7b-bba1-a2609d67ecfb","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>1) un Marx récupéré par les milieux académiques, les&nbsp;<em>cultural&nbsp;studies</em>, le postmodernisme, et</li></ul>"},"id":"2a9fcdc1-6408-4ed6-8c02-efdc7efba282","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>2) un Marx ayant prévu le fonctionnement du système libéral actuel, et récupéré, quant à lui, par Wall Street.</li></ul>"},"id":"ccd37bba-4089-4a4a-814a-c883641b8289","isHidden":false,"type":"list"},{"content":{"text":"<p></p><p>Ces deux Marx ont en commun le déni de l’engagement politique et ne peuvent donc, selon l’auteur, constituer une référence valable dans notre combat contre le libéralisme. Žižek se tourne plutôt vers Lénine, parce qu’il demeure étranger à Marx et qu’il ne l’a d’ailleurs jamais rencontré. L’avantage que présente Lénine par rapport à Marx est qu’il déplace la théorie de son prédécesseur, comme saint Paul et Lacan déplacent les pensées du Christ et de Freud dans des univers hétérogènes à leur lieu d’origine. Ces déracinements théorétiques font en sorte que les théories originelles puissent être mises en pratique et constituer de véritables interventions politiques. L’avantage pratique d’opérer un retour à Lénine, pour amorcer une critique de notre époque, repose dans le fait que tout comme le politicien conservateur, le léniniste refuse ce que Žižek appelle l’irresponsabilité de la gauche libérale, c’est-à-dire son penchant pour les compromis opportunistes. Ce retour à Lénine permet ainsi de retrouver le moment précis où une pensée se transpose à l’intérieur d’une collectivité sans pour autant se fixer de manière institutionnelle. De cette façon, Žižek veut montrer comment l’on peut initier un réel projet politique, tout en agissant au nom de la vérité refoulée par notre époque. L’auteur compare alors une telle posture critique à la vie des premiers chrétiens à l’égard de l’Empire Romain.  </p><p>Critiquant tout à tour le cyberespace, le gnosticisme et l’ensemble des récupérations occidentales de la spiritualité orientale (bouddhisme, taoïsme), l’auteur démontre que loin de s’opposer de manière farouche et sérieuse au mouvement de globalisation, ces idéologies ne font en fait que remplir le rôle de fétiche de l’idéologie libérale dominante. Pour Žižek, un fétiche nous sert justement à <em>prétendre</em> d’accepter la réalité telle qu’elle se présente à nous. Le bouddhisme à l’occidentale constitue un tel fétiche ; il nous permet, selon lui, de continuer de participer au jeu du capitalisme, tout en conservant l’impression de ne pas en faire partie. Taoïsme, bouddhisme et cyberespace fonctionnent alors comme les suppléments idéaux de la dynamique libérale. Le bouddhisme occidental, par exemple, loin de constituer une solution digne au libéralisme et à la globalisation, n’est en fait qu’une colonisation de l’imaginaire. Pour leur ressembler, argumente l’auteur, il nous faudrait oublier les Tibétains et se recentrer sur nos traditions, car ceux-ci sont d’abord centrés sur eux-mêmes, et le Tibet, dans leur esprit, apparaît comme le centre du monde spirituel. Mais, notre problème, typiquement occidental, est que nous demeurons ex-centrés et croyons que la sagesse perdue de l’Occident pourrait être retrouvée à l’Est. Le colonialisme que dénonce Žižek est cette recherche de l’innocence spirituelle perdue, déjà amorcée par la Grèce antique à l’égard de l’Égypte. C’est donc, du point de vue psychanalytique, à la fascination maladive pour l’autre des Occidentaux que l’auteur s’en prend. Cette obsession qui ne laisse rien tranquille, ni les autres cultures, ni la nature, qui récupère tout, et qui détruit tout. La fascination la plus répandue, d’abord, qui consiste en la simple haine de l’autre et, ensuite, celle du multiculturalisme soi-disant tolérant et qui entretient le désir secret que l’autre demeure autre, que l’exotique, qui nous amuse tant, demeure exotique ; bref, que le manège continue de nous délasser. Dans une pointe d’ironie, l’auteur dira d’ailleurs que le bouddhisme, avec son penchant pour la méditation, nous permet de demeurer sain dans un monde de fou, sans pour autant offrir les instruments qui pourraient remettre en question cette folie, puisque les Occidentaux qui pratiquent cette sagesse profitent en général très bien du système capitaliste. Le bouddhiste tibétain fonctionne tout à fait à l’inverse de ce système de colonisation : il demeure centré sur sa culture et sur son être, sans éprouver ni horreur, ni envie à l’égard des autres cultures. Le fétiche fonctionne donc à l’inverse du symptôme ; au lieu de laisser apparaître un dérangement, il incorpore le mensonge qui nous permet de supporter le réel. L’auteur comprend ces fétiches comme autant de compromis opportunistes fondés sur des intérêts bien cachés.  </p><p>Au centre de l’argument de Žižek se trouve une critique de la valeur centrale de l’idéologie libérale, soit la liberté de choix. Liberté, dit-il, que l’on nous vend tous les jours, en prenant le soin de nous expliquer que le démantèlement de l’État Providence constitue une opportunité d’exercer de manière plus accrue cette liberté ; changer d’emploi tous les ans, par exemple, compter sur des contrats à court terme, sont autant de possibilités, nous disent les idéologues libéraux, de se réinventer une carrière à tout moment et de réaliser des potentiels inconnus de notre personnalité. Or, l’auteur oppose à cette acception psychologique de la liberté, une liberté « formelle » et « actuelle ». Ce terme, qu’il emprunte à Lénine, Žižek le comprend à la lumière de la notion kierkegaardienne de suspension religieuse de l’éthique. Elle est la seule qui puisse consister en une véritable alternative concrètement révolutionnaire et résister aux divers compromis imaginés par l’idéologie libérale, et surtout par les récupérations « colonialisantes » des spiritualités orientales. Ce que Lénine entend par liberté formelle consiste en fait en une liberté en vue de l’accomplissement de la révolution et rien d’autre. Le révolutionnaire léniniste n’accepte aucune règle morale <em>a priori</em> indépendamment de la lutte révolutionnaire. Žižek explique que cette forme de liberté est en fait la version révolutionnaire (pratique et politique) de la suspension religieuse de l’éthique. Cette suspension implique le rejet de tout compromis par rapport à ses idéaux ; ainsi, rien ne peut s’interposer entre le croyant et son Dieu, sans constituer une trahison de celui-ci. De ce point de vue, les normes morales doivent rejoindre la foi du croyant, et non le contraire. Comme, d’un point de vue laïque, l’idéal que l’on adopte doit déterminer notre attitude morale et éthique. Žižek résume cette position en une formule toute lapidaire : la suspension religieuse de l’éthique constitue le seul engagement éthique inconditionnel véritable. Lénine et Kierkegaard, la révolution et la foi des premiers chrétiens, comme remède à la lâcheté...</p>"},"id":"4e96a271-e0e9-4b40-ad6c-6525e27f3895","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Morgan GAULIN
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Date: 2003-07-01 11:44:08
+
+----
+
+Uuid: DvFUf55DeooAhBTi

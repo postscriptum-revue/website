@@ -1,0 +1,53 @@
+Title: Visions de l’inépuisable
+
+----
+
+Subtitle: 
+
+----
+
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+Text: [{"content":{"url":"https://youtube.com/watch?v=Tecc61MC79o","caption":""},"id":"3d82dfd9-6bc9-4439-b870-136dc1ce8ee2","isHidden":false,"type":"video"},{"content":{"text":"<p><br> <em>Discussion</em></p>"},"id":"da1edce5-05a6-497f-a36e-632809b556e4","isHidden":false,"type":"text"},{"content":{"url":"https://youtube.com/watch?v=bR-cCvLdgNM","caption":""},"id":"b1ba0d5a-ed21-4628-a63c-2321ca5b3d9f","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Authors:
+
+- 
+  name: Frédérique Bernier
+  affiliation: Université Harvard
+
+----
+
+Keywords: 
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+References: -
+
+----
+
+Number: 3
+
+----
+
+Uuid: BLETy3lZM0svDPmr

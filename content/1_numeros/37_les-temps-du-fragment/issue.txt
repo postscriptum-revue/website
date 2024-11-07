@@ -1,0 +1,57 @@
+Title: Les temps du fragment
+
+----
+
+Subtitle: Pratiques d'écriture, chantiers de pensée, gestes de résistance
+
+----
+
+Cover: - file://v8jGiWdOzWTiZ0WR
+
+----
+
+Date: 2024-05-13
+
+----
+
+Credit-editors: <ul><li>Benoîte Turcotte-Tremblay</li><li>Sarah Labelle</li></ul>
+
+----
+
+Credit-revision: L’équipe de Post-Scriptum
+
+----
+
+Credit-webmaster: <ul><li>Raphael Nunez</li></ul>
+
+----
+
+Intro-text: [{"content":{"text":"<p>Lorsqu’on cherche à y distinguer une catégorie littéraire identifiable et rassurante dans sa façon de circonscrire le réel, le « fragment » semble s’effriter, s’écoulant furtivement entre les doigts de qui s’en saisit. Quelle spécificité ce terme recèle-t-il, si ce n’est une insistance sur la fragilité, la fugacité et le morcellement qui s’y trouvent sous-entendus? Peut-être ne doit-on pas chercher cette singularité dans la forme ou le genre, mais plutôt dans le <em>geste</em> littéraire qui creuse sous la laque opaque des paysages. Ou derrière le tissu vaporeux du langage : « There seem to be veils upon veils upon veils here. Where is the original surface ? » (Carson, 2016).</p><p>Ce mouvement, celui du surgissement et de l’inscription de la pensée, laisse des traces, ici dans les rythmes hachurés d’un essai, là dans les longues phrases tourbillonnantes des poètes. D’un désordonnement, d’une ligne brisée faite de sauts et de points d’orgue naissent les germes de pensées plurielles, d’imaginaires à déployer. Ainsi, ce numéro de <em>Post-Scriptum </em>se veut une occasion de réfléchir aux multiples temps du fragment, en portant attention, précisément, à ces traces de la pensée qui se cherche, traces de l’écriture qui avance, ou encore du réel que l’on découpe peu à peu pour en révéler les obscurités ou les saillies.</p><p>La tâche de la traductrice, celle du poète, du diariste ou de l’écrivaine se rejoignent dans cette attention et ce cisèlement inlassable. Si on l’associe davantage à la sculpture, le geste de tailler, d’alléger la matière pour ne laisser parfois que le noyau, l’ossature fine, est à la base de la démarche créative. « The etymologist makes cuts that show Being as it floats inside things and how it floats and how can it » (<em>Ibid</em>.).</p><p>Envisager la littérature et la création en scrutant ces fragments, croyons-nous, permettrait de rester attentif·ve·s aux empreintes, expressions de la pensée, traces des écritures qui se forment, des trajectoires qui invitent à marcher dans l’à-côté des choses, l’espace d’une seconde. Puis, à recommencer.</p>"},"id":"55ebf92d-3588-4be3-b936-3ec7e81e5a53","isHidden":false,"type":"text"},{"content":[],"id":"dfb36024-6f4d-4285-aa19-3044de2e1de5","isHidden":false,"type":"line"},{"content":{"text":"<p>Ce numéro comprend les actes du colloque de <em>Post-Scriptum</em> tenu à l’Université de Montréal les 27 et 28 avril 2023, incluant la discussion de clôture avec Philippe Néméh-Nombré, ainsi qu’un entretien réalisé dans la foulée de l’événement avec la poète Tania Langlais.</p><p>Comme premier article, Justin Leduc-Frenette propose un essai rêveur et empreint de fascination, qui traverse les journaux, liasses et manuscrits de Kafka, morceaux innombrables de son œuvre, et interroge leur matérialité et les circonstances de leur production. Il fait de son écriture plurielle et errante l’une des origines de notre obsession fragmentaire moderne. On y discerne Kafka comme résistant aux hégémonies par la fragmentation et plongeant sans relâche dans la contradiction fondamentale de l’existence.</p><p>Se frayant un chemin au sein des <em>Scénarios non réalisés</em> de Michelangelo Antonioni, Pauline Sarrazy cherche à définir le fragment scénaristique à partir de sa puissance poétique. Elle souligne la fonction imaginative et évocatrice de ces morceaux de film irréalisés, qui enrichissent un scénario autrement conçu comme uniquement prescriptif. Ce faisant, l’autrice souligne la forme artistique singulière et légitime que constituent ces scénarios non réalisés et ces fragments d’inspiration saisie au vol.</p><p>Robert Séguin déploie pour sa part l’idée d’une écriture <em>in situ</em> – par essence fragmentaire – mettant à profit un « oubli positif », égarement qui rend possible une expérience singulière du lieu. Insistant sur la matérialité du fragment en évoquant notamment le geste de collecte, d’échantillonnage, Séguin dévoile les contours de ce qu’iel appelle une éthique documentaire.</p><p>Edwige Medioni réfléchit quant à elle au fragment dans <em>Le livre des questions </em>comme renouvellement de la parole, comme exil fécond. Elle conçoit l’œuvre d’Edmond Jabès comme un mouvement de dialogue : avec la tradition, avec le désert et les voix exilées, ou dialogue entre les voix du livre et leurs tonalités. Elle met en lumière la façon dont le mouvement dialogal, qui constitue le tissu du texte et fait écho à la tradition midrashique, bâtit une écriture du refus de l’oubli.</p><p>Prenant pour point de départ le diagnostic de schizophrénie de son auteur, le texte qui suit puise tout autant dans l’intime que dans la philosophie deleuzienne. Laurent McDuff y théorise et narre son rapport au langage, cette lutte avec l’altérité, l’artificialité. Il y met en scène une suite de tentatives poétiques de « saisir la fragmentation en acte » telle qu’elle affecte les questions de rapport au corps, d’identité et de vertige du langage.</p><p>Dans l’article suivant, Juliette Grondin illumine la notion de fragmentation qui, dans la littérature du trauma, détient un double potentiel de représentation : celle de « l’éclatement traumatique » comme de la reconstruction progressive qui peut suivre. S’appuyant sur le roman <em>Aquarium</em> de l’écrivain américain David Vann ainsi que sur un savoir clinique, l’autrice insiste autant sur le trauma et sa douleur que sur la créativité libératrice qui peut cohabiter avec la fragmentation.</p><p>Dans une langue érudite et vivante, Ami Xherro propose enfin un texte poétique qui interroge l’idée même de poème, son essence, le commencement à partir duquel il nous convainc. Trébuchant sur des questions qui deviennent leitmotivs, attentive aux sonorités, l’autrice fragmente sa pensée, y injecte les mots des autres pour en faire un matériau hybride qui s’autothéorise, tout en acceptant aussi le vide, le sens qui ne vient pas, ne colle pas.</p><p>Pour clore le numéro, deux entretiens ouvrent l’horizon vers la sociologie, les solidarités noires et autochtones, la création et l’affect, effleurant là encore les possibilités de résistance et les imaginaires nouveaux que fait poindre le fragment.</p><p>Philippe Néméh-Nombré discute avec Renato Rodriguez-Lefebvre de son essai <em>Seize temps noirs pour apprendre à dire kuei</em>, des hommages aux penseur·euse·s qui précèdent et des luttes à venir. Suivant un itinéraire allant des recherches sociologiques à une poétique du feu, ils s’entretiennent des possibles littéraires et décoloniaux, de la nécessité de s’extraire du récit de la violence, de l’improvisation à venir.</p><p>Notre conversation avec Tania Langlais autour de <em>Pendant que Perceval tombait </em>est quant à elle bercée par l’inlassable recommencement des vagues, motif qui, confie la poète, l’habite profondément. Elle nous parle de son rythme imprévisible d’écriture et de la nécessité et du danger de la création, nous offrant presque à feuilleter son carnet Moleskine rempli de fragments et avouant en riant sa peur assumée de la table de travail.</p><p>Le colloque du printemps 2023 ayant été l’occasion de nous entretenir avec l’autrice et illustratrice Julie Delporte sur son processus créateur, nous avons souhaité souligner sa contribution précieuse à notre réflexion en lui proposant de réaliser l’image de couverture qui orne ce numéro, inspirée des sessions de travail de <em>Corps vivante</em>, son dernier roman graphique. Cette illustration évoque la collecte d’objets épars à marée basse, de même qu’un souci de les étudier dans leurs infimes lignes et textures, et clôt donc parfaitement cette réflexion sur le fragment, ses matières et ses empreintes.</p>"},"id":"0edb1b04-f9c7-450b-b30c-b27a0d09d1dc","isHidden":false,"type":"text"},{"content":[],"id":"148b2246-6ac6-4f32-8b79-cb0314eb48a6","isHidden":false,"type":"line"},{"content":{"text":"<p><strong>Bibliographie</strong></p><p>Carson, Anne. « Cassandra Float Can » dans <em>Float. </em>Toronto : McClelland &amp; Stewart, 2016.</p>"},"id":"ab24135b-35b6-4e75-ba77-71810dd4c3f1","isHidden":false,"type":"text"}]
+
+----
+
+Intro-title: Découper le réel en tranches fines
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-authors: <ul><li>Benoîte Turcotte-Tremblay</li><li>Sarah Labelle</li></ul>
+
+----
+
+Uuid: AjKnbm4OfUszQBbN
+
+----
+
+Logo-style-p: 18
+
+----
+
+Logo-style-s: 11
+
+----
+
+Color: rgb(178, 96, 127)

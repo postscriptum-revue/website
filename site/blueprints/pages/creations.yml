@@ -1,5 +1,5 @@
 sections:
     creations:
         type: pages
-        label: Création
+        label: Créations
         sortBy: status date desc

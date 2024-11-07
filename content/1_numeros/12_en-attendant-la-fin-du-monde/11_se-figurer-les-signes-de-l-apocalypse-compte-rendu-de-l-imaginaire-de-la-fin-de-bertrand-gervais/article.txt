@@ -1,0 +1,65 @@
+Title: Se figurer les signes de l’apocalypse
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: Se figurer les signes de l’apocalypse
+
+----
+
+Subtitle: Compte rendu de <em>L’imaginaire de la fin</em> de Bertrand Gervais
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>GERVAIS, Bertrand, <em>L</em>’<em>imaginaire de la fin, Logiques de l’imaginaire Tome III</em>, Montréal, Le Quartanier, 2009, 233 p.</p>"},"id":"76b12409-07d3-404c-9fab-ab0eaec67c43","isHidden":false,"type":"text"},{"content":{"image":["file://6rmaRodeP1HkfKpC"],"alt":"Couverture du livre","caption":""},"id":"2b89a47b-ece9-4342-942a-3633c4545074","isHidden":false,"type":"image"},{"content":{"text":"<p><br></p> <p>Regarder l’abîme qui regarde en nous. Voilà la tâche de celui qui ose penser la fin. Cette fin aussi proche qu’on l’appréhende, aussi loin qu’on l’espère, confirme son évanescence dès que l’on tente de la figer en pensée. Avec <em>L</em>’<em>imaginaire de la fin,</em> Bertrand Gervais s’attaque à cette limite d’entre toutes les limites, concept fuyant par excellence. Lors d’une rencontre récente, il m’a avoué ne s’intéresser qu’aux figures qui échappent à l’entendement, qui persistent à résister. Il mettait alors les touches finales sur cet essai, paru depuis aux éditions Le Quartanier. L’épuisement, un des signes identifiés dans ce texte comme étant précurseurs de la fin, ne se fait pas sentir chez Gervais, qui persiste à sonder les recoins les moins accessibles de la pensée dans son œuvre variée, prenant une forme parfois fictive, parfois hypertextuelle, et parfois, comme dans ce cas, théorique.</p> <p>On pourrait croire, à lire la mention « Tome III » en fin de titre que cet essai arrive à la suite d’une architecture conceptuelle complexe et que les secrets qu’il contient ne pourraient être dévoilées qu’aux lecteurs initiés aux logiques préalablement établies. Or ce n’est pas le cas ; le lecteur qui cherche à comprendre les stratégies offertes par l’étude littéraire pour réfléchir à l’horizon obscur de la pensée trouvera ici une série de nœuds qui, en se dénouant, offrent des fils d’Ariane potentiels frôlant le gouffre de l’imaginaire de la fin. J’insiste sur l’usage du pluriel lorsque je parle de stratégies, car à plusieurs logiques répondent plusieurs approches. C’est d’ailleurs pourquoi les tomes précédents de la série <em>Logiques de l</em>’<em>imaginaire</em> restent complémentaires sans nécessairement s’inscrire dans une configuration sérielle de « suites » ; cette collection s’offre comme un buffet d’idées, comme une boîte à outils conceptuels. Malgré un travail d’agencement certain et une cohérence interne manifeste, il y a une polysémie intrinsèque à l’œuvre de Gervais, une multiplicité de fils conducteurs qui se tressent pour former, au-delà d’une direction générale, des segments effrangés qui offrent de nouvelles voies à suivre. Ainsi on peut dire que le travail des <em>Logiques de l</em>’<em>imaginaire</em> est fertile et offre une pléthore de directions potentielles et de ramifications sans fins. Car quoiqu’il soit difficile de penser à l’imaginaire de la fin, il est carrément impossible de trouver fin à l’imaginaire.</p> <p>Si avec <em>La ligne brisée,</em> tome précédant celui-ci, Gervais posait « l’oubli comme modalité de l’agir » (Gevais, 2009 : 7), ici il structure un événement toujours à venir à l’aide de figures en attente, lorsqu’elle ne sont pas carrément absentes. C’est que, comme la fin, inclusive de nature, annihile l’observateur du spectacle qu’elle offre, que ce soit un monstre marin à sept têtes ou un champignon atomique, elle doit toujours être représentée à l’aide de moyens négatifs ou limitrophes. Elle n’est invoquée qu’à la condition qu’elle ne soit pas encore arrivée. Suivant trois principes conducteurs, le temps, la loi et le sens, <em>L</em>’<em>imaginaire de la fin</em> est d’abord et avant tout un témoignage de la force indéniable du geste littéraire qui constitue des figures nous permettant de penser ce qui ne sera jamais simultané à sa propre conceptualisation. Ces figures, que ce soit le terroriste, le clone, le serpent ou le livre mangé, agissent comme des personnages qui peuplent une pensée évitant sa propre actualisation, sous peine de s’autodétruire. C’est également le cas lorsque la mort, inévitable consœur de l’apocalypse, est adressée, par le biais du <em>Bardo Thödol.</em> Mais plutôt que de faire d’elle une protagoniste parmi les autres, Gervais démontre comment le <em>Livre des morts tibétains,</em> invention occidentale de par son titre et sa longue tradition de récupération, devient « un espace intercalaire, ayant une durée et une densité » permettant ainsi « des processus de fictionnalisation et de mise en intrigue » (139). Ainsi, la mort comme passage du bouddhisme devient un dispositif littéraire lors de sa recontextualisation en Occident.</p> <p>Au-delà de l’écologie des figures, l’imaginaire associé à la fin est également le moteur de perturbations qui s’affichent sur le plan du langage et sur celui des signes. Le fait que Gervais soit sémiologue de formation n’étonnera personne ; son regard témoigne d’une facilité à parcourir l’économie sémantique. Une idée qui sert de trame de fond à plusieurs développements du livre est que la fin se manifeste dans une multiplication des signes et une désintégration du langage. Comme si l’imaginaire de la fin compensait pour son sujet fuyant par une prolifération de référents et une opacité d’expression. Par le biais d’exemples, issus de livres aussi variés que <em>Le Petit Kötchel</em> de Normand Chaurette, <em>Génération X</em> de Douglas Coupland et <em>Outremonde</em> de Don Delillo, le lecteur comprend que la procession d’éléments hétéroclites qu’on retrouve dans l’apocalypse de Jean est reflétée dans les récits de fins contemporaines. De la même façon, une comparaison proposée entre l’ultime livre de la bible, <em>Cité de verre</em> de Paul Auster et <em>La petite fille qui aimait trop les allumettes</em> de Gaétan Soucy, démontre que l’imaginaire de la fin s’exprime avec une langue devenant graduellement corrompue, illisible, ou pervertie.</p> <p>D’ailleurs, le chapitre III du livre, qui porte sur <em>Cité de verre,</em> est une petite merveille d’interprétation. Je me rappelle avoir lu le livre d’Auster avec le sentiment que quelque chose d’important se passait en arrière-plan et que les secrets contenus entre ces deux couvertures pourraient se dévoiler à un lecteur qui saurait creuser sa structure de palimpseste. Au-delà de la découverte d’un secret ou d’une vérité quelconque, l’analyse de Gervais puise source dans cette fascination du caché, mais clarifie le vaste réseau de sens au sein du livre. Étrangement, c’est grâce à cet éclaircissement que le lecteur est amené à voir que la langue du récit est graduellement remise en cause, désynchronisée, brouillée. Voilà un paradoxe propre au langage ; la prose précise de Gervais permet de décrire un imaginaire de la fin qui bouleverse le lien entre verbe et sens.</p>"},"id":"10739dfc-4527-4353-ab82-d324f999c155","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Benoît Faucher
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+References: -
+
+----
+
+Number: 11
+
+----
+
+Uuid: 4o2as8EdOFlgyNwf
