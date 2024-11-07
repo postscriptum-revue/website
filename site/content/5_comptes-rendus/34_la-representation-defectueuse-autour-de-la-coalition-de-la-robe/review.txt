@@ -1,0 +1,53 @@
+Title: La représentation défectueuse
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: Autour de <em>La Coalition de la robe</em>
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>GARNEAU, Marie-Claude, MILOT, Marie-Ève et Marie-Claude ST-LAURENT. <em>La Coalition de la robe</em> , Montréal, Éditions du remue-ménage, 2017.</p>"},"id":"746c00cf-64ee-4c40-8801-879ddabb9c51","isHidden":false,"type":"text"},{"content":{"image":["file://VPKK2KM4L2smgZjB"],"alt":"Couverture de La coalition de la robe","caption":""},"id":"900262de-362e-49e8-af1a-7c6f91e71a45","isHidden":false,"type":"image"},{"content":{"text":"<p>La représentativité, comme catégorie, oblige à se taire celles et ceux qui penseraient encore que le politique et l’art n’auraient rien de commun. La plus récente et longue polémique dont cette catégorie a été l’objet explicite remarquablement l’impossibilité pour tout art narratif, et à fortiori l’art théâtral, d’échapper aux appels de l’éthique. Maintenant que semble s’être calmée cette crise de la représentation, il convient de se préparer pour en affronter les retours : à cet effet, la lecture de <em>La</em>   <em>Coalition de la Robe</em> , paru il y a un peu plus d’un an, s’avère un exercice aussi nécessaire qu’agréable. Derrière et dans l’ouvrage, on rencontre trois autrices, engagées de différentes manières dans le monde théâtral : soit en l’étudiant au doctorat comme le fait Marie-Claude Garneau, soit encore en le pratiquant, ainsi que le font Marie-Ève Milot et Marie-Claude St-Laurent, lesquelles dirigent le Théâtre de l’Affamée. Document protéiforme, ainsi que l’annonce son sous-titre, qui renouvelle ses arguments au fur et à mesure que la trame narrative développe et rend compte d’une expérience de la « déséducation », c’est-à-dire d’une expérience qui refond et secoue les acquis d’une formation classique en jeu d’acteur. On pourrait littéralement extraire des zines du livre, et à son contenu narratif s’ajoutent de nombreuses archives touchant les efforts de la Coalition, efforts qui traversent, mais ne s’arrêtent pas au monde du théâtre. Les interactions directes ou indirectes avec la Coalition de la robe, entité anonyme, rythment cette nouvelle éducation à laquelle les autrices sont confrontées. Ainsi, que la Coalition de la robe prenne la forme d’un tract initialement énigmatique, d’une intervention à même le pont Jacques-Cartier en solidarité avec le mouvement <em>Agression Non Dénoncée </em> d’automne 2014, ou d’un coup d’éclair en pleine représentation théâtrale, où l’on invisibilisait les 14 femmes tuées à la Polytechnique au profit du seul tueur, elle demeure, à travers ses métamorphoses, une source d’amitié et de mobilisation complète pour les narratrices.  </p><p>On suit, conséquemment, les premiers côtoiements, timides ou réservés, des réflexions féministes puis une affirmation presque festive de la nécessité de celles-ci.</p>"},"id":"c4cdfb36-8887-491a-99b0-8a13ff350d84","isHidden":false,"type":"text"},{"content":{"text":"En fait, je me questionnais beaucoup sur les raisons qui nous poussent, qui font qu’on devient féministe. Qu’on choisit de s’identifier comme féministe. […] Pourquoi ne pas commencer par se poser cette fameuse question : comment je suis devenue féministe?","citation":"(37)"},"id":"c030c437-450a-4bfb-8b0a-36440fac1a27","isHidden":false,"type":"quote"},{"content":{"text":"<p>La question, installée, ne prétend en rien épuiser l’immense histoire qu’elle résume. Au contraire, le ton même prouve que la lutte est accessible, c’est-à-dire qu’elle ne doit pas être l’exercice d’une quelconque élite, féministe ou autre. L’excursion à travers quelques fragments de vie retrace sommairement la genèse de cette adhésion à la lutte : genèse qui, si elle mobilise le vécu familial, prend à cœur de montrer la systématicité des silences et oppressions vécues. Ces souvenirs, de toute évidence, portent en eux les échos de plusieurs autres générations de luttes, de malaises, de possibilités écrasées, auxquels les autrices demeurent sensibles. Dès lors, leur intérêt pour la Coalition n’est que plus clair encore, celle-ci se déplaçant à la manière d’un long et vaste cri de résistance dont il faudra cartographier les résonances. À cet effort de souvenir, les éloquentes illustrations de Marie Chénier participent en orientant l’imaginaire du texte, sans jouer le rôle tertiaire d’un ornement visuel.</p>"},"id":"bb2ee1ed-34e4-4028-ab43-e20892e3e8b2","isHidden":false,"type":"text"},{"content":{"text":"Aller vers elle, même si elle nous semble encore insaisissable. Nous n’espérons plus seulement qu’elle se manifeste, nous l’appelons. Nous parlons d’elle. Et plus nous parlons d’elle, plus nous trouvons des traces. Plus nous trouvons des traces, plus le « À quoi rêvons-nous? » qui nous habite depuis si longtemps s’étoffe, et s’étend.","citation":"(57-58)"},"id":"04900647-9dd2-4773-b426-791c85ada423","isHidden":false,"type":"quote"},{"content":{"text":"<p>La Coalition joue le rôle d’une matrice, en même temps qu’elle permet aux autrices d’approfondir leur propre devenir féministe, installe la légende d’un art contestataire à (re)venir. Qui lit l’ouvrage est à son tour aspiré.e par le mystère initial de cette Coalition, créature féministe-théâtrale-militante dont les formes d’apparitions toujours renouvelées empêchent le militantisme de basculer dans la plate rhétorique. Il y aurait d’ailleurs, je le note à titre de possibilités de pensées, un déplacement de mots à effectuer en ce qui concerne l’être-ensemble, le terme de communauté, pour le moins mobilisé en philosophie française, pouvant chômer pendant que le mot de coalition esquisse une autre relation.  </p><p>Rien ne se disperse, pourtant les voix qui s’enchaînent et se succèdent semblent obéir à la plus stricte urgence de retrouver une légitimité féministe à un art qui, comme d’autres, se limiterait à s’ornementer de valeurs engagées. Le féminisme, comme d’autres luttes, ne peut être réduit à une thématique; il importe de l’envisager comme un processus, ce dans quoi la création baigne et l’entoure en même temps. Tantôt un manuel de féminisme (en comprenant que l’ouvrage porte le terme de <em>manuel</em> à un degré d’intérêt qui l’empêche de céder aux dogmes auquel un tel terme serait associé), tantôt une confession de colère et d’admiration, la <em>Coalition de la robe</em> , quoiqu’elle use de statistiques éloquentes sur les inégalités sexistes du monde théâtral, ne saurait toutefois être réduite à un déploiement de bons chiffres entourés de sensibilité. Et c’est pourquoi d’ailleurs, qu’on le (re)lise aujourd’hui ou dans les prochaines années, sa contribution au débat ne saurait être éteinte par une hypothétique parité. On espère qu’il demeure dans la mémoire comme le signal de perturbations artistiques à venir.  </p><p>« Ces femmes qui osent, qui se risquent à critiquer le milieu théâtral, ne sont pas contre, mais avec et pour » (103). Une telle déclaration résume efficacement, à la gueule d’un argumentaire de l’autopersécution que pratiquent habilement certains contemporains, l’une des préoccupations vitales du livre, préoccupation qui annulerait les accusations d’égoïsme ou de ghettoïsation dont les luttes émancipatrices font les frais. Les autrices y insistent, que cette critique faite à l’égard <em>du </em> théâtre provient d’un rêve d’un <em>autre</em> théâtre : ce serait par amour envers les possibilités théâtrales qu’on en dénoncerait les lacunes présentes. Une telle déclaration, concernant cet art-ci, est aisément déployée quant aux nombreuses autres traditions artistiques et littéraires dont les passés militants sont régulièrement refoulés. Il semblerait qu’il soit nécessaire, comme le font les autrices, de prolonger ces critiques pour garder tout art narratif à l’abri de ses propres oublis. Quoiqu’il soit capital d’analyser les manières avec lesquelles ces arts enterrent leur prétention critique — analyse qui nécessiterait, ailleurs, son élaboration —, le livre rend à l’acte d’interpréter et d’agir une certaine « innocence », on entend ici une accessibilité que la pensée peut parfois étrangler à force de conceptualisation. Les autrices font l’effort de libérer l’agir sans le débarrasser du besoin et du plaisir, surtout, de penser : peut-être cela précise-t-il « l’innocence » qu’il est agréable et vital de réinviter. Aucun duel n’est installé entre la praxis et une réflexion qui assume sa propre évolution, au gré des inspirations dont les livres, les amitiés et les modèles (comme l’est la Coalition) sont l’origine.  </p><p>On le dira plus clairement encore : la Coalition, elle-même anonyme et mystérieuse, prend plein part, avec le livre qui lui rend cet hommage, à cette aventure nécessaire qui passant par Pol Pelletier, Jovette Marchessault, le Théâtre de Cuisine, Louky Bersianik et plusieurs et tant d’autres, demeure sous le spectre du féminisme plus guerrier, indiscipliné face aux tentatives d’en capturer le mouvement.</p>"},"id":"de9b4635-3ef1-4ab4-ac9f-e26af96ce0bf","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Renato RODRIGUEZ-LEFEBVRE
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Date: 2018-12-04 16:28:56
+
+----
+
+Uuid: RcTMMd2Hbtwy2zMJ

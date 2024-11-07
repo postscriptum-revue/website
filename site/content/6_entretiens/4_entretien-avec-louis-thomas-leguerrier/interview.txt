@@ -1,0 +1,56 @@
+Title: Entretien avec Louis-Thomas Leguerrier
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: Virginie Despentes et les révélations du punk : Aveux de recherche V
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>[audio mp3=\"https://post-scriptum.org/wordpress/wp-content/uploads/2020/10/Virginie-Despentes-ou-les-révélations-du-Punk-Louis-Thomas-Leguerrier.mp3\"][/audio]</p>"},"id":"fa9c2438-44c4-4c70-966d-369c00e28a96","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: LEGUERRIER, Louis-Thomas. "Punk et châtiment : Virginie Despentes et les révélations de Némésis", in <em>Muse Médusa</em>, no 8,2020, disponible en ligne à : <a href="http://musemedusa.com/dossier_8/leguerrier/">http://musemedusa.com/dossier_8/leguerrier/</a>
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Renato Rodriguez-Lefebvre
+  affiliation: ""
+- 
+  name: Léonore Brassard
+  affiliation: ""
+
+----
+
+Keywords: 
+
+----
+
+Date: 2021-03-04 16:00:00
+
+----
+
+Uuid: yS6DJEnKD3owBJgr
