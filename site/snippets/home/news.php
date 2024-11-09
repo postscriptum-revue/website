@@ -7,13 +7,13 @@
                         <?php
                         $date = substr_replace(
                             $news_item->num(),
-                            "/",
+                            ".",
                             4,
                             0
                         );
                         $date = substr_replace(
                             $date,
-                            "/",
+                            ".",
                             -2,
                             0
                         );

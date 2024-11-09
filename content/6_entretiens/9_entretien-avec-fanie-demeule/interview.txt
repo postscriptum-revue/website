@@ -22,7 +22,11 @@ Abstract-en:
 
 ----
 
+<<<<<<< HEAD
+Text: [{"content":{"text":"<p>Cet entretien, mené par l’équipe de la revue Post-Scriptum, s’inscrit dans l’ouverture officialisée de cette revue envers la recherche-création. Les questions qui y sont posées cherchent donc à construire un dialogue engagé avec les auteurices invité.es&nbsp;: provenant d’une lecture plus lente de leurs textes, les questions se veulent aussi sérieuses qu’ouvertes à la déambulation oratoire.</p>"},"id":"4a727c9f-c0ff-4ceb-9ebf-dab74fdce49b","isHidden":false,"type":"text"},{"content":{"location":"","url":"https://youtu.be/lkimIpZ9yDM","video":[],"poster":[],"caption":"Entretien avec Fanie Demeule","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":""},"id":"5a760c84-370e-4bb8-b131-849a60d5dcae","isHidden":false,"type":"video"}]
+=======
 Text: [{"content":{"text":"<p>Cet entretien, mené par l’équipe de la revue Post-Scriptum, s’inscrit dans l’ouverture officialisée de cette revue envers la recherche-création. Les questions qui y sont posées cherchent donc à construire un dialogue engagé avec les auteurices invité.es : provenant d’une lecture plus lente de leurs textes, les questions se veulent aussi sérieuses qu’ouvertes à la déambulation oratoire.</p>"},"id":"4a727c9f-c0ff-4ceb-9ebf-dab74fdce49b","isHidden":false,"type":"text"},{"content":{"url":"https://youtu.be/lkimIpZ9yDM","caption":"Entretien avec Fanie Demeule"},"id":"5a760c84-370e-4bb8-b131-849a60d5dcae","isHidden":false,"type":"video"}]
+>>>>>>> main
 
 ----
 
@@ -30,6 +34,13 @@ Bibliography:
 
 ----
 
+<<<<<<< HEAD
+Cover: - file://mmspVGZv8NLtm3SA
+
+----
+
+=======
+>>>>>>> main
 Pdf: 
 
 ----
@@ -49,8 +60,20 @@ Keywords:
 
 ----
 
+<<<<<<< HEAD
+Date: 2020-07-17
+
+----
+
+Uuid: zhnbr1bMHTYQEwFy
+
+----
+
+Color: rgb(180, 84, 68)
+=======
 Date: 2020-07-17 08:53:16
 
 ----
 
 Uuid: zhnbr1bMHTYQEwFy
+>>>>>>> main

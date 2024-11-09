@@ -8,11 +8,11 @@
 					Numéros
 				</a>
 			</li>
-			<li>
+			<!-- <li>
 				<a class="site-header__nav-list-item" href="/articles">
 					Articles
 				</a>
-			</li>
+			</li> -->
 			<li>
 				<a class="site-header__nav-list-item" href="/comptes-rendus">
 					Comptes-rendus
@@ -29,8 +29,8 @@
 				</a>
 			</li>
 			<li>
-				<a class="site-header__nav-list-item" href="/creation">
-					Création
+				<a class="site-header__nav-list-item" href="/creations">
+					Créations
 				</a>
 			</li>
 		</ul>

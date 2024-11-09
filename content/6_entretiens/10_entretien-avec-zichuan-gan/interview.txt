@@ -30,6 +30,10 @@ Bibliography:
 
 ----
 
+Cover: - file://ZA2cTk32bPtlykfZ
+
+----
+
 Pdf: 
 
 ----
@@ -51,3 +55,7 @@ Date: 2022-10-27
 ----
 
 Uuid: vxRHacEuY24shCcS
+
+----
+
+Color: rgb(33, 132, 150)

@@ -9,7 +9,7 @@
 	</figure>
 	<div class="issue-header__card-wrapper">
 		<hgroup class="issue-header__card">
-			<p><?= $page->date() ?></p>
+			<p><?= formatDate($page->date()) ?></p>
 			<h1 class="issue-header__card-title">
 				<?= $page->title()->smartypants() ?>
 			</h1>

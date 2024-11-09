@@ -12,7 +12,7 @@
 	grid-column: span 4;
 
 	display: flex;
-	justify-content: center;
+	/* justify-content: center; */
 	font-family: "Mercure Transcript";
 	font-size: 1.75rem;
 }

@@ -38,7 +38,7 @@ columns:
                 label: Organisateur·rices
                 type: list
                 required: true
-            submit_date:
+            date_end:
                 label: Date limite pour la soumission
                 type: date
                 required: true

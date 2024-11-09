@@ -1,14 +1,8 @@
 <a href="<?= $issue->url() ?>">
-	<article
-		class="latest-issues__issue"
-		style="--issue-color: <?= $issue->color() ?>"
-	>
-		<div
-			class="latest-issues__issue-cover"
-			style="background-image: url(
+	<article class="latest-issues__issue" style="--issue-color: <?= $issue->color() ?>">
+		<div class="latest-issues__issue-cover" style="background-image: url(
 				'<?= $issue->cover()->toFile()->url() ?>'
-			)"
-		>
+			)">
 			<div class="latest-issues__issue-card">
 				<p class="latest-issues__issue-card-number">
 					<span style="
@@ -23,7 +17,7 @@
 		</div>
 		<hgroup class="latest-issues__issue-hgroup">
 			<time class="latest-issues__issue-date">
-				<?= $issue->date() ?>
+				<?= formatDate($issue->date()) ?>
 			</time>
 			<h3 class="latest-issues__issue-title">
 				<?= $issue->title()->smartypants() ?>
