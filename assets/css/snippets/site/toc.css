@@ -2,6 +2,9 @@
 	text-align: center;
 }
 
+/* .toc__item .toc__item-title {
+	text-decoration: underline dashed 0.1px;
+} */
 .toc__item:hover .toc__item-title {
 	text-decoration: underline;
 }

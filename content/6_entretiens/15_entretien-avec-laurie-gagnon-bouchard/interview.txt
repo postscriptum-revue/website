@@ -30,6 +30,10 @@ Bibliography: <ul><li>BUTLER, Judith. Vie précaire. <em>Les Pouvoirs du deuil e
 
 ----
 
+Cover: - file://nHgTUPRbrB7FNRFJ
+
+----
+
 Pdf: 
 
 ----
@@ -46,8 +50,12 @@ Keywords:
 
 ----
 
-Date: 2020-12-16 17:28:36
+Date: 2020-12-17
 
 ----
 
 Uuid: nMwZcAmieuGj8AqN
+
+----
+
+Color: rgb(95, 127, 143)

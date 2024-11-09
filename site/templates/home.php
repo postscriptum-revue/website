@@ -7,6 +7,8 @@
 <?php endslot() ?>
 
 <?php slot("main") ?>
+<?php snippet("home/calls") ?>
+<?php snippet("home/recent-posts") ?>
 <?php snippet("home/last-issue") ?>
 <?php snippet("home/latest-issues") ?>
 <?php endslot() ?>

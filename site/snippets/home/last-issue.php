@@ -10,7 +10,7 @@
 	>
 		<hgroup class="last-issue__cover-card">
 			<p class="last-issue__cover-card-date">
-				<?= $last_issue->date() ?>
+				<?= formatDate($last_issue->date()) ?>
 			</p>
 			<h2 class="last-issue__cover-card-title">
 				<?= $last_issue->title()->smartypants() ?>

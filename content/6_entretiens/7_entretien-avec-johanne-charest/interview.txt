@@ -30,6 +30,10 @@ Bibliography: PERRAULT, Pierre. <em>L'oumigmatique, ou, l'objectif documentaire
 
 ----
 
+Cover: - file://qO0heKAy2yRzTmkf
+
+----
+
 Pdf: 
 
 ----
@@ -46,8 +50,12 @@ Keywords:
 
 ----
 
-Date: 2021-03-09 17:00:00
+Date: 2021-03-10
 
 ----
 
 Uuid: sqU6GjtO3suEYFrQ
+
+----
+
+Color: rgb(128, 120, 112)

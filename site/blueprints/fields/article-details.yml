@@ -1,5 +1,15 @@
 type: group
 fields:
+    cover:
+        type: files
+        label: Image de couverture
+        uploads:
+            template: cover
+        layout: cards
+        image:
+            cover: true
+        multiple: false
+        required: false
     pdf:
         type: files
         label: Fichier PDF
