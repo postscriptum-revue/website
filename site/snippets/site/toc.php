@@ -6,19 +6,16 @@ $max = $max ?? null;
 
 <ul class="toc">
 	<?php foreach ($toc_pages->slice(0, $max) as $p): ?>
-		<li class="toc__item" style="--issue-color: <?= $p->parent()->color() ?>">
+		<li class="toc__item" style="--issue-color: <?= $p->color() ?>">
 
 			<!-- COVER IMG -->
-			<!-- <?php if ($cover = $p->cover()->toFile()): ?>
-				<div style="
-					background-image: url('<?= $cover->url() ?>');
-					background-size: cover;
-					background-position: center;
-					width: 150px;
-					height: 100px;
-				">
-				</div>
-			<?php endif; ?> -->
+			<?php
+			if ($cover = $p->cover()->toFile()): ?>
+				<picture class="toc__cover">
+					<img class="toc__cover-content" src="<?= $cover->url() ?>" alt="cover">
+				</picture>
+			<?php endif; ?>
+
 
 			<a href="<?= $p->url() ?>">
 				<ul class="toc__item-authors-list">
@@ -35,7 +32,7 @@ $max = $max ?? null;
 	<?php
 	// When there are more pages than amount displayed.
 	if ($max && $max < count($toc_pages)):
-		?>
+	?>
 		<li class="toc__item">
 			...
 		</li>
