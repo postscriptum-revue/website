@@ -6,7 +6,9 @@ $max = $max ?? null;
 
 <ul class="toc">
 	<?php foreach ($toc_pages->slice(0, $max) as $p): ?>
-		<li class="toc__item" style="--issue-color: <?= $p->color() ?>">
+		<?php $color = $p->template() == 'article' ?
+			$p->parent()->color() : $p->color() ?>
+		<li class="toc__item" style="--issue-color: <?= $color ?>">
 
 			<!-- COVER IMG -->
 			<?php
