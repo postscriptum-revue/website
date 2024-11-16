@@ -29,30 +29,3 @@ The gap between lines is disproportionate otherwise. */
 .toc__item-author:not(:last-child):after {
 	content: ",";
 }
-
-/*SUGGESTION*/
-
-.toc__cover {
-	display: block;
-	max-height: var(--cover-height);
-	overflow: hidden;
-}
-
-.toc__cover-content {
-	width: 100%;
-	object-fit: cover;
-}
-
-.toc__item:nth-child(odd) > .toc__cover {
-	--cover-height: 20vw;
-}
-
-.toc__item:nth-child(even) > .toc__cover {
-	--cover-height: 22vw;
-}
-
-@media (max-width: 850px) {
-	.toc__cover-content {
-		object-position: center -12vw;
-	}
-}
