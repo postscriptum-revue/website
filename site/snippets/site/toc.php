@@ -13,8 +13,8 @@ $max = $max ?? null;
 			<!-- COVER IMG -->
 			<?php
 			if ($cover = $p->cover()->toFile()): ?>
-				<picture class="toc__cover">
-					<img class="toc__cover-content" src="<?= $cover->url() ?>" alt="cover">
+				<picture>
+					<img src="<?= $cover->url() ?>" alt="cover">
 				</picture>
 			<?php endif; ?>
 
