@@ -62,3 +62,11 @@ The gap between lines is disproportionate otherwise. */
 .toc__item_horizontal + .toc__item_horizontal {
 	margin-top: 1rem;
 }
+
+@media (max-width: 700px) {
+.toc__item_horizontal{
+	picture{
+		display: none;
+	}
+}
+}
