@@ -29,3 +29,33 @@ The gap between lines is disproportionate otherwise. */
 .toc__item-author:not(:last-child):after {
 	content: ",";
 }
+
+.toc__item_horizontal {
+	display: flex;
+	gap: 1.25rem;
+	align-items: center;
+
+	picture {
+		flex-basis: 0;
+		flex-grow: 2;
+
+		max-height: 15vw;
+		overflow: hidden;
+
+		> img {
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+			cursor: pointer;
+		};
+	}
+
+	> div{
+		flex-basis: 0;
+		flex-grow: 5;
+	}
+}
+
+.toc__item_horizontal + .toc__item_horizontal {
+	margin-top: 1rem;
+}
