@@ -7,8 +7,17 @@ return function () {
 	$news_page = page("actualites");
 	$all_news = new Pages();
 
-	foreach ($news_page->children() as $news_section) {
+	foreach ($news_page->children() as $news_section) { 
 		$all_news->add($news_section->children()->listed());
+	}
+
+	$future_news = new Pages();
+	$today = strtotime('today');
+
+	foreach($all_news as $news){
+		if ($news->date_end()->toDate() >= $today) {
+			$future_news->add($news);
+		}
 	}
 
 	$last_issue = page("numeros")->children()->listed()->last();
@@ -43,6 +52,7 @@ return function () {
 		"last_issue" => $last_issue,
 		"latest_issues" => $latest_issues,
 		"all_news" => $all_news->flip(),
+		"future_news" => $future_news->flip(),
 		"recentPosts" => $recentPosts
 	];
 };
