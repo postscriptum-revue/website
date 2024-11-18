@@ -5,7 +5,8 @@
 /* .toc__item .toc__item-title {
 	text-decoration: underline dashed 0.1px;
 } */
-.toc__item:hover .toc__item-title {
+.toc__item:hover .toc__item-title,
+.toc__item_horizontal:hover .toc__item-title{
 	text-decoration: underline;
 }
 
@@ -32,12 +33,12 @@ The gap between lines is disproportionate otherwise. */
 
 .toc__item_horizontal {
 	display: flex;
-	gap: 1.25rem;
+	gap: 2rem;
 	align-items: center;
 
 	picture {
 		flex-basis: 0;
-		flex-grow: 2;
+		flex-grow: 3;
 
 		max-height: 15vw;
 		overflow: hidden;
