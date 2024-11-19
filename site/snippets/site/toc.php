@@ -27,7 +27,9 @@ $max = $max ?? null;
 					<?php endforeach ?>
 				</ul>
 				<p class="toc__item-title"><?= $p->title_and_subtitle() ?></p>
+				<?php if (!isset($hiddenDate)): ?>
 				<p><?= formatDate($p->date()) ?></p>
+				<?php endif ?>
 			</a>
 		</li>
 	<?php endforeach ?>
