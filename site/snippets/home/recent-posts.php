@@ -1,10 +1,10 @@
 <?php
 // Display the recent posts if there are any
-if (count($recentPosts) > 0): ?>
+if (count($recent_posts) > 0): ?>
 	<section class="home-section recent-posts">
 		<h2 class="home-section__title">Publications récentes</h2>
 		<ul class="toc">
-			<?php foreach ($recentPosts as $p): ?>
+			<?php foreach ($recent_posts as $p): ?>
 				<li class="toc__item_horizontal" style="--issue-color: <?= $p->parent()->color() ?>">
 						<?php
 						if ($cover = $p->cover()->toFile()): ?>
@@ -40,7 +40,7 @@ if (count($recentPosts) > 0): ?>
 	<!-- <article class="home-section last-issue">
         <h2 class="home-section__title">Recentes publications</h2>
         <ul>
-            <?php foreach ($recentPosts as $post): ?>
+            <?php foreach ($recent_posts as $post): ?>
                 <li>
                     <a href="<?= $post->url() ?>">
                         <ul>
