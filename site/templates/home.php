@@ -8,7 +8,12 @@
 
 <?php slot("main") ?>
 <?php snippet("home/future-news") ?>
-<?php snippet("home/recent-posts") ?>
-<?php snippet("home/last-issue") ?>
+<?php if ($isIssueMoreRecent):
+	snippet("home/last-issue");
+	snippet("home/recent-posts");
+else:
+	snippet("home/recent-posts");
+	snippet("home/last-issue");
+endif; ?>
 <?php snippet("home/latest-issues") ?>
 <?php endslot() ?>

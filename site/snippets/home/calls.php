@@ -15,7 +15,7 @@ if (count($recent_news) > 0) : ?>
             <a href="<?= $news->url() ?>">
                 <ul>
                     <li>
-                        <?= formatDate($news->date()) ?>
+                        <?= formatDate($news->date(), "dd.MM.yyyy") ?>
                     </li>
                     <li>
                         <?= $all->blueprint()->title() ?>

@@ -17,7 +17,7 @@
 		</div>
 		<hgroup class="latest-issues__issue-hgroup">
 			<time class="latest-issues__issue-date">
-				<?= formatDate($issue->date()) ?>
+				<?= formatDate($issue->date(), "MMMM yyyy") ?>
 			</time>
 			<h3 class="latest-issues__issue-title">
 				<?= $issue->title()->smartypants() ?>

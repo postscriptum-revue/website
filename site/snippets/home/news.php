@@ -4,21 +4,7 @@
             <a href="<?= $news_item->url() ?>">
                 <ul>
                     <li>
-                        <?php
-                        $date = substr_replace(
-                            $news_item->num(),
-                            ".",
-                            4,
-                            0
-                        );
-                        $date = substr_replace(
-                            $date,
-                            ".",
-                            -2,
-                            0
-                        );
-                        echo $date
-                        ?>
+                        <?= formatDate($news_item->date(), "dd.MM.yyyy") ?>
                     </li>
                     <li>
                         <?= $news_item->blueprint()->title() ?>

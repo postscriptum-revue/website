@@ -2,7 +2,7 @@
 	<section class="home-section recent-posts">
 		<h2 class="home-section__title">Appels et événements</h2>
 		<ul class="toc">
-			<?php foreach ($future_news as $news_item) : ?>
+			<?php foreach ($future_news as $news_item): ?>
 				<li class="toc__item_horizontal">
 					<?php
 					if ($cover = $news_item->cover()->toFile()): ?>
@@ -10,25 +10,14 @@
 							<img src="<?= $cover->url() ?>" alt="cover">
 						</picture>
 					<?php endif; ?>
+
 					<div>
 						<a href="<?= $news_item->url() ?>">
 							<ul>
 								<li>
-									<?php
-									$date = substr_replace(
-										$news_item->num(),
-										".",
-										4,
-										0
-									);
-									$date = substr_replace(
-										$date,
-										".",
-										-2,
-										0
-									);
-									echo $date
-									?> -
+									<small><?= formatDate($news_item->date(), "dd.MM.yyyy") ?></small>
+								</li>
+								<li>
 									<?= $news_item->blueprint()->title() ?>
 								</li>
 								<li class="news-list__item-title">
