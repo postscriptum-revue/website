@@ -1,7 +1,5 @@
 .body--template-articles main,
-.body--template-reviews main,
-.body--template-creations main,
-.body--template-interviews main {
+.body--template-creations main {
 	display: block;
 
 	column-count: 2;

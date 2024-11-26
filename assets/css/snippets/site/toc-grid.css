@@ -1,0 +1,47 @@
+.toc-grid__item-cover {
+	cursor: pointer;
+	pointer-events: none;
+
+	display: block;
+	height: 30dvh;
+	overflow: hidden;
+
+	img {
+		display: block;
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		object-position: center;
+	}
+}
+
+.toc-grid__item-cover_blank {
+	height: 30dvh;
+	background-color: white;
+	position: relative;
+}
+
+.toc-grid__item-cover_blank::after {
+	content: "";
+	position: absolute;
+	inset: 0.5rem;
+	border: 1px solid var(--issue-color);
+}
+
+.toc-grid__item-cover_blank::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	border: 2px solid var(--issue-color);
+}
+
+@media (max-width: 850px) {
+	.toc-grid__item-cover,
+	.toc-grid__item-cover_blank {
+		height: 35vw;
+		img{
+			object-fit: contain;
+			object-position: top;
+		}
+	}
+}

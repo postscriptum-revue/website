@@ -10,7 +10,7 @@
 	text-decoration: underline;
 }
 
-.toc__item + .toc__item {
+.toc .toc__item + .toc__item {
 	margin-top: 1.25rem;
 }
 
