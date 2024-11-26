@@ -18,6 +18,7 @@
 @import url("aside.css");
 @import url("text-section.css");
 @import url("snippets/site/toc.css");
+@import url("snippets/site/toc-grid.css");
 @import url("snippets/site/issue-small.css");
 @import url("snippets/site/lightbox.css");
 @import url("snippets/home/last-issue.css");

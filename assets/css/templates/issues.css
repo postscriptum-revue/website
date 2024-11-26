@@ -1,3 +1,5 @@
-.body--template-issues main {
+.body--template-issues main,
+.body--template-reviews main,
+.body--template-interviews main {
 	grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
 }

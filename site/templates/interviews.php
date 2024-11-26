@@ -21,7 +21,7 @@
 <?php endslot() ?>
 
 <?php slot("main") ?>
-<?php snippet("site/toc", [
+<?php snippet("site/toc-grid", [
 		"toc_pages" => $interviews
 	]) ?>
 <?php endslot() ?>
