@@ -33,11 +33,15 @@
 	display: grid;
 	grid-template-columns: repeat(8, 1fr);
 	column-gap: 2rem;
-	grid-auto-rows: 1fr;
+	grid-auto-rows: 20vw;
 	justify-items: center;
 	padding-top: 8rem;
 
 	pointer-events: none;
+}
+
+.issue-header[data-type="issue"] {
+	grid-auto-rows: 1fr;
 }
 
 .issue-header__cover {
@@ -61,12 +65,15 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 
-	object-fit: cover;
+	object-fit: contain;
 	width: 100%;
 	height: 100%;
 
-
 	pointer-events: auto;
+}
+
+[data-type="issue"] .issue-header__cover-image{
+	object-fit: cover;
 }
 
 .issue-header__cover-image-caption {
@@ -128,6 +135,7 @@
 		padding-top: 4rem;
 		column-gap: 0;
 		grid-template-columns: 1rem 1fr 1rem;
+		grid-auto-rows: 1fr;
 	}
 
 	.issue-header__cover {
@@ -143,5 +151,4 @@
 		grid-column: 2 / 3;
 		margin-top: -4rem;
 	}
-
 }

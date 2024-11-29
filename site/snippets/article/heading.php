@@ -1,4 +1,4 @@
-<hgroup class="text-section-hgroup">
+<hgroup class="text-section-hgroup" data-type="<?= $page->blueprint()->title() ?>">
 	<?php if ($cover = $page->cover()->toFile()): ?>
 		<header class="issue-header">
 			<figure class="issue-header__cover">
