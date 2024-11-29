@@ -16,7 +16,7 @@
 }
 
 .toc-grid__item-cover_blank {
-	height: 30dvh;
+	min-height: 30dvh;
 	background-color: white;
 	position: relative;
 }
@@ -38,10 +38,15 @@
 @media (max-width: 850px) {
 	.toc-grid__item-cover,
 	.toc-grid__item-cover_blank {
-		height: 35vw;
-		img{
+		img {
 			object-fit: contain;
 			object-position: top;
 		}
+	}
+
+	.toc-grid__item-cover_blank{
+		max-height: 30dvh;
+		aspect-ratio: 3/4;
+		margin-inline: auto;
 	}
 }
