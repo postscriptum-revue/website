@@ -1,10 +1,9 @@
-<header class="issue-header">
+<header class="issue-header" data-type="issue">
 	<figure class="issue-header__cover">
-		<img 
-			class="issue-header__cover-image" 
-			src="<?= $page->cover()->toFile()->url() ?>" 
-			alt=""
-		>
+		<img
+			class="issue-header__cover-image"
+			src="<?= $page->cover()->toFile()->url() ?>"
+			alt="">
 		<figcaption><!-- TODO: Add figcaption field --></figcaption>
 	</figure>
 	<div class="issue-header__card-wrapper">
