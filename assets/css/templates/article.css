@@ -46,6 +46,16 @@
     content: "〛";
 }
 
+.footnote-list__backlink {
+	text-decoration: none;
+	color: inherit;
+	cursor: pointer;
+}
+.footnote-ref-highlight {
+	color: var(--issue-color);
+	transition: background-color 0.5s ease;
+}
+
 .article-buttons, .article-buttons__prev-next {
 	display: flex;
 	gap: .25rem;
