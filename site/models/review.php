@@ -34,4 +34,14 @@ class ReviewPage extends Page
 
 		return $title;
 	}
+
+	public function nonEmptyDate()
+	{
+		$nonEmptyDate = $this->date();
+		if ($nonEmptyDate == '') {
+			$nonEmptyDate = $this->parent()->date();
+		}
+
+		return $nonEmptyDate;
+	}
 }

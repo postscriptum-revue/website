@@ -7,7 +7,7 @@ return function ($site) {
 	$keywords = [];
 	$reviews = $site->index()
 		->filterBy('template', 'review')->listed()
-		->sortBy('date', 'desc');
+		->sort(fn($interview) => $interview->nonEmptyDate(), 'desc');
 
 	foreach ($reviews as $review) {
 		foreach ($review->keywords()->split() as $kw) {
