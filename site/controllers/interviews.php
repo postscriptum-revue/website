@@ -7,7 +7,7 @@ return function ($site) {
 	$keywords = [];
 	$interviews = $site->index()
 					->filterBy('template', 'interview')->listed()
-					->sortBy('date', 'desc');
+					->sort(fn($interview) => $interview->nonEmptyDate(), 'desc');
 
 
 	foreach ($interviews as $interview) {
