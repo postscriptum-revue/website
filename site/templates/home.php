@@ -1,9 +1,9 @@
 <?php snippet("site/layout", slots: true) ?>
 
-<?php slot("aside_button") ?>Publications récentes<?php endslot() ?>
+<?php slot("aside_button") ?>Actualités<?php endslot() ?>
 
 <?php slot("aside") ?>
-<?php snippet("home/recent-posts_aside") ?>
+<?php snippet("home/news") ?>
 <?php endslot() ?>
 
 <?php slot("main") ?>
