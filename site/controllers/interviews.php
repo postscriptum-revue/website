@@ -3,28 +3,14 @@
 use Kirby\Cms\Pages;
 
 return function ($site) {
-	$authors = [];
-	$keywords = [];
 	$interviews = $site->index()
 					->filterBy('template', 'interview')->listed()
 					->sort(fn($interview) => $interview->nonEmptyDate(), 'desc');
 
-
-	foreach ($interviews as $interview) {
-		foreach ($interview->keywords()->split() as $kw) {
-			array_push($keywords, $kw);
-		}
-	}
-	sort($keywords);
-
-	$keyword = param('keyword');
-	if (empty($keyword) === false) {
-		$interviews = $interviews->filterBy('keywords', $keyword, ',');
-	}
+	$last_issue = page("numeros")->children()->listed()->last();
 
 	return [
 		"interviews" => $interviews,
-		"authors" => $authors,
-		"keywords" => $keywords
+		"last_issue" => $last_issue
 	];
 };
