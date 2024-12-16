@@ -5,8 +5,7 @@ $max = $max ?? null;
 ?>
 
 <?php foreach ($toc_pages->slice(0, $max) as $p): ?>
-	<?php $color = $p->template() == 'article' ?
-		$p->parent()->color() : $p->color() ?>
+	<?php $color = $p->parent()->color()->isNotEmpty() ? $p->parent()->color() : $p->color() ?>
 	<article class="toc__item" style="--issue-color: <?= $color ?>">
 
 		<!-- COVER IMG -->

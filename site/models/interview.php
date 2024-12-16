@@ -7,7 +7,7 @@ class InterviewPage extends Page
 
 	public function fmt_date()
 	{
-		$formatted_date = parent::date()->toDate("MMMM Y");
+		$formatted_date = parent::date()->toDate("MMMM yyyy");
 		if (!$formatted_date) return $this->parent()->fmt_date();
 		return ucfirst($formatted_date);
 	}
@@ -25,11 +25,11 @@ class InterviewPage extends Page
 			&& !str_ends_with($title, ".")
 			&& parent::subtitle() != ""
 		) {
-			$title .= "&nbsp;: ";
+			$title .= "&nbsp;:";
 		}
 
 		if (parent::subtitle() != "") {
-			$title .= parent::subtitle()->smartypants();
+			$title .= "&nbsp;" . parent::subtitle()->smartypants();
 		}
 
 		return $title;

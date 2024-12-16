@@ -6,18 +6,8 @@ $max = $max ?? null;
 
 <ul class="toc">
 	<?php foreach ($toc_pages->slice(0, $max) as $p): ?>
-		<?php $color = $p->template() == 'article' ?
-			$p->parent()->color() : $p->color() ?>
+		<?php $color = $p->parent()->color()->isNotEmpty() ? $p->parent()->color() : $p->color() ?>
 		<li class="toc__item" style="--issue-color: <?= $color ?>">
-
-			<!-- COVER IMG -->
-			<?php
-			if ($cover = $p->cover()->toFile()): ?>
-				<picture>
-					<img src="<?= $cover->url() ?>" alt="cover">
-				</picture>
-			<?php endif; ?>
-
 
 			<a href="<?= $p->url() ?>">
 				<ul class="toc__item-authors-list">

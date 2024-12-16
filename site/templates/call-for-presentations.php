@@ -1,22 +1,25 @@
 <?php snippet("site/layout", slots: true) ?>
 
-<?php slot("aside_button") ?>Bibliographie<?php endslot() ?>
+<?php if ($page->intro_bibliography()->isNotEmpty()): ?>
 
-<?php slot("aside") ?>
-<?php if (($bibliography = $page->intro_bibliography())->isNotEmpty()) : ?>
+	<?php slot("aside_button") ?>Bibliographie<?php endslot() ?>
+
+	<?php slot("aside") ?>
 	<section class="site-aside__section article-bibliography">
-		<?= $bibliography ?>
+		<?= $page->intro_bibliography() ?>
 	</section>
-<?php endif ?>
-<?php endslot() ?>
+	<?php endslot() ?>
+<?php else: ?>
+	<?php slot("aside_button") ?>Dernier Numéro<?php endslot() ?>
+	<?php slot("aside") ?>
+	<?php snippet("site/issue-aside", $last_issue) ?>
+	<?php endslot() ?>
+<?php endif; ?>
 
 <?php slot("main") ?>
 
 <?php if ($page->cover()->isNotEmpty()): ?>
-	<img
-		class="news-cover"
-		src="<?= $page->cover()->toFile()->url() ?>"
-	>
+	<img class="news-cover" src="<?= $page->cover()->toFile()->url() ?>">
 <?php endif ?>
 <section class="text-section">
 	<hgroup class="text-section-hgroup">
@@ -26,7 +29,7 @@
 		<h1 class="text-section-hgroup__title">
 			<?= $page->title() ?>
 		</h1>
-		<?php if ($page->subtitle()) : ?>
+		<?php if ($page->subtitle()): ?>
 			<p><?= $page->subtitle() ?></p>
 		<?php endif ?>
 	</hgroup>
@@ -34,7 +37,7 @@
 </section>
 
 <dl class="issue-credits">
-	<?php if ($page->cover()->isNotEmpty()) : ?>
+	<?php if ($page->cover()->isNotEmpty()): ?>
 		<dt class="issue-credits__term">Image de couverture</dt>
 		<dd class="issue-credits__description">
 			<?= $page->cover()->toFile()->credit()->smartypants() ?>

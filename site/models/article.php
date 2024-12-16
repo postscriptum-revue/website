@@ -28,11 +28,11 @@ class ArticlePage extends Page
 			&& !str_ends_with($title, ".")
 			&& parent::subtitle() != ""
 		) {
-			$title .= "&nbsp;: ";
+			$title .= "&nbsp;:";
 		}
 
 		if (parent::subtitle() != "") {
-			$title .= " " . parent::subtitle()->smartypants();
+			$title .= "&nbsp;" . parent::subtitle()->smartypants();
 		}
 
 		return $title;
