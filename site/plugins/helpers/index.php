@@ -1,5 +1,5 @@
 <?php
-function formatDate($date, $format = 'dd.MM.yyyy')
+function formatDate($date, $format = 'dd.MM.yyyy', $ucfirst = true)
 {
     if (!$date || $date == '') {
         return '';
@@ -14,6 +14,7 @@ function formatDate($date, $format = 'dd.MM.yyyy')
             IntlDateFormatter::GREGORIAN, // Calendar type
             $format // Custom format parameter
         );
-        return $formatter->format($dateObj);
+        $fmt_date = $formatter->format($dateObj);
+        return $ucfirst ? ucfirst($fmt_date) : $fmt_date;
     }
 }

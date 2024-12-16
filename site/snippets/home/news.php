@@ -4,7 +4,7 @@
             <a href="<?= $news_item->url() ?>">
                 <ul>
                     <li>
-                        <?= formatDate($news_item->date(), "dd.MM.yyyy") ?>
+                        <?= formatDate($news_item->date(), "MMMM yyyy") ?>
                     </li>
                     <li>
                         <?= $news_item->blueprint()->title() ?>

@@ -10,7 +10,7 @@ Issue-subtitle: Penser et écrire (après) le post-scriptum
 
 ----
 
-Intro-text: 
+Intro-text: [{"content":{"text":"<p>Cette année, la revue de recherche interdisciplinaire en textes et médias <em>Post-Scriptum</em> célèbre ses 15 ans. Dans le cadre d’un numéro spécial, nous voulons interroger les multiples facettes du post-scriptum et ses déclinaisons dans la littérature, l’essai, les arts visuels et le cinéma. Si le post-scriptum est communément compris comme une inscription qui se fait dans une temporalité secondaire, un après-coup de l’écriture d’une lettre, c’est-à-dire le moment suivant la signature, il se donne nécessairement à penser comme ce qui vient après l’inscription, puis après le nom. Qu’y a-t-il après la lettre&nbsp;? Qu’est-ce qui demeure après le geste d’écriture&nbsp;? Une trace, un reste, un résidu&nbsp;? Comment parler de cet après (de) l’inscription sinon que par la remise en présence de ce qui se constitue comme inscription&nbsp;? En somme, quelles sont les manières de lire et de dire que mobilise le post-scriptum&nbsp;?</p> <p>Plus qu’une simple forme dans l’écriture, le post-scriptum apparaît, nous en avons la conviction, comme un espace conceptuel à investir, à mettre en relief dans une pensée littéraire qui réfléchit sur elle-même, sur sa pratique de lecture et d’analyse qui, toutes les fois, se fait dans l’après de la lettre en une nouvelle écriture, en une nouvelle trace qui trouvera, elle aussi, son après. Peut-être est-ce aussi cela, l’après de l’inscription&nbsp;: la ré-inscription, la succession des écritures dans le commentaire et l’exégèse. Ceci reviendrait toutefois à dire qu’il n’y a d’après de la lettre que dans la remise en scène de cette dernière, que l’après ne peut être saisi que dans le langage et donc qu’il s’écrit nécessairement dans la différ<em>a</em>nce de son énonciation, dans une impossibilité de saisir la trace autrement, voire de la saisir tout simplement. Ce sont des temporalités complexes qui entrent en relation dans ce rapport au langage et au post-scriptum, dès lors que l’on tente de le toucher, de le traduire, de le dire.</p> <p>Ainsi, pour réfléchir aux esthétiques possibles du post-scriptum dans son rapport au temporel, nous invitons les auteures et auteurs à développer des problématiques autour des axes de réflexion suivants, sans toutefois s’y restreindre&nbsp;:</p>"},"id":"ef224ae1-3f46-4301-8099-0549db5c582c","isHidden":false,"type":"text"},{"content":{"text":"<p>· La microlecture (<em>close reading</em>) comme écriture seconde<br>· La macrolecture (<em>distant reading</em>) comme écriture de (dans) la durée<br>· L’œuvre posthume comme post-scriptum<br>· Temporalités de la lecture/écriture/ré-écriture<br>· La trace au cinéma<br>· Différer l’écriture<br>· L’écriture après l’image ou l’image après l’écriture<br>· Les potentialités paratextuelles<br>· Refaire la préface/re-dire après ce qui doit venir avant</p>"},"id":"ea164527-ff4c-4538-b33f-6232aeda8917","isHidden":false,"type":"text"},{"content":{"text":"<p>Les auteures et auteurs sont prié.e.s d’envoyer leur proposition de 300 mots au plus tard le <strong>18 mai 2018</strong> à l’adresse suivante&nbsp;: redaction@post-scriptum.org. Vous devez envoyer votre proposition en deux documents distincts&nbsp;: dans le premier fichier doivent apparaître votre nom, votre université d’attache, votre adresse courriel et le titre de votre article&nbsp;; dans le second fichier doivent apparaître le titre de votre article et le texte de votre proposition. Les propositions feront l’objet d’une évaluation à l’aveugle par le comité de lecture.</p>"},"id":"473cb963-c5ba-4a73-969f-924e066219b3","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Calendrier"},"id":"9ce4cf0c-d415-4096-9371-46a440169da8","isHidden":false,"type":"heading"},{"content":{"text":"<p>18 mai 2018&nbsp;: envoi des propositions<br>5 août 2018&nbsp;: soumission des articles complets (conformément au protocole de rédaction)<br>12 septembre 2018&nbsp;: décision du comité de lecture<br>17 octobre 2018&nbsp;: version finale de l’article retravaillé en fonction des commentaires du comité de lecture.<br>Décembre 2018&nbsp;: publication du numéro<br>(Pour consulter le protocole de rédaction : aller à l'onglet&nbsp; <a href=\"http://www.post-scriptum.org/a-propos/\">À propos</a>)</p>"},"id":"0be19f16-274d-42c8-8aae-6264a4093953","isHidden":false,"type":"text"}]
 
 ----
 
@@ -18,7 +18,7 @@ Intro-bibliography:
 
 ----
 
-Issue-cover: 
+Cover: 
 
 ----
 
@@ -30,7 +30,15 @@ Issue-date: 2018-12-04
 
 ----
 
-Issue-editors: 
+Issue-editors: <ul><li>L'équipe de Post-Scriptum</li></ul>
+
+----
+
+Date-end: 2018-05-18
+
+----
+
+Issue-cover: 
 
 ----
 

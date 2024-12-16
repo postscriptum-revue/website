@@ -12,6 +12,8 @@ foreach ($authors as $i => $author) {
 <p class="article-citation">
 	<?= $citation_authors ?>.
 	<?= $page->title_and_subtitle() ?>,
-	Post-Scriptum <?= $page->parent()->num() ?>.
-	(<?= $page->fmt_date() ?>).
+
+	Post-Scriptum<?php if ($page->parent()->template() == "issue"): ?>
+		<?= ' ' . $page->parent()->num() ?><?php endif ?>.
+	(<?= formatDate($page->date(), 'MMMM yyyy', false) ?>).
 </p>
