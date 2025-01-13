@@ -47,15 +47,8 @@
 <?php endslot() ?>
 
 <?php slot("main") ?>
-<!-- TODO: Add H1 -->
 <section class="text-section">
-    <h2 class="text-section__h2">Orientation intellectuelle</h2>
-    <?= $page->about()->smartypants() ?>
-</section>
-
-<section class="text-section">
-    <h2 class="text-section__h2">Protocole de rédaction</h2>
-    <?= $page->protocol()->smartypants() ?>
+    <?= $page->about()->toBlocks() ?>
 </section>
 
 <?php endslot() ?>
