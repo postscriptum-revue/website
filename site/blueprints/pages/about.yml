@@ -8,7 +8,16 @@ tabs:
                 width: 2/3
                 fields:
                     about:
-                        type: writer
+                        type: blocks
+                        label: À propos
+                        fieldsets:
+                            - heading
+                            - text
+                            - image
+                            - quote
+                            - line
+                            - code
+                            - video
             right:
                 width: 1/3
                 fields:
@@ -43,10 +52,3 @@ tabs:
                             affiliation:
                                 label: Affiliation
                                 type: text
-    protocol:
-        label: Protocole de rédaction
-        fields:
-            protocol:
-                label: Protocole
-                type: writer
-
