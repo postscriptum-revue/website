@@ -55,3 +55,7 @@ Date: 2007-07-20
 ----
 
 Uuid: DW7n7NRRIGEk6uFw
+
+----
+
+Issued-date: 2007-07-20

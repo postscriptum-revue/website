@@ -1,0 +1,57 @@
+Title: Se figurer par-delà la reconduction de l’image-reflet
+
+----
+
+Title-needs-formatting: true
+
+----
+
+Formatted-title: Se figurer <em>par-delà</em> la reconduction de l’image-reflet
+
+----
+
+Subtitle: Compte-rendu du roman <em>La Minotaure</em>
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>MARÉCHALE, Mariève. <em>La Minotaure,</em> Montréal, Triptyque, coll. «&nbsp;Queer&nbsp;», 2019.</p>"},"id":"c9989aab-09bc-4442-96d6-5f17bd74c7b8","isHidden":false,"type":"text"},{"content":{"text":"La minotaure, c’est ce qui reste de moi lorsqu’il ne reste plus rien de moi, lorsque je perds tout, lorsque j’ai l’impression de mourir, lorsque je me trouve au bout de mon dénuement, de ma perdition, de mes hantises. C’est mon surgissement. Ma pulsion de vie. Ma doublure. […] La Minotaure, c’est mon ombre, mon contour, ma vérité, mon seul véritable reflet. C’est l’écosystème primaire. La bête orgiaque. C’est moi, dans mon dénuement le plus extrême.","citation":"(Maréchale, 2019&nbsp;: 53)"},"id":"4a2444d9-553b-4689-bfd1-37932ddf567b","isHidden":false,"type":"quote"},{"content":{"text":"<p>Dans l’interstice, entre ces expériences ineffables et muettes où la langue n’a pas eu temps de se faire lieu et la limite du sens dicté par l’autorité langagière triturée de la volonté de systématiser, réside l’espace réparateur où la Minotaure se glisse. Au long du rythme fragmenté et discontinu d’une écriture, d’une identité qui ne peut jamais être circonscrite, elle s’autodéfinit en s’opposant à la fois à une caractérisation déterminée et définitive, par-delà les limites du langage conventionnel, qui ont tôt fait de croire, qu’elles peuvent <em>dire</em> ce qui n’a encore jamais été reconnu par elles. </p><p><em>La Minotaure,</em> premier roman de l’autrice et chercheuse littéraire Mariève Maréchale, a inauguré le 23&nbsp;janvier passé, le lancement de la collection «&nbsp;Queer&nbsp;» aux éditions Triptyque, dirigée par Pierre-Luc Landry.  </p><p>La décision de lancer une telle collection avec cette publication, en est une résolument toute indiquée, et par le fait même, judicieuse en ce que celle-ci parvient à figurer justement le queer, dans sa mouvance et liberté, hors-normes.  </p><p>La Minotaure<em>, </em>à la fois la personnage rêvée et revendiquée par la narratrice, revête, dans toute l’hybridité que l’idée de sa figure instaure et également au sein même du mouvement de l’écriture de l’œuvre, le refus d’être incarnée, la fuite de cet insaisissable, cet inexplicable à travers les structures normatives et circonscrites du langage.  </p><p>C’est dans l’écriture, dans l’intersection entre les luttes rageuses contre les oppressions de genre, de classes, le racisme ordinaire et latent, de masculinité et normativité toxiques, la blancheur insidieuse, etc. que retentit le queer dans toute la force de sa propre langue.  </p><p>Dans cette œuvre qualifiée de roman, mais dont l’écriture fragmentaire, le chevauchement de l’épistolaire et de l’entrée de journal, les envolées poétiques, en font un genre qu’on ne peut réellement délimiter — à l’image de la Minotaure —, la narratrice est terrassée par l’envie de vivre qui la dévore. Trop longtemps est-elle oubliée, tapie de force dans l’ombre aux croisements de mondes qui ne la reconnaissent ni ne la représentent. Que ce soit de par son identité bigenre — à la fois femme et homme —, des violences abjectes de l’enfance, de sa provenance d’un milieu pauvre et raciste et de son accès à une éducation supérieure, monde privilégié et inconnu ; elle ne se voit <em>être</em> nulle part, d’où ce jeu de miroir, pour accéder à sa vision propre.  </p><p>À travers un dialogue imaginé avec Maude, amie décédée, elle entreprend de comprendre ce qui la terrifie, à l’idée de vivre.  </p><p>Teintée à la fois des souvenirs douloureux d’une enfance effacée où le père, ce Bonhomme sept heures, terrorise et exècre ses sœurs, sa mère et elle — la femme, donc —, du rappel constant à la pauvreté, le <em>d’où je viens</em> honteux où la promesse d’un avenir académique dont on semble imaginer une salvation sans faille, ne peut parvenir à calmer les réminiscences, la narratrice ose tout de même <em>dire, </em> confronter les traumatismes de l’enfance et les appréhensions de l’âge adulte, afin de vivre, tout simplement.  </p><p>Par ailleurs, les occurrences nombreuses et impérieuses du miroir et du <em>regard dans le</em> , cette reconduction du réel formé et qui se traduit, qui s’actualise dans un langage nécessairement limitant et oppressant, rappelle constamment la violence du privilège, de la blancheur, du patriarcat et j’en passe, qui refuse l’existence de ce qui ne peut être reflété selon ses commandements propres.</p>"},"id":"ad25a14f-d00a-4441-a5ef-65258ddf4a2f","isHidden":false,"type":"text"},{"content":{"text":"Je ne crois pas m’être déjà remise de mon image. Les glaces contiennent en elles ma propre rupture. Il y a un véritable danger à me promener dans les rues commerçantes. L’expérience du miroir me traumatise. Mon reflet ne semble jamais être le bon. Entre lui et moi, il y a une incoïncidence, un accident de réel, un étouffement.","citation":"(<em>Ibid&nbsp;</em>: 30)"},"id":"7295700a-944b-40e4-aa8c-b50b1cd8f58a","isHidden":false,"type":"quote"},{"content":{"text":"<p>Il est important de le souligner de nouveau&nbsp;: la Minotaure n’est pas hybride uniquement en ce qu’elle s’identifie pleinement en tant qu’homme et femme. C’est plutôt au nom de tout ce qui la forme, de tous ses éclats inégaux, qui font que son reflet est inacceptable, rejeté, qu’elle existe fièrement hors miroitements.  </p><p>Que ce soit par son identité bigenre, de son statut transclasse suivant le néologisme de la philosophe Chantal Jacquet, repris par l’autrice dans une discussion au lancement qui a eu lieu à l’Euguélionne le 25&nbsp;janvier passé ( <em>Littérature québécoise mobile</em> , 2019), de son dépassement du legs raciste, blanc et suprématiste de son bonhomme sept heures, par-delà l’humiliation, le trauma, et la non-reconnaissance, la Minotaure <em>est</em> de tout son être, de toute sa langue, au-delà de l’apparent et du su.  </p><p>Et c’est dans les intersections, dans la conscience de réalités, d’existences minoritaires, plurielles et multiples, dans les réflexions quant à la diffusion des luttes et de leurs existences en n’omettant pas de <em>nommer</em> ces autres qui ont été terrassées également par des oppressions systémiques parallèles, que, selon moi, la force poétique de <em>La Minotaure</em> frappe le plus. Dans la reconnaissance, dans la justesse d’une langue fine et qui, tout comme l’amoncellement d’oppressions et de luttes, ne promet pas de temps mort. Celle-ci s’essouffle, s’irrite, n’épargne pas. On ne cantonne pas la parole à un enjeu particulier seulement, la diffusion et la multiplication des luttes ne sont pas raison pour les taire au profit d’une en particulier.  </p><p>C’est aux moments dans le roman où le langage poétique est utilisé à plein escient que la force de l’expression d’une parole trop souvent tue et la dénonciation ont le plus d’effets.  </p><p>Muni.e d’«&nbsp;un langage que je perds et que je ne cherche pas à rattraper&nbsp;» (Maréchale, 2019&nbsp;: 8), Maréchale met en jeu tout le domaine de la représentation, tout ce qui est considéré comme vrai alors que le langage même est d’abord une scène interprétative, marquée par une conscience historique et matérialiste d’un monde qui se configure à l’échelle de ce qui lui est imposé par l’Homme (l’expression n’est pas féminisée, avec raison).  </p><p>Les stratégies dont use Maréchale afin de faire sienne une langue impérialiste qui ignore les minorités, qu’elles passent par l’hétérolinguisme marqué, l’utilisation des pronoms neutres, la féminisation, permettent de rappeler et de souligner le pouvoir du littéraire, la possibilité d’exister au-delà des limites. Sa transfiguration du langage conventionnel permet de dire ce qui est d’ordinaire soumis au miroir, dont les réflexions sont plus toxiques qu’expressions réelles et profondes d’une existence minoritaire. </p><p><em>La Minotaure</em>, marque définitivement un coup fort et promet pour la jeune collection «&nbsp;Queer&nbsp;», où le langage poétique et littéraire est non seulement promesse de dire ce qui autrement est tu, mais est également promesse d’écriture tonitruante et engagée.</p>"},"id":"2d8141a8-0b6b-4e45-bdf3-55405afc4fac","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: <em>Discussion autour de La Minotaure, avec Mariève Maréchale et Pierre-Luc Landry</em>. Entretien audio, enregistré par l’organisme Littérature québécoise mobile, Québec, 43 min, 2019. Disponible à <a href="https://opuscules.ca/article-audiotheque?article=233237">https://opuscules.ca/article-audiotheque?article=233237</a>
+
+----
+
+Cover: - file://pn15yYjD9sVUmOh4
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Miriam Sbih
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Date: 2019-04-26
+
+----
+
+Uuid: XmAzhYMyjkD63XdS

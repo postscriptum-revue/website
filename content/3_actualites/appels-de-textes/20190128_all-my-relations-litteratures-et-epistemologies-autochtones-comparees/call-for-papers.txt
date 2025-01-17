@@ -18,7 +18,7 @@ Intro-bibliography:
 
 ----
 
-Issue-cover: - file://KPhB4SSOIrmY5N98
+Cover: 
 
 ----
 
@@ -31,6 +31,14 @@ Issue-date: 2019-12-01
 ----
 
 Issue-editors: <ul><li>Marie-Eve Bradette</li></ul>
+
+----
+
+Date-end: 
+
+----
+
+Issue-cover: - file://KPhB4SSOIrmY5N98
 
 ----
 
@@ -109,3 +117,7 @@ We also invite authors to submit reviews related to the topic of this issue.
 ----
 
 Uuid: e2WPUvclZu67GaSx
+
+----
+
+Issued-date: 2019-01-28

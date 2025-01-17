@@ -55,3 +55,7 @@ Date: 2002-12-15
 ----
 
 Uuid: D2bIPZir8TMaiMSh
+
+----
+
+Issued-date: 2002-12-15

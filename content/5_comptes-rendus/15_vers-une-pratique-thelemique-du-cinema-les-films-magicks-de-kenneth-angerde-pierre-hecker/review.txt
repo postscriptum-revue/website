@@ -55,3 +55,7 @@ Date: 2007-03-06
 ----
 
 Uuid: z3XyuVjjGNGVB8Hj
+
+----
+
+Issued-date: 2007-03-06

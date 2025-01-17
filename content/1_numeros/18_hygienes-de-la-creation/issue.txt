@@ -10,11 +10,7 @@ Cover: - file://l4DwoFfc7jDP8mwP
 
 ----
 
-Color: rgb(124, 64, 50)
-
-----
-
-Date: 2015-05-15
+Issued-date: 2015-05-15
 
 ----
 
@@ -30,7 +26,7 @@ Credit-webmaster: Laurence Sylvain
 
 ----
 
-Intro-text: [{"content":{"text":"<p>Pour certains d’entre nous, penser à l’université relève d’une certaine pathologie. Sadisme, masochisme, schizophrénie, psychoses diverses qui vont parfois jusqu’à la narratologie ou, cela peut arriver aux meilleurs, d’inexplicables et pénibles épisodes de schématisme.</p>\n<p>Les spécialistes de la question nous prescriront : Encore trop de corps. Il faut exercer l’esprit plus régulièrement, éviter les courants d’air, et surtout favoriser l’élimination des toxines, des miasmes.</p>\n<p>Mais ces mêmes certains, incertains de l’efficacité des remèdes, commencent à douter du bien-fondé du diagnostic. Inévitablement, cela commence par un groupe de femmes, qui sont les premières à qui on remplit l’ordonnance, à cause de leur nature… douteuse. Autour de la popote, dans le babil de leurs jasettes de bonnes femmes, une question se fait insistante, ses grumeaux ne se défont pas dans la sauce, et on va bien finir par la poser avant de rater le ragoût.</p>\n<p>Cette question, est bien sûr celle du corps de la pensée, de la création (puisqu’ici, on aura la mégalomanie de décréter qu’elles sont une même chose).</p>\n<p>Puis, quelques hommes inquiétés sont conviés. Car un mystère reste entier : pourquoi le travail de la pensée dans le cadre universitaire, et plus particulièrement dans le rite de passage qu’est l’écriture de la thèse doctorale, se fait-il de façon si radicalement différente pour les hommes et les femmes ? Plus précisément, les femmes se demandent pourquoi tant d’hommes autour d’elles n’arrivent plus à produire ce travail, s’éternisent dans les confins d’une conclusion éternellement reportée ou quittent carrément le navire. Alors que les femmes qui retardent la conclusion le font le plus souvent pour des raisons « pratiques », c’est-à-dire l’enfantement. C’est un homme, qui préfère conserver l’anonymat afin que son dossier académique reste privé, qui a ouvert une piste : la thèse est pour un homme l’occasion de créer dans l’abstraction un univers où il pourra ensuite vivre et s’abriter pour un temps déterminé… ou indéterminé. Les femmes sont restées coites. Non pas qu’elles ne comprennent pas le besoin de s’exiler de l’hostile réalité (ou d’altérer cette dernière), au contraire, mais les mondes qu’elles créent ne leur offrent aucun abri, ne font que les confronter plus brutalement aux deuils infinis et aux orphelinages, aux morts et à la décomposition de ce monde-ci, leur écriture les y renvoie plus violemment. Et c’est ce qu’elles cherchent, sentinelles des couloirs, des coulisses du Savoir.</p>\n<p>Nous remercions la revue <em>Post-Scriptum.org</em> et sa vaillante équipe d’accueillir ces textes aux différents degrés d’hygiène. Car si nous sommes encore à l’Université, c’est que nous ne pouvons renoncer à une certaine hygiène de la pensée, à ses rituels de purification, à son refus de la décomposition, de la jouissance inféconde, de l’attente improductive et de l’intoxication fatale. Mais que leurs voix impures fassent entendre un murmure de corps, d’insoluble matière, et surtout de SALE PLAISIR !!!</p>\n<p>Merci spécialement aux auteurs pour leur don,<br>à Marie-Eve Bradette, pour son travail acharné et ses conseils, et à Mathieu Bédard pour la mise en ligne, à Adam Westra pour les traductions et révisions de l’anglais, et à Vincenzo Bruno pour la photographie inquiétante.</p>"},"id":"ba69b075-d5e3-45bf-92e8-75b5e9135d36","isHidden":false,"type":"text"}]
+Intro-text: [{"content":{"text":"<p>Pour certains d’entre nous, penser à l’université relève d’une certaine pathologie. Sadisme, masochisme, schizophrénie, psychoses diverses qui vont parfois jusqu’à la narratologie ou, cela peut arriver aux meilleurs, d’inexplicables et pénibles épisodes de schématisme.</p>\n<p>Les spécialistes de la question nous prescriront&nbsp;: Encore trop de corps. Il faut exercer l’esprit plus régulièrement, éviter les courants d’air, et surtout favoriser l’élimination des toxines, des miasmes.</p>\n<p>Mais ces mêmes certains, incertains de l’efficacité des remèdes, commencent à douter du bien-fondé du diagnostic. Inévitablement, cela commence par un groupe de femmes, qui sont les premières à qui on remplit l’ordonnance, à cause de leur nature… douteuse. Autour de la popote, dans le babil de leurs jasettes de bonnes femmes, une question se fait insistante, ses grumeaux ne se défont pas dans la sauce, et on va bien finir par la poser avant de rater le ragoût.</p>\n<p>Cette question, est bien sûr celle du corps de la pensée, de la création (puisqu’ici, on aura la mégalomanie de décréter qu’elles sont une même chose).</p>\n<p>Puis, quelques hommes inquiétés sont conviés. Car un mystère reste entier&nbsp;: pourquoi le travail de la pensée dans le cadre universitaire, et plus particulièrement dans le rite de passage qu’est l’écriture de la thèse doctorale, se fait-il de façon si radicalement différente pour les hommes et les femmes&nbsp;? Plus précisément, les femmes se demandent pourquoi tant d’hommes autour d’elles n’arrivent plus à produire ce travail, s’éternisent dans les confins d’une conclusion éternellement reportée ou quittent carrément le navire. Alors que les femmes qui retardent la conclusion le font le plus souvent pour des raisons «&nbsp;pratiques&nbsp;», c’est-à-dire l’enfantement. C’est un homme, qui préfère conserver l’anonymat afin que son dossier académique reste privé, qui a ouvert une piste&nbsp;: la thèse est pour un homme l’occasion de créer dans l’abstraction un univers où il pourra ensuite vivre et s’abriter pour un temps déterminé… ou indéterminé. Les femmes sont restées coites. Non pas qu’elles ne comprennent pas le besoin de s’exiler de l’hostile réalité (ou d’altérer cette dernière), au contraire, mais les mondes qu’elles créent ne leur offrent aucun abri, ne font que les confronter plus brutalement aux deuils infinis et aux orphelinages, aux morts et à la décomposition de ce monde-ci, leur écriture les y renvoie plus violemment. Et c’est ce qu’elles cherchent, sentinelles des couloirs, des coulisses du Savoir.</p>\n<p>Nous remercions la revue <em>Post-Scriptum.org</em> et sa vaillante équipe d’accueillir ces textes aux différents degrés d’hygiène. Car si nous sommes encore à l’Université, c’est que nous ne pouvons renoncer à une certaine hygiène de la pensée, à ses rituels de purification, à son refus de la décomposition, de la jouissance inféconde, de l’attente improductive et de l’intoxication fatale. Mais que leurs voix impures fassent entendre un murmure de corps, d’insoluble matière, et surtout de SALE PLAISIR&nbsp;!!!</p>\n<p>Merci spécialement aux auteurs pour leur don,<br>à Marie-Eve Bradette, pour son travail acharné et ses conseils, et à Mathieu Bédard pour la mise en ligne, à Adam Westra pour les traductions et révisions de l’anglais, et à Vincenzo Bruno pour la photographie inquiétante.</p>"},"id":"ba69b075-d5e3-45bf-92e8-75b5e9135d36","isHidden":false,"type":"text"}]
 
 ----
 
@@ -43,6 +39,14 @@ Intro-subtitle:
 ----
 
 Intro-authors: <ul><li> Clara Dupuis-Morency</li></ul>
+
+----
+
+Color: rgb(124, 64, 50)
+
+----
+
+Date: 2015-05-15
 
 ----
 

@@ -42,7 +42,9 @@ Authors:
 
 - 
   name: Vincent Bouchard
-  affiliation: Université de Montréal / Université Paris III
+  affiliation: >
+    Université de Montréal / Université
+    Paris III
 
 ----
 
@@ -55,3 +57,7 @@ Date: 2004-12-15
 ----
 
 Uuid: r3u37R03aSBVSGvR
+
+----
+
+Issued-date: 2004-12-15

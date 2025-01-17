@@ -55,3 +55,7 @@ Date: 2018-02-19
 ----
 
 Uuid: mC77ttP6lLX6Sa3W
+
+----
+
+Issued-date: 2018-02-19
