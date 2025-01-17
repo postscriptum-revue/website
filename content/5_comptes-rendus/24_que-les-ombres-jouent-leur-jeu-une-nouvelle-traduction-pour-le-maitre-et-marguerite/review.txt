@@ -1,0 +1,57 @@
+Title: Que les ombres jouent leur jeu!
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: Une nouvelle traduction pour le <em>Maître et Marguerite</em>
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Boulgakov, Mikhaïl. <em>Le Maître et Marguerite. </em>Traduit par André Markowicz et Françoise Morvan. Paris&nbsp;: Éditions inculte, 2020.</p>"},"id":"b33cff6b-8f91-4f75-844f-c2c8d26c8806","isHidden":false,"type":"text"},{"content":{"text":"a walking shadow, a poor player that struts and frets<br>his hour upon the stage and then is heard no more.","citation":"(Shakespeare 2005, 156)"},"id":"d7b67e00-2c52-4f33-a017-e588b4abedc7","isHidden":false,"type":"quote"},{"content":{"text":"les ombres du soir jouaient leur jeu","citation":"(Boulgakov 2020, 435)"},"id":"887ddb95-9cd3-408d-9ffb-1e425cd1c36e","isHidden":false,"type":"quote"},{"content":{"text":"<p>Entre! Entre, et vois – les voici, elles paraissent, les pauvres âmes, pauvres comédiennes qui, valsant entre sérieux redoutable et comique grinçant, auront le plaisir de te divertir. Les voici, les ombres, qui, l’espace de quelques heures, quelques soirées, une éternité, paraderont et se rongeront d’angoisse, feront craquer les planches, pour ton bon plaisir. Entre, chère lectrice, cher lecteur, et vois – Jérusalem, Moscou, la lune, les roses, l’orage. Les ombres y jouent leur jeu. Elles se pavanent et se rongent le temps d’un roman, saluent bien bas, et puis, repos.</p><p>Amie, il faut suivre, écouter les mots – un maître en a bâti un vaste théâtre, une immense scène, où s’affairent des hommes de bien et bien d’autres encore. Écoute, car c’est à Moscou que le diable tient son bal, cette année. À Moscou, avec ses deux poids, ses deux mesures, ses files d’attente, sa phobie de l’espionnage et ses valses de logements. C’est à Moscou que le diable paraît, par une soirée torride près des étangs du Patriarche, qu’il fait sa première victime littéraire – littéralement: c’est le président de l’association des écrivains qui en perdra sa tête. Dans la ville « chauffée à blanc » (Boulgakov 2020, 18 ; 527), le diable et ses acolytes sèment le désordre. (Un mot qui, tu dois t’en douter, ne fait pas le bonheur des censeurs soviétiques[[Les passages censurés (entre autres sur le désordre) sont indiqués entre crochets dans une des premières éditions françaises, traduite par Claude Ligny : Boulgakov 1968.]]). Il y aura spectacle de prestidigitation, il y aura sabbat, il y aura chorale irrépressible et diabolique. Il y aura amour digne des tragédies immémoriales, entre le héros, romancier torturé, et Marguerite – belle et intelligente, comme doit l’être l’héroïne. Et à Jérusalem, quelques millénaires plus tôt, comme si c’était aujourd’hui, Ponce Pilate passera justice, écrasé de ciel torride et d’odeur de rose.</p><p>Tu vois, lecteur, fidèle à tout bon roman russe, le drame solennel côtoie le rire. Même le moins drôle des hommes, le chevalier Ponce Pilate, est prétexte d’humour, lorsque son nom est répété, puis répété encore, lorsqu’invoquer son nom justifie les fous ou atteste leur folie. Ce tragi-comique Ponce Pilate, le jour du verdict, oui, le fameux jour de la croix, présage son immortalité dans des éclairs de lucidité douloureuse. Moments où s’empilent les temporalités, moments où la marche de l’histoire, la marche de l’écrit, se révèle. Ponce Pilate, prisonnier de sa postérité, prisonnier du roman.</p><p>L’écrit, dans le monde du <em>Maître, </em>est objet de la plus grande crainte et de la plus grande dévotion. Dévotion tragique de Marguerite, dévotion presque drôle du disciple Matthieu Lévi, qui suit, note et déforme les mots du prophète qui l’exhorte à le laisser tranquille. L’écrit est l’enjeu capital, dans le monde monté par Boulgakov – miroir de celui où il vit, où il doit échapper à la censure, à la destruction. Marguerite, sauvant le maître grâce aux faveurs du diable, sauve son œuvre du même coup. Les textes de Boulgakov lui-même, et de son compagnon poète Mandelstam sont protégés par leurs épouses. Les épouses s’affairent dans l’ombre. Travail risqué. Travail patient. Rigoureux. Elles recueillent, assemblent, recollent les morceaux. Elena Boulgakova termine l’œuvre de son défunt mari. Puis, s’entame la longue valse des parutions, les publications fragmentées, étrangères, ou clandestines. Nadejda Mandelstam apprend par cœur des manuscrits entiers pour déjouer la censure (<em>Ibid.</em>, 9). Le papier n’est pas assez solide. Pas de magie, cette fois, qui fait renaître de leurs cendres les manuscrits. Manuscrits incriminants, lourds de preuves, mais volatiles. Et dans l’ombre, toujours dans l’ombre, travaille la mémoire des femmes. Dans le théâtre que mène Boulgakov, réponse peut-être à l’instabilité des textes, textes toujours en péril, les manuscrits sont sacrés. Dans leur sillage, les disciples et les épouses, Matthieu Lévi et Marguerite, recueillent les mots comme une ressource précieuse, digne de torrents de larmes, digne de sacrifice.</p><p>Ami, les scènes auxquelles tu assistes tirent des éclats de rire. Les fonctionnaires deviennent à contre-cœur barytons et sopranos, les sorcières vengeresses explosent les fenêtres des critiques littéraires et les assassinats à Jérusalem prennent des airs de douteux roman policier. Mais ne vois-tu pas, derrière, tout proche, juste là sous les mots, la question de vie ou de mort qui miroite, lorsque tu plisses les yeux. Derrière l’absurde, ou peut-être parmi l’absurde et la démesure: un sérieux inouï. Enchâssés à la démesure, des passages touchants, touchants comme Boulgakov qui dicte sa dernière œuvre, qui inachève sa dernière œuvre. Touchante est l’épouse qui exulte, « Invisible! Libre! », le temps d’un vol dans la nuit. (Écrire le mot «libre», tu t’en doutes, est aussi risqué que celui de « désordre »[[La censure du mot «&nbsp;Libre&nbsp;»&nbsp;est indiquée en note dans Boulgakov 2020, 335.]]). Touchant est le héros qui trouve la tranquillité, ou la paix d’esprit, ou le silence. Joie et immense tristesse– c’est avec ces mots que Markowicz clôt sa préface, et ouvre le bal.</p><p>Alors c’est possible, ce miroitement, dans notre langue moins malléable, notre langue de détours? Lectrice, outre le maître, outre les épouses, cette joie et cette tristesse dépendent aussi de l’ouvrage de Markowicz et Morvan, de l’adresse de leurs acrobaties. (Et pour l’inculte, néophyte en affaires russes, de quelques notes bien choisies, évoquant les subtilités de cette langue lointaine). Oui, un jeu d’équilibre: texte riche, mais épuré, images simples, mais puissantes. L’image y est tout autant évocatrice que terre-à-terre. La cape du procurateur est blanche avec une doublure rouge sang (<em>Ibid.</em>, 35). Les statues de bronze de Ierchalaïm brûlent dans le couchant (<em>Ibid</em>., 470), brûlantes d’un impitoyable soleil. Lors du vol de la sorcière, la lune file comme une folle, l’air se froisse dans un grand fracas (<em>Ibid</em>., 344-345). Marguerite sur son balai est simplement « la volante ». Les phrases, légères, s’envolent aussi, elles filent droit au but. Les images sont courtes, précises. Le texte ne s’encombre pas. Sont évités les « sembler que, se mettre à, causé par, en effet » et autres détours. Il fallait trouver, semble-t-il, le plus de richesse dans l’expression la plus fulgurante. Fulgurante, et précise, et sonore.</p><p>Les dialogues, répliques bien ficelées, fonctionnent, à travers la grandiloquence, car ils se <em>disent</em>. Dans la bouche de Ieshoua, les «hommes de bien» (<em>Ibid</em>., 37) remplacent les moins efficaces « bons hommes » (Boulgakov 1968, 63). « Quelle sale ville », marmonne Ponce Pilate (Boulgakov 2020, 51), là où il grommelait autrefois « ville détestable » (Boulgakov 1968, 75). Informé du comportement étrange de l’exécuté du mont Chauve, le procurateur interroge « Étrange comment? » (Boulgakov 2020, 429), et non « qu’a-t-il fait de bizarre? » (Boulgakov 1968, 407). En Judée, les échanges entre personnages millénaires ressortent, et le dynamisme à l’œuvre derrière tout le projet y saute particulièrement aux yeux. Cette traduction à la force subtile, qui ne se révèle pas immédiatement, elle semble faite pour être prononcée.</p><p>Sur la scène rebâtie par Morvan et Markowicz, les mots s’imposent et résonnent comme dans la bouche d’un conteur. Sur cette scène paradent les poètes, administrateurs, sorcières, légionnaires romains: pauvres âmes comédiennes, tenues par le joug de l’écrit. Sur cette scène, ces comédiennes déclament avec délectation, elles s’amusent des noms des protagonistes, s’amusent des sonorités, du plaisir simple de <em>dire</em>. Le maître sait dès le départ qu’il terminera son roman avec ce nom à la sonorité frappante: le cinquième procurateur de Judée, Ponce Pilate. Boulgakov fermera son œuvre des mêmes mots.</p><p>Et à la question diffuse – mais pourquoi <em>Ponce Pilate</em>? – qui te taraude sans doute alors que le rideau tombe, je réponds, ami, que toutes les âmes sont égales dans le monde du <em>Maître</em> et que là la joie et là l’enjeu. Toutes tragédiennes sur la scène du roman. Toutes sur le même plan, dans la même réalité. Que toutes sont personnages. Toutes historiques.</p><p>Que la reine Marguerite se balade sur le boulevard avec des fleurs jaunes à la main.</p><p>Que le diable se balade à Moscou et s’entretient avec des hommes de lettres.</p><p>Que Ieshoua de Nazareth palabre et s’inquiète.</p><p>Que Ponce Pilate n’est qu’un autre de ces hommes à la conscience malade, un homme aux airs de tortionnaire du 20e siècle. (Comme si c’était hier.)</p><p>Tout à fait plausible, réel. Et imaginé. Une ombre dans la lueur trouble de la lune.</p>"},"id":"bded3e50-736d-4e2f-a75b-78b9d5044b14","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: <ul><li>Boulgakov, Mikhaïl. <em>Le Maître et Marguerite. </em>Traduit par Claude Ligny. Paris&nbsp;: Laffont, 1968.  </li><li>Shakespeare, William. <em>Macbeth. </em>New Haven&nbsp;: Yale University Press, 2005.</li></ul>
+
+----
+
+Cover: - file://ix2e9cpXQYqKjncV
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Sarah Labelle
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Date: 2022-09-10
+
+----
+
+Uuid: s4ls2i3Uqlj8Jfem

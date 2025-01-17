@@ -18,7 +18,7 @@ Cover: - file://oTH6amFKzsxevetL
 
 ----
 
-Date: 2025-04-24
+Issued-date: 2025-04-24
 
 ----
 
@@ -27,6 +27,10 @@ Organizers: <ul><li>Aglaé Boivin</li><li>Thomas Filteau</li></ul>
 ----
 
 Date-end: 2025-01-10
+
+----
+
+Date: 2025-04-24
 
 ----
 

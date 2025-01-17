@@ -17,7 +17,7 @@ if (count($recent_posts) > 0): ?>
 						<p>
 							<?= $p->blueprint()->title() ?>
 						</p>
-						<small><?= formatDate($p->date(), "MMMM yyyy") ?></small>
+						<small><?= formatDate($p->issued_date(), "MMMM yyyy") ?></small>
 
 						<a href="<?= $p->url() ?>">
 							<ul class="toc__item-authors-list">

@@ -10,11 +10,7 @@ Cover: - file://TXrYfWsOnDTZh8v3
 
 ----
 
-Color: rgb(125, 125, 101)
-
-----
-
-Date: 2018-12-13
+Issued-date: 2018-12-13
 
 ----
 
@@ -43,6 +39,14 @@ Intro-subtitle:
 ----
 
 Intro-authors: <ul><li>Marie-Eve Bradette</li></ul>
+
+----
+
+Color: rgb(125, 125, 101)
+
+----
+
+Date: 2018-12-13
 
 ----
 

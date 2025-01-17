@@ -18,7 +18,7 @@ Intro-bibliography:
 
 ----
 
-Issue-cover: 
+Cover: 
 
 ----
 
@@ -31,6 +31,14 @@ Issue-date: 2020-12-18
 ----
 
 Issue-editors: 
+
+----
+
+Date-end: 
+
+----
+
+Issue-cover: 
 
 ----
 
@@ -151,3 +159,7 @@ Text:
 ----
 
 Uuid: ZPOV8OWYtn7HSv1x
+
+----
+
+Issued-date: 2020-12-18 15:36:38

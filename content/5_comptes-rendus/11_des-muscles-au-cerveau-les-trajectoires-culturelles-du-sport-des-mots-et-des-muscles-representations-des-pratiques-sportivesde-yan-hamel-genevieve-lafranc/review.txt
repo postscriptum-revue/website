@@ -55,3 +55,7 @@ Date: 2005-06-01
 ----
 
 Uuid: 3qeZ0jPSJi6mv0lj
+
+----
+
+Issued-date: 2005-06-01

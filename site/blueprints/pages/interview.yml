@@ -25,6 +25,8 @@ columns:
         width: 1/3
         fields:
             details: fields/article-details
-            date:
+            issued_date:
                 type: date
                 label: Date de publication
+                required: true
+                default: today

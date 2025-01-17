@@ -55,3 +55,7 @@ Date: 2007-07-20
 ----
 
 Uuid: JFO58kVzfpI4bojG
+
+----
+
+Issued-date: 2007-07-20

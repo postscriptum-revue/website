@@ -18,7 +18,7 @@ Intro-bibliography:
 
 ----
 
-Issue-cover: 
+Cover: 
 
 ----
 
@@ -31,6 +31,14 @@ Issue-date: 2021-10-21
 ----
 
 Issue-editors: 
+
+----
+
+Date-end: 
+
+----
+
+Issue-cover: 
 
 ----
 
@@ -345,3 +353,7 @@ Text:
 ----
 
 Uuid: dXtSvsFfHLqtgPUj
+
+----
+
+Issued-date: 2021-10-21 01:18:15
