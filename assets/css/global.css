@@ -31,6 +31,9 @@ main {
 
 img {
 	width: 100%;
+	object-fit: contain;
+	max-height: 90vh;
+	max-width: 90vw;
 	cursor: zoom-in;
 }
 
