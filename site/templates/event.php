@@ -7,6 +7,8 @@
 	<section class="site-aside__section article-bibliography">
 		<?= $bibliography ?>
 	</section>
+<?php else : ?>
+	<?php snippet("site/issue-aside", $last_issue) ?>
 <?php endif ?>
 <?php endslot() ?>
 
