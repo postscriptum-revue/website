@@ -6,11 +6,11 @@ Title-needs-formatting: false
 
 ----
 
-Formatted-title: Les apocalypses de l’identité ou Virginie Despentes, écrivaine punk
+Formatted-title: Les apocalypses de l’identité&nbsp;ou Virginie Despentes, écrivaine punk
 
 ----
 
-Subtitle: sur <em>Punk rockthéorie : Despentes et la destruction de l’identité</em>
+Subtitle: sur <em>Punk rockthéorie&nbsp;: Despentes et la destruction de l’identité</em>
 
 ----
 
@@ -55,3 +55,7 @@ Date: 2024-09-24
 ----
 
 Uuid: j7WxpObxvnQ91Jmr
+
+----
+
+Issued-date: 2024-09-24

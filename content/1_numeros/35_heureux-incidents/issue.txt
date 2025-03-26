@@ -10,7 +10,7 @@ Cover: - file://ZcrS9xc9OnzUOBhE
 
 ----
 
-Date: 2023-11-16
+Issued-date: 2023-11-16
 
 ----
 
@@ -39,6 +39,10 @@ Intro-subtitle:
 ----
 
 Intro-authors: <ul><li>L’équipe de Post-Scriptum</li></ul>
+
+----
+
+Date: 2023-11-16
 
 ----
 

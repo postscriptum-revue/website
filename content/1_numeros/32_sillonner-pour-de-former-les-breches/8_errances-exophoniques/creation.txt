@@ -1,0 +1,76 @@
+Title: Errances exophoniques
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: 
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p><a href=\"https://archive.post-scriptum.org/wordpress/wp-content/uploads/2022/06/Universite%CC%81-de-Montre%CC%81al-6.m4a\">https://archive.post-scriptum.org/wordpress/wp-content/uploads/2022/06/Université-de-Montréal-6.m4a</a></p>"},"id":"1c989b4d-8d63-4d7b-b71e-d57df8002b02","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Cover: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Flora Roussel
+  affiliation: Université de Montréal
+- 
+  name: Miriam Sbih
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+References: -
+
+----
+
+Number: 8
+
+----
+
+Uuid: xf909zKo0D5i1DHv
+
+----
+
+Date: 

@@ -55,3 +55,7 @@ Date: 2016-11-24
 ----
 
 Uuid: 48iSPsW6GHzPSq7Y
+
+----
+
+Issued-date: 2016-11-24

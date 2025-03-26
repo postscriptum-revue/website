@@ -30,7 +30,7 @@ Bibliography: <ul><li>Ajari, Norman et Salima Naït Ahmed. « Peut-on connaître
 
 ----
 
-Cover: - file://x6M0sWuK6RgUCG8H
+Cover: - file://evGshDd2UChuIGOc
 
 ----
 
@@ -50,6 +50,10 @@ Keywords:
 
 ----
 
+Issued-date: 2024-05-13
+
+----
+
 Date: 2024-05-13
 
 ----
@@ -58,4 +62,4 @@ Uuid: BMroESOy6TP6exdS
 
 ----
 
-Color: rgb(142, 119, 102)
+Color: rgb(145, 117, 100)

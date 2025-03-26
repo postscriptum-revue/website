@@ -15,7 +15,7 @@
 						<a href="<?= $news_item->url() ?>">
 							<ul>
 								<li>
-									<small><?= formatDate($news_item->date(), "MMMM yyyy") ?></small>
+									<small><?= formatDate($news_item->issued_date(), "MMMM yyyy") ?></small>
 								</li>
 								<li>
 									<?= $news_item->blueprint()->title() ?>

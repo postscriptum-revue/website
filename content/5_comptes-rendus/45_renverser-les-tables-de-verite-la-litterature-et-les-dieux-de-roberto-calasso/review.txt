@@ -55,3 +55,7 @@ Date: 2003-06-15
 ----
 
 Uuid: a6H4vNFPjzX9goca
+
+----
+
+Issued-date: 2003-06-15

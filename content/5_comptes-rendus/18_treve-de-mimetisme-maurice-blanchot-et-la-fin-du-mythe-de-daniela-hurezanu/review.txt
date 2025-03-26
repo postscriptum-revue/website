@@ -1,0 +1,57 @@
+Title: Trêve de mimétisme
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: <em>Maurice Blanchot et la fin du mythe</em> de Daniela Hurezanu
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Daniela HUREZANU,&nbsp;Maurice&nbsp;Blanchot&nbsp;et&nbsp;la&nbsp;fin&nbsp;du&nbsp;mythe, New Orleans, Presses Universitaires du Nouveau Monde, 2003, 231 pages.</p>"},"id":"532f4a5c-33c8-4c78-bd65-c6486792654b","isHidden":false,"type":"text"},{"content":{"text":"<p>Qui veut saisir les dimensions et les limites du projet esthétique de Maurice Blanchot se heurte à la difficulté d’une écriture hybride, qui ne semble pas trouver de matérialisation rêvée entre la poésie, la théorie et la fiction. L’auteur de&nbsp;<em>L’espace&nbsp;littéraire</em> nous a habitué à une création qui est recherche de création, qui avance sans arriver à <em>se&nbsp;donner&nbsp;une&nbsp;image</em>&nbsp;(31), procurant un ravissement esthétique montant par vagues avant de s’émietter en une infinité de rigoles qui sont à chaque fois recueillies à nouveau dans l’effort de l’écriture, moins la force de la figure, comme si le sujet procédait à chaque fois à une élimination systématique de la tentation d’arriver à une fiction complète.  </p><p>En bonne élève, Daniela Hurezanu s’écarte d’office de tous les horizons de lecture préconçus de l’œuvre de Blanchot. Collaborateur sous Vichy, penseur de l’antisémitisme, rédacteur de la NRF&nbsp;: elle liquide de prime abord toutes ces dimensions du personnage pour «&nbsp;lire Blanchot comme s’il n’était qu’un écrivain&nbsp;». L’écriture, la voix et le mythe sont donc les trois avenues empruntées par l’auteure qui, en employant un&nbsp;jeassuré, propose de dégager le sens non seulement des œuvres de Blanchot, mais de leur nombreuse postérité. Aussi, elle fait résonner les œuvres à travers les séminaires de Lacoue-Labarthe, les lectures heideggériennes et les interprétations derridiennes, communes aux approches américaines et françaises d’un Blanchot «&nbsp;déjà lu&nbsp;», balayant du revers de la main toutes les tentations&nbsp;postmodernisantes&nbsp;susceptibles d’inoculer son travail.  </p><p>Elle nous explique cette disposition par le truchement d’un mythe, celui d’Ulysse, qui se fait attacher pour écouter sans risque le chant des Sirènes, tel l’écrivain utilisant la technique pour ne pas céder à l’enivrante possibilité de l’écriture. Aussi, il obtient sa «&nbsp;médiocre jouissance&nbsp;» au prix de «&nbsp;la distance qu’il réussit à mettre entre le mot et la chose, la séparation introduite dans le monde entre le réel et l’imaginaire, la chute du logos en langage et donc l’avènement de l’art comme spectacle&nbsp;» (40).  </p><p>Aussi, on comprend par la plume d’Hurezanu que l’impression fuyante que laisse la prose de Blanchot est due à ce refus de la ruse technique. C’est en suivant la logique de son guide que l’interprète, délaissant le romancier que l’on avait découvert à travers&nbsp;<em>L’arrêt&nbsp;de&nbsp;mort</em>&nbsp;et&nbsp;<em>Celui&nbsp;qui&nbsp;ne&nbsp;m’accompagnait&nbsp;pas</em>, se consacre au versant théorique de l’œuvre et, par là, à la quête métaphysique sous-tendue par le processus de l’écriture.  </p><p>C’est&nbsp;<em>Le&nbsp;regard&nbsp;d’Orphée</em>, partie-clé de&nbsp;<em>L’espace&nbsp;littéraire</em>, qui fournit à Hurezanu le schème de l’événement mythique&nbsp;: Orphée se voit imposer l’interdit de la fascination immédiate, et obligé à retrouver cette extase originelle</p>"},"id":"a9604c00-4f79-4e75-9326-e96c329182f7","isHidden":false,"type":"text"},{"content":{"text":"par le travail efficace et technicisé qui donne naissance au chant diurne mais qui éloigne en même temps le Poète de la nuit mythique de la rencontre non médiatisée avec Eurydice. La leçon du mythe serait donc la suivante&nbsp;: l’apparition de la loi comme interdit qui invite à la transgression, la naissance du sujet en tant qu’être fini, le travail et l’origine de l’art comme «&nbsp;jeu&nbsp;» séparé du mythe, sont les différents visages d’un seul événement.","citation":"(39)"},"id":"8ad5e0f7-dc2f-4284-988f-f6729cfd5087","isHidden":false,"type":"quote"},{"content":{"text":"<p>Image de l’écriture selon Blanchot&nbsp;: un retour au mythe, par l’investissement complet de chaque mot, par une plongée dans l’angoisse originelle de la perte. C’est par le mythe que débute l’inspiration, sentiment négatif ressenti et pensé à partir de tous les vocables possibles&nbsp;: l’écart, le neutre, la mort, le vide, le néant, le manque, la perte, l’inexistence, qui sont tous autant de chemins empruntés pour arriver à l’œuvre&nbsp;: «&nbsp;L’œuvre serait ici la Cathédrale toujours à recommencer, dont l’accomplissement ne peut se faire que par un acte à même de mettre fin à cette répétition incessante&nbsp;: un sacrifice&nbsp;» (68).  </p><p>La construction de l’œuvre se fait en fonction des limites de l’expérience humaine&nbsp;: en bon lecteur de Heidegger, l’auteur de&nbsp;<em>L’entretien&nbsp;infini</em>&nbsp;définit l’existence humaine comme un exil hors de son fondement. Par conséquent, le retour vers soi (passant inévitablement par l’art) est toujours déjà un ratage, une projection vers le dehors&nbsp;; ce n’est que dans l’acte de se représenter que l’humain retrouve brièvement l’unité de son être, pour la reperdre aussitôt.  </p><p>C’est par une synthèse entre la théorie hégélienne de la négativité et de la vision heideggérienne de l’œuvre d’art comme existence en soi qu’Hurezanu trouve la clé du discours indéterminé de Blanchot, un discours qui défie l’autorité idéologique et théologique, pour «&nbsp;se retourner contre un langage de la représentation, en faveur d’une parole en dehors de tout pouvoir de signifier, parole nue qui se dérobe à toute maîtrise, c’est essayer d’envisager la parole comme se dérobant à toute tentative du pouvoir de se la subordonner&nbsp;» (98).  </p><p>Cette écriture se refuse donc à toute dépendance au monde objectif, toute soumission aux choses du monde. Suivant la logique filiale de l’existentialisme, Hurezanu pose&nbsp;<em>La&nbsp;part&nbsp;du&nbsp;feu</em>&nbsp;comme un palimpseste sous lequel transparaît encore&nbsp;<em>L’imaginaire</em>&nbsp;de Sartre. Proclamant l’ambiguïté des objets imaginaires, leur absence de contours, Sartre conclut à leur insubordination totale au monde réel. Par l’imaginaire, c’est donc une liberté totale qui s’avère. Cela expliquerait, entre autres choses, le refus de Blanchot non seulement de conformer son écriture à une forme canonique, mais aussi de subordonner l’émotion à un évènement ressenti par le truchement d’une personne, comme il est de mise dans le roman&nbsp;; l’évènement peut se narrer comme s’il se vivait de lui-même ou être le lieu où plusieurs voix se retrouvent&nbsp;: «&nbsp;Fondé sur ce désir, le récit, tel que Blanchot le conçoit, représente non seulement le genre qui a le mieux conservé la conscience mythique, mais aussi, en tant qu’expression essentielle du rapport avec l’origine, la puissance même de la parole&nbsp;» (108).  </p><p>C’est dans cet esprit qu’Hurezanu assaille le sempiternel précepte du postmodernisme qui veut que la littérature n’ait pas de fondement pour indiquer que, chez Blanchot, la littérature est recherche de fondement, «&nbsp;désir de remplir un abîme&nbsp;». Cet élan qui démarre avec la force du sacrifice inaugural ne trouve pas son accomplissement, son achèvement parfait, comme en témoignent les idylles incomplètes de&nbsp;<em>L’arrêt&nbsp;de&nbsp;mort</em>&nbsp;et&nbsp;<em>Au&nbsp;moment&nbsp;voulu</em>, clôturées par le décès à peine raconté des protagonistes féminins et illustrant «&nbsp;l’infini du désir qui ne peut s’accomplir esthétiquement qu’en se niant&nbsp;».  </p><p>On clôt cette topographie des écrits de Blanchot par une partie qui porte sur l’écrivain engagé de&nbsp;<em>L’amitié</em>&nbsp;et&nbsp;<em>L’écriture&nbsp;du&nbsp;désastre</em>. On résiste à la tentation de rappeler les filiations politiques de l’homme de lettres pour se concentrer sur les actes les plus révolutionnaires qu’il ait commis&nbsp;: ses livres.</p>"},"id":"effc80fa-1e38-47a3-aa9f-d265f8230975","isHidden":false,"type":"text"},{"content":{"text":"La vraie opposition est, dit-il, une opposition qui nie le réel lui-même, aussi bien que d’autres œuvres – c’est-à-dire les autres univers réels ou possibles. Cette opposition est la seule opposition créatrice, et c’est à elle seule que Blanchot attribue le caractère de «&nbsp;révolutionnaire&nbsp;».","citation":"(185)"},"id":"c6943795-ba93-4360-87e0-fa13584b83c6","isHidden":false,"type":"quote"},{"content":{"text":"<p>En paraphrasant Bataille, Hurezanu conclut que la littérature permet un&nbsp;saut&nbsp;vers le sacré, vers l’utopie, vers la communauté. C’est donc une vision messianique de l’écriture qui se dégage des réflexions politiques de Blanchot. Des&nbsp;<em>Intellectuels&nbsp;en question</em>, un texte qui se démarque par son ton lucide, on tire un portrait du «&nbsp;travail de déconstruction de la raison qui s’est poursuivi en Occident depuis la seconde guerre&nbsp;». Blanchot y produit une réflexion sur la fonction des intellectuels, ces «&nbsp;spécialistes de la non-spécialité&nbsp;» (190), en proposant des jalons historiques et sociaux révisés. Le choix de relire ce texte en fin de parcours n’est pas anodin, quand on sait que la vie intellectuelle, pour Blanchot, devait absolument être subordonnée à la vie citoyenne.  </p><p>Dans ce livre qui convoque Heidegger, Derrida, Lacoue-Labarthe, Bataille et Nancy, on retrouve en des parallèles nombreux et profonds une conception du temps, de la littérature et de l’expérience humaine fondée sur le mythe. Le projet de Blanchot n’en demeure pas moins surdimensionné, mais il est relu en passant par les chemins en friche de l’imaginaire, ce qui redonne un peu de fraîcheur à une œuvre très fréquentée par les philosophes. «&nbsp;Peut-être devons-nous dire de Blanchot, comme il l’a dit à propos de Sartre, qu’heureusement l’idéologue en lui a été surpassé par l’écrivain en lui. Et remercier les dieux chaque fois que la philosophie perd devant la littérature&nbsp;» (222).</p>"},"id":"229a67a6-0d72-403e-9c5f-4cb814257804","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Cover: - file://f0Cz8szHZJBcuK4j
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Marianne Villeneuve
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Date: 2007-07-20
+
+----
+
+Uuid: JFO58kVzfpI4bojG

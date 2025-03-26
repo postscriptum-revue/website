@@ -57,3 +57,7 @@ Date: 2003-06-15
 ----
 
 Uuid: 7ScYlTvr63a00ghP
+
+----
+
+Issued-date: 2003-06-15

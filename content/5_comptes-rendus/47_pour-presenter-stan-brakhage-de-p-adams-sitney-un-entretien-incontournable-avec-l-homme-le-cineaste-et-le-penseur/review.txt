@@ -55,3 +55,7 @@ Date: 2002-12-15
 ----
 
 Uuid: UEzGB7vfcVTEVl9W
+
+----
+
+Issued-date: 2002-12-15

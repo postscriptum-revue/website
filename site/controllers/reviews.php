@@ -5,7 +5,7 @@ use Kirby\Cms\Pages;
 return function ($site) {
 	$reviews = $site->index()
 		->filterBy('template', 'review')->listed()
-		->sort(fn($interview) => $interview->nonEmptyDate(), 'desc');
+		->sort('issued_date', 'desc');
 
 	$last_issue = page("numeros")->children()->listed()->last();
 

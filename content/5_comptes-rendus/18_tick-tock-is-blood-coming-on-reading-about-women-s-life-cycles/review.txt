@@ -60,3 +60,7 @@ Date: 2019-12-10
 ----
 
 Uuid: VdMbgCQrvmqnjIIx
+
+----
+
+Issued-date: 2019-12-10

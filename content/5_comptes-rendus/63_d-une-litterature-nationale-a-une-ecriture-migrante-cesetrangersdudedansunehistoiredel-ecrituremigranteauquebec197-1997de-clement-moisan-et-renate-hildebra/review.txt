@@ -55,3 +55,7 @@ Date: 2003-11-01
 ----
 
 Uuid: uZxn9BxzbUQuRVtP
+
+----
+
+Issued-date: 2003-11-01

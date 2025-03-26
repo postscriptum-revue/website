@@ -55,3 +55,7 @@ Date: 2002-10-15
 ----
 
 Uuid: maXEBIyQDyOS5zDD
+
+----
+
+Issued-date: 2002-10-15

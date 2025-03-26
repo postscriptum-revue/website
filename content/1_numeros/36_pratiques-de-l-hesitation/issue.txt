@@ -10,7 +10,7 @@ Cover: - file://ElMrfzESD2Noq52I
 
 ----
 
-Date: 2024-04-26
+Issued-date: 2024-04-26
 
 ----
 
@@ -39,6 +39,10 @@ Intro-subtitle:
 ----
 
 Intro-authors: <ul><li>Thomas Filteau</li></ul>
+
+----
+
+Date: 2024-04-26
 
 ----
 

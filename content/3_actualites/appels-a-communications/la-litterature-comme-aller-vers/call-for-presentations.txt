@@ -1,0 +1,37 @@
+Title: La Littérature comme aller-vers
+
+----
+
+Subtitle: Pour une épistémologie littéraire extra-humaine
+
+----
+
+Intro-text: 
+
+----
+
+Intro-bibliography: 
+
+----
+
+Cover: - file://jvsgv1Dihid0eOTQ
+
+----
+
+Date: 2024-04-25
+
+----
+
+Organizers: <ul><li>Jonathan Paquette</li><li>Hugo Satre</li></ul>
+
+----
+
+Date_end: 2024-01-15
+
+----
+
+Uuid: OdlKXkTjcWxGkGMm
+
+----
+
+Color: rgb(119, 127, 110)

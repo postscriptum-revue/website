@@ -55,3 +55,7 @@ Date: 2003-07-01
 ----
 
 Uuid: aeakfGx4jEund5x2
+
+----
+
+Issued-date: 2003-07-01

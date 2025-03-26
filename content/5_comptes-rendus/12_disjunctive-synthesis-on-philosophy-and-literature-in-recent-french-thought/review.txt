@@ -55,3 +55,7 @@ Date: 2011-07-04
 ----
 
 Uuid: p3mQtkBwvqT9PrGH
+
+----
+
+Issued-date: 2011-07-04

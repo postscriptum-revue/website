@@ -18,7 +18,7 @@ Intro-bibliography:
 
 ----
 
-Issue-cover: 
+Cover: 
 
 ----
 
@@ -31,6 +31,14 @@ Issue-date: 2023-04-21
 ----
 
 Issue-editors: 
+
+----
+
+Date-end: 
+
+----
+
+Issue-cover: 
 
 ----
 
@@ -397,3 +405,7 @@ Text:
 ----
 
 Uuid: FDemh1TYnjP0C0Bc
+
+----
+
+Issued-date: 2023-04-21 08:24:51

@@ -35,13 +35,14 @@ tabs:
                             cover: true
                         multiple: false
                         required: true
-                    date:
+                    issued_date:
                         type: date
                         label: Date de parution
                         # TODO: Weird bug where the year is always
                         #       2024, whichever year you choose.
                         # display: MMMM YYYY
                         help: Le jour n'importe pas.
+                        default: today
                         required: true
                     credit_editors:
                         type: list

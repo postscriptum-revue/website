@@ -8,7 +8,7 @@ return function () {
 	$all_news = new Pages();
 
 	foreach ($news_page->children() as $news_section) { 
-		$all_news->add($news_section->children()->listed());
+		$all_news->add($news_section->children()->listed()->sortBy('issued_date', 'desc'));
 	}
 
 	$future_news = new Pages();
@@ -29,34 +29,34 @@ return function () {
 
 	$comptesrendus = page('comptes-rendus')->children()->listed()->sortBy('date', 'desc');
 	$comptesrendus = $comptesrendus->filter(function ($comptesrendu) use ($timeAgo) {
-		return $comptesrendu->date()->toDate() >= strtotime('-3 months');
+		return $comptesrendu->issued_date()->toDate() >= strtotime('-3 months');
 	});
 	$recent_posts = $recent_posts->merge($comptesrendus);
 
-	$entretiens = page('entretiens')->children()->listed()->sortBy('date', 'desc');
+	$entretiens = page('entretiens')->children()->listed()->sortBy('issued_date', 'desc');
 	$entretiens = $entretiens->filter(function ($entretien) use ($timeAgo) {
-		return $entretien->date()->toDate() >= $timeAgo;
+		return $entretien->issued_date()->toDate() >= $timeAgo;
 		$strtotime('-3 months');
 	});
 	$recent_posts = $recent_posts->merge($entretiens);
 
-	$creations = page('creations')->children()->listed()->sortBy('date', 'desc');
+	$creations = page('creations')->children()->listed()->sortBy('issued_date', 'desc');
 	$creations = $creations->filter(function ($creation) use ($timeAgo) {
-		return $creation->date()->toDate() >= $timeAgo;
+		return $creation->issued_date()->toDate() >= $timeAgo;
 	});
 	$recent_posts = $recent_posts->merge($creations);
 
-	$recent_posts = $recent_posts->sortBy('date', 'desc');
+	$recent_posts = $recent_posts->sortBy('issued_date', 'desc');
 
 	$isIssueMoreRecent = true;
-	if (count($recent_posts) > 0 && 	$recent_posts->last()->date()->toDate() > $last_issue->date()->toDate()){
+	if (count($recent_posts) > 0 && 	$recent_posts->last()->issued_date()->toDate() > $last_issue->issued_date()->toDate()){
 		$isIssueMoreRecent = false;
 	}
 
 	return [
 		"last_issue" => $last_issue,
 		"latest_issues" => $latest_issues,
-		"all_news" => $all_news->flip(),
+		"all_news" => $all_news,
 		"future_news" => $future_news->flip(),
 		"recent_posts" => $recent_posts,
 		"isIssueMoreRecent" => $isIssueMoreRecent

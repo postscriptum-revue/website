@@ -57,3 +57,7 @@ Date: 2004-01-15
 ----
 
 Uuid: QTN3TuGjdRV2Lbhn
+
+----
+
+Issued-date: 2004-01-15

@@ -55,3 +55,7 @@ Date: 2002-10-15
 ----
 
 Uuid: Pm7rg30vNnhor66I
+
+----
+
+Issued-date: 2002-10-15

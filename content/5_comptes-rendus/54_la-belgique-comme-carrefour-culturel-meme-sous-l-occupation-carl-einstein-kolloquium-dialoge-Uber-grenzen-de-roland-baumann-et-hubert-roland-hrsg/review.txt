@@ -55,3 +55,7 @@ Date: 2003-09-20
 ----
 
 Uuid: DoRHTFtsZy05fIPb
+
+----
+
+Issued-date: 2003-09-20
