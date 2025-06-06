@@ -28,6 +28,13 @@
 	</hgroup>
 	<section class="text-section">
 		<?= $page->intro_text()->toBlocks()->collectFootnotes() ?>
+
+		<?php if ($page->footnotes()): ?>
+			<section class="footnotes">
+				<?= $page->footnotes() ?>
+			</section>
+		<?php endif ?>
+
 		<?php if ($page->bibliography()->isNotEmpty()): ?>
 			<ul style="margin-top: 3rem;">
 				<li>
@@ -37,12 +44,6 @@
 			</ul>
 		<?php endif ?>
 	</section>
-
-	<?php if ($page->footnotes()): ?>
-	<section class="footnotes">
-		<?= $page->footnotes() ?>
-	</section>
-	<?php endif ?>
 
 </section>
 
