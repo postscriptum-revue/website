@@ -3,7 +3,7 @@
 return function ($page) {
 	$issue_color = $page->parent()->color();
 
-	$meta_authors = [];
+	$authors = [];
 
 	foreach ($page->authors()->toStructure() as $author):
 		$authors[] = $author->name();
@@ -19,8 +19,10 @@ return function ($page) {
 		$meta_description = substr(strip_tags($page->abstract_fr()), 0, 150) . "[...]";
 	} else {
 		$first_p = $page->text()->toBlocks()->filterBy('type', 'text')->first();
-		$first_p_clean = $first_p->text()->kirbytext()->excerpt();
-		$meta_description = substr($first_p_clean, 0, 150) . "[...]";
+		if ($first_p) {
+			$first_p_clean = $first_p->text()->kirbytext()->excerpt();
+			$meta_description = substr($first_p_clean, 0, 150) . "[...]";
+		}
 	}
 
 	return [

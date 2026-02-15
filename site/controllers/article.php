@@ -3,7 +3,7 @@
 return function ($page) {
 	$issue_color = $page->parent()->color();
 
-	$meta_authors = [];
+	$authors = [];
 
 	foreach ($page->authors()->toStructure() as $author):
 		$authors[] = $author->name();

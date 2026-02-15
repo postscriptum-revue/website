@@ -3,7 +3,6 @@
 use Kirby\Cms\Pages;
 
 return function () {
-	$authors = [];
 	$keywords = [];
 	$articles = new Pages();
 	$numeros = page("numeros")->children()->listed();
@@ -27,7 +26,6 @@ return function () {
 
 	return [
 		"articles" => $articles->sort("date", "desc"),
-		"authors" => $authors,
 		"keywords" => $keywords
 	];
 };

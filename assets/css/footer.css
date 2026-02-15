@@ -2,6 +2,8 @@
 	grid-column: span 8;
 
 	border-top: 1px solid;
+	padding-top: var(--spacing-sm);
+	font-size: var(--font-size-small);
 }
 
 @media (max-width: 850px) {

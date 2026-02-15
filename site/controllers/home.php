@@ -36,7 +36,6 @@ return function () {
 	$entretiens = page('entretiens')->children()->listed()->sortBy('issued_date', 'desc');
 	$entretiens = $entretiens->filter(function ($entretien) use ($timeAgo) {
 		return $entretien->issued_date()->toDate() >= $timeAgo;
-		$strtotime('-3 months');
 	});
 	$recent_posts = $recent_posts->merge($entretiens);
 

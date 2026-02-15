@@ -12,7 +12,7 @@ $max = $max ?? null;
 		<?php
 		if ($cover = $p->cover()->toFile()): ?>
 			<picture class="toc-grid__item-cover">
-				<img src="<?= $cover->url() ?>" alt="cover">
+				<img src="<?= $cover->url() ?>" alt="<?= $cover->alt_text()->esc() ?>" loading="lazy">
 			</picture>
 		<?php else: ?>
 			<div class="toc-grid__item-cover_blank"></div>

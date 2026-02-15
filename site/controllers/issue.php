@@ -10,12 +10,14 @@ return function ($page) {
 
 	$first_p = $page->intro_text()->toBlocks()->first();
 
-	if ($first_p->citation()->isNotEmpty()) {
+	if ($first_p && $first_p->citation()->isNotEmpty()) {
 		$first_p = $page->intro_text()->toBlocks()->nth(1);
 	}
 
-	$first_p_clean = $first_p->text()->kirbytext()->excerpt();
-	$meta_description = substr($first_p_clean, 0, 150) . "[...]";
+	if ($first_p) {
+		$first_p_clean = $first_p->text()->kirbytext()->excerpt();
+		$meta_description = substr($first_p_clean, 0, 150) . "[...]";
+	}
 
 
 	return [

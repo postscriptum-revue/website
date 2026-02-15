@@ -7,7 +7,7 @@
 					<?php
 					if ($cover = $news_item->cover()->toFile()): ?>
 						<picture>
-							<img src="<?= $cover->url() ?>" alt="cover">
+							<img src="<?= $cover->url() ?>" alt="<?= $cover->alt_text()->esc() ?>" loading="lazy">
 						</picture>
 					<?php endif; ?>
 

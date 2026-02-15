@@ -19,5 +19,11 @@ columns:
                 label: Bibliographie
     right:
         width: 1/3
-        fields:
-            details: fields/article-details
+        sections:
+            details:
+                type: fields
+                fields:
+                    details: fields/article-details
+            generate-pdf:
+                type: article-pdf
+                label: Générer le PDF

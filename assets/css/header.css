@@ -13,7 +13,7 @@
 
 	display: flex;
 	/* justify-content: center; */
-	font-family: "Mercure Transcript";
+	font-family: var(--font-logo);
 	font-size: 1.75rem;
 }
 
@@ -43,7 +43,12 @@
 	column-gap: 2rem;
 }
 
-.site-header__nav-list-item:hover {
+.site-header__nav-list-item:hover,
+.site-header__nav-list-item:focus-visible {
+	text-decoration: underline;
+}
+
+.site-header__nav-list-item[aria-current="page"] {
 	text-decoration: underline;
 }
 

@@ -6,32 +6,41 @@ use ColorThief\ColorThief;
 
 \Kirby\Cms\App::plugin("postscriptum/issue-color", [
 	"hooks" => [
-		// TODO : Right now, this is only triggered when files
-		// are uploaded. There doesn't seem to be a hook for a
-		// file is selected in the panel.
 		"file.create:after" => function (Kirby\Cms\File $file) {
 			if ($file->template() == "cover") {
-				$palette  = findIssuePalette($file);
-
-				$biggest_difference = 0;
-				$color = $palette[0];
-
-				// Find the most vivid color from the image's palette. 
-				foreach ($palette as $c) {
-					$difference = max($c) - min($c);
-					if ($difference > $biggest_difference) {
-						$biggest_difference = $difference;
-						$color = $c;
-					}
-				}
-
-				$file->page()->update([
-					"color" => "rgb($color[0], $color[1], $color[2])"
-				]);
+				updateIssueColor($file->page(), $file);
+			}
+		},
+		"page.update:after" => function (Kirby\Cms\Page $newPage, Kirby\Cms\Page $oldPage) {
+			if ($newPage->intendedTemplate()->name() !== "issue") return;
+			$newCover = $newPage->cover()->toFile();
+			$oldCover = $oldPage->cover()->toFile();
+			if ($newCover && $newCover->id() !== ($oldCover ? $oldCover->id() : null)) {
+				updateIssueColor($newPage, $newCover);
 			}
 		}
 	]
 ]);
+
+function updateIssueColor($page, $file)
+{
+	$palette = findIssuePalette($file);
+
+	$biggest_difference = 0;
+	$color = $palette[0];
+
+	foreach ($palette as $c) {
+		$difference = max($c) - min($c);
+		if ($difference > $biggest_difference) {
+			$biggest_difference = $difference;
+			$color = $c;
+		}
+	}
+
+	$page->update([
+		"color" => "rgb($color[0], $color[1], $color[2])"
+	]);
+}
 
 function findIssuePalette($file)
 {

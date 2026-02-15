@@ -36,14 +36,14 @@ return [
 		/**
 		 * Maximum number of allowed characters
 		 */
-		'maxlength' => function (int $maxlength = null) {
+		'maxlength' => function (int|null $maxlength = null) {
 			return $maxlength;
 		},
 
 		/**
 		 * Minimum number of required characters
 		 */
-		'minlength' => function (int $minlength = null) {
+		'minlength' => function (int|null $minlength = null) {
 			return $minlength;
 		},
 		/**
@@ -73,16 +73,21 @@ return [
 			return $value;
 		}
 	],
+	'methods' => [
+		'emptyValue' => function () {
+			return '';
+		},
+	],
 	'validations' => [
 		'minlength' => function ($value) {
 			if (
 				$this->minlength &&
 				V::minLength(strip_tags($value), $this->minlength) === false
 			) {
-				throw new InvalidArgumentException([
-					'key' => 'validation.minlength',
-					'data' => ['min' => $this->minlength]
-				]);
+				throw new InvalidArgumentException(
+					key: 'validation.minlength',
+					data: ['min' => $this->minlength]
+				);
 			}
 		},
 		'maxlength'  => function ($value) {
@@ -90,10 +95,10 @@ return [
 				$this->maxlength &&
 				V::maxLength(strip_tags($value), $this->maxlength) === false
 			) {
-				throw new InvalidArgumentException([
-					'key' => 'validation.maxlength',
-					'data' => ['max' => $this->maxlength]
-				]);
+				throw new InvalidArgumentException(
+					key: 'validation.maxlength',
+					data: ['max' => $this->maxlength]
+				);
 			}
 		},
 	]

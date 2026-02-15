@@ -23,10 +23,16 @@ columns:
                 label: Bibliographie
     right:
         width: 1/3
-        fields:
-            details: fields/article-details
-            issued_date:
-                type: date
-                label: Date de publication
-                required: true
-                default: today
+        sections:
+            details:
+                type: fields
+                fields:
+                    details: fields/article-details
+                    issued_date:
+                        type: date
+                        label: Date de publication
+                        required: true
+                        default: today
+            generate-pdf:
+                type: article-pdf
+                label: Générer le PDF

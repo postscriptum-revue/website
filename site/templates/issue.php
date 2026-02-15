@@ -49,7 +49,7 @@
 
 <dl class="issue-credits">
 	<!-- TODO: Normalize terms. -->
-	<?php if ($cover->credit()->isNotEmpty()): ?>
+	<?php if ($cover && $cover->credit()->isNotEmpty()): ?>
 		<dt class="issue-credits__term">Image de couverture</dt>
 		<dd class="issue-credits__description">
 			<?= $cover->credit()->smartypants() ?>
