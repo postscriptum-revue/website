@@ -19,7 +19,24 @@ App::plugin('postscriptum/article-pdf', [
 					}
 
 					$html = buildArticleHtml($page);
-					$pdf = generatePdf($html);
+
+					// Header for even pages: issue info
+					$issueHeader = '';
+					if ($page->parent() && $page->parent()->template()->name() === 'issue') {
+						$issue = $page->parent();
+						$issueHeader = 'Post-Scriptum ' . $issue->num() . ' — ' . $issue->title();
+					}
+
+					// Header for odd pages: author and article title
+					$authors = [];
+					foreach ($page->authors()->toStructure() as $author) {
+						$authors[] = (string) $author->name();
+					}
+					$authorName = implode(', ', $authors);
+					$articleTitle = $page->title()->value();
+					$articleHeader = $authorName . ' — ' . $articleTitle;
+
+					$pdf = generatePdf($html, $issueHeader, $articleHeader);
 
 					// Save the PDF as a file on the page
 					$filename = Str::slug($page->title()) . '.pdf';
@@ -197,6 +214,10 @@ function buildArticleHtml($page)
 			margin-bottom: 0.3em;
 		}
 
+		.footnote-list__backlink {
+			text-decoration: none;
+		}
+
 		img {
 			max-width: 100%;
 		}
@@ -271,7 +292,7 @@ function sanitizeForPdf($html, $page)
 	return $html;
 }
 
-function generatePdf($html)
+function generatePdf($html, $issueHeader = '', $articleHeader = '')
 {
 	$options = new Options();
 	$options->set('isRemoteEnabled', true);
@@ -284,9 +305,23 @@ function generatePdf($html)
 	$dompdf->setPaper('letter');
 	$dompdf->render();
 
-	// Add page numbers (centered at bottom)
 	$canvas = $dompdf->getCanvas();
 	$font = $dompdf->getFontMetrics()->getFont('Times New Roman');
+
+	// Add headers on all pages except the first
+	// Even pages: issue info (Post-Scriptum {num} — {issue title})
+	// Odd pages: author — article title
+	if ($issueHeader || $articleHeader) {
+		$canvas->page_script(function ($pageNumber, $pageCount, $canvas, $fontMetrics) use ($issueHeader, $articleHeader) {
+			if ($pageNumber > 1) {
+				$font = $fontMetrics->getFont('Times New Roman');
+				$headerText = ($pageNumber % 2 === 0) ? $issueHeader : $articleHeader;
+				$canvas->text(72, 36, $headerText, $font, 9, [0, 0, 0]);
+			}
+		});
+	}
+
+	// Add page numbers (centered at bottom)
 	$canvas->page_text(
 		$canvas->get_width() / 2 - 15,
 		$canvas->get_height() - 36,
