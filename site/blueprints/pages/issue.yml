@@ -65,19 +65,20 @@ tabs:
             left:
                 width: 2/3
                 fields:
-                    intro_text: fields/text
-            right:
-                width: 1/3
-                fields:
                     intro_title:
                         type: text
                         label: Titre
                         placeholder: Texte de présentation
-                        help: |
-                            Évitez « Introduction ». Si vide, « Texte de présentation » sera affiché comme titre.
                     intro_subtitle:
                         type: text
                         label: Sous-titre
+                    intro_text: fields/text
+                    bibliography:
+                        type: list
+                        label: Bibliographie
+            right:
+                width: 1/3
+                fields:
                     intro_authors:
                         type: list
                         label: Auteur·trice(s)

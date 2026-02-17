@@ -50,6 +50,14 @@ Icon
 /site/config/.license
 
 
+# Composer vendor
+# ---------------
+/vendor
+
 # Content
 #----------------
-# /content
+/content
+
+# Claude Code
+# ---------------
+/.claude

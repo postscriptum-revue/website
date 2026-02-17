@@ -1,11 +1,14 @@
+<?php $cover = $page->cover()->toFile() ?>
 <header class="issue-header" data-type="issue">
-	<figure class="issue-header__cover">
-		<img
-			class="issue-header__cover-image"
-			src="<?= $page->cover()->toFile()->url() ?>"
-			alt="">
-		<figcaption><!-- TODO: Add figcaption field --></figcaption>
-	</figure>
+	<?php if ($cover): ?>
+		<figure class="issue-header__cover">
+			<img
+				class="issue-header__cover-image"
+				src="<?= $cover->url() ?>"
+				alt="<?= $cover->alt_text()->esc() ?>">
+			<figcaption><?= $cover->credit()->esc() ?></figcaption>
+		</figure>
+	<?php endif ?>
 	<div class="issue-header__card-wrapper">
 		<hgroup class="issue-header__card">
 			<p><?= formatDate($page->date(), "MMMM yyyy") ?></p>

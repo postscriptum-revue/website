@@ -19,6 +19,3 @@ function closeLightbox() {
 	lightbox.style.display = "none";
 }
 
-document.addEventListener("click", (e) => {
-	console.log(e.target)
-})

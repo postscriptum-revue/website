@@ -5,12 +5,16 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background-color: rgba(0, 0, 0, 0.75);
+	background-color: var(--color-lightbox-bg);
 	justify-content: center;
 	align-items: center;
-	padding: 4rem;
+	padding: var(--spacing-lg);
 	cursor: zoom-out;
 	z-index: 100;
+}
+
+.lightbox:focus {
+	outline: none;
 }
 
 .lightbox__image {

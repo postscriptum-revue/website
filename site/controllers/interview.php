@@ -3,7 +3,7 @@
 return function ($page) {
 	$issue_color = $page->parent()->color();
 
-	$meta_authors = [];
+	$authors = [];
 
 	foreach ($page->authors()->toStructure() as $author):
 		$authors[] = $author->name();
@@ -22,7 +22,7 @@ return function ($page) {
 	} else {
 		$first_p = $page->text()->toBlocks()->first();
 
-		if (!$first_p || str_contains($first_p, "http")) {
+		if (!$first_p || str_contains((string) $first_p, "http")) {
 			$meta_description = $page->title_and_subtitle() . " Post-Scriptum " . $page->parent()->num() . "(" . $page->fmt_date() . ")";
 		} else {
 			$first_p_clean = $first_p->text()->kirbytext()->excerpt();

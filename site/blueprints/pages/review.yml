@@ -18,9 +18,15 @@ columns:
                 label: Bibliographie
     right:
         width: 1/3
-        fields:
-            details: fields/article-details
-            date:
-                type: date
-                label: Date de publication
+        sections:
+            details:
+                type: fields
+                fields:
+                    details: fields/article-details
+                    date:
+                        type: date
+                        label: Date de publication
+            generate-pdf:
+                type: article-pdf
+                label: Générer le PDF
 

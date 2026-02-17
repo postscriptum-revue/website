@@ -1,0 +1,48 @@
+@media print {
+	body {
+		display: block;
+		padding: 0;
+		max-width: none;
+		font-size: 12pt;
+		line-height: 1.6;
+	}
+
+	main {
+		display: block;
+		border: none;
+		padding: 0;
+	}
+
+	.site-aside,
+	.site-header__nav,
+	.site-footer,
+	.lightbox,
+	.skip-link,
+	.site-aside__mobile-button {
+		display: none !important;
+	}
+
+	.site-header {
+		display: block;
+		margin-bottom: 1rem;
+	}
+
+	a {
+		text-decoration: underline;
+	}
+
+	img {
+		max-width: 100%;
+		max-height: none;
+		cursor: auto;
+		page-break-inside: avoid;
+	}
+
+	.text-section {
+		page-break-before: auto;
+	}
+
+	h1, h2, h3 {
+		page-break-after: avoid;
+	}
+}

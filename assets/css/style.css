@@ -27,3 +27,6 @@
 
 /* Blocks */
 @import url("snippets/blocks/image.css");
+
+/* Print */
+@import url("print.css");

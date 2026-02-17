@@ -50,7 +50,8 @@
 	text-align: center;
 }
 
-.site-aside__list-item:hover a {
+.site-aside__list-item:hover a,
+.site-aside__list-item a:focus-visible {
 	text-decoration: underline;
 }
 

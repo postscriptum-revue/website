@@ -2,8 +2,8 @@
 	<?php if ($cover = $page->cover()->toFile()): ?>
 		<header class="issue-header">
 			<figure class="issue-header__cover">
-				<img class="issue-header__cover-image" src="<?= $cover->url() ?>" alt="">
-				<figcaption><!-- TODO: Add figcaption field --></figcaption>
+				<img class="issue-header__cover-image" src="<?= $cover->url() ?>" alt="<?= $cover->alt_text()->esc() ?>">
+				<figcaption><?= $cover->credit()->esc() ?></figcaption>
 			</figure>
 			<div class="issue-header__card-wrapper">
 				<hgroup class="issue-header__card">

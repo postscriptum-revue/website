@@ -1,7 +1,7 @@
 <?php
 
 return [
-    "debug" => true,
+    "debug" => false,
     'locale' => 'fr_CA.utf-8',
     'date'  => [
         'handler' => 'intl'

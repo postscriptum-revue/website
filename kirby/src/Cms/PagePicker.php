@@ -29,12 +29,13 @@ class PagePicker extends Picker
 	 */
 	public function defaults(): array
 	{
-		return array_merge(parent::defaults(), [
+		return [
+			...parent::defaults(),
 			// Page ID of the selected parent. Used to navigate
-			'parent' => null,
+			'parent'   => null,
 			// enable/disable subpage navigation
 			'subpages' => true,
-		]);
+		];
 	}
 
 	/**
@@ -79,7 +80,7 @@ class PagePicker extends Picker
 	 * parent model that is currently selected
 	 * in the page picker.
 	 */
-	public function modelToArray(Page|Site $model = null): array|null
+	public function modelToArray(Page|Site|null $model = null): array|null
 	{
 		if ($model === null) {
 			return null;
@@ -129,7 +130,12 @@ class PagePicker extends Picker
 		// when subpage navigation is enabled, a parent
 		// might be passed in addition to the query.
 		// The parent then takes priority.
-		} elseif ($this->options['subpages'] === true && empty($this->options['parent']) === false) {
+		// Don't use the parent if it's the same as the start/top-most model.
+		} elseif (
+			$this->options['subpages'] === true &&
+			empty($this->options['parent']) === false &&
+			$this->model()->id() !== $this->start()->id()
+		) {
 			$items = $this->itemsForParent();
 
 		// search by query
@@ -178,7 +184,9 @@ class PagePicker extends Picker
 			$items instanceof Page  => $items->children(),
 			$items instanceof Pages => $items,
 
-			default => throw new InvalidArgumentException('Your query must return a set of pages')
+			default => throw new InvalidArgumentException(
+				message: 'Your query must return a set of pages'
+			)
 		};
 
 		return $this->itemsForQuery = $items;
