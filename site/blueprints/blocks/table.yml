@@ -1,0 +1,11 @@
+name: Tableau
+icon: table
+preview: dataTable
+fields:
+  caption:
+    label: Légende
+    type: writer
+    icon: text
+    inline: true
+  table:
+    type: table

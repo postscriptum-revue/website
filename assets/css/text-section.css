@@ -73,6 +73,32 @@
 	margin: 2rem 0;
 }
 
+.text-section table {
+	width: 100%;
+	margin: 2rem 0;
+	border: 1px solid #ddd;
+}
+
+.text-section th,
+.text-section td {
+	padding: 0.5rem 0.75rem;
+	border: 1px solid #ddd;
+	text-align: left;
+	vertical-align: top;
+}
+
+.text-section thead th {
+	font-weight: normal;
+	background: #f5f5f5;
+}
+
+.text-section caption {
+	caption-side: top;
+	padding-bottom: 0.5rem;
+	font-size: 0.9em;
+	color: #666;
+}
+
 @media (max-width: 850px) {
 	.text-section {
 		grid-column: 1 / -1;

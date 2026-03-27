@@ -4,8 +4,57 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b5c018a13b1acf2b68cb63711431a57c",
+    "content-hash": "84c4c7b872411c77f4fa4a7dbc6dbaea",
     "packages": [
+        {
+            "name": "bogdancondorachi/kirby-table-field",
+            "version": "2.4.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bogdancondorachi/kirby-table-field.git",
+                "reference": "2b30d3a51599cb3981b04f1241f0fb089ac8ed54"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bogdancondorachi/kirby-table-field/zipball/2b30d3a51599cb3981b04f1241f0fb089ac8ed54",
+                "reference": "2b30d3a51599cb3981b04f1241f0fb089ac8ed54",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/cms": "^4.0 || ^5.0",
+                "getkirby/composer-installer": "^1.2",
+                "php": ">=8.1.0 <8.5.0"
+            },
+            "type": "kirby-plugin",
+            "extra": {
+                "installer-name": "table-field",
+                "kirby-cms-path": false
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bogdan Condorachi",
+                    "email": "bogdan.condorachi@gmail.com",
+                    "homepage": "https://getkirby.com/plugins/bogdancondorachi"
+                }
+            ],
+            "description": "Table field plugin for Kirby CMS",
+            "homepage": "https://getkirby.com/plugins/bogdancondorachi/table-field",
+            "support": {
+                "issues": "https://github.com/bogdancondorachi/kirby-table-field/issues",
+                "source": "https://github.com/bogdancondorachi/kirby-table-field/tree/v2.4.2"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/bogdancondorachi",
+                    "type": "github"
+                }
+            ],
+            "time": "2025-05-08T18:56:00+00:00"
+        },
         {
             "name": "christian-riesen/base32",
             "version": "1.6.0",

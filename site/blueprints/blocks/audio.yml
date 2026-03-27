@@ -1,0 +1,14 @@
+name: Audio
+icon: music
+preview: fields
+fields:
+  audio:
+    label: Fichier audio
+    type: files
+    query: model.audio
+    multiple: false
+    required: true
+  caption:
+    label: Légende
+    type: writer
+    inline: true

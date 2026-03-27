@@ -8,3 +8,5 @@ fieldsets:
     - line
     - code
     - video
+    - audio
+    - table
