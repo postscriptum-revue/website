@@ -7,9 +7,10 @@ return function () {
 	$news_page = page("actualites");
 	$all_news = new Pages();
 
-	foreach ($news_page->children() as $news_section) { 
-		$all_news->add($news_section->children()->listed()->sortBy('issued_date', 'desc'));
+	foreach ($news_page->children() as $news_section) {
+		$all_news->add($news_section->children()->listed());
 	}
+	$all_news = $all_news->sortBy('num', 'desc');
 
 	$future_news = new Pages();
 	$today = strtotime('today');
@@ -27,7 +28,7 @@ return function () {
 	$recent_posts = pages()->children();
 	$timeAgo = strtotime('-3 months');
 
-	$comptesrendus = page('comptes-rendus')->children()->listed()->sortBy('date', 'desc');
+	$comptesrendus = page('comptes-rendus')->children()->listed()->sortBy('issued_date', 'desc');
 	$comptesrendus = $comptesrendus->filter(function ($comptesrendu) use ($timeAgo) {
 		return $comptesrendu->issued_date()->toDate() >= strtotime('-3 months');
 	});

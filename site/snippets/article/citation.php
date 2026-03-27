@@ -15,5 +15,5 @@ foreach ($authors as $i => $author) {
 
 	Post-Scriptum<?php if ($page->parent()->template() == "issue"): ?>
 		<?= ' ' . $page->parent()->num() ?><?php endif ?>.
-	(<?= formatDate($page->date(), 'MMMM yyyy', false) ?>).
+	(<?= formatDate($page->issued_date(), 'MMMM yyyy', false) ?>).
 </p>

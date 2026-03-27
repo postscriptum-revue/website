@@ -7,7 +7,7 @@
 			</figure>
 			<div class="issue-header__card-wrapper">
 				<hgroup class="issue-header__card">
-					<p><?= $page->fmt_date() ?? formatDate($page->date(), "MMMM yyyy") ?></p>
+					<p><?= $page->fmt_date() ?? formatDate($page->issued_date(), "MMMM yyyy") ?></p>
 					<h1 class="issue-header__card-title">
 						<?= $page->title()->smartypants() ?>
 					</h1>
@@ -46,7 +46,7 @@
 			<?= $page->subtitle() ?>
 		</p>
 		<p>
-			<?= $page->fmt_date() ?? formatDate($page->date(), "MMMM yyyy") ?>
+			<?= $page->fmt_date() ?? formatDate($page->issued_date(), "MMMM yyyy") ?>
 		</p>
 
 	<?php endif ?>

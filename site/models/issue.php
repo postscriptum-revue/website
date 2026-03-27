@@ -6,7 +6,7 @@ class IssuePage extends Page
 {
 	public function fmt_date()
 	{
-		$formatted_date = parent::date()->toDate("MMMM yyyy");
+		$formatted_date = $this->issued_date()->toDate("MMMM yyyy");
 		return ucfirst($formatted_date);
 	}
 

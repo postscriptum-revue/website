@@ -49,7 +49,7 @@
 	</dd>
 	<dt class="issue-credits__term">Date limite</dt>
 	<dd class="issue-credits__description">
-		<?= $page->submit_date()->toDate("d MMMM y") ?>
+		<?= $page->date_end()->toDate("d MMMM y") ?>
 	</dd>
 	<dt class="issue-credits__term">Date de parution</dt>
 	<dd class="issue-credits__description">

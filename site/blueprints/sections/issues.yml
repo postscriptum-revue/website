@@ -4,6 +4,6 @@ layout: cards
 template: issue
 flip: true
 text: "{{ model.title }}"
-info: "Nº{{ page.num }} — {{ page.date }}"
+info: "Nº{{ page.num }} — {{ page.issued_date }}"
 image:
     cover: true

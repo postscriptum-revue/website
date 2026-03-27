@@ -7,7 +7,7 @@ function formatDate($date, $format = 'dd.MM.yyyy', $ucfirst = true)
         $dateObj = new DateTime($date);
         
         $formatter = new IntlDateFormatter(
-            'fr_FR', // Locale set to French (France)
+            'fr_CA', // Locale set to French (Canada)
             IntlDateFormatter::NONE,
             IntlDateFormatter::NONE,
             null, // Use the default timezone (or specify one if necessary)

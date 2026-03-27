@@ -5,9 +5,9 @@ use Kirby\Cms\Page;
 class ArticlePage extends Page
 {
 
-	public function date()
+	public function issued_date()
 	{
-		return $this->parent()->date();
+		return $this->parent()->issued_date();
 	}
 
 	public function fmt_date()

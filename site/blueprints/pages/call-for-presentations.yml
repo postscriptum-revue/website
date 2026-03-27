@@ -30,7 +30,7 @@ columns:
                 multiple: false
                 uploads:
                     template: cover
-            issued_date:
+            date:
                 label: Date de l'évènement
                 type: date
                 required: true

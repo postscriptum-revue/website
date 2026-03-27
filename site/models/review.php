@@ -7,7 +7,7 @@ class ReviewPage extends Page
 
 	public function fmt_date()
 	{
-		$formatted_date = parent::date()->toDate("MMMM yyyy");
+		$formatted_date = $this->issued_date()->toDate("MMMM yyyy");
 		if (!$formatted_date) return $this->parent()->fmt_date();
 		return ucfirst($formatted_date);
 	}
@@ -37,9 +37,9 @@ class ReviewPage extends Page
 
 	public function nonEmptyDate()
 	{
-		$nonEmptyDate = $this->date();
+		$nonEmptyDate = $this->issued_date();
 		if ($nonEmptyDate == '') {
-			$nonEmptyDate = $this->parent()->date();
+			$nonEmptyDate = $this->parent()->issued_date();
 		}
 
 		return $nonEmptyDate;

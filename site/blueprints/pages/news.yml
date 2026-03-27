@@ -6,13 +6,16 @@ sections:
         type: pages
         parent: page.find("appels-de-textes")
         template: call-for-papers
+        flip: true
     call-talk:
         label: Appels à communications
         type: pages
         parent: page.find("appels-a-communications")
         template: call-for-presentations
+        flip: true
     event:
         label: Évènements
         type: pages
         parent: page.find("evenements")
         template: event
+        flip: true

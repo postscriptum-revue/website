@@ -15,7 +15,9 @@ if (in_array($page->template()->name(), ['article', 'interview', 'review', 'crea
 		"@type" => "ScholarlyArticle",
 		"headline" => $page->title()->value(),
 		"author" => $authors,
-		"datePublished" => $page->date()->toDate('Y-m-d'),
+		"datePublished" => $page->issued_date()->isNotEmpty()
+			? $page->issued_date()->toDate('Y-m-d')
+			: ($page->parent() ? $page->parent()->issued_date()->toDate('Y-m-d') : null),
 		"publisher" => [
 			"@type" => "Organization",
 			"name" => "Post-Scriptum"
@@ -53,7 +55,7 @@ if (in_array($page->template()->name(), ['article', 'interview', 'review', 'crea
 		"@type" => "PublicationIssue",
 		"issueNumber" => $page->num(),
 		"name" => $page->title()->value(),
-		"datePublished" => $page->date()->toDate('Y-m-d'),
+		"datePublished" => $page->issued_date()->toDate('Y-m-d'),
 		"url" => $page->url(),
 		"isPartOf" => [
 			"@type" => "Periodical",

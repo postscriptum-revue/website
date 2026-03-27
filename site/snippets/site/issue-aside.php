@@ -5,7 +5,7 @@
 		style="background-image: url('<?= $last_issue->cover()->toFile()->url() ?>')">
 		<hgroup class="last-issue__cover-card">
 			<p class="last-issue__cover-card-date">
-				<?= formatDate($last_issue->date(), "MMMM yyyy") ?>
+				<?= formatDate($last_issue->issued_date(), "MMMM yyyy") ?>
 			</p>
 			<h2 class="last-issue__cover-card-title">
 				<?= $last_issue->title()->smartypants() ?>

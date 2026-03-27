@@ -23,9 +23,10 @@ columns:
                 type: fields
                 fields:
                     details: fields/article-details
-                    date:
+                    issued_date:
                         type: date
                         label: Date de publication
+                        default: today
             generate-pdf:
                 type: article-pdf
                 label: Générer le PDF
