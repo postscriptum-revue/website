@@ -1,0 +1,75 @@
+Title: Aux adversaires dont je ne voulais pas
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: 
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Je ne vous fais pas de cadeau, en dépit du thème, c’est-à-dire que j’ai composé une sorte de mot d’intro. J’ai le luxe du premier mot, et de ne pas avoir à me soumettre au même exercice de forme que celui exigé par une communication académique, si littéraire soit-elle. J’ouvrirai donc de manière dégagée ce colloque, en dédiant cette ouverture aux adversaires dont je ne voulais pas. Sans renverser la figure centrale de ce colloque, à savoir l’amitié, vers le concept qui en est l’ombre, la figure de l’ennemi, je souhaite néanmoins entamer ces 2 journées en rendant un peu plus explicite la préoccupation centrale qui a guidé, il y a de cela plus d’un an, l’écriture de l’appel dont découle cet événement. Il y a une mièvrerie qui menace toute formulation sur l’amitié, mais qu’il n’est pas moins nécessaire de traverser pour rendre compte de ce que cet affect génère comme possibilités existentielles, comme alliances contre les héritages souvent lourds ou encore contre les testaments vides. L’amitié a été, chez moi, la relation consacrée, non dans une compétition inutile avec d’autres formes relationnelles, mais simplement car elle a été, de toutes les aventures humaines jusqu’à maintenant connues, celle qui a le plus correspondu à l’idéal d’une communauté débarrassée d’une logique de la maîtrise, de la possession, logique qui, si elle ne réside pas fatalement dans les amours ou dans certaines familles, semble plus facilement renaître dans ces liens-là. La communauté amicale était, pour le jeune lecteur et ami que j’ai été, le degré zéro des absolus, le lieu qui sans être neutre, neutralisait plutôt les menues catastrophes que je me prenais, en modeste personne, à percevoir dans un quotidien que j’estimais insupportable. « Qu’est-ce qui nous fait rire dans toutes ces catastrophes », demandait Deleuze pour évoquer le rire naturel (Boutang 2004 : 2 :22 :19), qui rythmait la relation amicale. L’accueil, par le rire, a forgé une notion détendue de l’hospitalité, d’un lieu reculé du monde par les notes du rires : je ne suis pas certain que ce colloque prenne nécessairement cette direction, et parce qu’assez comiquement, la plupart des textes qui portent sur le rire sont dépourvus de tout effet comique, je ne suis pas certain qu’un colloque dont l’appel aurait porté sur le rire aurait mieux réussi à ramener la pensée dans le territoire de l’hilarité. Bref, pour revenir à l’hospitalité, c’est depuis l’amitié que j’ai pu forger une notion de la littérature qui, sans non plus accorder au potin une valeur métaphysique, a été redevable aux relations amicales, littéraires ou non, qui demeuraient à proximité des livres. À cette ligne d’hospitalité, pourtant, j’ai bel et bien dérogé en réalisant, non sans angoisse, que je risquais de reproduire un arbitraire dont il fallait se déprendre. Les valeurs antiracistes et décoloniales, lesquelles, croisées à mes propres écueils dont j’avais refoulé l’admission, ont ainsi pu me mériter de recréer des frontières lorsque je les déclarais : ceci, alors même que je rêvais, très naïvement, la suspension des frontières cloisonnant certaines discussions pouvant engendrer des <em>inimitiés</em>, des personnes adverses dont j’avoue, est-ce par souci de douceur, ne pas avoir souhaité la prise hostile de position. Ces malaises, je les ai sous-estimés, car ma politique d’amitié a longtemps consacré une propension à éviter que je ne parle des zones bleues du cœur, ne voyant en elles que des « angoisses personnelles » pourtant peu susceptible d’être réglées de manière solitaires. Dans une chanson étrange mais dont le succès sur Internet, vers 2007, m’empêchait de réellement comprendre le sens acerbe, on peut entendre ces propos qui ne me quittent pas : « Chocolate Rain / Some stay dry / and others feel the pain / Makes the best of friends fight / Chocolate Rain / But did they know each other in the light. » (2007) La chanson, pointant très métaphoriquement vers les tensions raciales aux États-Unis, n’a pas manqué d’annoncer les discordes lorsque des différences estimées trop extrêmes ont coûté à la neutralité le peu de solidité dont elle dispose, différences dont l’expression ne supposaient pas toujours qu’elles activaient des jugements, quand bien même l’hostilité pouvait être perçue, de parts et autres. À ce jour, je n’ai jamais su quelles distinctions permettraient de rendre plus intelligible la frontière de l’amitié, frontière où, justement, le seuil de la différence serait tel qu’il en détruirait la présomption d’égalité entre les ami.es. Prenant exemple des traces coloniales et des rapports à la racialisation, je ne doute pas que d’autres perspectives et enjeux puissent, par analogie, susciter des tensions similaires : je pensais à l’héritage colonial car, d’une part, ç’a été un terrain d’escalade verbal assez efficace à différents moments, et parce que, d’autre part, une littérature de langue anglaise a été, pour moi, l’un des éveils plus poétique à ce que ces enjeux avaient de contaminants, d’extrêmement impitoyables : je pense à <em>Things fall apart</em> d’Achebe (1994), <em>Midnight’s Children </em>de Rushdie (1995) ou à <em>Nervous Conditions </em>de Tsitsi Dangarembga (2004), romans plus confrontant les uns que les autres, romans dont je n’ai pas réussi à transmettre, comme autrui, le cri très puissant. J’avoue ne pas encore très bien comprendre l’aspect plus affectif de la décolonisation. Les adversaires à qui je m’adresse indirectement sont appparu.e.s dans l’ombre même que jetait, inconsciemment, cette appréciation forte de l’amitié. Contrairement à ce qu’une préconception nous appellerait à croire, ces adversaires sont né.es dans le lieu non pas rompu du dialogue, mais au sein de celui-ci, dans une tentative maladroite de réduire l’espace de l’inimitié qui, finalement, l’agrandissait et le portait au-delà du seuil de l’hospitalité. En espérant suspendre la différence, je n’ai rien fait d’autre que de l’accentuer et la rendre plus lisible à moi comme à autrui, dans un mouvement qui surpassait généralement cette chose risible que serait une volonté de maîtrise. Du reste, les métaphores masculines de l’amitié, les bros, les frères, ou encore les <em>hermanos</em>, j’ai rêvé de les prononcer comme un agent double, en les trahissant dans l’ironie, et ce, non pour maintenir une dureté masculine qui reconduirait finalement ce qui aurait à être déconstruit, mais bien par une envie rebelle. De cette envie je voudrais trouver de nouveaux modèles littéraires qui ne soient pas aussi bornés par la conception virile de l’amitié, conception qui surpasse les stéréotypes et est bien plus pernicieuse qu’elle ne laisse croire. L’amitié donc, j’en ai cherché les traces dans des documents multiples, me concentrant plutôt sur les textes et tirant d’archives personnelles les énoncés qui m’ont, paradoxalement, attachés à elle. En effet, j’ai été romantiquement attiré par l’envie d’entretenir un empire de correspondance, pensant que les courriels pouvaient être le succédané de ces objets que je n’ai à peu près jamais côtoyés, c’est-à-dire les lettres. Enragé par un souci de profondeur, je ne crains pas de dire que j’ai pu <em>envahir</em> des boîtes de courriel de messages solennels, constituant une petite littérature de qualité douteuse mais sincère. Fouillant de manière désordonnée dans ces quelques traces, j’ai pu apprécier de redécouvrir que des fantasmes d’égalité se taillaient déjà une certaine place au sein de ce je pratiquais, même l’exercice d’écriture n’était pas sans donner davantage d’espace aux moments troubles, à l’expression plus ou moins passive de lézardes dans les relations. Ainsi, un ami qui a depuis longtemps égaré ce titre, m’avait déjà écrit, dans un contexte épistolaire lourd, que j’avais attenté à son respect et à son estime de même qu’à l’égalité constitutive de la relation, comparant notre relation à « une plante malade, étiolée, que l’on s’entête d’arroser avec du mauvais vin. » Arrosée ou non par du mauvais vin, ces lettres attestaient d’une intensité silencieuse mais écrite, qui précisait ce que devait être l’amitié, même lorsqu’elle semblait péricliter. C’est que, sans être exempte d’intensités, elle incarne l’utopie d’un calme, d’une proximité qui ne soit pas totalisante et qui, contrairement à d’autres relations, puisse mieux résister à l’arbitraire de nos héritages. En cette année qui doit avoir épuisé ce pauvre qualificatif qu’est le mot « étrange », le renfermement vécu par plusieurs, alors que d’autres crises se renforçaient pendant le temps pandémique, conférait au <em>minimalisme social </em>une saveur d’autant plus frustrante qu’elle accentuait l’absence des espaces requis pour seulement parler. Comment ne pas souligner ce changement inattendu, qui affecte le sens dont est investi un colloque, tout « parler-avec », toute conversation, semblant annulé par la distance qui, à sa manière, nous lie ? Sans chanter les louanges de la présence ni celles de la voix ni la beauté des locaux inaccessibles de l’Université, la communauté improvisée par les lieux du savoir et de la littérature requiert une armée de signes, de gestes, de symboles, qui ancre la pensée dans des relations qu’elle-même ne cherche pas toujours à souligner. Alliances, proximités, gardes rapprochées, communautés inavouables, les relations ont leur métaphore et, avec elles, le mouvement de leur forme, la silhouette de leur sens. Ainsi, ce colloque salue, et ce, j’insiste, en toute modestie, les <em>amigxs</em>, les <em>nakamas</em>, les <em>homies</em>, la grosse gang de chum et chumettes, les p’tits bums, les chères ami-e-s, les <em>dear friends</em>, les amitiés qui traînent dans le fond d’une photo, celles qui vont dans le contresens de l’attente, celles qui, dans un souci de la gratuité, épuisent leurs participant.es, les amitiés envers les fantômes et les disparu.es dont la littérature déborde, les camarades cachés dans les notes de bas page, les clins d’œil que personne ne voit, oui, ce colloque salue les complicités de corridor, la conjuration indirecte des amitiés, les coalitions des bâtard-e-s, les conflits d’intérêt, le dissensus quand il n’est pas accompagné d’une référence à Rancière, ce colloque salue la communauté, pour reprendre ce vieux cliché, de ceux, celles, et celleux qui n’ont pas de communauté, il salue les remerciements, les messages awkward, les messages auxquels on ne répond jamais, les prises de distance, les retrouvailles réussies, la mort de la solitude, les amitiés mortes et celles qui n’auront jamais de lieu, il salue les philosophes qui combinent et fusionnent la publicité de la pharmacie Jean Coutu, « là où on trouve un ami », aux larmes de Montaigne, et que sais-je encore, en espérant que la convivialité du mot ne soit pas ici que conceptuelle : la pratique universitaire, pour ce qu’elle a d’étrange, doit être envisagée depuis les affects et les relations qu’elle produit, puisqu’en dépit des mécanismes d’isolement qui renforcent l’illusion que nous travaillons et lisons seul.e.s, mécanismes qui demeurent fidèles à une notion stérile d’un sujet, le monde intellectuel, comme la littérature dont il est interdépendant, me laisse entrevoir qu’on fini tôt ou tard par être l’invité.e de la différence, qu’on s’en aperçoive ou non. Je ne peux que souhaiter que les multiples communications présentées ici esquissent le petit infini auquel l’amitié a été associée, et en mon nom comme en celui de Post-Scriptum, je nous souhaite un excellent colloque.</p>"},"id":"e13db43a-be34-4465-b352-7781100141d8","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: <ul><li>Achebe, Chinua.&nbsp;<em>Things Fall Apart</em>. New York : Anchor Books, 1994.</li><li>Dangarembga, Tsitsi.&nbsp;<em>Nervous Conditions : A Novel</em>. Banbury : Ayebia Clarke, 2004.</li><li>Rushdie, Salman.&nbsp;<em>Midnight’s Children</em>. New York : Knopf, 1995.</li><li><strong>Vidéographie</strong></li><li>«&nbsp;«&nbsp;Chocolate Rain&nbsp;» Original song by Tay Zonday&nbsp;». Youtube, Fichier vidéo, 4:52, publié par TayZonday, 23 avril, 2007. <a href="https://www.youtube.com/watch?v=EwTZ2xpQwpA">https://www.youtube.com/watch?v=EwTZ2xpQwpA</a> (dernière consultation&nbsp;: 2 décembre 2020)</li><li>Boutang, Pierre-André. <em>L’abécédaire de Gilles Deleuze</em>. Paris&nbsp;: Éditions Montparnasse, 2004, 3 DVD.</li></ul>
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Renato Rodriguez-Lefebvre
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+References:
+
+- Achebe, Chinua. <em>Things Fall Apart</em>. New York : Anchor Books, 1994.
+
+Dangarembga, Tsitsi. <em>Nervous Conditions : A Novel</em>. Banbury : Ayebia Clarke, 2004.
+
+Rushdie, Salman. <em>Midnight's Children</em>. New York : Knopf, 1995.
+<h3>Vidéographie</h3>
+« "Chocolate Rain" Original song by Tay Zonday ». Youtube, Fichier vidéo, 4:52, publié par TayZonday, 23 avril, 2007. https://www.youtube.com/watch?v=EwTZ2xpQwpA (dernière consultation : 2 décembre 2020)
+
+Boutang, Pierre-André. <em>L’abécédaire de Gilles Deleuze</em>. Paris : Éditions Montparnasse, 2004, 3 DVD.
+
+----
+
+Number: 1
+
+----
+
+Uuid: W2bqgcM6bWHdg8ur

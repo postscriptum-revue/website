@@ -1,0 +1,65 @@
+Title: Cadran sur pied
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: Penser le temps hors du moment
+
+----
+
+Abstract-fr: <p>Regarder sa montre, c’est se projeter dans un continuum temporel où le présent est calculé à la seconde près, où les évènements sont sagement rangés selon une chronologie causale, où le temps est placé sur le piédestal d’une objectivité partagée. Lorsque je me lève le matin, mon cadran décide combien de temps j’ai pour me préparer, pour manger, sortir et me déplacer vers mon premier rendez-vous. Cette conception du temps est ontique, elle reste instrumentale et vise la fonctionnalité. Mais le désir moderne résiduel qu’on retrouve toujours dans la méthode scientifique cherche à observer les phénomènes de l’extérieur, ce qui cause un réel problème lorsqu’on considère la notion de temps. Qu’est-ce que pourrait bien vouloir dire penser hors du temps ? Comme c’est souvent le cas pour ce genre de problématiques beaucoup trop abondantes, je ne crois pas qu’une réponse permettra de clore le problème. Par contre, je tenterai d’approcher asymptotiquement la possibilité d’une telle pensée par le biais des Sirènes de Titan de Kurt Vonnegut, un livre qui offre une mise en scène de ce que le temps chronologique pourrait devenir phénoménologiquement pour un être qui s’en serait extirpé.</p>
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"url":"https://youtube.com/watch?v=AQnGp6DcBCs","caption":""},"id":"f7b1d42d-d59f-4b01-8a29-ca7208630e2a","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Benoit Faucher
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+References: -
+
+----
+
+Number: 2
+
+----
+
+Uuid: FBjrVo8m7IvQvO5K

@@ -38,7 +38,7 @@ tabs:
                     issued_date:
                         type: date
                         label: Date de parution
-                        help: Le jour n'importe pas.
+                        help: Le jour n’importe pas.
                         default: today
                         required: true
                     credit_editors:

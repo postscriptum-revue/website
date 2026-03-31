@@ -1,0 +1,65 @@
+Title: La littérature comme aller-vers
+
+----
+
+Subtitle: Pour une épistémologie littéraire extra-humaine
+
+----
+
+Cover: - file://6Mo94ScI1TFibDrl
+
+----
+
+Date: 2026-08-12
+
+----
+
+Issued-date: 2026-08-12
+
+----
+
+Credit-editors: <ul><li>Jonathan Paquette</li><li>Hugo Satre</li></ul>
+
+----
+
+Credit-revision: L’équipe de Post-Scriptum
+
+----
+
+Credit-webmaster: L’équipe de Post-Scriptum
+
+----
+
+Intro-title: En éclaireuse : la pensée lointaine du littéraire
+
+----
+
+Intro-subtitle: 
+
+----
+
+Intro-text: [{"content":{"text":"Je reste encore un long moment assis là. La lumière disparaît progressivement, tout ce monde végétal devient de plus en plus sombre devant mes yeux. De tous côtés commencent à se lever les cris des animaux nocturnes, invisibles dans le feuillage noir. Pas un signe de vie humaine. Excepté, quand l’obscurité se fait plus épaisse et que les premières étoiles commencent à paraître, de l’autre côté de cette étroite gorge abrupte, sur une petite partie plus plane de la ligne de crête, incurvée au milieu des bois comme une selle, chaque nuit, chaque nuit, toujours à la même heure, cette petite lumière qui s’allume soudain.","citation":"Antonio Moresco, <em>La petite lumière</em>"},"id":"60fcc8f8-7c7d-4daf-bf35-968a3f8c5a74","isHidden":false,"type":"quote"},{"content":{"text":"<p>&nbsp;En marge des lectures thématiques et des visions plus strictement représentatives, au sein desquelles le littéraire incarnerait le faire-valoir ou le cas exemplaire d’une situation à décrire, à défendre, à critiquer, le colloque et le dossier auxquels donnent aujourd’hui forme ces actes furent envisagés comme autant de pistes possibles à la contemplation d’un autre rapport à la littérature. Ce rapport, tel qu’il a été imaginé, et peut-être plus essentiellement fantasmé, est celui où s’épousent l’acte d’écriture et de lecture des œuvres littéraires, ainsi que l’acte de pensée qu’il irrigue, permettant par un travail de l’imaginaire de décloisonner le territoire du pensable, de l’étendre par-delà les modalités d’une réflexion ceinte par les strictes limites de l’expérience empirique.&nbsp;</p><p>Cet aller-vers, donc, de la littérature comme source de la pensée, nous ne l'envisagions pas comme fondé sur le principe d'une destination établie en amont, précédant l'écriture puis l'interprétation des textes. Conscients de ce qui, dans les affaires de l’écriture, de sa création, échappe à la volonté, au savoir, à la conscience, même, cet aller-vers désigne plutôt la manière dont la littérature semble toujours déjà à l’avant, devançant les présupposés de nos projets et de nos interprétations. La littérature, en ce sens, apparaît comme ce qui commande toujours depuis le lointain un aller-vers, un mouvement, une trajectoire, un déplacement qui ne précise jamais le lieu de son arrivée – et dont la condition <em>sine qua non</em>, de fait, est peut-être même son effacement.</p><p>À l’instar d’une lumière scintillante au loin, qui fait de la noirceur le véhicule même de son apparition, la littérature, ici, ne coïncide jamais tout à fait avec les rives du propos, de la thèse, peut-être même, d’ailleurs, de l’idée. Comme cette lumière dont la puissance de l’appel s’accroît à mesure que sa distance s’agrandit, plus la littérature <em>brille</em>, écrivait Walter Benjamin, <em>comme à l’instant d’un dernier péril</em>, plus elle éclaire l’étendue d’un parcours offert à la pensée. Envoyée en éclaireur, c’est ainsi, de loin, qu’elle nous permet d’envisager autrement les idées que nous nous faisons des choses, du monde, des êtres et de leurs rapports, puis, dans leur suspension, qu’elle éclaire le possible renouvellement du pensable en cautionnant le dépassement de la frontière qui sépare le pensé de l’impensé.</p><p>La constellation sous laquelle s’élabore un tel renouvellement du pensable, dans le présent dossier, compte parmi ces astres Ibtisam Azem, Guillaume Dustan, Émile Habibi, Maia Kobabe, Deborah Levy, Maël Maréchal, Léonora Miano, The Blaze, Hillegonda Rietveld, Emily Zhou. Leur lecture, leur approche, l’aller-vers de leurs œuvres constituent le mouvement des articles que voici et de leurs auteurs et autrices.</p><p><strong>Amélie Ducharme</strong> explore, à travers les œuvres romanesque et <em>bédéistique</em> de Maia Kobabe et Maël Maréchal, l’expérimentation littéraire d’un dépassement du binarisme identitaire. En échoit, à mi-chemin des genres littéraires, des figures mythiques et des personae littéraires, une conception du littéraire comme lieu d’exploration et d’affronts des évidences structurant traditionnellement la représentation des identités.</p><p>Centré sur le principe d’autophagie et sur l’exploration inaugurale de sa forme littéraire, l’article d’<strong>Alexandru Fechet</strong> fait se rejoindre la théorie littéraire, psychanalytique et linguistique afin de proposer, dans l’œuvre de Guillaume Dustan, les rouages dévorants d’une dialectique entre pulsion de mort, ordre symbolique et pensée esthétique. En son sein, s’y révèle une paradoxale utopie du corps, dont la jouissance est un affront répété au phallogocentrisme du texte et aux structures hétéro-patriarcales de l’ordre sociopolitique.</p><p>Sous la forme d’une recherche-création, <strong>Gabrielle Chartrand </strong>propose une réflexion sur le rapport entre pratique et théorie qui sonde d’emblée la part du corps dans la réception intuitive des œuvres littéraires de Deborah Levy. Depuis cette œuvre et depuis l’expérience du corps qu’elle mobilise, Gabrielle Chartrand s’engage ensuite sur la trajectoire d’une pensée inscrite dans le sillage de la musique électronique et dans l’ouverture par elle permise d’un dépassement de la frontière entre ces deux postures épistémologiques.</p><p>À contrepied des discours alarmistes qui voudraient nous faire croire à l’inéluctable dépassement de l’humain par la machine, <strong>Joaquín Jesús Marto</strong> nous invite, par une comparaison de ces deux entités, à s’extirper de l’idée de concurrence qui structure et paralyse d’ordinaire notre manière de comprendre l’intelligence artificielle. À travers une sorte de test de Turing réinventé, l’auteur s’emploie à mesurer, à l’aune des capacités humaines, l’étendue de ce que peut la machine sur le plan de la créativité et en vient à distinguer deux régimes créatifs foncièrement distincts, et peut-être complémentaires.</p><p><strong>Euryale Cliche-Laroche</strong> propose de problématiser, sans pour autant la fixer, c’est-à-dire en respectant ce qu’elle a de pluriel, d’inassignable, la subjectivité trans. Appuyant sa réflexion sur le recueil de nouvelles <em>Girlfriends</em> d’Emily Zhou, elle investit cette zone encore largement inexplorée, angle mort du monde académique qui peine à s’en saisir, que représente les relations t4t (<em>trans for trans</em>, ou trans pour trans en français). Loin de se résumer à une orientation érotique, ce mode relationnel est traversé de potentialités révolutionnaires qu’excave Euryale Cliche-Laroche.</p><p>L’écriture de la disparition dans un contexte palestinien, telle que l’envisage <strong>Emmanuelle Passelande</strong>, repose sur la mise en scène imaginaire d’un effacement. Or, cet effacement spéculatif, répondant à un autre effacement, bien réel cette fois, n’est en rien une capitulation, ou un passage au néant. Pour l’autrice, il se joue là l’aménagement, à l’intérieur de la structure coloniale, d’un espace de réflexion, d’imagination (ici les deux vont de pairs), qui ne serait pas broyé par cette même structure coloniale, avalé par cette dialectique du maître et de l’esclave enfermant le sujet dans le reflet de cet autre duquel il voudrait s’émanciper.&nbsp;</p><p><strong>Amélie Aristelle Ekassi</strong> inscrit le travail de la romancière Léonora Miano dans la filiation du geste platonicien : l’écrivaine s’emploie à fonder par l’imagination une utopie afin d’envisager ce qui pourrait être, sans pour autant nier ce qui a été. D’après Amélie Aristelle Ekassi, l’utopie chez Miano ne relève pas de la table rase, ne s’incarne pas sur le mode d’une négation du passé ; elle est plutôt le prétexte pour concevoir des manières d’actualiser la tradition, de la réhabiliter sans s’aliéner le présent, c’est-à-dire sans se réfugier dans le fantasme. L’autrice nous permet alors d’envisager, à partir du contexte de l’Afrique subsaharienne, ce qui, dans le travail de décolonisation, relève d’une réappropriation par le colonisé de la puissance de son imaginaire.&nbsp;</p><p></p>"},"id":"71f83fa3-61fa-4662-978b-568ebeee5f9b","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Intro-authors: <ul><li>Jonathan Paquette</li><li>Hugo Satre</li></ul>
+
+----
+
+Uuid: RykHultwPqWN4ESN
+
+----
+
+Logo-style-p: 02
+
+----
+
+Logo-style-s: 07
+
+----
+
+Color: rgb(138, 123, 90)

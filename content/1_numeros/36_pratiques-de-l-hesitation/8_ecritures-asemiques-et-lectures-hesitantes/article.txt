@@ -1,0 +1,49 @@
+Title: Écritures asémiques et lectures hésitantes
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: Écritures asémiques et lectures hésitantes
+
+----
+
+Subtitle: 
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"text":"<p>Écritures asémiques : ces inscriptions énigmatiques sont, dans les mots de Roland Barthes, des <em>écritures illisibles </em>– deux mots, deux univers, un lien paradoxal. Ce sont d’abord des ensembles de signes qui, parce qu’ils imitent ou évoquent des écritures, invitent l’esprit à y lire quelque chose. Mais ce sont ensuite et aussi des inscriptions illisibles, et ce que l’esprit est invité à lire reste en suspens, insaisissable et indéchiffrable, faute de retrouver dans les signes d’écriture un sens familier. Là, déjà, naît l’hésitation.</p><p>Dans <em>Annotations</em>, l’hésitation qui provient des signes asémiques, c’est-à-dire inventés, inconnus ou détournés de leur usage habituel, se double de l’hésitation propre à la pratique d’écriture : surlignages en couleur pour isoler et retenir l’idée en gestation, puis ratures, biffures, renoncements, reprises, ailleurs sur la page, à côté, par-dessus. L’hésitation s’inscrit dans l’épaisseur du texte, dans sa texture, littéralement. <em>L’Art poétique</em> multiplie par quinze l’hésitation déjà redoublée d’<em>Annotations</em>. Peut-être est-ce la même page de tâtonnements superposés qui se reproduit, encore et encore, pour saturer d’encre et de perplexités la feuille de papier.</p>"},"id":"ce5df1ce-36d6-4ad8-a40c-1974223cb67a","isHidden":false,"type":"text"},{"content":{"image":["file://nxl8PHrCfpxB7HJf"],"alt":"Annotations","caption":"Annotations"},"id":"24a6b043-a868-4715-8006-9f6f27058395","isHidden":false,"type":"image"},{"content":{"image":["file://rEDDuy1Y5Mb9XhNT"],"alt":"L'art poétique","caption":"L'art poétique"},"id":"09a9c8b6-e268-4d3e-89ed-36592a17ea0c","isHidden":false,"type":"image"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: - file://Z2MiToyFxl4uiw0H
+
+----
+
+Authors:
+
+- 
+  name: Maya Berbery
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Uuid: ePLImJ0BQHEnHLjA

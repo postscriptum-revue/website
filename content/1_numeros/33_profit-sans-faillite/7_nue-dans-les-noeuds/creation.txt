@@ -1,0 +1,73 @@
+Title: Nue dans les noeuds
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: 
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"level":"h3","text":"<p>I</p>"},"id":"d6de820b-b701-41db-8372-8de0658329fd","isHidden":false,"type":"heading"},{"content":{"text":"<p>la journée est suppliante</p><p>l’objet est beau</p><p>puisqu’il est bleu</p><p>le noir par les fentes</p><p>je dis</p><p>allo</p><p>l’idée c’est de s’ensevelir</p><p>de tourner autour de photos</p><p>de vieillir</p><p>de mettre le savon sur la peau</p><p>de frotter</p><p>d’ensevelir</p><p>le passage de la lune sur mon ventre</p><p>du sang sur ma jambe</p><p>de l’enfance dans ma joie</p><p>par toutes les fenêtres</p><p>de toutes les villes</p><p>l’obscurité avance</p><p>bête cernée</p><p>ourse</p><p>épidurale</p><p>somatique</p>"},"id":"aea87a4c-a596-402b-badb-4fe59e6de4b2","isHidden":false,"type":"text"},{"content":[],"id":"ac1782ee-d04a-4a13-9d5c-6872681841de","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"<p>II</p>"},"id":"f6898bc1-f984-40e1-8024-75368c608424","isHidden":false,"type":"heading"},{"content":{"text":"<p>ô comme</p><p>la vie se prend</p><p>si j’avais à choisir</p><p>entre l’aube ou le soir</p><p>je dirais rien</p><p>j’aime cet état</p><p>de la lumière dégagée</p><p>par le côté sombre du lilas</p><p>ô mais quel délice</p><p>que mon enfance</p><p>plus j’y repense plus je vois</p><p>des îles de Pâques des masques</p><p>plus grands que des rochers</p><p>l’œil défait du cosmonaute</p><p>se trompant dans ses calculs</p><p>et l’oxydation et</p><p>le chiendent</p><p>sur les tuiles</p><p>de sa maison</p>"},"id":"a636ccf3-0977-41c7-8b4e-e49f9f373127","isHidden":false,"type":"text"},{"content":[],"id":"69b20b0a-66c7-4f1f-b8d9-666800311e31","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"<p>III</p>"},"id":"89365733-0bce-42b5-9ab6-ccfd32b25b23","isHidden":false,"type":"heading"},{"content":{"text":"<p>peur</p><p>de l’épuisement dans la haine</p><p>donc</p><p>je dis</p><p>wow</p><p>c’est malade</p><p>le soir tombant sur mon épaule</p><p>comme une ennemie</p><p>et je dors</p><p>ô comme je dors</p><p>la tête surélevée</p><p>le pied en angle</p><p>le coude défait</p><p>dans le rêve</p><p>ce qui défile</p><p>le drapeau jaune le lac orange</p><p>n’a plus de place pour la haine</p><p><em>la violence ouvre autre chose</em>[[Nelly Sachs]]</p><p>il faut la nommer</p><p>mais la force qui me manque</p><p>retrousse sur ma lèvre</p><p>c’est la nuit</p><p>et l’amitié et sa beauté</p><p>mes demoiselles d’honneur</p><p>pour ce mariage avec la lune</p><p>mon ventre de lune retournée</p><p>mon âme qui se cherche un visage</p><p>la rougeur de ce visage</p><p>que j’ai longtemps piloté</p><p>je peux le laisser dans le sable</p><p>la poussière et l’étable</p><p>je suis du côté du pénible</p><p>de l’eau claire</p><p>et de l’ordre</p>"},"id":"8853e7ac-16ae-4840-957d-213f0f774a91","isHidden":false,"type":"text"},{"content":[],"id":"afc1e76b-8ae9-42bc-ab67-e9d97049228a","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"<p>IV</p>"},"id":"7206c38a-1a17-4385-a41d-f23f298015e7","isHidden":false,"type":"heading"},{"content":{"text":"<p>et je veux dire que</p><p>quand j’aime une fois</p><p>je suis incapable de synthèse</p><p>rentrer les sentiments dans l’enveloppe étroite des heures</p><p>je voudrais</p><p>treize matins dans mon matin</p><p>et je te voudrais quatorze fois de suite</p><p>en basculant la tête quand tu sors de l’odeur de l’eau</p><p>combien de fois on peut se quitter</p><p>par pensée et ne rien comprendre</p><p>aux bruits des papillons au bout du lit</p><p>et j’ai une peau un sexe un sens à démêler</p><p>un discours situé</p><p>je suis au cœur</p><p>du nœud j’ai peur</p><p>ô comme j’ai peur</p><p>ça s’assoie à côté de toi</p><p>dude en coat noir qui marche dans l’allée</p><p>de l’église au moment des vœux</p><p>en flingue lourd</p><p>en merle de trop dans le poème</p><p>en quelque chose qui veut percer voler</p><p>la lumière chère en mille plumes de lave</p><p>casser les pierres en travers des corps</p><p>à travailler dur à se méprendre</p><p>la cire des chandelles roses</p><p>ensevelit</p><p>l’amour</p><p>dans son habit trop tight</p><p>et quelque chose et quelqu’un pleure</p><p>dans la chambre fermée</p>"},"id":"51d36009-e55e-4a2d-9657-5f762834467c","isHidden":false,"type":"text"},{"content":[],"id":"3df2662b-46be-454f-8b71-4c5230598887","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"<p>V</p>"},"id":"d0a7c4ce-70ee-475d-bdf3-55d2661da0ca","isHidden":false,"type":"heading"},{"content":{"text":"<p>j’ai tenu</p><p>la corde du nœud</p><p>j’ai collé le mot à l’image</p><p>écouté la même chanson</p><p>écrit</p><p>sur une table qui tombe</p><p>et sous la table</p><p>les veinures dans les feuilles</p><p>la terre est sombre</p><p>la sève amène le vert au cèdre</p><p>le chevreuil trébuche dans son jour</p><p>les couleurs l’ont laissé passer</p><p>il dit merci et l’histoire reprend son deuil</p><p>les corps vont trop vite dans les chars</p><p>la forêt monte et tombe dans son feuillage</p><p>et je sais que l’eau n’est pas bleue</p><p>que c’est une invention de l’âme</p><p>il me faut regarder</p><p>dans la douleur</p><p>c’est un jeu du monde</p><p>comme recrachée des forges</p><p>l’épée encercle la plaie</p><p>là où mon cou s’ouvre déchargé</p><p>à ta main tiède</p><p>il faut peser le long des veines</p><p>au bord des canaux troubles</p><p>ma bête cernée</p><p>d’ourse bleue</p><p>nue dans mes nœuds</p>"},"id":"d89b9171-b4e4-44e7-b7f1-8d3fe631cb5b","isHidden":false,"type":"text"}]
+
+----
+
+Bibliography: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Orane Thibaud
+  affiliation: Autrice
+
+----
+
+Keywords: 
+
+----
+
+Summary-fr: 
+
+----
+
+Summary-en: 
+
+----
+
+References:
+
+- 
+
+<a href="#_ftnref1" name="_ftn1">[1]</a> Nelly Sachs
+
+----
+
+Number: 6
+
+----
+
+Uuid: RRgwKuzKsNQQkVX2
+
+----
+
+Date: 

@@ -1,0 +1,37 @@
+Title: Entretien et lecture de poésie avec Elissa Kayal
+
+----
+
+Subtitle: 
+
+----
+
+Intro-text: 
+
+----
+
+Intro-bibliography: 
+
+----
+
+Cover: - file://FkHf5RQ2EwoQ6a60
+
+----
+
+Date-start: 2025-10-28
+
+----
+
+Date-end: 2025-10-28
+
+----
+
+Organizers: <ul><li>Glenda Ferbeyre Rodriguez</li><li>Sarah Labelle</li></ul>
+
+----
+
+Uuid: RJ6dfAPrZh82dNdi
+
+----
+
+Color: rgb(246, 15, 41)

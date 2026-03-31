@@ -24,7 +24,7 @@
   "require": {
     "php": ">=8.0.0 <8.4.0",
     "getkirby/cms": "^5.0",
-    "dompdf/dompdf": "^3.1",
+    "mpdf/mpdf": "^8.2",
     "bogdancondorachi/kirby-table-field": "^2.4"
   },
   "config": {

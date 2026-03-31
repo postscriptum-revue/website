@@ -29,7 +29,7 @@ panel.plugin("postscriptum/article-pdf", {
 							this.message = "Erreur : " + response.message;
 						}
 					} catch (e) {
-						this.message = "Erreur lors de la génération.";
+						this.message = "Erreur : " + (e.message || e.response?.message || JSON.stringify(e));
 					}
 
 					this.loading = false;

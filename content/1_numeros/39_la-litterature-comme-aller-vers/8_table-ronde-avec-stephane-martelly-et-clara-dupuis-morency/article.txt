@@ -1,0 +1,60 @@
+Title: Table ronde avec Stéphane Martelly et Clara Dupuis-Morency
+
+----
+
+Title-needs-formatting: false
+
+----
+
+Formatted-title: 
+
+----
+
+Subtitle: 
+
+----
+
+Abstract-fr: 
+
+----
+
+Abstract-en: 
+
+----
+
+Text: [{"content":{"location":"web","url":"https://www.youtube.com/watch?v=M4AOdDdPIEA","video":[],"poster":[],"caption":"Enregistrement de la table-ronde avec Stéphane Martelly et Clara Dupuis-Morency","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"dffc935e-7c1a-4f2a-b3d7-e8abd09041c0","isHidden":false,"type":"video"}]
+
+----
+
+Bibliography: 
+
+----
+
+Cover: 
+
+----
+
+Pdf: 
+
+----
+
+Authors:
+
+- 
+  name: Hugo Satre
+  affiliation: Université de Montréal
+- 
+  name: Jonathan Paquette
+  affiliation: Université de Montréal
+
+----
+
+Keywords: 
+
+----
+
+Uuid: VFVHHIau0YbgASbs
+
+----
+
+Color: rgb(147, 110, 142)

@@ -1,0 +1,37 @@
+Title: De la coïncidence
+
+----
+
+Subtitle: Quand la littérature trouble le lien
+
+----
+
+Intro-text: [{"content":{"image":["file://jbfVcF1Jm6kEt7W9"],"alt":"Programmation du colloque De la coïncidence : Quand la littérature trouble le lien","caption":"Programmation du colloque De la coïncidence : Quand la littérature trouble le lien"},"id":"de4f97d9-9007-4708-8574-df78d0b0c522","isHidden":false,"type":"image"}]
+
+----
+
+Intro-bibliography: 
+
+----
+
+Cover: - file://MMaYPRpM45xcfvIN
+
+----
+
+Date-start: 2025-04-25
+
+----
+
+Date-end: 2025-04-25
+
+----
+
+Organizers: <ul><li>Aglaé Boivin</li><li>Thomas Filteau</li></ul>
+
+----
+
+Uuid: c2jNjBNAQhDDBohw
+
+----
+
+Color: rgb(241, 28, 36)
