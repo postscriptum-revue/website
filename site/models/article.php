@@ -10,6 +10,11 @@ class ArticlePage extends Page
 		return $this->parent()->issued_date();
 	}
 
+	public function nonEmptyDate()
+	{
+		return $this->parent()->issued_date();
+	}
+
 	public function fmt_date()
 	{
 		return $this->parent()->fmt_date();

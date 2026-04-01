@@ -18,7 +18,7 @@ $max = $max ?? null;
 				</ul>
 				<p class="toc__item-title"><?= $p->title_and_subtitle() ?></p>
 				<?php if (!isset($hiddenDate)): ?>
-				<p><?= formatDate($p->issued_date(), "MMMM yyyy") ?></p>
+				<p><?= formatDate($p->nonEmptyDate(), "MMMM yyyy") ?></p>
 				<?php endif ?>
 			</a>
 		</li>
