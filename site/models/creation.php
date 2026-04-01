@@ -12,6 +12,16 @@ class CreationPage extends Page
 		return ucfirst($formatted_date);
 	}
 
+	public function nonEmptyDate()
+	{
+		$nonEmptyDate = $this->issued_date();
+		if ($nonEmptyDate == '') {
+			$nonEmptyDate = $this->parent()->issued_date();
+		}
+
+		return $nonEmptyDate;
+	}
+
 	public function title_and_subtitle()
 	{
 		$title = parent::title()->smartypants();

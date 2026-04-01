@@ -28,28 +28,28 @@ return function () {
 	$recent_posts = pages()->children();
 	$timeAgo = strtotime('-3 months');
 
-	$comptesrendus = page('comptes-rendus')->children()->listed()->sortBy('issued_date', 'desc');
+	$comptesrendus = page('comptes-rendus')->children()->listed()->sortBy(fn($p) => $p->nonEmptyDate()->toDate(), SORT_DESC);
 	$comptesrendus = $comptesrendus->filter(function ($comptesrendu) use ($timeAgo) {
-		return $comptesrendu->issued_date()->toDate() >= strtotime('-3 months');
+		return $comptesrendu->nonEmptyDate()->toDate() >= strtotime('-3 months');
 	});
 	$recent_posts = $recent_posts->merge($comptesrendus);
 
-	$entretiens = page('entretiens')->children()->listed()->sortBy('issued_date', 'desc');
+	$entretiens = page('entretiens')->children()->listed()->sortBy(fn($p) => $p->nonEmptyDate()->toDate(), SORT_DESC);
 	$entretiens = $entretiens->filter(function ($entretien) use ($timeAgo) {
-		return $entretien->issued_date()->toDate() >= $timeAgo;
+		return $entretien->nonEmptyDate()->toDate() >= $timeAgo;
 	});
 	$recent_posts = $recent_posts->merge($entretiens);
 
-	$creations = page('creations')->children()->listed()->sortBy('issued_date', 'desc');
+	$creations = page('creations')->children()->listed()->sortBy(fn($p) => $p->nonEmptyDate()->toDate(), SORT_DESC);
 	$creations = $creations->filter(function ($creation) use ($timeAgo) {
-		return $creation->issued_date()->toDate() >= $timeAgo;
+		return $creation->nonEmptyDate()->toDate() >= $timeAgo;
 	});
 	$recent_posts = $recent_posts->merge($creations);
 
-	$recent_posts = $recent_posts->sortBy('issued_date', 'desc');
+	$recent_posts = $recent_posts->sortBy(fn($p) => $p->nonEmptyDate()->toDate(), SORT_DESC);
 
 	$isIssueMoreRecent = true;
-	if (count($recent_posts) > 0 && 	$recent_posts->last()->issued_date()->toDate() > $last_issue->issued_date()->toDate()){
+	if (count($recent_posts) > 0 && 	$recent_posts->last()->nonEmptyDate()->toDate() > $last_issue->issued_date()->toDate()){
 		$isIssueMoreRecent = false;
 	}
 

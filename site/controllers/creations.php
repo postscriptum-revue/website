@@ -5,7 +5,7 @@ use Kirby\Cms\Pages;
 return function ($site) {
 	$creations = $site->index()
 		->filterBy('template', 'creation')->listed()
-		->sortBy('issued_date', 'desc');
+		->sortBy(fn($p) => $p->nonEmptyDate()->toDate(), SORT_DESC);
 
 	$last_issue = page("numeros")->children()->listed()->last();
 
