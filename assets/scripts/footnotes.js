@@ -6,7 +6,7 @@ function alignFootnotes() {
 	const fn_refs = document.querySelectorAll(".footnote-ref");
 	let totalOffset = 0;
 	for (const ref of fn_refs) {
-		const fn = getFootnote(ref);
+		const fn = getFootnote(ref)?.closest(".footnote-list__footnote");
 		const offset = ref.offsetTop - totalOffset;
 		const margin = offset < 0 ? 0 : offset;
 		const fn_height = fn.getBoundingClientRect().height;

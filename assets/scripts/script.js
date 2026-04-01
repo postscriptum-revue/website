@@ -88,7 +88,7 @@
 	function alignFootnotes() {
 		let totalOffset = 0;
 		for (const ref of fn_refs) {
-			const fn = getFootnote(ref);
+			const fn = getFootnote(ref)?.closest(".footnote-list__footnote");
 			if (!fn) continue;
 			const offset = ref.offsetTop - totalOffset;
 			const margin = offset < 0 ? 0 : offset;
