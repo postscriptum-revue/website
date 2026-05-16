@@ -1,5 +1,5 @@
 <ul class="news-list">
-    <?php foreach ($all_news as $news_item) : ?>
+    <?php foreach ($all_news->limit(6) as $news_item) : ?>
         <li class="news-list__item">
             <a href="<?= $news_item->url() ?>">
                 <ul>
@@ -16,4 +16,9 @@
             </a>
         </li>
     <?php endforeach ?>
+    <?php if ($all_news->count() > 6) : ?>
+        <li class="news-list__see-all">
+            <a href="<?= page('actualites')->url() ?>">Toutes les actualités →</a>
+        </li>
+    <?php endif ?>
 </ul>

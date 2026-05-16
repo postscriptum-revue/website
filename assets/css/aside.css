@@ -50,6 +50,10 @@
 	text-align: center;
 }
 
+.site-aside__list-item a {
+	transition: color var(--transition-fast);
+}
+
 .site-aside__list-item:hover a,
 .site-aside__list-item a:focus-visible {
 	text-decoration: underline;
@@ -82,13 +86,28 @@
 	white-space: nowrap;
 }
 
+/* "Dernier numéro" book cover — reuses the list's book-cover classes
+   (.latest-issues__issue-*) with aside-specific sizing. */
+.last-issue-aside__book {
+	height: auto;
+}
+
+.last-issue-aside__book .latest-issues__issue-cover {
+	flex: none;
+	aspect-ratio: 1 / 1;
+}
+
+.last-issue-aside__book + .last-issue__toc {
+	margin-top: 2rem;
+}
+
 @media (max-width: 850px) {
 	.site-aside {
 		width: 75vw;
 		position: fixed;
 		top: 1rem;
 		left: calc(-75vw + 1rem);
-		transition: left 0.2s;
+		transition: left var(--transition-base);
 	}
 
 	body.site-aside-opened .site-aside {

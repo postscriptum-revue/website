@@ -2,12 +2,30 @@
 	grid-column: span 8;
 
 	border-top: 1px solid;
-	padding-top: var(--spacing-sm);
+	padding-top: var(--spacing-md);
+	padding-bottom: var(--spacing-sm);
 	font-size: var(--font-size-small);
+
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	gap: var(--spacing-md);
+	flex-wrap: wrap;
+}
+
+.site-footer a {
+	border-bottom: 1px solid transparent;
+	transition: border-color var(--transition-fast);
+}
+
+.site-footer a:hover {
+	border-bottom-color: var(--color-text);
 }
 
 @media (max-width: 850px) {
 	.site-footer {
 		grid-column: 1 / -1;
+		flex-direction: column;
+		gap: var(--spacing-xs);
 	}
 }

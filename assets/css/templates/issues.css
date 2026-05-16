@@ -3,3 +3,19 @@
 .body--template-interviews main {
 	grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
 }
+
+/* Fixed row height so every issue card is exactly the same height;
+   the cover flexes to absorb whatever space the title leaves.
+   align-items: stretch overrides the global grid default so cards
+   actually fill the row. */
+.body--template-issues main {
+	grid-auto-rows: 21rem;
+	align-items: stretch;
+	gap: 3rem;
+}
+
+@media (min-width: 600px) {
+	.body--template-issues main > a:first-child {
+		grid-column: span 2;
+	}
+}

@@ -22,6 +22,11 @@
 .latest-issues {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
+	/* First row holds the section title (auto); issue cards flow into
+	   21rem rows so they match the parutions page card height. */
+	grid-template-rows: auto;
+	grid-auto-rows: 21rem;
+	align-items: stretch;
 	gap: 2rem;
 }
 
@@ -46,7 +51,12 @@
 
 @media (max-width: 850px) {
 	.latest-issues {
-		margin-right: -1rem;
-		overflow: scroll;
+		grid-template-columns: 1fr 1fr;
+		gap: 1rem;
+	}
+
+	.home-section__title {
+		padding-top: 0.75rem;
+		padding-bottom: 0.25rem;
 	}
 }

@@ -2,9 +2,11 @@
 	text-align: center;
 }
 
-/* .toc__item .toc__item-title {
-	text-decoration: underline dashed 0.1px;
-} */
+.toc__item .toc__item-title,
+.toc__item_horizontal .toc__item-title {
+	transition: color var(--transition-fast);
+}
+
 .toc__item:hover .toc__item-title,
 .toc__item_horizontal:hover .toc__item-title{
 	text-decoration: underline;
@@ -35,6 +37,7 @@ The gap between lines is disproportionate otherwise. */
 	display: flex;
 	gap: 2rem;
 	align-items: center;
+	transition: transform var(--transition-fast);
 
 	picture {
 		display: block;
@@ -53,7 +56,12 @@ The gap between lines is disproportionate otherwise. */
 			height: 100%;
 			object-fit: contain;
 			cursor: pointer;
+			transition: transform var(--transition-base);
 		};
+	}
+
+	&:hover picture > img {
+		transform: scale(1.03);
 	}
 
 	> div{

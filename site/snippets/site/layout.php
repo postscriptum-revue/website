@@ -77,6 +77,9 @@ if ($page->cover() && $page->cover()->toFile()) {
 	</main>
 	<footer class="site-footer">
 		<p>&copy; <?= date('Y') ?> Post-Scriptum</p>
+		<nav class="site-footer__nav">
+			<a href="<?= page('a-propos')->url() ?>">À propos</a>
+		</nav>
 	</footer>
 	<?php snippet("site/lightbox") ?>
 </body>

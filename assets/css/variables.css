@@ -1,6 +1,8 @@
 :root {
 	--font-size-small: 0.8rem;
+	--font-size-base: 1rem;
 	--font-size-large: 1.25rem;
+	--font-size-xl: 1.5rem;
 	--letterspacing-uppercase: 0.1em;
 
 	--font-body: "Mercure", "Times New Roman", Times, serif;
@@ -11,11 +13,15 @@
 	--color-border: #000;
 	--color-focus: #4a69bd;
 	--color-lightbox-bg: rgba(0, 0, 0, 0.75);
+	--color-surface: #f8f7f5;
 
 	--spacing-xs: 0.5rem;
 	--spacing-sm: 1rem;
 	--spacing-md: 2rem;
 	--spacing-lg: 4rem;
+
+	--transition-fast: 0.15s ease;
+	--transition-base: 0.25s ease;
 }
 
 /* Skip link */

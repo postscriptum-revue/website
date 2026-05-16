@@ -28,6 +28,7 @@
 
 .text-section p a {
 	border-bottom: 1px dashed black;
+	transition: border-color var(--transition-fast);
 }
 .text-section p a:hover {
 	border-bottom: 1px solid black;

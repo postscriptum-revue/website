@@ -2,73 +2,27 @@
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 2rem;
+	padding-bottom: 2rem;
 }
 
-.last-issue__cover {
-	background-position: center;
-	background-size: cover;
-	height: 500px;
-	border: 1px solid gainsboro;
+/* Book cover — reuses the list's book-cover classes (.latest-issues__issue-*)
+   with home-specific sizing. */
+.last-issue__book {
+	align-self: start;
+	height: auto;
 }
 
-.last-issue__cover-card {
-	background-color: white;
-	padding: 2rem;
-	margin: 4rem 2rem 0 2rem;
-	text-align: center;
-	position: relative;
+.last-issue__book .latest-issues__issue-cover {
+	flex: none;
+	aspect-ratio: 1 / 1;
 }
 
-.last-issue__cover-card::after {
-	content: "";
-	position: absolute;
-	top: 1rem;
-	right: 1rem;
-	bottom: 1rem;
-	left: 1rem;
-	border: 1px solid var(--issue-color);
-}
-
-.last-issue__cover-card::before {
-	content: "";
-	position: absolute;
-	top: 0.75rem;
-	right: 0.75rem;
-	bottom: 0.75rem;
-	left: 0.75rem;
-	border: 2px solid var(--issue-color);
-}
-
-.last-issue__cover-card-date {
-	font-size: var(--font-size-small);
-}
-
-.last-issue__cover-card-title {
-	margin-top: 1rem;
-	text-transform: uppercase;
-	letter-spacing: var(--letterspacing-uppercase);
-}
-
-/* When there's no subtitle */
-.last-issue__cover-card-title:last-child {
-	margin-bottom: 2rem;
-}
-
-.last-issue__cover-card-subtitle {
-	margin-top: 1rem;
-	font-size: var(--font-size-small);
+.last-issue__toc {
+	align-self: center;
 }
 
 @media (max-width: 850px) {
 	.last-issue {
 		grid-template-columns: 1fr;
-	}
-
-	.last-issue__cover {
-		height: auto;
-	}
-
-	.last-issue__cover-card {
-		margin: 2rem 1rem 16rem 1rem;
 	}
 }
